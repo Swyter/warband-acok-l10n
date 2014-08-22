@@ -45,19 +45,6 @@ source_file = en/item_kinds.csv
 source_lang = en
 type = INI
 
-[acok.item_modifiers]
-file_filter = <lang>/modifiers.csv
-source_file = en/modifiers.csv
-source_lang = en
-type = INI
-
-
-[acok.item_modifiers]
-file_filter = <lang>/item_modifiers.csv
-source_file = en/item_modifiers.csv
-source_lang = en
-type = INI
-
 [acok.parties]
 file_filter = <lang>/parties.csv
 source_file = en/parties.csv
