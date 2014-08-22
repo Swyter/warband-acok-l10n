@@ -1,0 +1,1251 @@
+menu_start_game_options|You go for a stroll in the streets of your hometown, when you hear that King Robert has been gored to death by a large boar. The fish monger that you're speaking with tells you that Eddard Stark, the Hand of the King, tried to usurp the throne! But the valiant King Joffreys advisers managed to foil his plot, and peace has surely been restored. However, a few days later, a weary traveller arrives with more news. Following the imprisonment of Lord Stark, the northern lords marched south, to defeat the Lannisters and free their liege.  They ambushed the army of the Kingslayer, routed his forces and captured Ser Jaime, after which they broke the siege of Riverrun. All of a sudden, the odds seems to be turning against Joffrey, and his name is no longer shouted in the streets.  Making a quick decision, you decide to strike out, hurriedly selling off your meagre positions to a fat innkeeper, and packing only the most essential. You finally feel like you control your own destiny, and that whatever course you take, great deeds await you.
+mno_choose_options|Continue...
+mno_start_mod|Quick Character (for mod testing)
+mno_go_back|Go back
+mno_continue|Continue...
+menu_start_game_3|Choose your scenario:
+menu_tutorial|You approach a field where the locals are training with weapons. You can practice here to improve your combat skills.
+mno_go_back_dot|Go back.
+menu_reports|Character Renown: {reg5}^Honor Rating: {reg6}^Force Morale: {reg8}^Force Size Limit: {reg7}^^{reg9?Next wage:^{s1}:}
+mno_view_party_reports|View Personal Reports
+mno_dplmc_show_economic_report|View prosperity report.
+mno_resume_travelling|Resume travelling.
+menu_reference_reports|Reference Material
+mno_action_view_upgrade_trees|View Upgrade Trees
+mno_action_view_all_items|View All Items
+mno_action_view_trade_ledger|View Your Trade Ledger.
+mno_action_view_trade_ledger_denied|Assess Items to start your Trade Ledger.
+mno_return|Return
+menu_kingdom_reports|Kingdom Reports
+mno_view_faction_relations_report|View Sovereign Relations
+mno_kmt_lord_holdings|Review Lord Holdings
+mno_lord_relations|View Known Lords by Relation
+menu_personal_reports|Personal Reports
+mno_view_character_report|View Character Report
+mno_courtship_relations|View Courtship Relations
+mno_view_affiliated_family_report|View Affiliated Family Report
+mno_view_weekly_budget_report|View Weekly Budget
+menu_cheat_reports|Cheat Menu Reports
+menu_party_reports|Party Reports
+mno_view_party_size_report|View force size report.
+mno_view_morale_report|View force morale report.
+mno_Companions_overview|View companions overview.
+mno_view_npc_mission_report|View companion mission report.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|The battle is over. {s1} Your side killed {reg5} enemies and lost {reg6} troops over the battle. You personally slew {reg7} men in the fighting.
+menu_start_game_0|Welcome, adventurer, to A Clash of Kings, a modification based on the 'A Song of Ice and Fire' series by George R. R. Martin for Mount and Blade: Warband version 1.143. Before beginning the game you must create your character. Remember that in the traditional medieval society depicted in this world, war and politics are usually dominated by male members of the nobility. That does not, however, mean that you should not choose to play a female character, or one who is not of noble birth. Male nobles may have a somewhat easier start, but women and commoners can attain all of the same goals -- and in fact may have a much more interesting, if more challenging, early game.
+menu_start_game_1|Select your character's gender.
+mno_start_male|Male
+mno_start_female|Female
+menu_start_character_1|You were born years ago. Your father was...
+mno_start_noble|An impoverished noble.
+mno_start_merchant|A travelling merchant.
+mno_start_guard|A veteran warrior.
+mno_start_forester|A hunter.
+mno_start_nomad|JON STEWART.
+mno_start_thief|A thief.
+menu_start_character_2|{s10}^^ You started to learn about the world almost as soon as you could walk and talk. You spent your early life as...
+mno_page|A page at a nobleman's court.
+mno_apprentice|A craftsman's apprentice.
+mno_stockboy|A shop assistant.
+mno_urchin|A street urchin.
+mno_nomad|A dothraki child.
+menu_start_character_3|{s11}^^ Then, as a young adult, life changed as it always does. You became...
+mno_squire|A squire.
+mno_lady|A lady-in-waiting.
+mno_troubadour|A singer.
+mno_student|A citadel student.
+mno_peddler|A goods peddler.
+mno_craftsman|A smith.
+mno_poacher|A game poacher.
+menu_start_character_4|{s12}^^But soon everything changed and you decided to strike out on your own as an adventurer. What made you take this decision was...
+mno_revenge|Personal revenge.
+mno_death|The loss of a loved one.
+mno_wanderlust|Wanderlust.
+mno_disown|Being forced out of your home.
+mno_greed|Lust for money and power.
+menu_choose_skill|{s13}
+mno_begin_adventuring|Become an adventurer and ride to your destiny.
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report|{s1}
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+menu_camp|You find a suitable place to camp.^{s15}
+mno_camp_recruit_prisoners|Recruit some of your prisoners to your company.
+mno_camp_manage_inventory|Manage your companions' inventory.
+mno_camp_action|Take an action.
+mno_action_prebattle_custom_divisions|Manage Split Troop Assignments.
+mno_camp_wait_here|Wait here for some time.
+mno_camp_fishing|Try to catch some fish.
+mno_camp_inspect|Inspect your camp.
+mno_camp_entrench|{s1}
+mno_camp_mod_opition|Mod Options.
+mno_camp_cheat|CHEAT MENU!
+menu_camp_cheat|Select a cheat:
+mno_camp_cheat_find_item|Find an item...
+menu_camp_action|Choose an action:
+mno_action_read_book|Select a book to read.
+mno_action_change_party_name|Change your party's name.
+mno_action_rename_kingdom|Rename your sovereignty.
+mno_action_change_vassal_title|Change your vassals' title of nobility.
+mno_jump_to_scene|debug: test scene menu
+mno_action_modify_banner|Modify your noble banner.
+mno_action_export_import|Export or import character history.
+mno_action_retire|Retire from adventuring.
+mno_camp_action_4|Back to camp menu.
+menu_export_import_npcs|Please choose a character, then press the C key to view and export or import the chosen character history.^^You choose {reg0?{s0}:none}.
+mno_export_import_back|Go back
+mno_export_import_npc1|{s0}
+mno_export_import_npc2|{s0}
+mno_export_import_npc3|{s0}
+mno_export_import_npc4|{s0}
+mno_export_import_npc5|{s0}
+mno_export_import_npc6|{s0}
+mno_export_import_npc7|{s0}
+mno_export_import_npc8|{s0}
+mno_export_import_npc9|{s0}
+mno_export_import_npc10|{s0}
+mno_export_import_npc11|{s0}
+mno_export_import_npc12|{s0}
+mno_export_import_next|Next page
+menu_export_import_npcs_2|Please choose a character, then press the C key to view and export or import the chosen character history.^^You choose {reg0?{s0}:none}.
+mno_export_import_prev|Previous page
+mno_export_import_npc13|{s0}
+mno_export_import_npc14|{s0}
+mno_export_import_npc15|{s0}
+mno_export_import_npc16|{s0}
+mno_export_import_npc17|{s0}
+mno_export_import_npc18|{s0}
+mno_export_import_npc19|{s0}
+mno_export_import_npc20|{s0}
+mno_export_import_npc21|{s0}
+mno_export_import_npc22|{s0}
+mno_export_import_npc23|{s0}
+menu_camp_recruit_prisoners|You offer your prisoners freedom if they agree to join you as soldiers. {s18}
+mno_camp_recruit_prisoners_accept|Take them.
+mno_camp_recruit_prisoners_reject|Reject them.
+menu_camp_no_prisoners|You have no prisoners to recruit from.
+menu_camp_action_read_book|Choose a book to read:
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+mno_action_read_book_8|{s1}.
+mno_action_read_book_9|{s1}.
+mno_action_read_book_10|{s1}.
+mno_action_read_book_11|{s1}.
+mno_action_read_book_12|{s1}.
+mno_action_read_book_13|{s1}.
+menu_camp_action_read_book_start|{s1}
+menu_retirement_verify|You are at day {reg0}. Your current luck is {reg1}. Are you sure you want to retire?
+mno_retire_yes|Yes.
+mno_retire_no|No.
+menu_end_game|The decision is made, and you resolve to give up your adventurer's life and settle down. You sell off your weapons and armour, gather up all your money, and ride off into the sunset....
+mno_end_game_bye|Farewell.
+menu_cattle_herd|You encounter a herd of cattle.
+mno_cattle_drive_away|Drive the cattle onward.
+mno_cattle_stop|Bring the herd to a stop.
+mno_cattle_kill|Slaughter some of the animals.
+mno_leave|Leave.
+menu_cattle_herd_kill|How many animals do you want to slaughter?
+mno_cattle_kill_1|One.
+mno_cattle_kill_2|Two.
+mno_cattle_kill_3|Three.
+mno_cattle_kill_4|Four.
+mno_cattle_kill_5|Five.
+menu_arena_duel_fight|You and your opponent prepare to duel.
+menu_simple_encounter|{s2} You have {reg10} troops fit for battle against their {reg11}. {s4}^{s15}
+mno_change_commander_simple_encounter|Change commander.
+mno_deployment|Choose who will join you in battle.
+mno_orders|Plan your battle with the enemy.
+mno_do_orders|Enough planning. To battle!
+mno_clear_orders|Re-assess the situation.
+mno_hold|Take the field.
+mno_follow|Lead your troops.
+mno_encounter_attack|Charge the enemy.
+mno_encounter_order_attack|Order your troops to attack without you.
+mno_encounter_leave|Leave.
+mno_encounter_retreat|Pull back, leaving some soldiers behind to cover your retreat.
+mno_encounter_surrender|Surrender.
+menu_encounter_retreat_confirm|As the most tactically skilled avatar of your company, ({reg2}), {reg3?you devise:{s3} devises} a plan that will allow you and your men to escape with your lives, but you'll have to leave {reg4} soldiers behind to stop the enemy from giving chase.
+mno_leave_behind|Go on. The sacrifice of these men will save the rest.
+mno_dont_leave_behind|No. We leave no one behind.
+menu_encounter_retreat|You tell {reg4} of your troops to hold the enemy while you retreat with the rest of your force.
+menu_order_attack_begin|Your soldiers prepare to attack the enemy.
+mno_order_attack_begin|Order the attack to begin.
+mno_call_back|Call them back.
+menu_order_attack_2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}
+mno_order_attack_continue|Order your soldiers to continue the attack.
+mno_order_retreat|Call your soldiers back.
+menu_battle_debrief|{s11}^^Your Casualties:{s8}{s10}^^Enemy Casualties:{s9}^^Kill count:{s12}
+menu_total_victory|You shouldn't be reading this... {s9}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|You come across a battle between {s2} and {s1}. You decide to...
+mno_pre_join_help_attackers|Move in to help the {s2}. ({s21})
+mno_pre_join_help_defenders|Rush to the aid of the {s1}. ({s21})
+mno_pre_join_leave|Don't get involved.
+menu_join_battle|You are helping {s2} against {s1}. You have {reg10} troops fit for battle against the enemy's {reg11}. {s4}
+mno_change_commander_join_battle|Change commander.
+mno_join_attack|Charge the enemy.
+mno_join_order_attack|Order your troops to attack with your allies while you stay back.
+mno_join_leave|Leave.
+mno_join_wounded|You are too wounded to fight.
+menu_join_order_attack|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
+menu_odin_cave|You arrive at an outlaw lair.
+mno_enter|Enter the lair.
+menu_horror_cave|You arrive at the old barrow. You can hear a faint murmur from the inside...
+menu_brookwater_keep|You arrive at Brookwater Keep, the seat of House Darke.
+menu_haldon_bath|You arrive at a ruined public bath.
+menu_golden_company_camp|You arrive at the camp of the Golden Company.
+menu_dragonstone_village|You arrive at the village.
+menu_mole_town|You arrive at the outskirts of Mole Town.
+menu_bridge_of_skulls|You arrive at the Bridge of Skulls.
+menu_wall_tunnel|You arrive at the storerooms.
+menu_dragonmont|You arrive at the Sunken Ruins.
+menu_sorrows|You arrive at the Sorrows.
+menu_cairn_hall|You arrive at Cairnhall.
+menu_oldstones|You arrive at Oldstones.
+menu_nunns_deep|You arrive at Nunn's Deep.
+menu_summerhall|You arrive at the Ruins of Summerhall.
+menu_saltpans_isles|You arrive at the Quiet Isle.
+menu_isle_of_faces|You arrive at the Isle of Faces.
+menu_rodgars_hut|You arrive at Rodgars Hut.
+menu_naggas_hill|You arrive at Nagga's Hill.
+menu_tower_of_joy|You arrive at the Tower of Joy.
+menu_bloodstone|You arrive at Bloodstone.
+menu_harrentown|You arrive at the remains of Harrentown.
+menu_illyrios_manse|You arrive at the manse of Illyrio Mopatis.
+menu_water_gardens|You arrive at the Water Gardens.
+menu_castle_black|You arrive at Castle Black, the main stronghold of the Night's Watch.
+menu_nightfort|You arrive at The Nightfort.
+menu_castle_black2|You arrive at Castle Black.
+menu_castle_black3|You arrive at Castle Black.
+menu_castle_black4|You arrive at Castle Black.
+menu_castle_black5|You arrive at Castle Black.
+menu_shadow_tower|You arrive at the Shadow Tower.
+menu_shadow_tower2|You arrive at the Shadow Tower.
+menu_eastwatch|You arrive at Eastwatch-by-the-Sea.
+menu_abandoned_holdfast|You arrive at the Abandoned Holdfast.
+menu_nightfort_rat_cook|Soon after eating the paste, you sense your vision blurring. The weirwood branches extruding from the walls seem to close in on you, and you loose all sense of time and space. When you wake up, you're still in the Nightfort, but it is as if something is not quite the same. The walls are no longer covered in dust and cobwebs, and fires burn in the alcoves.
+menu_nightfort_mad_axe|Finishing your talk with the mad cook, you feel time shifting, and everything grows dark. As you regain your sense of being, you find yourself still in the Nightfort, but the sun has set, and it's the dead of night. As you try to gain a sense of direction, you hear soft footsteps echoing from down the hall, and an odd dripping sound...
+menu_nightfort_nights_king|As you once again plunge into darkness, you can't help but notice how cold you feel. As you regain your senses, you feel the cold like tiny needles in your bones, and notice how your breath is visible in the frosty air...
+menu_yunkai_ship_1|You board the ship heading for Yunkai, in Slaver's Bay. The crew is a ragged and filthy bunch, foul-mouthed and lice-ridden. Upon boarding, you catch a glimpse of the slaves manning the oars. Naked to the waist, they're chained together by the ankles. The oarmaster is a big fat lyseni, with a pale belly, who wield a large whip. When you hear the whip crack for the first time, the oars begin going up and down, and soon the Spicy Maiden is on her way.
+menu_yunkai_ship_2|As the ship sails on, you notice how the northern horizon becomes increasingly red and bright, almost like a sunset. You notice the crew muttering about demons, brimstone, and the cursed ruins of Valyria. Soon, the ship is engulfed in an unatural fog, and a sharp smell penetrates the air.
+menu_yunkai_ship_3|Sailing onwards, the ship soon leaves the Smoking Sea behind, and the mood of the crew lightens. As the ship passes the Isle of Cedars, a monkey somehow manages to climb onboard, and the crew takes this as an omen. Apparently, a monkey aboard signals the favor of R'hllor. The effect of their cheering startles the monkey, and the morale of the crew is raised even further when it throws its excrement at the captain.
+menu_yunkai|As the ship sails into the harbor of Yunkai, you notice a strong smell wafting off the city. It carries the usual smells of a great many people living together, sweat, smoke and shit, but with the additional scent of spices mixed in. As you step off the ship, you're quickly carried to the town square by the throng of people heading that same way.
+menu_yunkai_town_square|Having seen Yunkai, you ponder what to do next.
+mno_enter1|Continue exploring the city.
+mno_enter3|Join a caravan to Meereen.
+mno_enter2|Return to Volantis.
+menu_way_to_meereen|Heading onwards through the scorched canyons and flat hills that make up the greater part of Slaver's Bay, you finally see Meereen in the distance, the Great Pyramid towering above the city.
+menu_meereen_town_square|Having seen Meereen, you ponder what to do next.
+mno_enter4|Return to Volantis.
+menu_meereen_throne_room|You ponder what to do next.
+menu_volantis_town|You've returned to Volantis.
+menu_donation_septry|You arrive at a septry.
+menu_hillhall|You arrive at Hillhall.
+menu_relic_septry|You arrive at a septry.
+menu_zendar|You enter the town of Zendar.
+mno_zendar_enter| 
+mno_zendar_enter_door|Door to the town center.
+mno_zendar_tavern| 
+mno_zendar_tavern_door|Door to the tavern.
+mno_zendar_merchant| 
+mno_zendar_merchant_door|Door to the merchant.
+mno_zendar_arena| 
+mno_zendar_arena_door|Door to the arena.
+mno_town_1_leave| 
+menu_salt_mine|You enter the salt mine.
+menu_four_ways_inn|You arrive at the Four Ways Inn.
+menu_test_scene|You enter the test scene.
+mno_jump|Jump to scene
+menu_dhorak_keep|You enter the Dhorak Keep
+menu_join_siege_outside|{s1} has come under siege by {s2}.
+mno_approach_besiegers|Approach the siege camp.
+mno_pass_through_siege|Pass through the siege lines and enter {s1}.
+menu_cut_siege_without_fight|The besiegers let you approach the gates without challenge.
+menu_besiegers_camp_with_allies|{s1} remains under siege. The banners of {s2} fly above the camp of the besiegers, where you and your men are welcomed. {s4}
+mno_talk_to_siege_commander|Request a meeting with the commander.
+mno_change_commander_besiegers_camp_with_allies|Change commander.
+mno_join_siege_with_allies|Join the next assault.
+mno_join_siege_stay_back|Order your soldiers to join the next assault without you.
+menu_castle_outside|You are outside {s2}.{s11} {s3} {s4}
+mno_approach_gates|Approach the gates and hail the guard.
+mno_town_sneak|Disguise yourself and try to sneak into the {s7}
+mno_dplmc_riot_start_siege|Besiege the {reg6?town:castle} to counter the insurgency.
+mno_dplmc_riot_negotiate|Begin negotiations.
+mno_castle_start_siege|Besiege the {reg6?town:castle}.
+mno_castle_leave|Leave.
+menu_castle_guard|You approach the gate. The men on the walls watch you closely.
+mno_request_shelter|Request entry to the castle.
+mno_request_meeting_commander|Request a meeting with someone.
+mno_guard_leave|Leave.
+menu_castle_entry_granted|After a brief wait, the guards open the gates for you and allow your party inside.
+menu_castle_entry_denied|The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer.
+menu_castle_meeting|With whom do you want to meet?
+mno_guard_meet_s5|{s5}.
+mno_forget_it|Forget it.
+menu_castle_meeting_selected|Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you.
+menu_castle_besiege|You are laying siege to {s1}. {s2} {s3} {s4} ^{s15}
+mno_siege_request_meeting|Call for a meeting with the castle commander.
+mno_wait_24_hours|Wait until tomorrow.
+mno_siege_camp|Entrench your position.
+mno_siege_camp_interupted|Continue to entrench your position
+mno_siege_camp_inspect|Inspect the siege camp.
+mno_change_commander_castle_besiege|Change commander.
+mno_castle_lead_attack|Lead your soldiers in an assault.
+mno_attack_stay_back|Order your soldiers to attack while you stay back...
+mno_build_ladders|Prepare ladders to attack the walls.
+mno_build_siege_tower|Build a siege tower.
+mno_lift_siege|Abandon the siege.
+menu_siege_attack_meets_sally|The defenders sally out to meet your assault.
+menu_castle_besiege_inner_battle|{s1}
+menu_construct_ladders|As the most architecturally learned avatar of your company, ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build enough scaling ladders for the assault.
+mno_build_ladders_cont|Do it.
+menu_construct_siege_tower|As the most architecturally learned avatar of your company, ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower will take {reg4} hours.
+mno_build_siege_tower_cont|Start building.
+menu_castle_attack_walls_simulate|{s4}^^Your casualties:{s8}^^Enemy casualties were: {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
+menu_castle_taken_by_friends|Nothing to see here.
+menu_castle_taken|{s3} has fallen to your troops, and you now have full control of the {reg2?town:castle}. You can plunder spoils of war worth {reg3} denars.{reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
+mno_dplmc_spoils_yourself|Plunder it and keep the spoils all for yourself.
+mno_dplmc_spoils_accompanying_vassals|Plunder it and share the spoils equally between the vassals accompanying you and yourself.
+mno_dplmc_spoils_all_vassals|Plunder it and share the spoils equally between your vassals and yourself.
+menu_castle_taken_2|{s3} has fallen to your troops, and you now have full control of the castle. It is time to send word to {s9} about your victory. {s5}
+mno_castle_taken_claim|Request that {s3} be awarded to you.
+mno_castle_taken_claim_2|Request that {s3} be awarded to your {wife/husband}.
+mno_castle_taken_no_claim|Ask no rewards.
+menu_requested_castle_granted_to_player|You receive a message from your liege, {s3}.^^ {reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to you, with all due incomes and titles, to hold in {reg4?her:his} name for as long as you maintain your oath of homage.
+menu_dk_invasion_start_warning|Word has reached you that invaders have landed in the Stormlands. According to one of your men, who recounts one of the numerous rumors in your army, they're half man, half beast. The man is shaking with fright as he describes their evil eyes, their black and golden armor, their helmets adorned with dragons, griffins and skulls.
+menu_dothraki_invasion|Word has reached you that an invading dothraki horde has laid siege to the fair city of Selhorys. According to a merchant you meet on the road, it is the khalasar of Khal Pono, who styles himself ruler of the Khizra. Noticing your look of bewilderment, the merchant explains that Khizra means 'Marsh' in dothraki.
+menu_wildling_invasion|'Dire news, my lord!', shouts an old man you meet on the road. 'In the black of night, wildlings assaulted Last Hearth, and took the castle! The Wall has fallen, and savages roam free!'
+menu_dk_invasion_start_warning_dorne_joins|News has reached your camp! According to one of your men, a tavern wench told him that she heard, from one of her customers that is, that the dornish lords marches to the aid of the pretender, the one who calls himself Aegon the Sixth. Soon, the rumor is confirmed when a raven is intercepted, proclaiming Doran Martells support for his supposed nephew.
+menu_dk_stannis_start_warning|A nearby peasant is whispering to his wife. Edging closer, you overhear part of their conversation. From what you can make out, it appears Stannis Baratheon has laid claim to the throne. When you confront the peasant, he confirms your suspicions, declaring Stannis an ungodly man, working with demons from beyond the edge of the world.
+menu_dk_renly_start_warning2|You intercept a raven. A message is tied to its leg. It urges all loyal lords to support Renly Baratheon as the only true king of the Seven Kingdoms.
+menu_dk_renly_start_warning3|You intercept another raven. They're everywhere! You unroll the message tied to its leg. It is a proclamation from the Tyrells of Highgarden, urging all loyal and honorable lords to support Renly Baratheon.
+menu_dk_north_start_warning|One of your men asks your permission to speak. Apparently, he heard a rumor about the ironmen. Supposively, they've begun raiding the northern cost, and Balon Greyjoy has crowned himself King of the Iron Islands and of the North.
+menu_dk_tyrosh_start_warning|The talk of your retinue is all about the new trade war Lys and Tyrosh has initiated, against Myr. The cities of Essos has warred against each other for hundreds of years, but one of your men point out that they always pay well for experienced mercenaries.
+menu_requested_castle_granted_to_player_husband|You receive a message from your liege, {s3}.^^ {reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to your husband, {s7}.
+menu_requested_castle_granted_to_another|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour which I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {reg6} denars to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+mno_accept_decision|Accept the decision.
+mno_leave_faction|You have been wronged! Renounce your oath to your liege! 
+menu_requested_castle_granted_to_another_female|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your {wife/husband}, but that is a favour which I fear I cannot grant, as {she/he} already holds significant estates in my realm. Instead I have sent you {reg6} denars to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+menu_leave_faction|Renouncing your oath is a grave act. Your liege may condemn you and confiscate your lands and holdings. However, if you return them of your own free will, he may let the betrayal go without a fight.
+mno_leave_faction_give_back|Renounce your oath and give up your holdings.
+mno_leave_faction_hold|Renounce your oath and rule your lands, including {s2}, in your own name.
+mno_leave_faction_cancel|Remain loyal and accept the decision.
+menu_give_center_to_player|Your lord offers to extend your fiefs! {s1} sends word that {reg4?she:he} is willing to grant {s2} to you in payment for your loyal service, adding it to your holdings. What is your answer?
+mno_give_center_to_player_accept|Accept the offer.
+mno_give_center_to_player_reject|Reject. You have no interest in holding {s2}.
+menu_give_center_to_player_2|With a brief ceremony, you are officially confirmed as the new lord of {s2}{reg3? and its bound village {s4}:}. {reg3?They:It} will make a fine part of your fiefdom. You can now claim the rents and revenues from your personal estates there, draft soldiers from the populace, and manage the lands as you see fit. However, you are also expected to defend your fief and your people from harm, as well as maintaining the rule of law and order.
+menu_oath_fulfilled|You had a contract with {s1} to serve {reg4?her:him} for a certain duration. Your contract has now expired. What will you do?
+mno_renew_oath|Renew your contract with {s1} for another month.
+mno_dont_renew_oath|Become free of your bond.
+menu_siege_started_defender|{s1} is launching an assault against the walls of {s2}. You have {reg10} troops fit for battle against the enemy's {reg11}. Your force's current commander is {s5}. You decide to... {s4}
+mno_dplmc_negotiate_with_besieger|Negotiate with the besieger.
+mno_change_commander_siege_defender|Change commander.
+mno_siege_defender_join_battle|Join the battle.
+mno_siege_defender_troops_join_battle|Order your men to join the battle without you.
+menu_siege_join_defense|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
+menu_enter_your_own_castle|{s10}
+menu_village|{s10} {s12}^{s11}^{s6}{s7}
+mno_village_manage|Manage this village.
+mno_recruit_volunteers|Recruit peasants.
+mno_village_center|Go to the village center.
+mno_village_center_door|Door to the village center.
+mno_dplmc_village_elder_meeting|Meet the Village Elder.
+mno_dplmc_village_elder_meeting_denied|You have not met the village elder yet.
+mno_village_buy_food|Buy supplies from the peasants.
+mno_village_attack_bandits|Attack the bandits.
+mno_village_attack_wedding|Attack the wedding guests.
+mno_village_wait|Wait here for some time.
+mno_dplmc_village_counter_insurgency|Counter the insurgency.
+mno_dplmc_village_negotiate|Begin negotiations.
+mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes} due to {s1}.
+mno_train_peasants_against_bandits_qst|Train the peasants.
+mno_village_hostile_action|Take a hostile action.
+mno_village_leave|Leave...
+menu_village_hostile_action|What action do you have in mind?
+mno_village_take_food|Force the peasants to give you supplies.
+mno_village_steal_cattle|Steal cattle.
+mno_village_loot|Loot and burn this village.
+mno_forced_recruits|Attempt to forcefully recruit some villagers.
+menu_recruit_volunteers|{s18}
+mno_continue_not_enough_gold|I don't have enough money...
+mno_recruit_them|Recruit them ({reg6} denars).
+menu_village_hunt_down_fugitive_defeated|A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
+menu_village_infest_bandits_result|{s9}
+menu_village_infestation_removed|In a battle worthy of song, you and your men drive the bandits out of the village, making it safe once more. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find.
+mno_village_bandits_defeated_accept|Take it as your just due.
+mno_village_bandits_defeated_cont|Refuse, stating that they need these items more than you do.
+menu_village_wedding_result|{s9}
+menu_village_wedding_suppressed|You trample the wedding guests underfoot and establish a semblance of order. As you pick through the corpses, you find the bridegroom has been slain but there is no sign of the bride. You will have to search the village.
+menu_center_manage|{s19}^{reg6?^^You are currently building {s7}. The building will be completed after {reg8} day{reg9?s:}.:}
+mno_castle_recruit_troops|Recruit some troops.
+mno_castle_sort_troops|Sort the defenders.
+mno_center_build_manor|Build a manor.
+mno_center_build_fish_pond|Build a mill.
+mno_center_build_watch_tower|Build a watch tower.
+mno_center_build_school|Build a school.
+mno_center_build_messenger_post|Build a messenger post.
+mno_center_build_prisoner_tower|Build a prisoner tower.
+mno_center_build_barracks|Build Barracks.
+menu_center_improve|{s19} As the most architecturally learned avatar of your company, ({reg2}), {reg3?you reckon:{s3} reckons} that building the {s4} will cost you {reg5} denars and will take {reg6} days.
+mno_dplmc_improve_cont|Go on. (Pay from treasury)
+mno_improve_cont|Go on.
+mno_improve_not_enough_gold|I don't have enough money for that.
+menu_town_bandits_failed|{s4} {s5}
+menu_town_bandits_succeeded|The bandits fall before you as wheat to a scythe! Soon you stand alone in the streets while most of your attackers lie unconscious, dead or dying. Searching the bodies, you find a purse which must have belonged to a previous victim of these brutes. Or perhaps, it was given to them by someone who wanted to arrange a suitable ending to your life.
+menu_village_steal_cattle_confirm|As the most skilled pilferer of your company, ({reg2}), {reg3?you reckon:{s1} reckons} that you can steal as many as {reg4} heads of village's cattle.
+mno_village_steal_cattle_confirm|Go on.
+menu_village_steal_cattle|{s1}
+menu_village_take_food_confirm|It will be difficult to force and threaten the peasants into giving their precious supplies. You think you will need at least one hour.
+mno_village_take_food_confirm|Go ahead.
+menu_village_take_food|The villagers grudgingly bring out what they have for you.
+mno_take_supplies|Take the supplies.
+mno_let_them_keep_it|Let them keep it.
+menu_village_start_attack|Some of the angry villagers grab their tools and prepare to resist you. It looks like you'll have a fight on your hands if you continue.
+mno_village_raid_attack|Charge them.
+mno_village_raid_leave|Leave this village alone.
+menu_village_loot_no_resist|The villagers here are few and frightened, and they quickly scatter and run before you. The village is at your mercy.
+menu_village_loot_complete|On your orders your troops sack the village, pillaging everything of any value, and then put the buildings to the torch. From the coins and valuables that are found, you get your share of {reg1} denars.
+menu_village_loot_defeat|Fighting with courage and determination, the villagers manage to hold together and drive off your forces.
+menu_village_loot_continue|Do you wish to continue looting this village?
+mno_disembark_yes|Yes.
+mno_disembark_no|No.
+menu_close|Nothing.
+menu_town|{s10} {s14}^{s11}{s12}{s13}
+mno_castle_castle|Go to the Lord's hall{s1}.
+mno_castle_castle_door|Door to the castle.
+mno_join_tournament|Join the tournament.
+mno_town_castle|Go to the castle{s1}.
+mno_town_castle_door|Door to the castle.
+mno_town_center|Take a walk around the streets.
+mno_town_center_door|Door to the town center.
+mno_town_tavern|Visit the tavern.
+mno_town_tavern_door|Door to the tavern.
+mno_town_merchant|Speak with the merchant.
+mno_town_merchant_door|Door to the shop.
+mno_town_arena|Enter the arena.
+mno_town_arena_door|Door to the arena.
+mno_town_dungeon|Never: Enter the prison.
+mno_town_dungeon_door|Door to the dungeon.
+mno_castle_inspect|Take a walk around the courtyard.
+mno_castle_inspect_door|To the castle courtyard.
+mno_town_enterprise|Visit your {s3}.
+mno_town_enterprise_door|Door to your enterprise.
+mno_visit_lady|Attempt to visit a lady
+mno_visit_lady_door|Door to the garden.
+mno_trade_with_merchants|Go to the marketplace.
+mno_walled_center_manage|Manage this {reg0?town:castle}.
+mno_walled_center_move_court|Move your court here.
+mno_castle_station_troops|Manage the garrison {s10}
+mno_dplmc_castle_give_troops|Give troops to the garrison (cannot remove)
+mno_castle_wait|Wait here for some time{s1}.
+mno_dplmc_guild_master_meeting|Meet the Guild Master.
+mno_dplmc_guild_master_meeting_denied|You have not met the Guild Master yet.
+mno_town_bank|Visit the merchants.
+mno_recruit_nobles|Recruit volunteers.
+mno_town_leave|Leave...
+mno_town_leave_door|Leave Area.
+menu_cannot_enter_court|There is a feast in progress in the lord's hall, but you are not of sufficient status to be invited inside. Perhaps increasing your renown would win you admittance -- or you might also try distinguishing yourself at the melee while the feast is in progress...
+menu_lady_visit|Whom do you wish to visit?
+mno_visit_lady_1|Visit {s12}
+mno_visit_lady_2|Visit {s12}
+mno_visit_lady_3|Visit {s12}
+mno_visit_lady_3_door|Door to the garden.
+mno_visit_lady_4|Visit {s12}
+mno_visit_lady_5|Visit {s12}
+mno_visit_lady_6|Visit {s12}
+mno_visit_lady_7|Visit {s12}
+mno_visit_lady_8|Visit {s12}
+menu_town_tournament_lost|You have been eliminated from the melee.{s8}
+menu_town_tournament_won|You have won the tourney of {s3}! You are filled with pride as the crowd cheers your name. In addition to honour, fame and glory, you earn a prize of {reg9} coins. {s8}
+menu_town_tournament_won_by_another|As the only {reg3?fighter:man} to remain undefeated this day, {s1} wins the lists and the glory of this tourney.
+menu_town_tournament|{s1}You are at tier {reg0} of the melee, with {reg1} participants remaining. In the next round, there will be {reg2} teams with {reg3} {reg4?fighters:fighter} each.
+mno_tournament_view_participants|View participants.
+mno_tournament_bet|Place a bet on yourself.
+mno_tournament_join_next_fight|Fight in the next round.
+mno_leave_tournament|Withdraw from the melee.
+menu_tournament_withdraw_verify|Are you sure you want to withdraw from the melee?
+mno_tournament_withdraw_yes|Yes. This is a pointless affectation.
+mno_tournament_withdraw_no|No, not as long as there is a chance of glory!
+menu_tournament_bet|The odds against you are {reg5} to {reg6}.{reg1? You have already bet {reg1} denars on yourself, and if you win, you will earn {reg2} denars.:} How much do you want to bet?
+mno_bet_100_denars|100 denars.
+mno_bet_50_denars|50 denars.
+mno_bet_20_denars|20 denars.
+mno_bet_10_denars|10 denars.
+mno_bet_5_denars|5 denars.
+menu_tournament_bet_confirm|If you bet {reg1} denars, you will earn {reg2} denars if you win the melee. Is that all right?
+mno_tournament_bet_accept|Go ahead.
+mno_tournament_bet_cancel|Forget it.
+menu_tournament_participants|You ask one of the criers for the names of the melee participants. They are:^{s11}
+menu_collect_taxes|As the most skilled tradesman of your company, ({reg2}), {reg3?you expect:{s1} expects} that collecting taxes from here will take {reg4} days...
+mno_start_collecting|Start collecting.
+mno_collect_later|Put it off until later.
+menu_collect_taxes_complete|You've collected {reg3} denars in taxes from {s3}. {s19} will be expecting you to take the money to {reg4?her:him}.
+menu_collect_taxes_rebels_killed|Your quick action and strong arm have successfully put down the revolt. Surely, anyone with a mind to rebel against you will think better of it after this.
+menu_collect_taxes_failed|You could collect only {reg3} denars as tax from {s3} before the revolt broke out. {s1} won't be happy, but some silver will placate {reg4?her:him} better than nothing at all...
+menu_collect_taxes_revolt_warning|The people of {s3} are outraged at your demands and decry it as nothing more than extortion. They're getting very restless, and they may react badly if you keep pressing them.
+mno_continue_collecting_taxes|Ignore them and continue.
+mno_halve_taxes|Agree to reduce your collection by half. ({s1} may be upset)
+menu_collect_taxes_revolt|You are interrupted while collecting the taxes at {s3}. A large band of angry {reg9?peasants:townsmen} is marching nearer, shouting about the exorbitant taxes and waving torches and weapons. It looks like they aim to fight you!
+menu_train_peasants_against_bandits|As the most experienced taskmaster of your company, ({reg2}), {reg3?you expect:{s1} expects} that getting some peasants ready for practice will take {reg4} hours.
+mno_make_preparation|Train them.
+mno_train_later|Put it off until later.
+menu_train_peasants_against_bandits_ready|You put the peasants through the basics of soldiering, discipline and obedience. You think {reg0} of them {reg1?have:has} fully grasped the training and {reg1?are:is} ready for some practice.
+mno_peasant_start_practice|Start the practice fight.
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack|As you get ready to continue the training, a sentry from the village runs up to you, shouting alarums. The bandits have been spotted on the horizon, riding hard for {s3}. The elder begs that you organize your newly-trained militia and face them.
+mno_peasants_against_bandits_attack_resist|Prepare for a fight!
+menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_success|The bandits are broken! Those few who remain run off with their tails between their legs, terrified of the peasants and their new champion. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find to show their gratitude.
+menu_disembark|Do you wish to disembark?
+menu_ship_reembark|Do you wish to embark?
+mno_reembark_yes|Yes.
+mno_reembark_no|No.
+menu_center_reports|Town Name: {s1}^Rent Income: {reg1} denars^Tariff Income: {reg2} denars^Food Stock: for {reg3} days
+mno_to_price_and_productions|Show prices and productions.
+menu_price_and_production|Productions are:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^Price factors are:^{s2}
+menu_town_trade|You head towards the marketplace.
+mno_auto_sell|Sell items automatically.
+mno_assess_prices|Assess the local prices.
+mno_trade_with_arms_merchant|Trade with the arms merchant.
+mno_trade_with_armor_merchant|Trade with the armor merchant.
+mno_trade_with_horse_merchant|Trade with the horse merchant.
+mno_trade_with_goods_merchant|Trade with the goods merchant.
+mno_auto_buy_food|Buy food automatically.
+mno_back_to_town_menu|Head back.
+menu_trade_auto_sell_begin|Items in the inventory of companions which selected as the type for sell and their prices below {reg1} denars will be sold to {reg2?all merchants:the elder} in current {reg2?town:village} automatically. Specifically foods, trade goods and books will never be sold.^^You can change some settings here freely.
+mno_change_settings|Change settings.
+menu_trade_auto_buy_food_begin|You will buy food according to the shopping list of foods automatically. Do you want to continue?^^You can view and configure the shopping list here.
+mno_change_shopping_list_of_food|Configure the shopping list of foods.
+menu_town_trade_assessment_begin|You overhear several discussions about the price of trade goods across the local area.^You listen closely, trying to work out the best deals around.
+menu_town_trade_assessment|As the most skilled tradesman of your company, ({reg2}), {reg3?you try to figure out:{s1} tries to figure out} the best goods to trade in. {s2}
+menu_sneak_into_town_suceeded|Disguised in the garments of a poor pilgrim, you fool the guards and make your way into the town.
+menu_sneak_into_town_caught|As you try to sneak in, one of the guards recognizes you and raises the alarm! You must flee back through the gates before all the guards in the town come down on you!
+mno_sneak_caught_fight|Try to fight your way out!
+mno_sneak_caught_surrender|Surrender.
+menu_sneak_into_town_caught_dispersed_guards|You drive off the guards and cover your trail before running off, easily losing your pursuers in the maze of streets.
+menu_sneak_into_town_caught_ran_away|You make your way back through the gates and quickly retreat to the safety of the countryside.{s11}
+menu_enemy_offer_ransom_for_prisoner|{s2} offers you a sum of {reg12} denars in silver if you are willing to sell them {s1}.
+mno_ransom_accept|Accept the offer.
+mno_ransom_reject|Reject the offer.
+menu_training_ground|You approach a training field where you can practice your martial skills. What kind of training do you want to do?
+mno_camp_trainer|Speak with the trainer.
+mno_camp_train_melee|Sparring practice.
+mno_camp_train_archery|Ranged weapon practice.
+mno_camp_train_mounted|Horseback practice.
+menu_training_ground_selection_details_melee_1|How many opponents will you go against?
+mno_camp_train_melee_num_men_1|One.
+mno_camp_train_melee_num_men_2|Two.
+mno_camp_train_melee_num_men_3|Three.
+mno_camp_train_melee_num_men_4|Four.
+menu_training_ground_selection_details_melee_2|Choose your opponent #{reg1}:
+mno_training_ground_selection_details_melee_random|Choose randomly.
+menu_training_ground_selection_details_mounted|What kind of weapon do you want to train with?
+mno_camp_train_mounted_details_1|One handed weapon.
+mno_camp_train_mounted_details_2|Polearm.
+mno_camp_train_mounted_details_3|Bow.
+mno_camp_train_mounted_details_4|Thrown weapon.
+menu_training_ground_selection_details_ranged_1|What kind of ranged weapon do you want to train with?
+mno_camp_train_ranged_weapon_bow|Bow and arrows.
+mno_camp_train_ranged_weapon_crossbow|Crossbow.
+mno_camp_train_ranged_weapon_thrown|Throwing Knives.
+menu_training_ground_selection_details_ranged_2|What range do you want to practice at?
+mno_camp_train_ranged_details_1|10 yards.
+mno_camp_train_ranged_details_2|20 yards.
+mno_camp_train_ranged_details_3|30 yards.
+mno_camp_train_ranged_details_4|40 yards.
+mno_camp_train_ranged_details_5|50 yards.
+mno_camp_train_ranged_details_6|60 yards.
+mno_camp_train_ranged_details_7|70 yards.
+menu_training_ground_description|{s0}
+menu_training_ground_training_result|{s7}{s2}
+menu_marshall_selection_candidate_ask|{s15} will soon select a new marshall for {s23}. Some of the lords have suggested your name as a likely candidate.
+mno_marshall_candidate_accept|Let {s15} learn that you are willing to serve as marshall.
+mno_marshall_candidate_reject|Tell everyone that you are too busy these days.
+menu_captivity_avoid_wilderness|Suddenly all the world goes black around you. Many hours later you regain your conciousness and find yourself at the spot you fell. Your enemies must have taken you up for dead and left you there. However, it seems that none of your wound were lethal, and altough you feel awful, you find out that can still walk. You get up and try to look for any other survivors from your party.
+menu_captivity_start_wilderness|Stub
+menu_captivity_start_wilderness_surrender|Stub
+menu_captivity_start_wilderness_defeat|Your enemies take you prisoner.
+menu_captivity_start_castle_surrender|Stub
+menu_captivity_start_castle_defeat|Stub
+menu_captivity_start_under_siege_defeat|Your enemies take you prisoner.
+menu_captivity_wilderness_taken_prisoner|Your enemies take you prisoner.
+menu_captivity_wilderness_check|stub
+menu_captivity_end_sea_escape|After painful days of being dragged about as a prisoner, you find a chance and escape from your captors!
+menu_captivity_end_wilderness_escape|After painful days of being dragged about as a prisoner, you find a chance and escape from your captors!
+menu_captivity_castle_taken_prisoner|You are quickly surrounded by guards who take away your weapons. With curses and insults, they throw you into the dungeon where you must while away the miserable days of your captivity.
+menu_captivity_rescue_lord_taken_prisoner|You remain in disguise for as long as possible before revealing yourself. The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long...
+menu_captivity_castle_check|stub
+menu_captivity_end_exchanged_with_prisoner|After days of imprisonment, you are finally set free when your captors exchange you with another prisoner.
+menu_captivity_end_propose_ransom|You spend long hours in the sunless dank of the dungeon, more than you can count. Suddenly one of your captors enters your cell with an offer; he proposes to free you in return for {reg5} denars of your hidden wealth. You decide to...
+mno_captivity_end_ransom_accept|Accept the offer.
+mno_captivity_end_ransom_deny|Refuse him, wait for something better.
+menu_captivity_castle_remain|More days pass in the darkness of your cell. You get through them as best you can, enduring the kicks and curses of the guards, watching your underfed body waste away more and more...
+menu_kingdom_army_quest_report_to_army|{s8} sends word that {reg4?she:he} wishes you to join {reg4?her:his} new military campaign. You need to bring at least {reg13} troops to the army, and are instructed to raise more men with all due haste if you do not have enough.
+menu_kingdom_army_quest_messenger|{s8} sends word that {reg4?she:he} wishes to speak with you about a task {reg4?she:he} needs performed. {reg4?She:He} requests you to come and see {reg4?her:him} as soon as possible.
+menu_kingdom_army_quest_join_siege_order|{s8} sends word that you are to join the siege of {s9} in preparation for a full assault. Your troops are to take {s9} at all costs.
+menu_kingdom_army_follow_failed|You have failed to follow {s8}. The marshal assumes that you were otherwise engaged, but would have appreciated your support.
+menu_invite_player_to_faction_without_center|You receive an offer of vassalage!^^ {s8} of {s9} has sent a royal herald to bring you an invititation in {reg4?her:his} own hand. You would be granted the honour of becoming a vassal {lord/lady} of {s9}, and in return {s8} asks you to swear an oath of homage to {reg4?her:him} and fight in {reg4?her:his} military campaigns, although {reg4?she:he} offers you no lands or titles. {reg4?She:He} will surely be offended if you do not take the offer...
+mno_faction_accept|Accept!
+mno_faction_reject|Decline the invitation.
+menu_invite_player_to_faction|You receive an offer of vassalage!^^ {s8} of {s9} has sent a royal herald to bring you an invitation in {reg4?her:his} own hand. You would be granted the honour of becoming a vassal {lord/lady} of {s9}, and in return {s8} asks you to swear an oath of homage to {reg4?her:him} and fight in {reg4?her:his} military campaigns, offering you the fief of {s2} for your loyal service. {reg4?She:He} will surely be offended if you do not take the offer...
+menu_invite_player_to_faction_accepted|In order to become a vassal, you must swear an oath of homage to {s3}. You shall have to find {reg4?her:him} and give {reg4?her:him} your oath in person. {s5}
+menu_question_peace_offer|You Receive a Peace Offer^^{s1} offers you a peace agreement. What is your answer?
+mno_peace_offer_accept|Accept
+mno_dplmc_peace_offer_terms|Dictate the peace terms
+mno_peace_offer_reject|Reject
+menu_notification_truce_expired|Truce Has Expired^^The truce between {s1} and {s2} has expired.
+menu_notification_feast_quest_expired|{s10}
+menu_notification_sortie_possible|Enemy Sighted: Enemies have been sighted outside the walls of {s4}, and {s5} and others are preparing for a sortie. You may join them if you wish.
+menu_notification_casus_belli_expired|Sovereignty Fails to Respond^^Envoys of {s2} have caused discord in the realm of {s1}, and {s3} as a result has suffered a loss of face...^
+menu_notification_lord_defects|Defection: {s4} has abandoned {s5} and joined {s7}, taking {reg4?her:his} fiefs with {reg4?her:him}
+menu_notification_treason_indictment|Treason Indictment^^{s9}
+menu_notification_border_incident|Border incident^^Word reaches you that {s9}. Though you don't know whether or not the rumors are true, you do know one thing -- this seemingly minor incident has raised passions among {s4}, making it easier for them to go to war against {s3}, if they want it...
+menu_notification_player_faction_active|You now possess land in your name and are not the subject of another noble. This makes you a ruler in your own right, with your court temporarily located at {s12}. However, the other sovereigns will at first consider you a threat, for if any upstart warlord can grab a throne, then their own legitimacy is called into question.^^You may find it desirable at this time to pledge yourself to an existing kingdom. If you want to continue as a sovereign ruler, then your first priority should be to establish an independent right to rule. You can establish your right to rule through several means -- marrying into a high-born family, recruiting new lords, governing your lands, treating with other rulers, or dispatching your companions on missions.^^At any rate, your first step should be to appoint a chief minister from among your companions, to handle affairs of state. Different companions have different capabilities.^You may appoint new ministers from time to time. You may also change the location of your court, by speaking to the minister.
+mno_appoint_spouse|Appoint your {reg0?wife:husband}, {s10}...
+mno_dplmc_appoint_spouse_plus_1|Appoint your {reg0?wife:husband}, {s10}...
+mno_appoint_npc1|Appoint {s10}
+mno_appoint_npc2|Appoint {s10}
+mno_appoint_npc3|Appoint {s10}
+mno_appoint_npc4|Appoint {s10}
+mno_appoint_npc5|Appoint {s10}
+mno_appoint_npc6|Appoint {s10}
+mno_appoint_npc7|Appoint {s10}
+mno_appoint_npc8|Appoint {s10}
+mno_appoint_npc9|Appoint {s10}
+mno_appoint_npc10|Appoint {s10}
+mno_appoint_npc11|Appoint {s10}
+mno_appoint_npc12|Appoint {s10}
+mno_appoint_npc13|Appoint {s10}
+mno_appoint_npc14|Appoint {s10}
+mno_appoint_npc15|Appoint {s10}
+mno_appoint_npc16|Appoint {s10}
+mno_appoint_npc17|Appoint {s10}
+mno_appoint_npc18|Appoint {s10}
+mno_appoint_npc19|Appoint {s10}
+mno_appoint_npc20|Appoint {s10}
+mno_appoint_npc21|Appoint {s10}
+mno_appoint_npc22|Appoint {s10}
+mno_appoint_default|Appoint a prominent citizen from the area...
+menu_minister_confirm|{s9}can be found at your court in {s12}. You should consult periodically, to avoid the accumulation of unresolved issues that may sap your authority...
+menu_notification_court_lost|{s12}
+menu_notification_player_faction_deactive|Your sovereignty no longer holds fief to any land.
+menu_notification_player_wedding_day|{s8} wishes to inform you that preparations for your wedding at {s10} have been complete, and that your presence is expected imminently .
+menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_center_under_siege|{s1} has been besieged by {s2} of {s3}!
+menu_notification_village_raided|Enemies have Laid Waste to a Fief^^{s1} has been raided by {s2} of {s3}!
+menu_notification_village_raid_started|Your Village is under Attack!^^{s2} of {s3} is laying waste to {s1}.
+menu_notification_one_faction_left|Calradia Conquered by One Kingdom^^{s1} has defeated all rivals and stands as the sole kingdom.
+menu_notification_oath_renounced_faction_defeated|Your Old Faction was Defeated^^You won the battle against {s1}! This ends your struggle which started after you renounced your oath to them.
+menu_notification_center_lost|An Estate was Lost^^You have lost {s1} to {s2}.
+menu_notification_troop_left_players_faction|Betrayal!^^{s1} has left {s2} and joined {s3}.
+menu_notification_troop_joined_players_faction|Good news!^^ {s1} has left {s2} and joined {s3}.
+menu_notification_war_declared|Declaration of War^^{s1} has declared war against {s2}!
+menu_notification_peace_declared|Peace Agreement^^{s1} and {s2} have made peace!^{s57}
+menu_notification_faction_defeated|An independent faction has ceased to exist.
+menu_notification_kingdom_restoration|{s10} have renounced their allegiance to {s12} and declared themselves the rulers of {s11}.
+menu_notification_rebels_switched_to_faction|Rebellion Success^^ Your rebellion is victorious! Your faction now has the sole claim to the title of {s11}, with {s12} as the single ruler.
+menu_notification_player_should_consult|{reg0?Your minister:{s11}} send word that there are problems brewing in the realm which, if left untreated, could sap your authority. You should consult with {reg4?her:him} at your earliest convenience
+menu_notification_player_feast_in_progress|Feast in Preparation^^Your {wife/husband} has started preparations for a feast in your hall in {s11}
+menu_notification_lady_requests_visit|An elderly woman approaches your party and passes one of your men a letter, sealed in plain wax. It is addressed to you. When you break the seal, you see it is from {s15}. It reads, 'I so enjoyed your last visit. {s14} I am currently in {s10}.{s12}'
+mno_continue_visit_yes|Tell the woman to inform her mistress that you will come shortly
+mno_continue_visit_no|Tell the woman to inform her mistress that you are indisposed
+menu_garden|{s12}
+mno_nurse_1|Go with the nurse
+mno_nurse_2|Wait by the spring
+menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley. This will surely be your best opportunity to attack him.
+menu_bar_brawl_begin|You wait until a young boy comes running down the street. '{My lord! My lord!/My Lady!}' he cries. 'The troublemakers have left the tavern and are coming this way. Be ready!'
+menu_debug_alert_from_s65|DEBUG ALERT: {s65}
+menu_auto_return_to_map|stub
+menu_bandit_lair|{s3}
+mno_continue_1|Attack the hideout...
+mno_leave_no_attack|Leave...
+mno_leave_victory|Continue...
+mno_leave_defeat|Continue...
+menu_notification_player_faction_political_issue_resolved|After consulting with the peers of the realm, {s10} has decided to confer {s11} on {s12}.
+menu_notification_player_faction_political_issue_resolved_for_player|After consulting with the peers of the realm, {s10} has decided to confer {s11} on you. You may decline the honor, but it will probably mean that you will not receive other awards for a little while.{s12}
+mno_accept|Accept the honor
+mno_decline|Decline the honor
+menu_start_phase_3|{s16}^^Follwing a long trek through the Rainwood, you finally see the town of Weeping Tower in the distance. You are exhausted by the time you find the inn, and go in search of a decent tavern. According to an old blind man sitting in the corner, drinking a mug of stale ale, a kraken has been seen off the coast of Dorne, and a five-headed calf has been born, killing its mother in the process, surely an omen to be taken seriously. Dismissing the old fool as crazy, you venture out onto the streets, which are still deserted. All of a sudden, you hear a sound that stands the hairs of your neck on end -- the rasp of a blade sliding from its scabbard...
+menu_start_phase_4|{s11}
+menu_lost_tavern_duel|{s11}
+menu_establish_court|To establish {s4} as your court will require a small refurbishment. In particular, you will need a set of tools and a bolt of velvet. it may also take a short while for some of your followers to relocate here. Do you wish to proceed?
+mno_establish|Establish {s4} as your court
+menu_notification_relieved_as_marshal|{s4} wishes to inform you that your services as marshal are no longer required. In honor of valiant efforts on behalf of the realm over the last {reg4} days, however, {reg8?she:he} offers you a purse of {reg5} denars.
+menu_notification_give_liege_gift|A messenger boy, riding hard, gallops up to you. He stops and wheels his horse, which paws the ground impatiently. He hands you a package, and with that, he is gone.
+menu_manage_loot_pool|{s10}
+mno_auto_loot|Let your heroes select gear from the item pool.
+mno_auto_loot_no|Insufficient item pool space for auto-upgrade.
+mno_loot|Access the item pool.
+mno_auto_loot_upgrade_management|Manage the upgrading of companion equipment.
+mno_auto_loot_leave_with_nothing|Pick the items which price higher than {reg1} denars and continue.
+mno_auto_loot_leave|{s20}
+menu_auto_loot|Your companions will automatically grab items from the item pool based on their pre-selected upgrade options. Companions listed first in the party order will have first pick. Any equipment no longer needed will be placed back into the item pool. Are you sure you wish to do this?
+mno_No|No, I've changed my mind.
+mno_Yes|Yes, perform the upgrading.
+menu_choose_options_1|Choose the troop trees you'd like to use. Once choosen you can't change it.^^The Native tree is very simple and straight forward, while the Expanded tree is complex with a lot of options and variety. The Reworked tree is a compromise between both other trees.
+mno_native_troop_trees|Native troop trees
+mno_reworked_troop_trees|Reworked troop trees
+mno_expanded_troop_trees|Expanded troop trees
+menu_choose_options_2|Assemble all companions at the tavern of the first encountered town?^^When you assemble them, you might take a look upstairs in the tavern, since a lot of companions might be lingering in the hallway, sitting on the stairs or inspecting their rooms. If your favorite companion isn't present, you might want to quit and re-enter the tavern: sometimes they don't all fit.
+mno_yes_npcs|Yes
+mno_no_npcs|No
+menu_choose_options_3|Do you wish to play with the fog of war?
+menu_choose_options_end|Game options selection complete.
+menu_town_menu_cheats|CHEATS.
+menu_dplmc_notification_alliance_declared|Alliance Agreement^^{s1} and {s2} have formed an alliance!^{s57}
+mno_dplmc_continue|Continue...
+menu_dplmc_notification_defensive_declared|Defensive Pact^^{s1} and {s2} have agreed to a defensive pact!^{s57}
+menu_dplmc_notification_trade_declared|Trade Agreement^^{s1} and {s2} have signed a trade agreement!^{s57}
+menu_dplmc_notification_nonaggression_declared|Non-aggression Treaty^^{s1} and {s2} have concluded a non-aggression treaty!^{s57}
+menu_dplmc_question_alliance_offer|You Receive an Alliance Offer^^{s1} wants to form an alliance with you. What is your answer?
+mno_dplmc_alliance_offer_accept|Accept
+mno_dplmc_alliance_offer_reject|Reject
+menu_dplmc_question_defensive_offer|You Receive a Pact Offer^^{s1} offers you a defensive pact. What is your answer?
+mno_dplmc_defensive_offer_accept|Accept
+mno_dplmc_defensive_offer_reject|Reject
+menu_dplmc_question_trade_offer|You Receive a Pact Offer^^{s1} offers you a trade pact. What is your answer?
+mno_dplmc_trade_offer_accept|Accept
+mno_dplmc_trade_offer_reject|Reject
+menu_dplmc_question_nonaggression_offer|You Receive a Pact Offer^^{s1} offers you a non-aggression treaty. What is your answer?
+mno_dplmc_nonaggression_offer_accept|Accept
+mno_dplmc_nonaggression_offer_reject|Reject
+menu_dplmc_notification_alliance_expired|Alliance Has Expired^^The alliance between {s1} and {s2} has expired and was degraded to a defensive pact.
+menu_dplmc_notification_defensive_expired|Defensive Pact Has Expired^^The defensive pact between {s1} and {s2} has expired and was degraded to a trade agreement.
+menu_dplmc_notification_trade_expired|Trade Agreement Has Expired^^The trade agreement between {s1} and {s2} has expired and was degraded to a non-aggression treaty.
+menu_dplmc_dictate_terms|Dictate your peace terms.
+mno_dplmc_demand_4000|Demand 4000 denars
+mno_dplmc_demand_8000|Demand 8000 denars
+mno_dplmc_demand_castle|Demand {s2}.
+mno_dplmc_go_back|Go back
+menu_dplmc_deny_terms|{s1} refuses your terms and is breaking off of negotiations.
+menu_dplmc_village_riot_result|{s9}
+menu_dplmc_village_riot_removed|In bloody battle you and your men slaughter the rebels and regain control over the village. But there is not much left you can control.
+menu_dplmc_town_riot_removed|In bloody battle you and your men slaughter the rebels and regain control over the town.
+menu_dplmc_riot_negotiate|You approach the angry crowd and begin negotiations. The leader of the riot demands {reg0} denars. He agrees to lay down arms if you are willing to pay.
+mno_dplmc_pay_riot_treasury|Induce your seneschal to pay the money from the treasury.
+mno_dplmc_pay_riot_cash|Pay cash.
+mno_dplmc_back|Back...
+menu_dplmc_notification_riot|The peasants of {s1} launched a riot against you! In a surprise attack, men loyal to you have been slain. The remainder joined the angry crowd.
+menu_dplmc_notification_appoint_chamberlain|As a lord of a fief you can now appoint a seneschal who resides at you court for a weekly salary of 15 denars. He will handle all financial affairs like collecting and determining taxes, paying wages and managing your estate. In addition he supervises money transfers between sovereigns giving you more diplomatic options.
+mno_dplmc_appoint_default|Appoint a prominent nobleman from the area.
+menu_dplmc_chamberlain_confirm|Your seneschal can be found at your court. You should consult him if you want to give him any financial advice or you need greater amounts of money. You should always make sure that there is enough money in the treasury to pay for political affairs.
+menu_dplmc_notification_appoint_constable|As a lord of a fief you can now appoint a castellan who resides at you court for a weekly salary of 15 denars. He will recruit new troops and provide information about your army.
+menu_dplmc_constable_confirm|Your castellan can be found at your court. You should consult him if you want to recruit new troops or get detailed information about your standing army.
+menu_dplmc_notification_appoint_chancellor|As a lord of a fief you can now appoint a maester who resides at you court for a weekly salary of 20 denars. He will be the keeper of your seal and conduct the correspondence between you and other important persons.
+menu_dplmc_chancellor_confirm|Your maester can be found at your court. You should consult him if you want to send messages or gifts.
+menu_dplmc_deserters|Some of your men don't believe that you will pay their wages and desert. Overall you lose: {s11} men.
+menu_dplmc_negotiate_besieger|You appear with a white flag at the top of the wall. After a while a negotiator of {s11} approaches you. He demands {s6} and all associated villages as well as {reg0} denars for safe conduct.
+mno_dplmc_comply_treasury|Comply and induce your seneschal to pay the money from the treasury.
+mno_dplmc_comply|Comply and pay the money cash.
+mno_dplmc_break_off|Break off negotiations.
+menu_dplmc_messenger|Sire, I found {s10} and delivered your message. {reg4?Her:His} answer was {s11}.
+menu_dplmc_scout|Your spy returned from {s10}^^{s11}{s12}
+menu_dplmc_domestic_policy|You can now shape the domestic policy of your sovereignty. Do you want to change your policy now?
+mno_dplmc_yes|Yes, I want to change the domestic policy.
+mno_dplmc_no|No, I don't want to change the domestic policy.
+menu_dplmc_preferences|Diplomacy 4.2 (November 27, 2011) Preferences{s0}
+mno_dplmc_disable_horse_speed|Disable Diplomacy horse speed.
+mno_dplmc_enable_horse_speed|Enable Diplomacy horse speed.
+mno_dplmc_disable_battle_continuation|Disable Diplomacy battle continuation.
+mno_dplmc_enable_battle_continuation|Enable Diplomacy battle continuation.
+mno_dplmc_disable_terrain_advantage|Disable terrain advantage in Autocalc battles (currently this feature is Enabled).
+mno_dplmc_enable_terrain_advantage|Enable terrain advantage in Autocalc battles (currently this feature is Disabled).
+mno_dplmc_reset_terrain_advantage|You used a saved game from another mod: g dplmc terrain advantage = {reg0} (click to reset)
+mno_dplmc_toggle_lord_recycling_a|Enable lords returning from exile (currently disabled)
+mno_dplmc_toggle_lord_recycling_b|Disable lords returning from exile (currently enabled)
+mno_dplmc_toggle_lord_recycling_reset|You used a saved game from another mod: g dplmc lord recycling = {reg0} (click to reset)
+mno_dplmc_toggle_ai_changes_a|Enable AI changes (currently disabled)
+mno_dplmc_toggle_ai_changes_b|Increase AI changes (currently low)
+mno_dplmc_toggle_ai_changes_c|Increase AI changes (currently medium)
+mno_dplmc_toggle_ai_changes_d|Disable AI changes (currently high/experimental)
+mno_dplmc_reset_ai_changes|You used a saved game from another mod: g dplmc ai changes = {reg0} (click to reset)
+mno_dplmc_toggle_gold_changes_a|Set economic & behavioral changes to low (current mode: disabled)
+mno_dplmc_toggle_gold_changes_b|Set economic & behavioral changes to medium (current mode: low)
+mno_dplmc_toggle_gold_changes_c|Set economic & behavioral changes to high/experimental (current mode: medium)
+mno_dplmc_toggle_gold_changes_d|Disable economic & behavioral changes (current mode: high/experimental)
+mno_dplmc_reset_gold_changes|You used a saved game from another mod: g dplmc gold changes = {reg0} (click to reset)
+mno_dplmc_switch_woman_prejudice_1|Change prejudice level (current level is default)
+mno_dplmc_switch_woman_prejudice_2|Change prejudice level (current level is off)
+mno_dplmc_switch_woman_prejudice_3|Change prejudice level (current level is high)
+menu_dplmc_affiliated_family_report|{s0}
+menu_dplmc_start_select_prejudice|In the traditional medieval society depicted in the game, war and politics are usually dominated by male members of the nobility.  Beacuse of this, a female character can face initial prejudice, and some opportunities open to men will not be available (although a woman will also have some opportunities a man will not).  Some players might find distasteful, so if you want you can ignore that aspect of society in Calradia.^^You can later change your mind through the options in the Camp menu.
+mno_dplmc_start_prejudice_yes|I do not mind encountering sexism.
+mno_dplmc_start_prejudice_no|I would prefer not to encounter as much sexism.
+menu_dplmc_economic_report|{s0}
+menu_upgrade_to_hero|You notice that one or more of your warriors exceeds your expectations in battle. ^You walk towards the lines of your troops, and ...
+mno_hero_1|stop to talk to {s1}
+mno_hero_2|stop to talk to {s1}
+mno_hero_3|stop to talk to {s1}
+mno_hero_4|stop to talk to {s1}
+mno_prev|go to the previous lines
+mno_next|go to the next lines
+mno_close|close
+menu_entrenched_camp|  Your fortifications are complete.    
+menu_event_01_juicio|Two farmers, one very tall and lanky, the other low and stocky, were presented to you, to discuss the ownership of a calf. Apparently their fields were bordering and the tall farmer had a bull that impregnated a cow belonging to the other farmer.The stocky farmer said the calf was his because it was his cow giving birth. The tall farmer claimed the calf to be his, being the offspring of his best bull, or at least financial compensation.
+mno_choice_01_1n|The owner of the cow is right. The calf is yours, just like the cow is.
+mno_choice_01_2n|The owner of the bull is right. The bull is his and the calf too.
+mno_choice_01_3n|The owner of the cow will keep the calf, and offer financial compensation to the owner of the bull.
+mno_choice_01_4n|Neither is right. I'll stick with the calf and beef!
+mno_choice_01_5n|Neither is right. Kill the calf and distribute its meat to the two farmers!
+menu_event_02_juicio|'My liege, we captured the attacker! This is the man who attacked one of your messengers, who is now lying seriously injured', says on of your men. This doesn't show us in the best of light, the messenger was under your protection. But the attacker has an interesting story, and his wish was to tell it to you before he was executed.^^'My liege! I would have never thought of attacking your messenger but... that man wished to sleep with my young daughter for the night. Of course his offer was refused! However he never accepted the answer, entered my house with his three friends, and robbed my dear daughter of her virtue, laughing that you, my lord, will never believe a farmers word. I tried what I could think of, and I regret that I seriously injured him while he was under your personal protection, but a father must protect his only child! Please be reasonable to your humble servant!'
+mno_choice_02_1n|The messenger was under my protection. You and your family will be executed at dawn, all your belongings confiscated!
+mno_choice_02_2n|The messenger is important, but I will be reasonable with you: Your family will not be punished, it is only you who will hang.
+mno_choice_02_3n|While the messenger is important, I would have done the same. You can go, the king has spoken!
+mno_choice_02_4n|What? Throw the messenger out on the streets, how dare he abuse the peasantry!
+menu_event_03_juicio|You summon two men to decide their fate. One is a knight, while the other is a man-at-arms sworn to the same knight. It seems what happened is that the knight didn't have enough gold to pay his man, so the man-at-arms took the knights daughter to his own bed and had his way with her.
+mno_choice_03_1n|Geld the man-at-arms, he violated the knights honor.
+mno_choice_03_2n|Punish the knight, he failed in his duty.
+mno_choice_03_3n|Ask to see the daughter, and when she is brought forth, you decide it was punishment enough that the man-at-arms had to sleep with her.
+mno_choice_03_4n|Compensate the knight for this crime, out of your own coffers, and pay the man-at-arms the coin due to him. Then hang him. It will cost 2000 coins.
+menu_event_04_juicio|One of your sworn men approaches you. He states that among the men, there is much dissatiafaction. Pertaining that you are too placid and that there is too little gold and honour to be won under your service.
+mno_choice_04_1n|Distribute 1000 coins amongst the men.
+mno_choice_04_2n|Tell your men to be quiet.
+mno_choice_04_3n|Kill the man who approached you and state there shall be no more talk of sedition.
+mno_choice_04_4n|Promise to make amends soon.
+menu_event_05_juicio|After having feasted your lords repeatedly for the last four months, it appears your tunic no longer slips over your head. You have begun wearing open chest tunics and generally snacking on delicious fruits from the east. Dinner is, of course, a spiced pig, drowned in butter, and roasted to perfection. A local maester, however, feels you have reached some sort of tipping point, and has suggested fresh air and a general course of exercise, and a limited diet.
+mno_choice_05_1n|Eat more food and get rid of the maester.
+mno_choice_05_2n|Go on a pilgrimage to the nearest public bath house, to regain your figure. It will cost 300 coins.
+mno_choice_05_3n|Existing entirely on bowls of beans and lentils, you develop a foul temper, but at least you're no longer fat.
+menu_event_06_juicio|Your lover tarries with a youth of soft skin and white curls that have an almost valyrian style to them. Indeed your lover even calls him a young Aegon, it is rumoured. Whilst it is okay for you to practise your love-making amongst the local women, for your lover to taint your relationship in such a manner is...
+mno_choice_06_1n|Fine.
+mno_choice_06_2n|Horrible! Have the youth seized and gelded!
+mno_choice_06_3n|Move in an old nurse, to keep an eye on your lover.
+menu_event_07_juicio|The crop this year has whithered miserably under the sun. As the first snow has fallen, there are many who fear the long months of winter as starvation looms. What should we do, my liege?
+mno_choice_07_1n|I cannot spare any grain as I have to feed my household. Besides... there are feasts to be had.
+mno_choice_07_2n|Distribute some wagons of grain to my people, it is the most I can spare.
+mno_choice_07_3n|Spend 5000 coins on grain from the Summer Islands!
+mno_choice_07_4n|Let them starve! Serves them right for not tending to their crops carefully enough!
+menu_event_08_juicio|One of your lords approaches you, stating he has an illegitimate son who wishes to join your bodyguard. You agree to meet the boy as it would be unseemly to flat out reject a noble. When you meet the boy, however it is clear that he is rather homely and certainly not a man of war. Faced with this plump, smiling young man you...
+mno_choice_08_1n|Allow him to join your bodyguard.
+mno_choice_08_2n|Ask for a payment of 500 coins to grease the deal.
+mno_choice_08_3n|Refuse outright.
+menu_event_09_juicio|Two men, each with their own proposal, come before you on the same day. One is a young lisping scholar called Mycah who proposes the building of more libraries and a fund to be set aside to buy and maintain books of knowledge. Although his case is eloquent, the delivery is less so.Another man comes forward. A hulking great bearded warrior of a man who makes Mycah visibly wince in his shadow, he suggests the funds be better allocated in purchasing weapons, horses and shields, things that can be used today and are not merely fantasies.
+mno_choice_09_1n|Choose Mycah, stating that a wise ruler has need of books far more than the sword. It will cost 3000 coins
+mno_choice_09_2n|Choose the warrior, stating that books have no place in this age of war. It will cost 3000 coins
+mno_choice_09_3n|State a country needs both men of knowledge and men of war, and that you will provide enough coin for everyone! It will cost 6000 coins
+mno_choice_9_4n|Ignore them.
+menu_event_10_juicio|A searing flash is seen across the night sky. There is much talk of omens the next day. Amongst the people of {s1} there is a general consensus that some act of sacrifice must be made or surely the Gods will unleash their wrath upon the land. The practice of the wickerman suddenely gains impetus, as it is near harvest time. You find a young maiden, freshly flowered, and she is treated as a living goddess until just before harvest...
+mno_choice_10_1n|Order the girl burned inside a wickerman of straw.
+mno_choice_10_2n|You refuse to enact such a barbaric practice and you send the girl away from the town to safety.
+mno_choice_10_3n|Ignore the whole affair.
+menu_event_11_juicio|The sound of a galloping horse pierces the cold morning, and you run outside to find a scout. He tells you a strange ship carrying men who speak a strange language has been shipwrecked at the nearest coast. What do you do?
+mno_choice_11_1n|Immediately send a warband to investigate and search for valuables. If there are any survivors, kill them.
+mno_choice_11_2n|Immediately send a warband to investigate and search for valuables.
+mno_choice_11_3n|Do nothing.
+menu_event_12_juicio|The runner arrives at the courtroom, and after you allow it, starts to tell dire news. 'My liege, a village is in great danger! The populace has some kind of strange sickness, they can hardly move, they sweat blood, and vomit! And the local wise-woman has no cure for it. The lord of the village doesn't let anyone out for the moment, and is waiting on your orders!'
+mno_choice_12_1n|Dire news indeed! The quarantine should stay, but I will send aid!
+mno_choice_12_2n|Dire news indeed! The quarantine should stay, and we will examine the survivors when the epicemic is over!
+menu_event_13_juicio|The servants approach you: My lord, the childbirth is not going well! We tried everything we could, but it seems that the young lady is simply not suited for the ordeal. All that is left is to pray.
+mno_choice_13_1n|Everybody, kneel down and start praying!
+mno_choice_13_2n|Hah! You servants are good for nothing! Guards, bring me the wise woman from the village, NOW!.
+menu_event_14_juicio|One day, a loyal warrior comes to you with a strange request. 'My lord, I am in a bind! I spent all my money on proper equipment and troops, so that I can serve you well. However, my daughter is about to marry, and I cannot give a proper dowry to the husband'.
+mno_choice_14_1n|Give the man 1000 coins.
+mno_choice_14_2n|Everyone should plan ahead. I will grant you 500 coins, but this is the last time.
+mno_choice_14_3n|No, you should have saved up the coin!
+menu_event_15_juicio|One day, your servant arrives at your court, he seems very enthusiastic! 'My lord, I have splendid news! There is a merchant from The Red Mountains in the nearby village now, and he is willing to sell us a piece of blessed Baelors hair! I cannot believe that our lands has the opportunity to gain such a famous relic!'
+mno_choice_15_1n|I have seen so many parts of Baelors head, that it must have been at least a size of an aurochs! We don't pay for fake relics!
+mno_choice_15_2n|This is a very good offer indeed, but sadly we don't have that much in the coffers.
+mno_choice_15_3n|We cannot let this opportunity slip by! Buy the relic for 500 coins.
+menu_event_16_juicio|You were having a feast with your companions when a messenger from the guild masters came before you. 'My liege, there is a situation developing in the town and we need your council.' You stepped outside, but took your mighty weapon with you.^^There is a great deal of rumble among the crowd, but when you appear, silence falls over the audience. An ancient man bows to you and ask permission to speak, which you give, and  he says: 'My liege, here is a case worthy of your wisdom. There are two women who claim to be the mother of this child.^You say to the crowd 'Let their faces be known'. Two women show up, one in plain clothes and another in rags. You say 'If neither agree, the child will be cut in half' You direct your guards to cut the child in half and give one half to each of the women.Then the woman in rags scream and says 'No please my great king, let the other women have the child. You stare at her and say: 'Your are the rightful mother and this child belongs to you'. The woman in rags fall down sobbing with joy, and when your men ask you what to do with the other claimaint, you tell them:
+mno_choice_16_1n|Imprison her in the darkest dungeon.
+mno_choice_16_2n|Hang her.
+mno_choice_16_3n|Give her and the crowd a speech about honesty and honor, and let her live.
+menu_event_17_juicio|Your advisor, streaked with dirt and sunburned, arrives after inspecting the harvest. 'My liege, the harvest is poor this year. If you do not reduce taxes there will be nothing to feed the smallfolk this winter.'
+mno_choice_17_1n|And if I reduce taxes I will have to release men from their oaths, and our enemies would overrun us. Better a empty gut than a cut throat.
+mno_choice_17_2n|Then reduce the tax. It will cost 2000 coins
+menu_event_18_juicio|A peasant from a nearby village comes to you as a supplicant. He breathlessly reports that armed men have raided your holdings, carrying off women, cattle and grain. He is spattered with blood and stinks of burned thatch.
+mno_choice_18_1n|Gather my men! We'll avenge this insult! It will cost 300 coins.
+mno_choice_18_2n|There is nothing to be done here. Away with you, mongrel!
+mno_choice_18_3n|There will be war. You have done well to report this to me.
+mno_choice_18_4n|How can I be sure it wasn't a band of outlaws or madmen? There is little I can do for you.
+menu_event_19_juicio|A whore is accused of witchcraft, after several men-at-arms, sworn to your vassal, reported pain while relieving themselves. Your vassal backs their claim, and you suspect he might have the same complaint but know better than to air it publicly.
+mno_choice_19_1n|Banish the whore, exiling her to the forest.
+mno_choice_19_2n|Have the whore secretly executed.
+mno_choice_19_3n|Witches! Where there's one, there's many! Kill the witch and ensure the sanctity of your holdings by killing anyone else accused of witchcraft!
+menu_event_20_juicio|A holy man comes upon you, and tells you that most of the inhabitants of one of your villages, where he was preaching his odd religion, has taken up arms and attacked him and his followers. The cause, he says, was that he wanted the villagers to eat dirt.
+mno_choice_20_1n|This man is obviously insane.
+mno_choice_20_2n|This man is right! They should eat dirt!
+mno_choice_20_3|We should all eat dirt!
+mno_choice_20_4n|Ignore him.
+menu_event_21_juicio|Your peasants are every bit as vain and arrogant as the lords of this land.A dispute over something as idiotic as a dead chicken has caused a small war between two hamlets. A peasant has come to seek your help against the other villagers. He says the village will pay you.
+mno_choice_21_1n|Agree to help.
+mno_choice_21_2n|Imprison the man, and declare his property forfeit and the lands given over to the other village.
+mno_choice_21_3n|Seize the lands for yourself and exile the peasant.
+menu_event_22_juicio|A woman from a nearby village comes to you claiming that one of your men, who has died recently, was her husband. She asks for assistance to take care of her deceased husbands child.
+mno_choice_22_1n|Give her some coin and send for a wetnurse. It will cost 500 coins.
+mno_choice_22_2n|Ignore her.
+menu_event_23_juicio|Your lover approaches you with a request, 'My liege, would it not show your great mercy and honor if you where to provide for those who have suffered while serving under you? We have dozens of maimed, lame and aged soldiers begging for coin in the streets, and many families who have lost fathers and husbands in your battles. We need to reward and protect your loyal supporters or else men might be hesitant in the future to be in your retinue.'
+mno_choice_23_1n|Bah! Let the orphans and the beggars rot.
+mno_choice_23_2n|Send those outcasts my regards, but I regret there is nothing I can do for them.
+mno_choice_23_3n|I agree, we should support our veterans and their families. It will cost 2000 coins.
+mno_choice_23_4n|This is a tragedy! Immediately open my coffers and make it an official policy that all families shall receive support from their liege. It will cost 5000 coins.
+menu_event_24_juicio|A seemingly straightforward case is brought before you: Yesterday, the accused man broke into the victims house and removed large amounts of wealth. Many people saw him and the missing items were discovered in his house. But the victim was a influential supporter of the previous lord, had actually served as a councillor and was known to be of doubtful loyalties, while the accused was one of your most vocal supporters and had donated much money to your cause.
+mno_choice_24_1n|Ignoring the evidence, you settle in your mans favor, saying he was acting on your orders.
+mno_choice_24_2n|The evidence is clear, the accused is found guilty and has his hands cut off for theft!
+mno_choice_24_3n|You claim both parties are in the wrong, exiling them and confiscating all material pertaining to the case.
+menu_event_01|A singer composed a song about your noble deeds.
+mno_choice_01_1|Excellent!
+mno_choice_01_2|Reward him with 200 coins.
+mno_choice_01_3|Noble deeds? A song? What a fool!
+menu_event_02|Tales of your deeds spread through the countryside. Everywhere you go, your procession is surrounded by beggars.
+mno_choice_02_1|Donate 1000 coins to the local alms fund.
+mno_choice_02_2|Ignore them.
+menu_event_03|A young bard spreads rumors about your mother. Accusations of working in the world's oldest profession are the most delicate ones.
+mno_choice_03_1|Challenge him to a duel.
+mno_choice_03_2|Ignore him.
+menu_event_04|You encounter a beggar and his daughter on the road. They look hungry.
+mno_choice_04_1|Give them 200 coins.
+mno_choice_04_2|Ignore them.
+menu_event_05|A local bard is spreading false rumors about you. While most of the stories are just pure nonsense, sooner or later people will believe those stories.
+mno_choice_05_1|Let him speak what he wants. Every man has his rights.
+mno_choice_05_2|Pay a local scribe 300 coins to spread positive rumors.
+mno_choice_05_5|Ignore him.
+menu_event_06|A mob of angry {s1} dwellers are complaining about corrupt tax collectors. They demand justice. The situation is getting worse by the minute. It looks like a riot is about to begin unless you do something.
+mno_choice_06_1|Begin an investigation and give the peasants 2000 coins.
+mno_choice_06_2|Order the town guards to prevent the mob from spreading and turning into a riot.
+mno_choice_06_3|Ignore them.
+menu_event_07|A single rider, looking poor and unarmed, approaches your party. Intercepted by your men he presents himself as a singer from {s1} and requests your permission to compose an ode about your magnificency and generosity. Your men exchange glances and then look at you waiting for an answer. You...
+mno_choice_07_1|Grant permission to the singer and pay him 500 coins.
+mno_choice_07_2|Grant permission to the singer and pay him 100 coins.
+mno_choice_07_3|Allow the singer to compose the ode but offer him no payment.
+mno_choice_07_4|Ignore him.
+menu_event_08|You spot a single man riding hard towards your party. With a gesture of your hand, your men run to meet him. Intercepted by your men he presents himself as an emissary from {s1} and without delay informs you that an influential man has died {s2} and that his family requests that you agree to declare an official day of mourning in {s1} in his honor. You...
+mno_choice_08_1|Agree to the request and donate 500 coins to widow.
+mno_choice_08_2|Refuse the request.
+menu_event_09|You are travelling through the forest and you suddenly spot a wild hare, trapped in a snare. What do you do?
+mno_choice_09_1|Free the animal.
+mno_choice_09_2|Clench the snare and kill the hare!
+mno_choice_09_3|Ignore it.
+menu_event_10|You are travelling through the forest and you spot a peasant tied up a tree, probably by a bandit. What do you do?
+mno_choice_10_1|Free the peasant.
+mno_choice_10_2|Ignore him.
+mno_choice_10_3|Kill the peasant
+menu_law_event_1|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
+mno_choice_10_4|Outlaw serfdom.
+mno_choice_10_5|Outlaw heresy.
+mno_choice_10_6|Do nothing.
+menu_law_event_2|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
+menu_law_event_3|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
+menu_law_event_4|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
+menu_law_event_5|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
+menu_crusader_kings_event_1|You're resting on a bench in a small village. Sitting near the village center, you overhear the many conversations people are having. The gossip, the rumours, the anger and the happiness. There are so many interesting things going on in the world!
+menu_crusader_kings_event_2|You're resting on a bench in a small village. Sitting near the village center, you notice a travelling singer. Sitting down beside you on the bench, he offers to sing you a song, for free!
+menu_crusader_kings_event_3|Two minor nobles from one of your villages fought against each other with swords. You decide to...
+menu_crusader_kings_event_4|A religious fanatic held a service in one of your villages as you were passing by. After the sermon, he rushed to meet you, shouting for your opinion on the aspects of the Seven...
+menu_crusader_kings_event_5|You are conversing with a minor noble, when you hear a loud scream somewhere behind you! Going to investigate, you discover a septon and a farm girl engaged in carnal pleasures, oblivious to the world. When you politely cough, they turn in your direction, and seem to remember where they are. You decide to...
+menu_crusader_kings_event_6|During dinner, one of your courtiers drank too much wine. When you tried to steady him, and help him to his bed, he threw up on your shoes! You decide to...
+menu_crusader_kings_event_7|As you stop for a while, you notice an old man sitting on a rock. Approaching him, he promises to teach you magic from Old Valyria, if only you'll strip naked. You decide to...
+menu_crusader_kings_event_8|As you stop for a while, you notice an old crone sitting on the ground. Approaching her, she promises to teach you magic from Old Valyria, if only you'll strip naked. You decide to...
+menu_crusader_kings_event_9|As you stop for a while, you notice a procession of villagers walking towards you. As they near you, you see a man in their midst, beaten, and with a noose around his neck. As he is pulled towards the gallows, you can hear him faintly whisper a prayer to the Stranger. You decide to...
+menu_crusader_kings_event_10|As you near the top of a massive cliff, you notice two people already there. Approaching, you hear childrens voices, and realise two kids are standing very close to the edge. As you come nearer, you see that one of the kids has some sort of contraption strapped to his back. The child is obviously going to try and fly off the cliff! You decide to...
+menu_crusader_kings_event_11|You've heard rumours of a black wight living in your hall! People have seen it move around in the dead of night, often stealing food from the pantry and keeping close to the walls. Something must be done! Setting a watch, you quickly catch the supposed 'wight', which turns out to be two children in a cloak. You decide to...
+menu_crusader_kings_event_12|Two of your courtiers where caught in the same bed, doing something reserved for married couples. When the two young maidens are brought before you, you decide to...
+menu_crusader_kings_event_13|Last night, you had a dream. A strange creature, with five heads and no legs, told you to shout at the moon! Surely dreams are to be taken seriously. You decide to...
+menu_crusader_kings_event_14|One of your courtiers have clearly gone mad. He keeps talking to his horse, as if it understood him, and last night the servants caught him doing something... odd... with the horse. You decide to...
+menu_desert_event_1|You're walking along a dried out riverbed, when you see a scorpion! You decide to...
+menu_desert_event_2|You're walking along a dried out riverbed, when you see a scorpion! You decide to...
+menu_desert_event_3|You kick a rock, and underneath is a white and red viper. You recognise it as the kind called Smooth-Tree Viper by the smallfolk! The snake hiss at you, getting ready to strike! You decide to...
+menu_desert_event_4|You kick a rock, and underneath is a blue and green viper. You recognise it as the kind called Queen Viper by the smallfolk! The snake hiss at you, getting ready to strike! You decide to...
+menu_desert_event_5|You kick a rock, and underneath is a black viper. You recognise it as the kind called Long-Nosed Death by the smallfolk! The snake hiss at you, getting ready to strike! You decide to...
+menu_desert_event_6|You kick a rock, and underneath is a brown viper. You recognise it as the kind called Trinket Snake by the smallfolk! The snake hiss at you, getting ready to strike! You decide to...
+menu_desert_event_7|You wake up from a brief nap to find a large spider on your left boot! You decide to...
+menu_desert_event_8|A vulture is seen flying overhead, carrying a large rat in its claws. Suddenly, the vulture is attacked by an eagle! This must surely be an omen, but how to interpret it...
+menu_desert_event_9|You decide to rest for a while, in the shade of a great palm tree. Dates are strewn on the ground, sweet and delicious. You decide to...
+menu_desert_event_10|You decide to rest for a while, in the shade of a great cactus. The cactus bears a strange fruit. You decide to...
+menu_desert_event_11|You decide to rest for a while, in the shade of a great rock. A clear stream can be heard bubbling beneath the rock. You decide to...
+menu_desert_event_12|You decide to rest for a while, in the shade of a great rock. As you near the rock, you notice an old man, dressed in white. He appears to be sleeping. You decide to...
+menu_food_event_1|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some tasty wild onions.
+menu_food_event_2|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some tasty wild turnips.
+menu_food_event_3|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some tasty wild raddishes.
+menu_food_event_4|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
+menu_food_event_5|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
+menu_food_event_6|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
+menu_food_event_7|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
+menu_food_event_8|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
+menu_food_event_9|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some wild geese eggs.
+menu_food_event_10|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some wild geese eggs.
+menu_food_event_11|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some wild geese eggs.
+menu_food_event_12|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. Rummaging through the woods, you suddenly spot a large bear!
+menu_food_event_13|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Climbing a tree in the search for eggs, you spot a large nest.
+menu_food_event_14|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Climbing a tree in the search for eggs, you spot a large nest.
+menu_food_event_15|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild apple tree.
+menu_food_event_16|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
+menu_food_event_17|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
+menu_food_event_18|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
+menu_food_event_19|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
+menu_food_event_20|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
+menu_feast_event_1|You're in the mood for something special today. Perhaps a minor feast. Talking to one of your courtiers, you settle on hosting a feast for your retinue and decide to...
+menu_feast_event_2|You're in the mood for something special today. Perhaps a minor feast. Talking to one of your courtiers, you settle on hosting a feast for your retinue and decide to...
+menu_feast_event_3|You're in the mood for something special today. Perhaps a minor feast. Talking to one of your courtiers, you settle on hosting a feast for your retinue and decide to...
+menu_feast_event_4|You're in the mood for something special today. Perhaps a minor feast. Talking to one of your courtiers, you settle on hosting a feast for your retinue and decide to...
+menu_feast_event_5|You're in the mood for something special today. Perhaps you should allow the cook to experiment a bit. After hours in the kitchen, he finally presents you with lamb roasted over a slow fire, served with a salad of raisins and carrots soaked in wine. When you cut into the lamb, the air fills with the smell of saffron and cloves.
+menu_feast_event_6|You're in the mood for something special today. Perhaps you should allow the cook to experiment a bit. Approaching you, the cook asks if you'd like to try a dornish specialty.
+menu_feast_event_7|You're in the mood for something special today. Perhaps you should allow the cook to experiment a bit. Approaching you, the cook asks if you'd like to try a ghiscari specialty.
+menu_feast_event_8|You're in the mood for something special today. Perhaps you should allow the cook to experiment a bit. Approaching you, the cook asks if you'd like to try a volantene specialty.
+menu_hunting_event_1|You're in the mood for some exercise. Chatting with one of your courtiers, you decide to go hunting. Assembling the courtiers, ladies and young men of your court, you head into the woods, to hunt the great white stag, rumoured to live there. Riding your horse through the wood, you finally spot the white stag, and decide to...
+menu_hunting_event_2|You're in the mood for some exercise. Chatting with one of your courtiers, you decide to go hunting. Assembling the courtiers, ladies and young men of your court, you head into the woods, to hunt the great white stag, rumoured to live there. Riding your horse through the wood, you finally spot the white stag, and decide to...
+menu_hunting_event_3|You're in the mood for some exercise and excitement. Chatting with one of your courtiers, you decide to go hunting. Assembling the courtiers, ladies and young men of your court, you head into the woods, to hunt the great man-eating bear, rumoured to live there. Riding your horse through the wood, you finally spot the bear, and decide to...
+menu_hunting_event_4|You're in the mood for some exercise and excitement. Chatting with one of your courtiers, you decide to go hunting. Assembling the courtiers, ladies and young men of your court, you head into the woods, to hunt the black boar, rumoured to live there. Riding your horse through the wood, you finally spot the boar, and decide to...
+menu_sea_travel_event_1|The sky is dark, and the winds are picking up! What do you do?
+menu_sea_travel_event_2|Looking out across the sea, you spot a huge dark shape beneath the waves. What could it be?
+menu_sea_travel_event_3|Looking out across the sea, you spot a multitude of brightly colored fish. They're jumping out the water! One is heading straight for your head! You decide to...
+menu_sea_travel_event_4|The planks of the ship are slippery and covered with grease. Someone could get hurt! You decide to...
+menu_sea_travel_event_5|The crew is a superstitious bunch, and you forgot to bring a cat for the ships hold! The men are muttering about bad luck, and eye you insolently. You decide to...
+menu_sea_travel_event_6|The crew is a superstitious bunch, and you forgot to have the ship sprinkled with wine before you left port! The men are muttering about bad luck, and eye you insolently. You decide to...
+menu_sea_travel_event_7|The crew is a superstitious bunch, and when a gull flies into the topmast, they take it as an omen! But they're not quite sure what the omen means. You decide to tell them that...
+menu_sea_travel_event_8|The crew is a superstitious bunch, and when one of them catch a shark, eating a smaller shark, they take it as an omen! But they're not quite sure what the omen means. You decide to tell them that...
+menu_stormlands_event_1|The seasons pass, and the day has come again. It's The Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men.
+menu_stormlands_event_2|The seasons pass, and the day has come again. It's The Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
+menu_stormlands_event_3|The seasons pass, and the day has come again. It's The Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
+menu_stormlands_event_4|The seasons pass, and the day has come again. It's The Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later, in Storm's End, there'll be a great feast, during which the local septon prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches.
+menu_stormlands_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
+menu_stormlands_event_6|The storms are gaining strenght! The Stormlands are widely known for the savage storms beating against the cliffs of Shipbreaker's Bay, making sea travel a hazardous endeavor at best.To appease the storms, the septons of the Stormlands often hold special prayer days, invocating the Father to ease the passage of the winds. The Stormlanders calls these days 'Ember Days', as the septons fires are often snuffed out by the storms.
+menu_stormlands_event_7|The Stormlands are well known for their massive warhorses. As you sit down to rest on a fallen log, you notice a merchant travelling towards you. He offers to sell you one of the famous destriers, for the standard price of 5000 coins.
+menu_stormlands_event_8|The Stormlands are well known for their finely crafted war hammers. As you sit down to rest on a large, smooth, stone, you notice a lonely knight travelling towards you. He offers to sell you one of his own war hammers for the reasonable price of 3000 coins.
+menu_north_event_1|Winter is coming! The summer snows are getting stronger, and autumn is approaching. Now is the time to start buying supplies, and getting ready for winter. How much do you wish to spend on grain this month?
+menu_north_event_2|The seasons pass, and the day has come again. It's the Feast of the Raven, during which those who worship the Old Gods all gather around the weirwoods and light great fires.Later, there'll be a feast, during which old grizzled warriors compete against each other in wrestling matches, with the winner being given a weirwood crown, and usually a bag of silver.
+menu_north_event_3|The seasons pass, and the day has come again. It's the Feast of the Watch, during which every man, woman and child in the north celebrate the Night's Watch by dressing all in black.Later, there'll be a feast, during which old grizzled warriors tells tales of Raymund Redbeard, Joramun and the brothers Gendel and Gorne, usually followed by songs and plenty of ale.
+menu_north_event_4|'May your winters be short and your summers bountiful' says an old beggar you meet on the road.Recognizing the usual greeting extended to people from the far north, you reward the beggar with...
+menu_vale_event_1|The seasons pass, and the day has come again. It's The Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men.
+menu_vale_event_2|The seasons pass, and the day has come again. It's The Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
+menu_vale_event_3|The seasons pass, and the day has come again. It's The Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
+menu_vale_event_4|The seasons pass, and the day has come again. It's The Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later, in The Eyrie, there'll be a great feast, during which the local septon prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches.
+menu_vale_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
+menu_braavos_event_1|The seasons pass, and the day has come again. It's The Feast of Salvation. On this day, all the men, women and children of Braavos gather in the streets, to give thanks for the destruction of the Valyrian Freehold.Copious amounts of ale, wine and food is consumed, and many a child will be conceived before the day is ended.
+menu_braavos_event_2|The seasons pass, and the day has come again. It's The Night of Sleep. On this day, all the men and women of Braavos spend as much time as possible with their eyes closed, entreating the Many-Faced God to ignore them.Later, the people of Braavos will drown an elephant in the harbor, as an offering to the Many-Faced God.
+menu_braavos_event_3|The seasons pass, and the day has come again. It's the Day of the Gods. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, while praising a multitude of different gods.Later, there'll be a feast, with the Second Sword of Braavos offering his sword to the Guild of the Faceless Men, and them rejecting it so he might continue his work.
+menu_braavos_event_4|The seasons pass, and the day has come again. It's The Day of the Sea. On this day, all citizens of Braavos, even the Sealord, jump into the canals and wash their faces in the water, to show their devotion to the sea, that both shelters them and provides them with a great bounty of food.Later, many will be stricken by diarrhea, due to the unsanitary conditions of the canals.
+menu_braavos_event_5|The seasons pass, and the day has come again. It's the Night of Souls, during which those who worship the Many-Faced God gather to tell stories in the darkness.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the beggars of Braavos are invited inside every tavern.
+menu_riverlands_event_1|The seasons pass, and the day has come again. It's The Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men.
+menu_riverlands_event_2|The seasons pass, and the day has come again. It's The Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
+menu_riverlands_event_3|The seasons pass, and the day has come again. It's The Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
+menu_riverlands_event_4|The seasons pass, and the day has come again. It's The Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later, in Riverrun, there'll be a great feast, during which the local septon prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches.
+menu_riverlands_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
+menu_dorne_event_1|The seasons pass, and the day has come again. It's The Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and in Dorne, the young women offer young, unmarried, men pieces of candied oranges and honeycombs.
+menu_dorne_event_2|The seasons pass, and the day has come again. It's The Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
+menu_dorne_event_3|The seasons pass, and the day has come again. It's The Stranger's Day. On this day, the men, women and children of Dorne go door to door begging sweets, fruits and sourleaf, carrying great cloth sacks filled with sand that represent the end of all men, the grave.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
+menu_dorne_event_4|The seasons pass, and the day has come again. It's The Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later, in Sunspear, there'll be a great feast, during which the local septon prostate himself before the statue of the Father and the Silent Sisters whip him with dead vipers.
+menu_dorne_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
+menu_dragonstone_event_1|The seasons pass, and the day has come again. It's The Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Worshipping the Seven is frowned upon amongst the Queen's Men, but for those who still worship the Maiden, the day is a joyous one.
+menu_dragonstone_event_2|The seasons pass, and the day has come again. It's The Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own. Worshipping the Seven is frowned upon amongst the Queen's Men, but for those who still worship the Warrior, the day is a joyous one.
+menu_dragonstone_event_3|The seasons pass, and the day has come again. It's The Stranger's Day. On this day, the men, women and children of Westeros go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt that represent the end of all men, the grave.The lords and knights sworn to King Stannis are torn on whether or not to celebrate, as the King's Men see the Stranger as just another aspect of the Seven, while the Queen's Men see the Stranger as an aspect of the Great Other, the eternal enemy of R'hllor, the Lord of Light.
+menu_dragonstone_event_4|The seasons pass, and the day has come again. It's The Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Those who worship the Lord of Light ignore the festivities, while the King's Men make a great deal of honoring the Father and appearing benevolent and just.
+menu_dragonstone_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord. To avoid grumbling children, those who worship the Lord of Light also grant their children gifts, but claim that the gifts are only possible through the favor of R'hllor
+menu_westerlands_event_1|The seasons pass, and the day has come again. It's The Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men.
+menu_westerlands_event_2|The seasons pass, and the day has come again. It's The Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
+menu_westerlands_event_3|The seasons pass, and the day has come again. It's The Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
+menu_westerlands_event_4|The seasons pass, and the day has come again. It's The Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later, in Casterly Rock, there'll be a great feast, during which the local septon prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches.
+menu_westerlands_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
+menu_reach_event_1|The seasons pass, and the day has come again. It's The Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men.
+menu_reach_event_2|The seasons pass, and the day has come again. It's The Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
+menu_reach_event_3|The seasons pass, and the day has come again. It's The Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
+menu_reach_event_4|The seasons pass, and the day has come again. It's The Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later, in the Starry Sept of Oldtown, there'll be a great feast, during which the local septons prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches.
+menu_reach_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
+menu_ironborn_event_1|'What is dead may never die' shouts the men of the ship, as you sail across the waves. The Drowned God favor the ironborn, and this journey across his domain will surely yield a favorable result.
+menu_ironborn_event_2|'What is dead may never die' shouts the men of the ship, as you sail across the waves. A young man was washed overboard, and when the men of the ship hauled him back in, his skin was cold and his lungs filled with water. But then he opened his eyes, and coughed up the ocean. The young man has been drowned twice, surely he is favored by the Drowned God.
+menu_ironborn_event_3|The storms are picking up! The Storm God is fighting the Drowned God, and the waves are in turmoil! Now is the time to pray, that the Drowned God may hold out his mighty hand and shelter you from the storm.
+menu_ironborn_event_4|The storms are picking up, and the waves are huge. 'I will still these waters with mine own blood!' says an old raider who is part of the crew.Picking up an axe, he hacks of a finger and throws it into the waters, as an offering to the Drowned God. You decide to reward the man with...
+menu_negative_event_1|You stumble and hurt your knee. The pain is unbearable. What do you do?
+menu_negative_event_2|You stumble and hurt your hand. After a few hours, it starts to turn blue. What do you do?
+menu_negative_event_3|A branch falls off a tree, and hit you in the head. At first, you feel fine, but soon your vision turns blurry, and you have trouble concentrating. What do you do?
+menu_negative_event_4|You've caught a cold. The symptoms are not severe, but you should probably rest for a bit. What do you do?
+menu_negative_event_5|You've cut yourself on a rusty knife. The wound looks fine, but perhaps it would be wise to take some precautions. What do you do?
+menu_negative_event_6|You come across some mushrooms. They look plain brown and slightly white. What do you do?
+menu_negative_event_7|You've got a thorn in your hand! What do you do?
+menu_negative_event_8|A young girl, from a nearby village, offers herself to you. It will only cost twenty silver!
+menu_negative_event_11|You meet a lonely septon on the road. As you pass him, you stumble and accidentally push him off the track.
+menu_negative_event_22|Going into the woods alone, you suddenly feel a blade across your throat. An outlaw has ambushed you. Listening to him slobber and stammer, it is clear that the man is unstable and dangerous. What do you do?
+menu_negative_event_33|Walking alone in the forest, you come across two young women, bathing in a stream. They seem to be alone, with no way of defending themselves.
+menu_negative_event_44|Walking through a small village, a young man approaches you. He'll spend the night with you for free, if only he can travel with you for a while.
+menu_negative_event_55|You're walking across a field, when your foot is caught in a rabbits hole. As you fall over, your manage to twist your body, sending a stab of blinding pain up through your leg. What do you do?
+menu_negative_event_66|You come across a blind beggar. The man is old and frail, but he might have a couple of coins in his purse.
+menu_negative_event_77|You come across a young man, bearing the clothes of a minor noble. When he sees you, he signals for you to follow. Curious, you do so, and when you're alone, he kicks you in the groin!
+menu_negative_event_88|A young man, from a nearby village, offers himself to you. It will only cost twenty silver!
+menu_event_101|You are a famous leader of men, and you receive news that a group of knights wishes to join you. But they want more pay than the rest of your troops.
+mno_choice_101_1|They are welcome.
+mno_choice_101_2|I do not need more troops.
+mno_choice_101_3|Kill them. Surely they carry many valuables.
+menu_event_102|You receive news that a group of women expresses interest in becoming camp followers.
+mno_choice_102_1|They are welcome.
+mno_choice_102_2|I do not need more troops.
+menu_event_103|You are a famous leader of men, and you receive news that a group of singers wishes to join you, and make your travels more joyous.
+mno_choice_103_1|They are welcome.
+mno_choice_103_2|I do not need more troops.
+menu_event_11|The kin of a farmer slain in one of your battles brings a suit against you requesting compensation of 200 coins. What do you do?
+mno_choice_11_1|Pay them 200 coins.
+mno_choice_11_2|Refuse to pay
+mno_choice_11_3|Refuse to answer the case at all
+menu_event_12|The kin of a sellsword slain in one of your battles demands compensation. What do you do?
+mno_choice_12_1|Pay them 500 coins.
+mno_choice_12_2|Refuse to pay.
+mno_choice_12_3|Refuse to answer the case at all.
+menu_event_13|You see a crane circling above your party.
+mno_choice_13_1|Tell to your men that the crane symbolizes good luck, and the next battle you fight shall find you victorious!
+mno_choice_13_2|Ignore it.
+mno_choice_13_3|Tell them that although cranes warn of a bad fortunes, you have faith in their prowess!
+menu_event_14|A country farmer stands before you on the road, a weeping girl behind him. He points his finger accusingly at one of your men, saying that he raped his daughter and demands justice.
+mno_choice_14_1|You will not tolerate indecency amongst your men! Geld the man and cast him out of your party.
+mno_choice_14_2|Give the accused man a lashing and consider the matter settled.
+mno_choice_14_3|It is a hard world, and a man will take what he can. Tell the farmer that he is lucky that is all the man did!
+menu_event_15|You are travelling through the forest and you suddenly spot a lot of mushrooms, cowered with blue and red spots. What do you do?
+mno_choice_15_1|Pick them up and eat them.
+mno_choice_15_2|Pick them up and give them to your men.
+mno_choice_15_3|Ignore them.
+menu_event_16|You are travelling through the forest and you suddenly spot a lot of mushrooms, brown and sweet smelling. What do you do?
+mno_choice_16_1|Pick them up and eat them.
+mno_choice_16_2|Pick them up and give them to your men.
+mno_choice_16_3|Ignore them.
+menu_event_17|You are travelling through the forest and you suddenly spot a lot of mushrooms, cowered in spider web, and with an awful smell. What do you do?
+mno_choice_17_1|Pick them up and eat them.
+mno_choice_17_2|Pick them up and give them to your men.
+mno_choice_17_3|Ignore them.
+menu_event_18|You rest near a village, when the local elders wife approaches you. The wife wants to sleep with you, while her husband is away.
+mno_choice_18_1|You agree.
+mno_choice_18_2|You send one of your men to rape the wife.
+mno_choice_18_3|You refuse.
+menu_event_19|You stumble over a group of beggars that are being attacked by a group of bandits.
+mno_choice_19_1|Rush to the aid of the beggars and teach those bloody bandits not to disturb the poor.
+mno_choice_19_2|Aid the bandits and bathe in the blood of the beggars!
+menu_event_20|You happen to find a purse filled with coins.
+mno_choice_20_1|Give the purse to a hospice.
+mno_choice_20_2|Keep the purse.
+menu_event_21|You come across some runaway serfs.
+mno_choice_21_1|Help them on their way.
+mno_choice_21_2|Return them to their master.
+menu_event_22|You come upon bandits ambushing some merchants.
+mno_choice_22_1|Chase the bandits away.
+mno_choice_22_2|Aid the bandits.
+menu_event_23|Your fame and popularity has attracted young noblemen to your cause.
+mno_choice_23_1|Accept them.
+mno_choice_23_2|I don't need any more men.
+menu_event_24|You spot a poor man on the road. He looks tired. You send one of your men to ask him why he is in the wilderness alone. He says that outlaws robbed him and if he doesnt get some money soon to buy food, he will starve. He says he served in the army once, and will make a loyal warrior.
+mno_choice_24_1|Life is not fair, give him nothing.
+mno_choice_24_2|Give him money only to eat a very small meal. At least he'll live.
+mno_choice_24_3|Give him a ton! Every one deserves to eat.
+mno_choice_24_4|Give him money and a horse, to ride home.
+mno_choice_24_5|Pay him and suggest he join your army, he looks able after all.
+menu_event_25|You encounter a small child, dressed in rags and looking very hungry. He walks up to you and begs for some food.
+mno_choice_25_1|Give him nothing.
+mno_choice_25_2|Give the boy 100 coins.
+mno_choice_25_3|Give the boy a sack of 500 coins.
+menu_event_26|A group of bandits approaches your camp. As your men reach for their weapons, the bandits put down their weapons and say they come in peace. The leader of the bandits approaches you and asks if they may join you.
+mno_choice_26_1|Of course! My party always welcomes bloodthirsty men!
+mno_choice_26_2|We have no room for your kind!
+mno_choice_26_3|Prove yourselves worthy by raiding a village and bringing me the elders head!
+mno_choice_26_4|Kill them all!
+menu_event_27|A religous fanatic from Oldtown is following your army. While he gains some converts, he also creates some unrest.
+mno_choice_27_1|Thank the heavens! Let him be.
+mno_choice_27_2|Offer him a place in your warband.
+mno_choice_27_3|Get rid of him.
+menu_event_28|A religous fanatic from Volantis is following your army. While he gains some converts he also creates some unrest.
+mno_choice_28_1|Thanks be to R'hllor! Let him be!
+mno_choice_28_2|Offer him a place in your warband.
+mno_choice_28_3|Get rid of him.
+menu_event_29|You come upon a temple. The priests are busy working or praying, none of them is armed. You see golden treasures and silver tributes glistening inside...
+mno_choice_29_1|Pass by the temple.
+mno_choice_29_2|Go inside, pray and pay a tribute of 500 coins.
+mno_choice_29_3|Loot the temple, slaughter all the priests and burn the place!
+menu_event_30|You come upon a local septry. The brothers are busy working or praying, none of them is armed. You see gold treasures and silver tributes glistening inside...
+mno_choice_30_1|Pass by the septry.
+mno_choice_30_2|Go inside, pray and pay a tribute of 500 coins.
+mno_choice_30_3|Loot the septry, slaughter the brothers and burn the place!
+menu_event_31|Some of your enemies have taken refuge in a nearby septry and the local septon have given them sanctuary!
+mno_choice_31_1|Ignore them.
+mno_choice_31_2|Donate 100 coins to the septry.
+mno_choice_31_3|Go inside, slaughter them and kill the interfering septon!
+menu_event_32|You come across the grave of an old and forgotten king.
+mno_choice_32_1|Loot the tomb!
+mno_choice_32_2|Donate 1000 coins for a new tomb.
+mno_choice_32_3|Enter the tomb and pay your respects
+menu_event_33|In the local tavern you come across a young scholar who claims his master is chronicling the great and notable events of this land.He offers, for a small fee of 300 coins, to convince his master to overlook your notoriety for incessant raping, pillaging, and general debauchery, and instead depict you as a something closer to Baelor the Blessed or a champion for the poor and oppressed or a heroic champion - whichever you prefer.
+mno_choice_33_1|You decide to ignore him, muttering that you are content to let history be the judge.
+mno_choice_33_2|You pay the young man what he asks for.
+mno_choice_33_3|You gladly pay the man his fee.
+mno_choice_33_4|After listening impatiently to the man, you scold him, remarking that you have never heard of a more pathetic scam in your life.
+menu_event_34|You pass through a local village which appears to be suffering through some hard times.To give the village a boost, you announce that you will sponsor a sewing and embroidery contest for the gentle ladyfolk of the countryside and will reward handsomely the one who can produce the brightest, most fashionable, yet suitably manly, new tunic.
+mno_choice_34_1|Declare the prettiest girl in town to be the winner, instructing her to present herself at your tent.
+mno_choice_34_2|Scold the village elder for not treating the matter seriously. Declaring that these rags are not fit for dishcloths, you storm out of the town.
+mno_choice_34_3|You collect various coloured tunics brought to you and amusingly think to yourself that these would be good to use for blankets or for some type of washcloth. You still pay the winner 500 coins.
+menu_event_35|While reviewing the latest reconnaissance reports with your men, you whimsically remark that passing through the beautiful countryside makes you wish you could one day cast aside your sword settle down on your own land with some local buxom wench and spend the rest of your days making babies and growing wheat...To which one of your men retorts that this was hardly likely, as your body odour is legendary and everyone knows wheat only grows when attended by peasants.
+mno_choice_35_1|Laugh heartily at his witty comment.
+mno_choice_35_2|You glare at the young man and your mood suddenly turns for the worse, but later, on reflection, you realise that he was probably right.
+mno_choice_35_3|You manage to force a smile while your comrades laughter surrounds you, and while no one is looking, you give the secret wink to your most trusted man. The young comedians head will soon adorn a spike.
+menu_event_36|You come across what are, evidently, stray sheep from a nearby village
+mno_choice_36_1|Return the sheep to the village and ask for no reward.
+mno_choice_36_2|Return the sheep... for a price.
+mno_choice_36_3|Dinner! Round up and slaughter the animals.
+menu_event_37|A traveller tells you where to find a band of travelling mummers, recently arrived.
+mno_choice_37_1|You attack the small caravan, easily slaughtering the hapless mummers, leaving few survivors.
+mno_choice_37_2|Demand tribute.
+mno_choice_37_3|Disperse the mummers and claim all their possessions as your own, leaving them only their lives.
+mno_choice_37_4|Help them on their way, giving them 200 coins. They depart praising your name.
+mno_choice_37_5|Ignore them.
+menu_event_38|A traveller tells you where to find a band of begging brothers.
+mno_choice_38_1|You attack the small enclave, easily slaughtering the hapless brothers, leaving few survivors.
+mno_choice_38_2|Demand tribute.
+mno_choice_38_3|Disperse the brothers and claim all their possessions as your own, leaving them only their lives.
+mno_choice_38_4|Help them on their way, and give them 500 coins. They depart praising your name.
+mno_choice_38_5|Ignore them.
+menu_event_39|A traveller tells you where to find a small band of outlaws.
+mno_choice_39_1|You ambush them, easily slaughtering the hapless outlaws, leaving few survivors.
+mno_choice_39_2|Demand tribute.
+mno_choice_39_3|Disperse the outlaws and claim all their possessions as your own, leaving them only their lives.
+mno_choice_39_4|Help them on their way, and give them 500 gold. They depart praising your name.
+mno_choice_39_5|Ignore them.
+menu_event_40|One of your soldiers rapes the daughter of a local peasant.
+mno_choice_40_1|Ignore the situation.
+mno_choice_40_2|Geld the soldier.
+mno_choice_40_3|Execute the soldier and apologize for the incident.
+mno_choice_40_4|Pay the peasant 250 coins to keep quiet.
+menu_event_41|One of your soldiers succumbs to his wounds from a previous battle.
+mno_choice_41_1|Take his kit and his gold. He was, afterall, just a soldier, and all he owns belongs to you.
+mno_choice_41_2|Give the soldiers belongings to his family.
+mno_choice_41_3|Give the widow 550 coins.
+menu_event_42|One of your new recruits dies from an illness. He carries both a seven pointed star, and a tattoo of R'hllors flames. No one knows what he preferred most.
+mno_choice_42_1|Burn him and donate 1000 coins to the Temple of the Lord of Light.
+mno_choice_42_2|Bury him and donate 1000 coins to the Starry Sept.
+mno_choice_42_3|Just leave him lying there.
+menu_recruit_nobles|{s18}
+menu_world_map_soldier|What do you need to do soldier?
+mno_join_commander_battle|Follow the commander into battle.
+mno_enter_town|Enter stationed town.
+mno_commander|Request audience with your commander.
+mno_revolt|Revolt against the commander!
+mno_revolt_disabled|You cannot revolt now. Bide your time.
+mno_desert|Desert the army.(keep equipment but lose relations)
+mno_return_to_duty|Return to duty.
+menu_commander_aud|Your request for a meeting is relayed to your commander's camp, and finally {s6} appears from his tent to speak with you.
+mno_reject_talk_lord|No, nevermind.
+menu_ask_revolt|Are you sure you want to revolt?
+mno_confirm_revolt|Yes, {s6} will be the death of us all, it is time to act!
+mno_reject_revolt|No, I am loyal to {s6}.
+menu_revolt|Do you want to release the prisoners to help your men?
+mno_revolt_prisoners|Yes, I will take the risk for a greater advantage.
+mno_revolt_no_prisoners|No, I don't trust prisoners.
+menu_ask_desert|Do you want to desert?
+mno_confirm_desert|Yes, this is pointless.
+mno_reject_desert|No, I am loyal to my commander.
+menu_desert|While in the army you've made some good friends. Some could possibly follow you.
+mno_desert_party|Try to convince them to follow you.
+mno_desert_alone|No, I have a better chance alone.
+menu_upgrade_path|In recognition of your excellent service, your commander is considering you for a promotion.
+mno_upgrade_path_1|{s66}{s0}.
+mno_upgrade_path_2|{s67}{s0}.
+mno_upgrade_wait|Wait until next week.
+menu_lco_presentation|Hidden Text
+menu_lco_view_character|Hidden Text
+menu_lco_auto_return|Hidden Text
