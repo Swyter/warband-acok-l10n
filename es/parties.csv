@@ -1,0 +1,438 @@
+﻿p_zendar|Zendar
+p_town_1|Villahermana
+p_town_3|Salinas
+p_town_6|Torrellorosa
+p_town_8|Puerto Gaviota
+p_town_9|Buenmercado
+p_town_12|Pentos
+p_town_16|Desembarco del Rey
+p_town_17|Braavos
+p_town_18|Septo de Piedra
+p_town_19|Lanza del Sol
+p_town_20|Ciudad de los Tablones
+p_town_23|Rocadragón
+p_town_24|Lannisport
+p_town_25|Valle Oscuro
+p_town_26|Poza de la Doncella
+p_town_27|Kayce
+p_town_30|Vado Ceniza
+p_town_31|Puerto Blanco
+p_town_32|Antigua
+p_town_33|Pyke
+p_town_34|Puerto Noble
+p_town_35|Roble de Hierro
+p_town_36|Ruinas de Ghoyan Drohe
+p_town_38|Lorath
+p_town_40|Lys
+p_town_41|Fuerte Túmulo
+p_town_42|Ladera
+p_town_44|Navar
+p_town_45|Myr
+p_town_46|Tyrosh
+p_town_47|Volantis
+p_town_48|Volon Therys
+p_town_49|Valysar
+p_town_50|Selhorys
+p_town_51|Norvos
+p_town_52|Ruinas de Ny Sar
+p_castle_1|Rapsodia
+p_castle_2|Dedos de Pedernal
+p_castle_3|Puertabronce
+p_castle_4|Atalaya de la Viuda
+p_castle_5|Rosby
+p_castle_6|Castillo Viejo
+p_castle_7|Varamar
+p_castle_8|Bosquealto
+p_castle_9|Foso Cailin
+p_castle_10|Pazo Pajar
+p_castle_11|Punta Aguda
+p_castle_12|Serbaledo
+p_castle_13|Piedratormenta
+p_castle_14|Iksa Keria
+p_castle_15|Último Hogar
+p_castle_16|Astas
+p_castle_17|Castillo Cerwyn
+p_castle_18|El Risco
+p_castle_19|Bastión Kar
+p_castle_20|Nido de Cuervos
+p_castle_21|Fuerterojo
+p_castle_22|Bosquespeso
+p_castle_23|Piedra de las Runas
+p_castle_24|Puerta de la Sangre
+p_castle_25|Castillo del Amanecer
+p_castle_26|Princesa Rosada
+p_castle_27|Niebla
+p_castle_28|Bosque de la Serpiente
+p_castle_29|Harrenhal
+p_castle_30|Costa Salada
+p_castle_31|Fuerte Desolación
+p_castle_32|Fuerte Terror
+p_castle_33|Aguasfrías
+p_castle_34|Nido de Águilas
+p_castle_35|Arcolargo
+p_castle_36|Varadero Viejo
+p_castle_37|Los Gemelos
+p_castle_38|Atranta
+p_castle_39|Torreón Bellota
+p_castle_40|Refugionegro
+p_castle_41|Limonar
+p_castle_42|Palosanto
+p_castle_43|Vaith
+p_castle_44|Asperón
+p_castle_45|Tor
+p_castle_46|Colina Fantasma
+p_castle_47|Bondadivina
+p_castle_48|Sepulcro del Rey
+p_castle_49|Montenegro
+p_castle_50|Canto Nocturno
+p_castle_51|Marcaceniza
+p_castle_52|Roca Casterly
+p_castle_53|Refugio Quebrado
+p_castle_54|Sarsfield
+p_castle_55|Valdecuerno
+p_castle_56|Cuevahonda
+p_castle_57|Maizal
+p_castle_58|Grajal
+p_castle_59|Isla Zarpa
+p_castle_60|Tres Torres
+p_castle_61|Tierras Altas
+p_castle_62|Coronanegra
+p_castle_63|Bandallon
+p_castle_64|Roble Viejo
+p_castle_65|Sotodeoro
+p_castle_66|La Sidra
+p_castle_67|Valdehierba
+p_castle_68|Granmesa
+p_castle_69|Hogar del Sol
+p_castle_70|Puenteamargo
+p_castle_71|Colina Cuerno
+p_castle_72|El Rejo
+p_castle_73|Diez Torres
+p_castle_74|Ruinas de Iksa Naron
+p_castle_75|Nadinas
+p_castle_76|Rigwa
+p_castle_77|Sharat
+p_castle_78|Nya Dare
+p_castle_79|Nudho
+p_castle_80|Dominio del Cielo
+p_castle_81|Nido de Buitres
+p_castle_82|Ruinas de Iksa Calo
+p_castle_83|Nido del Grifo
+p_castle_84|Aguasmil
+p_castle_85|Piedraverde
+p_castle_86|Seto de Piedra
+p_castle_87|Refugio de Plata
+p_castle_88|Bosquecuerno
+p_castle_89|Árbol de Cuervos
+p_castle_90|Torrelabella
+p_castle_91|Guijarra
+p_castle_92|Las Hogueras
+p_castle_93|Ermita Alta
+p_castle_94|Salón del Viento
+p_castle_95|Cuernomartillo
+p_castle_96|Jardín Gris
+p_castle_97|Picaestrella
+p_castle_98|Darkdell
+p_castle_99|Wyl
+p_castle_100|Descanso de Caminantes
+p_castle_101|Ruinas de Castamere
+p_castle_102|Los Pergaminos
+p_castle_103|Castillo Ruthermont
+p_castle_104|Castroferro
+p_castle_105|Aguasclaras
+p_castle_106|Hogar
+p_castle_107|Ruinas de Sar Mell
+p_castle_108|Hermana Dulce
+p_castle_109|Hermana Pequeña
+p_castle_110|Darry
+p_castle_111|Escudo de Roble
+p_castle_112|Limaosy
+p_castle_113|Nuevestrellas
+p_castle_114|Puertoplácido
+p_castle_115|Aguasrojas
+p_castle_116|Fuerte Ocaso
+p_castle_117|Rocagrís
+p_castle_118|Torreón Cosecha
+p_castle_119|Marea Negra
+p_castle_120|Castillo de Nagga
+p_castle_121|Fuerte Erenford
+p_castle_122|Castillo Seaward
+p_castle_123|Arco Ancho
+p_castle_124|Fuertemarino
+p_castle_125|Fuerte Perro
+p_castle_126|Fuerte Hillwood
+p_castle_127|Aguasdulces
+p_castle_128|Saria
+p_castle_129|Invernalia
+p_castle_130|Bastión de Tormentas
+p_castle_131|Ciudadela de Torrhen
+p_castle_132|Timón de Piedra
+p_castle_133|Altojardín
+p_castle_134|Sotoinfierno
+p_castle_135|Campoestrella
+p_castle_136|Colmillo Dorado
+p_castle_137|Marcaderiva
+p_village_1|Orilla de Lobos
+p_village_2|Cabo del Rey
+p_village_3|Cuello de Dragón
+p_village_4|Ciudad de Lago
+p_village_5|Fin del Mundo
+p_village_6|Perdición de Rebeldes
+p_village_7|Paraje de Bolton
+p_village_8|Lanza del Norte
+p_village_9|Puerta del Carnero
+p_village_10|El Bloqueo
+p_village_11|Pueblo Blanco
+p_village_12|Posada El Cuchillo Blanco
+p_village_13|Picamercado
+p_village_14|Nacimiento de Bran
+p_village_15|Fin de Verano
+p_village_16|Descanso de Walton
+p_village_17|Árbol de Centinela
+p_village_18|Normercado
+p_village_19|Posada La Salada
+p_village_20|Pedregal
+p_village_21|Cebo de Kraken
+p_village_22|Alto de la Reina
+p_village_23|Forca Verde
+p_village_24|Posada El Tridente
+p_village_25|Pueblo Vigía
+p_village_26|Caída Alta
+p_village_27|Posada del Hombre Arrodillado
+p_village_28|Alto Corazón
+p_village_29|El Cantante Desollado
+p_village_30|Piedrasviejas
+p_village_31|Ulao
+p_village_32|Hembistan
+p_village_33|Ranon
+p_village_34|Nido de Cangrejos
+p_village_35|Orilla Lisa
+p_village_36|Halcón de Gallinero
+p_village_37|Marcaígnea
+p_village_38|Bahía Guijarro
+p_village_39|Refugio de Gorriones
+p_village_40|Monton
+p_village_41|Aldea de Valle
+p_village_42|Colina Verde
+p_village_43|Mercado El Dedo
+p_village_44|Rivera del Buitre
+p_village_45|Driftwood
+p_village_46|Puerto Real
+p_village_47|Posada La Horca
+p_village_48|Camino del Bosque
+p_village_49|Desembarco de Orys
+p_village_50|Paso de las Tormentas
+p_village_51|Rompetormentas
+p_village_52|Bahía Zafiro
+p_village_53|Posada El Astado
+p_village_54|Atalaya de la Víbora
+p_village_55|Cabo de la Ira
+p_village_56|Elmwood
+p_village_57|La selva
+p_village_58|La Mano Cazada
+p_village_59|Monte Lánguido
+p_village_60|Playa de Verano
+p_village_61|Puente Verde
+p_village_62|Guijarro
+p_village_63|Locura de Nymeria
+p_village_64|Puente Rojo
+p_village_65|Dunas rojas
+p_village_66|Playa de los Martell
+p_village_67|Mercado Marítimo
+p_village_68|Sakan
+p_village_69|Puerto Torentine
+p_village_70|Fellrun
+p_village_71|Cueva Desolada
+p_village_72|Bellamar
+p_village_73|Posada Paso del Príncipe
+p_village_74|Aldea Forestal
+p_village_75|Ojo de Dioses
+p_village_76|Rivera del Hierro
+p_village_77|Algamarina
+p_village_78|Paso Alto
+p_village_79|Posada El Dragón
+p_village_80|Paraje de Mandon
+p_village_81|Ashton
+p_village_82|Playa Silenciosa
+p_village_83|Bosque de Bronce
+p_village_84|El Paso Dorado
+p_village_85|Estrecho Dorado
+p_village_86|Cueva Dorada
+p_village_87|Forca Roja
+p_village_88|Desembarco de Visenya
+p_village_89|Castillo Almeja
+p_village_90|Punta Zarpa Rota
+p_village_91|Lago Rojo
+p_village_92|Camino del Mar
+p_village_93|Cruce de Caminos
+p_village_94|El Paso de Plata
+p_village_95|Plaza de Fuego
+p_village_96|Villadorada
+p_village_97|Colinahueca
+p_village_98|Colina Corazón
+p_village_99|Viñeral
+p_village_100|Campo Tulipán
+p_village_101|Rivera Vinorojo
+p_village_102|Vinomiel
+p_village_103|Camino del Océano
+p_village_104|Posada El Susurro
+p_village_105|Puerto del Ocaso
+p_village_106|Sotomiel
+p_village_107|Castillo de las Tierras Bajas
+p_village_108|Camino de las Rosas
+p_village_109|Ciudad de Mander
+p_village_110|Rivera de los Mejillones
+p_village_111|Castillo Azul
+p_village_112|El Dominio Dorniense
+p_village_113|Montefrío
+p_village_114|Campofuego
+p_village_115|Monte Carbón
+p_village_116|Cuna de Nagga
+p_village_117|Hoarestead
+p_village_118|Acantilado de Sal
+p_village_119|Harlaw
+p_village_120|Monteorca
+p_village_121|Saltward
+p_village_122|Arburh
+p_village_123|Qringontan
+p_village_124|Camino de la Serpiente
+p_village_125|Biarvi
+p_village_126|Tihikhziri
+p_village_127|Elos Ziso
+p_village_128|Castillo Alto
+p_village_129|Drejikydho
+p_village_130|Jorraeliarzus
+p_village_131|Atjakhar
+p_village_132|Memebatas
+p_village_133|Aeksio
+p_village_134|Botilza
+p_village_135|Ji Qlony
+p_village_136|Tidemark
+p_village_137|Ivestras
+p_village_138|Sytilibus
+p_village_139|Skorion Massitas
+p_village_140|Qelbria
+p_village_141|Sendahueso
+p_village_142|Cantera
+p_village_143|Hanoth
+p_village_144|Riddan
+p_village_145|Derve
+p_village_146|Shekhqoyi
+p_village_147|Broza
+p_village_148|Valshe
+p_village_149|Qana
+p_village_150|Kesir Gimi
+p_village_151|Manaeran
+p_village_152|Issi
+p_village_153|Ogat
+p_village_154|Yanqolat
+p_village_155|Baelors Feet
+p_village_156|Loktys
+p_village_157|Estermont
+p_village_158|Sovetes
+p_village_159|Bahía de los Naufragios
+p_village_160|Puerto Dragón
+p_village_161|Bosque de Jabalíes
+p_village_162|Paraje de Aemon
+p_village_163|Camino del Río
+p_village_164|Aldea de Lord Harroway
+p_village_165|Azantyr
+p_village_166|Ivestrilatas
+p_village_167|Ji Rigle
+p_village_168|Konir Sema
+p_village_169|Puerto Duna
+p_village_170|Hermana Larga
+p_village_171|Thirolat
+p_village_172|Oen
+p_village_173|Kerma
+p_village_174|Chetira
+p_village_175|Manin
+p_village_176|Vali
+p_village_177|Menti
+p_village_178|Daero Valoti
+p_village_179|Rudhy
+p_village_180|Odrikatas
+p_village_181|Ossenatas
+p_village_182|Zer Sena
+p_village_183|Villacauce
+p_village_184|Noyane
+p_village_185|Addothralat
+p_village_186|Ovrakh
+p_village_187|Chomokh
+p_village_188|Iderebzi
+p_village_189|Anyrota
+p_village_190|Aeske
+p_village_191|Aohoso
+p_village_192|Jomozu
+p_village_193|Cod Town
+p_village_194|Timberton
+p_village_195|Monte Plowman
+p_village_196|Pennytree
+p_salt_mine|Mina de sal
+p_four_ways_inn|Posada Cuatro Caminos
+p_test_scene|escena de prueba
+p_battlefields|campo de batalla
+p_dhorak_keep|Fuerte Dhorak
+p_training_ground|Campo de Entrenamiento
+p_training_ground_1|Campo de Entrenamiento
+p_training_ground_2|Campo de Entrenamiento
+p_training_ground_3|Campo de Entrenamiento
+p_training_ground_4|Campo de Entrenamiento
+p_training_ground_5|Campo de Entrenamiento
+p_lighthouse_1|Puerto
+p_rodgars_hut|Cabaña de Rodgar
+p_relic_septry|Septo
+p_isle_of_faces|Isla de los Rostros
+p_saltpans_isles|Isla Tranquila
+p_summerhall|Ruinas de Refugio Estival
+p_nunns_deep|Sima de Nunn
+p_oldstones|Piedrasviejas
+p_sorrows|Los Pesares
+p_abandoned_holdfast|Refugio Abandonado
+p_hillhall|Salón de la Colina
+p_dragonmont|Ruinas Sunken
+p_tower_of_joy|Torre de la Alegría
+p_naggas_hill|Colina de Nagga
+p_bear_island|Isla del Oso
+p_harrentown|Los Restos de Harrentown
+p_bloodstone|Piedrasangre
+p_illyrios_manse|Mansión de Illyrio
+p_donation_septry|Septo
+p_castle_black|Castillo Negro
+p_castle_black2|Castillo Negro
+p_castle_black3|Castillo Negro
+p_castle_black4|Castillo Negro
+p_castle_black5|Castillo Negro
+p_shadow_tower|La Torre Sombría
+p_shadow_tower2|La Torre Sombría
+p_eastwatch|Guardiaoriente del Mar
+p_odin_cave|Cueva Antigua
+p_brookwater_keep|Guarida del Arroyo
+p_dragonstone_village|Pueblo pesquero
+p_haldon_bath|Ruinas
+p_horror_cave|Viejo Túmulo
+p_golden_company_camp|Campamento de la Compañía Dorada
+p_cairn_hall|Cúmulo de Piedras
+p_mole_town|Villa Topo
+p_bridge_of_skulls|La Garganta
+p_wall_tunnel|Túnel
+p_water_gardens|Los Jardínes del Agua
+p_looter_spawn_point|reaparición de saqueadores
+p_steppe_bandit_spawn_point|reaparición de dothraki
+p_taiga_bandit_spawn_point|reaparición de salvajes
+p_forest_bandit_spawn_point|bosques
+p_mountain_bandit_spawn_point|tierras altas
+p_sea_raider_spawn_point_1|reaparición de hijos del hierro
+p_sea_raider_spawn_point_2|reaparición de hijos del hierro
+p_ship_raider_spawn_point_1|reaparición de piratas
+p_slaver_bandit_spawn_point|reaparición de esclavistas
+p_escaped_slaves_spawn_point|reaparición de esclavos
+p_clansmen_spawn_point|reaparición de hombres del clan
+p_raiders_spawn_point|reaparición de salteadores
+p_outlaws_spawn_point|reaparición de fujitivos
+p_rhoyne_bandits_spawn_point|reaparición de rhoyne
+p_elite_raiders_spawn_point|reaparición de salteadores elite
+p_elite_wildlings_spawn_point|reaparición de salvajes de elite
+p_elite_dothraki_spawn_point|reaparición de dothraki de elite
+p_crannogmen|lacustres
+p_desert_bandit_spawn_point|reaparición de fujitivos

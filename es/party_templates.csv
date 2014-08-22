@@ -1,0 +1,129 @@
+﻿pt_none|ninguno
+pt_rescued_prisoners|Prisioneros rescatados
+pt_enemy|Enemigo
+pt_hero_party|Tropas del Héroe
+pt_village_defenders|Defensores de la aldea
+pt_village_defenders_r|Defensores de la aldea
+pt_village_defenders_e|Defensores de la aldea
+pt_cattle_herd|Rebaño de ganado
+pt_looters|Saqueadores
+pt_manhunters|Cazahombres
+pt_forest_bandits|Bandidos del bosque
+pt_taiga_bandits|Salvajes
+pt_steppe_bandits|Salteadores dothraki
+pt_sea_raiders|Piratas Lysenos
+pt_mountain_bandits|Bandidos de la montaña
+pt_desert_bandits|Forajidos
+pt_looters_r|Saqueadores
+pt_manhunters_r|Cazahombres
+pt_forest_bandits_r|Bandidos del bosque
+pt_taiga_bandits_r|Bandidos de la tundra
+pt_steppe_bandits_r|Bandidos de la estepa
+pt_sea_raiders_r|Piratas
+pt_mountain_bandits_r|Bandidos de la montaña
+pt_desert_bandits_r|Bandidos del desierto
+pt_looters_e|Saqueadores
+pt_manhunters_e|Hombres honorables
+pt_forest_bandits_e|Bandidos del bosque
+pt_taiga_bandits_e|Salvajes
+pt_steppe_bandits_e|Salteadores dothraki
+pt_sea_raiders_e|Piratas
+pt_mountain_bandits_e|Bandidos de la montaña
+pt_desert_bandits_e|Forajidos
+pt_deserters|Tullidos
+pt_slaver|Esclavistas
+pt_escaped_slaves|Esclavos en fuga
+pt_clansmen|Hombres del Clan
+pt_raiders|Salteadores
+pt_outlaws|Forajidos
+pt_rhoyne_outlaws|Forajidos Rhoynar
+pt_crannogmen|Lacustres
+pt_elite_raiders|Caballeros Salteadores
+pt_elite_wildlings|Salvajes
+pt_elite_dothraki|Salteadores dothraki
+pt_beowulf_warband|La Compañía Audaz
+pt_wildfire_wights|Espectros
+pt_new_template|El Bastardo de Bolton
+pt_tattered_prince|La Compañía del Gato
+pt_arrians|Los Forajidos de 'El Cruce'
+pt_bloodstone_pirates|El Príncipe de Piedra Sangrienta
+pt_clansman_quest|Los Hijos de la Niebla
+pt_merchant_caravan|Caravana mercantil
+pt_troublesome_bandits|Forajidos problemáticos
+pt_bandits_awaiting_ransom|Forajidos secuestradores
+pt_merchant_caravan_r|Caravana mercantil
+pt_troublesome_bandits_r|Bandidos problemáticos
+pt_bandits_awaiting_ransom_r|Bandidos secuestradores
+pt_merchant_caravan_e|Caravana mercantil
+pt_troublesome_bandits_e|Forajidos problemáticos
+pt_bandits_awaiting_ransom_e|Forajidos secuestradores
+pt_kidnapped_girl|Doncella secuestrada
+pt_village_farmers|Granjeros
+pt_spy_partners|Viajeros corrientes
+pt_runaway_serfs|Granjeros fugitivos
+pt_village_farmers_r|Granjeros
+pt_spy_partners_r|Viajeros corrientes
+pt_runaway_serfs_r|Siervos fugitivos
+pt_village_farmers_e|Granjeros
+pt_spy_partners_e|Viajeros corrientes
+pt_runaway_serfs_e|Granjeros fugitivos
+pt_spy|Ciudadano corriente
+pt_sacrificed_messenger|Mensajero sacrificado
+pt_forager_party|Grupo rastreador
+pt_scout_party|Exploradores
+pt_patrol_party|Patrulla
+pt_messenger_party|Mensajero
+pt_raider_party|Salteadores
+pt_raider_captives|Salteadores prisioneros
+pt_kingdom_caravan_party|Caravana
+pt_raider_captives_r|Salteadores prisioneros
+pt_kingdom_caravan_party_r|Caravana
+pt_raider_captives_e|Salteadores prisioneros
+pt_kingdom_caravan_party_e|Caravana
+pt_prisoner_train_party|Tren de prisioneros
+pt_sea_traders|Barco mercantil
+pt_sea_traders_r|Barco mercantil
+pt_sea_traders_e|Barco mercantil
+pt_ship|Barco
+pt_default_prisoners|Prisioneros normales
+pt_default_prisoners_r|Prisioneros normales
+pt_default_prisoners_e|Prisioneros normales
+pt_routed_warriors|Enemigos derrotados
+pt_center_reinforcements|Refuerzos
+pt_center_reinforcements_r|Refuerzos
+pt_center_reinforcements_e|Refuerzos
+pt_kingdom_hero_party|Grupo de guerra
+pt_steppe_bandit_lair|Guarida de los bandidos de la estepa
+pt_taiga_bandit_lair|Guarida de los bandidos de la tundra
+pt_desert_bandit_lair|Guarida de los bandidos del desierto
+pt_forest_bandit_lair|Campamento de los bandidos del bosque
+pt_mountain_bandit_lair|Guarida de los bandidos de la montaña
+pt_sea_raider_lair|Desembarco de los piratas
+pt_looter_lair|Guarida de los secuestradores
+pt_leaded_looters|Banda de ladrones
+pt_steppe_bandit_lair_r|Guarida de los bandidos de la estepa
+pt_taiga_bandit_lair_r|Guarida de los bandidos de la tundra
+pt_desert_bandit_lair_r|Guarida de los bandidos del desierto
+pt_forest_bandit_lair_r|Guarida de los bandidos del desierto
+pt_mountain_bandit_lair_r|Guarida de los bandidos de la montaña
+pt_sea_raider_lair_r|Desembarco de los piratas
+pt_looter_lair_r|Guarida de los secuestradores
+pt_leaded_looters_r|Banda de ladrones
+pt_steppe_bandit_lair_e|Guarida de los bandidos de la estepa
+pt_taiga_bandit_lair_e|Guarida de los bandidos de la tundra
+pt_desert_bandit_lair_e|Guarida de los bandidos del desierto
+pt_forest_bandit_lair_e|Guarida de los bandidos del desierto
+pt_mountain_bandit_lair_e|Guarida de los bandidos de la montaña
+pt_sea_raider_lair_e|Desembarco de los piratas
+pt_looter_lair_e|Guarida de los secuestradores
+pt_leaded_looters_e|Banda de ladrones
+pt_dplmc_spouse|Vuestra esposa
+pt_dplmc_gift_caravan|Vuestra caravana
+pt_dplmc_gift_caravan_r|Vuestra caravana
+pt_dplmc_gift_caravan_e|Vuestra caravana
+pt_dplmc_recruiter|Reclutador
+pt_entrench|Trinchera
+pt_reinforcements|Refuerzos
+pt_sea_raiders_ships|Piratas lysenos
+pt_sea_raiders_ships_r|Piratas lysenos
+pt_sea_raiders_ships_e|Piratas lysenos

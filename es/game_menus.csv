@@ -1,0 +1,1135 @@
+﻿menu_start_game_options|Camináis por las calles de vuestra ciudad natal, cuando escuchais las noticias, que Renly Baratheon se ha declarado a sí mismo Señor de los Siete reinos y Protector del trono, y que ha tomado a la hija de Mace Tyrell, Alto Mariscal del Dominio, como su reina. El pescadero con el que estais hablando, os comenta que el Rey Renly está en guerra declarada contra el joven sentado en el Trono de Hierro, y sus parientes Lannister. Con el Occidente amenazado por el joven rebelde, Robb Stark, todo el mundo está de acuerdo en que el camino a Desembarco del Rey se encuentra abierto a la fuerza combinada de las Tierras de la Tormenta y el Dominio. Sin embargo, unos pocos días después, llega un cansado viajero con más noticias. Stannis Baratheon, el hermano mayor de Renly, ha declarado su intención de apoderarse del Trono de Hierro, y se encuentra ahora en conflicto abierto con el Rey Renly y los Lannister. Al meditar sobre estas novedades, los rumores se difunden sobre barcos que fueron vistos en las afueras de Isla Bella y hablan sobre los Greyjoy y de qué lado elegirán para apoyar. Tomando una rápida decisión, optais por emprender vuestro camino con celeridad vendiendo vuestras magras posesiones a un posadero gordo, y empacando solo lo más esencial. Finalmente, sentís que controlais vuestro propio destino, y sea cual sea el camino que tomeis, grandes hazañas os esperan.
+mno_choose_options|Continuad...
+mno_start_mod|Personaje rápido (para testeo)
+mno_go_back|Atrás.
+mno_continue|Continuad...
+menu_start_game_3|Elegid vuestro escenario
+menu_tutorial|Os acercáis a un campo donde los locales se entrenan con armas. Aquí podéis practicar para mejorar vuestras habilidades de combate.
+mno_go_back_dot|Atrás.
+menu_reports|Renombre: {reg5}^Honor: {reg6}^Moral del ejército: {reg8}^Límite de tropas: {reg7}^^{reg9?Próximo pago:^{s1}:}
+mno_view_party_reports|Ver informes personales
+mno_dplmc_show_economic_report|Ver informe de prosperidad
+mno_resume_travelling|Continuad viajando
+menu_reference_reports|Material de referencia
+mno_action_view_upgrade_trees|Ver Árboles de Actualizaciones
+mno_action_view_all_items|Ver todos los objetos
+mno_action_view_trade_ledger|Ver libro de contabilidad
+mno_action_view_trade_ledger_denied|Evaluar objetos para empezar el libro de contabilidad
+mno_return|Volver
+menu_kingdom_reports|Informes del reino
+mno_view_faction_relations_report|Ver relaciones con soberanos
+mno_kmt_lord_holdings|Review Lord Holdings
+mno_lord_relations|Ver lores conocidos por relación
+menu_personal_reports|Informes personales
+mno_view_character_report|Ver informes propios
+mno_courtship_relations|Ver relaciones de cortejo
+mno_view_affiliated_family_report|Ver afiliación familiar
+mno_view_weekly_budget_report|Ver presupuesto semanal
+menu_cheat_reports|Informes menú trucos
+menu_party_reports|Informes de grupo
+mno_view_party_size_report|Ver tamaño de grupo
+mno_view_morale_report|Ver informe de moral
+mno_Companions_overview|Vista conjunta de compañeros
+mno_view_player_companion_report|Ver informe de personaje y compañeros
+mno_view_npc_mission_report|Ver misiones de compañeros
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|La batalla ha terminado. {s1} Vuestro bando ha matado a {reg5} enemigos y perdido {reg6} tropas en la batalla. Personalmente, habéis matado a {reg7} hombres.
+menu_start_game_0|Bienvenido, aventurero, a 'A Clash of Kings', una modificación basada en la saga 'Una canción de hielo y fuego' de George R. R. Martin para Mount and Blade: Warband versión 1.158. Antes de comenzar el juego debéis crear un personaje. Recordad que en la sociedad medieval representada en este mundo, la guerra y la política son dominadas principalmente por miembros masculinos de la nobleza. Esto sin embargo, no significa que no podáis elegir un personaje femenino, o uno que no sea de noble cuna. Nobles masculinos tendrán un comienzo más sencillo, pero mujeres y plebeyos pueden alcanzar los mismos objetivos, a parte de tener un comienzo más interesante y ser un reto mayor.
+menu_start_game_1|Elegid vuestro género
+mno_start_male|Hombre
+mno_start_female|Mujer
+menu_start_character_1|Naciste hace años. Vuestro padre era...
+mno_start_noble|Un noble venido a menos.
+mno_start_merchant|Un mercader ambulante.
+mno_start_guard|Un guerrero veterano.
+mno_start_forester|Un cazador.
+mno_start_nomad|Un guerrero dothraki.
+mno_start_thief|Un ladrón.
+menu_start_character_2|{s10}^^ Empezaste a aprender sobre el mundo casi tan pronto como a andar y hablar. Gastásteis vuestra juventud como...
+mno_page|Paje en una corte noble.
+mno_apprentice|Aprendiz de artesano.
+mno_stockboy|Asistente en una tienda.
+mno_urchin|Pillo callejero.
+mno_nomad|Aprendiz dothraki.
+menu_start_character_3|{s11}^^ Más tarde, como adolescente, la vida cambió como siempre hace. Te convertiste en
+mno_squire|Escudero.
+mno_lady|Dama de honor.
+mno_troubadour|Cantante.
+mno_student|Estudiante de la ciudadalea.
+mno_peddler|Vendedor ambulante.
+mno_craftsman|Herrero.
+mno_poacher|Cazador furtivo.
+menu_start_character_4|{s12}^^Pero pronto todo cambió y decidiste emprender vuestra propia aventura. Aquello que os hizo tomar la decisión fue...
+mno_revenge|la venganza personal.
+mno_death|la pérdida de un ser querido.
+mno_wanderlust|la pasión de explorar.
+mno_disown|la obligación de dejar vuestro hogar.
+mno_greed|la ansia de dinero y poder.
+menu_choose_skill|{s13}
+mno_begin_adventuring|Conviertete en un aventurero y cabalga hacia tu destino.
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report|{s1}
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+menu_camp|Encontráis un lugar aceptable para acampar.^{s15}
+mno_camp_recruit_prisoners|Reclutar prisioneros.
+mno_camp_manage_inventory|Administrar el inventario de vuestros compañeros.
+mno_camp_action|Emprender una acción.
+mno_action_prebattle_custom_divisions|Administrar batallones.
+mno_camp_wait_here|Esperar aquí algún tiempo.
+mno_camp_fishing|Intentar capturar algún pescado.
+mno_camp_inspect|Inspeccionar el campamento.
+mno_camp_entrench|{s1}
+mno_camp_mod_opition|Opciones.
+mno_camp_cheat|¡MENÚ DE TRUCOS!
+menu_camp_cheat|Elije un truco
+mno_camp_cheat_find_item|Encontrar un objeto...
+menu_camp_action|Elije una acción:
+mno_action_read_book|Elegir qué libro leer.
+mno_action_change_party_name|Cambiar el nombre del grupo.
+mno_action_rename_kingdom|Renombrar vuestra soberanía
+mno_action_change_vassal_title|Cambiar título nobiliario de vuestros vasallos.
+mno_jump_to_scene|debug: menú de escenas de prueba
+mno_action_modify_banner|Cambiar banner de noble.
+mno_action_modify_factions_color|Cambiar colores de facciones.
+mno_action_export_import|Exportar o importar la historia del personaje.
+mno_action_retire|Retirarse de la aventura.
+mno_camp_action_4|Volver al menú de campamento.
+menu_export_import_npcs|Elegid un personaje, presionad la tecla C para verlo y exportar o importar la historia elegida.^^Elegis {reg0?{s0}:ninguno}.
+mno_export_import_back|Volver.
+mno_export_import_npc1|{s0}
+mno_export_import_npc2|{s0}
+mno_export_import_npc3|{s0}
+mno_export_import_npc4|{s0}
+mno_export_import_npc5|{s0}
+mno_export_import_npc6|{s0}
+mno_export_import_npc7|{s0}
+mno_export_import_npc8|{s0}
+mno_export_import_npc9|{s0}
+mno_export_import_npc10|{s0}
+mno_export_import_npc11|{s0}
+mno_export_import_npc12|{s0}
+mno_export_import_next|Página siguiente
+menu_export_import_npcs_2|Elegid un personaje, presionad la tecla C para verlo y exportar o importar la historia elegida.^^Elegis {reg0?{s0}:ninguno}.
+mno_export_import_prev|Página anterior
+mno_export_import_npc13|{s0}
+mno_export_import_npc14|{s0}
+mno_export_import_npc15|{s0}
+mno_export_import_npc16|{s0}
+mno_export_import_npc17|{s0}
+mno_export_import_npc18|{s0}
+mno_export_import_npc19|{s0}
+mno_export_import_npc20|{s0}
+mno_export_import_npc21|{s0}
+mno_export_import_npc22|{s0}
+mno_export_import_npc23|{s0}
+menu_camp_recruit_prisoners|Ofrecéis a los prisioneros la libertad a cambio de luchar en vuestro ejército. {s18}
+mno_camp_recruit_prisoners_accept|Aceptarlos.
+mno_camp_recruit_prisoners_reject|Rechazarlos.
+menu_camp_no_prisoners|No tienes prisioners que reclutar.
+menu_camp_action_read_book|Elegir un libro para leer.
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+mno_action_read_book_8|{s1}.
+mno_action_read_book_9|{s1}.
+mno_action_read_book_10|{s1}.
+mno_action_read_book_11|{s1}.
+mno_action_read_book_12|{s1}.
+mno_action_read_book_13|{s1}.
+menu_camp_action_read_book_start|{s1}
+menu_retirement_verify|Hoy es el día {reg0}. Vuestra suerte es {reg1}. ¿Seguro que queréis retiraros?
+mno_retire_yes|Sí.
+mno_retire_no|No.
+menu_end_game|La decisión está tomada y elegís dejar vuestras aventuras para asentaros y vivir tranquilamente. Vendéis vuestras armas y armaduras, tomáis vuestro dinero y cabalgáis hacia la puesta de sol...
+mno_end_game_bye|Adiós.
+menu_cattle_herd|Encontráis un rebaño de ganado.
+mno_cattle_drive_away|Conducir el ganado.
+mno_cattle_stop|Detener el ganado.
+mno_cattle_kill|Sacrificar algunos animales
+mno_leave|Irse.
+menu_cattle_herd_kill|¿Cuántos animales deseáis sacrificar?
+mno_cattle_kill_1|Uno.
+mno_cattle_kill_2|Dos.
+mno_cattle_kill_3|Tres.
+mno_cattle_kill_4|Cuatro.
+mno_cattle_kill_5|Cinco.
+menu_arena_duel_fight|Vuestro oponente y vos os preparáis para un duelo.
+menu_simple_encounter|{s2} Tenéis {reg10} tropas listas para la batalla contra {reg11}.. {s4}^{s15}
+mno_change_commander_simple_encounter|Cambiar comandante.
+mno_deployment|Elegir quien se unirá a la batalla.
+mno_orders|Planear la batalla contra el enemigo.
+mno_do_orders|Suficiente preparación. ¡A la batalla!
+mno_clear_orders|Re-evaluar la situación
+mno_hold|Entrar en campaña.
+mno_follow|Liderar las tropas.
+mno_encounter_attack|Cargar contra el enemigo.
+mno_encounter_order_attack|Ordenar atacar mientras observáis desde la distancia.
+mno_encounter_leave|Irse.
+mno_encounter_retreat|Retirarse dejando algunos soldados para cubrir la retirada.
+mno_encounter_surrender|Rendirse.
+menu_encounter_retreat_confirm|Como miembro de vuestro ejército con mayor habilidad para la táctica, ({reg2}), {reg3?ideáis:{s3} idea} un plan que os permitirá escapar con vida a vos y a vuestros hombres, pero deberéis dejar atrás {reg4} soldados para evitar que el enemigo os alcance.
+mno_leave_behind|Sí. El sacrificio de estos hombres salvará a los demás.
+mno_dont_leave_behind|No. No dejaremos atrás a nadie.
+menu_encounter_retreat|Ordenáis a {reg4} hombres que detengan al enemigo mientras os retiráis del campo de batalla con el resto de vuestro ejército.
+menu_order_attack_begin|Vuestras tropas se preparan para atacar al enemigo.
+mno_order_attack_begin|Ordenar el comienzo del ataque.
+mno_call_back|Ordenar a vuestros soldados regresar.
+menu_order_attack_2|{s4}^^Vuestras bajas: {s8}^^Bajas enemigas: {s9}
+mno_order_attack_continue|Ordenad a vuestros soldados que continúen el ataque.
+mno_order_retreat|Ordenar a vuestros soldados regresar.
+menu_battle_debrief|{s11}^^Vuestras bajas:{s8}{s10}^^Bajas enemigas:{s9}^^Recuento de muertes:{s12}
+menu_total_victory|No deberíais estar leyendo esto... {s9}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|Os acercáis a una batalla entre {s2} y {s1}. ¿Qué haréis?
+mno_pre_join_help_attackers|Mover las tropas para ayudar a {s2}. ({s21})
+mno_pre_join_help_defenders|Prestad auxilio a {s1}. ({s21})
+mno_pre_join_leave|No involucraros.
+menu_join_battle|Ayudáis a las {s2} contra las {s1}. Tenéis {reg10} tropas listas para la batalla contra {reg11} tropas enemigas.. {s4}
+mno_change_commander_join_battle|Cambiar comandante.
+mno_join_attack|Cargar contra el enemigo.
+mno_join_order_attack|Ordenar atacar mientras observáis desde la distancia.
+mno_join_leave|Marchaos.
+mno_join_wounded|Estáis demasiado herido para luchar.
+menu_join_order_attack|{s4}^^Vuestras bajas: {s8}^^Bajas aliadas: {s9}^^Bajas enemigas: {s10}
+menu_odin_cave|Llegáis a una guarida de forajidos.
+mno_enter|Entrad en la guarida.
+menu_horror_cave|Os aproximáis a un antiguo túmulo. Podéis escuchar un suave murmullo desde el interior...
+menu_brookwater_keep|Llegáis a Guarida del Arroyo, el hogar de la Casa Darke.
+menu_haldon_bath|Llegáis a un baño público en ruinas.
+menu_golden_company_camp|Os aproximáis al Campamento de la Compañia Dorada.
+menu_dragonstone_village|Llegáis a la aldea.
+menu_mole_town|Os acercáis a la afueras de Villa Topo.
+menu_bridge_of_skulls|Llegáis al Puente de las Calaveras.
+menu_wall_tunnel|Llegáis a los almacenes.
+menu_dragonmont|Habéis llegado a las Ruinas Sunken.
+menu_sorrows|Habéis llegado a 'El Pesar'.
+menu_cairn_hall|Llegáis a la Caverna.
+menu_oldstones|Habéis llegado a Piedrasviejas.
+menu_nunns_deep|Habéis llegado a la Sima de Nunn.
+menu_summerhall|Habéis llegado a las Ruinas del Refugio Estival.
+menu_saltpans_isles|Habéis llegado a Isla Tranquila.
+menu_isle_of_faces|Habéis llegado a la Isla de los Rostros.
+menu_rodgars_hut|Habéis llegado a la Cabaña de Rodgar.
+menu_bear_island|Habéis llegado al Salón de los Mormonts
+menu_naggas_hill|Habéis llegado a la Colina de Nagga
+menu_tower_of_joy|Habéis llegado a la Torre de Joy
+menu_bloodstone|Habéis llegado a Piedra Sangrienta.
+menu_harrentown|Habéis llegado a los restos de Harrentown
+menu_illyrios_manse|Habéis llegado al hogar de Illyrio Mopatis.
+menu_water_gardens|Llegáis a los Jardínes del Agua.
+menu_castle_black|Llegáis al Castillo Negro, la fortaleza principal de la Guardia de la Noche.
+menu_castle_black2|Llegáis al Castillo Negro.
+menu_castle_black3|Llegáis al Castillo Negro.
+menu_castle_black4|Llegáis al Castillo Negro.
+menu_castle_black5|Llegáis al Castillo Negro.
+menu_shadow_tower|Llegáis a la Torre Sombría.
+menu_shadow_tower2|Llegáis a la Torre Sombría.
+menu_eastwatch|Llegáis a Guardiaoriente del Mar.
+menu_abandoned_holdfast|Habéis llegado a la Fortaleza Abandonada.
+menu_yunkai_ship_1|Os subís a la proa del barco que zarpa para Yunkai en la Bahía de los Esclavos. La tripulación es un grupo andrajoso, sucio y mal hablado. Al embarcar, echáis una mirada a los esclavos que están en los remos. Desnudos de cintura para arriba y encadenados entre ellos por los tobillos. El jefe de los remeros es un lyseni grande y gordo, que ejerce con un gran látigo. Cuando este suena por primera vez, notáis como el Maiden Spicy comienza a avanzar.
+menu_yunkai_ship_2|Con forme la travesía transcurre, notáis como el horizonte al norte se vuelve cada vez más rojo y brillante, similar a una puesta de sol. En cambio, os dais cuenta que la tripulación empieza a murmurar sobre demonios, azufre y las ruinas malditas de Valyria. Poco después, el buque queda envuelto en una niebla inusual y un fuerte olor penetra en el ambiente.
+menu_yunkai_ship_3|Una vez atravesado el Mar Humeante, la tripulación vuelve a tranquilizarse. El barco pasa ahora cerca de la isla de Cedros y nadie sabe muy bien como un mono logra subir a bordo. La tripulación toma esto como un presagio y creen que cuentan con el favor de R'hllor. Los vítores de alegría asustan al mono, el cual lanza sus excrementos directos al capitán, lo que provoca una nueva ración de vítores entre sus hombres.
+menu_yunkai|En cuanto el barco atraca en el puerto de Yunkai, notais un fuerte olor proveniente de la ciudad. Éste os parece al mismo olor que produce una gran cantidad de personas, sudor, humo, suciedad... pero todo ello mezclado con el aroma de las especias. Nada más salir del barco, os encontráis de bruces con la plaza principal de la ciudad, así como con una multitud de gente dirigiendose hacia el mismo camino.
+menu_yunkai_town_square|Habiendo visto Yunkai, reflexionáis vuestro siguiente paso.
+mno_enter1|Continuar explorando la ciudad.
+mno_enter3|Unirse a una caravana hacia Meereen.
+mno_enter2|Volver a Volantis.
+menu_way_to_meereen|Continuais vuestro viaje por los cañones humeantes y las colinas planas que forman la mayor parte de la Bahía de los Esclavos, finalmente veis Meereen en la distancia, la Gran Piramide sobresale de la ciudad.
+menu_meereen_town_square|Habiendo visto Meereen, reflexionáis vuestro siguiente paso.
+mno_enter4|Volver a Volantis.
+menu_meereen_throne_room|Reflexionáis vuestro siguiente paso.
+menu_volantis_town|Habéis regresado a Volantis.
+menu_donation_septry|Habéis llegado a un Septo.
+menu_hillhall|Habéis llegado al Salón de la Colina.
+menu_relic_septry|Habéis llegado a un Septo.
+menu_zendar|Llegáis a la ciudad de Zendar.
+mno_zendar_enter| 
+mno_zendar_enter_door|Puerta al centro de la ciudad.
+mno_zendar_tavern| 
+mno_zendar_tavern_door|Puerta a la taberna.
+mno_zendar_merchant| 
+mno_zendar_merchant_door|Puerta a la tienda.
+mno_zendar_arena| 
+mno_zendar_arena_door|Puerta a la arena.
+mno_town_1_leave| 
+menu_salt_mine|Entráis a la mina de sal.
+menu_four_ways_inn|Llegáis a la taberna Cuatro Caminos
+menu_test_scene|Entráis en el escenario de pruebas.
+mno_jump|pasar al escenario
+menu_dhorak_keep|Llegáis al Fuerte Dhorak.
+menu_join_siege_outside|{s1} está siendo asediado por las {s2}.
+mno_approach_besiegers|Acercaos al campo de asedio.
+mno_pass_through_siege|Atravesad las líneas del asedio y entrad en {s1}.
+menu_cut_siege_without_fight|Los sitiadores os dejan avanzar sin desafiaros.
+menu_besiegers_camp_with_allies|{s1} permanece sitiada. Los estandartes de las {s2} ondean sobre el campamento de los sitiadores, donde vos y vuestros hombres sois bienvenidos. {s4}
+mno_talk_to_siege_commander|Solicitad una cita con el comandante.
+mno_change_commander_besiegers_camp_with_allies|Cambiar comandante.
+mno_join_siege_with_allies|Uníos al próximo asalto.
+mno_join_siege_stay_back|Ordenar a vuestros soldados unirse al próximo asalto sin vos.
+menu_castle_outside|Os encontráis en los alrededores del {s2}.{s11} {s3} {s4}
+mno_approach_gates|Acercaos a las puertas y saludad al guardia.
+mno_town_sneak|Disfrazaos e intentad entrar de incógnito al {s7}
+mno_dplmc_riot_start_siege|Asediad {reg6?la ciudad:el castillo} para contrarrestrar la rebeldía.
+mno_dplmc_riot_negotiate|Comenzar negociaciones.
+mno_castle_start_siege|Asediad {reg6?la ciudad:el castillo}.
+mno_castle_leave|Marchaos.
+menu_castle_guard|Os acercáis a la puerta. Los guardias os observan minuciosamente.
+mno_request_shelter|Solicitad la entrada al castillo.
+mno_request_meeting_commander|Solicitad una cita con alguien.
+mno_guard_leave|Idos.
+menu_castle_entry_granted|Tras una corta espera, los guardias abren las puertas y os permiten pasar.
+menu_castle_entry_denied|El Señor de este castillo os ha prohibido la entrada y el sargento de guardia os informa que dará orden de dispararos si os acercáis.
+menu_castle_meeting|¿Con quién deseáis encontraros?
+mno_guard_meet_s5|{s5}.
+mno_forget_it|Olvidadlo.
+menu_castle_meeting_selected|Vuestra petición es transmitida y finalmente el {s6} aparece en el patio para hablar con vos.
+menu_castle_besiege|Estáis sitiando {s1}. {s2} {s3} {s4} ^{s15}
+mno_siege_request_meeting|Solicitad una cita con el comandante del castillo.
+mno_wait_24_hours|Esperad hasta mañana.
+mno_siege_camp|Atrincherar el campamento.
+mno_siege_camp_interupted|Continuar el atrincheramiento.
+mno_siege_camp_inspect|Inspeccionar el campamento.
+mno_change_commander_castle_besiege|Cambiar comandate.
+mno_castle_lead_attack|Liderad a vuestros soldados en un asalto.
+mno_attack_stay_back|Ordenad a vuestros soldados que ataquen mientras vos guardáis distancia...
+mno_build_ladders|Preparad escalas para atacar los muros.
+mno_build_siege_tower|Construid una torre de asedio.
+mno_lift_siege|Abandonad el asedio.
+menu_siege_attack_meets_sally|Los defensores salen a haceros frente.
+menu_castle_besiege_inner_battle|{s1}
+menu_construct_ladders|Como miembro de vuestro ejército con mayor habilidad de ingeniería ({reg2}), {reg3?estimáis:{s3} estima} que construir las escaleras suficientes para el asalto llevará {reg4} horas.
+mno_build_ladders_cont|Hacedlo.
+menu_construct_siege_tower|Como miembro de vuestro ejército con mayor habilidad de ingeniería ({reg2}), {reg3?estimáis:{s3} estima} que construir una torre de asedio para el asalto llevará {reg4} horas.
+mno_build_siege_tower_cont|Comenzad la construcción.
+menu_castle_attack_walls_simulate|{s4}^^Vuestras bajas:{s8}^^Bajas enemigas: {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Vuestras bajas:{s8}^^Bajas aliadas: {s9}^^Bajas enemigas: {s10}
+menu_castle_taken_by_friends|No hay nada que ver aquí.
+menu_castle_taken|{s3} ha caído en manos de vuestras tropas y ahora tenéis pleno control de {reg2?esta ciudad:este castillo}. Podéis saquear el botín de guerra por {reg3} venados.{reg1?Podéis guarnecer tropas para defenderlo contra aquellos que intenten recapturarlo. También, podéis elegir ahora si os quedaréis el {reg2?la ciudad:el castillo} o darselo a un vasallo fiel...:}
+mno_dplmc_spoils_yourself|Saqueadlo y quedaros con el botín por completo.
+mno_dplmc_spoils_accompanying_vassals|Saqueadlo y repartir el botín entre los vasallos que os acompañan y vos.
+mno_dplmc_spoils_all_vassals|Saqueadlo y repartir el botín entre los vasallos del reino y vos.
+menu_castle_taken_2|{s3} ha caído en manos de vuestras tropas y ahora tenéis pleno control del castillo. Es hora de enviar un mensaje a {s9} para comunicar vuestra victoria. {s5}
+mno_castle_taken_claim|Solicitad que {s3} os sea entregado.
+mno_castle_taken_claim_2|Solicitad que {s3} sea entregado a vuestra {esposa/marido}.
+mno_castle_taken_no_claim|No pidáis recompensas.
+menu_requested_castle_granted_to_player|Recibís un mensaje de vuestro señor feudal, {s3}.^^ {reg4?Ella:Él} ha decidido recompensaros con {s2}{reg3? y la aldea colindante de {s4}:} junto a todos sus ingresos y títulos, para que los administréis en {reg4?su:su} nombre, mientras mantengáis vuestro juramento de lealtad.
+menu_dk_invasion_start_warning|Un asustado y exhausto viajero cabalga hacia vos, su cara está roja y empapada en sudor. '¡{s1}!, grita, corriendo hacia tí. '¡Esperad!, ¡Debéis escuchadme!'^^Después de recobrar el aliento, el viajero comienza a delirar, gesticulando. '¡La guerra ha llegado! Conquistadores extraños han entrado en la Tierra de Tormentas, decididos a dominarnos. Escapad, {s1}, escapad mientras podáis. Los he visto, sus armaduras son negras como la noche, sus estandartes son dragones rojos, grifos y calaveras doradas.'^^Tras esto, el viajero se marcha como si los extraños estuvieran a sus talones, gritando a todo aquel que le escucha.
+menu_dothraki_invasion|Os llegan noticias de que una horda dothraki ha puesto asedio a la ciudad de Selhorys. Según un comerciante que os encontráis por el camino, es el khalasar de Khal Pono, que se llama a sí mismo soberano de Khizra. Al observar vuestra mirada de desconcierto, el mercader os explica que Kizra significa pantano en dothraki.
+menu_wildling_invasion|'¡Malas noticias, mi señor!', os grita un viejo que encontráis por el camino. 'Durante la oscuridad de la noche, los salvajes han asaltado Último Hogar ¡y han tomado el castillo! ¡El Muro ha caído y los salvajes campan a sus anchas!'
+menu_dk_invasion_start_warning_dorne_joins|¡La noticia se extiende por vuestro campamento! Según uno de vuestros hombres, una moza de taberna le dijo que había escuchado de un viajero que los señores dornienses marchan en favor del pretendiente al trono, aquel que se hace llamar Aegon VI. Pronto, el rumor se confirma al interceptar un cuerpo portando el mensaje de que Doran Martell ha apoyado públicamente las pretensiones de su sobrino.
+menu_dk_stannis_start_warning|Un exhausto viajero se acerca a vos, su cara está roja y empapada en sudor.^^Tras tomar un respiro, el viajero empieza a gesticular. '¡El Dominio ha sucumbido al caos! Lord Stannis se ha declarado verdadero rey de los siete reinos^^Tras esto, el viajero se marcha, gritando a todo aquel que le presta oídos.
+menu_defect_kings_landing_taken_by_dragonstone|Mirando por encima del hombre podéis ver a un cuervo en la tierra, el cual come de un agujero de gusanos y os disponéis a capturarlo. ^^Os dais cuenta que lleva un mensaje en su pata y lo desatáis. Dice así: 'Yo, Renly Baratheon, por la presente proclamo mi intención de sentarme en el trono de hierro. Que todos los lores leales de Poniente se unan a mí para ello.'^^De repente, el cuervo se escapa, dando un inmenso graznido.
+menu_dk_renly_start_warning2|Mirando por encima del hombre podéis ver a un cuervo en la tierra, el cual come de un agujero de gusanos y os disponéis a capturarlo. ^^Os dais cuenta que lleva un mensaje en su pata y lo desatáis. Dice así: 'Yo, Renly Baratheon, por la presente me proclamo rey del trono de hierro. Que todos los lores leales de Poniente se unan a mí para ello.'^^De repente, el cuervo se escapa, dando un inmenso graznido.
+menu_dk_renly_start_warning3|Mirando por encima del hombre podéis ver a un cuervo en la tierra, el cual come de un agujero de gusanos y os disponéis a capturarlo. ^^Os dais cuenta que lleva un mensaje en su pata y lo desatáis. Renly Baratheon ha conseguido el apoyo de los Tyrell y ahora todo Altojardín marcha a su lado.^^De repente, el cuervo se escapa, dando un inmenso graznido.
+menu_dk_north_start_warning|Un exhausto viajero se os acerca, su cara está roja y empapada en sudor.^^Tras tomar un respiro, el viajero empieza a gesticular. '¡El fin se acerca! ¡Los hombres del hierro se han rebelado, Balon Greyjoy se sienta de nuevo en la Silla de Piedramar como Rey de las Islas del Hierro!^^Tras esto, el viajero se marcha, como si fuera perseguido, gritando a todo aquel que le presta oídos.
+menu_dk_tyrosh_start_warning|Un viajero se os acerca, su barba es azul y su pelo peinado con apariencia de una mezcla de un dragón y una morsa.^^Hablándole aprendéis que la disputa de comercio existente entre Tyrosh, Lys y Myr se ha convertido en una guerra de conquista, '¡Están tan locos como lagartos!' os dice, '¿Por qué sufrir la miseria de la guerra cuando puedes engordar con el comercio?'^^Tras esto, él emprende de nuevo su marcha murmurando sobre papanatas y queso.
+menu_brotherhood|Encontráis a un granjero y a su familia, moviéndose hacia el mercado más cercano.^^Parece el tipo de persona que huyen de algo o de alguien. Mientras parecen esconderse te acercas y le preguntas que hacen recorriendo los caminos. '¡Nos han expulsado de nuestras tierras en la Tierra de los Ríos {s1}! Si no fuera por la hermandad sin estandarte no hubieramos sobrevivido'. te responde.^^Le vuelves a preguntar sobre esta hermandad, pero la historia parece repleta de fantasía. '¡Los lidera un inmortal!' grita la hija más joven, y la madre le da una bofetada por su imprudencia. El granjero os ruega su perdón y rápidamente coge las riendas de su carro de bueyes, emprendiendo de nuevo su camino.
+menu_bravecompanions1|Dando un paseo, vislumbráis una solitaria silueta en la distancia.^^Mientras os acercáis, os percatáis que no es otra cosa que una mujer pequeña, o quizás un niño sobre un caballo escuchimizado. El caballo tropieza y tira al jinete, que parece estar inconsciente.^^Os dais prisa por llegar hasta él y os dais cuenta de que no es otra cosa que una joven muchacha con las orejas amputadas y sin ojos. La observáis de arriba a abajo y veis su cuerpo igual de mutilado, los pechos cortados y el cuerpo lleno de moratones y ronchas.^^Continuais vuestro viaje, mientras reflexionáis sobre que le habrá ocurrido a la pobre chica.
+menu_bravecompanions2|Al parar en una pequeña posada, preguntais al posadero sobre la guerra la tierra de ríos.^^Un escalofrío le recorre el cuerpo mientras te habla de las violaciones, mutilaciones y granjas quemadas- ^^'¡Es horrible, {s1}!' dice mientras empieza a llorar. '¡Es por esos salvajes que bajaron desde el norte! Son demonios que se convierten en lobos, Y también está esta cabra asesina... He oído que incluso se comen los pies de sus victimas.^^Sin poder explicar quien o qué es esta cabra, el posadero se excusa y se retira murmurando algo sobre cerveza negra y una cama cálida.
+menu_bravecompanions3|Caminando por unos campos abandonados, os encontráis con un grupo de caballeros errantes.^^Parecen una compañía cordial y dedicais unos minutos a cambiar rumores con su lider, Ser Cosbrey.^^'Te aconsejo no viajar hacia Harrenhal' os dice. 'Lord Tywin ha reclutado a los titiriteros sangrientos de Qohor, y a la Cabra no le importa de que lado luchas'.^^Agradeciendole la información, continúais vuestro camino.
+menu_moro|Cruzando un puente, os encontráis un mercader.^^'Buenos días para tí, {s1}' os dice. 'Tengo el honor de ser Eryon Molkarios, vecino de Pentos'.^^Os detenéis con él unos minutos en los que aprendéis los últimos rumores del este. Según este mercader, algunas bestias descendieron sobre las ciudades de esclavos y una khalasar dothraki ha aparecido al borde de las Colinas terciopelo, cerca de Pentos. Y hay rumores, de brujos comunes, haciendo oro del estaño.^^Descarta el rumor como bazofia común, deseais al mercader un buen día.
+menu_pono|Sentado en una playa fuera de una taberna local, encontráis un grupo de mercenarios.^^Mientras el resto entra en la taberna, os quedáis con us lider contando historias.^^{s1}, mantente alejado de Volantes. He escuchado que una khalasar dothraki ha aparecido cerca de la ciudad y no hay nada que no puedan hacer. Puff, malditos sean todos esos bastardos. Quizás intenta capturar el dragón del que hemos oído últimamente. ¡Hah! Mientras nos dejen algunas de esas putas de yunkai para el comercio de esclavos, pueden hacer lo que quieran. ¡Hahaha! Habla, ¿No sabríais donde encontrar alguna cerveza decente?'^^Sin esperar respuesta se encamina hasta la taberna, te preguntas cuanta verdad habrá en sus palabras.
+menu_bloodborn|Descansando bajo un árbol, os percatáis de un cartel de su busca en las ramas bajas.^^En el nombre de Aerys Targaryen, segundo en su nombre, Rey de los ándalos, de los rhoynar y de los primeros hombres, señor de los siete reinos y protector del mismo, el caballero Aegon Frey ha sido denunciado como forajido y es el deber de cada hombre presentarlo ante la justicia'^^Viendo lo descolorido del cartel, no te imaginas a nadie pagandote por tal logro. Aún así, él y sus amigos forajidos pueden darte experiencia necesaria en este mundo.^^Siendo un Frey, Aegon estará casi seguro aún en la tierra de ríos, quizás cerca de El Cruce. Quizás es buena idea ir a echar un vistazo.
+menu_rorge|Os encontráis con una banda de pueblerinos harapientos, lideradores por un hermano mendicante, frenáis para escuchar sus historias.^^¡Que las madres se apiaden de ti!' os grita el hermano, desafiante. '¿Vais a traer justicia a El Perro? El parece el inferno, alliado con el pagano de Stannis y sirviendo a su dragón de fuego'.^^Pidiendo que se explique, él os cuenta los rumores. Aparentemente, El Perro ha estado saqueando todo en su camino en la tierra de Ríos, fácilmente reconocible por s yelmo.^^En cuanto a la gente sucia que acompaña al hermano mendicante, no puedes evitar que sus miradas hambrientas te hagan sentir un poco incómodo con lo que la guerra pueda significar para Poniente, y si esos efectos podrían extenderse a Essos.
+menu_requested_castle_granted_to_player_husband|Recibís un mensaje de vuestro señor feudal, {s3}.^^ {reg4?Ella:Él} ha decidido recompensaros con {s2}{reg3? y la aldea colindante de {s4}:} para vuestro esposo, {s7}.
+menu_requested_castle_granted_to_another|Recibís un mensaje de vuestro monarca, {s3}.^^ 'Me ha impresionado gratamente el conocimiento de vuestros valientes esfuerzos en la captura de {s2}. Vuestra victoria ha alegrado nuestros corazones. También solicitáis la propiedad del castillo, pero tal es un favor que temo no poder complacer. Vos ya contáis con significativas propiedades en mi reino. Os envío {reg6} venados de plata para cubrir vuestros gastos, pero {s2} se lo entrego a {s5}.' 
+mno_accept_decision|Aceptad la decisión.
+mno_leave_faction|¡Os han traicionado! ¡Renunciad al juramento que hicisteis a vuestro Señor!
+menu_requested_castle_granted_to_another_female|Recibís un mensaje de vuestro monarca, el {s3}.^^ 'Me ha impresionado gratamente el conocimiento de vuestros valientes esfuerzos en la captura de {s2}. Vuestra victoria ha alegrado nuestros corazones. También solicitáis la propiedad del castillo para {vuestra mujer/vuestro esposo}, , pero tal es un favor que temo no poder complacer. Él ya cuenta con significativas propiedades en mi Reino. Os envío {reg6} venados para cubrir vuestros gastos, pero {s2} se lo entrego a {s5}.' 
+menu_leave_faction|La renuncia a un juramento de lealtad es algo muy grave. Vuestro Señor podrá condenaros y confiscar vuestras tierras y propiedades. Sin embargo, si las devolvéis de forma voluntaria, puede que perdone vuestra traición sin necesidad de luchar.
+mno_leave_faction_give_back|Renunciad al juramento de lealtad y vuestras posesiones.
+mno_leave_faction_hold|Renunciad al juramento de lealtad pero mantened vuestras posesiones, incluyendo {s2}.
+mno_leave_faction_cancel|Permaneced leal y aceptad la decisión.
+menu_give_center_to_player|¡Vuestro Señor os ofrece extender vuestros feudos! El {s1} envía un mensaje en el cual os ofrece {s2} como pago por vuestro leal servicio, agregándolo a vuestras posesiones. ¿Cuál será vuestra respuesta?
+mno_give_center_to_player_accept|Aceptad la oferta.
+mno_give_center_to_player_reject|Rechazad la oferta. No tenéis el más mínimo interés en {s2}.
+menu_give_center_to_player_2|Con una breve ceremonia se os reconoce oficialmente como amo y señor de {s2}{reg3? y su aldea {s4}:}. {reg3?Ellos serán:Esta propiedad será} un buen agregado a vuestro feudo. Desde ahora podréis reclamar las rentas y ganancias de vuestras propiedades, reclutar soldados de la plebe y administrar las tierras como más os convenga. Sin embargo, también se espera que defendáis vuestro feudo y su gente, así como que mantengáis la ley y el orden.
+menu_oath_fulfilled|Teníais un contrato con {s1}, para servirle durante cierto tiempo. Vuestro contrato ha expirado. ¿Qué haréis?
+mno_renew_oath|Renovad vuestro contrato con {s1} durante otro mes.
+mno_dont_renew_oath|Liberaos de vuestras cadenas.
+menu_siege_started_defender|El {s1} está comenzando un asalto a los muros de {s2}. Tenéis {reg10} tropas listas para la batalla, frente a las {reg11} del enemigo. El comandante de vuestras fuerzas es {s5}. Os decidías a...{s4}
+mno_dplmc_negotiate_with_besieger|Negociar con los sitiadores.
+mno_change_commander_siege_defender|Cambiar comandante.
+mno_siege_defender_join_battle|Uníos a la batalla.
+mno_siege_defender_troops_join_battle|Ordenad a vuestros hombres a que se unan a la batalla sin vos.
+menu_siege_join_defense|{s4}^^Vuestras bajas: {s8}^^Bajas aliadas: {s9}^^Bajas enemigas: {s10}
+menu_enter_your_own_castle|{s10}
+menu_village|{s10} {s12}^{s11}^{s6}{s7}
+mno_village_manage|Administrad esta aldea.
+mno_recruit_volunteers|Reclutad campesinos.
+mno_village_center|Ir al centro de la aldea.
+mno_village_center_door|Puerta al centro.
+mno_dplmc_village_elder_meeting|Encontrarse con el Anciano de la aldea.
+mno_dplmc_village_elder_meeting_denied|No conocéis al Anciano de la aldea aún.
+mno_village_buy_food|Comprar suministros.
+mno_village_attack_bandits|Atacar a los bandidos.
+mno_village_wait|Esperar aquí por un tiempo.
+mno_dplmc_village_counter_insurgency|Contraatacar la rebeldía.
+mno_dplmc_village_negotiate|Empezad a negociar.
+mno_collect_taxes_qst|{reg5?Continuad recaudando impuestos:Recaudad impuestos} para el {s1}.
+mno_train_peasants_against_bandits_qst|Entrenad a los campesinos.
+mno_village_hostile_action|Emprended una acción hostil.
+mno_village_leave|Marchaos...
+menu_village_hostile_action|¿Qué acción tenéis en mente?
+mno_village_take_food|Forzad a los campesinos a daros sus suministros.
+mno_village_steal_cattle|Robad ganado.
+mno_village_loot|Saquead la aldea y arrasadla.
+mno_forced_recruits|Intentar energéticamente reclutar aldeanos.
+menu_recruit_volunteers|{s18}
+mno_continue_not_enough_gold|No tengo suficiente dinero...
+mno_recruit_them|Reclutadlos ({reg6} monedas de plata).
+menu_village_hunt_down_fugitive_defeated|Un fuerte golpe del fugitivo os hace caer al suelo, vuestra visión se nubla y perdéis el conocimiento. El tiempo pasa. Al abrir nuevamente vuestros ojos os encontráis sagrando de múltiples heridas, pero afortunadamente no parecen ser letales.
+menu_village_infest_bandits_result|{s9}
+menu_village_infestation_removed|En una batalla épica, vos y vuestros hombres lográis echar a los bandidos de la aldea, recobrando nuevamente la paz. Los campesinos ya no tienen muchos bienes después de tal calvario, pero os ofrecen todo lo que pueden encontrar.
+mno_village_bandits_defeated_accept|Tomadlo. Es vuestra merecida recompensa.
+mno_village_bandits_defeated_cont|Rechazadlo. Ellos necesitan estas cosas más que vos.
+menu_center_manage|{s19}^{reg6?^^Actualmente estáis construyendo {s7}. El edificio quedará construido en {reg8} día{reg9?s:}.:}
+mno_castle_recruit_troops|Reclutar tropas.
+mno_castle_sort_troops|Ordenar a los defensores.
+mno_center_build_manor|Construid una casa señorial.
+mno_center_build_fish_pond|Construid un molino.
+mno_center_build_watch_tower|Construid una torre de vigilancia.
+mno_center_build_school|Construid una escuela.
+mno_center_build_messenger_post|Construid un puesto de mensajería.
+mno_center_build_prisoner_tower|Construid una torre de prisioneros.
+mno_center_build_barracks|Construid barracones.
+menu_center_improve|{s19} Como miembro de vuestro ejército con mayor conocimiento de ingeniería ({reg2}), {reg3?calculáis:{s3} calcula} que construir {s4} os costará {reg5} venados y se completará en {reg6} días.
+mno_dplmc_improve_cont|Continuad. (Pagad del tesoro)
+mno_improve_cont|Continuad.
+mno_improve_not_enough_gold|No poseo suficiente dinero para eso.
+menu_town_bandits_failed|{s4} {s5}
+menu_town_bandits_succeeded|¡Los bandidos caen frente a vos como trigo ante la hoz! Pronto, os detenéis en las desiertas calles mientras todos vuestros atacantes yacen inconscientes, muertos o agonizantes. Al buscar entre los cuerpos, encontráis un monedero que debe haber pertenecido a una víctima de tales brutos. O tal vez les fue entregado por alguien que ha pagado por vuestra muerte.
+menu_village_steal_cattle_confirm|Como miembro de vuestro ejército con mayor habilidad para saquear ({reg2}), {reg3?calculáis:{s1} calcula} que podéis robar unas {reg4} cabezas de ganado de la aldea.
+mno_village_steal_cattle_confirm|Continuad.
+menu_village_steal_cattle|{s1}
+menu_village_take_food_confirm|Será difícil forzar y amenazar a los campesinos para que os entreguen sus preciados suministros. Creéis que al menos os llevará una hora.
+mno_village_take_food_confirm|Comenzad.
+menu_village_take_food|Los campesinos acceden reaciamente a daros sus posesiones.
+mno_take_supplies|Tomad los suministros.
+mno_let_them_keep_it|Permitid que se los queden.
+menu_village_start_attack|Algunos de los enfadados campesinos toman sus herramientas y se preparan para haceros frente. Parece que tendréis una batalla en vuestras manos si continuáis con vuestros planes.
+mno_village_raid_attack|Atacad.
+mno_village_raid_leave|Dejad la aldea en paz.
+menu_village_loot_no_resist|Los campesinos son pocos y están asustados, y rápidamente se dan a la fuga. La aldea está a vuestra merced.
+menu_village_loot_complete|Ordenáis a vuestras tropas que saqueen la aldea, que tomen todo lo de valor, y que luego prendan fuego a las casas. De las monedas y objetos de valor, vuestra parte es {reg1} venados.
+menu_village_loot_defeat|Luchando con coraje y determinación, los campesinos son capaces de soportar el ataque y repeler a vuestras fuerzas.
+menu_village_loot_continue|¿Deseáis continuar saqueando la aldea?
+mno_disembark_yes|Sí.
+mno_disembark_no|No.
+menu_close|Nada.
+menu_town|{s10} {s14}^{s11}{s12}{s13}
+mno_castle_castle|Id a la sala del Señor{s1}.
+mno_castle_castle_door|Puerta al castillo.
+mno_join_tournament|Uníos al torneo.
+mno_town_castle|Id al castillo{s1}.
+mno_town_castle_door|Puerta al castillo.
+mno_town_center|Caminad por las calles.
+mno_town_center_door|Puerta al centro.
+mno_town_tavern|Visitad la taberna.
+mno_town_tavern_door|Puerta a la taberna.
+mno_town_merchant|Hablad con un mercader.
+mno_town_merchant_door|Puerta a la tienda.
+mno_town_arena|Entrad a la arena.
+mno_town_arena_door|Puerta a la arena.
+mno_town_dungeon|Nunca: Entrad en los calabozos.
+mno_town_dungeon_door|Puerta a la mazmorra.
+mno_castle_inspect|Caminad por el patio.
+mno_castle_inspect_door|Al patio del castillo.
+mno_town_enterprise|Visitad la {s3}.
+mno_town_enterprise_door|Puerta a vuestra empresa.
+mno_visit_lady|Intentad visitar a una dama.
+mno_visit_lady_door|Puerta a los jardines.
+mno_trade_with_merchants|Id al mercado.
+mno_walled_center_manage|Administrad {reg0?esta ciudad:este castillo}.
+mno_walled_center_move_court|Mover vuestra corta aquí.
+mno_castle_station_troops|Administrar la guarnición {s10}
+mno_dplmc_castle_give_troops|Dad tropas a la guarnición (no puede deshacerse)
+mno_castle_wait|Esperad aquí durante un tiempo {s1}.
+mno_dplmc_guild_master_meeting|Encontrarse con el Maestro del gremio.
+mno_dplmc_guild_master_meeting_denied|No conocéis al maestro del gremio aún.
+mno_town_bank|Visitar a los mercaderes.
+mno_recruit_nobles|Reclutad voluntarios.
+mno_town_leave|Salid...
+mno_town_leave_door|Salid de esta zona.
+menu_cannot_enter_court|Se está celebrando un festín en la sala del Señor, pero vos no tenéis la suficiente categoría social para merecer una invitación. Tal vez aumentando vuestro prestigio logréis ser admitidos en tan distinguidos círculos -- o también podéis probar a distinguiros en un torneo, mientras la fiesta sigue...
+menu_lady_visit|¿A quién deseáis visitar?
+mno_visit_lady_1|Visitad a {s12}
+mno_visit_lady_2|Visitad a {s12}
+mno_visit_lady_3|Visitad a {s12}
+mno_visit_lady_3_door|Puerta a los jardines
+mno_visit_lady_4|Visitad a {s12}
+mno_visit_lady_5|Visitad a {s12}
+mno_visit_lady_6|Visitad a {s12}
+mno_visit_lady_7|Visitad a {s12}
+mno_visit_lady_8|Visitad a {s12}
+menu_town_tournament_lost|Os han eliminado del torneo.{s8}
+menu_town_tournament_won|¡Habéis ganado el torneo de {s3}! Sentís un profundo orgullo mientras los espectadores gritan vuestro nombre. Además del honor, la fama y la gloria, ganáis un premio de {reg9} venados. {s8}
+menu_town_tournament_won_by_another|Al ser la única persona invicta hoy, {s1} gana las listas y la gloria de este torneo.
+menu_town_tournament|{s1} Os encontráis en el nivel {reg0} del torneo, quedando aún {reg1} participantes. En la próxima ronda, habrá {reg2} equipos, con {reg3} {reg4?luchadores:luchador} cada uno.
+mno_tournament_view_participants|Ved participantes.
+mno_tournament_bet|Apostad por vuestra persona.
+mno_tournament_join_next_fight|Luchad en la próxima ronda.
+mno_leave_tournament|Retiraos del torneo.
+menu_tournament_withdraw_verify|¿Seguro que queréis retiraros del torneo?
+mno_tournament_withdraw_yes|Sí. Esto no tiene sentido.
+mno_tournament_withdraw_no|No, ¡no mientras tenga posibilidad de vencer!
+menu_tournament_bet|Las apuestas contra vos son de {reg5} a {reg6}.{reg1? Ya habéis apostado {reg1} venados y, si ganáis, obtendréis {reg2} monedas de plata.:} ¿Cuánto queréis apostar?
+mno_bet_100_denars|100 venados de plata.
+mno_bet_50_denars|50 venados de plata.
+mno_bet_20_denars|20 venados de plata.
+mno_bet_10_denars|10 venados de plata.
+mno_bet_5_denars|5 venados de plata.
+menu_tournament_bet_confirm|Si apostáis {reg1} venados, ganaréis {reg2} monedas de plata si conseguís la victoria en el torneo. ¿Estáis de acuerdo?
+mno_tournament_bet_accept|Adelante.
+mno_tournament_bet_cancel|Olvidadlo.
+menu_tournament_participants|Preguntáis a un pregonero los nombres de los participantes en el torneo. Ellos son:^{s11}
+menu_collect_taxes|Como miembro de vuestro ejército con mayor habilidad para comerciar ({reg2}), {reg3?esperáis:{s1} espera} que la recaudación de impuestos dure {reg4} días...
+mno_start_collecting|Comenzad la recaudación.
+mno_collect_later|Retrasadlo hasta dentro de un tiempo.
+menu_collect_taxes_complete|Habéis recaudado {reg3} venados de plata de los impuestos de {s3}.{s19} espera que le llevéis el dinero.
+menu_collect_taxes_rebels_killed|Vuestra rápida respuesta y mano dura han acabado con la revuelta. Seguramente, si queda gente con ganas de rebelarse contra vos, se lo pensarán dos veces a partir de ahora.
+menu_collect_taxes_failed|Sólo pudisteis recaudar {reg3} venados como impuestos de {s3} antes de que comenzara la revuelta. {s1} no estará contento, pero algo de plata es mejor que nada...
+menu_collect_taxes_revolt_warning|La gente de {s3} está indignada con vuestras demandas y lo consideran extorsión. Están inquietos y puede que reaccionen de mala manera si continuáis presionándolos.
+mno_continue_collecting_taxes|Ignoradlos y proseguid.
+mno_halve_taxes|Acceded a recortar la recaudación por la mitad. ({s1} puede enfadarse)
+menu_collect_taxes_revolt|Os interrumpen mientras recaudáis los impuestos de {s3}. Una gran banda de enfadados {reg9?campesinos:ciudadanos} está acercándose, gritando y portando antorchas y armas. ¡Parece que pretenden luchar con vos!
+menu_train_peasants_against_bandits|Como miembro del ejército con mayor habilidad como instructor ({reg2}), {reg3?estimáis:{s1} estima} que preparar a algunos campesinos para las prácticas llevará {reg4} horas.
+mno_make_preparation|Entrenadlos.
+mno_train_later|Retrasadlo hasta más adelante.
+menu_train_peasants_against_bandits_ready|Entrenáis a los campesinos en conocimientos básicos sobre soldadesca, disciplina y obediencia. Creéis que {reg0} {reg1?han:ha} aprendido lo suficiente y {reg1?están listos:está listo} para comenzar las prácticas.
+mno_peasant_start_practice|Comenzad las prácticas de lucha.
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack|Mientras os preparáis para continuar con el entrenamiento, un centinela de la aldea corre hasta vos, dando la alarma. Se han divisado bandidos en el horizonte, cabalgando velozmente hacia {s3}. El anciano os ruega que preparéis vuestras tropas recién entrenadas y les hagáis frente.
+mno_peasants_against_bandits_attack_resist|¡Preparaos para la batalla!
+menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_success|¡Los bandidos han sido vencidos! Los pocos que quedan huyen con el rabo entre las piernas, aterrorizados por los campesinos y su nuevo campeón. Poco les queda a los aldeanos tras semejante calvario, pero os ofrecen todo lo que pueden como muestra de su gratitud.
+menu_disembark|¿Deseáis desembarcar?
+menu_ship_reembark|¿Deseáis embarcar?
+mno_reembark_yes|Sí.
+mno_reembark_no|No.
+menu_center_reports|Nombre de la ciudad: {s1}^Ingresos por rentas: {reg1} venados de plata^Ingresos por impuestos: {reg2} venados de plata^Reserva de alimentos: para {reg3} días
+mno_to_price_and_productions|Mostrar precios y productos.
+menu_price_and_production|Productos:^(Nota: base/modificador por rareza/modificador por materiales por prosperidad)^{s1}^^Precios:^{s2}
+menu_town_trade|Os dirigís hacia el mercado.
+mno_auto_sell|Vended objetos automaticamente.
+mno_assess_prices|Evaluad los precios locales.
+mno_trade_with_arms_merchant|Comerciad con el mercader de armas.
+mno_trade_with_armor_merchant|Comerciad con el mercader de armaduras.
+mno_trade_with_horse_merchant|Comerciad con el mercader de caballos.
+mno_trade_with_goods_merchant|Comerciad con el mercader de bienes.
+mno_auto_buy_food|Comprad comida automaticamente.
+mno_back_to_town_menu|Regresad.
+menu_trade_auto_sell_begin|Objetos en el inventario de compañeros del tipo a vender cuyo precio sea menor que  {reg1} monedas también serán vendido a {reg2?los mercaderes:el ancieno} en {reg2?la ciudad:el pueblo} automaticamente. Los alimentos, los bienes mercantiles y los libros nunca se venderán.^^Puedes cambiar las opciones aquí a tu gusto.
+mno_change_settings|Cambiar opciones.
+menu_trade_auto_buy_food_begin|Comprarás alimentos acorde a esta lista. ¿Quierés continuar?^^Puedes ver y configurar la lista aquí.
+mno_change_shopping_list_of_food|Configurad la lista de compra de alimentos.
+menu_town_trade_assessment_begin|Escucháis varias conversaciones acerca del precio de los bienes en esta área. ^Prestáis mucha atención, intentando encontrar la mejor oferta.
+menu_town_trade_assessment|Como miembro del ejército con mayor habilidad para comerciar ({reg2}), {reg3?intentáis:{s1} intenta} encontrar los mejores bienes para el comercio. {s2}
+menu_sneak_into_town_suceeded|Disfrazándoos de pobre peregrino, sois capaz de engañar a los guardias y entrar en la ciudad.
+menu_sneak_into_town_caught|¡Al intentar entrar sin llamar la atención, uno de los guardias os reconoce y da la alarma! ¡Debéis huir a través de las puertas antes de que los demás guardias os den alcance!
+mno_sneak_caught_fight|¡Intentad luchar!
+mno_sneak_caught_surrender|Rendíos.
+menu_sneak_into_town_caught_dispersed_guards|Ahuyentáis a los guardias y cubrís vuestras huellas al huir, despistando a vuestros perseguidores entre el laberinto de calles.
+menu_sneak_into_town_caught_ran_away|Salís de nuevo por las puertas y rápidamente os retiráis hacia la seguridad de las colinas.{s11}
+menu_enemy_offer_ransom_for_prisoner|{s2} os ofrece una suma de {reg12} venados de plata si aceptáis venderle a {s1}.
+mno_ransom_accept|Aceptad la oferta.
+mno_ransom_reject|Rechazad la oferta.
+menu_training_ground|Os acercáis al campo de entrenamiento, donde podéis practicar vuestras habilidades marciales. ¿Qué clase de entrenamiento deseáis practicar?
+mno_camp_trainer|Hablad con el entrenador.
+mno_camp_train_melee|Practicad cuerpo a cuerpo.
+mno_camp_train_archery|Practicad con armas a distancia.
+mno_camp_train_mounted|Practicad con montura.
+menu_training_ground_selection_details_melee_1|¿A cuántos oponentes os enfrentaréis?
+mno_camp_train_melee_num_men_1|Uno.
+mno_camp_train_melee_num_men_2|Dos.
+mno_camp_train_melee_num_men_3|Tres.
+mno_camp_train_melee_num_men_4|Cuatro.
+menu_training_ground_selection_details_melee_2|Elegid a vuestro oponente #{reg1}:
+mno_training_ground_selection_details_melee_random|Elegid al azar.
+menu_training_ground_selection_details_mounted|¿Con qué clase de arma deseáis entrenar?
+mno_camp_train_mounted_details_1|Arma de una mano.
+mno_camp_train_mounted_details_2|Arma enastada.
+mno_camp_train_mounted_details_3|Arco.
+mno_camp_train_mounted_details_4|Arma arrojadiza.
+menu_training_ground_selection_details_ranged_1|¿Con qué clase de arma a distancia queréis entrenar?
+mno_camp_train_ranged_weapon_bow|Arco y flechas.
+mno_camp_train_ranged_weapon_crossbow|Ballesta.
+mno_camp_train_ranged_weapon_thrown|Cuchillos arrojadizos.
+menu_training_ground_selection_details_ranged_2|¿A qué distancia deseáis practicar?
+mno_camp_train_ranged_details_1|10 yardas.
+mno_camp_train_ranged_details_2|20 yardas.
+mno_camp_train_ranged_details_3|30 yardas.
+mno_camp_train_ranged_details_4|40 yardas.
+mno_camp_train_ranged_details_5|50 yardas.
+mno_camp_train_ranged_details_6|60 yardas.
+mno_camp_train_ranged_details_7|70 yardas.
+menu_training_ground_description|{s0}
+menu_training_ground_training_result|{s7}{s2}
+menu_marshall_selection_candidate_ask|{s15} pronto elegirá una nueva Mano del Rey para {s23}. Algunos de los señores han sugerido vuestro nombre como posible candidatura.
+mno_marshall_candidate_accept|Haced saber a {s15} que aceptaríais ser la Mano.
+mno_marshall_candidate_reject|Haced saber a todos que no tenéis tiempo para semejante cosa.
+menu_captivity_avoid_wilderness|De repente, el mundo se oscurece a vuestro alrededor. Recuperáis la conciencia varias horas después, encontrándoos en el mismo sitio donde habíais caído. Vuestros enemigos deben haber creído que habíais muerto y por eso os dejaron allí. Sin embargo, parece que ninguna de vuestras heridas es letal, y aunque os sentís terriblemente mal, comprobáis que aún podéis caminar. Os levantáis e intentáis encontrar a otros supervivientes de vuestro ejército.
+menu_captivity_start_wilderness|Stub
+menu_captivity_start_wilderness_surrender|Stub
+menu_captivity_start_wilderness_defeat|Vuestros enemigos os aprisionan.
+menu_captivity_start_castle_surrender|Stub
+menu_captivity_start_castle_defeat|Stub
+menu_captivity_start_under_siege_defeat|Vuestros enemigos os aprisionan.
+menu_captivity_wilderness_taken_prisoner|Vuestros enemigos os aprisionan.
+menu_captivity_wilderness_check|stub
+menu_captivity_end_sea_escape|¡Tras sufrir días terribles en poder de vuestros captores, se os presenta una posibilidad de escapar y la aprovecháis!
+menu_captivity_end_wilderness_escape|¡Tras sufrir días terribles en poder de vuestros captores, se os presenta una posibilidad de escapar y la aprovecháis!
+menu_captivity_castle_taken_prisoner|Los guardias os rodean rápidamente y os desarman. Entre insultos y empujones os devuelven nuevamente a la mazmorra donde pasáis los miserables días que dura vuestra cautividad.
+menu_captivity_rescue_lord_taken_prisoner|Permanecéis con vuestro disfraz durante todo el tiempo que os es posible antes de mostraros. Los guardias, indignados, os golpean salvajemente y os dejan nuevamente en la celda, por Dios sabe cuánto tiempo...
+menu_captivity_castle_check|stub
+menu_captivity_end_exchanged_with_prisoner|Finalmente, tras días de encarcelamiento, os dejan en libertad; vuestros captores os han intercambiado por otro prisionero.
+menu_captivity_end_propose_ransom|Pasáis largas horas en la oscura humedad de la mazmorra, más de las que podéis contar. De pronto, uno de vuestros captores entra a vuestra celda con una oferta; os propone liberaros a cambio de {reg5} venados de vuestra fortuna escondida. ¿Qué haréis?
+mno_captivity_end_ransom_accept|Aceptad la oferta.
+mno_captivity_end_ransom_deny|Rechazadla, esperad algo mejor.
+menu_captivity_castle_remain|Siguen pasando los días en la oscuridad de vuestra celda. Intentáis sobrellevarlo lo mejor posible, soportando patadas e insultos de los guardias, viendo cómo vuestro cuerpo desnutrido se marchita...
+menu_kingdom_army_quest_report_to_army|{s8} os envía un mensaje: desea que os unáis a su nueva campaña militar. Necesitáis llevar al menos {reg13} tropas para el ejército, y se os indica que reclutéis más hombres cuanto antes si es que no tenéis suficientes.
+menu_kingdom_army_quest_messenger|{s8} envía un mensaje comunicándoos que desea hablar con vos acerca de un trabajo. Os pide que vayáis a su encuentro cuanto antes.
+menu_kingdom_army_quest_join_siege_order|{s8} os envía un mensaje comunicándoos que debéis uniros al asedio de {s9} en preparación para el asalto final. Vuestras tropas deben tomar {s9} sin importar el coste.
+menu_kingdom_army_follow_failed|Habéis desobedecido vuestras órdenes y no habéis seguido al {s8}. Enfurecido, os ha echado del ejército, y os envía una dura advertencia, para que esto no vuelva a suceder.
+menu_invite_player_to_faction_without_center|¡Recibís una oferta de vasallaje!^^ {s8} del {s9} ha enviado un heraldo real con la invitación en mano. Os hará el honor de convertiros en {Señor vasallo/Dama vasalla} del {s9}, y a su vez, {s8} os pide que le juréis lealtad y luchéis en sus campañas militares, aunque no os ofrece todavía títulos ni tierras. Sin duda, se mostrará muy ofendido si no aceptáis su oferta...
+mno_faction_accept|¡Aceptadla!
+mno_faction_reject|Rechazad la invitación.
+menu_invite_player_to_faction|¡Recibís una oferta de vasallaje!^^ {s8} del {s9} ha enviado un heraldo real con la invitación en mano. Os hará el honor de convertiros en {Señor vasallo/Dama vasalla} del {s9}, y a su vez, el {s8} os pide que le juréis lealtad y luchéis en sus campañas militares, ofreciéndoos el feudo de {s2} como recompensa por vuestros servicios. Sin duda, se mostrará muy ofendido si no aceptáis su oferta...
+menu_invite_player_to_faction_accepted|Para convertiros en su vasallo, debéis jurar lealtad al {s3}. Debéis encontrarle y ofrecer vuestro juramento en persona. {s5}
+menu_question_peace_offer|Recibís una oferta de paz^^El {s1} os ofrece un tratado de paz. ¿Cuál es vuestra respuesta?
+mno_peace_offer_accept|Aceptáis.
+mno_dplmc_peace_offer_terms|Dictar los términos de la paz.
+mno_peace_offer_reject|Rehusáis.
+menu_notification_truce_expired|Tregua expirada^^La tregua entre {s1} y {s2} ha terminado.
+menu_notification_feast_quest_expired|{s10}
+menu_notification_sortie_possible|Enemigo avistado: Tropas enemigas han sido avistadas al otro lado de los muros de {s4}, y el {s5} y otros se están preparando para salir. Podéis uniros a ellos si lo deseáis.
+menu_notification_casus_belli_expired|Ausencia de respuesta^^Enviados de {s2} han causado discordia en el reino de {s1}. y {s3} como resultado pierde prestigio...^
+menu_notification_lord_defects|Deserción: {s4} ha abandonado {s5} y jurado lealtad a {s7}, aportando {reg4?sus:sus} feudos con él
+menu_notification_treason_indictment|Acusación de traición^^{s9}
+menu_notification_border_incident|Incidente fronterizo^^Os llegan noticias sobre que {s9}. Aunque no sabéis si los rumores son ciertos, sí sabéis una cosa, este incidente ha enfervorecido al {s4}, por lo que será más fácil convencerlos para que vayan a la guerra contra el {s3}, si así lo desean...
+menu_notification_player_faction_active|Desde ahora poseéis tierras a vuestro nombre, sin ataduras a ningún otro reino. Esto os convierte en monarca por derecho propio, con vuestra corte ubicada por ahora en {s12}. Sin embargo, los otros reyes en Poniente y los señores de las Ciudades Libres os consideran ya como una clara amenaza, porque si cualquier advenedizo señor de la guerra puede acceder a un trono, la propia legitimidad de aquellos queda en entredicho.^^Es posible que os interese dedicaros a consolidar la posición de vuestro nuevo reino. Si deseáis continuar como el soberano monarca de estas tierras, entonces vuestra primera prioridad debería ser establecer vuestras propias leyes. En este sentido podéis consolidar vuestro derecho a gobernar mediante distintas vías: casaros con una familia de alta alcurnia, reclutad nuevos señores vasallos, gobernad vuestras tierras, firmad acuerdos con otros reyes, o enviad a vuestros seguidores en diferentes misiones.^^En cualquier caso, vuestro primer paso debería ser nombrar un primer ministro elegido de entre vuestros más leales compañeros, para ayudaros a manejar los asuntos de Estado, para lo que deberíais tener en cuenta sus distintas capacidades.^Podréis nombrar nuevos ministros de vez en cuando. También podéis cambiar la ubicación de vuestra corte, hablando con el ministro.
+mno_appoint_spouse|Elegid a {reg0?vuestra esposa:vuestro marido}, {s10}...
+mno_dplmc_appoint_spouse_plus_1|Elegid a {reg0?vuestra esposa:vuestro marido}, {s10}...
+mno_appoint_npc1|Elegid a {s10}
+mno_appoint_npc2|Elegid a {s10}
+mno_appoint_npc3|Elegid a {s10}
+mno_appoint_npc4|Elegid a {s10}
+mno_appoint_npc5|Elegid a {s10}
+mno_appoint_npc6|Elegid a {s10}
+mno_appoint_npc7|Elegid a {s10}
+mno_appoint_npc8|Elegid a {s10}
+mno_appoint_npc9|Elegid a {s10}
+mno_appoint_npc10|Elegid a {s10}
+mno_appoint_npc11|Elegid a {s10}
+mno_appoint_npc12|Elegid a {s10}
+mno_appoint_npc13|Elegid a {s10}
+mno_appoint_npc14|Elegid a {s10}
+mno_appoint_npc15|Elegid a {s10}
+mno_appoint_npc16|Elegid a {s10}
+mno_appoint_npc17|Elegid a {s10}
+mno_appoint_npc18|Elegid a {s10}
+mno_appoint_npc19|Elegid a {s10}
+mno_appoint_npc20|Elegid a {s10}
+mno_appoint_npc21|Elegid a {s10}
+mno_appoint_npc22|Elegid a {s10}
+mno_appoint_default|Nombrad a un ciudadano prominente de la zona...
+menu_minister_confirm|{s9} puede encontrarse en vuestra corte en {s12}. Debéis consultarle a menudo, para evitar que se acumulen problemas sin resolver que dependen de vuestra autoridad...
+menu_notification_court_lost|{s12}
+menu_notification_player_faction_deactive|Ya no poseéis tierras.
+menu_notification_player_wedding_day|{s8} os informa de que los preparativos para vuestra boda en {s10} están listos, de manera que vuestra presencia se espera a la mayor brevedad.
+menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_center_under_siege|¡{s1} ha sido asediado por el {s2} del {s3}!
+menu_notification_village_raided|Los enemigos han arrasado un feudo^^¡{s1} ha sido asaltado por el {s2} del {s3}!
+menu_notification_village_raid_started|¡Vuestra aldea está siendo atacada!^^El {s2} del {s3} está arrasando {s1}.
+menu_notification_one_faction_left|Todo Poniente y las Ciudades Libres han sido conquistados por un reino^^{s1} ha vencido a todos sus rivales, formando un reino unificado.
+menu_notification_oath_renounced_faction_defeated|Vuestra antigua facción ha sido derrotada^^¡Habéis ganado la batalla contra el {s1}! Esto culmina vuestra reyerta, que comenzó cuando renunciasteis a vuestro juramento.
+menu_notification_center_lost|Propiedad perdida^^Habéis perdido {s1} frente a {s2}.
+menu_notification_troop_left_players_faction|¡Traición!^^ {s1} ha abandonado {s2} y se ha unido a {s3}.
+menu_notification_troop_joined_players_faction|¡Buenas nuevas!^^ {s1} ha abandonado {s2} y se ha unido a {s3}.
+menu_notification_war_declared|Declaración de guerra^^¡{s1} ha declarado la guerra a {s2}!
+menu_notification_peace_declared|Tratado de paz^^¡{s1} y {s2} han hecho las paces!
+menu_notification_faction_defeated|Facción eliminada^^¡{s1} ya no existe!
+menu_notification_kingdom_restoration|Restauración^^{s10} ha renunciado a su lealtad hacia {s12} y ha restaurado la soberanía: {s11}.
+menu_notification_rebels_switched_to_faction|Éxito de la rebelión^^ ¡Vuestra rebelión ha salido victoriosa! Vuestra facción tiene el legítimo e indiscutible derecho para reclamar el el trono de {s11}, con {s12} como su único soberano.
+menu_notification_player_should_consult|{reg0?Vuestro ministro:{s11}} ministro os envía una misiva en la que comunica que existen problemas en el Reino que, si se dejan de lado, podrían hacer mella en vuestra autoridad. Debéis consultar con {reg4?ella:él} a la mayor brevedad posible
+menu_notification_player_feast_in_progress|Preparación de festín^^{Vuestra esposa/Vuestro marido} ha comenzado las preparaciones para el festín en vuestro salón de {s11}
+menu_notification_lady_requests_visit|Una anciana criada se aproxima a vuestro ejército y entrega a uno de vuestros hombres una misiva, sellada con cera ordinaria. Está dirigida a vos. En cuanto rompéis el sello que la guarda, observáis que procede de {s15}. Podéis leer, 'Disfruté muchísimo de vuestra última visita. {s14} Actualmente me encuentro en {s10}.{s12}'
+mno_continue_visit_yes|Decid a la mujer que informe a su señora de tu pronta visita.
+mno_continue_visit_no|Decid a la mujer que informe a su señora de que estás indispuesto.
+menu_garden|{s12}
+mno_nurse_1|Acompañad a la criada
+mno_nurse_2|Esperad en la fuente
+menu_kill_local_merchant_begin|Encontráis a vuestra víctima y la seguís, observando cómo gira hacia un callejón oscuro. Seguramente ésta será la mejor oportunidad que tengáis para atacar.
+menu_debug_alert_from_s65|DEBUG ALERT: {s65}
+menu_auto_return_to_map|stub
+menu_bandit_lair|{s3}
+mno_continue_1|Atacad la guarida...
+mno_leave_no_attack|Salid...
+mno_leave_victory|Continuad...
+mno_leave_defeat|Continuad...
+menu_notification_player_faction_political_issue_resolved|Tras consultar con los pares del reino, {s10} ha decidido otorgar {s11} a {s12}.
+menu_notification_player_faction_political_issue_resolved_for_player|Tras consultar con los pares del reino, el {s10} ha decidido otorgaros {s11}. Podéis declinar tal honor, pero ello probablemente implique que no recibáis nuevas gratificaciones durante un tiempo.{s12}
+mno_accept|Aceptad el honor
+mno_decline|Declinad el honor
+menu_start_phase_3|{s16}^^Estáis tan exhausto que cuando encontráis la posada de {s1}, quedáis sumido en un profundo sueño rápidamente. Según un viejo hombre ciego que está sentado en una esquina, un kraken ha sido visto en la costa de Dorne, y un ternero de cinco cabezas a nacido. matando a su madre en el proceso, un presagio nada bueno. Tratando al hombre como un loco, te aventuras a las calles que aún permanecen desiertas. De repente, escucháis un sonido que os pone en alerta... el inconfundible susurro de una hoja deslizándose de su vaina...
+menu_start_phase_4|{s11}
+menu_lost_tavern_duel|{s11}
+menu_establish_court|Para establecer vuestra corte en {s4} harán falta ciertas reformas. Principalmente, necesitaréis un juego de herramientas y un rollo de terciopelo. También pasará un cierto tiempo hasta que todos vuestros seguidores se trasladen aquí. ¿Deseáis continuar?
+mno_establish|Establecer vuestra corte en {s4} 
+menu_notification_relieved_as_marshal|{s4} desea informaros de que vuestros servicios como Mano ya no son necesarios. Para honrar vuestros valerosos esfuerzos a favor del reino en los últimos {reg4} días, no obstante, {reg5?ella:él} os ofrece una bolsa con {reg5} monedas de plata.
+menu_manage_loot_pool|{s10}
+mno_auto_loot|Dejad a los héroes elegir equipamiento del banco.
+mno_auto_loot_no|Insuficiente espacio en el banco para la auto-actualización.
+mno_loot|Acceded al banco.
+mno_auto_loot_upgrade_management|Actualizad la gestión del equipamiento de los compañeros.
+mno_auto_loot_leave_with_nothing|Coger los objetos de más valor que {reg1} venados y continuar.
+mno_auto_loot_leave|{s20}
+menu_auto_loot|Vuestros héroes cogerán automaticamente objetos del banco basandose en sus opciones de actualización pre-seleccionadas. Los héroes que están primeros en la lista del grupo, serán los primeros en elegir. Cualquier objeto que no se necesite, se colocará de nuevo en el banco. ¿Estáis seguro de querer hacer esto?
+mno_No|No, he cambiado de idea.
+mno_Yes|Sí, haced la actualización.
+menu_choose_options_1|Elige los árboles de tropas que quieres usar. Una vez elegido no puede cambiarse.^^Los árboles del native son simples, los complejos tienen muchas opciones y variedad. El reelaborado es un punto intermedio.
+mno_native_troop_trees|Native
+mno_reworked_troop_trees|Reelaborado
+mno_expanded_troop_trees|Complejo
+menu_choose_options_2|¿Reunir a todos los compañeros en la primera taberna que encuentres?^^Deberías mirar en la planta superior ya que muchos estarán arriba, otros en la escalera y el resto en la sala principal. Si el compañero que buscas no está presente, deberías empezar de nuevo, algunas veces no aparecen todos.
+mno_yes_npcs|Sí
+mno_no_npcs|No
+menu_choose_options_3|¿Quieres jugar con niebla de guerra?
+menu_choose_options_end|Seleccion de opciones del juego completada.
+menu_town_menu_cheats|TRUCOS.
+menu_dplmc_notification_alliance_declared|Acuerdo de Alianza^^¡{s1} y {s2} han formado una alianza!^{s57}
+mno_dplmc_continue|Continuar...
+menu_dplmc_notification_defensive_declared|Pacto Defensivo^^¡{s1} y {s2} han acordado un pacto de defensa!^{s57}
+menu_dplmc_notification_trade_declared|Acuerdo Comercial^^¡{s1} y {s2} han firmado un acuerdo comercial!^{s57}
+menu_dplmc_notification_nonaggression_declared|Tratado de No-agresión^^¡{s1} y {s2} han concluido un tratado de no-agresión!^{s57}
+menu_dplmc_question_alliance_offer|Habéis Recibido una Oferta de Alianza^^{s1} quiere formar una alianza con vos. ¿Cuál es vuestra respuesta?
+mno_dplmc_alliance_offer_accept|Aceptar
+mno_dplmc_alliance_offer_reject|Rechazar
+menu_dplmc_question_defensive_offer|Habéis Recibido una Oferta de un Pacto^^{s1} os ofrece un pacto defensivo. ¿Cuál es vuestra respuesta?
+mno_dplmc_defensive_offer_accept|Aceptar
+mno_dplmc_defensive_offer_reject|Rechazar
+menu_dplmc_question_trade_offer|Habéis Recibido una Oferta de un Pacto^^{s1} os ofrece un acuerdo comercial. ¿Cuál es vuestra respuesta?
+mno_dplmc_trade_offer_accept|Aceptar
+mno_dplmc_trade_offer_reject|Rechazar
+menu_dplmc_question_nonaggression_offer|Habéis Recibido una Oferta de un Pacto^^{s1} os ofrece un pacto de no-agresión. ¿Cuál es vuestra respuesta?
+mno_dplmc_nonaggression_offer_accept|Aceptar
+mno_dplmc_nonaggression_offer_reject|Rechazar
+menu_dplmc_notification_alliance_expired|Una Alianza ha Expirado^^La alianza entre el {s1} y {s2} ha terminado y degrada en un pacto defensivo.
+menu_dplmc_notification_defensive_expired|Un Pacto Defensivo ha Expirado^^El pacto de defensa entre el {s1} y {s2} ha terminado y degrada en un acuerdo comercial.
+menu_dplmc_notification_trade_expired|Un Acuerdo Comercial ha Expirado^^El acuerdo comercial entre el {s1} y {s2} ha termiando y degrada en pacto de no-agresión.
+menu_dplmc_dictate_terms|Dictad vuestros términos para la paz.
+mno_dplmc_demand_4000|Demandad 4000 venados de plata.
+mno_dplmc_demand_8000|Demandad 8000 venados de plata.
+mno_dplmc_demand_castle|Demandad {s2}.
+mno_dplmc_go_back|Volved.
+menu_dplmc_deny_terms|El {s1} rechaza vuestros términos y rompe las negociaciones.
+menu_dplmc_village_riot_result|{s9}
+menu_dplmc_village_riot_removed|En una sangrienta batalla, vos y vuestros hombres realizáis una masacre de los rebeldes y recuperáis el control de la aldea. Pero no queda mucho que podáis controlar.
+menu_dplmc_town_riot_removed|En una sangrienta batalla, vos y vuestros hombres realizáis una masacre de los rebeldes y recuperáis el control de la ciudad.
+menu_dplmc_riot_negotiate|Os aproximáis a la furiosa multitud y comenzáis las negociaciones. El líder de la revuelta demanda {reg0} monedas de plata. Está de acuerdo en dejar las armas si vos estáis dispuestos a pagar.
+mno_dplmc_pay_riot_treasury|Decid a vuestro chambelán que pague con el dinero de la tesorería.
+mno_dplmc_pay_riot_cash|Pagad en efectivo.
+mno_dplmc_back|Volved...
+menu_dplmc_notification_riot|¡Los campesinos de {s1} se han alzado contra vos en una revuelta! En un ataque sorpresa, hombres leales a vos han sido asesinados. El resto se ha unido a la multitud enfurecida.
+menu_dplmc_notification_appoint_chamberlain|Como señor de un feudo, ahora podéis nombrar a un Senescal que resida en vuestra corte por un salario semanal de 15 venados. Él se encargará de todos los asuntos financieros como la recogida y la determinación de la tasa de impuestos, pago de los salarios y la gestión de su patrimonio. Además supervisa las transferencias de dinero entre los reinos dándoos más opciones diplomáticas.
+mno_dplmc_appoint_default|Nombrad a un noble prominente de la zona.
+menu_dplmc_chamberlain_confirm|Encontraréis al Senescal en vuestra corte. Deberíais consultarle si queréis que os aconseje sobre algún tema financiero o si necesitáis una mayor cantidad de dinero. Deberíais aseguráos de que haya suficiente dinero en la tesorería para pagar algunos asuntos políticos.
+menu_dplmc_notification_appoint_constable|Como señor de un feudo, ahora podéis nombrar a un Castellano que residirá con vos en vuestra corte por un salario semanal de 15 venados. Él reclutará nuevas tropas y os proveerá información sobre vuestro ejército.
+menu_dplmc_constable_confirm|Encontraréis al Castellano en vuestra corte. Deberíais consultarle a él si deseaáis reclutar más tropas o obtener información detallada sobre vuestra armada actual.
+menu_dplmc_notification_appoint_chancellor|Como señor de un feudo, ahora podéis nombrar a un Maestre que residirá con vos en vuestra corte por un salario semanal de 20 venados. Él será el encargado de vuestro sello y del funcionamiento de la correspondencia entre vos y otras personas importantes.
+menu_dplmc_chancellor_confirm|Encontraréis al Maestre en vuestra corte. Deberíais consultarle si deseáis enviar mensajes o regalos.
+menu_dplmc_deserters|Algunos de vuestros hombres no creen que pagaréis su salario y han desertado. En total perdéis {s11} hombres.
+menu_dplmc_negotiate_besieger|Aparecéis con una bandera blanca en lo alto del muro. Después de un rato, un negociador del {s11} se os acerca. Demanda {s6} y todas las aldeas asociadas y también {reg0} venados de plata como salvoconducto.
+mno_dplmc_comply_treasury|Haced caso y decid a vuestro Senescal que pague con dinero de la tesorería.
+mno_dplmc_comply|Haced caso y pagad en efectivo.
+mno_dplmc_break_off|Romped las negociaciones.
+menu_dplmc_messenger|Señor, encontré a {s10} y entregué vuestro mensaje. Su respuesta fue {s11}.
+menu_dplmc_scout|Vuestro espía a regresado de {s10}^^{s11}{s12}
+menu_dplmc_domestic_policy|Ahora podéis elegir la política interna de vuestro reino. ¿Queréis cambiar vuestra política ahora?
+mno_dplmc_yes|Sí, deseo cambiar la política interna,
+mno_dplmc_no|No, no deseo cambiar la política interna.
+menu_dplmc_preferences|Diplomacy 4.2 (November 27, 2011) Preferencias {s0}
+mno_dplmc_disable_horse_speed|Desactivar velocidad de caballo herido del Diplomacy
+mno_dplmc_enable_horse_speed|Activar velocidad de caballo herido del Diplomacy
+mno_dplmc_disable_battle_continuation|Desactivar continuación de la batalla del Diplomacy
+mno_dplmc_enable_battle_continuation|Activar continuación de batalla del Diplomacy.
+mno_dplmc_disable_terrain_advantage|Desactivar ventaja en batallas autocalculadas (Actualmente activo)
+mno_dplmc_enable_terrain_advantage|Activar ventaja en batallas autocalculadas (Actualmente inactivo)
+mno_dplmc_reset_terrain_advantage|Usas una partida guardada de otro mod: g dplmc terrain advantage = {reg0} (click para reiniciar)
+mno_dplmc_toggle_lord_recycling_a|Activar lords regresando del exilio (desactivado)
+mno_dplmc_toggle_lord_recycling_b|Desactivar lord regresando del exilio (activado)
+mno_dplmc_toggle_lord_recycling_reset|Usas una partida guardada de otro mod: g dplmc lord recycling = {reg0} (click para reiniciart)
+mno_dplmc_toggle_ai_changes_a|Activar cambios de la IA (desactivado)
+mno_dplmc_toggle_ai_changes_b|Incrementar cambios de la IA (actualmente bajo)
+mno_dplmc_toggle_ai_changes_c|Incrementar cambios de la IA (actualmente medio)
+mno_dplmc_toggle_ai_changes_d|Desactivar cambios de la IA (actualmente alto)
+mno_dplmc_reset_ai_changes|Usas una partida guardada de otro mod: g dplmc ai changes = {reg0} (click para reiniciar)
+mno_dplmc_toggle_gold_changes_a|Establecer economía y cambios de conducta como bajos (ahora está desactivado)
+mno_dplmc_toggle_gold_changes_b|Establecer economía y cambios de conducta como medios (ahora está bajo)
+mno_dplmc_toggle_gold_changes_c|Establecer economía y cambios de conducta como alto (ahora está medio)
+mno_dplmc_toggle_gold_changes_d|Desactivar economía y cambios de conducta (ahora está alto)
+mno_dplmc_reset_gold_changes|Usas una partida guardada de otro mod: g dplmc gold changes = {reg0} (click para reiniciar)
+mno_dplmc_switch_woman_prejudice_1|Cambiar nivel de prejuicios (actualmente está por defecto)
+mno_dplmc_switch_woman_prejudice_2|Cambiar nivel de prejuicios (actualmente está desactivado)
+mno_dplmc_switch_woman_prejudice_3|Cambiar nivel de prejuicios (actualmente está en alto)
+menu_dplmc_affiliated_family_report|{s0}
+menu_dplmc_start_select_prejudice|En la sociedad medieval, tanto las guerras como políticas son controladas por los miembros masculinos de la nobleza. Por ello, un personaje femenino puede encontrarse con prejuicios, y algunas oportunidades no estarán disponibles para ellos (Igualmente, una mujer tendrá oportunidades que un hombre no tendrá). Algunos jugadores pueden encontrar esto desagradable, así que puedes elegir ignorar este aspecto.^^Puede ser cambiado en las opciones del campamento.
+mno_dplmc_start_prejudice_yes|No me importa el sexismo.
+mno_dplmc_start_prejudice_no|Prefiero no encontrarme sexismo.
+menu_dplmc_economic_report|{s0}
+menu_upgrade_to_hero|Os dais cuenta de que uno o más de vuestros guerreros  excede vuestras expectativas en batalla.^Os acercais a él y...
+mno_hero_1|dejad de hablar a {s1}
+mno_hero_2|dejad de hablar a {s1}
+mno_hero_3|dejad de hablar a {s1}
+mno_hero_4|dejad de hablar a {s1}
+mno_prev|regresar a las linas anteriores
+mno_next|ir a las lineas siguientes
+mno_close|cerrar
+menu_entrenched_camp|  Vuestras fortificaciones están completadas.
+menu_event_01_juicio|Dos granjeros, uno alto y delgado y el otro bajo y fornido, se han presentado ante vos, para discutir la propiedad de un ternero. Al parecer, sus campos son limítrofes y el granjero alto tenía un toro que preñó a una vaca que pertenecía al otro granjero. El granjero fornido afirma que el ternero es suyo porque su vaca es quien lo ha parido. El granjero alto defiende que el ternero debe ser suyo porque es hijo de su mejor toro, o al menos exige una compensación económica.
+mno_choice_01_1n|El dueño de la vaca tiene razón. El ternero es suyo de igual manera que la vaca.
+mno_choice_01_2n|El dueño del toro tiene razón. El toro es suyo y el ternero también.
+mno_choice_01_3n|El dueño de la vaca debe quedarse con el tenero y pagar una compensación de diez monedas al dueño del toro.
+mno_choice_01_4n|Ninguno tiene razón. ¡Yo me quedaré tanto con el ternero y su carne!
+mno_choice_01_5n|Ninguno tiene razón. ¡Matad al ternero y repartid su carne entre ambos granjeros!
+menu_event_02_juicio|'¡Mi señor, hemos capturado al atacante! Este es el hombre que atacó a uno de vuestros mensajeros dejándolo herido de gravedad', os dice uno de vuestros hombres. El mensajero estaba bajo vuestra protección, sin embargo el atacante tiene una historia interesante que contar que os suplica escuchar antes de ser ejecutado.^^'¡Mi señor! Jamás hubiera pensado atacar a uno de vuestros mensajeros, pero... aquel hombre quiso tomar a mi joven hija esa noche. ¡Por supuesto que le dije que no! Pero no aceptó esa respuesta y más tarde entró en mi casa con tres amigos y se llevaron a mi hija mientras se reían, diciendo que vos, mi señor, nunca creeríais la palabra de un simple campesino. Reconozco lo que he hecho, y lamento haber causado daño a ese hombre mientras estaba bajo vuestra protección personal, ¡pero un padre debe proteger a su única hija! Por favor, ¡sed razonable para con vuestro humilde siervo!'
+mno_choice_02_1n|El mensajero estaba bajo mi protección. ¡Vos y toda vuestra familia seréis ejecutados al amanecer y vuestras pertenencias confiscadas!
+mno_choice_02_2n|El mensajero es importante, pero seré razonable con vos: vuestra familia no sufrirá daño, sólo os colgaré a vos.
+mno_choice_02_3n|El mensajero es importante, pero yo mismo habría hecho igual. Podéis marcharos libre, ¡vuestro señor ha hablado!
+mno_choice_02_4n|¿Qué? Arrojad al mensajero a las calles, ¿cómo se atreve a abuscar de mis campesinos?
+menu_event_03_juicio|Hacéis llamar a dos hombres para decidir su destino. Uno de ellos es un caballero ungido, mientras que el otro es un hombre de armas al servicio de dicho caballero. Según parece, el caballero no tenía suficiente dinero para pagar el sueldo a su hombre, por lo que el hombre de armas se llevó a la hija del caballero a su propia cama y la violó varias veces.
+mno_choice_03_1n|Cortadle la verga al hombre de armas, ha violado el honor de un caballero ungido leal a mi causa.
+mno_choice_03_2n|Castigad al caballero, falló en su obligación.
+mno_choice_03_3n|Traedme a la hija y cuando la vea a la luz del sol, decidiré si fue suficiente castigo para el hombre de armas tener que yacer con ella.
+mno_choice_03_4n|Compensaré al caballero por este crimen con venados de mi propio tesoro, y pagaré al hombre de armas el sueldo que se le debía. Después, ahorcadlo.
+menu_event_04_juicio|Una de vuestras espadas juramentadas se acerca a vos. Afirma que entre los hombres hay mucho descontento. Os explica que estar a vuestro servicio es demasiado tranquilo y hay poca plata y honor que ganar.
+mno_choice_04_1n|Pagad a los hombres y distribuid vino y cerveza entre ellos.
+mno_choice_04_2n|Decid a los hombres que quedan ahora mismo libertados de sus juramentos si son tan estúpidos como para cuestionar el valor de mi liderazgo.
+mno_choice_04_3n|Matad al hombre que se os ha acercado delante de vuestros hombres y ya no habrá más comentarios sediciosos.
+mno_choice_04_4n|Prometed que cambiaréis vuestro estilo de liderazgo y anunciad que la próxima cabalgada de saqueo está a la vuelta de la esquina.
+menu_event_05_juicio|Después de haber celebrado un banquete tras otro durante los últimos cuatro meses, parece que vuestra túnica ya no le cabe. Habéis comenzado a usar túnicas con la parte de la barriga abierta y a comer deliciosos frutos del este sin parar. La cena, por supuesto, consiste en un enorme cerdo con especias asado. Vuestro maestre sin embargo siente que ya habéis llegado al límite y os sugiere que toméis aire fresco, hagáis ejercicio y os impongáis una dieta limitada.
+mno_choice_05_1n|Coméis más aún y pedís a la Ciudadela que os cambien de maestre.
+mno_choice_05_2n|Acudís a los baños más cercanos para recuperar vuestra figura.
+mno_choice_05_3n|Decidís comer únicamente lechugas y lentejas, desarrollando un humor de perros, pero al menos ya no estáis gordo.
+menu_event_06_juicio|Vuestra amante se ve con un joven de piel blanca y pelo ondulado que sa un aire al estilo valyrio. De hecho vuestra amante incluso lo llama joven Aegon, según se dice. Si bien para vos es aceptable que toméis a otras mujeres de vuestras tierras, para vuestra amante manchar vuestra relación de esa manera es...
+mno_choice_06_1n|Dejad hacer a vuestra amante, ella es feliz y no veis la necesidad de arruinarle la vida.
+mno_choice_06_2n|Ningún hombre traiciona así a su señor, ¡apresad al joven, cortadle la verga y ahorcadlo!
+mno_choice_06_3n|Visitad a una vieja bruja para que le eche un mal de ojo a vuestra amante.
+menu_event_07_juicio|La cosecha de este año ha sido miserable. Ahora que se acerca el invierno son muchos los que temen que el hambre asole vuestras tierras. ¿Qué debemos hacer, mi señor?
+mno_choice_07_1n|No podéis prescindir de vuestra reserva de grano porque tenéis que alimentar a vuestra casa... y además... lo necesitáis para celebrar banquetes.
+mno_choice_07_2n|Distribuid algunos carros de grano para entre vuestro pueblo, es todo lo que os podéis permitir.
+mno_choice_07_3n|Importad grano de las Islas del Verano, ¡eso debería ser suficiente para toda vuestra gente!
+mno_choice_07_4n|¡Dejad que se mueran de hambre! ¡Les está bien empleado por no atender los campos con suficiente cuidado!
+menu_event_08_juicio|Uno de vuestros caballeros se aproxima, afirmando que uno de sus bastardos quiere unirse a vuestra guardia personal. Os comprometéis a aceptar al muchacho, porque sería impropio rechazar de plano a un noble. Cuando os encontráis con el mozo, sin embargo, veis claro que es un comodón y carece de ninguna cualidad como hombre de armas. Frente a ese orondo y sonriente joven vos...
+mno_choice_08_1n|Permitid que se una a vuestra guardia personal.
+mno_choice_08_2n|Pedid una compensación económica para favorecer el acuerdo.
+mno_choice_08_3n|Rechazadlo de plano.
+menu_event_09_juicio|Dos hombres, cada uno con su propuesta, acuden a vos en el mismo día. Uno es un joven maestre llamado Mycah que os propone la construcción de más bibliotecas en vuestros dominios así como un fondo de venados de plata para comprar y mantener libros de todos los ámbitos del conocimiento. Aunque su propuesta es elocuente, el coste económico lo es menos. El otro hombre da un paso adelante. Un descomunal guerrero de poblada barba que hace un gesto de burla hacia Mycah a sus espaldas, os sugiere que esas monedas estarán mejor destinadas a conseguir armas, caballos y escudos, cosas que se necesitan hoy mismo y no son meras fantasías.
+mno_choice_09_1n|Apoyad a Mycah, afirmando que un hombre sabio necesita más libros que espadas.
+mno_choice_09_2n|Apoyad al guerrero, afirmando que no hay lugar para libros en este tiempo de guerra.
+mno_choice_09_3n|Vuestras tierras necesitan tanto hombres de conocimiento como hombres de armas, ¡y vos os encargaréis de proporcionar dinero para ambos fines!
+mno_choice_9_4n|No os interesa ni una cosa ni otra.
+menu_event_10_juicio|Un destello ardiente ilumina el cielo nocturno. Al día siguiente no deja de hablarse de presagios. Entre las gentes de {s1} se extiende la habladuría de que hace falta un sacrificio para evitar que los Dioses desaten su ira sobre estas tierras. La antigua tradición del hombre de mimbre gana impulso, ya que está cerca la próxima cosecha. Os encontráis con un joven doncella, recién florecida, que es tratada como una diosa viviente hasta justo antes de la cosecha...
+mno_choice_10_1n|Ordenad que la chica sea quemada dentro del hombre de mimbre.
+mno_choice_10_2n|Rechazáis que se practique una costumbre tan salvaje en vuestras tierras y envíais a la chica lejos del pueblo a un lugar seguro.
+mno_choice_10_3n|Este asunto no es problema vuestro.
+menu_event_11_juicio|El sonido de un caballo al galope perfora la fría mañana y os dirigís a ver qué noticias os trae el explorador. Os informa de que un barco con hombres que hablan una extraña lengua a bordo ha naufragado en la costa más cercana. ¿Qué hacéis?
+mno_choice_11_1n|Inmediatamente envíais a una partida de guerra para que investiguen el barco y busquen objetos de valor; ordenáis que se ejecute a los supervivientes.
+mno_choice_11_2n|Inmediatamente envíais a una partida de guerra para que investiguen el barco y busquen objetos de valor; ordenáis que se reclute a los supervivientes.
+mno_choice_11_3n|No hacéis nada.
+menu_event_12_juicio|El mensajero llega a vuestra corte, y con vuestro permiso comienza a contaros noticias terribles: '¡Mi señor, un pueblo está en peligro! El Desconocido ha maldecido a sus gentes con una rara enfermedad, y ahora apenas pueden moverse, sudan y vomitan sin parar. El septón del pueblo dice que no hay cura posible. ¡El caballero hacendado que posee la aldea no deja salir a nadie del lugar y está a la espera de vuestras órdenes!'
+mno_choice_12_1n|¡Malas nuevas me traeis! Debe mantenerse la cuarentena, ¡pero enviaré a mi maestre para que ayude!
+mno_choice_12_2n|¡Malas nuevas me traeis! No podemos arriesgar la vida de nadie más. La cuarentena debe mantenerse, que se encomienden a los dioses antiguos y nuevos de momento, ¡y ya examinaremos a los supervivientes cuando acabe la experiencia!
+menu_event_13_juicio|Una matrona se os aproxima: '¡Mi señor, el parto no va bien! Lo estamos intentando todo, pero es como si la joven simplemente no fuera adecuada para el embarazo. Sólo podemos encomendarnos a la Madre.
+mno_choice_13_1n|¡Que todo el mundo se arrodille y comience a rezar!
+mno_choice_13_2n|¡Ja! ¡Vuestras matronas no valen para nada! Guardias, traedme a la mujer más anciana de la aldea, ¡AHORA!.
+menu_event_14_juicio|Un día, un caballero leal a vos os aborda con una extraña petición. '¡Mi señor, no sé qué hacer! Gasté todo mi dinero en equipo y tropas adecuadas para serviros tan bien como pudiera. Pero ahora mi primogénita está a punto de casarse y no puedo entregarle una dote adecuada a su marido'.
+mno_choice_14_1n|Tomad este puñado de venados de plata por vuestro leal servicio.
+mno_choice_14_2n|Todo el mundo debe pensar en el futuro, deberiáis haber sabido que pronto llegaría la hora de casar a vuestra hija. Os ayudaré, pero no habrá más favores por mi parte.
+mno_choice_14_3n|No, ¡deberíais haber ahorrado!
+menu_event_15_juicio|Un día, un siervo llega a vuestra corte, y parte muy entusiasmado. '¡Mi señor, tengo una espléndida noticia! Hay un comerciante de las Montañas Rojas en la aldea de aquí al lado ahora mismo ¡y está dispuesto a vender un pelo de Baelor el Santo! ¡No puedo creer que vuestras tierras tengan por fin la oportunidad de adquirir una famosa reliquia!'
+mno_choice_15_1n|He visto tantas partes de la cabeza de Baelor, que debió tenerla por lo menos del tamaño de un mamut. ¡No pagaré ni un penique por falsas reliquias!
+mno_choice_15_2n|Parece una buena oferta, pero por desgracia no tenemos monedas disponibles.
+mno_choice_15_3n|¡No dejaré pasar esta oportunidad!
+menu_event_16_juicio|Estabais en un banquete con vuestros caballeros cuando un mensajero de los comerciantes de vuestros dominios se ha presentado ante vos. 'Mi señor, hay una situación que preocupa a la ciudad y necesitamos vuestro consejo.' Salís con vuestra arma empuñada.^^Hay un gran alboroto entre la gente, pero cuando aparecéis se hace el silencio. Un hombre anciano se inclina ante vos y os pide permiso para hablar: 'Mi señor, he aquí un caso digno de vuestro buen juicio. Dos mujeres afirman ser la madre de este niño'.^Habláis a la multitud: 'Dejadme ver sus caras'. Dos mujeres se adelantan al gentío, una vestida con ropas normales y la otra con harapos. Vos decís: 'Si no os ponéis de acuerdo, dividiré al niño en dos mitades'. Ordenáis a vuestros guardias que corten al niño por la mitad y entreguen cada mitad a una de las mujeres. Entonces, la delgada mujer con harapos grita: '¡No! ¡Os lo suplico, mi gran señor, dejad que la otra mujer se quede con el niño!'. Vos la miráis y decís: 'Vos sois su verdadera madre y este niño os pertenece', y a la otra mujer:
+mno_choice_16_1n|Encarceladla por mentiros, ¡por el Padre que ese es el peor de los pecados!
+mno_choice_16_2n|Cegado por la rabia, ¡vos mismo estranguláis a la mujer con vuestras propias manos!
+mno_choice_16_3n|Dáis tanto a ella como a la multitud un emotivo discurso sobre la honradez y el honor, y la dejáis marchar.
+menu_event_17_juicio|Vuestro consejero, lleno de suciedad y quemado por el sol, llega después de inspeccionar la cosecha. 'Mi señor, la cosecha es pobre este año. Si no reducís los impuestos no habrá nada con que alimentar a los campesinos durante el invierno.'
+mno_choice_17_1n|Y si bajo los impuestos tendré que liberar a mis hombres de sus juramentos porque no podré pagarles y nuestros enemigos nos barrerán. Mejor un estómago vacío que una garganta rajada.
+mno_choice_17_2n|En ese caso bajad los impuestos.
+menu_event_18_juicio|Un caballero hacendado de una aldea cercana viene a suplicaros. Casi sin aliento, os informa de que hombres armados allanaron sus posesiones, llevándose a las mujeres, al ganado y al trigo. Está salpicado por sangre y huele a paja quemada.
+mno_choice_18_1n|¡Reunid a mis hombres! ¡Vengaremos esta afrenta!.
+mno_choice_18_2n|No hay nada que hacer. ¡Fuera de aquí, pordiosero!
+mno_choice_18_3n|Habrá guerra. Habéis hecho bien en reportarme lo sucedido. Tomad este dinero y reconstruid vuestra aldea.
+mno_choice_18_4n|¿Cómo sé que no eran una banda de forajidos o piratas? ¡Os corresponde a vos proteger esa aldea! Poco puedo hacer. Llevaos esto para compensar vuestras pérdidas.
+menu_event_19_juicio|Una puta es acusada de brujería, después de que que varios hombres que os sirven como espadas juramentadas, informaron de dolores al hacer de vientre. Vuestro castellano respalda esa acusación, lo que os hace sospechar de que podría tener el mismo problema, pero prefiriendo que no se ventile públicamente.
+mno_choice_19_1n|Desterrad a la puta, que se exilie en el bosque.
+mno_choice_19_2n|Haced que la puta sea ejecutada en secreto.
+mno_choice_19_3n|¡Rameras! ¡Donde hay una, hay ciento! ¡Matad a esa bruja y asegurad la santidad de vuestras tierras mandando ejecutar a toda mujer que sea acusada de brujería!
+menu_event_20_juicio|Un Sacerdote Rojo viene a vos y os cuenta que la mayoría de los habitantes de una de vuestras aldeas, donde estaba predicando su religión extranjera, han tomado las armas atacándole a él y a sus seguidores. La causa, dice, es que él quería que los aldeanos quemaran a todos los pájaros de la aldea.
+mno_choice_20_1n|Es evidente que este hombre está loco.
+mno_choice_20_2n|¡Este hombre tiene razón! ¡Deberían quemar esos pájaros!
+mno_choice_20_3|¡Todos deberíamos quemar a cuantos pájaros viéramos!
+mno_choice_20_4n|No hacéis nada.
+menu_event_21_juicio|Vuestros campesinos son tan arrogantes como los señores de estas tierras. Una disputa por algo tan estúpido como un pollo muerto ha causado una pequeña guerra entre dos aldeas. Un campesino ha venido a vos para solicitar ayuda frente a los otros campesinos. Afirma que la aldea os pagará una cuantiosa suma.
+mno_choice_21_1n|Estáis de acuerdo con ayudarle.
+mno_choice_21_2n|Arrestad al hombre y declarad confiscadas sus propiedades y sus tierras destinadas a la otra aldea.
+mno_choice_21_3n|Quedaos con las tierras para vos y encarcelad o desterrad al campesino.
+menu_event_22_juicio|Una mujer de un pueblo cercano acude a vos afirmando que uno de vuestros hombres, que ha muerto hace poco, era su marido. Os suplica ayuda para cuidar del hijo de su difunto esposo.
+mno_choice_22_1n|Dadle un par de monedas y enviadle a una nodriza.
+mno_choice_22_2n|No hagáis nada.
+menu_event_23_juicio|Vuestra amante acude a vos con una petición: 'Mi señor, ¿por qué no demostráis vuestra gran misericordia y honor proporcionando ayuda a aquellos que han sufrido graves pérdidas al serviros? Tenemos docenas de soldados mutilados, cojos y ancianos pidiendo limosna a las puertas de los septos, y muchas familias que han perdido a padres y maridos en vuestras batallas. Debemos recompensar y proteger a vuestros leales seguidores, pues de lo contrario cualquiera dudará en ponerse a vuestro servicio en el futuro'.
+mno_choice_23_1n|¡Bah! Dejad que se pudran los huérfanos y los mendigos.
+mno_choice_23_2n|Enviad mis saludos a esos desgraciados, pero lamento que no hay nada que pueda hacer por ellos.
+mno_choice_23_3n|Estoy de acuerdo, debemos apoyar a nuestros veteranos y a sus familias.
+mno_choice_23_4n|¡Qué tragedia! Abrid ahora mismo mis cofres y convertid en práctica habitual que todas las familias reciban ayuda de su señor.
+menu_event_24_juicio|Un caso aparentemente sencillo se os presenta. Ayer, el acusado irrumpió en la casa de la víctima e hizo desaparecer varios objetos de valor. Muchas personas lo vieron y los objetos que faltaban se descubrieron en su casa. Pero la víctima era partidario del anterior señor de vuestras tierras, incluso le había servido como maestro de armas y es conocido por su dudosa lealtad, mientras que el acusado viene siendo uno de vuestros partidarios más fervientes e incluso ha donado moendas a vuestra causa en más de una ocasión.
+mno_choice_24_1n|Ignoráis las pruebas. Os establecéis a favor de vuestro hombre, de hecho afirmando que actuó en todo momento bajo vuestras órdenes.
+mno_choice_24_2n|Las pruebas son claras, ¡el acusado es encontrado culpable y lo condenáis a que se le corten las manos por robo!
+mno_choice_24_3n|Declaráis que ambas partes están equivocadas, exiliando a los dos hombres y confiscando todo el material del asunto.
+menu_event_01|Un bardo ha compuesto una canción sobre vuestros nobles hazañas.
+mno_choice_01_1|¡Excelente!
+mno_choice_01_2|Recompensadle con 200 monedas. Haced que la canción se represente en todas vuestras tierras.
+mno_choice_01_3|¿Nobles hazañas? ¿Una canción? ¡Dioses, qué estupidez!
+menu_event_02|Historias sobre vuestras hazañas se cuentan a lo largo y ancho del país. Allá donde vayáis, os sigue una procesión de mendigos.
+mno_choice_02_1|Asignad 2000 venados de plata para un fondo de limosnas.
+mno_choice_02_2|Ignoradlos.
+mno_choice_02_3|Mendigos, ¿eh? ¡Soltad a los perros!
+menu_event_03|Un joven noble propaga ciertos rumores acerca de vuestra madre. Sus acusaciones de trabajar en la profesión más antigua del mundo son las más delicadas.
+mno_choice_03_1|¡Lo retaré a un duelo!
+mno_choice_03_2|No me preocupa.
+mno_choice_03_3|Aseguraos de que accidentalmente se encuentre con una teja cayéndose sobre su cabeza.
+menu_event_04|Os encontráis con la esposa de uno de vuestros soldados. Os suplica que liberéis a su marido de su juramento a vos. La cosecha fue mala este año y su sueldo no le permite alimentar a toda la familia. Si pudiera regresar y trabajar en el campo, podrían sobrevivir.
+mno_choice_04_1|¡Eso no puede ser! Pero tomad 200 monedas.
+mno_choice_04_2|¡Fuera de aquí!
+mno_choice_04_3|¿Por qué pasar hambre cuando mis tropas podrían... necesitar los servicios de esta atractiva joven?
+menu_event_05|Un opositor local está propogando falsos rumores sobre vos. Si bien la mayor parte son puras bobadas, tarde o temprano la gente podría creerle.
+mno_choice_05_1|Que hable cuanto quiera, está en su derecho.
+mno_choice_05_2|Pagad a un bardo local para que extienda rumores positivos para contrarrestarlo.
+mno_choice_05_3|Pedidle que cese. 100 monedas podrían ayudar a que acepte.
+mno_choice_05_4|Encerradlo en una mazmorra. ¡Insultaros es un crimen!
+mno_choice_05_5|Silenciadlo para siempre y tomad su casa y sus posesiones.
+menu_event_06|Una turba de furiosos habitantes de {s1} se quejan de vuestros corruptos recaudadores de impuestos. Exigen justicia. La situación empeora por momentos. Se va a producir un motín de imprevisibles consecuencias a menos que hagáis algo.
+mno_choice_06_1|Iniciad una investigación y compensad a los campesinos por sus pérdidas indebidas.
+mno_choice_06_2|Enviad a los guardias de la ciudad para que controlen a la turba y eviten que se propague.
+mno_choice_06_3|Poned a los campesinos en su lugar y cobrad los impuestos atrasados.
+menu_event_07|Un solitario jinete, pobre y desarmado, se acerca a vuestro ejército. Interceptado por vuestros hombres, se presenta como un bardo de {s1} y solicita vuestra venia para componer una oda dedicada a vuestra magnificiencia y generosidad. Vuestros hombres intercambian miradas y luego os miran esperando respuesta. Vos...
+mno_choice_07_1|Dais vuestro permiso al bardo y además le entregáis 300 monedas.
+mno_choice_07_2|Le dais permiso y le entregáis 100 monedas.
+mno_choice_07_3|Permitís que componga la oda, pero no le ofrecéis ningún pago.
+mno_choice_07_4|Ordenáis a vuestros hombres que quiten a ese mendigo de vuestra vista.
+menu_event_08|Divisais a un hombre solo cabalgando hacia vuestro ejército. A un gesto vuestro, vuestros hombres corren a su encuentro. Interceptado por vuestra partida, el hombre se presenta como emisario de {s1} y a toda velocidad os informa de que un caballero hacendado influyente ha muerto {s2} y que su familia solicita vuestro permiso para declarar un día de luto oficial en {s1} en su honor. Vos...
+mno_choice_08_1|Aceptáis la petición.
+mno_choice_08_2|Rechazáis la petición.
+menu_event_09|Estáis caminando por el bosque cuando de repente veis una liebre salvaje atrapada en una trampa. ¿Qué hacéis?
+mno_choice_09_1|Liberáis al animal.
+mno_choice_09_2|¡Apretáis la trampa y matáis a la liebre!
+mno_choice_09_3|Ignoráis al animal.
+menu_event_10|Estáis cruzando un bosque cuando veis a un campesino atado a un árbol, probablemente por un bandido. ¿Qué hacéis?
+mno_choice_10_1|Liberáis al campesino.
+mno_choice_10_2|Ignoráis al campesino.
+mno_choice_10_3|Matáis al campesino.
+menu_negative_event_1|Tropezáis y os causáis una herida en la rodilla. El dolor es insoportable, ¿qué hacéis?
+menu_negative_event_2|Tropezáis y os causáis una herida en la mano. Después de algunos días, comienza a ponerse azul. ¿Qué hacéis?
+menu_negative_event_3|Una piedra cae desde un risco y os golpea la cabeza. Al principio os encontráis bien, pero pronto empezáis a ver borroso y tenéis problemas para concentraros. ¿Qué hacéis?
+menu_negative_event_4|Habéis cogido un resfriado. Los síntomas no son graves pero seguramente deberíais descansar. ¿Qué hacéis?
+menu_negative_event_5|Os habéis hecho un corte con un cuchillo oxidado. La herida no parece mala, pero tal vez deberíais tomar alguna precaución. ¿Qué hacéis?
+menu_negative_event_6|¡Habéis soñado que la Doncella os visitaba! ¡Os ordenaba que os dierais unos azotes para expiar vuestros pecados! ¿Qué hacéis?
+menu_negative_event_7|¡Se os ha clavado una espina en la mano! ¿Qué hacéis?
+menu_negative_event_8|Una chica joven, de una aldea cercana, se os ofrece. ¡Sólo os costará veinte venados de plata!
+menu_negative_event_11|Os encontráis con un septón solitario en el camino. Conforme pasáis a su lado, vuestro caballo tropieza y sin querer patea la espinilla del septón.
+menu_negative_event_22|Al adentraros solo en el bosque, de repente sentís un cuchillo en vuestra garganta. Un forajido os ha tendido una emboscada. Al ecucharlo babea y tartamudea, está claro que el hombre es inestable y peligroso. ¿Qué hacéis?
+menu_negative_event_33|Al adentraros solo en el bosque, os encontráis con dos muchachas que se están bañando en un arroyo. Parecen estar solas y desprotegidas.
+menu_negative_event_44|Al cruzar una pequeña aldea,, un joven se os acerca. Pasaría la noche con vos sin ningún precio, tan sólo a cambio de poder viajar con vos durante un tiempo.
+menu_negative_event_55|Camináis por un campo cuando vuestro pie queda atrapado en una madriguera de conejos. Al caer, os las arregláis para incorporaros, pero sentís una punzada de dolor cegador en vuestra pierna. ¿Qué hacéis?
+menu_negative_event_66|Os encontráis con un mendigo ciego. El hombre parece viejo y débil, pero podría tener un par de monedas en su bolsa.
+menu_negative_event_77|Os encontráis con un joven vestido con ropas propias de un señor menor. Al veros, os hace señas para que lo sigáis. Con curiosidad, le seguís, pero cuando os encontráis solo ¡os pega una patada en la entrepierna!
+menu_negative_event_88|Un joven de un pueblo cercano se os ofrece. ¡Sólo os costaría veinte venados de plata!
+menu_event_101|Sois un famoso líder, y recibís noticias de un grupo de caballeros que quieren unirse a vuestra causa. Sin embargo, exigen un pago mayor que el resto de vuestras tropas por esa condición.
+mno_choice_101_1|Son bienvenidos.
+mno_choice_101_2|No necesitáis más tropas.
+mno_choice_101_3|Los matáis. Seguro que llevan muchos objetos valiosos.
+menu_event_102|Recibís la noticia de que un grupo de mujeres quieren seguir vuestro campamento.
+mno_choice_102_1|Son bienvenidas.
+mno_choice_102_2|No necesito más gente.
+menu_event_103|Sois un renombrado comandante, y recibís la noticia de que un grupo de bardos quiere acompañaros y hacer vuestros viajes más alegres.
+mno_choice_103_1|Son bienvenidos.
+mno_choice_103_2|No necesito más tropas.
+menu_event_11|El pariente de un campesino muerto en una de vuestras batallas se presenta ante vos solicitando una indemnización de 200 monedas de plata. ¿Qué hacéis?
+mno_choice_11_1|Pagáis.
+mno_choice_11_2|Rehusáis.
+mno_choice_11_3|No os molestáis ni en responder.
+menu_event_12|Los familiares de un mercenario muerto en una de vuestras batallas os exigen una compensación. ¿Qué hacéis?
+mno_choice_12_1|Pagáis.
+mno_choice_12_2|Rehusáis.
+mno_choice_12_3|No os molestáis ni en responder.
+menu_event_13|Veis a una cuervo volando en círculos sobre vuestro campamento.
+mno_choice_13_1|Decís a vuestros hombres que un cuervo simboliza la buena suerte. ¡y que la próxima batalla será una gran victoria!
+mno_choice_13_2|Lo ignoráis.
+mno_choice_13_3|Decís a vuestros hombres que aunque los cuervos sin rumbo advierten de la mala suerte, ¡vos tenéis fe en sus brazos!
+menu_event_14|Un campesino se planta frente a vos en el camino, con una muchacha llorando tras él. El hombre señala con el dedo directamente a uno de vuestros hombres acusándole de haber violado a su hija y os exige justicia.
+mno_choice_14_1|¡No vais a tolerar la indecencia entre vuestros hombres! Ordenáis que se expulse al agresor de vuestras filas.
+mno_choice_14_2|Ordenáis que se le den unos latigazos al acusado y consideráis solucionado el asunto.
+mno_choice_14_3|Esta vida es dura y un hombre debe tomar lo que pueda. Le decís al campesino que aún tiene suerte si eso es todo lo que le hizo vuestro hombre.
+menu_event_15|Avanzáis a través del bosque cuando de repente veis un montón de setas, cubieras de motas azules y rojas. ¿Qué hacéis?
+mno_choice_15_1|Recogerlas y comeroslas.
+mno_choice_15_2|Recogerlas y entregarlas a vuestros hombres.
+mno_choice_15_3|Ignorarlas.
+menu_event_16|Estáis cruzando un bosque cuando de repente veis un montón de setas, marrones y de aroma dulce. ¿Qué hacéis?
+mno_choice_16_1|Recogerlas y comeroslas.
+mno_choice_16_2|Recogerlas y entregarlas a vuestros hombres.
+mno_choice_16_3|Ignorarlas.
+menu_event_17|Estáis cruzando un bosque cuando de repente veis un montón de setas, cubieras de telarañas y con un olor terrible. ¿Qué hacéis?
+mno_choice_17_1|Recogerlas y comeroslas.
+mno_choice_17_2|Recogerlas y entregarlas a vuestros hombres.
+mno_choice_17_3|Ignorarlas.
+menu_event_18|Descansáis en una aldea cercana, cuando la esposa del anciano local se os acerca. La mujer quiere acostarse con vos mientras su marido está ausente.
+mno_choice_18_1|Aceptáis.
+mno_choice_18_2|Envíais a uno de vuestros hombres en vuestro lugar.
+mno_choice_18_3|Rehusáis.
+menu_event_19|Os encontráis con un grupo de mendigos que están siendo atacados por unos bandidos.
+mno_choice_19_1|Corréis a la ayuda de los mendigos para enseñar a esos malditos bandidos a no molestar a los pobres.
+mno_choice_19_2|¡Ayudáis a los bandidos y os bañáis en la sangre de esos miserables mendigos!
+menu_event_20|Por casualidad os encontráis con un monedero lleno de venados de plata.
+mno_choice_20_1|Lo entregáis a un hospicio para niños abandonados.
+mno_choice_20_2|Os lo guardáis para vos.
+menu_event_21|Os topais con un grupo de campesinos desertores.
+mno_choice_21_1|Los ayudáis en su camino.
+mno_choice_21_2|Los hacéis regresar con su señor.
+menu_event_22|Os encontráis con un grupo de bandidos que están emboscando a unos comerciantes.
+mno_choice_22_1|Perseguís a los bandidos.
+mno_choice_22_2|Ayudáis a los bandidos.
+menu_event_23|Vuestra fama y celebridad ha atraído a algunos jóvenes nobles a vuestra causa.
+mno_choice_23_1|Los aceptáis.
+mno_choice_23_2|No necesitáis más hombres.
+menu_event_24|Detectáis a un hombre solo en mitad del camino. Parece cansado. Envíais a uno de vuestros hombres para preguntarle porqué está ahí solo. Os dice que unos forajidos le han robado y que si no consigue algo de dinero para poder comprar algo de comida, se morirá de hambre. Dice que ya sirvió una vez en la guerra y que sería un leal soldado.
+mno_choice_24_1|La vida es injusta, no le dais nada.
+mno_choice_24_2|Le dais algo de dinero para comer un poco. Por lo menos sobrevivirá.
+mno_choice_24_3|¡Le dais un montón de comida!.
+mno_choice_24_4|Le dais algo de dinero y un caballo, para que vuelva a casa.
+mno_choice_24_5|Le pagáis unas monedas y le invitáis a uniros a vuestras tropas si se encuentra capacitado para lugar.
+menu_event_25|Os encontráis con un niño pequeño, vestido con harapos y de mirada hambrienta. Se acerca a vos y os ruega un poco de comida; los campos de su familia están arruinados y no tiene dinero.
+mno_choice_25_1|La vida no es fácil, no le dáis nada.
+mno_choice_25_2|Le dáis alguna moneda.
+mno_choice_25_3|Le dáis una bolsa de venados de plata.
+menu_event_26|Un grupo de bandidos se acerca a vuestro campamento. A medida que vuestros hombres desenvainan sus armas, los bandidos tiran las suyas al suelo y dicen venir en son de paz. El líder de los bandidos se os acerca y os pregunta si puede unirse a vos.
+mno_choice_26_1|¡Por supuesto! ¡En mi ejército siempre son bienvenidos hombres sedientos de sangre!
+mno_choice_26_2|¡No tenemos sitio para gente como vos!
+mno_choice_26_3|¡Probad vuestra valía arrasando un pueblo y trayéndome la cabeza de su anciano!
+mno_choice_26_4|¡Matadlos a todos!
+menu_event_27|Un fanático religioso de los Siete, procedente de Antigua, sigue vuestro ejército. Aunque se dedica a ganar algunos hombres para su causa, también está creando algunos disturbios.
+mno_choice_27_1|¡Gracias a los dioses! Que siga así.
+mno_choice_27_2|¡Ofrecedle un puesto en vuestro ejército!.
+mno_choice_27_3|¡Maldito sea! ¡Eliminadlo!
+menu_event_28|Un fanático religioso del Dios Rojo, procedente de Volantis, sigue vuestro ejército. Aunque se dedica a ganar algunos hombres para su causa, también está creando algunos disturbios.
+mno_choice_28_1|¡Gracias a R'hllor! Que siga así.
+mno_choice_28_2|¡Ofrecedle un puesto en vuestro ejército!.
+mno_choice_28_3|¡Maldito sea! ¡Eliminadlo!
+menu_event_29|Os encontráis con un templo. Los sacerdotes están ocupados trabajando o rezando, y ninguno de ellos está armado. Distinguís a lo lejos los tesoros de oro y plata brillando desde el interior...
+mno_choice_29_1|Ignorais el templo.
+mno_choice_29_2|Entráis, rezáis y donáis 300 monedas de plata.
+mno_choice_29_3|¡Arrasáis el templo, masacráis a todos los sacerdotes y quemáis el lugar!
+menu_event_30|Os encontráis con un Septo. Los hermanos están ocupados trabajando o rezando, y ninguno de ellos está armado. Distinguís a lo lejos los tesoros de oro y plata brillando desde el interior...
+mno_choice_30_1|Ignorais el Septo.
+mno_choice_30_2|Entráis, rezáis y donáis 500 monedas de plata.
+mno_choice_30_3|¡Arrasáis el Septo, masacráis a todos los hermanos y quemáis el lugar!
+menu_event_31|Algunosde vuestros enemigos se han refugiado en un Septo cercano después de ser derrotados en batalla, ¡y el Septón les ha dado protección!
+mno_choice_31_1|¡Bah! ¡Se pueden ir a los siete infiernos si quieren! ¡Ya tenéis suficientes prisioneros y botín para daros por satisfecho!.
+mno_choice_31_2|Ofreced garantías de seguridad a vuestros enemigos. Aseguradles que los respetaréis y donad algunas monedas al Septo.
+mno_choice_31_3|¿Qué? ¡Id adentro, matadlos y ejecutad al septón por interferir! ¡No se puede permitir que esos perros escapen a vuestra justicia!
+menu_event_32|Os encontráis con la tumba de un antiguo y olvidad rey.
+mno_choice_32_1|¡Saqueáis la tumba!
+mno_choice_32_2|Pagáis una nueva tumba.
+mno_choice_32_3|Os arrodilláis y presentáis vuestros respetos.
+menu_event_33|En la taberna local hay un joven aprendiz que dice que su maestre está redactando una crónica con los hechos más notables de estas tierras. Ofrece, por módico precio, convencer al maestre para que pase por alto vuestras incesantes violaciones, saqueos y libertinaje en general, y en su lugar os describa como alguien más cercano a Baelor el Santo, como un defensor de los pobres y oprimidos o como un heroico campeón, lo que prefiráis.
+mno_choice_33_1|Decidís ignorarlo, murmurando que preferís dejar que la historia os juzgue.
+mno_choice_33_2|Pagáis al joven lo que pide y quedáis en que volveréis pronto para revisar el manuscrito.
+mno_choice_33_3|Pagáis con gusto el precio e incluso un poco más por las molestias.
+mno_choice_33_4|Después de escuchar con impaciencia la perorata del hombre, le espetáis que nuca habíais escuchado un intento de estafa tan patético.
+menu_event_34|Pasáis al lado de una aldea que parece estar pasando por tiempos difíciles. Para dar un impulso al pueblo, anunciáis que vais a patrocinar un concurso de costura y bordado para las doncellas del lugar y que recompensaréis generosamente a aquella que elabore la túnica más varonil y apuesta.
+mno_choice_34_1|Premiad a la aldea por sus esfuerzos y declarad a la muchacha más guapa como ganadora, dándole orden de que al anochecer se presente en vuestra tienda de campaña.
+mno_choice_34_2|Observáis el resultado con decepción, regañando al anciano de la aldea por no tomarse el asunto en serio. Declaráis que esos trapos no os valen ni como paños para las porquerizas, y os vais de la aldea.
+mno_choice_34_3|Recibís varias túnicas coloridas, pensando divertido que las usaréis como mantas o algún tipo de paño. Aun así, felicitáis al anciano de la aldea.
+menu_event_35|Al revisar vuestros últimos informes con vuestra guardia personal, comentáis de pasada que algún día os gustaría envainar la espada y estableceros en vuestras tierras con alguna moza maciza del lugar y pasar el resto de vuestros días fornicando con ella y cosechando cereal... a lo que uno de vuestros guardias replica que eso es poco probable, porque vuestro hedor corporal es legendario y porque todo el mundo sabe que el trigo sólo crece cuando lo cosechan campesinos.
+mno_choice_35_1|Os reís a carcajadas por su ingenioso comentario, al tiempo que en silencio os apuntáis la nota mental de que al día siguiente lo enviareis al corazón del territorio enemigo en una 'importante misión'.
+mno_choice_35_2|Miráis al joven visiblemente enfadado, pero después, pensándolo mejor, os dáis cuenta de que probablemente tenga razón.
+mno_choice_35_3|Os las arregláis para esbozar una sonrisa forzada, mientras vuestros consejeros y guardias ríen aldededor, y cuando nadie os mira hacéis un gesto a vuestro hombre de mayor confianza. La cabeza del chistoso pronto adonará una pica.
+menu_event_36|Os encontráis con un rebaño de obejas que seguramente acaban de escapar de la aldea cercana.
+mno_choice_36_1|Las devolvéis al pueblo sin pedir nada a cambio.
+mno_choice_36_2|Las devolvéis... a cambio de un precio.
+mno_choice_36_3|¡La cena! Capturáis a las ovejas y las matáis.
+menu_event_37|Un viajero os cuenta que un grupo de comerciantes acaba de llegar a estas tierras.
+mno_choice_37_1|Atacáis la pequeña caravana, matando fácilmente a los desventurados comerciantes, y dejando apenas supervivientes.
+mno_choice_37_2|Exigís un tributo por cruzar vuestras tierras.
+mno_choice_37_3|Dispersáis a los mercaderes y reclamáis sus posesiones como propias, dejándoles sólo con sus vidas.
+mno_choice_37_4|Les ayudáis en el camino, dándoles comida y plata. Se marchan alabando vuestro nombre.
+mno_choice_37_5|Los ignoráis, y ellos siguen su camino ignorando el peligro que se podía haber cernido sobre ellos.
+menu_event_38|Un viajero os cuenta que cerca de vuestro campamento hay un grupo de hermanos mendicantes.
+mno_choice_38_1|Atacáis el pequeño enclave, masacrando fácilmente a los desafortunados hermanos, apenas quedan supervivientes.
+mno_choice_38_2|Exigís un tributo por cruzar vuestras tierras.
+mno_choice_38_3|Dispersáis a los hermanos y reclamáis sus posesiones como propias, dejándoles sólo con sus vidas.
+mno_choice_38_4|Les ayudáis en el camino, dándoles comida y plata. Se marchan alabando vuestro nombre.
+mno_choice_38_5|Los ignoráis, y ellos siguen su camino ignorando el peligro que se podía haber cernido sobre ellos.
+menu_event_39|Un viajero os cuenta dónde encontrar una pequela banda de proscritos.
+mno_choice_39_1|Los emboscáis, matando fácilmente a los desaventurados forajidos, apenas quedan supervivientes.
+mno_choice_39_2|Exigís un tributo por cruzar vuestras tierras.
+mno_choice_39_3|Dispersáis a los proscritos y reclamáis sus posesiones como propias, dejándoles sólo con sus vidas.
+mno_choice_39_4|Les ayudáis en el camino, dándoles comida y plata. Se marchan alabando vuestro nombre.
+mno_choice_39_5|Los ignoráis, y ellos siguen su camino ignorando el peligro que se podía haber cernido sobre ellos.
+menu_event_40|Uno de vuestros hombres acaba de violar a la hija de un campesino de la zona.
+mno_choice_40_1|Ignoráis el hecho.
+mno_choice_40_2|Ordenáis que le corten la verga al soldado.
+mno_choice_40_3|Ejecutáis al soldado y os disculpáis por el incidente.
+mno_choice_40_4|Dais un dinero al campesino para que guarde silencio.
+menu_event_41|Uno de vuestros hombres sucumbe a las heridas recibidas en la última batalla.
+mno_choice_41_1|Tomáis su equipo y su plata. Después de todo, era vuestro soldado y todo lo que poseía os pertenece.
+mno_choice_41_2|Entregáis sus pertenencias a su familia.
+mno_choice_41_3|Entregáis sus pertenencias a su familia y celebráis un funeral en su honor.
+menu_event_42|Uno de vuestros nuevos reclutas acaba de morir enfermo. Lleva encima tanto una estrella de siete puntas como un tatuaje con la llama de R'hllor. Nadie sabe lo que preferiría el difunto.
+mno_choice_42_1|Quemadlo.
+mno_choice_42_2|Quemadlo y encomendadlo a los Siete.
+mno_choice_42_3|Dejadlo ahí tirado y así evitáis equivocaros.
+menu_recruit_nobles|{s18}
+menu_world_map_soldier|¿Que necesitais, soldado?
+mno_join_commander_battle|Seguir al comandante a la batalla.
+mno_enter_town|Entrar en la ciudad.
+mno_commander|Pedir una audiencia con el comandante.
+mno_revolt|Rebelarme contra el comandante.
+mno_revolt_disabled|No puedes rebelarte ahora, espera a tu momento.
+mno_desert|Desertar. (Mantiene equipo pero pierde relación)
+mno_report|Informe del comandante
+mno_return_to_duty|Volver al deber.
+menu_commander_aud|Vuestra petición cruza el campamento y finalmente {s6} aparece para hablar contigo.
+mno_reject_talk_lord|No, olvídadlo.
+menu_ask_revolt|¿Seguro que queréis rebelarte?
+mno_confirm_revolt|Sí, {s6} estará muerto pronto, es momento de actuar.
+mno_reject_revolt|No, soy leal a {s6}.
+menu_revolt|¿Queréis liberar a los prisioneros?
+mno_revolt_prisoners|Sí, tomaré el riesgo para mi propio beneficio.
+mno_revolt_no_prisoners|No, no confío en ellos.
+menu_ask_desert|¿Quieres desertar?
+mno_confirm_desert|Sí, esto no tiene sentido.
+mno_reject_desert|No, soy leal a mi comandante.
+menu_desert|Mientras estabais en el ejército hicisteis buenos amigos, quizás alguno quiera acompañaros.
+mno_desert_party|Intentad convencerlos.
+mno_desert_alone|No, tengo más oportunidades solo.
+menu_upgrade_path|En reconocimiento a vuestro excelente servicio, habeis sido ascendido.
+mno_upgrade_path_1|{s66}{s0}.
+mno_upgrade_path_2|{s67}{s0}.
+mno_upgrade_wait|Esperad a la próxima semana.
+menu_lco_presentation|Texto Oculto
+menu_lco_view_character|Texto Oculto
+menu_lco_auto_return|Texto Oculto
