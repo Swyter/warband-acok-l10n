@@ -1,4 +1,4 @@
-﻿qst_deliver_message|Entregad el mensaje al {s13}
+qst_deliver_message|Entregad el mensaje a {s13}
 qst_deliver_message_to_enemy_lord|Entregad el mensaje al {s13}
 qst_raise_troops|Reunid {reg1} {s14}
 qst_escort_lady|Escoltad a {s13} a {s14}
@@ -14,6 +14,7 @@ qst_collect_debt|Recaudad la deuda que el {s3} debe al {s9}
 qst_incriminate_loyal_commander|Incriminad al Comandante leal de {s13}, {s16}.
 qst_meet_spy_in_enemy_town|Encontraos con el espía en {s13}.
 qst_capture_prisoners|Traed {reg1} prisioneros {s3}.
+qst_deliver_love_letter|Entregad el mensaje a {s13}
 qst_lend_surgeon|Prestad a vuestro cirujano, {s3}, al {s1}.
 qst_follow_army|Seguid al ejército del {s9}.
 qst_report_to_army|Reportad ante {s13}, la Mano del Rey.
@@ -34,9 +35,25 @@ qst_kidnapped_girl|Rescatad a la doncella presa por bandidos.
 qst_persuade_lords_to_make_peace|Aseguraos de que los Señores no impidan la paz.
 qst_deal_with_looters|Ocupaos de los saqueadores.
 qst_deal_with_night_bandits|Ocupaos de los bandidos nocturnos.
+qst_cheese_rustlers|Cazad ladrones de grano
+qst_cheese_rustlers_text|{s9} de {s4} te ha pedido dar caza a los ladrones de grano cerca de la ciudad.
+qst_cheese_paladins|Acabad con los ladrones de vino
+qst_cheese_paladins_text|{s9} de {s4} te ha pedido dar caza a los ladrones de vino cerca de la ciudad.
+qst_bar_brawl|Limpiad la ciudad
+qst_bar_brawl_text|{s9} de {s4} os ha pedido hacer frente a los matones en las inmediaciones de la taberna.
 qst_deliver_grain|Llevad trigo a {s3}.
 qst_deliver_cattle|Entregad {reg5} cabezas de ganado en {s3}
 qst_train_peasants_against_bandits|Entrenad a los campesinos de {s13} para defenderse contra los bandidos.
+qst_escort_scholars|Escoltar a los Septones a {s8}
+qst_escort_scholars_text|Escoltar a los Septones a la ciudad de {s8}.
+qst_hunt_down_smugglers|Perseguid a los contrabandistas
+qst_hunt_down_smugglers_text|{s9} os ha pedido hacer frente a los contrabandistas. Él dijo que los tres grupos escaparon en dirección a {s3}.
+qst_hunt_down_girl|Cazar a {s4}
+qst_hunt_down_girl_text|{s9} os preguntó si daréis caza a la chica llamada {s4}. Se cree que actualmente está en {s3}.
+qst_deliver_lumber|Traiga la madera a {s3}
+qst_deliver_lumber_text|El Anciano del pueblo de {s3} os pregunta si habéis traido los {reg5} fardos de madera.
+qst_kidnapped_wife|Rescatar a la esposa de manos de los bandidos.
+qst_kidnapped_wife_text|El anciano de la aldea de {s4} te pidió que pagar el rescate por la esposa del agricultor. Debéis cumplir el acuerdo con los bandidos cerca de {s3} y pagarles el rescate. Después de eso, trae a la mujer de vuelta a {s4}.
 qst_eliminate_bandits_infesting_village|Liberad a la aldea de {s7} de los bandidos merodeadores.
 qst_visit_lady|Visitad a una dama
 qst_formal_marriage_proposal|Proponed matrimonio
@@ -64,14 +81,26 @@ qst_beowulf_quest2|El Cuerno y el Collar: Parte 3
 qst_beowulf_quest3|El Cuerno y el Collar: Parte 4
 qst_beowulf_quest4|El Cuerno y el Collar: Parte 5
 qst_beowulf_quest5|El Cuerno y el Collar: Parte 6
+qst_beowulf_quest6|El Cuerno y el Colgante: Parte 7
 qst_relic_quest|El Anillo Sagrado: Parte 1
 qst_relic_quest1|El Anillo Sagrado: Parte 2
 qst_tatters_quest|Desharrapado y Barbasangre: Parte 1
 qst_tatters_quest1|Desharrapado y Barbasangre: Parte 2
+qst_tatters_quest2|Desharrapado y Barbasangre: Parte 3
 qst_ramsay_quest|El Bastardo de Bolton: Parte 1
 qst_ramsay_quest1|El Bastardo de Bolton: Parte 2
+qst_ramsay_quest2|El Bastardo de Bolton: Parte 3
 qst_tyrion_quest|Oye mi Rugido: Parte 1
 qst_tyrion_quest1|Oye mi Rugido: Parte 2
+qst_quaithe_quest|El Fuerte de la Noche: Parte 1
+qst_quaithe_quest1|El Fuerte de la Noche: Parte 2
+qst_quaithe_quest2|El Fuerte de la Noche: Parte 3
+qst_quaithe_quest3|El Fuerte de la Noche: Parte 4
+qst_quaithe_quest4|El Fuerte de la Noche: Parte 5
+qst_return_to_illyrio|El señor del queso: Parte 1
+qst_return_to_illyrio2|El señor del queso: Parte 2
+qst_gueren_quest|La Guardia Nocturna: Parte 1
+qst_gueren_quest1|La Guardia Nocturna: Parte 2
 qst_odin_cave_quest|La Caravana Perdida: Parte 1
 qst_odin_cave_quest1|La Caravana Perdida: Parte 2
 qst_barrow_quest|Tumbas de los Ándalos: Parte 1
@@ -100,18 +129,21 @@ qst_wildfire_quest2|Sombras en la Noche: Parte 3
 qst_wildfire_quest3|Sombras en la Noche: Parte 4
 qst_wildfire_quest4|Sombras en la Noche: Parte 5
 qst_wildfire_quest5|Sombras en la Noche: Parte 6
+qst_wildfire_quest6|Sombras en la noche: Parte 7
 qst_stepstone_quest|El Príncipe y la Reina: Parte 1
 qst_stepstone_quest1|El Príncipe y la Reina: Parte 2
 qst_stepstone_quest2|El Príncipe y la Reina: Parte 3
 qst_stepstone_quest3|El Príncipe y la Reina: Parte 4
 qst_stepstone_quest4|El Príncipe y la Reina: Parte 5
 qst_stepstone_quest5|El Príncipe y la Reina: Parte 6
+qst_stepstone_quest6|El príncipe y la reina: Parte 7
 qst_clansman_quest|Palos y Piedras: Parte 1
 qst_clansman_quest1|Palos y Piedras: Parte 2
 qst_clansman_quest2|Palos y Piedras: Parte 3
 qst_clansman_quest3|Palos y Piedras: Parte 4
 qst_clansman_quest4|Palos y Piedras: Parte 5
 qst_clansman_quest5|Palos y Piedras: Parte 6
+qst_clansman_quest6|Piedras y palos: Parte 7
 qst_varys_quest|Fuego y Sangre: Parte 1
 qst_varys_quest1|Fuego y Sangre: Parte 2
 qst_varys_quest2|Fuego y Sangre: Parte 3

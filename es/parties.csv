@@ -1,4 +1,4 @@
-﻿p_zendar|Zendar
+p_zendar|Zendar
 p_town_1|Villahermana
 p_town_3|Salinas
 p_town_6|Torrellorosa
@@ -96,7 +96,6 @@ p_castle_58|Grajal
 p_castle_59|Isla Zarpa
 p_castle_60|Tres Torres
 p_castle_61|Tierras Altas
-p_castle_62|Coronanegra
 p_castle_63|Bandallon
 p_castle_64|Roble Viejo
 p_castle_65|Sotodeoro
@@ -115,7 +114,6 @@ p_castle_77|Sharat
 p_castle_78|Nya Dare
 p_castle_79|Nudho
 p_castle_80|Dominio del Cielo
-p_castle_81|Nido de Buitres
 p_castle_82|Ruinas de Iksa Calo
 p_castle_83|Nido del Grifo
 p_castle_84|Aguasmil
@@ -136,8 +134,6 @@ p_castle_98|Darkdell
 p_castle_99|Wyl
 p_castle_100|Descanso de Caminantes
 p_castle_101|Ruinas de Castamere
-p_castle_102|Los Pergaminos
-p_castle_103|Castillo Ruthermont
 p_castle_104|Castroferro
 p_castle_105|Aguasclaras
 p_castle_106|Hogar
@@ -148,17 +144,11 @@ p_castle_110|Darry
 p_castle_111|Escudo de Roble
 p_castle_112|Limaosy
 p_castle_113|Nuevestrellas
-p_castle_114|Puertoplácido
 p_castle_115|Aguasrojas
-p_castle_116|Fuerte Ocaso
-p_castle_117|Rocagrís
-p_castle_118|Torreón Cosecha
 p_castle_119|Marea Negra
 p_castle_120|Castillo de Nagga
-p_castle_121|Fuerte Erenford
 p_castle_122|Castillo Seaward
 p_castle_123|Arco Ancho
-p_castle_124|Fuertemarino
 p_castle_125|Fuerte Perro
 p_castle_126|Fuerte Hillwood
 p_castle_127|Aguasdulces
@@ -172,6 +162,8 @@ p_castle_134|Sotoinfierno
 p_castle_135|Campoestrella
 p_castle_136|Colmillo Dorado
 p_castle_137|Marcaderiva
+p_castle_138|Isla del oso
+p_castle_139|Stokeworth
 p_village_1|Orilla de Lobos
 p_village_2|Cabo del Rey
 p_village_3|Cuello de Dragón
@@ -368,6 +360,17 @@ p_village_193|Cod Town
 p_village_194|Timberton
 p_village_195|Monte Plowman
 p_village_196|Pennytree
+p_village_197|Verdibaya
+p_village_198|Punta Zarpa Rota
+p_village_199|Cerrahía
+p_village_200|Plomera
+p_village_201|Valdebahía
+p_village_202|Mantencanto
+p_village_203|Camponeblinos
+p_village_204|Puercaloma
+p_village_205|Dorafonte
+p_village_206|Estañotero
+p_village_207|Corcrest
 p_salt_mine|Mina de sal
 p_four_ways_inn|Posada Cuatro Caminos
 p_test_scene|escena de prueba
@@ -393,7 +396,6 @@ p_hillhall|Salón de la Colina
 p_dragonmont|Ruinas Sunken
 p_tower_of_joy|Torre de la Alegría
 p_naggas_hill|Colina de Nagga
-p_bear_island|Isla del Oso
 p_harrentown|Los Restos de Harrentown
 p_bloodstone|Piedrasangre
 p_illyrios_manse|Mansión de Illyrio
@@ -417,6 +419,7 @@ p_mole_town|Villa Topo
 p_bridge_of_skulls|La Garganta
 p_wall_tunnel|Túnel
 p_water_gardens|Los Jardínes del Agua
+p_nightfort|El Fuerte de la Noche
 p_looter_spawn_point|reaparición de saqueadores
 p_steppe_bandit_spawn_point|reaparición de dothraki
 p_taiga_bandit_spawn_point|reaparición de salvajes

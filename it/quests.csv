@@ -1,0 +1,171 @@
+qst_deliver_message|Consegna un messaggio a {s13}
+qst_deliver_message_to_enemy_lord|Consegna un messaggio a {s13}
+qst_raise_troops|Istruisci {reg1} {s14}
+qst_escort_lady|Scorta {s13} a {s14}
+qst_deal_with_bandits_at_lords_village|Salva il villaggio di {s15} dai Banditi.
+qst_collect_taxes|Riscuoti le tasse da {s3}
+qst_hunt_down_fugitive|Dai la caccia a {s4}
+qst_kill_local_merchant|Assassinio di un mercante locale a {s3}
+qst_bring_back_runaway_serfs|Costringi i servi in fuga a tornare indietro.
+qst_follow_spy|Segui la spia
+qst_capture_enemy_hero|Cattura un nobile del {s13}
+qst_lend_companion|Offri temporaneamente il tuo Compagno {s3} a {s9}
+qst_collect_debt|Riscuoti il debito {s3} dovuto a {s9}
+qst_incriminate_loyal_commander|Incrimina il fedele comandante di {s13}, {s16}
+qst_meet_spy_in_enemy_town|Incontra la spia a {s13}
+qst_capture_prisoners|Consegna {reg1} {s3} prigionieri
+qst_deliver_love_letter|Consegna un messaggio a {s13}
+qst_lend_surgeon|Presta il tuo cerusico {s3} a {s1}
+qst_follow_army|Segui l'armata di {s9}
+qst_report_to_army|Fai rapporto a {s13}, il Comandante in Capo
+qst_deliver_cattle_to_army|Consegna {reg3} capi di bestiame a {s13}
+qst_join_siege_with_army|Unisciti all'assedio di {s14}
+qst_screen_army|Proteggi l'avanzata dell'armata di {s13}
+qst_scout_waypoints|Perlustra {s13}, {s14} e {s15}
+qst_rescue_lord_by_replace|Recupera {s13} da {s14}
+qst_deliver_message_to_prisoner_lord|Consegna un messaggio a {s13} a {s14}
+qst_duel_for_lady|Sfida {s13} a duello
+qst_duel_courtship_rival| Sfida {s13} a duello (opzionale)
+qst_duel_avenge_insult|Sfida {s13} a duello
+qst_move_cattle_herd|Conduci la mandria a {s13}
+qst_escort_merchant_caravan|Scorta la carovana di mercanti a {s8}
+qst_deliver_wine|Consegna {reg5} unità di {s6} a {s4}
+qst_troublesome_bandits|Dai la caccia ai Banditi
+qst_kidnapped_girl|Paga il riscatto ai banditi per la ragazza rapita.
+qst_persuade_lords_to_make_peace|Assicurati che i due nobili non ostacolino la pace.
+qst_deal_with_looters|Affronta i razziatori
+qst_deal_with_night_bandits|Affronta i banditi notturni
+qst_cheese_rustlers|Caccia ai ladri di grano
+qst_cheese_rustlers_text|{s9} di {s4} ti ha chiesto di dare la caccia ai ladri di grano nelle vicinanze della città.
+qst_cheese_paladins|Caccia ai ladri di vino
+qst_cheese_paladins_text|{s9} di {s4} ti ha chiesto di dare la caccia ai ladri di vino nelle vicinanze della città.
+qst_bar_brawl|Ripulire la città
+qst_bar_brawl_text|{s9} di {s4} ti ha chiesto di affrontare le zoticoni nelle vicinanze della taverna.
+qst_deliver_grain|Porta il grano a {s3}
+qst_deliver_cattle|Consegna {reg5} capi di bestiame a {s3}
+qst_train_peasants_against_bandits|Addestra i paesani di {s13} per affrontare i banditi.
+qst_escort_scholars|Scorta Septons a {s8}
+qst_escort_scholars_text|Scorta i septons alla città di {s8}.
+qst_hunt_down_smugglers|Caccia ai contrabbandieri
+qst_hunt_down_smugglers_text|{s9} ha chiesto di affrontare con i contrabbandieri. Ha detto che tutti e tre i gruppi stanno scappando in direzione di {s3}.
+qst_hunt_down_girl|Dai la caccia a {s4}
+qst_hunt_down_girl_text|{s9} ti ha chiesto di dare la caccia a una ragazza di nome {s4}. Attualmente crede che si trovi a {s3}.
+qst_deliver_lumber|Portare legname a {s3}
+qst_deliver_lumber_text|L'anziano del villaggio di {s3} ti ha chiesto di portare loro {reg5} unità di legname.
+qst_kidnapped_wife|Riscatta la donna dai banditi
+qst_kidnapped_wife_text|L'anziano del villaggio di {s4} ti ha chiesto di pagare il riscatto per la moglie di un agricoltore. Puoi incontrare i banditi vicino {s3} e pagare loro il riscatto. Dopo di che riporta la donna a {s4}.
+qst_eliminate_bandits_infesting_village|Salva il villaggio di {s7} dai banditi
+qst_visit_lady|Fai visita alla Lady
+qst_formal_marriage_proposal|Ottieni il beneplacido alla proposta di matrimonio
+qst_obtain_liege_blessing|Ottieni il beneplacido alla proposta di matrimonio
+qst_wed_betrothed|Sposa il tuo fidanzato
+qst_wed_betrothed_female|Sposa il tuo fidanzato
+qst_join_faction|Fai giuramento di fedeltà a {s1}
+qst_rebel_against_kingdom|Aiuta {s13} a reclamare il trono di {s14}
+qst_consult_with_minister|Consultati col Ministro
+qst_organize_feast|Organizza la festa
+qst_resolve_dispute|Risolvi il dissidio
+qst_offer_gift|Procura un dono
+qst_denounce_lord|Denuncia un lord
+qst_intrigue_against_lord|Intriga contro un lord
+qst_track_down_bandits|Rintraccia i banditi
+qst_track_down_provocateurs|Rintraccia i sabotatori
+qst_retaliate_for_border_incident|Rappresaglia per un incidente di frontiera 
+qst_raid_caravan_to_start_war|Attacca una Carovana neutrale per provocare la guerra
+qst_cause_provocation|Dai un pretesto al Regno per attaccarne un altro
+qst_rescue_prisoner|Libera o riscatta un prigioniero
+qst_destroy_bandit_lair|Distruggi il covo dei banditi
+; qst_beowulf_quest|The Horn and the Necklace: Part 1
+; qst_beowulf_quest1|The Horn and the Necklace: Part 2
+; qst_beowulf_quest2|The Horn and the Necklace: Part 3
+; qst_beowulf_quest3|The Horn and the Necklace: Part 4
+; qst_beowulf_quest4|The Horn and the Necklace: Part 5
+; qst_beowulf_quest5|The Horn and the Necklace: Part 6
+; qst_beowulf_quest6|The Horn and the Necklace: Part 7
+; qst_relic_quest|The Blessed Ring: Part 1
+; qst_relic_quest1|The Blessed Ring: Part 2
+; qst_tatters_quest|Old Tatters and Bloodbeard: Part 1
+; qst_tatters_quest1|Old Tatters and Bloodbeard: Part 2
+; qst_tatters_quest2|Old Tatters and Bloodbeard: Part 3
+; qst_ramsay_quest|The Bastard of Bolton: Part 1
+; qst_ramsay_quest1|The Bastard of Bolton: Part 2
+; qst_ramsay_quest2|The Bastard of Bolton: Part 3
+; qst_tyrion_quest|Hear me Roar: Part 1
+; qst_tyrion_quest1|Hear me Roar: Part 2
+; qst_quaithe_quest|The Nightfort: Part 1
+; qst_quaithe_quest1|The Nightfort: Part 2
+; qst_quaithe_quest2|The Nightfort: Part 3
+; qst_quaithe_quest3|The Nightfort: Part 4
+; qst_quaithe_quest4|The Nightfort: Part 5
+; qst_return_to_illyrio|The Lord of Cheese: Part 1
+; qst_return_to_illyrio2|The Lord of Cheese: Part 2
+; qst_gueren_quest|The Night's Watch: Part 1
+; qst_gueren_quest1|The Night's Watch: Part 2
+; qst_odin_cave_quest|The Lost Caravan: Part 1
+; qst_odin_cave_quest1|The Lost Caravan: Part 2
+; qst_barrow_quest|Tombs of the Andals: Part 1
+; qst_barrow_quest1|Tombs of the Andals: Part 2
+; qst_terror_quest|Terror in the Cairn: Part 1
+; qst_terror_quest1|Terror in the Cairn: Part 2
+; qst_nw_main_quest_first_quest|Blood on the Snow: Part 1
+; qst_nw_main_quest_first_quest1|Blood on the Snow: Part 2
+; qst_nw_main_quest_second_quest|Rough Speech: Part 1
+; qst_nw_main_quest_second_quest1|Rough Speech: Part 2
+; qst_nw_main_quest_third_quest|The Bridge of Skulls: Part 1
+; qst_nw_main_quest_third_quest1|The Bridge of Skulls: Part 2
+; qst_nw_main_quest_third_quest2|The Bridge of Skulls: Part 3
+; qst_nw_main_quest_fourth_quest|The Approaching Storm: Part 1
+; qst_nw_main_quest_fifth_quest|The Battle of Castle Black: Part 1
+; qst_nw_main_quest_fifth_quest2|The Battle of Castle Black: Part 2
+; qst_nw_main_quest_fifth_quest1|The Battle of Castle Black: Part 3
+; qst_aegon_targaryen_quest|Half a Maester: Part 1
+; qst_aegon_targaryen_quest1|Half a Maester: Part 2
+; qst_dragonseed_quest|Seed of the Dragons: Part 1
+; qst_dragonseed_quest1|Seed of the Dragons: Part 2
+; qst_espada_falcata|Valar Dohaeris
+; qst_wildfire_quest|Shadows in the Night: Part 1
+; qst_wildfire_quest1|Shadows in the Night: Part 2
+; qst_wildfire_quest2|Shadows in the Night: Part 3
+; qst_wildfire_quest3|Shadows in the Night: Part 4
+; qst_wildfire_quest4|Shadows in the Night: Part 5
+; qst_wildfire_quest5|Shadows in the Night: Part 6
+; qst_wildfire_quest6|Shadows in the Night: Part 7
+; qst_stepstone_quest|The Prince and the Queen: Part 1
+; qst_stepstone_quest1|The Prince and the Queen: Part 2
+; qst_stepstone_quest2|The Prince and the Queen: Part 3
+; qst_stepstone_quest3|The Prince and the Queen: Part 4
+; qst_stepstone_quest4|The Prince and the Queen: Part 5
+; qst_stepstone_quest5|The Prince and the Queen: Part 6
+; qst_stepstone_quest6|The Prince and the Queen: Part 7
+; qst_clansman_quest|Sticks and Stones: Part 1
+; qst_clansman_quest1|Sticks and Stones: Part 2
+; qst_clansman_quest2|Sticks and Stones: Part 3
+; qst_clansman_quest3|Sticks and Stones: Part 4
+; qst_clansman_quest4|Sticks and Stones: Part 5
+; qst_clansman_quest5|Sticks and Stones: Part 6
+; qst_clansman_quest6|Sticks and Stones: Part 7
+; qst_varys_quest|Fire and Blood: Part 1
+; qst_varys_quest1|Fire and Blood: Part 2
+; qst_varys_quest2|Fire and Blood: Part 3
+; qst_varys_quest3|Fire and Blood: Part 4
+; qst_varys_quest4|Fire and Blood: Part 5
+; qst_varys_quest5|Fire and Blood: Part 6
+; qst_varys_quest6|Fire and Blood: Part 7
+; qst_varys_quest7|Fire and Blood: Part 8
+qst_collect_men|Recluta cinque uomini
+qst_learn_where_merchant_brother_is|Scopri dove sono tenuti gli ostaggi
+qst_save_relative_of_merchant|Attacca il covo dei Banditi
+qst_save_town_from_bandits|Salva la città dai banditi
+qst_deal_with_forest_bandit|Trattare con il capo di banditi della foresta
+qst_deal_with_taiga_bandit|Trattare con il capo di banditi della taiga
+qst_deal_with_steppe_bandit|Trattare con il capo di banditi delle steppe
+qst_deal_with_sea_raider|Trattare con il capo dei pirati
+qst_deal_with_mountain_bandit|Trattare con il capo di banditi di montagna
+qst_deal_with_desert_bandit|Trattare con il capo di banditi del deserto
+qst_freelancer_enlisted|Arruolato nella compagnia di {s13}
+qst_freelancer_vacation|Arruolato: In congedo
+qst_freelancer_captured|Arruolato: Catturato
+qst_freelancer_revolt|Arruolato: In rivolta
+; qst_freelancer_end|Freelancer Quests End
+qst_floris_active_tournament|Partecipare al torneo in {s13}
+qst_quests_end|Fine delle missioni

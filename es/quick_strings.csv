@@ -1,4 +1,4 @@
-﻿qstr_{reg61}.0{reg62}|{reg61}.0{reg62}
+qstr_{reg61}.0{reg62}|{reg61}.0{reg62}
 qstr_{reg61}.{reg62}|{reg61}.{reg62}
 qstr_Shot_distance:_{s1}_|Distancia de tiro: {s1} metros
 qstr_Next_Page|Página Siguiente
@@ -1117,6 +1117,9 @@ qstr_Though_the_distinction_felt_sudden_to_you|Aunque el cambio os resultó repe
 qstr_Though_the_distinction_felt_sudden_to_you_|Aunque el cambio os resultó repentino, en algún momento os habíais convertido en {s13}, y todo el mundo pareció cambiar a vuestro alrededor. Atendiendo a la llamada del camino, viajasteis de aldea en aldea comprando y vendiendo lo que podíais. No fue una vida adinerada, pero aprendisteis a regatear incluso frente los ancianos más miserables, consiguiendo buenos precios. Intuisteis que pronto estaríais {reg3?lista:listo} para comenzar vuestro propio negocio...
 qstr_Though_the_distinction_felt_sudden_to_you_s|Aunque el cambio os resultó repentino, en algún momento os habíais convertido en {s13}, y todo el mundo pareció cambiar a vuestro alrededor. Comenzasteis a trabajar en una herrería, creando objetos bellos y útiles a partil del simple metal. Al pasar el tiempo os convertisteis en {reg3?maestra:maestro} de vuestro oficio, y vuestro buen hacer comenzó a reportaros beneficios. Con la tripa llena y la chimenea ardiendo, contemplasteis con orgullo vuestro trabajo y vuestra reputación.
 qstr_Though_the_distinction_felt_sudden_to_you_so|Aunque el cambio os resultó repentino, en algún momento os habíais convertido en {s13}, y todo el mundo pareció cambiar a vuestro alrededor. {reg3?Hastiada:Hastiado} de la ambición de dinero de los hombres, os refugiasteis en los bosques de vuestro señor y decidisteis haceros con su botín de caza, sin atender a las leyes. Cazasteis ciervos, jabalíes y gansos, y vendisteis su preciada carne en el mercado negro. Talasteis árboles ante las narices de los guardias y los convertisteis en leña que calentó muchos hogares helados en invierno. Todo por una miaja de dinero, por supuesto...
+; qstr_Though_the_distinction_felt_sudden_to_you_som|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. Heeding the call of the open road, you travelled from village to village buying and selling what you could. It was not a rich existence, but you became a master at haggling even the most miserly elders into giving you a good price. Soon, you knew, you would be well-placed to start your own trading empire...
+; qstr_Though_the_distinction_felt_sudden_to_you_some|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You pursued a career as a smith, crafting items of function and beauty out of simple metal. As time wore on you became a master of your trade, and fine work started to fetch fine prices. With food in your belly and logs on your fire, you could take pride in your work and your growing reputation.
+; qstr_Though_the_distinction_felt_sudden_to_you_somew|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. Dissatisfied with common men's desperate scrabble for coin, you took to your local lord's own forests and decided to help yourself to its bounty, laws be damned. You hunted stags, boars and geese and sold the precious meat under the table. You cut down trees right under the watchmen's noses and turned them into firewood that warmed many freezing homes during winter. All for a few silvers, of course.
 qstr_Only_you_know_exactly_what_caus|Sólo vos sabéis cuál fue la causa de que abandonaseis vuestra antigua vida y os lanzaseis a la aventura. De todas formas, no fue una decisión difícil, habida cuenta la ira de vuestro corazón. Queréis venganza. Queréis justicia. Lo que os hicieron no puede ser desecho, y estas deudas sólo pueden ser pagadas con sangre...
 qstr_Only_you_know_exactly_what_cause|Sólo vos sabéis cuál fue la causa de que abandonaseis vuestra antigua vida y os lanzaseis a la aventura. Lo único que podéis decir es que no soportabais quedaros, no con los dolorosos recuerdos de vuestros seres amados tan cerca. Tal vez vuestra nueva vida os permita olvidar, u honrar a aquéllos que no os atrevéis a nombrar...
 qstr_Only_you_know_exactly_what_caused|Sólo vos sabéis cuál fue la causa de que abandonaseis vuestra antigua vida y os lanzaseis a la aventura. Ni siquiera os acordáis de por qué vuestra casa se convirtió en una prisión, de cuándo lo familiar se transformó en mundano, pero vuestros deseos de aventura inundaron vuestra vida. Ya sea que soñáis con llegar a un lugar lejano o simplemente deseáis caminar sin rumbo y libremente, no podíais soportar quedaros en el mismo lugar. Simplemente echasteis a andar, y nunca más mirasteis atrás...
@@ -1244,7 +1247,7 @@ qstr__This_castle_has_no_| Este castillo no tiene guarnición.
 qstr__The_banner_of_your_| El estandarte de vuestro {s11} {s7} ondea sobre las puertas de la ciudad.
 qstr__This_town_has_no_ga| Este castillo no tiene guarnición.
 qstr__You_have_successful| Habéis sido capaz de pasar sin que os detectaran.
-qstr_{s13}_A_tournament_w|{s13} Pronto se celebrará un torneo aquí.
+qstr_{s13}_A_melee_will_b|{s13} Se celebrará un combate aquí muy pronto.
 qstr___{reg1}_denars_per_| ({reg1} monedas por noche)
 qstr_Moreover_you_earn_{r|Además, ganáis {reg8} monedas por las astutas apuestas que habéis hecho sobre vuestra persona...
 qstr_Victory_is_yours!_Yo|¡La victoria es vuestra! Habéis ganado este combate, pero ahora debéis prepararos para la próxima ronda. 
@@ -1531,8 +1534,8 @@ qstr_{s12}_and_{s11}|{s12} y {s11}
 qstr_You_can_find_book_me|Podéis encontrar un mercader de libro en {s11}.
 qstr_{s12}_{s11}|{s12}, {s11}
 qstr_You_can_find_ransom_|Podéis encontrar rescatistas en {s11}.
+qstr_You_don_t_have_enoug|No tienes suficiente dinero.
 qstr_You_don_t_have_enough|No poseeis suficiente dinero.
-qstr_You_don_t_have_enough_|No tenéis suficiente espacio.
 qstr_Good_luck._You_get_a|Buena suerte. Conseguís un {s4}{s3}.
 qstr_Bad_luck._You_get_a_|Malaa suerte. Conseguís un {s4}{s3}.
 qstr_You_get_a_{s3}.|Conseguís un {s3}
@@ -1599,7 +1602,7 @@ qstr_Player_honor_is_incr|Vuestro honor ha aumentado en 1 y ahora es {reg7}.
 qstr_{s1}_of_{s3}_managed|{s1} de {s3} ha conseguido escapar.
 qstr_However_since_you_are|Sin embargo, no habéis jurado lealtad hacia {s9}, así que no hay posibilidad de que se te reconozca como {dueño/dueña} de {reg8?esa ciudad:ese castillo}
 qstr_As_you_approach_you_are|En cuanto os aproximáis, los guardias del castillo os reconocen y os dan la bienvenida mientras os abren las puertas.
-qstr_{s13}_A_tournament_w|{s13} Un torneo tendrá lugar aquí dentro de poco.
+qstr_{s13}_A_tournament_w|{s13} Pronto se celebrará un torneo aquí.
 qstr_{s1}_s_Ship|Barco de {s1}
 qstr_{s13}_asked_you_to_re|{s13} os pide que os presentéis ante él con al menos {reg13} tropas.
 qstr_Party_has_nothing_to|¡El grupo no tiene nada para comer!
@@ -1719,7 +1722,7 @@ qstr_a_JON_STEWART_MAN|un HOMBRE de JON STEWART
 qstr_This_area_of_{s1}_can|Este area de {s1} puede ser mejor descrita como el núcleo de la ciudad.^^Casi puedes ver las cadenas que salen de aquí, el dinero que viene y va con tasas aparentemente interminables. Aquí podéis comprar la tierra que es cultivada fuera de las puertas de la ciudad y beneficiaros de un trabajo duro. Por supuesto, podéis no tener el dinero requerido para hacerlo, pero los prestamistas son conocidos por solucionar precisamente eso.
 qstr_{reg1}00_people_live|{reg1}00 personas viven en {s1}. Hay actualmente {reg2} acres de tierra disponible para cultivarlos y dotarlos de comida y otros bienes. Poseeis {reg3} acres de tierra en esta ciudad. Actualmente, le debeis a los prestamistas de {s1} {reg4} monedas. La tasa de intereses es del 20% y debéis pagar cada 2 semanas. Si no pagáis antes de la fecha los intereses suben al 40%. Comprar los acres restantes costaría {reg9} monedas, mientras se venden por {reg10} monedas. Construir uno nuevo requiere de {reg11} monedas. La renta pagada a los propietarios de las tierras acumula {reg13} moneras por acre cada dos semanas y tiene que recogerse en la ciudad. Las tierras no se alquilarán si la ciudad está ya bien suplida.
 qstr_Your_debt_in_{s1}_is_|Vuestra deuda en {s1} es tan sumamente grande que ha llegado a oidos del rey. Ha congelado la deuda, pero está muy defraudado por la situación.
-qstr_You_don_t_have_enough_|No tenéis monedas suficientes. ¡Qué embarazoso!
+qstr_You_don_t_have_enough_|No tenéis suficiente espacio.
 qstr_Part_of_your_food_wa|Parte de vuestras provisiones ha sido distribuida.
 qstr_Your_men_have_nothin|¡Vuestros hombres no tienen nada que comer!
 qstr_The_young_noble_pref|¡El joven noble ha preferido huir antes que batirse en duelo con vos!
@@ -2078,3 +2081,303 @@ qstr_You_hand_the_letter_|Entregáis la carta a Areo Hotah, quien comienza a lee
 qstr_Talk_to_Prince_Doran|Hablad con el Príncipe Doran Martell, que se encuentra ahora mismo en los Jardines del Agua.
 qstr_Talk_to_Prince_Doran_|Hablad con el Príncipe Doran Martell, que debería encontrarse en su corte en Lanza del Sol.
 qstr_You_hand_the_letter_t|Entregáis la carta al Príncipe Doran, quien procede a leerla de inmediato.
+; qstr_Ser_Rodrik_Cassel_has_|Ser Rodrik Cassel has tasked you with bringing the kings justice to Ramsay Snow. Look for him at his fathers castle, the Dreadfort.
+qstr_a_landless_knight|un caballero sin tierras
+qstr_a_man_at_arms|un hombre de armas
+; qstr_As_a_child_your_family_|As a child, your family scrabbled out a meagre living from your fathers wages as a guardsman to old Lord Whent. It was not an easy existence, and you were too poor to get much of an education. You learned mainly how to defend yourself in brawls with the other guardsmens sons, with or without a weapon in hand.
+; qstr_You_were_the_{reg3?daug|You were the {reg3?daughter:son} of a family who lived off the woods, doing whatever they needed to make ends meet. Hunting, woodcutting, making arrows, even a spot of poaching whenever things got tight. The last winter, though lasting only a few years, was a hard time for your family as the cold took animals and people alike, but you always lived to see another dawn, though your brothers and sisters where not so fortunate.
+qstr_a_bard|un bardo
+; qstr_You_were_a_child_of_the_|You were a child of the taverns, spending your days listening to your father sing of Jonquil and Florian the Fool, deftly playing his lute.
+; qstr_As_the_{reg3?daughter:s|As the {reg3?daughter:son} of a thief, you had very little 'formal' education. Instead, you were out on the streets, begging until you learned how to cut purses, cutting purses until you learned how to pick locks, all the way through your childhood.  Still, these long years made you streetwise and sharp to the secrets of cities and shadowy backways.
+; qstr_A_{reg3?daughter:son}|A {reg3?daughter:son} that nobody wanted, you were left to the faith as a baby, a foundling raised by the septons and silent sisters to their own traditions.  You were only one of many other foundlings and orphans, but you nonetheless received a lot of attention as well as many years of study in the sept library and before the faces of the Seven. They taught you many things. Gradually, faith became such a part of your life that it was no different from the blood coursing through your veins.
+; qstr__You_were_born_years_| You were born years ago, in a small village. Your father was {s2}. {s3}
+; qstr_As_a_{reg3?girl:boy}_growing_out_of_c|As a {reg3?girl:boy} growing out of childhood, you were sent to serve at the court of the new Lord Whent.  There, your first lessons were in humility, as you waited upon the knights and ladies of the household.  But from their dice games, their gossip, even the poetry of great deeds and courtly love, you quickly began to learn about the adult world of conflict and competition. You also learned from the rough games of the other children, who battered at each other with sticks in imitation of the men-at-arms and knights.
+qstr_a_craftsmans_apprent|un aprendiz de artesano
+; qstr_As_a_{reg3?girl:boy}_growing_out_of_ch|As a {reg3?girl:boy} growing out of childhood, you apprenticed with a local craftsman, from Duskendale. After years of hard work and study under your new master, he promoted you to journeyman and employed you as a fully paid craftsman for as long as you wished to stay.
+; qstr_As_a_{reg3?girl:boy}_growing_out_of_chi|As a {reg3?girl:boy} growing out of childhood, you took to the streets, doing whatever you must to survive. Begging, thieving and working for gangs to earn your bread, you lived from day to day in this violent world, often sleeping in alleys or on rooftops, always one step ahead of the city watch and those who wished you ill.
+qstr_a_bards_apprentice|un aprendiz de bardo
+; qstr_As_a_{reg3?girl:boy}_growing_out_of_chil|As a {reg3?girl:boy} growing out of childhood, you spent your life apprenticed to an old bard. Your time was filled with music, singing, and the occasional tavern brawl.
+; qstr_As_a_{s12}_growing_out_of|As a {s12} growing out of childhood, you spent much of your life at the court of the new Lord Whent, inserting yourself into the tightly-knit circles of nobility.  With the years you became more and more involved with the politics and intrigue demanded of a high-born {s13}.  You could not afford to remain a stranger to backstabbing and gossip violence, even if you wanted to.
+; qstr_As_a_{s12}_growing_out_of_|As a {s12} growing out of childhood, you were trained and educated to perform the duties and wield the rights of a landed noble. The managing of taxes and rents were equally important in your education as diplomacy and even personal defence. You learned everything you needed to become a lord in your own right.
+; qstr_As_a_{s12}_growing_out_of_c|As a {s12} growing out of childhood, you were trained and educated to the duties of a noble {s13}. You learned much about the household arts, but even more about diplomacy and decorum, and all the things that a future husband might choose to speak of. Truly, you became every inch as shrewd as any lord, though it would be rude to admit it aloud.
+; qstr_As_a_{s12}_growing_out_of_ch|As a {s12} growing out of childhood, you became a novice in the local septry, the lowest step on the ladder leading to the rank of Most Devout. Years of rigorous learning and hard work followed. You were one of several novices, performing most of the menial labour in the septry in addition to being trained for more holy tasks. When you where on the verge of adulthood you were allowed to conduct your first service. After that you were no longer a novice {s12}, but a {s13} waiting to take your vows and enter the service of the Seven.
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhe|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  When you were named squire to one of Lord Whents knights, you practiced long hours with weapons, learning how to deal out hard knocks and how to take them, too.  You were instructed in your obligations to your lord, and of your duties to those who might one day be your vassals.  But in addition to learning the knightly ideal, you also learned about the less uplifting side -- old warriors' stories of ruthless power politics, of betrayals and usurpations, of men who used guile as well as valor to achieve their aims.
+qstr_a_scribe|un amanuense
+; qstr_Though_the_distinction_felt_sudden_to_you_somewher|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You found work at Lord Whents court, writing letters for the knights and ladies, illuminating manuscripts and teaching the sons and daughters of the nobility how to read.
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  You set out on your own with nothing except the lute slung over your back and your own voice. It was a poor existence, with many a hungry night when people failed to appreciate your play, but you managed to survive on your music alone. As the years went by you became adept at playing the drunken crowds in your taverns, and even better at talking anyone out of anything you wanted.
+qstr_an_acolyte|un acólito
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you. You found yourself as an acolyte in the Citadel of Oldtown, where you studied economy, philosophy, and medicine.  But not all your lessons were learned in the lecture halls.  You may or may not have joined in with your fellows as they roamed the alleys in search of wine, women, and a good fight. However, you certainly were able to observe how a broken jaw is set, or how an angry townsman can be persuaded to set down his club and accept cash compensation for the destruction of his shop.
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_a|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you. Heeding the call of the open road, you travelled from village to village buying and selling what you could. It was not a rich existence, but you became a master at haggling even the most miserly elders into giving you a good price. Soon, you knew, you would be well-placed to start your own trading kingdom...
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_al|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you. You pursued a career as a smith, crafting items of function and beauty out of simple metal. As time wore on you became a master of your trade, and fine work started to fetch fine prices. With food in your belly and logs on your fire, you could take pride in your work and your growing reputation.
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_alo|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  Dissatisfied with common men's desperate scrabble for coin, you took to Lord Whents own forests and decided to help yourself to its bounty, laws be damned. You hunted stags, boars and aurochs and sold the precious meat under the table. You cut down trees right under the guardsmens noses and turned them into firewood that warmed many freezing homes during winter. All for a few silvers, of course.
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_alon|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you.  You packed your few belongings and went out into the world to spread the the message of the Seven-Pointed Star. You preached to anyone who would listen, and impressed many with the passion of your sermons. Though you had taken a vow to remain in poverty through your itinerant years, you never lacked for food, drink or shelter; the hospitality of the peasantry was always generous to a rising {s13} of the Seven.
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_along|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, relying upon your quick thinking and even quicker reflexes to get you through each day. Dissatisfied with a simple life of laboring for coin, you took to your local streets intent on helping yourself to what you needed in order to survive.  You shun the standard laws of man and have chosen to live by whatever rules allow you to avoid the headsman's block.
+qstr_a_farmer|un granjero
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_along_|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You found work as a day laborer, breaking your back in the fields of a local farmer. Though hard work, you where rewarded with food and a place to sleep, and each day you put on more muscle as you hauled straw and rocks.
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_along_t|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and with that change came understanding that the strong have the right to take from the weak. You became part of a band of outlaws and grew adept at the art of ambush. You learned how to wield, with some facility, whatever weapon your prey bequeathed to you. When times were good, you caroused and feasted like a king. When pickings were slim, you lived off the land or perfomed quick raids on small villages. You prided yourself on your adaptability and capacity for violence.
+; qstr_a_horse_trainer|a horse trainer
+; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_along_th|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You found work as a horse trainer, at Lord Whents court, taking care of the great destriers of the lords, knights and ladies, shooing the plowhorses of the farmers and training the coursers stabled in the great stable.
+; qstr_Only_you_know_exactly_what_caused_yo|Only you know exactly what caused you to give up your old life and become an adventurer. However, you know you cannot go back. There's nothing to go back to. Whatever home you may have had is gone now, and you must face the fact that you're out in the world, alone to fend for yourself...
+; qstr_Only_you_know_exactly_what_caused_you|Only you know exactly what caused you to give up your old life and become an adventurer. Regardless, the intense faith burning in your soul would not let you find peace in any single place. There were others in the world, souls to be washed in the light of God. Now you preach wherever you go, seeking to bring salvation and revelation to the masses, be they faithful or demon worshippers. They will all know the glory of the Seven by the time you're done...
+; qstr_As_war_begins_to_tear|As war begins to tear the land apart and many march off to war the desire to join them becomes ever pressing.  As a {s13} of honor you feel duty bound to join the armies of your home and protect the region you call home.
+; qstr_a_a_bard|a a bard
+; qstr_a_blacksmith|a blacksmith
+; qstr_{s1}^^_You_started_to_|{s1}^^ You started to learn about the world almost as soon as you could walk and talk.
+; qstr_{s1}^^_Then_as_a_youn|{s1}^^ Then, as a young adult, life changed as it always does.
+qstr_{s1}.|{s1}.
+; qstr_{s1}{s3}|{s1}{s3}
+; qstr_^{s1}^^_As_a_{s3}_{s2|^{s1}^^ As a {s3} {s2} you {s4}
+; qstr_The_woman_was_clearly_|The woman was clearly mad! All she did was spit on it!
+; qstr_The_woman_was_clearly_a|The woman was clearly an amateur! All she did was make you drink mud!
+; qstr_You_have_severe_diar|You have severe diarrhea.
+; qstr_{s1}^^_You_started_to_l|{s1}^^ You started to learn about the world almost as soon as you could walk and talk. You spent your early life as {s2}. {s3}
+; qstr_{s1}^^_But_soon_everyt|{s1}^^ But soon everything changed and you decided to strike out on your own as an adventurer. {s3}
+; qstr_He_served_Old_Lord_W|He served Old Lord Whent, as a sworn sword, never improving his own, or his familys, lot in life.
+; qstr_Your_father_and_your|Your father and your family travelled from place to place, selling wool, cloth and tin.
+; qstr_He_served_Old_Lord_Wh|He served Old Lord Whent as a guardsman, a boring and predictable life.
+; qstr_Your_family_lived_in|Your family lived in the woods, doing the odd job for the local lord, and even dabbling in some poaching from time to time.
+; qstr_He_spent_his_nights_|He spent his nights in taverns, singing of Jonquil and Florian, deftly playing his lute.
+; qstr_Living_a_hard_life_y|Living a hard life, your father spent most of his time avoiding the local lords men, never improving your familys lot in life.
+; qstr_The_son_of_a_landles|The son of a landless knight himself, your father served a minor lord as a septon, spending his nights getting drunk and whoring.
+; qstr__You_were_born_years_a| You were born years ago. Your father was {s2}. {s3}
+; qstr_As_a_{s12}_growing_out_of_chi|As a {s12} growing out of childhood, you attached yourself to a troupe of wandering entertainers, going from town to town setting up mummer's shows. It was a life of hard work, selling, begging and stealing your living from the villagers who flocked to watch your antics. Over time you became a performer well capable of attracting a crowd.
+; qstr_As_a_{s12}_growing_out_of_chil|As a {s12} growing out of childhood, you spent much of your life at the court of the new Lord Whent, inserting yourself into the tightly-knit circles of nobility.  With the years you became more and more involved with the politics and intrigue demanded of a high-born {s13}.  You could not afford to remain a stranger to backstabbing and gossip, even if you wanted to.
+; qstr_You_signed_on_with_a|You signed on with a sellsword company and travelled far from your home. The life you found was rough and ready, marching to the beat of strange drums and learning unusual ways of fighting. There were men who taught you how to wield any weapon you desired, and plenty of battles to hone your skills. You were one of the charmed few who survived through every campaign in which you marched.
+; qstr_You_joined_the_tight|You joined the tightly-knit circle of women at court, ladies who all did proper ladylike things, the wives and mistresses of noble men as well as maidens who had yet to find a husband. However, even here you found politics at work as the ladies schemed for prominence and fought each other bitterly to catch the eye of whatever unmarried man was in fashion at court. You soon learned ways of turning these situations and goings-on to your advantage. With it came the realisation that you yourself could wield great influence in the world, if only you applied yourself with a little bit of subtlety.
+; qstr_You_set_out_on_your_|You set out on your own with nothing except the lute slung over your back and your own voice. It was a poor existence, with many a hungry night when people failed to appreciate your play, but you managed to survive on your music alone. As the years went by you became adept at playing the drunken crowds in your taverns, and even better at talking anyone out of anything you wanted.
+; qstr_You_found_yourself_a|You found yourself as an acolyte in the Citadel of Oldtown, where you studied economy, philosophy, and medicine.  But not all your lessons were learned in the lecture halls.  You may or may not have joined in with your fellows as they roamed the alleys in search of wine, women, and a good fight. However, you certainly were able to observe how a broken jaw is set, or how an angry townsman can be persuaded to set down his club and accept cash compensation for the destruction of his shop.
+; qstr_Heeding_the_call_of_|Heeding the call of the open road, you travelled from village to village buying and selling what you could. It was not a rich existence, but you became a master at haggling even the most miserly elders into giving you a good price. Soon, you knew, you would be well-placed to start your own trading kingdom...
+; qstr_You_pursued_a_career|You pursued a career as a smith, crafting items of function and beauty out of simple metal. As time wore on you became a master of your trade, and fine work started to fetch fine prices. With food in your belly and logs on your fire, you could take pride in your work and your growing reputation.
+; qstr_Dissatisfied_with_co|Dissatisfied with common men's desperate scrabble for coin, you took to Lord Whents own forests and decided to help yourself to its bounty, laws be damned. You hunted stags, boars and aurochs and sold the precious meat under the table. You cut down trees right under the guardsmens noses and turned them into firewood that warmed many freezing homes during winter. All for a few silvers, of course.
+; qstr_You_packed_your_few_|You packed your few belongings and went out into the world to spread the the message of the Seven-Pointed Star. You preached to anyone who would listen, and impressed many with the passion of your sermons. Though you had taken a vow to remain in poverty through your itinerant years, you never lacked for food, drink or shelter; the hospitality of the peasantry was always generous to a rising {s13} of the Seven.
+; qstr_Dissatisfied_with_a_|Dissatisfied with a simple life of laboring for coin, you took to your local streets intent on helping yourself to what you needed in order to survive.  You shun the standard laws of man and have chosen to live by whatever rules allow you to avoid the headsman's block.
+; qstr_You_found_work_as_a_|You found work as a day laborer, breaking your back in the fields of a local farmer. Though hard work, you where rewarded with food and a place to sleep, and each day you put on more muscle as you hauled straw and rocks.
+; qstr_You_became_part_of_a|You became part of a band of outlaws and grew adept at the art of ambush. You learned how to wield, with some facility, whatever weapon your prey bequeathed to you. When times were good, you caroused and feasted like a king. When pickings were slim, you lived off the land or perfomed quick raids on small villages. You prided yourself on your adaptability and capacity for violence.
+; qstr_You_found_work_at_Lo|You found work at Lord Whents court, taking care of the great destriers of the lords, knights and ladies, shooing the plowhorses of the wealthy farmers and training the coursers stabled in the great stable.
+; qstr_He_served_Old_Lord_Whe|He served Old Lord Whent, as a sworn sword, never improving his own or his familys lot in life.
+; qstr_The_son_of_a_landless|The son of a landless knight himself, your father served a minor lord, spending his nights getting drunk and whoring.
+; qstr_Return_to_the_tavern|Return to the tavern and look for Gueren.
+; qstr_Travel_to_Castle_Bla|Travel to Castle Black.
+; qstr_Orphan_Maker_is_the_|Orphan-Maker is the ancestral valyrian steel sword of House Roxton.^Bold Jon Roxton used it to kill one of the Betrayers, Hard Hugh Hammer.
+; qstr_Magister_Illyrio_task|Magister Illyrio tasked you with seeking out his acquintance in Meereen. Seek out Bayle Neres in Volantis to board a ship heading for Slaver's Bay, then talk to Belandra Kheranes in Meereen.
+; qstr_You_ve_lost_5_streng|You've lost 5 strength.
+; qstr_But_who_did_this?!|But who did this?!
+; qstr_The_young_bard_prefe|The young bard preferred to flee rather than duel with you!
+; qstr_You_roasted_the_onio|You roasted the onions over an open fire, they were very tasty.
+; qstr_Your_stomach_grumble|Your stomach grumbles.
+; qstr_You_roasted_the_turn|You roasted the turnips over an open fire, they were very tasty.
+; qstr_You_roasted_the_radd|You roasted the raddishes over an open fire, they were very tasty.
+; qstr_You_managed_to_catch|You managed to catch a fat fish, and smoked it over an open fire.
+; qstr_The_fish_got_away!|The fish got away!
+; qstr_You_re_soaked_and_sh|You're soaked and shivering, and all you managed to do was scrabe your knuckles on a rock. It'll be a long while before you're dry again.
+; qstr_The_line_broke!.|The line broke!.
+; qstr_Using_your_mighty_ha|Using your mighty hands, you managed to catch five tasty fish!
+; qstr_All_you_got_was_a_ro|All you got was a rock!
+; qstr_The_farmers_family_w|The farmers family was paid.
+; qstr_It_is_common_knowledge|It is common knowledge that the crane is a symbol of the Warrior. Your men are impressed by your worldy knowledge, and grateful that the Gods are with them.
+; qstr_The_mushrooms_were_reall|The mushrooms were really tasty. But now you have diarrhea and you feel awful.
+; qstr_The_child_s_eyes_foll|The child's eyes follow you sadly.
+; qstr_The_people_of_Volanti|The people of Volantis hear of your piousness.
+; qstr_Blood_and_death_everyw|Blood and death everywhere. The priests do not resist and you take possession of their gold.
+; qstr_The_brothers_bless_yo|The brothers bless you, and you continue on your way.
+; qstr_The_septon_bless_you_|The septon bless you, and you continue on your way .
+; qstr_The_sheep_were_devou|The sheep were devoured on the spot.
+; qstr_With_the_blood_of_the|With the blood of the mummers covering your weapon, you welcome the easy victory.
+; qstr_Your_soldiers_get_a_kic|Your soldiers get a kick out of harassing the helpless mummers.
+; qstr_The_widow_is_gratefu|The widow is grateful.
+; qstr_It_was_a_magnificent|It was a magnificent funeral.
+; qstr_You_fried_the_eggs_o|You fried the eggs on a rock, they were very tasty!
+; qstr_When_you_cracked_the|When you cracked them open, they were filled with worms!
+; qstr_When_you_cracked_them|When you cracked them open, you realised they weren't geese eggs. They were snake eggs!
+; qstr_A_wise_decision!|A wise decision!
+; qstr_A_stupid_decision!|A stupid decision!
+; qstr_When_you_crached_ope|When you crached open the eggs, they turned out to be very old. A rotten smell follows you for hours.
+; qstr_The_apples_were_very|The apples were very tasty!
+; qstr_The_berries_were_ver|The berries were very tasty!
+; qstr_The_berries_were_very|The berries were very tasty! But you feel weak, and there's blood in your urine!
+; qstr_You_were_so_focused_|You were so focused on the berries, you tripped over a rock and hurt your hand!
+; qstr_The_berries_tasted_h|The berries tasted horribly! And now you have stomach cramps!
+; qstr_The_nest_was_empty!|The nest was empty!
+; qstr_Your_retinue_thoroug|Your retinue thoroughly enjoyed the feast.
+; qstr_Your_men_sing_songs_|Your men sing songs of your greatness!
+; qstr_The_preparations_are|The preparations are called off.
+; qstr_The_cook_served_gril|The cook served grilled snake, with a fiery mustard sauce and spun sugar bowls, filled with custard. It was delicious!
+; qstr_Your_courtier_hands_|Your courtier hands you your dinner. It consists of a loaf of bread, and half an apple.
+; qstr_The_cook_served_roas|The cook served roasted goat on a bed of sliced onions, washed down with pale green Volantene liquor. It was delicious!
+; qstr_Your_courtier_hands_y|Your courtier hands you your dinner. It consists of half an onion.
+; qstr_The_cook_served_hone|The cook served honeyed lamb, fragrant with crushed mint, with a side of small green figs and honeyed locusts. It was delicious!
+; qstr_Your_courtier_hands_yo|Your courtier hands you your dinner. It consists of a pickled turnip.
+; qstr_You_managed_to_pierc|You managed to pierce the stags heart!
+; qstr_You_missed_and_the_s|You missed, and the stag got away!
+; qstr_You_missed!|You missed!
+; qstr_You_missed_and_the_b|You missed, and the bear mauled your leg!
+; qstr_You_managed_to_pierce|You managed to pierce the eye of the bear!
+; qstr_You_missed_and_the_bo|You missed, and the boar tried to maul you, but you got away!
+; qstr_You_managed_to_strik|You managed to strike the great beast between the eyes!
+; qstr_You_ve_gained_1_agil|You've gained 1 agility.
+; qstr_You_feel_a_serene_ca|You feel a serene calm come over you.
+; qstr_The_local_peasantry_|The local peasantry are duly impressed.
+; qstr_You_can_t_help_but_f|You can't help but feel a certain dread - The Stranger is the aspect of death.
+; qstr_The_people_of_King_s|The people of King's Landing are duly impressed.
+; qstr_The_peasants_are_dul|The peasants are duly impressed.
+; qstr_Your_eyes_start_to_h|Your eyes start to hurt.
+; qstr_You_couldn_t_resist_|You couldn't resist the temptation, and the screams of the young girl echoes in the night.
+; qstr_You_re_met_with_a_ro|You're met with a roaring cheer!
+; qstr_This_sept_is_cold!_A|This sept is cold! And my knees hurt!
+; qstr_The_crew_is_horrifie|The crew is horrified! A kraken!
+; qstr_The_shape_soon_disap|The shape soon disappears.
+; qstr_One_of_the_fish_hit_|One of the fish hit you in the head!
+; qstr_You_managed_to_dodge|You managed to dodge the fish!
+; qstr_It_s_hard_work_but_r|It's hard work, but rewarding!
+; qstr_You_slipped_on_the_p|You slipped on the planks, and hurt your knees!
+; qstr_Your_crew_is_too_dru|Your crew is too drunk to care about some cat.
+; qstr_The_crew_is_close_to|The crew is close to mutiny!
+; qstr_The_crew_is_still_mu|The crew is still muttering.
+; qstr_The_crew_look_reliev|The crew look relieved.
+; qstr_Everyone_knows_the_s|Everyone knows the shark is a harbinger of death!
+; qstr_The_scorpion_was_cru|The scorpion was crushed!
+; qstr_The_scorpion_ignores|The scorpion ignores you, and continues it's journey across a rock.
+; qstr_The_scorpion_dodged_|The scorpion dodged your mighty boot! But then it crawled into a hole.
+; qstr_The_scorpion_stung_y|The scorpion stung you! But it appears to be a harmless kind of scorpion.
+; qstr_The_snake_was_crushe|The snake was crushed beneath your boot.
+; qstr_The_snake_didn_t_bit|The snake didn't bite you, but you showed yourself to be a coward.
+; qstr_The_snake_evaded_you|The snake evaded your boot and bit you! You feel weak.
+; qstr_The_snake_evaded_your|The snake evaded your boot and bit you! But it appears to be a harmless kind of snake.
+; qstr_The_snake_evaded_your_|The snake evaded your boot and bit you! You feel a bit weak.
+; qstr_You_ve_shown_yoursel|You've shown yourself to be a coward!
+; qstr_You_showed_yourself_|You showed yourself to be a man without fear!
+; qstr_But_what_does_it_mea|But what does it mean!
+; qstr_Victory_will_be_mine|Victory will be mine!
+; qstr_Delicious_indeed!|Delicious indeed!
+; qstr_Delicious!|Delicious!
+; qstr_Your_stomach_grumbles|Your stomach grumbles!
+; qstr_Refreshing!|Refreshing!
+; qstr_You_re_so_thirsty!|You're so thirsty!
+; qstr_It_was_empty!|It was empty!
+; qstr_Time_to_look_for_ano|Time to look for another rock.
+; qstr_You_re_filled_with_a|You're filled with ambition!
+; qstr_A_depressing_song_in|A depressing song indeed.
+; qstr_Praise_the_watchers_|Praise the watchers on the Wall!
+; qstr_A_joyous_song!|A joyous song!
+; qstr_A_song_for_children!|A song for children!
+; qstr_I_d_almost_forgotten|I'd almost forgotten what it sounded like...
+; qstr_I_wonder_what_happen|I wonder what happened to the Night's King...
+; qstr_They_both_fled_the_v|They both fled the village for the woods, and have been declared outlaws.
+; qstr_The_fanatic_shouts_a|The fanatic shouts at you, cursing your heathen mind!
+; qstr_Your_courtiers_are_h|Your courtiers are horrified at your angered look.
+; qstr_Your_courtiers_are_i|Your courtiers are in awe of your patience.
+; qstr_Your_courtiers_are_ho|Your courtiers are horrified at your angered look!
+; qstr_Your_courtiers_are_in|Your courtiers are in awe of your patience!
+; qstr_The_old_man_starts_t|The old man starts to furiously pleasure himself. What a fool you are.
+; qstr_The_old_woman_starts|The old woman starts to furiously pleasure herself. What a fool you are.
+; qstr_The_man_has_tears_in|The man has tears in his eyes.
+; qstr_Foolish_child!|Foolish child!
+; qstr_A_faint__plop__was_h|A faint 'plop' was heard when the child hit the ground...
+; qstr_Foolish_children!|Foolish children!
+; qstr_That_ll_teach_them_t|That'll teach them the proper way of the world!
+; qstr_Your_courtiers_have_|Your courtiers have a worried look in their eyes.
+; qstr_Your_courtiers_can_s|Your courtiers can sleep soundly again.
+; qstr_Your_courtiers_are_hor|Your courtiers are horrified. The peasants will starve!
+; qstr_Your_courtiers_are_horr|Your courtiers are horrified. People will think you're mad!
+; qstr_Your_courtiers_roll_|Your courtiers roll their eyes. It will have no effect!
+; qstr_Your_courtiers_are_horri|Your courtiers are horrified, but the peasants will love you.
+; qstr_Both_nobles_and_peas|Both nobles and peasants rejoice at the news!
+; qstr_Your_courtiers_are_horrif|Your courtiers are horrified. This is a sign of madness!
+; qstr_The_peasants_are_out|The peasants are outraged!
+; qstr_Your_courtiers_are_horrifi|Your courtiers are horrified. The nobles are outraged!
+; qstr_Peasant_and_noble_al|Peasant and noble alike is outraged!
+; qstr_Your_courtiers_are_ind|Your courtiers are indifferent, but the townspeople are outraged!
+; qstr_The_nobles_are_outra|The nobles are outraged!
+; qstr_The_peasants_rejoice|The peasants rejoice!
+; qstr_The_nobles_rejoice!|The nobles rejoice!
+; qstr_Noble_and_peasant_al|Noble and peasant alike rejoice!
+; qstr_No_one_seems_to_care|No one seems to care.
+; qstr_Lord_Nestor_Royce_ac|Lord Nestor Royce, acting on behalf of his liege, Robert Arryn, has tasked you with exterminating the mountain clans. Seek out Ser Albar Royce, he should be at The Bloody Gate.
+; qstr_Return_to_Lord_Nesto|Return to Lord Nestor Royce and claim your reward.
+; qstr_Item_added_to_player|Item added to player inventory.
+; qstr_{s9}_asked_you_to_fi|{s9} asked you to find {reg1} {s14} and bring them to him.
+; qstr_{s9}_asked_you_to_fin|{s9} asked you to find {reg1} casks of wine and bring them to him.
+; qstr_{s9}_asked_you_to_de|{s9} asked you to deal with some Usurpers.
+; qstr_{s9}_of_{s4}_asked_y|{s9} of {s4} asked you to hunt down the elite troops which challenge his rule.
+; qstr_{s9}_asked_you_to_take_|{s9} asked you to take a Love Letter to {s13}.
+; qstr_Merchant_{s9}_of_{s4}|Merchant {s9} of {s4} asked you to hunt down the cheese rustlers in the vicinity of the town.
+; qstr_{s9}_asked_you_to_dea|{s9} asked you to deal with the barflies at {s3}.
+; qstr_Oh_and_these_fellows|Oh, and these fellows fight dirty. Take this.
+; qstr_The_Village_Elder_of|The Village Elder of {s4} asked you to hunt down the smugglers fleeing his village. He said that all three groups are heading towards {s3}.
+; qstr_Escort_the_scholars_|Escort the scholars to the town of {s8}.
+; qstr_Elder_of_{s4}_asked_|Elder of {s4} asked you to pay the ransom of a villager kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the woman back to {s4}.
+; qstr_The_Village_Elder_of_|The Village Elder of {s9} asked you to find a girl named {s4}. She is currently believed to be at {s3}.
+; qstr_The_elder_of_the_villag|The elder of the village of {s3} asked you to bring them {reg5} bales of lumber.
+; qstr_{s1}_is_holding_a_we|{s1} is holding a wedding.
+qstr_Cannot_leave_now.|No se puede abandonar ahora.
+; qstr_^A_wedding_is_taking|^A wedding is taking place here. People are singing and laughing... until they catch sight of you. The wedding party confronts you angrily.
+; qstr_Try_as_you_might_you_c|Try as you might, you could not defeat the wedding party. They go back to their feast, laughing and joking, and leave you to lick your wounds.
+; qstr_^A_wedding_is_taking_|^A wedding is taking place here. People are singing and laughing... until they catch sight of you. The mood of the crowd quickly turns sour, and the men charge at you, wielding clubs and daggers.
+; qstr_Merchant_{s9}_of_{s4}_|Merchant {s9} of {s4} asked you to hunt down the grain thieves in the vicinity of the town.
+; qstr_Escort_the_septons_t|Escort the septons to the town of {s8}.
+; qstr_The_Village_Elder_of_{|The Village Elder of {s4} asked you to pay the ransom of a villager kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the woman back to {s4}.
+; qstr_You_ve_received_a_gi|You've received a gift.
+; qstr_Defeated___continue.|Defeated - continue.
+; qstr_Head_to_Duskendale_t|Head to Duskendale to search for the horn.
+; qstr_Perhaps_someone_in_M|Perhaps someone in Myr will reward you for dispatching a notorious pirate.
+; qstr_Return_to_Tyrosh|Return to Tyrosh
+; qstr_Return_to_Ser_Rodrik|Return to Ser Rodrik Cassel
+; qstr_Return_to_Gerold_in_|Return to Gerold in White Harbor.
+; qstr_The_old_man_has_rais|The old man has raised revenants from the ground! Defeat him!
+; qstr_Defeat_the_clansmen.|Defeat the clansmen.
+; qstr_Defeat_Ramsay_Snow.|Defeat Ramsay Snow.
+; qstr_Vargo_Hoat_claimed_to|Vargo Hoat claimed to have given the horn to a man heading for Duskendale, perhaps you can find it there. But first you should defeat the Brave Companions.
+; qstr_Defeat_Bloodbeard.|Defeat Bloodbeard.
+; qstr_Return_to_the_Tatter|Return to the Tattered Prince and claim your reward.
+; qstr_Return_to_Ser_Rodrik_|Return to Ser Rodrik Cassel and claim your reward.
+; qstr_Magister_Illyrio_taske|Magister Illyrio tasked you with seeking out his acquintance in Meereen. Seek out Bayle Neres in Volantis to board a ship heading towards Slaver's Bay, then talk to Belandra Kheranes in Meereen.
+; qstr_Rodgar_was_clearly_m|Rodgar was clearly mad, but it was clear he no longer had the items. He raved about some huge castle, burned and filled with bats. Maybe such a castle lies to the south.
+; qstr_The_people_of_Weepin|The people of Weeping Tower are duly impressed.
+; qstr_This_sept_is_cold!_An|This sept is cold! And the fires have been snuffed out!
+; qstr_The_warhorse_was_a_m|The warhorse was a magnificent beast though!
+; qstr_The_hammer_looked_po|The hammer looked powerful though.
+; qstr_Your_men_are_happy_w|Your men are happy with your decision.
+; qstr_Your_men_are_ecstati|Your men are ecstatic. This winter will be bearable.
+; qstr_Your_men_grumble._Yo|Your men grumble. You'll all go hungry come winter.
+; qstr_You_had_a_great_time|You had a great time.
+; qstr_The_people_of_Gullto|The people of Gulltown are duly impressed.
+; qstr_The_people_of_Maiden|The people of Maidenpool are duly impressed.
+; qstr_Go_north_and_visit_t|Go north, and visit the Nightfort.
+; qstr_You_eat_the_strange_|You eat the strange paste. At first, it tastes horrible, but the last bite is delicious.
+; qstr_Experience_the_visio|Experience the visions, then return to the stranger.
+; qstr_Talk_to_Princess_Ari|Talk to Princess Arianne Martell, who should be at court, in Sunspear.
+; qstr_You_hand_the_letter_to|You hand the letter to Princess Arianne, who proceeds to read it.
+; qstr_A_very_valuable_spice_f|A very valuable spice from the Shadow Lands.^Merchants in Westeros and the Free Cities would pay well for it.
+; qstr_A_very_valuable_spice_fr|A very valuable spice from the city of Qarth.^Merchants in Westeros and the Free Cities would pay well for it.
+; qstr_A_very_valuable_spice_fro|A very valuable spice from the port of Zamettar.^Merchants in Westeros and the Free Cities would pay well for it.
+; qstr_A_very_valuable_spice_from|A very valuable spice from the island of Great Moraq.^Merchants in Westeros and the Free Cities would pay well for it.
+; qstr_The_citizens_are_dul|The citizens are duly impressed.
+; qstr_You_can_t_help_but_fe|You can't help but feel a certain dread - which god is the right one?
+; qstr_God_of_Death_turn_aw|God of Death, turn away your gaze!
+; qstr_The_scorpion_stung_yo|The scorpion stung you! But it appears to be a harmless species of scorpion...
+; qstr_The_local_smallfolk_|The local smallfolk are duly impressed.
+; qstr_The_people_of_Sunspe|The people of Sunspear are duly impressed.
+; qstr_This_sept_is_too_hot|This sept is too hot! And my knees hurt!
+; qstr_The_local_smallfolk_a|The local smallfolk are duly impressed, but those knights and lords who worship R'hllor less so.
+; qstr_The_men_are_ecstatic|The men are ecstatic. Nothing is more joyous than sailing across the sea!
+; qstr_Your_men_are_ecstatic|Your men are ecstatic. Surely the Drowned God will appreciate the gesture.
+; qstr_Your_men_grumble._You|Your men grumble. You ought to have made a gesture of faith towards the Drowned God.
+; qstr_The_men_appreciate_t|The men appreciate the gesture.
+; qstr_The_men_are_mutinous|The men are mutinous! You've ignored a clear sign from the Drowned God!
+; qstr_The_storms_have_stil|The storms have stilled!
+; qstr_The_men_are_mutinous!|The men are mutinous! How can you ignore the gods?!
+; qstr_The_man_lost_a_finge|The man lost a finger. What a poor reward!
+; qstr_The_man_lost_a_finger|The man lost a finger, but he has gained a reputation as a fearless man!
+; qstr_The_men_are_mutinous!_|The men are mutinous! How can you ignore such a selfish act!
+; qstr_The_stranger_hands_y|The stranger hands you a bowl of weirwood paste. The past is white, but with red streaks, that look oddly blood like. The first spoonful tastes horrible, but the last bite is delicious.
+; qstr_You_ve_been_mortally|You've been mortally wounded, but as you fall to the ground, you feel time shift again...
+; qstr_This_kitchen_is_horr|This kitchen is horrible. Rats are everywhere.
+; qstr_You_ve_been_mortally_|You've been mortally wounded, but as the darkness takes you, you feel time slipping...
+; qstr_The_madman_lies_dead|The madman lies dead at your feet, but as the last drop of blood hits the floor, you feel time slipping...
+; qstr_You_ve_been_mortally_w|You've been mortally wounded, but as you fall to the floor, you feel time shifting...
+; qstr_The_madman_drops_dea|The madman drops dead, and as the last drops of blood hit the floor, you feel time starting to shift...
+; qstr_The_stranger_hands_yo|The stranger hands you a bowl of weirwood paste. The paste is white, but with red streaks, that look oddly blood like. The first spoonful tastes horrible, but the last bite is delicious.
+; qstr_You_can_hear_screams|You can hear screams, seemingly coming from everywhere and nowhere at the same time...
+; qstr_If_you_do_not_return_|If you do not return to your commander in time, you will be declared a deserter. If he has been taken prisoner, perhaps now would be the time to prove your worth and rescue him.
+; qstr_Lysa_Tully_acting_on_|Lysa Tully, acting on behalf of her son, Robert Arryn, has tasked you with exterminating the mountain clans. Seek out Ser Albar Royce, he should be at The Bloody Gate.
+; qstr_A_clay_pot_filled_with_|A clay pot filled with wildfire, a volatile fiery substance made^by the pyromancers of King's Landing.^The substance is highly unstable, and might easily cause damage^to friends and foes alike.

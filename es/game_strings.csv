@@ -1,4 +1,4 @@
-﻿str_no_string|¡NO STRING!
+str_no_string|¡NO STRING!
 str_empty_string| 
 str_yes|Sí.
 str_no|No.
@@ -13,6 +13,8 @@ str_s7_raiders|{s7} asaltadores
 str_bandits_eliminated_by_another|Otro grupo ha acabado con los bandidos problemáticos.
 str_msg_battle_won|¡Victoria! Presionad Tab para salir...
 str_tutorial_map1|Estáis viendo el mapa del mundo. Haced clic izquierdo en el mapa para mover vuestro grupo al sitio indicado, entrar en la ciudad elegida o perseguir al grupo seleccionado. El tiempo en el mapa del mundo no correrá si vuestro grupo está quieto, esperando o descansando. Para esperar en cualquier sitio, simplemente presionad y mantened presionada la tecla espaciadora.
+str_cheese_rustlers_eliminated_by_another|Otro grupo de guerra ha acabado con los ladrones.
+str_elites_eliminated_by_another|Otro grupo de guerra ha acabado con los campesinos.
 str_randomize|Al azar
 str_charge|Cargar
 str_color|Color
@@ -325,6 +327,28 @@ str_surname_39|{s50} el Septon
 str_surname_40|{s50} el Audaz
 str_surname_41|{s50} el Maestro
 str_surnames_end|fin de apellidos
+str_girl_name_1|Alia
+str_girl_name_2|Alys
+str_girl_name_3|Cedra
+str_girl_name_4|Dorna
+str_girl_name_5|Doreah
+str_girl_name_6|Jeyne
+str_girl_name_7|Malora
+str_girl_name_8|Marei
+str_girl_name_9|Myria
+str_girl_name_10|Ryella
+str_girl_name_11|Serenei
+str_girl_name_12|Tansy
+str_girl_name_13|Yna
+str_girl_name_14|Umma
+str_girl_name_15|Tanselle
+str_girl_surname_1|{s50} la Justa
+str_girl_surname_2|{s50} la Fea
+str_girl_surname_3|{s50} la Ancha
+str_girl_surname_4|{s50} la Alta
+str_girl_surname_5|{s50} la Corta
+str_girl_surname_6|{s50} la Flaca
+str_girl_surnames_end|--
 str_number_of_troops_killed_reg1|Número de tropas muertas: {reg1}
 str_number_of_troops_wounded_reg1|Número de tropas heridas: {reg1}
 str_number_of_own_troops_killed_reg1|Número de tropas aliadas muertas: {reg1}
@@ -2203,7 +2227,7 @@ str_fatherinlaw|suegro
 str_sisterinlaw|cuñada
 str_brotherinlaw|cuñado
 str_print_party_members_entered|imprimir miembros del grupo ingresados
-str_num_companion_stacks_=_reg10|num stacks compañeros = {reg10}
+str_num_companion_stacks_=_reg10|"num stacks compañeros = {reg10}
 str_someone|alguien
 str_i_take_what_work_i_can_sirmadame_i_carry_water_or_help_the_merchants_with_their_loads_or_help_build_things_if_theres_things_to_be_built|Trabajaré de lo que sea, {s0}. Llevar agua, o ayudar a los mercaderes con sus cargamentos, o ayudar a construir cosas, si hay cosas que construir.
 str_im_not_doing_anything_sirmadame_theres_no_work_to_be_had_around_here_these_days|No estoy haciendo nada, {s0}. Últimamente no hay trabajo por aquí.
@@ -3951,7 +3975,7 @@ str_0x1b| ]
 str_0x33| < 
 str_0x34| > 
 str_0x35| ? 
-str_0x2b|\
+str_0x2b|\\
 str_0x0d| = 
 str_0x0c| -- 
 str_0x27|Semicolon

@@ -1,0 +1,137 @@
+pt_none|nessuno
+pt_rescued_prisoners|Prigionieri salvati
+pt_enemy|Nemico
+pt_hero_party|Truppe del Comandante
+pt_village_defenders|Difensori del villaggio
+pt_village_defenders_r|Difensori del villaggio
+pt_village_defenders_e|Difensori del villaggio
+pt_cattle_herd|Mandria di bestiame
+; pt_nemesis|Hired Blades
+; pt_nemesis2|Hired Blades
+pt_looters|Razziatori
+pt_manhunters|Cacciatori di taglie
+pt_forest_bandits|Banditi della foresta
+; pt_taiga_bandits|Wildlings
+; pt_steppe_bandits|Dothraki Raiders
+; pt_sea_raiders|Lyseni Pirates
+pt_mountain_bandits|Banditi di montagna
+; pt_desert_bandits|Outlaws
+pt_looters_r|Razziatori
+pt_manhunters_r|Cacciatori di taglie
+pt_forest_bandits_r|Banditi della foresta
+; pt_taiga_bandits_r|Tundra Bandits
+; pt_steppe_bandits_r|Steppe Bandits
+; pt_sea_raiders_r|Sea Raiders
+pt_mountain_bandits_r|Banditi di montagna
+; pt_desert_bandits_r|Desert Bandits
+pt_looters_e|Razziatori
+; pt_manhunters_e|Honorable Men
+pt_forest_bandits_e|Banditi della foresta
+; pt_taiga_bandits_e|Wildlings
+; pt_steppe_bandits_e|Dothraki Raiders
+; pt_sea_raiders_e|Pirates
+pt_mountain_bandits_e|Banditi di montagna
+; pt_desert_bandits_e|Outlaws
+pt_deserters|Disertori
+; pt_slaver|Slavers
+; pt_escaped_slaves|Escaped Slaves
+; pt_clansmen|Clansmen
+pt_raiders|Razziatori
+; pt_outlaws|Outlaws
+; pt_rhoyne_outlaws|Rhoyne Outlaws
+; pt_crannogmen|Crannogmen
+; pt_elite_raiders|Robber Knights
+; pt_elite_wildlings|Wildlings
+; pt_elite_dothraki|Dothraki Raiders
+; pt_beowulf_warband|The Brave Companions
+; pt_wildfire_wights|Wights
+; pt_new_template|The Bastard of Bolton
+; pt_tattered_prince|The Company of the Cat
+; pt_arrians|The Outlaw of the Crossing
+; pt_bloodstone_pirates|The Prince of Bloodstone
+; pt_clansman_quest|The Sons of the Mist
+; pt_cheese_rustlers|Grain Thieves
+; pt_cheese_paladins|Wine Thieves
+; pt_scholars|Scholars
+; pt_bandits_awaiting_ransom2|Bandits Awaiting Ransom
+; pt_smugglers|Smugglers
+; pt_kidnapped_wife|Miller's Wife
+pt_merchant_caravan|Carovana di mercanti
+pt_troublesome_bandits|Briganti molesti
+pt_bandits_awaiting_ransom|Banditi in attesa del riscatto
+pt_merchant_caravan_r|Carovana di mercanti
+; pt_troublesome_bandits_r|Troublesome Bandits
+; pt_bandits_awaiting_ransom_r|Bandits Awaiting Ransom
+pt_merchant_caravan_e|Carovana di mercanti
+pt_troublesome_bandits_e|Briganti molesti
+pt_bandits_awaiting_ransom_e|Banditi in attesa del riscatto
+pt_kidnapped_girl|Fanciulla Rapita
+pt_village_farmers|Contadini di villaggio
+; pt_spy_partners|Unremarkable Travellers
+pt_runaway_serfs|Servi in fuga
+pt_village_farmers_r|Contadini di villaggio
+; pt_spy_partners_r|Unremarkable Travellers
+; pt_runaway_serfs_r|Runaway Serfs
+pt_village_farmers_e|Contadini di villaggio
+; pt_spy_partners_e|Unremarkable Travellers
+pt_runaway_serfs_e|Servi in fuga
+pt_spy|Comune Cittadino
+pt_sacrificed_messenger|Messaggero sacrificato
+pt_forager_party|Truppe di supporto
+pt_scout_party|Esploratori
+pt_patrol_party|Pattuglia
+pt_messenger_party|Messaggeri
+pt_raider_party|Razziatori
+pt_raider_captives|Razziatori prigionieri
+pt_kingdom_caravan_party|Carovane
+pt_raider_captives_r|Razziatori prigionieri
+pt_kingdom_caravan_party_r|Carovane
+pt_raider_captives_e|Razziatori prigionieri
+pt_kingdom_caravan_party_e|Carovane
+pt_prisoner_train_party|Prigionieri addestrati
+; pt_sea_traders|Merchant Ship
+; pt_sea_traders_r|Merchant Ship
+; pt_sea_traders_e|Merchant Ship
+pt_ship|Nave
+pt_default_prisoners|Prigionieri
+pt_default_prisoners_r|Prigionieri
+pt_default_prisoners_e|Prigionieri
+pt_routed_warriors|Nemici in fuga
+pt_center_reinforcements|Rinforzi
+pt_center_reinforcements_r|Rinforzi
+pt_center_reinforcements_e|Rinforzi
+pt_kingdom_hero_party|Contingente di guerra
+pt_steppe_bandit_lair|Nascondiglio dei banditi delle steppe
+pt_taiga_bandit_lair|Tana dei banditi della tundra
+pt_desert_bandit_lair|Covo dei banditi del deserto
+pt_forest_bandit_lair|Campo dei banditi della foresta
+pt_mountain_bandit_lair|Nascondiglio dei banditi di montagna
+pt_sea_raider_lair|Approdo dei razziatori della costa
+pt_looter_lair|Nascondiglio dei rapitori
+pt_leaded_looters|Banda di razziatori
+pt_steppe_bandit_lair_r|Nascondiglio dei banditi delle steppe
+pt_taiga_bandit_lair_r|Tana dei banditi della tundra
+pt_desert_bandit_lair_r|Covo dei banditi del deserto
+pt_forest_bandit_lair_r|Campo dei banditi della foresta
+pt_mountain_bandit_lair_r|Nascondiglio dei banditi di montagna
+pt_sea_raider_lair_r|Approdo dei razziatori della costa
+pt_looter_lair_r|Nascondiglio dei rapitori
+pt_leaded_looters_r|Banda di razziatori
+pt_steppe_bandit_lair_e|Nascondiglio dei banditi delle steppe
+pt_taiga_bandit_lair_e|Tana dei banditi della tundra
+pt_desert_bandit_lair_e|Covo dei banditi del deserto
+pt_forest_bandit_lair_e|Campo dei banditi della foresta
+pt_mountain_bandit_lair_e|Nascondiglio dei banditi di montagna
+pt_sea_raider_lair_e|Approdo dei razziatori della costa
+pt_looter_lair_e|Nascondiglio dei rapitori
+pt_leaded_looters_e|Banda di razziatori
+; pt_dplmc_spouse|Your spouse
+; pt_dplmc_gift_caravan|Your Caravan
+; pt_dplmc_gift_caravan_r|Your Caravan
+; pt_dplmc_gift_caravan_e|Your Caravan
+; pt_dplmc_recruiter|Recruiter
+pt_entrench|Trinceramento
+pt_reinforcements|Rinforzi
+; pt_sea_raiders_ships|Lyseni Pirates
+; pt_sea_raiders_ships_r|Lyseni Pirates
+; pt_sea_raiders_ships_e|Lyseni Pirates

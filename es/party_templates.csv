@@ -1,4 +1,4 @@
-﻿pt_none|ninguno
+pt_none|ninguno
 pt_rescued_prisoners|Prisioneros rescatados
 pt_enemy|Enemigo
 pt_hero_party|Tropas del Héroe
@@ -6,6 +6,8 @@ pt_village_defenders|Defensores de la aldea
 pt_village_defenders_r|Defensores de la aldea
 pt_village_defenders_e|Defensores de la aldea
 pt_cattle_herd|Rebaño de ganado
+pt_nemesis|Espada juramentada
+pt_nemesis2|Espada Juramentada
 pt_looters|Saqueadores
 pt_manhunters|Cazahombres
 pt_forest_bandits|Bandidos del bosque
@@ -48,6 +50,12 @@ pt_tattered_prince|La Compañía del Gato
 pt_arrians|Los Forajidos de 'El Cruce'
 pt_bloodstone_pirates|El Príncipe de Piedra Sangrienta
 pt_clansman_quest|Los Hijos de la Niebla
+pt_cheese_rustlers|Ladrones de grano
+pt_cheese_paladins|Ladrones de vino
+pt_scholars|Eruditos
+pt_bandits_awaiting_ransom2|Bandidos secuestradores
+pt_smugglers|Contrabandistas
+pt_kidnapped_wife|Esposa de Miller
 pt_merchant_caravan|Caravana mercantil
 pt_troublesome_bandits|Forajidos problemáticos
 pt_bandits_awaiting_ransom|Forajidos secuestradores
