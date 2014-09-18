@@ -1,0 +1,84 @@
+skl_trade|Commerce
+skl_trade_desc|Chaque niveau reduit les prix de 5%%. (Compétences communes)
+skl_leadership|Commandemant
+skl_leadership_desc|Chaque niveau augmente le nombre de troupe maximum de 5, augmente votre moral et reduit les salaires de 5%%. (Compétences dirigeant)
+skl_prisoner_management|Gestion des prisonniers
+skl_prisoner_management_desc|Chaque niveau augment le nombre maximum de prisonnier %d. (Compétences dirigeant)
+skl_reserved_1|Compétence réservé 1
+skl_reserved_1_desc|C'est une compétence réservée.
+skl_reserved_2|Compétence réservé 2
+skl_reserved_2_desc|C'est une compétence réservée.
+skl_reserved_3|Compétence réservé 3
+skl_reserved_3_desc|C'est une compétence réservée.
+skl_reserved_4|Compétence réservé 4
+skl_reserved_4_desc|C'est une compétence réservée.
+skl_persuasion|Persuasion
+skl_persuasion_desc|Cette qualite vous permet de convaincre plus facilement. Il diminue aussi le niveau minimum de relation necessaire pour que les NPCs fasse ce que vous voulez. (Compétences personnelles)
+skl_engineer|Ingenieur
+skl_engineer_desc|Cette qualite vous permet de construire plus efficacement les engins de siege et les batiments. (Compétences communes)
+skl_first_aid|Premiers secours
+skl_first_aid_desc|Les heros regagnent 5%% des points de vie perdu durant la derniere mission par niveau. (Compétences communes)
+skl_surgery|Chirurgie
+skl_surgery_desc|Chaque niveau donne 4%% de chance qu'une blessure mortel soit transforme en blessure temporaire. (Compétences communes)
+skl_wound_treatment|Traitement des blessures
+skl_wound_treatment_desc|La vitesse de recuperation des blesses est augmente de 20%% par niveau. (Compétences communes)
+skl_inventory_management|Gestion de son inventaire
+skl_inventory_management_desc|Augmente la capacite de l'inventaire personnel de +6 par niveau. (Compétences dirigeant)
+skl_spotting|Ligne de vue
+skl_spotting_desc|La ligne de vue augmente de 10%% par niveau. (Compétences communes)
+skl_pathfinding|Marche force
+skl_pathfinding_desc|La vitesse de deplacement augmente de 3%% par niveau. (Compétences communes)
+skl_tactics|Tacticien
+skl_tactics_desc|Tous les 2 niveaux, l'avantage en debut de bataille augmente de 1. (Compétences communes)
+skl_tracking|Pisteur
+skl_tracking_desc|Les traces donnent plus d'information. (Compétences communes)
+skl_trainer|Entraineur
+skl_trainer_desc|Chaque jour, tous les heros avec ce talent donne de l'experience aux autres membres du groupe dont le niveau est inferieur. Experience augmente ainsi: {0,4,10,16,23,30,38,46,55,65,80}. (Compétences personnelles)
+skl_reserved_5|Compétence réservé 5
+skl_reserved_5_desc|C'est une compétence réservée.
+skl_reserved_6|Compétence réservé 6
+skl_reserved_6_desc|C'est une compétence réservée.
+skl_reserved_7|Compétence réservé 7
+skl_reserved_7_desc|C'est une compétence réservée.
+skl_foraging|Fourrageur
+skl_foraging_desc|Permet au groupe de trouver 5 nourritures par niveau (camp, siege, raiding) et augmente le rayon d'action (Compétences personnelles) Max level: 10.
+skl_looting|Pillage
+skl_looting_desc|Cette competence augment le pillage obtenu de 10%% par niveau. (Compétences communes)
+skl_horse_archery|Archer a cheval
+skl_horse_archery_desc|Reduit les penalites de dommages et de precisions pour l'utilisation d'un arc ou de lancer a cheval. (Compétences personnelles)
+skl_riding|Equitation
+skl_riding_desc|Permet de monter des chevaux plus difficiles et augmente la vitesse et la maniabilite de ceux-ci. (Compétences personnelles)
+skl_athletics|Forme physique
+skl_athletics_desc|Augmente votre vitesse de course. (Compétences personnelles)
+skl_shield|Bouclier
+skl_shield_desc|Reduit les dommages aux boucliers de 8%% par niveau et augmente la couverture et la vitesse de ceux-ci. (Compétences personnelles)
+skl_weapon_master|Maitre d'armes
+skl_weapon_master_desc|Rends plus facile le perfectionnement aux armes et augmentes leurs limites. Limites: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Compétences personnelles)
+skl_reserved_9|Compétence réservé 9
+skl_reserved_9_desc|C'est une compétence réservée.
+skl_reserved_10|Compétence réservé 10
+skl_reserved_10_desc|C'est une compétence réservée.
+skl_reserved_11|Compétence réservé 11
+skl_reserved_11_desc|C'est une compétence réservée.
+skl_reserved_12|Compétence réservé 12
+skl_reserved_12_desc|C'est une compétence réservée.
+skl_reserved_13|Compétence réservé 13
+skl_reserved_13_desc|C'est une compétence réservée.
+skl_power_draw|Puissance de bandage
+skl_power_draw_desc|Permet d'utiliser des arcs plus puissant. Chaque niveau (up to four plus power-draw requirement of the bow) augmente les dommages de 14%%. (Compétences personnelles)
+skl_power_throw|Puissance de lancer
+skl_power_throw_desc|Permet d'utiliser des armes de lancer plus puissantes et augmente les dommages de 10%%. (Compétences personnelles)
+skl_power_strike|Puissance d'attaque
+skl_power_strike_desc|Chaque point augmente les dommages des armes de corps a corps de 8%%. (Compétences personnelles)
+skl_ironflesh|Sante de fer
+skl_ironflesh_desc|Chaque niveau ajoute +2 point de vie. (Compétences personnelles)
+skl_reserved_14|Compétence réservé 14
+skl_reserved_14_desc|C'est une compétence réservée.
+skl_reserved_15|Compétence réservé 15
+skl_reserved_15_desc|C'est une compétence réservée.
+skl_reserved_16|Compétence réservé 16
+skl_reserved_16_desc|C'est une compétence réservée.
+skl_reserved_17|Compétence réservé 17
+skl_reserved_17_desc|C'est une compétence réservée.
+skl_reserved_18|Compétence réservél 18
+skl_reserved_18_desc|C'est une compétence réservée.

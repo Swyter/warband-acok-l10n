@@ -1,6 +1,6 @@
-﻿dlga_start:lco_conversation_end|Aquí estáis.
+dlga_start:lco_conversation_end|Aquí tenéis.
 dlga_start:close_window.1|...
-dlga_start:close_window.2|¡Intento hacer algo de música aquí!
+dlga_start:close_window.2|¡Estoy intentando tocar música aquí!
 dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Quiero postergar el nombramiento de un nuevo señor hasta que lo consulte con mis súbditos.
 dlga_award_fief_to_vassal_defer:close_window|Como deseéis, {señor/mi señora}. Podéis decidirlo más adelante.
 dlga_award_fief_to_vassal_2:close_window|Como deseéis, {señor/mi señora}.
@@ -138,13 +138,59 @@ dlga_manhunter_talk_b2:close_window|¡Bah! Se han escondido en el campo como rat
 dlga_looters_1:looters_2|{s4}
 dlga_looters_2:close_window|No os tengo miedo. ¡Luchad conmigo si os atrevéis!
 dlga_looters_2:close_window.1|Lo único que conseguiréis de mí es probar mi acero, basura.
+dlga_start:smugglers_intro_1|Qué tengas buen día.
+dlga_smugglers_intro_1:smugglers_intro_2|He oído que habéis estado causando problemas en {s1}. Dame una buena razón para que no os mate.
+dlga_smugglers_intro_2:smugglers_intro_3|Nos escondimos en {s1}, sí, pero sólo porque necesitábamos un lugar para alojarnos. Y tal vez no nos comportamos de una manera apropiada. Nos llevaban fuera de {s6}  por el reloj de la ciudad, en una de sus purgas periódicas, y sólo estábamos tumbados bajo hasta que las cosas se calmaran de nuevo. Ahora vamos a marcharnos, y nunca vamos a molestar a los habitantes del pueblo de {s1} de nuevo. Si nos dejas ir, te daremos una botella del mejor vino Arbor, que los comerciantes venden para la gente acomodada, y que nunca verás en una tienda o taberna.
+dlga_smugglers_intro_2:smugglers_intro_3a|Nos escondimos en {s1}, sí, pero sólo porque necesitábamos un lugar para alojarnos. Y tal vez no nos comportamos de una manera apropiada. Nos llevaban fuera de {s6}  por el reloj de la ciudad, en una de sus purgas periódicas, y sólo estábamos tumbados bajo hasta que las cosas se calmaran de nuevo. Ahora vamos a marcharnos, y nunca vamos a molestar a los habitantes del pueblo de {s1} de nuevo. Si nos dejas ir, te daremos 250 monedas.
+dlga_smugglers_intro_3:smugglers_go_back|¿¡Crees que aceptaría un soborno!?
+dlga_smugglers_intro_3:smugglers_let_go|Bueno, tal vez tengáis razón. De acuerdo, entonces. Si me preguntan, no os he visto.
+dlga_smugglers_intro_3a:smugglers_go_back|¿¡Crees que aceptaría un soborno!?
+dlga_smugglers_intro_3a:smugglers_let_go_a|Bueno, tal vez tengáis razón. De acuerdo, entonces. Si me preguntan, no os he visto.
+dlga_smugglers_go_back:close_window|Bueno, lo haremos a tu manera.
+dlga_smugglers_let_go:close_window|Que los dioses te bendigan, {playernmame}. No olvidaremos tu ayuda. Aquí tienes el vino. Ten cuidado, ¡es un vino fuerte!
+dlga_smugglers_let_go_a:close_window|Que R'hllor le bendiga, {playername}. No olvidaremos su ayuda. Aquí está el dinero.
+dlga_start:close_window.6|Ha sido un honor serviros, {señor/mi señora}
+dlga_start:cheese_rustlers_intro_1|Bienvenido. ¿Puedo ayudarte en algo? ¿Usted no querrá comprar un poco de grano, por casualidad?
+dlga_cheese_rustlers_intro_1:cheese_rustlers_intro_2|Me mandaron a cazar a unos ladrones de granos. Pareces el tipo.
+dlga_cheese_rustlers_intro_2:cheese_rustlers_intro_3|¿Grano? ¡No necesitamos ningún sucio grano! ¿Nos parecemos a los ladrones que dice usted?
+dlga_cheese_rustlers_intro_3:cheese_rustlers_intro_4|Bueno, ahora que lo mencionas ... ¿es un saco de arpillera  lo que hay en tu mano?
+dlga_cheese_rustlers_intro_4:cheese_rustlers_intro_5|¿Qué diablos quieres decir?
+dlga_cheese_rustlers_intro_5:cheese_rustlers_intro_6|Se parece bastante a los sacos de arpillera utilizados para el transporte de grandes cantidades de grano ...
+dlga_cheese_rustlers_intro_6:close_window|¡Maldita sea! ¡Que no sobreviva! ¡Al ataque!
+dlga_start:cheese_paladins_intro_1|Bienvenido. ¿Puedo ayudarte en algo? ¿Usted no querrá comprar un poco de vino, por casualidad?
+dlga_cheese_paladins_intro_1:cheese_paladins_intro_2|Espera, eres .... ¿eres un mercenario? Me mandaron a cazar a algunos ladrones comunes ...
+dlga_cheese_paladins_intro_2:cheese_paladins_intro_3|¡Ah! Bueno, siento decir que los tiempos son difíciles, con todo estos problemas y conflictos últimamente. Se nos ocurrió que un pequeño grupo de, digamos ... hombres experimentados, atraería mucho menos sospechas que sus matones típicos y vagos. Cuando surgió esta oportunidad, también, negarse habría sido algo realmente disparatado.
+dlga_cheese_paladins_intro_3:close_window|Nada, no tengo asuntos pendientes con vos.
+dlga_cheese_paladins_intro_3:cheese_paladins_intro_4|Yo os daré locura. ¡Preparaos para luchar!
+dlga_cheese_paladins_intro_4:close_window|El placer es todo nuestro. ¡Hombres, a mí!
+dlga_start:bandits_awaiting_ransom2_intro_1|¿Sois vos quien trae el rescate? Rápido, dadnos el dinero ahora.
+dlga_start:bandits_awaiting_ransom2_intro_1.1|¿Habéis vuelto? Rápido, dadnos el dinero ahora.
+dlga_bandits_awaiting_ransom2_intro_1:bandits_awaiting_ransom2_pay|Aquí tenéis el dinero. Ahora liberad a la mujer.
+dlga_bandits_awaiting_ransom2_pay:close_window|Je. Bien, has traído el dinero. Puedes llevarte a la moza ahora, ¡ya nos hemos divertido con ella! Ha sido un placer hacer negocios con usted ...
+dlga_bandits_awaiting_ransom2_intro_1:bandits_awaiting_ransom2_b|¡Ni hablar! Soltad a la mujer primero.
+dlga_bandits_awaiting_ransom2_b:bandits_awaiting_ransom2_b2|¡Seréis idiota! ¡Dejaos de tonterías y dadnos el dinero! 
+dlga_bandits_awaiting_ransom2_b2:bandits_awaiting_ransom2_pay|Esta bien. Aquí está tu dinero. Deja que la mujer se vaya.
+dlga_bandits_awaiting_ransom2_b2:bandits_awaiting_ransom2_no_money|He dejado el dinero en un sitio seguro. Dejad que vaya a buscarlo.
+dlga_bandits_awaiting_ransom2_no_money:close_window|¿Estáis intentando acabar con nuestra paciencia o algo así?  Id y traed el dinero, rápido.
+dlga_bandits_awaiting_ransom2_b2:bandits_awaiting_ransom2_fight|No tengo ninguna intención de pagar nada. ¡Exijo que se libera a la mujer ahora!
+dlga_bandits_awaiting_ransom2_fight:close_window|No exigiréis nada cuando hayáis muerto.
+dlga_start:bandits2_awaiting_remeet|¿Qué pasa? Nos habéis entregado el dinero. No tenemos ningún asunto pendiente.
+dlga_bandits2_awaiting_remeet:close_window|Siento molestaros. Seguiré mi camino.
+dlga_bandits2_awaiting_remeet:bandits2_awaiting_remeet_2|Tenemos un asunto más. Me daréis el dinero de nuevo a mí.
+dlga_bandits2_awaiting_remeet_2:close_window|¡Oh, ese asunto! Por supuesto. Pongamos manos a la obra.
+dlga_start:kidnapped_wife_encounter_1|Oh {my lord/my lady}. ¡Muchas gracias por rescatarme! Esas bestias viles ... ellos ... ellos ... ¿Podéis llevarme ahora con mi familia, por favor?
+dlga_kidnapped_wife_encounter_1:kidnapped_wife_join|Sí. Venid conmigo. Os llevaré a casa.
+dlga_kidnapped_wife_join:close_window|Desafortunadamente, usted no tiene espacio en su grupo para mí.
+dlga_kidnapped_wife_join:close_window.1|¡Oh, muchísimas gracias!
+dlga_kidnapped_wife_encounter_1:kidnapped_wife_wait|Esperad aquí un poco más. Volveré a por vos.
+dlga_kidnapped_wife_wait:close_window|Oh, por favor {mi señor / señora}, ¡​​no me dejes aquí sola! ¡No puedo soportarlo!
 dlga_start:village_farmer_talk| Mi {señor/señora}, sólo somos unos pobres campesinos de la aldea de {s11}. {reg1?Llevamos nuestros productos al mercado de {s12}.:Regresamos desde el mercado de {s12} hasta nuestra aldea.}
 dlga_village_farmer_talk:farmer_bandit_information|Intento capturar a un grupo de bandidos con la siguiente descripción... ¿Los habéis visto?
 dlga_farmer_bandit_information:village_farmer_talk|{s15}
 dlga_village_farmer_talk:close_window|¡Veremos lo pobres que sois una vez me haya llevado todo lo que tenéis!
 dlga_village_farmer_talk:close_window.1|Seguid adelante, entonces. Adiós.
 dlga_start:minister_issues|Estoy a vuestro servicio, {señor/mi señora}
-dlga_start:close_window.6|Ha sido un honor serviros, {señor/mi señora}
+dlga_start:close_window.7|Muy bien. Lo habéis conseguido. No tengo nada más que decir.
 dlga_start:member_castellan_talk|¿Sí, {playername}? ¿Qué puedo hacer por vos?
 dlga_member_castellan_pretalk:member_castellan_talk|¿Algo más?
 dlga_member_castellan_talk:member_review_castle_garrison|Quiero pasar revista a la guarnición del castillo.
@@ -225,7 +271,7 @@ dlga_member_personal_talk:member_personal_action|¿Qué queréis hacer?
 dlga_member_personal_action:member_transfer_inventory|Dadme todos vuestros objetos.
 dlga_member_transfer_inventory:do_member_personal_action|Como quieras.
 dlga_member_personal_action:member_equipment|Dejadme ver vuestro equipamiento.
-ddlga_member_equipment:do_member_personal_action|Muy bien, aquí está todo...
+dlga_member_equipment:do_member_personal_action|Muy bien, aquí está todo...
 dlga_member_personal_action:member_inventory|Dejadme ver vuestro inventario
 dlga_member_inventory:do_member_personal_action|Muy bien, aquí está todo...
 dlga_member_personal_action:member_chat|Olvídalo.
@@ -316,7 +362,7 @@ dlga_merchant_quest_persuasion:merchant_quest_4b8|Me habéis convencido. Os ayud
 dlga_merchant_quest_persuasion:close_window|Como decía, tengo asuntos más importantes que atender.
 dlga_merchant_quest_2:merchant_quest_2a|Bien, id a buscar y derrotar a ese grupo de bandidos.
 dlga_merchant_quest_3:merchant_quest_3a|Bien, id a atacar esa guarida de bandidos, traed de regreso a mi hermano, y mostrad a esos rufianes lo que les ocurre a aquéllos que amenazan a mi familia.
-dlga_start:close_window.9|Oh, gracias a los cielos... Gracias a los cielos... ¿Estoy a salvo?
+dlga_start:close_window.10|Vayámonos en cuanto esté todo listo.
 dlga_start:merchant_closing_statement_2|Ah... {playername}. Las cosas no han salido tan bien como yo esperaba. {s5} no quiso pasar por alto mi pequeña brecha al tratado de paz. Oh, me dio las gracias por haberme ocupado de su capitán corrupto... un guardia que deja entrar a bandidos dejaría entrar también a un pequeño ejército, por el precio adecuado... pero no quiere tenerme aquí como recordatorio viviente de su fracaso para hacerse cargo de sus propios asuntos.
 dlga_merchant_closing_statement_2:merchant_closing_statement_3|Eso no parece justo...
 dlga_merchant_closing_statement_3:merchant_closing_statement_4|¿Justo? ¡Esto es Poniente, {muchacho/mi señora}! Los reyes hacen lo que quieren, y el resto hacemos lo que debemos. No me ha colgado, en vez de eso me ha dado tiempo para vender mis propiedades... incluso ha hablado en mi favor a los otros mercaderes para que me ofrezcan un buen precio. Muy amable, tratándose de un rey... pero es un rey débil, como todos aquí, y los reyes débiles siempre preservan primero su autoridad, y luego la justicia. Supongo que yo haría lo mismo si estuviera en su lugar.
@@ -331,8 +377,8 @@ dlga_member_fief_grant_1:member_fief_grant_2|¿Qué feudo tenéis en mente?
 dlga_member_fief_grant_2:member_fief_grant_3|{s11}
 dlga_member_fief_grant_2:do_member_trade|No importa. No tengo feudos para ofrecer.
 dlga_member_fief_grant_3:close_window|{s5}
-dlga_start:close_window.10|Vayámonos en cuanto esté todo listo.
 dlga_start:close_window.11|Por favor, no me hagáis perder el tiempo, {señor/señora}. Tal vez nos volvamos a ver.
+dlga_start:close_window.12|Muy bien. Lo habéis conseguido. No tengo nada más que decir.
 dlga_start:companion_recruit_intro_response|{s5}
 dlga_companion_recruit_intro_response:companion_recruit_backstory_a|{s6}
 dlga_companion_recruit_intro_response:close_window|{s7}
@@ -1084,12 +1130,12 @@ dlga_lord_groom_vows:female_pc_marriage_vow|Mi {señor/señora}, con esta asambl
 dlga_female_pc_marriage_vow:lord_groom_wedding_complete|A la luz de los Dioses antiguos y nuevos, juro tomaros como {reg65?esposa:marido}.
 dlga_female_pc_marriage_vow:close_window|Esperad. Necesito pensarlo.
 dlga_lord_groom_wedding_complete:close_window|Somos ya marido y mujer. ¡Que comiencen los festejos!
-dlga_start:close_window.12|Muy bien. Lo habéis conseguido. No tengo nada más que decir.
 dlga_start:close_window.13|¡Bien, {señor/señora}! Por favor, no os molestéis en tratar de levantaros del suelo, ya que tendría que volver a tumbaros. Tomaré vuestro silencio por una disculpa. Que tengáis buen día.
 dlga_start:close_window.14|Muy bien. Lo habéis conseguido. Me retracto. Espero que esto os satisfaga.
 dlga_start:close_window.15|¡Ja! No sois tan galante ahora, ¿eh? No me molestéis más.
 dlga_start:close_window.16|Muy bien. Habéis ganado. Que todos los presentes hoy vean que me habéis vencido y yo abandonaré mi cortejo de {s10}. ¿Estáis {satisfecho, desgraciado/satisfecha, desgraciada}?
 dlga_start:close_window.17|Levantaos. Que todos los presentes hoy vean que os he vencido, y que ahora tendréis que abandonar el cortejo de {s10}. Os permitiré una última visita para despediros. Después de eso, si volvéis a verla, todos sabrán que sois un hombre sin honor.
+dlga_start:close_window.18|Es maravilloso... ¡En breve estaremos casados! Aunque debo deciros que, según nuestras costumbres, los prometidos no deben hablar solos hasta estar casados.
 dlga_start:player_siege_castle_commander_1|¿Qué queréis?
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|¡Rendíos! ¡Vuestra situación es desesperada!
 dlga_player_siege_castle_commander_1:close_window|Nada. Me retiro.
@@ -1221,6 +1267,20 @@ dlga_lord_start:lord_wedding_reschedule|Me alegro de veros, {playername}. Estamo
 dlga_lord_wedding_reschedule:lord_start|No es problema. Puedo esperar.
 dlga_lord_wedding_reschedule:lord_return_dower|No tengo fe en que esta boda concluya satisfactoriamente. Por favor, devolved mi dote.
 dlga_lord_return_dower:close_window|Bueno, estáis en vuestro derecho. Si realmente no creéis en la seriedad de mi familia, podéis llevaros vuestro dinero.
+dlga_lord_talk:immobile_lord|Mi señora, no debería viajar en una guerra como esta.
+dlga_immobile_lord:immobile_lord2|No tengo ninguna intención de hacer tal cosa, {playername} , pero eso no me impide acompañar a mis valientes hombres.
+dlga_immobile_lord2:lord_pretalk|Ahora que mi querido esposo e hijo están ambos en la tumba, no puedo hacer otra cosa que tratar de vengarlos.
+dlga_lord_talk:immobile_lord.1|Mi señor, os veis... sobrecargado.
+dlga_immobile_lord:immobile_lord2.1|Entiendo lo que estás diciendo {playername}, pero no te preocupes. No voy a ir a la batalla pronto. En mi juventud, he ganado vítores en algunas lizas de poco renombre, pero mis días de llevar la armadura se fueron hace largo tiempo.
+dlga_immobile_lord2:lord_pretalk.1|Soy gordo, y muchos piensan que me hace débil y tonto, pero yo no lo soy. Voy a acompañar a mis soldados y animarles para que se esfuercen al máximo, para que podamos ganar esta guerra.
+dlga_immobile_lord2:lord_pretalk.2|Lady Lysa nos ha mantenido fuera de la guerra hasta ahora, pero la Casa Waynwood es poderosa, con una historia ilustre, y debo ser leal con una fuerza a tener en cuenta.
+dlga_immobile_lord2:lord_pretalk.3|Las mujeres de Dorne no compartimos los sentimientos de las otras familias de Poniente, y como cabeza de la Casa Blackmont, tengo que tomar un papel activo en el manejo de los asuntos del reino y mis dominios.
+dlga_immobile_lord2:lord_pretalk.4|Las mujeres de Dorne no compartimos los sentimientos de las otras familias de Poniente, y como cabeza de la Casa Allyrion, tengo que tomar un papel activo en el manejo de los asuntos del reino y mis dominios.
+dlga_immobile_lord2:lord_pretalk.5|Las mujeres de Dorne no compartimos los sentimientos de las otras familias de Poniente, y como cabeza de la Casa Toland, tengo que tomar un papel activo en el manejo de los asuntos del reino y mis dominios.
+dlga_lord_talk:immobile_lord.2|Ser Balman, parecéis... enfermo.
+dlga_immobile_lord:immobile_lord2.2|Ah sí ... tengo, erh, dolor de estómago. El vino ayuda a que se asiente, y me han dicho que es bueno para la digestión ...
+dlga_immobile_lord2:lord_pretalk.6|¡Pero yo no soy un cobarde! ¡En mi juventud, he ganado un gran éxito en las justas, y si no fuera por este maldito estómago mío, estaría al frente de las líneas de batalla!
+dlga_immobile_lord:lord_pretalk|No tengo ninguna intención de hacer tal cosa, {playername} , pero eso no me impide que acompañe mis valientes hombres.
 dlga_lord_start:lord_generic_mission_completed.1|¡Ja! Nuestro pequeño ardid contra {s3} funcionó a la perfección, {playername}. El muy idiota ha perdido a uno de sus más valiosos servidores, y nosotros estamos más cerca de hacerle morder el polvo. Tomad, esta bolsa contiene {reg5} monedas, y deseo que la tengáis. Os merecéis hasta la última moneda. Y no tengo que recordaros que podría haber mucho más en juego si lo deseáis...
 dlga_lord_start:close_window|No habéis sido capaz de llevar a cabo ni una simple tarea. Yo lo había preparado todo. Lo único que teníais que hacer era sacrificar a un mensajero, y ahora lo estaríamos celebrando. Pero no, teníais que poner vuestro maldito honor por delante, ¿verdad?
 dlga_lord_start:quest_meet_spy_in_enemy_town_completed|¿Me traéis alguna noticia sobre la tarea que os encomendé? Ya sabéis a cuál me refiero...
@@ -1520,6 +1580,8 @@ dlga_lord_talk:lord_challenge_courtship_rival|¡Abandonad vuestro cortejo de {s5
 dlga_lord_challenge_courtship_rival:lord_challenge_courtship_rival_2|¿O qué? ¿Queréis batiros en duelo por una dama? Os lo advierto, nuestro monarca no ve con buenos ojos tales desafíos airados, ahora que todos deberían estar unidos para defenderle de nuestro enemigo común.
 dlga_lord_challenge_courtship_rival_2:lord_challenge_duel|¿Tenéis miedo de luchar contra mí?
 dlga_lord_challenge_courtship_rival_2:lord_pretalk|Lo siento. He hablado imprudentemente...
+dlga_start:lady_pretalk|Hola {playername}. ¿qué es eso, usted tiene una carta de {s9}? Déjame ver. Oh. Que giro de frase tan peculiar. No sé qué decir. ¿Acaso {s9} realmente escribió esto él mismo? Yo era consciente de su interés, pero ahora que lo sé .... bueno, digamos que voy a verlo con buenos ojos la próxima vez que nos veamos. Gracias {playername}, muchas gracias!
+dlga_start:lady_pretalk.1|Hola {playername}. ¿Qué es eso, usted tiene una carta de {s9}? Déjame ver. Que hombre tan extraño. ¿Ese cobarde realmente escribió esto, o hizo que uno de sus mozos de cuadra lo garabatease? ¡Nunca he me he sentido tan insultado! Si ves a {s9} por favor dile que mantenga su distancia. ¡Zoquete!
 dlga_lord_talk:lord_message_delivered|Traigo un mensaje de {s9}.
 dlga_lord_message_delivered:lord_pretalk|¿Oh? Dejadme ver eso... ¡Vaya, vaya! Me alegro de que me hayáis traído esto, {playername}. Éste es mi sello, prueba de que lo he recibido. Enviad mis saludos a {s9} cuando volváis a verle.
 dlga_lord_talk:lord_message_delivered_enemy|Traigo un mensaje de {s9}.
@@ -1925,7 +1987,7 @@ dlga_lord_mercenary_elaborate_1:lord_mercenary_elaborate_banner|¿Puedo hacer on
 dlga_lord_mercenary_elaborate_1:lord_mercenary_elaborate_pay|¿Cuánto me pagaréis por mis servicios?
 dlga_lord_mercenary_elaborate_1:lord_mercenary_service_accept|Suena bien. Deseo serviros en calidad de mercenario.
 dlga_lord_mercenary_elaborate_1:lord_mercenary_service_reject|Mis disculpas, pero no hago trabajos de pago.
-dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1|Sólo mis leales vasallos pueden poseer tierras y castillos en mi reino, y todos mis vasallos son hombres.\No soy partidario de abandonar esta tradición sin tener una muy buena razón. Si servís bien en batalla, podréis jurarme lealtad y ser mi vasalla.\Luego hablaremos de cómo podéis conseguir un castillo.
+dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1|Sólo mis leales vasallos pueden poseer tierras y castillos en mi reino, y todos mis vasallos son hombres.\\No soy partidario de abandonar esta tradición sin tener una muy buena razón. Si servís bien en batalla, podréis jurarme lealtad y ser mi vasalla.\\Luego hablaremos de cómo podéis conseguir un castillo.
 dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1.1|Hmm... Sólo los vasallos leales a {s10} pueden ser dueños de tierras y castillos. Aunque hay reyes que a veces aceptan vasallaje de hombres que hayan probado su valía en batalla, nunca he visto a un rey que concediese un feudo a una mujer. Será mejor que discutáis esto con el mismo {s10}.
 dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1.2|Sólo mis leales vasallos pueden poseer tierras y castillos en mi reino. No puedo confiar tal responsabilidad a un mercenario. Sin embargo, al servirme durante un tiempo, podréis jurarme lealtad y convertiros en mi vasallo. Os entregaré un feudo como recompensa.
 dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1.3|Sólo los vasallos leales a {s10} pueden ser dueños de tierras y castillos. Comprenderéis que es imposible depositar tal responsabilidad en un simple mercenario. Sin embargo, tras servir durante un tiempo tal vez os concedan el derecho de poder jurar lealtad a {s10}. Se os entregaría un feudo como recompensa.
@@ -1966,6 +2028,23 @@ dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message
 dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message_accepted|Perdonad mi mal carácter, {s65}. Entregaré vuestra carta.
 dlga_lord_mission_deliver_message_rejected_rudely_3:close_window|De acuerdo. Lo recordaré.
 dlga_lord_tell_mission:lord_mission_deliver_message.1|Necesito enviar una carta a {s13} de {s15}, que ahora debe estar en {s4}. Si vais hacia allí, ¿le entregaríais mi carta? Debe llegarle en el plazo de 40 días.
+dlga_lord_tell_mission:lord_mission_deliver_love_letter|Ah, el amor. ¿Alguna vez has estado enamorado, {playername} ? He caído en el hechizo una dama. Vi a {s13} en un banquete no hace mucho tiempo, y no he pensado en otra cosa desde ... Debo saber si ella siente lo mismo. ¿Va a entregar este mensaje para mí?
+dlga_lord_mission_deliver_love_letter:lord_mission_deliver_love_letter_accepted|Desde luego que voy a llevar su mensaje.
+dlga_lord_mission_deliver_love_letter:lord_mission_deliver_love_letter_rejected|Dudo que me encuentre con {s13} en un breve plazo, {s65}. Será mejor que enviéis a otra persona.
+dlga_lord_mission_deliver_love_letter_accepted:lord_mission_deliver_love_letter1|Te lo agradezco, {playername}. Er, sólo hay una pequeña pega. Yo no soy un hombre de letras, y sospecho que este tipo de cosas es más allá de mí. Tendrás que ayudarme a escribir la nota. Hmmm, vamos a ver. ¿Cómo crees que debería empezar? Yo estaba pensando bien, 'Saludos, moza', o 'Mi querida, mi amor, ardo en deseos de acariciarte'.
+dlga_lord_mission_deliver_love_letter1:lord_mission_deliver_love_letter_2|Saludos moza.
+dlga_lord_mission_deliver_love_letter1:lord_mission_deliver_love_letter_2.1|Mi querida, mi amor, ardo en deseos de acariciarte.
+dlga_lord_mission_deliver_love_letter1:lord_mission_deliver_love_letter_2.2|Er, ¿qué tal, Querida Señora, espero que le guste esta carta?
+dlga_lord_mission_deliver_love_letter_2:lord_mission_deliver_love_letter3|¡Excelente, me gusta! Ahora, ¿qué sigue? ¿'No pude evitar notar su movimiento en el baile,' 'Su frágil belleza excita mis deseos' o 'Admiro a una mujer con algo de carne en sus huesos'?
+dlga_lord_mission_deliver_love_letter3:lord_mission_deliver_love_letter_4|No pude dejar de notar sus movimientos en el baile.
+dlga_lord_mission_deliver_love_letter3:lord_mission_deliver_love_letter_4.1|Su frágil belleza excita mis deseos.
+dlga_lord_mission_deliver_love_letter3:lord_mission_deliver_love_letter_4.2|Admiro a una mujer con algo de carne en sus huesos.
+dlga_lord_mission_deliver_love_letter_4:lord_mission_deliver_love_letter5|Maravilloso. Verdaderamente una obra maestra. ¿Y para concluir a lo grande?  ¿Qué tal, 'En verdad, Te amo más que mi propio caballo.' ¿No? Bueno, ¿qué tal, 'Tu belleza me deslumbra como el resplandor del sol en un escudo enemigo'?. Ahhh, me gusta eso último.
+dlga_lord_mission_deliver_love_letter5:lord_mission_deliver_love_letter_6|En verdad, Te amo más que mi propio caballo.
+dlga_lord_mission_deliver_love_letter5:lord_mission_deliver_love_letter_6.1|Tu belleza me deslumbra como el resplandor del sol en un escudo enemigo.
+dlga_lord_mission_deliver_love_letter5:lord_mission_deliver_love_letter_6.2|¿Quizás, 'Su noble semblante evoca un misterio sutil'?
+dlga_lord_mission_deliver_love_letter_6:close_window|Le agradezco su ayuda, {playername}. Aquí está la carta, y algo de dinero para cubrir sus gastos de viaje. Ja, ja! ¿Cómo se puede un resistirse a ella?
+dlga_lord_mission_deliver_love_letter_rejected:lord_pretalk|Ah, de acuerdo, entonces. Bueno, seguro que encontraré a otra persona.
 dlga_lord_tell_mission:lord_mission_told|Hay una cosilla... Mi {s17} {s13} viene a visitar a sus parientes en {s14}. La visita lleva posponiéndose ya varias veces debido a los peligros que existen en la ruta, pero esta vez ha insistido en que ella irá. Así que al menos quiero asegurarme de que está bien protegida. Confío mucho en vos, {playername}, así que os agradecería si pudierais escoltarla hasta {s14} y aseguraros de que llega sana y salva.
 dlga_lord_tell_mission:lord_mission_deal_with_bandits_told|Un grupo de bandidos se ha refugiado en mi aldea de {s15}. Están asolando las granjas de los alrededores, haciéndose ricos a costa de mis impuestos y engordando gracias a mi ganado. Nada me gustaría más que acercarme hasta allí y darles una lección, pero en estos momentos tengo muchas cosas entre manos, así que no puedo hacer nada al respecto.
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_accepted|No os preocupéis, puedo ir a {s15} y deshacerme de esos miserables por vos.
@@ -2116,17 +2195,17 @@ dlga_spouse_feast_confirm:spouse_feast_confirm_yes|Enviemos las invitaciones.
 dlga_spouse_feast_confirm:spouse_pretalk|Esperemos entonces.
 dlga_spouse_feast_confirm_yes:spouse_pretalk|Enviaré un mensaje entonces, anunciando que realizaremos un banquete tan pronto como las condiciones en nuestro reino lo permitan. Tal vez debáis continuar llenando nuestro almacén, así haremos justicia a nuestra reputación.
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|Muy bien, de acuerdo. Que comience el banquete de inmediato en nuestra corte {reg4?aquí:} en {s9}. Vos tal vez debáis continuar reabasteciendo nuestra despensa, para poder así hacer justicia a nuestra reputación de hospitalidad.
-dlga_start:close_window.18|Es maravilloso... ¡En breve estaremos casados! Aunque debo deciros que, según nuestras costumbres, los prometidos no deben hablar solos hasta estar casados.
 dlga_start:close_window.19|Oh, {playername}, puede que no conozcáis nuestras costumbres, pero esperaba que esperado que alguien os lo hubiera dicho... Por favor, hablad con mi {s11}, {s4}.
 dlga_start:close_window.20|No sé dónde encontrar a mi {s11} {s10}, que según las tradiciones es quien debe presidir nuestra boda. Tal vez debamos esperar hasta que alguien lo encuentre...
 dlga_start:close_window.21|El honorable {s12} ha accedido a permitirnos regresar a nuestras familias. Comenzaremos el viaje cuanto antes.
+dlga_start:close_window.22|Pronto saldremos hacia {s4}. Es bueno saber que ciertas personas aún tienen sentido del honor.
 dlga_start:kingdom_lady_captive|¡Tremenda es mi soledad! ¡Cómo echo de menos a mi familia!
 dlga_start:kingdom_lady_captive.1|Esto es una infamia, {señor/señora}, mantener cautiva a una dama así...
 dlga_start:kingdom_lady_captive.2|Es extraño. En ocasiones os habéis mostrado amable, y aún así seguís manteniéndome aquí contra mi voluntad.
 dlga_start:kingdom_lady_captive.3|¿Por qué no ha pagado el rescate mi familia? ¡Puede que sea vuestra prisionera, pero parece que os importo más a vos que a ellos!
 dlga_lady_stranded_next:close_window|Saludos, {s0}. Las tormentas de la guerra me han dejado varado en esta fortaleza, pero pronto partiré.
 dlga_start:lady_talk_refugee|{playername}, asumo que vos, como {hombre/dama} honorable, aceptaréis que las damas nobles tenemos el derecho de regresar a nuestras familias sin necesidad de que se pague un rescate.
-dlga_start:close_window.22|Pronto saldremos hacia {s4}. Es bueno saber que ciertas personas aún tienen sentido del honor.
+dlga_start:close_window.23|Bueno, {playername}, habéis tenido un duelo con {s10} y habéis perdido. De acuerdo con nuestras costumbres y tradiciones, no puedo volver a recibiros. Adiós, {playername}.
 dlga_lady_talk_refugee:close_window|Claro, mi señora.
 dlga_lady_talk_refugee:lady_captive_talk|¡Asumís mal, mi señora!
 dlga_lady_captive_talk:lady_captive_confirm|¡¿Qué?! ¿Qué infamia es ésta?
@@ -2134,7 +2213,7 @@ dlga_lady_captive_confirm:close_window|Lo siento, debéis haberme entendido mal.
 dlga_lady_captive_confirm:close_window.1|Contactad con vuestra familia para preparar el rescate, mi señora.
 dlga_kingdom_lady_captive:close_window|¡Entonces escribid a vuestra familia y decidles que se apresuren a pagar el rescate!
 dlga_kingdom_lady_captive:close_window.1|He cambiado de parecer. Podéis iros.
-dlga_start:close_window.23|Bueno, {playername}, habéis tenido un duelo con {s10} y habéis perdido. De acuerdo con nuestras costumbres y tradiciones, no puedo volver a recibiros. Adiós, {playername}.
+dlga_start:close_window.24|Ah, {playername}. Me alegro de volver a veros. Sin embargo, creo que se me requiere en otro sitio.
 dlga_start:lady_duel_lost|Oh, {playername}, oí que habéis tenido un duelo con {s10}. Ojalá no hubieseis luchado jamás. Nuestras tradiciones demandan que, habiendo perdido, dejéis de cortejarme. Adiós, {playername}.
 dlga_lady_duel_lost:close_window|Muy bien, haremos lo que demandan las tradiciones... Adiós, mi dama.
 dlga_lady_duel_lost:lady_duel_lost_flaunt_conventions|¡No haré caso alguno de las tradiciones!
@@ -2163,7 +2242,7 @@ dlga_rescue_prisoner_succeed_1:lady_pretalk|Siempre es un honor servir, {s65}.
 dlga_start:lady_meet_end|Vos debéis ser {playername}. Hemos tenido el honor de ver vuestra brillante actuación en el torneo {s8}.
 dlga_start:lady_meet_end.1|Vos debéis ser {playername}. Mi {s15} {s16} ha hablado muy bien de vos. Es un placer conoceros.
 dlga_start:lady_premeet|La verdad, no me sois familiar...
-dlga_start:close_window.24|Ah, {playername}. Me alegro de volver a veros. Sin embargo, creo que se me requiere en otro sitio.
+dlga_start:close_window.25|¡Allí! Puedo ver los muros de {s3} en la distancia. Hemos llegado sanos y salvos. Tomad estos {reg3} venados de plata como prometí. Espero que podamos viajar nuevamente juntos en otra oportunidad.
 dlga_start:lady_start.3|{playername}, me alegro de veros. (Susurrando:) Aún recuerdo vuestras visitas con afecto.
 dlga_start:lady_meet_end.2|Ah, {playername}. Qué espléndido fue ver vuestra brillante actuación en el torneo.
 dlga_start:lady_start.4|{s12}
@@ -2361,7 +2440,7 @@ dlga_seneschal_ask_location:seneschal_ask_location_2|Bueno, un hombre de mi posi
 dlga_seneschal_ask_location_2:seneschal_ask_location_3|{s1}
 dlga_seneschal_ask_location_2:seneschal_pretalk|No importa.
 dlga_seneschal_ask_location_3:seneschal_pretalk|{s1}
-dlga_start:close_window.25|¡Allí! Puedo ver los muros de {s3} en la distancia. Hemos llegado sanos y salvos. Tomad estos {reg3} venados de plata como prometí. Espero que podamos viajar nuevamente juntos en otra oportunidad.
+dlga_start:close_window.26|¡Idos de aquí antes de que pierda la paciencia!
 dlga_start:talk_caravan_escort|Hemos llegado hasta aquí... ¿Está despejado por delante?
 dlga_talk_caravan_escort:talk_caravan_escort_2a|Podría haber bandidos cerca. No os alejéis.
 dlga_talk_caravan_escort_2a:close_window|Creedme, {playername}, ya estamos lo más cerca de vos que podemos. Id vos delante.
@@ -2445,7 +2524,7 @@ dlga_start:castle_guard_players|¿Sus órdenes, {mi señor/mi señora}?
 dlga_castle_guard_players:close_window|Abrid la puerta. Voy a entrar.
 dlga_castle_guard_players:close_window.1|No importa.
 dlga_start:castle_guard_sneaked_intro_1|¡Fuera de mi vista, {mendigo/mendiga}! ¡Apestáis!
-dlga_start:close_window.26|¡Idos de aquí antes de que pierda la paciencia!
+dlga_start:close_window.27|Habéis llegado a tiempo. Unamos nuestras fuerzas y demos una lección a nuestros enemigos.
 dlga_castle_guard_sneaked_intro_1:castle_guard_sneaked_intro_2|Quiero entrar a la sala y hablar con el señor.
 dlga_castle_guard_sneaked_intro_1:close_window|[Irse]
 dlga_castle_guard_sneaked_intro_2:close_window|¿Habéis perdido la cabeza, {hombre/mujer}? No se permite la entrada de mendigos en la sala. Ahora salid de aquí u os daré una buena paliza.
@@ -2477,8 +2556,8 @@ dlga_castle_gate_open:close_window.1|Mi señor {s2} no se encuentra ahora en el 
 dlga_castle_gate_open:close_window.2|Pasad. Voy a abrir las puertas para vos.
 dlga_castle_gate_open:close_window.3|Pasad. Pero aseguraos de que vuestros hombres se comporten con sensatez entre estos muros. Mi señor {s2} no quiere problemas aquí.
 dlga_castle_gate_open:close_window.4|Mi señor {s2} no os quiere aquí. Idos de aquí.
-dlga_start:close_window.27|Habéis llegado a tiempo. Unamos nuestras fuerzas y demos una lección a nuestros enemigos.
 dlga_start:close_window.28|Estáis cometiendo un grave error al luchar contra nosotros.
+dlga_start:close_window.29|¡Otra vez habéis salvado nuestras vidas, {playername}! Os lo agradezco de todo corazón. {s43}
 dlga_start:ally_thanks_meet|Creo que aún no nos hemos presentado como es debido. Me habéis salvado la vida ahí fuera y aún no sé vuestro nombre...
 dlga_start:ally_thanks_meet.1|Vuestra ayuda ha sido muy bienvenida. Mi nombre es {s1}. ¿Podéis decirme el vuestro?
 dlga_start:ally_thanks_meet.2|Gracias por vuestra ayuda. Aún no nos hemos presentado apropiadamente, ¿no es así? ¿Cómo os llamáis?
@@ -2486,7 +2565,6 @@ dlga_ally_thanks_meet:ally_thanks_meet_2|Me llamo {playername}.
 dlga_ally_thanks_meet_2:close_window|Es un placer, {playername}. Yo me llamo {s1} y estoy en deuda con vos. Si alguna vez hay algo en lo que pueda ayudaros, hacédmelo saber...
 dlga_ally_thanks_meet_2:close_window.1|Un placer, {playername}. Estoy en deuda con vos por lo que acabáis de hacer. Espero poder encontrar la forma de devolveros el favor algún día.
 dlga_ally_thanks_meet_2:close_window.2|Un placer, {playername}. Soy {s1}. Gracias por vuestra ayuda y espero que nos encontremos de nuevo.
-dlga_start:close_window.29|¡Otra vez habéis salvado nuestras vidas, {playername}! Os lo agradezco de todo corazón. {s43}
 dlga_start:close_window.30|¡Habéis llegado justo a tiempo, {playername}! ¡Muchísimas gracias! {s43}
 dlga_start:close_window.31|Habéis llegado justo a tiempo, {playername}. No olvidaré lo que hicisteis por mí. {s43}
 dlga_start:close_window.32|Me alegro de veros, {playername}. {s43}
@@ -2495,7 +2573,9 @@ dlga_start:close_window.34|{s43}
 dlga_start:close_window.35|Gracias por vuestra ayuda {señor/señora}. Habéis salvado {reg1?nuestras vidas:mi vida}.
 dlga_start:close_window.36|Gracias por vuestra ayuda {señor/señora}. Las cosas se estaban poniendo feas, pero todo cambió cuando llegasteis.
 dlga_start:close_window.37|Gracias por vuestra ayuda, {señor/señora}. Qué suerte que estuvierais cerca.
+dlga_start:close_window.38|No os preocupéis, {señor/señora}, voy ahora mismo.
 dlga_start:kidnapped_girl_liberated_battle|Oh {señor/señora}. Os agradezco tanto que me hayáis rescatado. ¿Me llevaréis ahora con mi familia?
+dlga_start:kidnapped_wife_liberated_battle|Oh {mi señor/señora}. Muchas gracias por rescatarme. ¿Me llevais de vuelta a mi pueblo ahora?
 dlga_start:freed_hero_answer|Estoy en deuda con vos por liberarme, {amigo/amiga}.
 dlga_freed_hero_answer:freed_hero_answer_1|No vais a ninguna parte. ¡Ahora soy yo quien os ha capturado!
 dlga_freed_hero_answer_1:close_window|Vaya, por todos los dioses. ¿Nunca cambiará mi suerte?
@@ -2547,6 +2627,18 @@ dlga_fugitive_5:fugitive_fight_start|No hay problema. Solamente necesito vuestra
 dlga_fugitive_5:fugitive_fight_start.1|¡No vengo por dinero, vengo a hacer cumplir la ley!
 dlga_fugitive_5:fugitive_fight_start.2|Sin embargo, parece que no entráis en razón.
 dlga_fugitive_fight_start:close_window|¡Morid, perro!
+dlga_start:fugitive_12|¡Asesinados! ¡Todos muertos! ¡Todo lleno de sangre! Por favor, no me hagas daño.
+dlga_start:close_window.39|Gracias por ayudarnos, {s0}. ¡Aplastad a esos bandidos!
+dlga_start:close_window.40|Este mismo sirve.
+dlga_fugitive_12:fugitive_22|Busco a una joven fugitiva llamada {s4}. Encajas su descripción.
+dlga_fugitive_12:close_window|Cálmate querida. No permitiré que negocien con usted.
+dlga_fugitive_22:fugitive_32|Supongo que no tiene sentido pretender lo contrario ... Yo sólo quería hacer una vida mejor con mi amor. ¡Y él era tan hermoso para contemplar! Pero ... pero mi padre me matará seguro si vuelvo.
+dlga_fugitive_32:fugitive_42|Estoy seguro de que no tienes nada que temer en volver a tu aldea. La gente allí parece suficientemente buena.
+dlga_fugitive_42:fugitive_52|¿Y qué sabes tú? ¿Crees que me arriesgué a huir en la noche por enamorarme de un chico? ¡Necio! Cosas terribles ocurren en esa aldea. ¡Cosas terribles!
+dlga_fugitive_52:fugitive_72|¿En serio? No voy a preguntar qué "cosas", pero puedes quedarte aquí si quieres.
+dlga_fugitive_52:fugitive_62|Encuentra a alguien que crea tus cuentos. ¡Volveré allí con usted!
+dlga_fugitive_62:close_window|Veo que no tengo elección...
+dlga_fugitive_72:close_window|Oh... Gracias, {my lord/my lady}!
 dlga_member_chat:sacrificed_messenger_1|¿Sí, {señor/señora}?
 dlga_sacrificed_messenger_1:sacrificed_messenger_2|Llevad esta carta a {s1} y dádsela a {s2}.
 dlga_sacrificed_messenger_1:close_window|Nada. Nada en absoluto.
@@ -2556,7 +2648,7 @@ dlga_sacrificed_messenger_3:sacrificed_messenger_cancel|¡Arggh! No puedo hacer 
 dlga_sacrificed_messenger_cancel:sacrificed_messenger_cancel_2|¿Qué queréis decir, {señor/señora}?
 dlga_sacrificed_messenger_cancel_2:sacrificed_messenger_cancel_3|Os han preparado una trampa en la ciudad. {s3} me ordenó que sacrificara a uno de mis mejores guerreros para engañar al enemigo, pero tendrá que buscar otra forma de hacerlo.
 dlga_sacrificed_messenger_cancel_3:close_window|Gracias, {señor/señora}. Os seguiría hasta las mismas puertas del infierno. Pero no me gustaría morir así.
-dlga_start:close_window.38|No os preocupéis, {señor/señora}, voy ahora mismo.
+dlga_start:close_window.41|Vete.
 dlga_start:follow_spy_talk|Buen día, {señor/señora}. Hace un tiempo estupendo, ¿no creéis? Si me disculpáis, debo ponerme en camino.
 dlga_follow_spy_talk:follow_spy_talk_2|¡En nombre de {s1}, se procede a vuestro arresto!
 dlga_follow_spy_talk_2:close_window|¡No me cogeréis con vida!
@@ -2855,10 +2947,10 @@ dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_barter|¿Y por qué
 dlga_farmer_from_bandit_village_accepted:close_window|Que el Guerrero os bendiga, {s0}. Nuestra aldea es {s7}. No está muy lejos de aquí.
 dlga_farmer_from_bandit_village_denied:close_window|Como queráis, {señor/señora}. Perdonad la molestia.
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|Somos unos pobres campesinos, {s0}, y los bandidos ya nos han quitado casi todo lo que tenemos en este mundo. Pero compartiremos gustosamente con vos lo que nos quede. Y siempre os estaremos agradecidos por la ayuda brindada.
-dlga_start:close_window.39|Gracias por ayudarnos, {s0}. ¡Aplastad a esos bandidos!
-dlga_start:close_window.40|Este mismo sirve.
-dlga_start:close_window.41|Vete.
 dlga_start:close_window.42|Henujagon jaelza lua vala mirre henujagon kostas.
+dlga_start:close_window.43|Realmente, toma un baño.
+dlga_start:close_window.44|Meereen prosperará bajo el mando de la Reina Daenerys.
+dlga_start:close_window.45|Zhavvorsa vadakhera ma hrazef ma vaf akkate.
 dlga_start:reznak_introduce_1|¿Sí?
 dlga_reznak_introduce_1:reznak_introduce_2|Si queréis hablar con la reina, debéis lavaros primero. Oléis como un puerco.
 dlga_reznak_introduce_2:reznak_master_talk|Realmente es bastante desagradable.
@@ -2867,7 +2959,7 @@ dlga_reznak_master_customize:reznak_master_customize1|Soy Reznak mo Reznak, sene
 dlga_reznak_master_customize1:reznak_master_customize2|Pensaba que Meereen estaba gobernado por sabios.
 dlga_reznak_master_customize2:reznak_master_talk|Si, sí, pero su Majestad, la Reina Daenerys, ha decretado que no puedan decir nada en cuanto a gobernar la ciudad se trate.
 dlga_reznak_master_talk:close_window|Adiós.
-dlga_start:close_window.43|Realmente, toma un baño.
+dlga_start:close_window.46|Anha ray char m'ave yeri lajakoon hakeso.
 dlga_start:skahaz_introduce_1|¿Sí, que queréis?
 dlga_skahaz_introduce_1:skahaz_introduce_2|Asumo que venís para honrar a la reina.
 dlga_skahaz_introduce_2:skahaz_master_talk|¿Y bien?
@@ -2876,12 +2968,12 @@ dlga_skahaz_master_customize:skahaz_master_customize1|Muy bien entonces. Me han 
 dlga_skahaz_master_customize1:skahaz_master_customize2|Necesitaréis jurar lealtad a su Majestad.
 dlga_skahaz_master_customize2:skahaz_master_talk|Acercaos y entonces, di las palabras.
 dlga_skahaz_master_talk:close_window|Adios.
-dlga_start:close_window.44|Meereen prosperará bajo el mando de la Reina Daenerys.
-dlga_start:close_window.45|Zhavvorsa vadakhera ma hrazef ma vaf akkate.
-dlga_start:close_window.46|Anha ray char m'ave yeri lajakoon hakeso.
 dlga_start:close_window.47|Kash qoy qoyi thira disse.
 dlga_start:close_window.48|Aeksio yne iliritas.
 dlga_start:close_window.49|Skoros otapa?.
+dlga_start:close_window.50|Meereen debe avanzar.
+dlga_start:close_window.51|Yn aderi, mori, aot mazili se henkiri ilvi biarvi manaerili.
+dlga_start:close_window.52|Urnet luo buzdaro tolvio belma pryjatas!
 dlga_start:hizdahr_introduce_1|¿Sí, que queréis?
 dlga_hizdahr_introduce_1:hizdahr_introduce_2|¿Quién eres?
 dlga_hizdahr_introduce_2:hizdahr_master_talk|Tenéis el honor de dirigiros a Hizdahr zo Loraq, de la anciana y noble casa de Loraq
@@ -2890,15 +2982,15 @@ dlga_hizdahr_master_customize:hizdahr_master_customize1|Claro. Somos una casa an
 dlga_hizdahr_master_customize1:hizdahr_master_customize2|En nuestras venas corre la sangre de Mazdhan zo Loraq, Hazrak zo Loraq, Zharaq zo Loraq y Grazdan el Grande, quien fundó el imperio Ghiscari.
 dlga_hizdahr_master_customize2:hizdahr_master_talk|Nuestra familia ya era antigua cuando Valyria no era más que un campo de granjeros.
 dlga_hizdahr_master_talk:close_window|Adiós.
-dlga_start:close_window.50|Meereen debe avanzar.
-dlga_start:close_window.51|Yn aderi, mori, aot mazili se henkiri ilvi biarvi manaerili.
-dlga_start:close_window.52|Urnet luo buzdaro tolvio belma pryjatas!
 dlga_start:close_window.53|Zaldrizes buzdari iksos daor!
 dlga_start:close_window.54|Vala mhysa syt robra derebza.
 dlga_start:close_window.55|¡Obedeceré!
 dlga_start:close_window.56|¡Apártate!
 dlga_start:close_window.57|¡Hazte a un lado!
 dlga_start:close_window.58|¡Yunkai es genial!
+dlga_start:close_window.59|Khrazz debe entrenar.
+dlga_start:close_window.60|¡Gusela!
+dlga_start:close_window.61|¡Epses! ¡Gadbag!
 dlga_start:khrazz_introduce_1|¿Sí?
 dlga_khrazz_introduce_1:khrazz_introduce_2|¿Quien eres?
 dlga_khrazz_introduce_2:khrazz_master_talk|¡Soy Khrazz!
@@ -2907,14 +2999,14 @@ dlga_khrazz_master_customize:khrazz_master_customize1|¡Foso para luchar!
 dlga_khrazz_master_customize1:khrazz_master_customize2|La reina dragón ha cerrado los fosos. Khrazz solía dormir en cojines de seda y comía higado a diario. Ahora duerme en la paja y come pan duro.
 dlga_khrazz_master_customize2:khrazz_master_talk|Pero Hizdahr zo Loraq ha prometido abrir los fosos de nuevo.
 dlga_khrazz_master_talk:close_window|Adiós.
-dlga_start:close_window.59|Khrazz debe entrenar.
-dlga_start:close_window.60|¡Gusela!
-dlga_start:close_window.61|¡Epses! ¡Gadbag!
 dlga_start:close_window.62|El gran Morghaz zo Zherzyn te pide amablemente que te apartes de su camino.
 dlga_start:close_window.63|¡Ima vi nejo emi hubre, si hin kizir sizi, gimin sko oo jelevre tuzis ji gunjda emi begisto dos!
 dlga_start:close_window.64|El gran Chezdhar zo Rhaezn te inquiere en que olvidaste lavarte la cara.
 dlga_start:close_window.65|¡Ima vi nejo emi hubre!
 dlga_start:close_window.66|Mi maestro, Faezhar zo Faez, te  hace saber que verte es muy poco placentero para él.
+dlga_start:close_window.67|¡Gusela!
+dlga_start:close_window.68|Mi maestro, el gran Grazdan mo Eraz, es un amante muy bueno, me trae grandes placeres cada noche.
+dlga_start:close_window.69|El gran Grazdan mo Eraz es un valiente guerrero y un general excepcional. Seguro que hubiera visto la destrucción de Astapor si hubiera estado a cargo.
 dlga_start:grazdan_introduce_1|¿Que quiere?
 dlga_grazdan_introduce_1:grazdan_introduce_2|Soy {playername}. ¿Quien eres tú?
 dlga_grazdan_introduce_2:grazdan_master_talk|Soy Grazdan mo Eraz, uno de los grandes sabios de Yunkai, y un embajado de Volantis, a quienes visitaré pronto para traerlos a nuestra causa.
@@ -2925,46 +3017,58 @@ dlga_grazdan_master_customize12:grazdan_master_customize2|¡Vuestra causa está 
 dlga_grazdan_master_customize2:close_window|¡Dyni!
 dlga_grazdan_master_customize12:grazdan_master_customize3|¡Vuestra causa es justa!
 dlga_grazdan_master_customize3:close_window|¡Rigle!
-dlga_start:close_window.67|¡Gusela!
-dlga_start:close_window.68|Mi maestro, el gran Grazdan mo Eraz, es un amante muy bueno, me trae grandes placeres cada noche.
-dlga_start:close_window.69|El gran Grazdan mo Eraz es un valiente guerrero y un general excepcional. Seguro que hubiera visto la destrucción de Astapor si hubiera estado a cargo.
-dlga_start:gramnan_introduce_1|¡Saludos! ¿Te interesaría comprar algunas especias?
-dlga_gramnan_introduce_1:gramnan_introduce_2|¿Qué tipo de especias?
-dlga_gramnan_introduce_2:gramnan_master_talk|¡Las mejores, por supuesto! Jugo de semillas de caqui mezcladas con escamas de dragón. Una especia potente, que te dará por seguro una fuerza extra en el dormitorio, y que cura practicamente todo.
-dlga_gramnan_master_talk:gramnan_master_customize|¡Pues sí, sí me interesa!
-dlga_gramnan_master_customize:gramnan_master_customize2|¡Genial!¡Seréis la envidia de todo vuestro pueblo! O podéis vender la especia en Volantis y sacar un gran beneficio.
-dlga_gramnan_master_customize2:gramnan_master_customize3|¡Excelente!
-dlga_gramnan_master_customize3:gramnan_finish|¡De acuerdo! Ahora tengo que pediros 2000 monedas.
-dlga_gramnan_finish:close_window|Adiós.
-dlga_gramnan_master_talk:close_window|Quizás más tarde.
 dlga_start:close_window.70|Me temo que estoy ocupado ahora mismo.
-dlga_start:gora_introduce_1|¡Saludos forastero! Tenéis pinta de guerrero... Creo que... ¡Sí!¡Tengo justo lo que necesitáis!
-dlga_gora_introduce_1:gora_introduce_2|¿Ah sí, y que es eso?
-dlga_gora_introduce_2:gora_master_talk|Sí sí, desde luego. ¡Una espada para un conquistador! La encontré en un viaje a Mantarys, enterreda en la tumba de un antiguo señor de los dragones. ¡Es una espada valyria, forjada en fuego de dragón!
-dlga_gora_master_talk:gora_master_customize|Cuentame más.
-dlga_gora_master_customize:gora_master_customize2|¡Eso es! La espada estaba protegida por horribles, desfiguradas criaturas, restos de su propiedad vitalicea! Pero mis compañeros y yo luchamos contra ellas y alcanzamos la cripta, donde encontré la espada. Desafortunadamente, yo voy a retirarme de una vida de violencia, y por eso quiero vender la espada.
-dlga_gora_master_customize2:gora_master_customize3|Increible. ¿Cuanto?
-dlga_gora_master_customize3:gora_finish|El acero valyrio es muy caro, pero supongo que puedo empezar con un precio de 5000 monedas.
-dlga_gora_finish:close_window|Adiós.
-dlga_gora_master_talk:close_window|Quizás más tarde.
 dlga_start:close_window.71|Me temo que estoy ocupado ahora mismo.
 dlga_start:close_window.72|¡Urnet luo buzdaro tolvio belma pryjatas!
+dlga_start:european_gunsmith_talk|¡Pst! ¡Por aquí! Un buen día para ti, mi amigo. Soy Gramnan. Yo comercio en especias raras y valiosas, ¡aptos para reyes!
+dlga_european_gunsmith_talk:european_gunsmith_talk_cozur|Permítame que le muestre mis finas mercancías. Tenga la seguridad, cualquier especia que te ofrezco es de la máxima calidad, ¡lo juro por los dioses! Que me derribar justo en este momento si una mentira tocar mi lengua!
+dlga_european_gunsmith_talk_cozur:european_gunsmith_pistols|Me gustaría comprar algunas especias.
+dlga_european_gunsmith_talk_cozur:close_window|Hoy no, buen comerciante, tengo otros asuntos que debo atender.
+dlga_european_gunsmith_pistols:european_gunsmith_pistols2|¡Ah, {playername} , usted es la persona más gentil, noble y hermosa! ¡Estas especias prolongarán tu vida, y te harán irresistible a todos los hombres y mujeres de la tierra! Vendo azafrán, canela y nuez moscada, y una libra  cuesta sólo 500 libras monedas!
+dlga_european_gunsmith_pistols2:european_gunsmith_talk|Me llevaré una libra de azafrán.
+dlga_european_gunsmith_pistols2:european_gunsmith_talk.1|Me llevaré una libra de canela.
+dlga_european_gunsmith_pistols2:european_gunsmith_talk.2|Me llevaré una libra de nuez moscada.
+dlga_european_gunsmith_pistols2:european_gunsmith_pretalk|Esperad, cancelad esa orden.
+dlga_start:european_gunsmith_talk.1|Un buen día para ti, mi amigo. ¡Soy Gora, el ilustre aventurero! Pareces un poderoso guerrero, ¡tengo algo sólo para usted!
+dlga_european_gunsmith_talk:european_gunsmith_talk_cozur.1|¡En un viaje a la ciudad maldita de Mantarys, encontré tres espadas de Acero Valyrio! La inscripción muestra que pertenecían a los grandes descendientes de Ghis, Mazdhan el Magnífico, Hazrak el Hermoso y Zharaq el Libertador.
+dlga_european_gunsmith_talk_cozur:european_gunsmith_pistols.1|Quisiera comprar una de esas espadas.
+dlga_european_gunsmith_pistols:european_gunsmith_pistols2.1|¡Ah, {playername} , usted es la persona más gentil, noble y hermosa! Estas espadas te harán invencible en cualquier pelea. Podría venderte cada espada por ¡sólo 10000 monedas! Lo sé, es un crimen, pero vuestra cara me dice que sois honesto.
+dlga_european_gunsmith_pistols2:european_gunsmith_talk.3|Tomaré la espada que perteneció a Mazdhan.
+dlga_european_gunsmith_pistols2:european_gunsmith_talk.4|Tomaré la espada que perteneció a Hazrak.
+dlga_european_gunsmith_pistols2:european_gunsmith_talk.5|Tomaré la espada que perteneció a Zharaq.
 dlga_start:close_window.73|Dorior darion udrirzi mijessis.
-dlga_start:close_window.74|Olvie hen embraro tolmiot nykelot avy ivestragon issa.
-dlga_start:close_window.75|Vala egromy robir ezimza.
-dlga_start:close_window.76|¿Qué queréis?
-dlga_start:close_window.77|Aeksiot zyhon vaoreznon jepin, se ziksoso udlissis!
-dlga_start:close_window.78|Jomozussis lua vala mirros engoso ydrassigon kostilos daor.
-dlga_start:gessala_introduce_1|Bienvenido a Yunkai, viajero.
-dlga_gessala_introduce_1:gessala_introduce_2|Gracias. ¿Qué vendéis?
-dlga_gessala_introduce_2:gessala_master_talk|Especias, mayormente. Tengo azafrán, pimientos, canela, nuez moscada, cardamomo y el encaje de señora.
-dlga_gessala_master_talk:gessala_master_customize|Me gustaría comprar algo de azafrán.
-dlga_gessala_master_customize:gessala_master_customize2|¡Azafrán!¡Claro que sí! Si venís del oeste, haréis un gran negocio. El azafrán viene de las tierras al este de Qarth y es muy preciado para la nobleza de Poniente.
-dlga_gessala_master_customize2:gessala_master_customize3|¡Genial! ¿Cúanto pedís?
-dlga_gessala_master_customize3:gessala_finish|Incluso aquí, el azafrán es muy caro. Puedo dejártelo por 8000 monedas.
-dlga_gessala_finish:close_window|Adiós.
-dlga_gessala_master_talk:close_window|Quizás más tarde.
-dlga_start:close_window.79|Me temo que estoy ocupado ahora mismo.
+dlga_start:close_window.74|Dorior darion udrirzi mijessis.
+dlga_start:close_window.75|Olvie hen embraro tolmiot nykelot avy ivestragon issa.
+dlga_start:close_window.76|Vala egromy robir ezimza.
+dlga_start:close_window.77|¡Qué queréis?
+dlga_start:close_window.78|Aeksiot zyhon vaoreznon jepin, se ziksoso udlissis!
+dlga_start:close_window.79|Jomozussis lua vala mirros engoso ydrassigon kostilos daor.
+dlga_start:european_gunsmith_talk.2|Un buen día para ti, mi amigo. Soy Gessala. Yo comercio con raras especias, de todas partes del mundo. Desde Asshai a Qarth, Zamettar a Gran Moraq, si crecen, yo las vendo.
+dlga_european_gunsmith_pretalk:european_gunsmith_talk|Permítame que le muestre mis valiosas mercancías. Tenga la seguridad, cualquier especia que te ofrezco es de la máxima calidad.
+dlga_european_gunsmith_talk:european_gunsmith_pistols|Me gustaría mirar las especias de Asshai.
+dlga_european_gunsmith_talk:european_gunsmith_blunderbusses|Me gustaría mirar las especias de Qarth.
+dlga_european_gunsmith_talk:european_gunsmith_muskets|Me gustaría mirar las especias de Zamettar.
+dlga_european_gunsmith_talk:european_gunsmith_rifles|Me gustaría mirar las especias de Gran Moraq.
+dlga_european_gunsmith_talk:close_window|Hoy no, buen comerciante, tengo otros asuntos que debo atender.
+dlga_european_gunsmith_pistols:european_gunsmith_pistols2.2|Ah, pero por supuesto, {playername} , usted es una persona exigente, y con gusto. Asshai produce finas especias. Ofrezco tres especies distintas de las Tierras Sombrías. Valioso azafrán, exquisita mirra y dulce de canela. Una libra cuesta 600 monedas.
+dlga_european_gunsmith_pistols2:european_gunsmith_pretalk.1|Me llevaré una libra de azafrán.
+dlga_european_gunsmith_pistols2:european_gunsmith_pretalk.2|Me llevaré una libra de mirra.
+dlga_european_gunsmith_pistols2:european_gunsmith_pretalk.3|Me llevaré una libra de canela.
+dlga_european_gunsmith_blunderbusses:european_gunsmith_blunderbusses2|Ah, pero por supuesto, {playername} , usted es una persona exigente, y con gusto y Qarth produce algunas de las mejores especias. Ofrezco tres especias distintas de la más antigua de las ciudades. Valioso azafrán, exquisita pimienta y dulce cardamomo. Una libra cuesta 400 monedas
+dlga_european_gunsmith_blunderbusses2:european_gunsmith_pretalk|Me llevaré una libra de azafrán.
+dlga_european_gunsmith_blunderbusses2:european_gunsmith_pretalk.1|Me llevaré una libra de pimienta.
+dlga_european_gunsmith_blunderbusses2:european_gunsmith_pretalk.2|Me llevaré una libra de cardamono.
+dlga_european_gunsmith_blunderbusses2:european_gunsmith_pretalk.3|Esperad, cancelad esa orden.
+dlga_european_gunsmith_muskets:european_gunsmith_muskets2|Ah, pero por supuesto, {playername} , los Artesanos de Especias de Zamettar son conocidos en todo por sus excelentes productos. Ofrezco tres especias distintas más exóticas de los puertos. Valiosa nuez moscada, exquisito curry y dulce anís. Una libra cuesta 600 monedas.
+dlga_european_gunsmith_muskets2:european_gunsmith_pretalk|Me llevaré una libra de nuez moscada.
+dlga_european_gunsmith_muskets2:european_gunsmith_pretalk.1|Me llevaré una libra de curry.
+dlga_european_gunsmith_muskets2:european_gunsmith_pretalk.2|Me llevaré una libra de anís.
+dlga_european_gunsmith_muskets2:european_gunsmith_pretalk.3|Esperad, cancelad esa orden.
+dlga_european_gunsmith_rifles:european_gunsmith_rifles2|Ah sí, Gran Moraq. Una buena elección, {playername} , Gran Moraq es verdaderamente la capital de especias del mundo. Ofrezco tres especias distintas de la más exótica y peligrosa isla de peligros. Valioso clavo,  exquisita florespecia Dothraki y dulces semillas de caqui. Una libra cuesta 200 monedas.
+dlga_european_gunsmith_rifles2:european_gunsmith_pretalk|Me llevaré una libra de clavo.
+dlga_european_gunsmith_rifles2:european_gunsmith_pretalk.1|Me llevaré una libra de Florespecia Dothraki.
+dlga_european_gunsmith_rifles2:european_gunsmith_pretalk.2|Me llevaré una libra de semillas de caqui.
+dlga_european_gunsmith_rifles2:european_gunsmith_pretalk.3|Esperad, cancelad esa orden.
 dlga_start:close_window.80|Hash yer ray tih loy alegra, ¿zhey vikeesi?
 dlga_start:close_window.81|¡Eyel varthasoe she ilekaan rikhoya arrekaan vekha vosi yeroon vosma tolorro!
 dlga_start:close_window.82|¡Hmph!
@@ -3347,7 +3451,7 @@ dlga_start:pj_clansman_talk.3|¿Qué queréis?
 dlga_pj_clansman_talk:close_window.3|Nada.
 dlga_pj_clansman_talk:pj_clansman_talk2.3|Lady Barbrey, me envía vuestro hijo, él cree que vos podéis saber algo sobre dónde encontrar a los clanes de las montañas, ¿es así?
 dlga_pj_clansman_talk2:pj_clansman_talk3.3|Bah... ¿eso dice? Podría habéroslo dicho él mismo, ¿no creéis? Su padre es el jefe de uno de esos clanes salvajes. Se llaman a sí mismos los Hermanos de la Luna. ¡En fin! Supongo que ahora estáis hablando conmigo, ¿no? Nadie quiere hablar conmigo desde que esos salvajes me devolvieron a mis padres, violada y con un crío en mis brazos... Lo último que he sabido es que los Hermanos de la Luna rondaban los alrededores de Rapsodia.
-dlga_pj_clansman_talk3:pj_clansman_talk5.2|¿Cómo?
+dlga_pj_clansman_talk3:pj_clansman_talk5.2|¿Perdona?
 dlga_pj_clansman_talk5:close_window|No importa...
 dlga_start:pj_clansman_talk.4|¿Qué queréis?
 dlga_pj_clansman_talk:close_window.4|Olvidadlo.
@@ -3505,6 +3609,7 @@ dlga_pj_wildfire_talk2:pj_wildfire_talk3.8|¿De verdad? ¡Bien hecho, Ser! ¡Sab
 dlga_pj_wildfire_talk3:close_window.1|Gracias, Tom.
 dlga_start:wildfire_starter_introduce_1.3|Bien hallado, {playername}.
 dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.3|¿Cómo sabéis mi nombre?
+dlga_wildfire_starter_introduce_1:close_window|Nada.
 dlga_wildfire_starter_introduce_2:close_window.3|Soy Gueren, un hermano de la Guardia de la Noche. Gerold me ha hablado de vos, {playername}, y de cómo os encargastéis de ese bastardo loco allá en el viejo refugio. El último cuervo de Aemon nos trajo noticias de problemas en el Muro, quizás podáis ir allí y ver qué está sucediendo.
 dlga_start:close_window.139|El Muro no debe caer, {playername}.
 dlga_start:wildfire_talk.3|¿Sí? ¿Quién sois? ¿En qué puedo ayudaros?
@@ -3628,6 +3733,7 @@ dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.5|¿Sabéis de al
 dlga_wildfire_starter_introduce_2:close_window.5|Mi tío, Ser Gilbert, anda buscando a alguien para que se encargue de algo... poco caballeroso. Creo que está en la taberna.
 dlga_start:close_window.147|¡Alabado sea el Señor de Luz!.
 dlga_start:wildfire_talk.9|¿Sí? ¿Puedo ayudaros?
+dlga_wildfire_talk:wildfire_talk2.7|Lady Mellario me comentó que andáis buscando ayuda, ¿es así?
 dlga_wildfire_talk:close_window.9|Adiós.
 dlga_wildfire_talk2:wildfire_talk3.9|Ah sí, podéis, podéis. Pero tendréis que guardar silencio sobre esto.
 dlga_wildfire_talk3:wildfire_talk4.9|¿Qué queréis que haga?
@@ -3638,6 +3744,41 @@ dlga_wildfire_talk6:wildfire_talk7.9|Este joven, conocido por el nombre de Lacer
 dlga_wildfire_talk7:close_window.16|Muy bien, me encargaré de esos conspiradores.
 dlga_wildfire_talk7:close_window.17|No me interesa.
 dlga_start:close_window.148|¿Sí?
+dlga_start:wildfire_talk.10|¿Sí? ¿En qué puedo ayudaros?
+dlga_wildfire_talk:wildfire_talk2.8|¿Tenéis más tareas para mí?
+dlga_wildfire_talk:close_window.10|Adiós.
+dlga_wildfire_talk2:wildfire_talk3.10|'El Padre puso la mano en los cielos y cogió siete estrellas y una tras otra las fue poniendo en la frente de Hugor de al Colina hasta hacerle una brillante corona'...
+dlga_wildfire_talk3:wildfire_talk4.10|¿Qué?
+dlga_wildfire_talk4:wildfire_talk5.10|¡Es de la Estrella de Siete de Puntas, ignorante salvaje! Hay cantidad de tontos en Poniente, pero cualquiera de ellos conoce la historia de la corona. Por supuesto, no la hizo un dios...
+dlga_wildfire_talk5:wildfire_talk6.10|Umm... adelante.
+dlga_wildfire_talk5:close_window.10|Adiós.
+dlga_wildfire_talk6:wildfire_talk7.10|Los ándalos forjaron toda clase de tesoros con oro y cobre. Tengo razones para creer que uno de ellos podría estar enterrado en un viejo túmulo, cerca de las Ruinas de Iksa Calo. ¡Necesito esos tesoros ándalos para mi próxima representación! Se supone que el túmulo está protegido por espíritus y por los fantasmas de los antiguos reyes ándalos, pero obviamente sólo son habladurías de locos.
+dlga_wildfire_talk7:close_window.18|Muy bien, encontraré esos tesoros ándalos para vos.
+dlga_wildfire_talk7:close_window.19|No me interesa.
+dlga_start:close_window.149|¿Sí?
+dlga_start:wildfire_talk.11|¿Sí?
+dlga_wildfire_talk:wildfire_talk2.9|Soy {playername}, y vengo buscando encargos. ¿Tenéis alguna tarea para mí?
+dlga_wildfire_talk2:close_window|¡Sabrosa príncipe! ¡El rey me hecho daño, y ahora lo va a pagar! ¡LO VA A PAGAR! ¡Las voces me lo dijeron! Me dijeron que el rey estaba bromeando acerca de mis cuchillos! Las voces ... tienen frío, ojos, azules...
+dlga_start:close_window.150|¿Sí?
+dlga_start:wildfire_talk.12|¿Sí, {playername}?
+dlga_wildfire_talk:wildfire_talk2.10|Así es. ¿En qué puedo ayudar?
+dlga_wildfire_talk2:close_window.1|ÉL nos unía. Con el frío y la sangre, ¡nos ha obligado a hacer a su voluntad!
+dlga_start:close_window.151|Marchaos.
+dlga_start:wildfire_starter_introduce_1.5|¿Sí?
+dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.6|¿Sabéis de alguien que pudiera tener alguna tarea para mí?
+dlga_wildfire_starter_introduce_2:close_window.6|Hace unos días escuché un rumor... Phario FOrel, el bardo, está buscando a alguien para localizar una antigua tuma... Probablemente podáis encontrarlo aquí en un par de horas como mucho, porque anda encaprichado de Merry...
+dlga_start:close_window.152|¿Sí?
+dlga_start:wildfire_talk.13|Bienvenido, amigo mío. Veo que habéis irrumpido sin invitación, pero sed bienvenido igualmente. ¿Qué hacéis aquí, si puedo preguntar?
+dlga_wildfire_talk:close_window.11|Adiós.
+dlga_wildfire_talk2:wildfire_talk3.11|¡Ah, sí! Han desaparecido varias caravanas en el Paso de Hugor de la Colina. Suspecho de una banda de forajidos que podrían estar utilizando las cuevas de la zona como refugio.
+dlga_wildfire_talk3:wildfire_talk4.11|¿Qué queréis que haga?
+dlga_wildfire_talk4:wildfire_talk5.11|Localizad esa cueva y matad a todos los bandidos que encontréis.
+dlga_wildfire_talk5:wildfire_talk6.11|Umm... vamos.
+dlga_wildfire_talk5:close_window.11|Adiós.
+dlga_wildfire_talk6:wildfire_talk7.11|Tendréis que eliminar a esos proscritos por vos mismo, no podréis sorpenderlos llevando a un ejército entero.
+dlga_wildfire_talk7:close_window.20|Muy bien, me encargaré de esos bandidos.
+dlga_wildfire_talk7:close_window.21|No estoy interesado.
+dlga_start:close_window.153|¿Sí?
 dlga_start:pj_wildfire_talk.15|¿Sí?
 dlga_pj_wildfire_talk:close_window.15|¡Ajá!
 dlga_pj_wildfire_talk:pj_wildfire_talk2.15|Burlow, ¿sois vos?
@@ -3651,53 +3792,11 @@ dlga_morcant_creditos:close_window.8|No sé mucho más que cualquier otro. Tal v
 dlga_pj_wildfire_talk:pj_wildfire_talk2.16|Ser Gilbert, me he encargado de los conspiradores.
 dlga_pj_wildfire_talk2:pj_wildfire_talk3.16|¿De verdad? ¡Bien hecho, {playername}! Su majestad el Rey me ha dado permiso para para elegiros una recompensa adecuada de la armería del Tambor de Piedra. Una de las armas me pareció especialmente fascinante. Tomada de un contrabandista braavosi hace unos años, parece tener una hoja estrecha pero se forjó para empuñarla con las dos manos y no con una. Creo que sus tajos no son gran cosa, pero podría ser letal como arma punzante. Y por supuesto, ¡también tendréis una recompensa en metálico!
 dlga_pj_wildfire_talk3:close_window.7|Gratitud, Ser Gilbert.
-dlga_start:wildfire_starter_introduce_1.5|¿Sí?
-dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.6|¿Sabéis de alguien que pudiera tener alguna tarea para mí?
-dlga_wildfire_starter_introduce_2:close_window.6|Hace unos días escuché un rumor... Phario FOrel, el bardo, está buscando a alguien para localizar una antigua tuma... Probablemente podáis encontrarlo aquí en un par de horas como mucho, porque anda encaprichado de Merry...
-dlga_start:close_window.149|¿Sí?
-dlga_start:wildfire_talk.10|¿Sí? ¿En qué puedo ayudaros?
-dlga_wildfire_talk:close_window.10|Adiós.
-dlga_wildfire_talk2:wildfire_talk3.10|'El Padre puso la mano en los cielos y cogió siete estrellas y una tras otra las fue poniendo en la frente de Hugor de al Colina hasta hacerle una brillante corona'...
-dlga_wildfire_talk3:wildfire_talk4.10|¿Qué?
-dlga_wildfire_talk4:wildfire_talk5.10|¡Es de la Estrella de Siete de Puntas, ignorante salvaje! Hay cantidad de tontos en Poniente, pero cualquiera de ellos conoce la historia de la corona. Por supuesto, no la hizo un dios...
-dlga_wildfire_talk5:wildfire_talk6.10|Umm... adelante.
-dlga_wildfire_talk5:close_window.10|Adiós.
-dlga_wildfire_talk6:wildfire_talk7.10|Los ándalos forjaron toda clase de tesoros con oro y cobre. Tengo razones para creer que uno de ellos podría estar enterrado en un viejo túmulo, cerca de las Ruinas de Iksa Calo. ¡Necesito esos tesoros ándalos para mi próxima representación! Se supone que el túmulo está protegido por espíritus y por los fantasmas de los antiguos reyes ándalos, pero obviamente sólo son habladurías de locos.
-dlga_wildfire_talk7:close_window.18|Muy bien, encontraré esos tesoros ándalos para vos.
-dlga_wildfire_talk7:close_window.19|No me interesa.
-dlga_start:close_window.150|¿Sí?
-dlga_start:pj_wildfire_talk.17|¿Sí, {playername}?
-dlga_pj_wildfire_talk:close_window.17|No importa.
-dlga_pj_wildfire_talk:morcant_creditos.9|¿Qué más podéis contarme sobre la Estrella de Siete Puntas?
-dlga_morcant_creditos:close_window.9|¡Leedlo vos mismo!
-dlga_pj_wildfire_talk:pj_wildfire_talk2.17|No he encontrado ningún tesoro ándalo.
-dlga_pj_wildfire_talk2:pj_wildfire_talk3.17|¿En serio? ¡Oh, la maldición de los siete infiernos caiga sobre ese viejo estúpido! ¡La Tercera Espada juró que encontraría lo que busco en ese túmulo!
-dlga_pj_wildfire_talk3:close_window.8|Bueno...
 dlga_start:wildfire_starter_introduce_1.6|Eh... ¿si?
 dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.7|Mi señora, ¿puedo saber más de vos?
 dlga_wildfire_starter_introduce_2:close_window.7|No... pero tal vez podáis ganaros mi favor ayudando a un amigo muy querido. Encontrad a Moredo Tendyris y hablad con él. Seguramente esté en la taberna, le encanta la música.
-dlga_start:close_window.151|Marchaos.
-dlga_start:wildfire_talk.11|¿Sí?
-dlga_wildfire_talk:wildfire_talk2.7|Lady Mellario me comentó que andáis buscando ayuda, ¿es así?
-dlga_wildfire_talk:close_window.11|Adiós.
-dlga_wildfire_talk2:wildfire_talk3.11|¡Ah, sí! Han desaparecido varias caravanas en el Paso de Hugor de la Colina. Suspecho de una banda de forajidos que podrían estar utilizando las cuevas de la zona como refugio.
-dlga_wildfire_talk3:wildfire_talk4.11|¿Qué queréis que haga?
-dlga_wildfire_talk4:wildfire_talk5.11|Localizad esa cueva y matad a todos los bandidos que encontréis.
-dlga_wildfire_talk5:wildfire_talk6.11|Umm... vamos.
-dlga_wildfire_talk5:close_window.11|Adiós.
-dlga_wildfire_talk6:wildfire_talk7.11|Tendréis que eliminar a esos proscritos por vos mismo, no podréis sorpenderlos llevando a un ejército entero.
-dlga_wildfire_talk7:close_window.20|Muy bien, me encargaré de esos bandidos.
-dlga_wildfire_talk7:close_window.21|No estoy interesado.
-dlga_start:close_window.152|¿Sí?
-dlga_start:pj_wildfire_talk.18|¿Sí, {playername}?
-dlga_pj_wildfire_talk:close_window.18|Nada.
-dlga_pj_wildfire_talk:morcant_creditos.10|¿Qué podéis contarme sobre el Paso de Hugor de la Colina?
-dlga_morcant_creditos:close_window.10|No hay mucho que contar en realidad. El paso toma su nombre de Hugor de la Colina, evidentemente. Todo lo que véis en estas tierras recibe su nombre de alguna figura religiosa de los ándalos.
-dlga_pj_wildfire_talk:pj_wildfire_talk2.18|Me he encargado de los bandidos.
-dlga_pj_wildfire_talk2:pj_wildfire_talk3.18|¡Buen trabajo, {playername}! ¡Os corresponde una recompensa!
-dlga_pj_wildfire_talk3:close_window.9|Mi gratitud.
-dlga_start:wildfire_talk.12|¿Sí, {playername}?
-dlga_wildfire_talk:wildfire_talk2.8|¿Tenéis más tareas para mí?
+dlga_start:close_window.154|¡Fuera de aquí!
+dlga_start:wildfire_talk.14|El Padre vela por vos, {hermano/hermana}. ¿Habéis venido a ayudarnos en estos tiempos de necesidad?
 dlga_wildfire_talk:close_window.12|Adiós.
 dlga_wildfire_talk2:wildfire_talk3.12|Oh sí, la tengo. Un buen amigo mío ha desaparecido. Visitaba unos baños en ruinas, al norte de Myr, pero ni yo ni mis conocidos hemos sabido nada nuevo de él desde que partió hace varias semanas. Ya debería haber regresado.
 dlga_wildfire_talk3:wildfire_talk4.12|¿Qué queréis que haga?
@@ -3707,7 +3806,49 @@ dlga_wildfire_talk5:close_window.12|Adiós.
 dlga_wildfire_talk6:wildfire_talk7.12|¡Me aseguraré de que seáis debidamente recompensado!
 dlga_wildfire_talk7:close_window.22|Muy bien, encontraré a ese amigo vuestro.
 dlga_wildfire_talk7:close_window.23|No me interesa, la verdad.
-dlga_start:close_window.153|¿Sí?
+dlga_start:close_window.155|¿Sí?
+dlga_start:pj_wildfire_talk.17|¿Sí, {playername}?
+dlga_pj_wildfire_talk:close_window.17|No importa.
+dlga_pj_wildfire_talk:morcant_creditos.9|¿Qué más podéis contarme sobre la Estrella de Siete Puntas?
+dlga_morcant_creditos:close_window.9|¡Leedlo vos mismo!
+dlga_pj_wildfire_talk:pj_wildfire_talk2.17|No he encontrado ningún tesoro ándalo.
+dlga_pj_wildfire_talk2:pj_wildfire_talk3.17|¿En serio? ¡Oh, la maldición de los siete infiernos caiga sobre ese viejo estúpido! ¡La Tercera Espada juró que encontraría lo que busco en ese túmulo!
+dlga_pj_wildfire_talk3:close_window.8|Bueno...
+dlga_start:wildfire_starter_introduce_1.7|¿Qué hacéis aquí? ¡Estas son las estancias privadas del Magíster Mopatis!
+dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.8|¿Quién es ese Magíster?
+dlga_wildfire_starter_introduce_2:close_window.8|¡Es uno de los Magíster de Pentos, idiota! ¡Pronto regresará y cuando vuelva os arrepentiréis de haberos colado aquí!. Pero si tenéis negocios que tratar con él, podéis encontrarle en la corte de Pentos.
+dlga_start:close_window.156|Esa es mi última palabra.
+dlga_start:wildfire_talk.15|¿Sí? ¿Qué queréis?
+dlga_wildfire_talk:wildfire_talk2.11|¿Lady Mellario dijo que estaba buscando ayuda?
+dlga_wildfire_talk:close_window.13|Adiós.
+dlga_wildfire_talk2:wildfire_talk3.13|Sí, {playername}, la tengo, vaya que si la tengo. Necesito a un valiente que cruce el Mar Humeante y navegue hasta Meeren. Una... conocida mía ha establecido su residencia en la ciudad y me gustaría mucho seguir en contacto con ella. Así que, ¿qué decís, {playername}? ¿Sois lo suficientemente valoroso como para emprender ese viaje?
+dlga_wildfire_talk3:wildfire_talk4.13|¡Desafiaré ese Mar Humeante y alcanzaré Meeren!
+dlga_wildfire_talk4:wildfire_talk5.13|¡Espléndido! Seréis bien recompensado, os lo aseguro. Una vez en Meeren, buscad a Belandra Kheranes; ella os ayudará. Y entre nosotros os digo que seguro que sois capaz de ganaros una pequeña fortuna si aprovecháis bien este viaje a la Bahía de los Esclavos, por ejemplo trayendo a vuestra vuelta algunos sacos de especias. Eso sí, por desgracia mis barcos están ahora lejos en el mar, por lo que tendréis que encontrar vuestro propio medio de transporte para llegar a Meeren.
+dlga_wildfire_talk5:wildfire_talk6.13|¿Dónde puedo encontrar un barco?
+dlga_wildfire_talk5:close_window.13|Pensándolo mejor, creo que me quedaré en tierra.
+dlga_wildfire_talk6:wildfire_talk7.13|Viajad hasta Volantis, cerca de la antigua Valyria, y seguro que desde allí podréis encontrar barcos hacia la Bahía de los Esclavos. Visitad la taberna e intentad localizar a Bayle Neres. Es un viejo sinvergüenza, pero precisamente por eso no os pondrá pegas a llevaros más allá de Valyria. Por el precio adecuado, claro.
+dlga_wildfire_talk7:close_window.24|Muy bien, volveré aquí una vez haya estado en Meeren.
+dlga_wildfire_talk7:close_window.25|Creo que no me interesa.
+dlga_start:close_window.157|El Rey está ocupado en este momento y es su Consejo Privado quien trata los asuntos del reino.
+dlga_start:pj_wildfire_talk.18|¿Sí, {playername}?
+dlga_pj_wildfire_talk:close_window.18|Nada.
+dlga_pj_wildfire_talk:morcant_creditos.10|¿Qué podéis contarme sobre el Paso de Hugor de la Colina?
+dlga_morcant_creditos:close_window.10|No hay mucho que contar en realidad. El paso toma su nombre de Hugor de la Colina, evidentemente. Todo lo que véis en estas tierras recibe su nombre de alguna figura religiosa de los ándalos.
+dlga_pj_wildfire_talk:pj_wildfire_talk2.18|Me he encargado de los bandidos.
+dlga_pj_wildfire_talk2:pj_wildfire_talk3.18|¡Buen trabajo, {playername}! ¡Os corresponde una recompensa!
+dlga_pj_wildfire_talk3:close_window.9|Mi gratitud.
+dlga_start:wildfire_talk.16|¿Sí, {playername}?
+dlga_wildfire_talk:wildfire_talk2.12|¿Tenéis alguna otra tarea para mi?
+dlga_wildfire_talk:close_window.14|Lo siento, no.
+dlga_wildfire_talk2:wildfire_talk3.14|Un grupo de nuestros hermanos acaba de regresar de una peregrinación al Septo Estrellado de Antigua. ¡Entre los objetos que trajeron al norte se encuentra una reliquia del mismísimo Baelor el Santo! ¡Un anillo que se dice que llevaba el Rey cuando marchó a Dorne para rescatar al Caballero Dragón de ese agujero de serpientes! Pero en el camino, no muy lejos de Árbol de Cuervos, fueron atacados por Aegon el Sangriento, el hijo proscrito de Ser Aenys Frey. Pensaba que había muerto hace años, pero el hermano Tommen jura que era él. Robó todas provisiones y objetos que llevaban los hermanos, ¡incluido el anillo! ¡Encontradlo, {playername}, y haced justicia! Ha habido informes de forajidos cerca de Caída Alta, quizás podáis dar con él allí.
+dlga_wildfire_talk3:wildfire_talk4.14|¡Os traeré su cabeza!
+dlga_wildfire_talk4:wildfire_talk5.14|Id a buscarlo. Si se ha reunido con un fin lamentable, necesito que traigas cualquier libro o pergamino que pudiese llevar, pero rezo por que no sea el caso. ¡Pero tengo que saber qué pasó con él, {playername} !
+dlga_wildfire_talk5:wildfire_talk6.14|Hmm...
+dlga_wildfire_talk5:close_window.14|Nada.
+dlga_wildfire_talk6:wildfire_talk7.14|¡Me aseguraré de que seas bien recompensado!
+dlga_wildfire_talk7:close_window.26|No estoy interesado.
+dlga_wildfire_talk7:close_window.27|Creo que no me interesa.
+dlga_start:close_window.158|El Caos es una escalera, ¿No crees? Muchos que intentan escalarla fallan, y nunca vuelven a intentarlo. La caída los quiebra. Y otros, que le dan una oportunidad, rehusan. Ellos se amparan en el reino, o los dioses, o en el amor... Ilusiones. Solo la escalera es real y escalarla es lo único real. O eso dirían algunos...
 dlga_start:pj_wildfire_talk.19|¿Sí?
 dlga_pj_wildfire_talk:close_window.19|¡Ajá!
 dlga_pj_wildfire_talk:pj_wildfire_talk2.19|¿Sois el conocido de Illyrio?
@@ -3721,22 +3862,22 @@ dlga_morcant_creditos:close_window.11|Oh, tan sólo un viejo amigo. Todos le lla
 dlga_pj_wildfire_talk:pj_wildfire_talk2.20|Encontré a Haldon y lo encontré de un grupo de bandidos.
 dlga_pj_wildfire_talk2:pj_wildfire_talk3.20|¡Bien hecho, {playername}! ¡Creo que os corresponde una recompensa!
 dlga_pj_wildfire_talk3:close_window.10|Gracias.
-dlga_start:wildfire_starter_introduce_1.7|¿Qué hacéis aquí? ¡Estas son las estancias privadas del Magíster Mopatis!
-dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.8|¿Quién es ese Magíster?
-dlga_wildfire_starter_introduce_2:close_window.8|¡Es uno de los Magíster de Pentos, idiota! ¡Pronto regresará y cuando vuelva os arrepentiréis de haberos colado aquí!. Pero si tenéis negocios que tratar con él, podéis encontrarle en la corte de Pentos.
-dlga_start:close_window.154|¡Fuera de aquí!
-dlga_start:wildfire_talk.13|Bienvenido, amigo mío. Veo que habéis irrumpido sin invitación, pero sed bienvenido igualmente. ¿Qué hacéis aquí, si puedo preguntar?
-dlga_wildfire_talk:wildfire_talk2.9|Soy {playername}, y vengo buscando encargos. ¿Tenéis alguna tarea para mí?
-dlga_wildfire_talk:close_window.13|Adiós.
-dlga_wildfire_talk2:wildfire_talk3.13|Sí, {playername}, la tengo, vaya que si la tengo. Necesito a un valiente que cruce el Mar Humeante y navegue hasta Meeren. Una... conocida mía ha establecido su residencia en la ciudad y me gustaría mucho seguir en contacto con ella. Así que, ¿qué decís, {playername}? ¿Sois lo suficientemente valoroso como para emprender ese viaje?
-dlga_wildfire_talk3:wildfire_talk4.13|¡Desafiaré ese Mar Humeante y alcanzaré Meeren!
-dlga_wildfire_talk4:wildfire_talk5.13|¡Espléndido! Seréis bien recompensado, os lo aseguro. Una vez en Meeren, buscad a Belandra Kheranes; ella os ayudará. Y entre nosotros os digo que seguro que sois capaz de ganaros una pequeña fortuna si aprovecháis bien este viaje a la Bahía de los Esclavos, por ejemplo trayendo a vuestra vuelta algunos sacos de especias. Eso sí, por desgracia mis barcos están ahora lejos en el mar, por lo que tendréis que encontrar vuestro propio medio de transporte para llegar a Meeren.
-dlga_wildfire_talk5:wildfire_talk6.13|¿Dónde puedo encontrar un barco?
-dlga_wildfire_talk5:close_window.13|Pensándolo mejor, creo que me quedaré en tierra.
-dlga_wildfire_talk6:wildfire_talk7.13|Viajad hasta Volantis, cerca de la antigua Valyria, y seguro que desde allí podréis encontrar barcos hacia la Bahía de los Esclavos. Visitad la taberna e intentad localizar a Bayle Neres. Es un viejo sinvergüenza, pero precisamente por eso no os pondrá pegas a llevaros más allá de Valyria. Por el precio adecuado, claro.
-dlga_wildfire_talk7:close_window.24|Muy bien, volveré aquí una vez haya estado en Meeren.
-dlga_wildfire_talk7:close_window.25|Creo que no me interesa.
-dlga_start:close_window.155|¿Sí?
+dlga_start:wildfire_starter_introduce_1.8|Sí, ¿puedo ayudaros?
+dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.9|¿Quién manda aquí?
+dlga_wildfire_starter_introduce_2:close_window.9|Sería el Hermano Mayor, pero me temo que no está aquí ahora. Se fue a Buenmercado a buscar la ayuda de hombres valerosos.
+dlga_start:close_window.159|Soy un hombre ocupado, no tengo tiempo para vos.
+dlga_start:wildfire_talk.17|Bienvenido, amigo mío. Veo que irrumpió, sin invitación, pero no obastante, le doy la bienvenida. ¿Qué haces aquí, si no te importa que te pregunte?
+dlga_wildfire_talk:wildfire_talk2.13|Soy {playername}, y he venido en busca de aventuras. ¿Tiene alguna tarea para mí?
+dlga_wildfire_talk:close_window.15|Nada.
+dlga_wildfire_talk2:wildfire_talk3.15|Barbasangre me disgusta. Estoy bastante cansado de sus insultos y de sus maneras brutales. Ha llegado el momento de que él y su banda de salvajes dejen este mundo. Id a Lys y provocadle, eso debería bastar para que saliera. Matadlo, a él y a sus hombres. Haced esto por mí, {playername}, y me aseguraré de que seáis bien recompensado.
+dlga_wildfire_talk3:wildfire_talk4.15|Muy bien, mataré a Barbasangre. Pero mi señor, si no os importuna que os lo pregunte, ¿quién sois?
+dlga_wildfire_talk4:wildfire_talk5.15|¡Espléndido! Usted será bien recompensado, le puedo asegurar que eso. Una vez que llegue a Meereen, busque a Belandra Kheranes, ella te ayudará en tu camino. Y entre nosotros, si usted puede llevar suficientes monedas propias en el viaje, podría ser capaz de conseguir un excelente beneficio al comprar especias allí para venderlas a la vuelta. Ahora, por desgracia, mis propias naves están navegando por el mar, por lo que tendrá que encontrar su propio camino a Meereen.
+dlga_wildfire_talk5:wildfire_talk6.15|¿Donde puedo encontrar un barco?
+dlga_wildfire_talk5:close_window.15|Pensándolo mejor, me quedaré en tierra.
+dlga_wildfire_talk6:wildfire_talk7.15|Viaja a Volantis, que se encuentra cerca a la antigua Valyria, y puede que seas capaz de contratar a un barco allí. Visite la taberna y ver si usted puede encontrar Bayle Neres. Es un viejo pícaro, que no será reacio a viajar más allá de Valyria. Por el precio correcto, por supuesto.
+dlga_wildfire_talk7:close_window.28|Muy bien, voy a volver una vez que he visto Meereen.
+dlga_wildfire_talk7:close_window.29|Creo que no me interesa.
+dlga_start:close_window.160|Tengo otros asuntos importantes que requieren mi atención.
 dlga_start:pj_wildfire_talk.21|¡Estoy ocupado, fuera!
 dlga_pj_wildfire_talk:close_window.21|¡Ajá!
 dlga_pj_wildfire_talk:pj_wildfire_talk2.21|¿Sois Belandra Kherane?
@@ -3916,14 +4057,14 @@ dlga_start:sandor_master_talk|Guarda tus maneras en el castillo y no tendré que
 dlga_sandor_master_talk:sandor_master_customize|¿Puedes contarme la historia de la casa Clegane?
 dlga_sandor_master_customize:sandor_master_talk|No hay mucho que contar. Mi abuelo salvó a Lord Tywins de una leona, se le concedió una torre y su hijo, mi padre, fue tomado como escudero. Gregor es el jefe de la casa.
 dlga_sandor_master_talk:close_window|Adiós.
-dlga_start:close_window.156|Esa es mi última palabra.
+dlga_start:close_window.161|Me temo que debo irme.
 dlga_start:varys_introduce_1|Hola, amigo mío. Soy Varys, el Consejero de los Rumores.
 dlga_varys_introduce_1:varys_introduce_2|Saludos.
 dlga_varys_introduce_2:varys_master_talk|Tal vez podáis convencer a Lord Meñique de que la única cosa sensata que hacer en tiempos de tormentas es mantener la ilusión de la seguridad y la estabilidad, incluso cuando el barco se hunde.
 dlga_varys_master_talk:varys_master_customize|¿Qué hace el Consejero de los Rumores?
 dlga_varys_master_customize:varys_master_talk|Oh, no mucho. Mayormente mantengo al Rey y su Consejo Privado informado de los eventos de las ciudades libres, y le procuro... algunas informaciones... relacionadas con el reino.
 dlga_varys_master_talk:close_window|Adiós.
-dlga_start:close_window.157|El Rey está ocupado en este momento y es su Consejo Privado quien trata los asuntos del reino.
+dlga_start:close_window.162|Debo comprobar el entrenamiento de nuestros nuevos reclutas, disculpadme.
 dlga_start:littlefinger_introduce_1|¿No hace un magnífico día?
 dlga_littlefinger_introduce_1:littlefinger_introduce_2|Eso parece...
 dlga_littlefinger_introduce_2:littlefinger_introduce_3|Cuanta persona interesante por aquí, y la que más, lady Stokeworth, que seguro que me invita a otra cena. Ya veo pasteles y suculentos manjares en mi futuro próximo.
@@ -3931,7 +4072,7 @@ dlga_littlefinger_introduce_3:littlefinger_master_talk|Si, es un día prometedor
 dlga_littlefinger_master_talk:littlefinger_master_customize|¿Podéis contarme la historia de vuestra casa?
 dlga_littlefinger_master_customize:littlefinger_master_talk|¡Ah! La orgullosa herencia de la casa Baelish. No, prefiero que no.
 dlga_littlefinger_master_talk:close_window|Adiós.
-dlga_start:close_window.158|El Caos es una escalera, ¿No crees? Muchos que intentan escalarla fallan, y nunca vuelven a intentarlo. La caída los quiebra. Y otros, que le dan una oportunidad, rehusan. Ellos se amparan en el reino, o los dioses, o en el amor... Ilusiones. Solo la escalera es real y escalarla es lo único real. O eso dirían algunos...
+dlga_start:close_window.163|¡Tengo que irme!¡El gato negro está intentando zafarse!
 dlga_start:pycelle_introduce_1|Saludos y bienvenido. Soy el maestre Pycelle.
 dlga_pycelle_introduce_1:pycelle_introduce_2|Saludos. ¿Que es lo que hace un maestre?
 dlga_pycelle_introduce_2:pycelle_master_talk|Aconsejo al Rey y a su Consejo en los asuntos del reino. Y también soy responsable de la salud de la familia real.
@@ -3939,14 +4080,14 @@ dlga_pycelle_master_talk:pycelle_master_customize|¿Es cierto que has servido a 
 dlga_pycelle_master_customize:close_window|¿Y qué?
 dlga_pycelle_master_talk:pycelle_master_customize2|He oído que convencisteis al Rey Aerys para permitir la entrada de Lord Tywin. ¿No sois muy fiable, verdad?
 dlga_pycelle_master_customize2:close_window|¡Bah! No lo entendéis. El Rey Robert era el verdadero heredero del trono de hierro.
-dlga_start:close_window.159|Soy un hombre ocupado, no tengo tiempo para vos.
+dlga_start:close_window.164|Madre dice que una princesa tiene que ser cortés, pero también consciente de que está por encima de todos.
 dlga_start:lancel_introduce_1|¿Sí?
 dlga_lancel_introduce_1:lancel_introduce_2|Saludos. ¿Quien sois?
 dlga_lancel_introduce_2:lancel_master_talk|Soy Ser Lancel Lannister, un selecto caballero y no tengo tiempo para vos.
 dlga_lancel_master_talk:lancel_master_customize|¿Podéis hablarme sobre la historia de la casa Lannister?
 dlga_lancel_master_customize:lancel_master_talk|Eh, supongo... Descendemos de Lann el Astuto, el legendario guerrero de la Edad de los Héroes. Ganó Roca Casterly a los Casterly y para los Lannister la Roca ha sido nuestra casa desde entonces. Antes de la conquista, gobernábamos como reyes de la roca y después, desde los tiempos de Aegon, los Lannister hemos gobernado Señores las tierras occidentales y Guardiantes del Occidente.
 dlga_lancel_master_talk:close_window|Adiós.
-dlga_start:close_window.160|Tengo otros asuntos importantes que requieren mi atención.
+dlga_start:close_window.165|Debo irme a buscar a Tommen. Está hablando de un gato negro otra vez. Tengo que asegurarme de que no se daña intentando cogerlo.
 dlga_start:jalabhar_introduce_1|Soy Jalabhar Xho, Principe del valle de la flor roja por derecho propio.
 dlga_jalabhar_introduce_1:jalabhar_introduce_2|Saludos. ¿Dónde está ese valle?
 dlga_jalabhar_introduce_2:jalabhar_introduce_3|Ah, en las islas de verano. El nombre deriva de las flores rojas que cubren la tierra.
@@ -3956,7 +4097,7 @@ dlga_jalabhar_introduce_5:jalabhar_master_talk|Magia oscura... Si, seguro...
 dlga_jalabhar_master_talk:jalabhar_master_customize|¿Puedes contarme la historia de las Islas de Verano?
 dlga_jalabhar_master_customize:jalabhar_master_talk|Me temo que no. Durante la maldición, un maremoto azotó las islas y no se sabe nada de nuestra historia antes de eso, escepto por pequeños fragmentos de leyendas y algunas historias absurdas.
 dlga_jalabhar_master_talk:close_window|Adiós.
-dlga_start:close_window.161|Me temo que debo irme.
+dlga_start:close_window.166|¡Estoy ocupado!
 dlga_start:aron_santagar_introduce_1|Saludos. Soy Ser Aron Santagar.
 dlga_aron_santagar_introduce_1:aron_santagar_introduce_2|Saludos. ¿Que hacéis en la corte?
 dlga_aron_santagar_introduce_2:aron_santagar_introduce_3|Soy el Maestro de Armas aquí en la Fortaleza Roja.
@@ -3965,12 +4106,12 @@ dlga_aron_santagar_introduce_4:aron_santagar_master_talk|Así es, aunque el Rey 
 dlga_aron_santagar_master_talk:aron_santagar_master_customize|¿Puedes contarme la historia de la Fortaleza Roja?
 dlga_aron_santagar_master_customize:aron_santagar_master_talk|Cuando Aegon el Conquistador desembarcó en las costas de Poniente, construyó una fortaleza de madera y tierra en la montaña que ahora lleva su nombre. Tras la conquista, cuando Desembarco del Rey se convirtió en la nueva capital, se estableció la Fortaleza Roja como sede de la casa Targaryen, pero fue durante el reinado de su hijo, Maegor el Cruel, cuando el castillo se terminó. Maegor hizo que todos los constructores que habían trabajado en la torre del homenaje fueran ejecutados, así solo los reyes Targaryen podían conocer los secretos del castillo.
 dlga_aron_santagar_master_talk:close_window|Adiós.
-dlga_start:close_window.162|Debo comprobar el entrenamiento de nuestros nuevos reclutas, disculpadme.
+dlga_start:close_window.167|Disculpadme.
 dlga_start:tommen_introduce_2|¡Hola!
 dlga_tommen_introduce_2:close_window|Si yo fuera rey, prohibiría la remolacha.
-dlga_start:close_window.163|¡Tengo que irme!¡El gato negro está intentando zafarse!
-dlga_start:close_window.164|Madre dice que una princesa tiene que ser cortés, pero también consciente de que está por encima de todos.
-dlga_start:close_window.165|Debo irme a buscar a Tommen. Está hablando de un gato negro otra vez. Tengo que asegurarme de que no se daña intentando cogerlo.
+dlga_start:close_window.168|Disculpad, {playername}, Tengo que ahogar a un hombre.
+dlga_start:close_window.169|Disculpadme, {playername}.
+dlga_start:close_window.170|Tengo que irme, ¡Y practicar con mi arco!
 dlga_start:joffrey_introduce_1|¿Sí?¿Qué queréis?
 dlga_joffrey_introduce_1:joffrey_introduce_2|Alteza, dejadme presentarme, soy {playername}.
 dlga_joffrey_introduce_2:joffrey_master_talk|Sí. Muy bien. ¿Asumo que venís para ofrecerme lealtad?
@@ -3980,56 +4121,51 @@ dlga_joffrey_master_customize2:joffrey_master_customize3|Por los dioses antiguos
 dlga_joffrey_master_customize3:joffrey_finish|Excelente. Ahora disculpadme, tengo asuntos urgentes que atender. ¡Ser rey es agotador! Se asegurarán de compensaros adecuadamente.
 dlga_joffrey_finish:close_window|¡Su alteza es muy generosa!
 dlga_joffrey_master_talk:close_window|Disculpadme, alteza. Tengo asuntos pendientes.
-dlga_start:close_window.166|¡Estoy ocupado!
+dlga_start:close_window.171|¡Tengo que irme! Los guardias dicen que han visto un oso escondido fuera de las murallas.
 dlga_start:sansa_introduce_1|¿Sí?
 dlga_sansa_introduce_1:sansa_introduce_2|Mi señora, ¿podría saber más de vos?
 dlga_sansa_introduce_2:close_window|Soy Sansa Stark, la hija mayor de Lord Eddard Stark.
-dlga_start:close_window.167|Disculpadme.
+dlga_start:close_window.172|Me temo que debo ponerme en marcha. Jorelle y yo vamos a ir a ver al oso.
 dlga_start:jor_the_keeper_introduce_1|¿Sí?
 dlga_jor_the_keeper_introduce_1:jor_the_keeper_introduce_2|¿Qué es este lugar?
 dlga_jor_the_keeper_introduce_2:jor_the_keeper_master_talk|Es la Colina de Nagga, el lugar del salón del Rey Gris.
 dlga_jor_the_keeper_master_talk:jor_the_keeper_master_customize|¿Podéis contarme más sobre la Colina de Nagga?
 dlga_jor_the_keeper_master_customize:jor_the_keeper_master_talk|Según la leyenda, Nagga fue el primer dragón marino, capaz de comer krakens y leviatanes y de ahogar islas cuando enfurecía. El Rey Gris, ayudado por el Dios Ahogado, intentaron matarla en la orilla de la isla de Viejo Wyk y construyeron su castillo con sus huesos. Sus garras fueron el trono y sus dientes, la corona. Él calentó el castillo con su fuego de vida.  Sin embargo, cuando el Rey Gris murió, el dios de la tormenta ahogó el fuego y el mar tomó el trono. Solo los huesos que formaron los pilares y vigas siguen allí.
 dlga_jor_the_keeper_master_talk:close_window|Adiós.
-dlga_start:close_window.168|Disculpad, {playername}, Tengo que ahogar a un hombre.
+dlga_start:close_window.173|No se nos permite hablar durante la guardia.
 dlga_start:maege_mormont_introduce_1|¿Sí?
 dlga_maege_mormont_introduce_1:maege_mormont_introduce_2|Mi señora, ¿Qué podrías contarme sobra la Isla del Oso?
 dlga_maege_mormont_introduce_2:maege_mormont_master_talk|Nuestras tierras están mayormente habitadas por granjeros. Tenemos muchos pinos y nuestros mares tienen pesces y focas. Los bosques están llenos de osos grandes negros.
 dlga_maege_mormont_master_talk:maege_mormont_master_customize|¿Qué podéis contarme sobre la Casa Mormont?
 dlga_maege_mormont_master_customize:maege_mormont_master_talk|La Isla del Oso estaba gobernada por la Casa Piedemadera antes de su conquista por los hijos del hierro. La casa Hoare, que gobernaba las Islas del hierro en aquel momento, plantaron un arbol verde en el segundo trimestre como su sello en referencia a su posesión de la Isla del Oso. La isla volvió al Norte durante el reinado de Rodrik Stark, supuestamente como resultado de una pelea libre. Rodrik entregó la isla a la Casa Mormont. En días pasados, los hijos del hierro, o salvajes de la Costa Helada, hicieron una incursión a la Isla y los hombres estaban pescando. Las mujeres defendieron la isla mientras los hombres estaban fuera. Como resultado, nuestras mujeres siempre han aprendido a llevar niños y hachas.
 dlga_maege_mormont_master_talk:close_window|Adiós, mi señora.
-dlga_start:close_window.169|Disculpadme, {playername}.
+dlga_start:close_window.174|No se nos permite hablar durante la guardia.
 dlga_start:lyra_mormont_introduce_1|¿Si?
 dlga_lyra_mormont_introduce_1:lyra_mormont_introduce_2|Mi señora, ¿Puedo saber más de vos?
 dlga_lyra_mormont_introduce_2:close_window|Soy Lyra Mormont. ¿Habéis oido sobre los gigantes? ¡Lyanna me ha estado hablando de ellos!
-dlga_start:close_window.170|Tengo que irme, ¡Y practicar con mi arco!
+dlga_start:close_window.175|No se nos permite hablar durante la guardia.
 dlga_start:jorelle_mormont_introduce_1|¿Sí?
 dlga_jorelle_mormont_introduce_1:jorelle_mormont_introduce_2|Mi señora, ¿Puedo saber más de vos?
 dlga_jorelle_mormont_introduce_2:close_window|¡Soy Jorelle! Lyanna ha estado contándonos sobre gigantes, y cantando también.
-dlga_start:close_window.171|¡Tengo que irme! Los guardias dicen que han visto un oso escondido fuera de las murallas.
+dlga_start:close_window.176|El maestre Pylos me ha dicho que aprenda a escribir, porque me sentaré en el trono de hierro algún día.
 dlga_start:lyanna_mormont_introduce_1|¿Sí?
 dlga_lyanna_mormont_introduce_1:lyanna_mormont_introduce_2|Saludos, mi señora, ¿Puedo saber más de vos?
 dlga_lyanna_mormont_introduce_2:lyanna_mormont_master_talk|Soy Lyanna Mormont. ¿Habéis visto Invernalia? Madre dice que nos llevará un día.
 dlga_lyanna_mormont_master_talk:lyanna_mormont_master_customize|¿Puedes hablarme de los gigantes?
 dlga_lyanna_mormont_master_customize:lyanna_mormont_master_talk|Sueño con ellos. Una voz canta a un arbol y entonces algo me susurra en el viento. Dice: 'Los gigantes casi se han ido, aquellos que fueran tanto nuestros hermanos como nuestra perdición'. Madre dice que solo es un sueño, pero también sueño con árboles, y en ellos, en cada uno de ellos, hay un cuervo encima.
 dlga_lyanna_mormont_master_talk:close_window|Gracias por vuestro tiempo, mi señora.
-dlga_start:close_window.172|Me temo que debo ponerme en marcha. Jorelle y yo vamos a ir a ver al oso.
+dlga_start:close_window.177|¡Caramanchada y yo vamos a ir a la playa a buscar ámbar!
 dlga_start:edgar_the_seal_introduce_1|¿Sí?
 dlga_edgar_the_seal_introduce_1:edgar_the_seal_introduce_2|¿Qué estáis haciendo?
 dlga_edgar_the_seal_introduce_2:close_window|Estoy en guardia, ¿Qué os parece que hago?
-dlga_start:close_window.173|No se nos permite hablar durante la guardia.
+dlga_start:close_window.178|Deberíamos estar cerca del Muro. ¡Hemos viajado durante días!
 dlga_start:benfred_the_guard_introduce_1|¿Sí?
 dlga_benfred_the_guard_introduce_1:benfred_the_guard_introduce_2|¿Qué estáis haciendo?
 dlga_benfred_the_guard_introduce_2:close_window|Estoy en guardia. Normalmente es aburrido, pero hemos visto un gran oso negro rondando la ciudad. Jorelle lo llama Jeor.
-dlga_start:close_window.174|No se nos permite hablar durante la guardia.
+dlga_start:close_window.179|He oído a Yoren hablar sobre el Muro, debe ser porque estamos cerca.
 dlga_start:rognok_the_guard_introduce_1|¿Sí?
 dlga_rognok_the_guard_introduce_1:rognok_the_guard_introduce_2|¿Qué estáis haciendo?
 dlga_rognok_the_guard_introduce_2:close_window|Estoy en guardia, pero espero irme pronto.
-dlga_start:close_window.175|No se nos permite hablar durante la guardia.
-dlga_start:close_window.176|El maestre Pylos me ha dicho que aprenda a escribir, porque me sentaré en el trono de hierro algún día.
-dlga_start:close_window.177|¡Caramanchada y yo vamos a ir a la playa a buscar ámbar!
-dlga_start:close_window.178|Deberíamos estar cerca del Muro. ¡Hemos viajado durante días!
-dlga_start:close_window.179|He oído a Yoren hablar sobre el Muro, debe ser porque estamos cerca.
 dlga_start:close_window.180|Cuando lleguemos al muro, hablaré con todos los caballeros.
 dlga_start:close_window.181|¿Sabéis donde está el muro?
 dlga_start:close_window.182|¿Qué queréis?
@@ -4044,14 +4180,19 @@ dlga_start:close_window.190|Hay mucha caza en esos bosques, si sabeis dónde mir
 dlga_start:close_window.191|Nunca he estado en el Norte antes.
 dlga_start:close_window.192|¿Qué?
 dlga_start:close_window.193|Largo.
-dlga_start:jaqen_introduce_1|Un hombre ve a un estraño.
-dlga_jaqen_introduce_1:jaqen_introduce_2|¿Quién sois?
-dlga_jaqen_introduce_2:close_window|Un hombre es Jaqen H'ghar. Y es todo lo que un hombre dirá.
 dlga_start:close_window.194|...
 dlga_start:close_window.195|¡Fuera de mi vista!¡O te sacaré los dientes uno a uno!
 dlga_start:close_window.196|¡Vete al cuerno!
 dlga_start:close_window.197|¡Silba!
 dlga_start:close_window.198|¡Silba!
+dlga_start:jaqen_introduce_1|Un hombre ve a un estraño.
+dlga_jaqen_introduce_1:jaqen_introduce_2|¿Quién sois?
+dlga_jaqen_introduce_2:close_window|Un hombre es Jaqen H'ghar. Y es todo lo que un hombre dirá.
+dlga_start:close_window.199|Estamos preparando un campamento. Demasiados soldados en estos lares.
+dlga_start:close_window.200|Lollys me ha dicho que quiere encontrarse con vos, {playername}.
+dlga_start:close_window.201|Me temo que tengo asuntos importantes que atender.
+dlga_start:close_window.202|La Reina Regente está ocupada. No la molesteis.
+dlga_start:close_window.203|Oh, no permitáis que os moleste. Tía Genna dice que tengo que ser menos charlatana.
 dlga_start:yoren_introduce_1|¿Qué?
 dlga_yoren_introduce_1:yoren_introduce_2|Soy {playername}.
 dlga_yoren_introduce_2:yoren_introduce_3|Bien por ti.
@@ -4060,30 +4201,11 @@ dlga_yoren_introduce_4:yoren_master_talk|De camino al Muro, para unirnos a la Gu
 dlga_yoren_master_talk:yoren_master_customize|¿Puedes expecificar un poco sobre ellos?
 dlga_yoren_master_customize:yoren_master_talk|Nuestra orden es la más antigua de Poniente. Guardamos el muro contra los peligros que hay al otro lado.
 dlga_yoren_master_talk:close_window|Adios.
-dlga_start:close_window.199|Estamos preparando un campamento. Demasiados soldados en estos lares.
-dlga_start:tanda_stokeworth_introduce_1|Creo que no nos hemos visto antes...
-dlga_tanda_stokeworth_introduce_1:tanda_stokeworth_introduce_2|Soy {playername}
-dlga_tanda_stokeworth_introduce_2:tanda_stokeworth_introduce_3|¡Ah {playername}! ¡Por supuesto que os recuerdo! Tenéis que venir a cenar conmigo y con mi hija un día de estos. Quizás pueda invitar a Falyse y su marido, y a Ser Balman también. Él es un buen hombre y un buen luchador de justas.
-dlga_tanda_stokeworth_introduce_3:tanda_stokeworth_introduce_4|Hmm, sí... me temo que estoy ocupado en este momento.
-dlga_tanda_stokeworth_introduce_4:tanda_stokeworth_master_talk|Oh, qué lástima.
-dlga_tanda_stokeworth_master_talk:tanda_stokeworth_master_customize|¿Puedes contarme la historia de las Tierras de la Corona?
-dlga_tanda_stokeworth_master_customize:tanda_stokeworth_master_talk|Ah, son las tierras gobernadas por el rey, con todos los señores y señoras sirviendolo directamente a él y no a un lord supremo. Antes de la conquista, estaba dividido entre el rey de hierro Harren Hoare y el rey de la tormenta, Argillac Durrendon, ese llamado 'El arrogante'. Aunque una parte de los señores han servido siempre a Rocadragón también.
-dlga_tanda_stokeworth_master_talk:close_window|Adiós.
-dlga_start:close_window.200|Lollys me ha dicho que quiere encontrarse con vos, {playername}.
-dlga_start:cersei_introduce_1|¿Sí?
-dlga_cersei_introduce_1:cersei_introduce_2|Alteza, permitid que me presente. Soy {playername}.
-dlga_cersei_introduce_2:cersei_master_talk|Sí, muy bien. ¿Supongo que has venido a jurar lealtad a Joffrey?
-dlga_cersei_master_talk:cersei_master_customize|Sí, Alteza, así es.
-dlga_cersei_master_customize:cersei_master_customize2|Muy bien. Vamos, di las palabras. No podemos ofrecerte un castillo ahora mismo, pero estoy seguro que una vez los rebeldes hayan sucumbido podremos encontrarte uno. La verdad sea dicha, {playername}, imagino que tendremos muchos para repartir cuando acabemos con todos esos traidores.
-dlga_cersei_master_customize2:cersei_master_customize3|Por los antiguos dioses y los nuevos, Yo, {playername}, juro solemnemente servir al rey Joffrey, ser su hombre hasta la muerte y hasta que me libere de mi juramento y hacer todo lo posible para mantener su paz, como su fiel vasallo.
-dlga_cersei_master_customize3:cersei_finish|Excelente. Ahora si me disculpas, tengo asuntos urgentes que atender. Ser Mandon se asegurará de que te den una compensación adecuada por la falta de feudos.
-dlga_cersei_finish:close_window|¡Joffrey es el único rey verdadero!
-dlga_cersei_master_talk:close_window|Disculpadme, Majestad, tengo otros asuntos que atender.
-dlga_start:close_window.201|Me temo que tengo asuntos importantes que atender.
+dlga_start:close_window.204|Disculpadme, {playername}, debo ocuparme de los cuervos.
 dlga_start:mandon_moore_introduce_1|Estáis en presencia de su Majestad, la Reina Regente. No hagáis ninguna tontería.
 dlga_mandon_moore_introduce_1:mandon_moore_introduce_2|No lo haré.
 dlga_mandon_moore_introduce_2:close_window|Bien.
-dlga_start:close_window.202|La Reina Regente está ocupada. No la molesteis.
+dlga_start:close_window.205|Me temo que debo irme, tengo que instruir a los escuderos.
 dlga_start:joy_hill_introduce_1|¿Sí?
 dlga_joy_hill_introduce_1:joy_hill_introduce_2|Saludos, mi señora, ¿Podría tener el placer de saber más de vos?
 dlga_joy_hill_introduce_2:joy_hill_master_talk|Soy Joy Colina, la hija natural de Gerion Lannister. Tío Tywin me permite vivir aquí en Roca Casterly.
@@ -4092,21 +4214,21 @@ dlga_joy_hill_master_customize:joy_hill_master_customize1|Es el Guardián del Oc
 dlga_joy_hill_master_customize1:joy_hill_master_customize2|Tía Genna afirma que lo vio sonreir aquel día. Me hubiera gustado verlo. La mayoría de la gente teme a tío Tywin, pero él siempre ha sido gentil conmigo, sobre todo tras la desaparición de padre. Una vez me obsequió con una esmeralda que había pertencido a la princesa Rhaenyra, la madre de Aegon III Veneno de Dragón.
 dlga_joy_hill_master_customize2:joy_hill_master_talk|Tía Genna me dicho que él ahora me está buscando un heredero de buena familia con quien casarme... aunque yo sería feliz quedándome a vivir aquí para siempre... Extraño a mis primos Jaime y Tyrion, siempre fueron buenos conmigo.
 dlga_joy_hill_master_talk:close_window|Estoy seguro de que os casaréis con un hombre que os merezca, mi señora.
-dlga_start:close_window.203|Oh, no permitáis que os moleste. Tía Genna dice que tengo que ser menos charlatana.
+dlga_start:close_window.206|Me temo que debo atender a Lady Genna ahora. Ella no es de las que no les importa esperar.
 dlga_start:creylen_introduce_1|¿Sí?
 dlga_creylen_introduce_1:creylen_introduce_2|Saludos. ¿Puedo saber quién sois?
 dlga_creylen_introduce_2:creylen_master_talk|Soy el maestre Creylen, leal servidor de la Casa Lannister, en cuanto señores de este castillo.
 dlga_creylen_master_talk:creylen_master_customize|¿Qué podéis contarme sobre Roca Casterly?
 dlga_creylen_master_customize:creylen_master_talk|Según la leyenda, Roca Casterly fue construida por los Casterly. Durante la Edad de los Héroes, Lann el Astuto los engañó para que abandonasen su castillo, y lo reclamó para sí. Desde entonces, fue el hogar de los reyes de la Roca hasta la Conquista, y se mantuvo como capital de los Guardianes del Occidente. Durante la rebelión Fuegoscuro, Lord Leo Lefford fue asesinado por Ser Quentyn Ball a las puertas de Lannisport, quién procedió a sitiar la Roca. Cuando el León Gris vino para desafiarlo, Ser Quentyn se vio obligado a asaltar la fortaleza, pero fue incapaz de tomarla.
 dlga_creylen_master_talk:close_window|Adiós.
-dlga_start:close_window.204|Disculpadme, {playername}, debo ocuparme de los cuervos.
+dlga_start:close_window.207|Tengo asuntos importantes que requieren mi atención.
 dlga_start:benedict_broom_introduce_1|¿Sí?
 dlga_benedict_broom_introduce_1:benedict_broom_introduce_2|Saludos. ¿Quién sois?
 dlga_benedict_broom_introduce_2:benedict_broom_master_talk|Soy Ser Benedict Broom, el maestro de armas de Roca Casterly.
 dlga_benedict_broom_master_talk:benedict_broom_master_customize|¿Me podéis contar algo sobre el Occidente?
 dlga_benedict_broom_master_customize:benedict_broom_master_talk|Supongo que sí. El Occidente es una de las regiones de los Siete Reinos y está gobernada por la Casa Lannister. Limita con el Dominio, la Tierra de los Ríos y las Tierras de la Corona. Aunque es una región pequeña si la comparamos con el Norte o el Dominio, es el hogar de las minas de oro y plata más ricas de todo Poniente, lo que convierte al Occidente en la región indiscutiblemente más rica de los Siete Reinos.
 dlga_benedict_broom_master_talk:close_window|Gracias por vuestro tiempo.
-dlga_start:close_window.205|Me temo que debo irme, tengo que instruir a los escuderos.
+dlga_start:close_window.208|Lamento no tener tiempo para hablar, con toda la conmoción que hay en la ciudad.
 dlga_start:whitesmile_wat_introduce_1|¿Sí?
 dlga_whitesmile_wat_introduce_1:whitesmile_wat_introduce_2|Saludos. ¿Sois el bardo de la corte?
 dlga_whitesmile_wat_introduce_2:whitesmile_wat_master_talk|¡Diría que sí! ¡Soy el único bardo de la corte, nada menos!
@@ -4117,14 +4239,14 @@ dlga_whitesmile_wat_master_customize2:whitesmile_wat_master_customize3|Gentil Ma
 dlga_whitesmile_wat_master_customize3:whitesmile_wat_master_talk1|Gentil Madre, fuente de la misericordia, salva a nuestros hijos de los horrores de la guerra, te lo rogamos. Frena las espadas y las fechas, y permíteles conocer un día mejor.
 dlga_whitesmile_wat_master_talk1:close_window|Eso fue excelente. Tomad, unas cuantas monedas por las molestias.
 dlga_whitesmile_wat_master_talk:close_window|Adiós.
-dlga_start:close_window.206|Me temo que debo atender a Lady Genna ahora. Ella no es de las que no les importa esperar.
+dlga_start:close_window.209|Tengo asuntos importantes que requieren mi atención.
 dlga_start:rolph_spicer_introduce_1|Estoy ocupado, dedicaos a vuestros asuntos.
 dlga_rolph_spicer_introduce_1:rolph_spicer_introduce_2|Saludos. ¿Sois el castellano?
 dlga_rolph_spicer_introduce_2:rolph_spicer_master_talk|Así es, lo soy. Ser Rolph Spicer, y no deberíais olvidarlo.
 dlga_rolph_spicer_master_talk:rolph_spicer_master_customize|¿Me podéis contar algo sobre la historia de la Casa Westerling?
 dlga_rolph_spicer_master_customize:rolph_spicer_master_talk|Supongo que sí. Los Westerling son una Casa muy antigua, que pueden rastrear su ascendencia hasta la Edad de los Héroes, y Maegor Targaryen, al que llamaron 'el Cruel', se casó con una Westerling. Sin embargo, a decir verdad, los Westerling no son tan poderosos como fueron antaño.
 dlga_rolph_spicer_master_talk:close_window|Gracias por vuestro tiempo.
-dlga_start:close_window.207|Tengo asuntos importantes que requieren mi atención.
+dlga_start:close_window.210|¡Estoy seguro de que pronto un cuervo me traerá la noticia de que se me encargará un mando importante!
 dlga_start:rufus_leek_introduce_1|¿Sí?
 dlga_rufus_leek_introduce_1:rufus_leek_introduce_2|Saludos. ¿Quién sois?
 dlga_rufus_leek_introduce_2:rufus_leek_master_talk|Soy Ser Rufus Leek, el castellano de Fuerte Pardo, el gran castillo de Valle Oscuro.
@@ -4135,18 +4257,7 @@ dlga_rufus_leek_master_customize2:rufus_leek_master_customize3|Lord Tywin, enton
 dlga_rufus_leek_master_customize3:rufus_leek_master_customize4|Habiendo perdido a su rehén, Lord Denys abrió las puertas y suplicó perdón. No le sirvió de nada. Él y toda su familia fueron ejecutados. Lady Serala, que se dice fue la causa de su caída, fue quemada viva, no antes de que arrancársele la lengua y los pechos con unas tenazas calientes, los mismos pechos que se decía había usado para esclavizar a su marido.
 dlga_rufus_leek_master_customize4:rufus_leek_master_talk|¡Una historia horrible!
 dlga_rufus_leek_master_talk:close_window|Adiós.
-dlga_start:close_window.208|Lamento no tener tiempo para hablar, con toda la conmoción que hay en la ciudad.
-dlga_start:falyse_introduce_1|¿Qué queréis?
-dlga_falyse_introduce_1:falyse_introduce_2|Buenos días, mi señora. ¿Con quién tengo el gusto de hablar?
-dlga_falyse_introduce_2:falyse_master_talk|Soy Lady Falyse Stokeworth, y no dispongo de tiempo para gente como vos.
-dlga_falyse_master_talk:falyse_master_customize|¿Podríais contarme algo sobre la historia de la Casa Stokeworth?
-dlga_falyse_master_customize:falyse_master_talk|¡Somos una antigua e ilustre Casa! Así que estoy seguro de que sabéis de nuestra historia, no os aburriré con detalles. Basta decir que más de una dama de la Casa Stokeworth ha visto el dormitorio de los reyes Targaryen.
-dlga_falyse_master_talk:close_window|Adiós.
-dlga_start:close_window.209|Tengo asuntos importantes que requieren mi atención.
-dlga_start:balman_introduce_1|¿Sí?
-dlga_balman_introduce_1:balman_introduce_2|Saludos. ¿Quién sois?
-dlga_balman_introduce_2:close_window|Soy Ser Balman Byrch, un caballero ungido y el marido de Lady Falyse, y carezco de tiempo para vos, ¡estoy muy ocupado!.
-dlga_start:close_window.210|¡Estoy seguro de que pronto un cuervo me traerá la noticia de que se me encargará un mando importante!
+dlga_start:close_window.211|Me temo que no tengo tiempo para hablar, debo asegurarme de que Joy no esté incordiando al septón Umfred.
 dlga_start:genna_lannister_introduce_1|¿Sí?
 dlga_genna_lannister_introduce_1:genna_lannister_introduce_2|Saludos, mi señora. ¿Puedo tener el honor de conocer vuestro nombre?
 dlga_genna_lannister_introduce_2:genna_lannister_master_talk|Lady Genna Lannister, y este palo escuálido que hay a mi lado es mi marido, Emmon.
@@ -4155,7 +4266,7 @@ dlga_genna_lannister_master_customize:genna_lannister_master_customize1|¡Ajá! 
 dlga_genna_lannister_master_customize1:genna_lannister_master_customize2|Pero seguramente decir siempre la verdad no denotaría más que necedad, si la persona a la que os dirigís es la hermana menor de Tywin Lannister.
 dlga_genna_lannister_master_customize2:close_window|¡Ja! Bueno, muy bien {playername}, os agradezco el cumplido.
 dlga_genna_lannister_master_talk:close_window|Adiós.
-dlga_start:close_window.211|Me temo que no tengo tiempo para hablar, debo asegurarme de que Joy no esté incordiando al septón Umfred.
+dlga_start:close_window.212|No tengo tiempo para chácharas, mi esposa requiere mis atenciones.
 dlga_start:emmon_frey_introduce_1|¿Qué ocurre?
 dlga_emmon_frey_introduce_1:emmon_frey_introduce_2|Saludos, soy {playername}. ¿Sois Ser Emmon?
 dlga_emmon_frey_introduce_2:emmon_frey_master_talk|Así es. Ser Emmon Frey, segundo hijo legítimo de Walder Frey, Señor del Cruce.
@@ -4164,27 +4275,27 @@ dlga_emmon_frey_master_customize:emmon_frey_master_customize1|¡Ja! Viles mentir
 dlga_emmon_frey_master_customize1:emmon_frey_master_customize2|Sí, estoy convencido de que así será... un hombre como Walder Frey nunca se uniría al bando ganador por esa sola razón, ni esperaría al fin de la contienda para congraciarse con los que resulten vencedores...
 dlga_emmon_frey_master_customize2:close_window|¡Sí! ¡Así es! Tenéis toda la razón, ¡mi padre es un hombre honorable!
 dlga_emmon_frey_master_talk:close_window|Adiós.
-dlga_start:close_window.212|No tengo tiempo para chácharas, mi esposa requiere mis atenciones.
+dlga_start:close_window.213|¿Qué?
 dlga_start:polliver_introduce_1|¿Sí?
 dlga_polliver_introduce_1:polliver_introduce_2|¿Quién sois?
 dlga_polliver_introduce_2:close_window|Soy Polliver, un hombre de Ser Gregor.
-dlga_start:close_window.213|¿Qué?
+dlga_start:close_window.214|¿Qué?
 dlga_start:chiswyck_introduce_1|¿Sí?
 dlga_chiswyck_introduce_1:chiswyck_introduce_2|¿Quién sois?
 dlga_chiswyck_introduce_2:close_window|Soy Chiswyck, un hombre de la Montaña. ¿Habéis oído lo que le hizo a la hija del posadero? Íbamos de camino a casa después del Torneo de la Mano, cuando paramos en una taberna. Nada más entrar Ser Gregor cogió a la hija del posadero ¡y se la folló ahí mismo, en la mesa! ¡Ja! No paraba de llorar pero su padre estaba demasiado asustado para hacer nada. Todos nos la follamos, uno tras otro. Acabó llena de magulladuras y sangre, ¡ja! Eso sí, le pagamos una moneda de cobre al final, por sus servicios, je.
-dlga_start:close_window.214|¿Qué?
+dlga_start:close_window.215|¿Qué?
 dlga_start:rafford_introduce_1|¿Sí?
 dlga_rafford_introduce_1:rafford_introduce_2|¿Quién sois?
 dlga_rafford_introduce_2:close_window|Soy Rafford.
-dlga_start:close_window.215|¿Qué?
+dlga_start:close_window.216|¿Qué?
 dlga_start:dunsen_introduce_1|¿Sí?
 dlga_dunsen_introduce_1:dunsen_introduce_2|¿Quién sois?
 dlga_dunsen_introduce_2:close_window|Soy Dunsen.
-dlga_start:close_window.216|¿Qué?
+dlga_start:close_window.217|¿Qué?
 dlga_start:tickler_introduce_1|¿Qué?
 dlga_tickler_introduce_1:tickler_introduce_2|¿Quién sois?
 dlga_tickler_introduce_2:close_window|Me llaman Cosquillas. Hago cosquillas a la gente hasta que me dicen lo que quiero saber... Por cierto, ¿qué sabéis de Dondarrion y su banda?
-dlga_start:close_window.217|¿Qué?
+dlga_start:close_window.218|Sumergíos en las llamas de R'hllor, {playername}.
 dlga_start:melisandre_introduce_1|¿Sí?
 dlga_melisandre_introduce_1:melisandre_introduce_2|Mi señora, soy {playername}. ¿Podría tener el honor de saber más de vos?
 dlga_melisandre_introduce_2:melisandre_master_talk|Soy Melisandre, una sierva del Señor de Luz.
@@ -4194,22 +4305,22 @@ dlga_melisandre_master_customize2:melisandre_master_customize3|Por las llamas de
 dlga_melisandre_master_customize3:melisandre_finish|Un dios, un reino, un rey.
 dlga_melisandre_finish:close_window|La Larga Noche está cerca, {playername}, y todos debemos elegir. Hombre o mujer, joven o anciano, noble o plebeyo, nuestras opciones son las mismas. Elegimos la luz o elegimos la oscuridad. El Rey Stannis ES el campeón ungido de R'hllor, destinado a enfrentar al Gran Otro. La noche es oscura y alberga horrores, {playername}.
 dlga_melisandre_master_talk:close_window|Disculpadme, mi señora, ahora debería atender algunos asuntos urgentes.
-dlga_start:close_window.218|Sumergíos en las llamas de R'hllor, {playername}.
+dlga_start:close_window.219|Me temo que debo ir a atender a los cuervos.
 dlga_start:pylos_introduce_1|¿Sí, amigo?
 dlga_pylos_introduce_1:pylos_introduce_2|Saludos. ¿Quién sois?
 dlga_pylos_introduce_2:pylos_master_talk|Soy el maestre Pylos, leal servidor de Rocadragón y de su Alteza, el Rey Stannis.
 dlga_pylos_master_talk:pylos_master_customize|¿Qué podéis contarme sobre Rocadragón?
 dlga_pylos_master_customize:pylos_master_talk|Rocadragón fue construido por los señores dragón valyrios, siendo el puesto de avanzada más occidental del imperio valyrio. Después de la Maldición, los Targaryen hicieron de este lugar su hogar y capital, y de hecho se mantuvo como feudo personal del príncipe heredero tras la conquista. Cuando Jaime Lannister mató al Rey Loco, el Rey Robert ofreció a Stannis conquistar la isla y posteriormente se la concedió como su feudo.
 dlga_pylos_master_talk:close_window|Adiós.
-dlga_start:close_window.219|Me temo que debo ir a atender a los cuervos.
+dlga_start:close_window.220|¿Qué?
 dlga_start:salladhor_introduce_1|¿Sí?
 dlga_salladhor_introduce_1:salladhor_introduce_2|¿Quién sois vos?
 dlga_salladhor_introduce_2:close_window|Soy Salladhor Saan, ¡el Ilustre Príncipe del Mar Angosto!
-dlga_start:close_window.220|¿Qué?
+dlga_start:close_window.221|¿Qué?
 dlga_start:aurane_introduce_1|¿Sí?
 dlga_aurane_introduce_1:aurane_introduce_2|¿Quién sois?
 dlga_aurane_introduce_2:close_window|Soy Aurane Mares, hijo natural de Lord Monford Velaryon.
-dlga_start:close_window.221|¿Qué?
+dlga_start:close_window.222|Me temo que debo ir a cuidar de los cuervos.
 dlga_start:jurne_introduce_1|¿Sí, amigo?
 dlga_jurne_introduce_1:jurne_introduce_2|Saludos. ¿Quién sois?
 dlga_jurne_introduce_2:jurne_master_talk|Soy el maestre Jurne, leal a Bastión de Tormentas y a su Majestad, el Rey Renly.
@@ -4218,23 +4329,23 @@ dlga_jurne_master_customize:jurne_master_customize1|La leyenda dice que fue cons
 dlga_jurne_master_customize1:jurne_master_customize2| Se dice que levantó hasta seis fortalezas, cada una más grande y formidable, hasta que acabó en su lugar la séptima, Bastión de Tormentas. Algunos creen que los niños del bosque fueron quienes le ayudaron en su construcción, usando su magia para fortalecer las murallas del castillo y permitiéndole así resistir las tormentas.
 dlga_jurne_master_customize2:jurne_master_talk|Otros creen que el muchacho que luego se convertiría en Bran el Constructor ayudó a Durran durante la construcción. La verdad es que el asunto es un misterio.
 dlga_jurne_master_talk:close_window|Adiós.
-dlga_start:close_window.222|Me temo que debo ir a cuidar de los cuervos.
+dlga_start:close_window.223|¿Qué?
 dlga_start:colen_introduce_1|¿Sí?
 dlga_colen_introduce_1:colen_introduce_2|¿Quién sois?
 dlga_colen_introduce_2:close_window|Soy Ser Colen de Lagosverdes, una espada juramentada al servicio del Rey Renly.
-dlga_start:close_window.223|¿Qué?
+dlga_start:close_window.224|¿Qué?
 dlga_start:jommy_introduce_1|¿Sí?
 dlga_jommy_introduce_1:jommy_introduce_2|¿Quién sois?
 dlga_jommy_introduce_2:close_window|Soy Jommy. Se supone que no debería hablar estando de guardia.
-dlga_start:close_window.224|¿Qué?
+dlga_start:close_window.225|Disculpadme.
 dlga_start:nysterica_introduce_1|¿Sí?
 dlga_nysterica_introduce_1:nysterica_introduce_2|¿Quién sois?
 dlga_nysterica_introduce_2:close_window|Soy la septa Nysterica
-dlga_start:close_window.225|Disculpadme.
+dlga_start:close_window.226|Disculpadme.
 dlga_start:lomys_introduce_1|¿Sí?
 dlga_lomys_introduce_1:lomys_introduce_2|¿Quién sois?
 dlga_lomys_introduce_2:close_window|Soy el Maestre Lomys, leal a Altojardín y a la Casa Tyrell.
-dlga_start:close_window.226|Disculpadme.
+dlga_start:close_window.227|Me temo que tengo mucho cansancio acumulado como para continuar hablando.
 dlga_start:olenna_introduce_1|¿Qué ocurre?
 dlga_olenna_introduce_1:olenna_introduce_2|Saludos, mi señora. ¿Podría tener el honor de saber más de vos?
 dlga_olenna_introduce_2:olenna_master_talk|Soy Lady Olenna Tyrell, madre del Señor de Altojardín.
@@ -4243,19 +4354,19 @@ dlga_olenna_master_customize:olenna_master_customize1|¡Bah! Me habéis visto bi
 dlga_olenna_master_customize1:olenna_master_customize2|Todo este asunto de fabricar reyes de la nada es una locura. Mi hijo debería recordar lo que le pasó a Criston Cole, al que llamaban 'Hacedor de Reyes'. ¡Vaya apodo! Es como llamar a un asesino 'el Matahombres'. 
 dlga_olenna_master_customize2:olenna_master_talk|De todas formas, el huevo ya ha sido puesto y ahora no habría manera de meterlo de nuevo en la gallina. Supongo que se podria intentar pero... ¿qué legado dejaría eso?.
 dlga_olenna_master_talk:close_window|Adiós.
-dlga_start:close_window.227|Me temo que tengo mucho cansancio acumulado como para continuar hablando.
+dlga_start:close_window.228|¿Qué?
 dlga_start:galyeon_introduce_1|¿Sí?
 dlga_galyeon_introduce_1:galyeon_introduce_2|¿Quién sois?
 dlga_galyeon_introduce_2:close_window|Soy Galyeon de Cuy, ¡el famoso bardo!
-dlga_start:close_window.228|¿Qué?
+dlga_start:close_window.229|¿Qué?
 dlga_start:ballabar_introduce_1|¿Sí?
 dlga_ballabar_introduce_1:ballabar_introduce_2|¿Quién sois?
 dlga_ballabar_introduce_2:close_window|Soy el maestre Ballabar, sirviente de El Rejo y de la Casa Redwyne.
-dlga_start:close_window.229|¿Qué?
+dlga_start:close_window.230|¿Qué?
 dlga_start:moryn_introduce_1|¿Sí?
 dlga_moryn_introduce_1:moryn_introduce_2|¿Quién sois?
 dlga_moryn_introduce_2:close_window|Soy Ser Moryn Tyrell, Lord Comandante de la Guardia de la Ciudad.
-dlga_start:close_window.230|¿Qué?
+dlga_start:close_window.231|Me temo que estoy demasiado ocupado para continuar nuestras conversaciones.
 dlga_start:norren_introduce_1|¿Qué ocurre?
 dlga_norren_introduce_1:norren_introduce_2|Saludos, ¿quién sois?
 dlga_norren_introduce_2:norren_master_talk|Soy el Archimaestre Norren.
@@ -4264,11 +4375,11 @@ dlga_norren_master_customize:norren_master_customize1|Bueno, supongo que sí. An
 dlga_norren_master_customize1:norren_master_customize2|Desde tiempos inmemoriales, la ciudad ha estado gobernada por la Casa Hightower. Los Hightower fueron reyes por derecho propio durante la Edad de los Héroes, pero más tarde hincaron la rodilla ante los reyes Gardener, y desde entonces son fieles banderizos de Altojardín.
 dlga_norren_master_customize2:norren_master_talk|Como sede de la Ciudadela, Antigua es el centro de saber más importante conocido por el hombre, y como antigua sede de la Fe de los Siete, la ciudad es considerada por mucho como sagrada.
 dlga_norren_master_talk:close_window|Adiós.
-dlga_start:close_window.231|Me temo que estoy demasiado ocupado para continuar nuestras conversaciones.
+dlga_start:close_window.232|¿Qué? ¿Quién sois? ¡No puedo encontrar mi queso!
 dlga_start:walgrave_introduce_1|¿Eh? ¿Qué? ¿Dónde estoy?
 dlga_walgrave_introduce_1:walgrave_introduce_2|¿Estáis bien?
 dlga_walgrave_introduce_2:close_window|Oh, debemos atender a los cuervos. ¿Dónde está Cressen? Que alguien lo traiga...
-dlga_start:close_window.232|¿Qué? ¿Quién sois? ¡No puedo encontrar mi queso!
+dlga_start:close_window.233|Me temo que estoy demasiado ocupado para continuar nuestras conversaciones.
 dlga_start:theobald_introduce_1|¿Sí?
 dlga_theobald_introduce_1:theobald_introduce_2|Saludos, ¿quién sois?
 dlga_theobald_introduce_2:theobald_master_talk|Soy el Archimaestre Theobald, el Senescal, encargado del gobierno de la Ciudadela.
@@ -4277,7 +4388,7 @@ dlga_theobald_master_customize:theobald_master_customize1|Con mucho gusto. La Ci
 dlga_theobald_master_customize1:theobald_master_customize2|Se fundó con la ayuda de los Hightower, que siguen patrocinando el conocimiento, y a menudo acuden aquí para recibir formación ellos mismos. La Ciudadela es también el hogar de los Archimaestres, el órgano rector de la Orden de los Maestres, y es donde celebramos el cónclave que decide quién será el Gran Maestre.
 dlga_theobald_master_customize2:theobald_master_talk|Como maestres, hemos jurado abandonar nuestro antiguo linaje y apellido, quedándonos únicamente con nuestro nombre una vez hemos recibido la cadena. La cadena que nos colgamos simboliza nuestro voto de servicio al Reino. Del mismo modo que el reino está compuesto por muchas gentes distintas, nuestra cadena está hecha de muchos anillos diferentes.
 dlga_theobald_master_talk:close_window|Adiós.
-dlga_start:close_window.233|Me temo que estoy demasiado ocupado para continuar nuestras conversaciones.
+dlga_start:close_window.234|Tengo que irme. Las velas arden de nuevo.
 dlga_start:marwyn_introduce_1|¿Qué sucede?
 dlga_marwyn_introduce_1:marwyn_introduce_2|Saludos. ¿Quién sois?
 dlga_marwyn_introduce_2:marwyn_master_talk|Mi nombre es Marwyn. Algunos me llaman 'el Mago'. Mi especialidad son los misterios del mundo, lo que mucha gente llama mágico.
@@ -4286,14 +4397,10 @@ dlga_marwyn_master_customize:marwyn_master_customize1|Por supuesto que puedo. Pe
 dlga_marwyn_master_customize1:marwyn_master_customize2|Sin embargo, la magia es una fuerza real en este mundo, a pesar de que se hace más débil... ¿O debería decir que crece débilmente? Ya no estoy tan seguro. Algo se agita en el este. Ha habido señales, presagios...
 dlga_marwyn_master_customize2:marwyn_master_talk|Pero vos queríais saber sobre la magia. Os aconsejo que leáis el libro del Archimaestre Pellandon llamado 'Magia y Misterios'. Ofrece una buena introducción a la mayoría de las creencias comunes sobre la magia. Volved conmigo más tarde, tal vez pueda conseguiros un ejemplar.
 dlga_marwyn_master_talk:close_window|Adiós.
-dlga_start:close_window.234|Tengo que irme. Las velas arden de nuevo.
+dlga_start:close_window.235|Lamento no disponer de más tiempo para hablar.
 dlga_start:leyton_introduce_1|¿Sí?
 dlga_leyton_introduce_1:leyton_introduce_2|Mi señor, ¿podría tener el honor de saber más de vos?
 dlga_leyton_introduce_2:close_window|Soy Leyton Hightower, el señor de Antigua, aquel a quien algunos llaman el Viejo de Antigua. Je, dejad que el populacho tenga sus apodos, no hace ningún daño.
-dlga_start:close_window.235|Lamento no disponer de más tiempo para hablar.
-dlga_start:arianne_introduce_1|¿Sí?
-dlga_arianne_introduce_1:arianne_introduce_2|Mi señora, ¿podría tener el honor de saber más de vos?
-dlga_arianne_introduce_2:close_window|Soy Arianne Martell, la princesa heredera de Dorne.
 dlga_start:close_window.236|Disculpadme.
 dlga_start:garin_introduce_1|¿Sí?
 dlga_garin_introduce_1:garin_introduce_2|¿Quién sois?
@@ -4375,18 +4482,14 @@ dlga_start:mya_stone_introduce_1|¿Sí?
 dlga_mya_stone_introduce_1:mya_stone_introduce_2|¿Quién sois?
 dlga_mya_stone_introduce_2:close_window|Soy Mya Piedra. Me ocupo de las mulas.
 dlga_start:close_window.251|Disculpadme.
-dlga_start:anya_waynwood_introduce_1|¿Sí?
-dlga_anya_waynwood_introduce_1:anya_waynwood_introduce_2|Mi señora, ¿puedo tener el honor de saber más de vos?
-dlga_anya_waynwood_introduce_2:close_window|Soy Anya Waynwood, señora de Roble de Hierro. Sin embargo, mis hijos se encargan de la mayor parte de mis obligaciones hoy en día.
-dlga_start:close_window.252|Disculpadme.
 dlga_start:harry_the_heir_introduce_1|¿Sí?
 dlga_harry_the_heir_introduce_1:harry_the_heir_introduce_2|¿Quién sois?
 dlga_harry_the_heir_introduce_2:close_window|Mi nombre es Harrold Hardyng.
-dlga_start:close_window.253|¿Qué?
+dlga_start:close_window.252|Disculpadme.
 dlga_start:helliweg_introduce_1|¿Sí?
 dlga_helliweg_introduce_1:helliweg_introduce_2|¿Quién sois?
 dlga_helliweg_introduce_2:close_window|Soy el maestre Helliweg, leal sirviente de Piedra de las Runas y de la Casa Royce
-dlga_start:close_window.254|Disculpadme, tengo que escribir una carta.
+dlga_start:close_window.253|¿Qué?
 dlga_start:wendamyr_introduce_1|¿Sí?
 dlga_wendamyr_introduce_1:wendamyr_introduce_2|Saludos. ¿Quién sois?
 dlga_wendamyr_introduce_2:wendamyr_master_talk|Soy el maestre Wendamyr. Sirvo a la Casa Greyjoy.
@@ -4395,31 +4498,31 @@ dlga_wendamyr_master_customize:wendamyr_master_customize1|Supongo que sí. Las I
 dlga_wendamyr_master_customize1:wendamyr_master_customize2|Los hombres de las Islas del Hierro nunca dejado de sentir el impulso de regresar a las Viejas Costumbres, y varios Greyjoy se han rebelado en los últimos años. Antes de la rebelión de Balon, la anterior fue dirigida por Dagon Greyjoy, que se impuso frente a los señores Stark y Lannister, pero no fue capaz de derrotar a los Targaryen...
 dlga_wendamyr_master_customize2:wendamyr_master_talk|Al contrario que en el resto de Poniente, los ándalos no lograron convertir a los primeros hombres de las Islas a la Fe de los Siete, sino que bien al contrario ellos fueron los que se convirtieron. Los hijos del hierro adoran al Dios Ahogado, que se enfrenta en una guerra eterna al Dios de la Tormenta. Se dice que el Dios Ahogado creó a los hijos del hierro para saquear y violar, forjar reinos para sí mismos hacer sus nombres famosos por el fuego, la sangre y las canciones.
 dlga_wendamyr_master_talk:close_window|Adiós.
-dlga_start:close_window.255|Debo irme, los cuervos me requieren.
+dlga_start:close_window.254|Disculpadme, tengo que escribir una carta.
 dlga_start:helya_introduce_1|¿Eh? ¿Qué pasa? ¿Dónde estoy?
 dlga_helya_introduce_1:helya_introduce_2|¿Quién sois?
 dlga_helya_introduce_2:close_window|Soy Helya, me encargo de la casa.
-dlga_start:close_window.256|¿Qué? ¿Quién sois?
+dlga_start:close_window.255|Debo irme, los cuervos me requieren.
 dlga_start:dagmer_introduce_1|¿Qué queréis?
 dlga_dagmer_introduce_1:dagmer_introduce_2|¿Quién sois?
 dlga_dagmer_introduce_2:close_window|Soy Dagmer Barbarrota, capitán del Bebespuma. Ahora, dejad de molestarme.
-dlga_start:close_window.257|Quitaos de mi camino.
+dlga_start:close_window.256|¿Qué? ¿Quién sois?
 dlga_start:hotho_harlaw_introduce_1|¿Eh? Soy Hotho Harlaw, ¿quién sois?
 dlga_hotho_harlaw_introduce_1:hotho_harlaw_introduce_2|Soy {playername}.
 dlga_hotho_harlaw_introduce_2:close_window|Ah, sí, {playername}. ¿Nos hemos visto antes? ¿Habéis oído hablar de mi hija? ¡La muchacha más hermosa de todo Poniente!
-dlga_start:close_window.258|Deberíais cenar un día conmigo y mi hija.
+dlga_start:close_window.257|Quitaos de mi camino.
 dlga_start:qarl_introduce_1|¿Sí?
 dlga_qarl_introduce_1:qarl_introduce_2|¿Quién sois?
 dlga_qarl_introduce_2:close_window|Soy Qarl. Sirvo a Asha Greyjoy.
-dlga_start:close_window.259|¿Qué queréis?
+dlga_start:close_window.258|Deberíais cenar un día conmigo y mi hija.
 dlga_start:gwynesse_introduce_1|¿Eh?
 dlga_gwynesse_introduce_1:gwynesse_introduce_2|Mi señora, ¿podría saber quién sois?
 dlga_gwynesse_introduce_2:close_window|Soy Gwynesse Harlaw, hermana de Rodrik, ¡y la legítima heredera de Harlaw! ¡Debería ser mía, soy la mayor!
-dlga_start:close_window.260|¿Qué?
+dlga_start:close_window.259|¿Qué queréis?
 dlga_start:alannys_introduce_1|¿Eh? ¿Qué pasa? ¿Habéis visto a Rodrik?
 dlga_alannys_introduce_1:alannys_introduce_2|¿Estáis bien?
 dlga_alannys_introduce_2:close_window|Mis hijos queridos, ¿dónde están? Mi tierno Theon... ¿cuándo volverá a casa?
-dlga_start:close_window.261|¿Qué? ¿Quién sois vos? ¿Dónde están mis amados hijos?
+dlga_start:close_window.260|¿Qué?
 dlga_start:old_nan_introduce_1|¿Eh? ¿Sí?
 dlga_old_nan_introduce_1:old_nan_introduce_2|¿Quién sois?
 dlga_old_nan_introduce_2:old_nan_master_talk|Soy la Vieja Tata. Cuento historias... ¿queréis escuchar una?
@@ -4428,11 +4531,11 @@ dlga_old_nan_master_customize:old_nan_master_customize1|En la Edad de los Héroe
 dlga_old_nan_master_customize1:old_nan_master_customize2|Tras su unión, la llevó de vuelta al Fuerte de la Noche y allí se declaró Rey y a ella su Reina, y gobernó el Fuerte de la Noche como su propio castillo durante trece años. Valiéndose de viles sortilegios, sometió a los hombres de la Guardia de la Noche a su voluntad. Durante esos años oscuros, se cometieron horribles atrocidades. Al final, el Rey en el Norte y Joramum, el Rey-Más-Allá-del-Muro, unieron sus fuerzas y derrotaron al Rey de la Noche, liberando de su dominio a los hombres de la Guardia de la Noche. 
 dlga_old_nan_master_customize2:old_nan_master_talk|Cuando ambos reyes alcanzaron el Fuerte de la Noche, se encontraron con que el Rey de la Noche había estado haciendo sacrificios a los Otros. Los reyes nunca hablaron de lo que vieron, pero se ordenó el nombre del Rey de la Noche nunca volviera a ser pronunciado por ningún hombre. Hay muchas historias acerca del verdadero nombre del Rey de la Noche. Algunos dicen que era un Bolton, otros que un Umber. No les creáis. El hombre que se convirtió en el Rey de la Noche nació aquí en Invernalia, era el hermano pequeño del mismo Rey en el Norte que tuvo que acabar con él.
 dlga_old_nan_master_talk:close_window|Adiós.
-dlga_start:close_window.262|Me temo que estoy demasiado cansada como para seguir hablando.
+dlga_start:close_window.261|¿Qué? ¿Quién sois vos? ¿Dónde están mis amados hijos?
 dlga_start:theomore_introduce_1|¿Eh? ¿Qué queréis?
 dlga_theomore_introduce_1:theomore_introduce_2|¿Quién sois?
 dlga_theomore_introduce_2:close_window|Soy el maestre Theomore, sirvo a Puerto Blanco.
-dlga_start:close_window.263|¿Qué?
+dlga_start:close_window.262|Me temo que estoy demasiado cansada como para seguir hablando.
 dlga_start:bartimus_introduce_1|Ehm, ¿sí?
 dlga_bartimus_introduce_1:bartimus_introduce_2|¿Quién sois??
 dlga_bartimus_introduce_2:bartimus_master_talk|Soy Ser Bartimus, castellano de la Guarida del Lobo.
@@ -4441,57 +4544,57 @@ dlga_bartimus_master_customize:bartimus_master_customize1|Sí, ¡con mucho gusto
 dlga_bartimus_master_customize1:bartimus_master_customize2|Tras los Greystark, el castillo cambió muchas veces de manos. La Casa Flint lo mantuvo durante un siglo, y la Casa Locke al menos por otros dos. Slate, Long, Holt y Ashwood poseyeron también la Guarida del Lobo, por orden de Invernalia para mantener el río seguro. Saqueadores de Tres Hermanas tomaron el castillo una vez y lo convirtieron en su baluarte en el norte. Durante las guerras entre el Norte y el Valle, fue sitiado por Osgood Arryn, el Viejo Halcón, y quemado por su hijo, al que llamaban 'la Garra'. La Guarida del Lobo fue capturada por traficantes de esclavos de los Peldaños de Piedra cuando Edrick Stark se volvió demasiado débil para defender su reino. Entonces, un largo y cruel invierno llegó congelando las aguas del Cuchillo Blanco. Cuando los esclavistas se apiñaban en torno a los hogueras intentando sobrevivir, el bisnieto de Edrick, el Rey conocido como 'Ojos de Hielo', recuperó la Guarida del Lobo. Dejó a los esclavistas desnudos y se los entregó a los esclavos que había liberado de las mazmorras. Ellos, entre los que se encontraban mis propios antepasados, colgaron las entrañas de sus carceleros del árbol corazón como ofrenda a los Antiguos Dioses.
 dlga_bartimus_master_customize2:bartimus_master_talk|Mil años antes de la Conquista, los Manderly juraron ante los dioses antiguos y nuevos su lealtad a los Stark de Invernalia para proteger por siempre de sus enemigos las tierras alrededor de la Guarida del Lobo, convirtiéndolas en lo que sería Puerto Blanco.
 dlga_bartimus_master_talk:close_window|Adiós.
-dlga_start:close_window.264|Debo irme.
+dlga_start:close_window.263|¿Qué?
 dlga_bartimus_introduce_2:bartimus_master_talk.1|Soy Clydas.
 dlga_bartimus_master_talk:bartimus_master_customize.1|¿Podéis contarme la historia del Castillo Negro?
 dlga_bartimus_master_customize:bartimus_master_customize1.1|Claro, ¡con mucho gusto! El Castillo Negro es actualmente el principal bastión de la Guardia de la Noche.
 dlga_bartimus_master_customize1:bartimus_master_customize2.1|La Guardia de la Noche originalmente tenía diecinueve castillos a lo largo del Muro, pero sólo quedan tres en uso actualmente. El castillo principal siempre fue el Fuerte de la Noche, pero por razones... sabidas, fue abandonado después del reinado del Rey de la Noche.
 dlga_bartimus_master_customize2:bartimus_master_talk.1|Más allá del castillo, hay un montón de túneles bajo el Muro aquí, que se utilizan para almacenar comida y equipo. Tenemos suficiente espacio para almacenar alimentos para varios años.
-dlga_start:close_window.265|Debo irme.
+dlga_start:close_window.264|Debo irme.
 dlga_start:walton_introduce_1|¿Qué queréis?
 dlga_walton_introduce_1:walton_introduce_2|¿Quién sois?
 dlga_walton_introduce_2:close_window|Soy Jack Bulwer, un explorador de la Guardia de la Noche. ¿Qué hay de vos?
-dlga_start:close_window.266|¿Qué?
+dlga_start:close_window.265|Debo irme.
 dlga_start:walton_introduce_1.1|¿QUÉ? ¿QUIÉN SOIS?
 dlga_walton_introduce_1:walton_introduce_2.1|¿ESTÁIS SORDO O QUÉ?
 dlga_walton_introduce_2:close_window.1|DISCULPAD, ¡ESTOY SORDO!.
-dlga_start:close_window.267|¿QUÉ?
+dlga_start:close_window.266|¿Qué?
 dlga_start:walton_introduce_1.2|¿Sí? Ah, ¿qué queréis?
 dlga_walton_introduce_2:close_window.2|Soy el septón Cellador, un... ehm... servidor de... ehm... los Siete.
-dlga_start:close_window.268|¿Qué? Ah.
+dlga_start:close_window.267|¿QUÉ?
 dlga_start:walton_introduce_1.3|¿Sí?
 dlga_walton_introduce_2:close_window.3|Mi nombre es Hobb, aunque los hermanos me llaman Tres Dedos. Me encargo de cocinar la comida, ¡así que guardaos de respetarme si no queréis comeros un plato vacío!
-dlga_start:close_window.269|¿Qué?
+dlga_start:close_window.268|¿Qué? Ah.
 dlga_start:walton_introduce_1.4|¿Sí?
 dlga_walton_introduce_2:close_window.4|¡El maestre de Guardiaoriente! ¡Ahora largo de aquí, estoy ocupado!
-dlga_start:close_window.270|¡Fuera de mi camino!
+dlga_start:close_window.269|¿Qué?
 dlga_start:walton_introduce_1.5|¿Sí?
 dlga_walton_introduce_2:close_window.5|¡¡SER Glendon Hewett!
-dlga_start:close_window.271|¡Fuera de mi camino!
+dlga_start:close_window.270|¡Fuera de mi camino!
 dlga_start:walton_introduce_1.6|¿Sí?
 dlga_walton_introduce_2:close_window.6|Daeron. Dioses, ¡cada vez hace más frío!
-dlga_start:close_window.272|¡¿Cuánto frío puede llegar a hacer?!
+dlga_start:close_window.271|¡Fuera de mi camino!
 dlga_start:walton_introduce_1.7|¿Sí? ¿Quién sois? ¡Parecéis un campesino!
 dlga_walton_introduce_2:close_window.7|Soy Janos Slynt, ¡señor de Harrenhal!
-dlga_start:close_window.273|¡Fuera de mi camino, campesino!
+dlga_start:close_window.272|¡¿Cuánto frío puede llegar a hacer?!
 dlga_start:walton_introduce_1.8|¿Sí? ¿Quién sois?
 dlga_walton_introduce_1:walton_introduce_2.2|Soy {playername}.
 dlga_walton_introduce_2:close_window.8|Yo soy el maestre Mullin, atiendo los cuervos aquí en la Torre Sombría. A decir verdad, haría más luchando que leyendo en estos días.
-dlga_start:close_window.274|¿Sí?
+dlga_start:close_window.273|¡Fuera de mi camino, campesino!
 dlga_start:walton_introduce_1.9|¿Sí? ¿Quién sois?
 dlga_walton_introduce_1:walton_introduce_2.3|Soy {playername}. ¿Y vos?
 dlga_walton_introduce_2:close_window.9|Tom Barleycorn.
-dlga_start:close_window.275|¿Sí?
+dlga_start:close_window.274|¿Sí?
 dlga_start:walton_introduce_1.10|¿Sí? ¿Quién sois?
 dlga_walton_introduce_1:walton_introduce_2.4|¿Podría preguntaros lo mismo?
 dlga_walton_introduce_2:close_window.10|Soy Luke de Aldealarga. He estado aquí desde que era un crío.
-dlga_start:close_window.276|¿Sí?
+dlga_start:close_window.275|¿Sí?
 dlga_start:marlon_introduce_1|¿Sí?
 dlga_marlon_introduce_1:marlon_introduce_2|¿Quién sois?
 dlga_marlon_introduce_2:close_window|Soy Ser Marlon Manderly, comandante de la guarnición.
-dlga_start:close_window.277|¿Qué?
+dlga_start:close_window.276|¿Sí?
 dlga_walton_introduce_2:close_window.11|Soy Walton. Sirvo a Lord Bolton.
-dlga_start:close_window.278|¿Qué?
+dlga_start:close_window.277|¿Qué?
 dlga_start:tybald_introduce_1|¿Ehm? ¿Sí?
 dlga_tybald_introduce_1:tybald_introduce_2|¿Quién sois?
 dlga_tybald_introduce_2:tybald_master_talk|Soy el maestre Tybald, leal servidor de la Casa Bolton.
@@ -4500,15 +4603,15 @@ dlga_tybald_master_customize:tybald_master_customize1|Claro, supongo que sí. Lo
 dlga_tybald_master_customize1:tybald_master_customize2|Los Bolton lograron algunas victorias contra los Stark, desollando a varios señores Stark y colgándolos en su baluarte, Fuerte Terror. Según los rumores, algunos señores Bolton usaban las pieles desolladas de sus enemigos -incluidos los Stark- como capas.
 dlga_tybald_master_customize2:tybald_master_talk|Hace aproximadamente mil años, los Bolton finalmente juraron lealtad a los Reyes en el Norte y aceptaron abandonar sus costumbres de desollar enemigos. Sin embargo, trescientos después los Bolton se rebelaron contra los Stark. Las tropas Stark asediaron Fuerte Terror durante cuatro años antes de que los Bolton finalmente se rindieran y doblegasen sus estandartes una vez más. Durante muchos siglos, los Bolton se han mantenido leales a los Stark, aunque persistieron los rumores de desollamientos secretos y de una cámara oculta en Fuerte Terror donde coleccionarían las pieles de sus enemigos.
 dlga_tybald_master_talk:close_window|Adiós.
-dlga_start:close_window.279|Debo irme.
+dlga_start:close_window.278|¿Qué?
 dlga_start:saltpans_brother_1_introduce_1|...
 dlga_saltpans_brother_1_introduce_1:saltpans_brother_1_introduce_2|¿Vos no habláis?
 dlga_saltpans_brother_1_introduce_2:close_window|...
-dlga_start:close_window.280|...
+dlga_start:close_window.279|Debo irme.
 dlga_start:saltpans_brother_2_introduce_1|...
 dlga_saltpans_brother_2_introduce_1:saltpans_brother_2_introduce_2|¿Habéis hecho voto de silencio?
 dlga_saltpans_brother_2_introduce_2:close_window|...
-dlga_start:close_window.281|...
+dlga_start:close_window.280|...
 dlga_start:saltpans_elder_brother_introduce_1|Ehm, ¿sí?
 dlga_saltpans_elder_brother_introduce_1:saltpans_elder_brother_introduce_2|¿Qué lugar es éste?
 dlga_saltpans_elder_brother_introduce_2:saltpans_elder_brother_master_talk|Este es el septo de Isla Tranquila.
@@ -4517,7 +4620,7 @@ dlga_saltpans_elder_brother_master_customize:saltpans_elder_brother_master_custo
 dlga_saltpans_elder_brother_master_customize1:saltpans_elder_brother_master_customize2|Perdonadme, hermano mayor, pero parecéis el típico religioso. ¿Cómo llegastéis a este lugar?
 dlga_saltpans_elder_brother_master_customize2:saltpans_elder_brother_master_talk2|Estáis en lo cierto, amigo mío. No siempre he vivido en esta isla. Una vez fui caballero. En la batalla del Tridente luché por los Targaryen y quedé inconsciente por un fuerte golpe en la cabeza. Me dieron por muerto, fui despojado de mi armadura, y acabé flotando en la Bahía de los Cangrejos. Cuando desperté, estaba tumbado boca abajo en el barro, y así es como mis actuales hermanos me encontraron. Yo era un hombre vanidoso antes de que las mareas me arrastraran aquí, pero los Dioses han tenido a bien darme esta segunda oportunidad.
 dlga_saltpans_elder_brother_master_talk2:close_window|A menudo, sin embargo, me viene a la memoria aquella batalla. Nos hemos hecho con seis de los rubíes que Rhaegar perdió en aquella contienda, y esperamos encontrar el séptimo.
-dlga_start:close_window.282|Debo marchar.
+dlga_start:close_window.281|...
 dlga_start:green_man_1_introduce_1|¿Hmm?
 dlga_green_man_1_introduce_1:green_man_1_introduce_2|¿Qué lugar es este?
 dlga_green_man_1_introduce_2:green_man_1_master_talk|Estáis en la Isla de los Rostros.
@@ -4526,23 +4629,23 @@ dlga_green_man_1_master_customize:green_man_1_master_customize1|Al final de la E
 dlga_green_man_1_master_customize1:green_man_1_master_customize2|Con la firma del Pacto, se fundó la orden sagrada de los Hombres Verdes, encargados de guardar los últimos arcianos que quedaban en el sur.
 dlga_green_man_1_master_customize2:green_man_1_master_talk2|¿Los dioses antiguos realmente observan el mundo a través de los rostros de los arcianos?
 dlga_green_man_1_master_talk2:close_window|No soy quién para afirmarlo. Sin embargo, últimamente he sentido como si alguien me observara. Y muchos de mis hermanos han tenido sueños extraños, de un lobo con alas de cuervo, volando sobre la tierra...
-dlga_start:close_window.283|Debo irme.
+dlga_start:close_window.282|Debo marchar.
 dlga_start:guardsman_alyn_introduce_1|Cuidado con éste, está loco de atar.
 dlga_guardsman_alyn_introduce_1:guardsman_alyn_introduce_2|¿Quién es?
 dlga_guardsman_alyn_introduce_2:close_window|Que el Desconocido me lleve si lo sé. Llegó tambaleándose a través del bosque, delirando sobre carne y sangre.
-dlga_start:close_window.284|Cuidad vuestro rostro, le encanta morder.
+dlga_start:close_window.283|Debo irme.
 dlga_start:guardsman_holger_introduce_1|¿Qué?
 dlga_guardsman_holger_introduce_1:guardsman_holger_introduce_2|¿Qué lugar es este?
 dlga_guardsman_holger_introduce_2:close_window|Es una mina de oro, ¿qué os parece?
-dlga_start:close_window.285|Estoy ocupado.
+dlga_start:close_window.284|Cuidad vuestro rostro, le encanta morder.
 dlga_start:tom_introduce_1|¿Qué?
 dlga_tom_introduce_1:tom_introduce_2|¿Quién sois?
 dlga_tom_introduce_2:close_window|Me llamo Tom, soy minero.
-dlga_start:close_window.286|Estoy ocupado.
+dlga_start:close_window.285|Estoy ocupado.
 dlga_start:kyle_introduce_1|¿Qué?
 dlga_kyle_introduce_1:kyle_introduce_2|¿Qué estáis haciendo?
 dlga_kyle_introduce_2:close_window|Fuera de aquí.
-dlga_start:close_window.287|Marchaos.
+dlga_start:close_window.286|Estoy ocupado.
 dlga_start:stoneman_introduce_1|Saludos, amigo mío.
 dlga_stoneman_introduce_1:stoneman_introduce_2|¿Qué lugar es éste?
 dlga_stoneman_introduce_2:stoneman_master_talk|Estáis en los Pesares.
@@ -4551,7 +4654,7 @@ dlga_stoneman_master_customize:stoneman_master_customize1|Dhroyane, conocida com
 dlga_stoneman_master_customize1:stoneman_master_customize2|Según la leyenda, los hombres de Volantis y Valyria colgaron al Príncipe Garin en una jaula de oro tras derrotar a los rhoynar. Se supone que Garin pidió a la Madre Rhoyne destruir a los invasores con una maldición, y esa misma noche las aguas del río se elevaron y arrasaron a los volantinos y valyrios. Los espíritus de los ahogados señores del fuego se dice que permanecen bajo el agua y, por ello, su frío aliento se eleva para convertirse en esta niebla.
 dlga_stoneman_master_customize2:stoneman_master_talk|Chroyane es ahora conocida como los Pesares. La niebla gobierna esta región y los infectados con psoriagrís deambulan entre las ruinas.
 dlga_stoneman_master_talk:close_window|¿Y qué hacéis vos aquí, entonces?
-dlga_start:close_window.288|Yo mantendría la distancia si fuera vos.
+dlga_start:close_window.287|Marchaos.
 dlga_start:sajius_introduce_1|Saludos, amigo mío.
 dlga_sajius_introduce_1:sajius_introduce_2|¿Qué lugar es éste?
 dlga_sajius_introduce_2:sajius_master_talk|Esta es una de las muchas ruinas que quedan del Feudo Franco de Valyria.
@@ -4560,7 +4663,7 @@ dlga_sajius_master_customize:sajius_master_customize1|Cuando la Maldición cayó
 dlga_sajius_master_customize1:sajius_master_customize2|De nubes rojas llovió vidriagón y sangre negra de demonios, haciendo que todo el territorio se viniera abajo dejando salir un mar embravecido en su lugar, el Mar Humeante.
 dlga_sajius_master_customize2:sajius_master_talk3|La ciudad más orgullosa de todo el mundo había desaparecido en un instante, su imperio de leyenda se desvaneció en un día, las Tierras del Largo Verano se quemaron, se hundieron y quedaron arruinadas. Si queréis saber más, hablad con mi esposa Cornaelle.
 dlga_sajius_master_talk3:close_window|Adiós.
-dlga_start:close_window.289|No bebáis el agua de esa fuente.
+dlga_start:close_window.288|Yo mantendría la distancia si fuera vos.
 dlga_start:comaelle_introduce_1|Saludos.
 dlga_comaelle_introduce_1:comaelle_introduce_2|¿Sois Commaelle?
 dlga_comaelle_introduce_2:comaelle_master_talk|Sí, soy yo. ¿Os gustaría escuchar una historia?
@@ -4569,7 +4672,7 @@ dlga_comaelle_master_customize:comaelle_master_customize1|Una vez nació un much
 dlga_comaelle_master_customize1:comaelle_master_customize2|El muchacho creció y dejó el pueblo. Viajó por todo el mundo, en busca de una respuesta para su ombligo de oro. Consultó a los portadores de sombras de Asshai, los brujos de Qarth y los hechiceros de Valyria. Pero nadie supo darle una explicación a su ombligo de oro.
 dlga_comaelle_master_customize2:comaelle_master_talk3|Finalmente, se encontró con un ermitaño que vivía en un árbol. El ermitaño giró diez veces alrededor del muchacho. Y luego otras diez veces en la otra dirección.
 dlga_comaelle_master_talk3:close_window|Y entonces el muchacho se cayó de culo.
-dlga_start:close_window.290|¡Marchaos, jajajaja!
+dlga_start:close_window.289|No bebáis el agua de esa fuente.
 dlga_start:old_crone_introduce_1|¡Dejadme en paz!
 dlga_old_crone_introduce_1:old_crone_introduce_2|¿Qué hacéis aquí, anciana?
 dlga_old_crone_introduce_2:old_crone_master_talk|He venido aquí a morir...
@@ -4578,7 +4681,7 @@ dlga_old_crone_master_customize:old_crone_master_customize1|¡No! ¡Dejadme en p
 dlga_old_crone_master_customize1:old_crone_master_customize2|¡Aún puedo sentir el fuego y verlos gritar! ¡Todos los señores y sus damas, el rey y su heredero! ¡Ooh, gritaban!
 dlga_old_crone_master_customize2:old_crone_master_talk|¡Dejadme!
 dlga_old_crone_master_talk:close_window|Estáis loca, vieja.
-dlga_start:close_window.291|¡Alejaos de mí!
+dlga_start:close_window.290|¡Marchaos, jajajaja!
 dlga_start:peddler_maester_introduce_1|¿Sí?
 dlga_peddler_maester_introduce_1:peddler_maester_introduce_2|¿Qué estáis haciendo aquí?
 dlga_peddler_maester_introduce_2:peddler_maester_master_talk|Nuestro carro se destrozó en mitad de las ruinas, y nuestros guardias parecen incapaces de ponerle una nueva rueda.
@@ -4586,23 +4689,23 @@ dlga_peddler_maester_master_talk:peddler_maester_master_customize|¿Podéis cont
 dlga_peddler_maester_master_customize:peddler_maester_master_customize1|Claro. El nombre original de Piedrasviejas se perdió en las brumas del tiempo, y su nombre actual fue dado a las ruinas por los campesinos de la zona. Antes de que los ándalos llegaran, cuando las Tierras de los Ríos estaban gobernadas por la Casa Mudd, este lugar era su baluarte.
 dlga_peddler_maester_master_customize1:peddler_maester_master_customize2|Tristifer Mudd, aquel conocido como el Martillo de la Justicia, gobernó desde aquí, y precisamente su tumba está un poco más allá, junto al sepulcro.
 dlga_peddler_maester_master_customize2:close_window|Fascinante.
-dlga_start:close_window.292|Tengo que irme.
+dlga_start:close_window.291|¡Alejaos de mí!
 dlga_start:peddler_elbert_introduce_1|¿Qué?
 dlga_peddler_elbert_introduce_1:peddler_elbert_introduce_2|¿Qué estáis haciendo?
 dlga_peddler_elbert_introduce_2:close_window|Largo de aquí.
-dlga_start:close_window.293|Adiós.
+dlga_start:close_window.292|Tengo que irme.
 dlga_start:peddler_randolf_introduce_1|¿Qué?
 dlga_peddler_randolf_introduce_1:peddler_randolf_introduce_2|¿Qué estáis haciendo?
 dlga_peddler_randolf_introduce_2:close_window|Cambiando una rueda.
-dlga_start:close_window.294|Dejadme en paz.
+dlga_start:close_window.293|Adiós.
 dlga_start:peddler_polk_introduce_1|¿Qué?
 dlga_peddler_polk_introduce_1:peddler_polk_introduce_2|¿Qué estáis haciendo?
 dlga_peddler_polk_introduce_2:close_window|Tratando que este condenado carro se mueva.
-dlga_start:close_window.295|Adiós.
+dlga_start:close_window.294|Dejadme en paz.
 dlga_start:beowulf_starter_introduce_1|¿Qué queréis?
 dlga_beowulf_starter_introduce_1:beowulf_starter_introduce_2|Sólo estoy de visita. ¿Quién sois?
 dlga_beowulf_starter_introduce_2:close_window|Soy el maestre Criston, me ha enviado la Ciudadela para buscar libros valiosos. Sin embargo, no parecéis ser alguien que se preocupa por el conocimiento de verdad. Si regresáis más tarde, estoy seguro de que el bardo que llegó hace un par de semanas os podrá entretener.
-dlga_start:close_window.296|¿Qué?
+dlga_start:close_window.295|Adiós.
 dlga_start:beowulf_talk|Saludos, {mi señor/mi señora}. Soy Samol, el bardo errante. He actuado en la corte de Lanza del Sol, en el Puerto del Trapero, en el Templo de la Memoria y en los burdeles del Lecho de Pulgas.
 dlga_beowulf_talk:beowulf_talk2|Continuad, por favor.
 dlga_beowulf_talk:close_window|Tengo cosas mejores que hacer que escuchar a un bardo. Adiós.
@@ -4615,7 +4718,7 @@ dlga_beowulf_talk5:close_window|Tengo mejores cosas que hacer que ponerme a busc
 dlga_beowulf_talk6:beowulf_talk7|Oh, sin duda son un cuerno y un collar muy especiales. Soy demasiado viejo, pero vos podéis emprender este viaje en mi lugar. Debéis encontraros con un viejo ermitaño, Rodgar. Creo que se ha establecido en el Bosque de los Lobos, al norte de Invernalia. Él sabe donde está el cuerno. No obstante, id con cuidado, porque he oído que se ha vuelto completamente loco.
 dlga_beowulf_talk7:close_window|Muy bien, iré a buscar a ese Rodgar.
 dlga_beowulf_talk7:close_window.1|Creo que no me interesa.
-dlga_start:close_window.297|¿Sí?
+dlga_start:close_window.296|¿Qué?
 dlga_start:pj_beowulf_talk|¡Veo acercarse a las sombras! En el norte, ¡un cuervo de tres ojos! Oooh, ¡cómo me atormenta! ¡Lo veo a través de los árboles! ¡Pero él no podrá llegar a mí, las ruinas me protegen! ¡Son fuertes, fuertes, fuertes en el norte!
 dlga_pj_beowulf_talk:close_window|¿Estáis loco?
 dlga_pj_beowulf_talk:pj_beowulf_talk2|¿Sois Rodgar?
@@ -4643,6 +4746,9 @@ dlga_pj_beowulf_talk5:pj_beowulf_talk6.2|Sí, es muy triste. ¿Dónde puedo enco
 dlga_pj_beowulf_talk5:pj_beowulf_talk7|Decidme dónde está el cuerno. ¡Ahora!
 dlga_pj_beowulf_talk6:close_window.1|Imagino que todavía está en Harrenhal. No es una cabra de verdad... ya sabéis. Sólo es un mercenario de Qohor. Su nombre es Vargo Hoat.
 dlga_pj_beowulf_talk7:close_window|¡Me rindo! ¡Me rindo! ¡Todavía debe tenerlo Vargo Hoat en Harrenhal! ¡A menos que el castillo haya sido tomado por otro bando! ¡No creo que sobreviviera mucho tiempo como prisionero de los Stark!
+dlga_start:order2.4|¡Os colgaré de un árbol!
+dlga_order2:order3.4|¡Ya lo veremos!
+dlga_order3:close_window.4|¡Haré que os arrepintáis de esto!
 dlga_start:pj_beowulf_talk.3|¿Quef queréifs?
 dlga_pj_beowulf_talk:close_window.3|Nada.
 dlga_pj_beowulf_talk:pj_beowulf_talk2.3|Vargo Hoat, ¡he venido buscando el cuerno que robastéis! Dadmelo.
@@ -4691,27 +4797,27 @@ dlga_old_venta3:old_venta31|No me propongo hacer nada. Soy viejo, ciego y débil
 dlga_old_venta3:close_window|Con la ayuda de Braavos, colaborarán con nosotros para poner fin a la esclavitud.
 dlga_old_venta31:close_window|¡Entonces acabaré con la esclavitud de Volantis!
 dlga_old_venta31:close_window.1|Ahá. Poner fin a la esclavitud. Es lo mismo que pedirle a un león que ponga fin a matar.
-dlga_start:wildfire_starter_introduce_1.8|Sí, ¿puedo ayudaros?
-dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.9|¿Quién manda aquí?
-dlga_wildfire_starter_introduce_2:close_window.9|Sería el Hermano Mayor, pero me temo que no está aquí ahora. Se fue a Buenmercado a buscar la ayuda de hombres valerosos.
-dlga_start:close_window.298|Disculpadme, estoy muy ocupado.
-dlga_start:wildfire_talk.14|El Padre vela por vos, {hermano/hermana}. ¿Habéis venido a ayudarnos en estos tiempos de necesidad?
-dlga_wildfire_talk:wildfire_talk2.10|Así es. ¿En qué puedo ayudar?
-dlga_wildfire_talk:close_window.14|Lo siento, no.
-dlga_wildfire_talk2:wildfire_talk3.14|Un grupo de nuestros hermanos acaba de regresar de una peregrinación al Septo Estrellado de Antigua. ¡Entre los objetos que trajeron al norte se encuentra una reliquia del mismísimo Baelor el Santo! ¡Un anillo que se dice que llevaba el Rey cuando marchó a Dorne para rescatar al Caballero Dragón de ese agujero de serpientes! Pero en el camino, no muy lejos de Árbol de Cuervos, fueron atacados por Aegon el Sangriento, el hijo proscrito de Ser Aenys Frey. Pensaba que había muerto hace años, pero el hermano Tommen jura que era él. Robó todas provisiones y objetos que llevaban los hermanos, ¡incluido el anillo! ¡Encontradlo, {playername}, y haced justicia! Ha habido informes de forajidos cerca de Caída Alta, quizás podáis dar con él allí.
-dlga_wildfire_talk3:wildfire_talk4.14|¡Os traeré su cabeza!
+dlga_start:wildfire_starter_introduce_1.9|Sí, ¿puedo ayudaros?
+dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.10|¿Quién sois?
+dlga_wildfire_starter_introduce_2:close_window.10|Denzo D'han, de los Hijos del Viento. Sirvo al Príncipe. Volved más tarde y seguro que podéis encontrarlo.
+dlga_start:close_window.297|¿Sí?
+dlga_start:wildfire_talk.18|El Padre cuida de ti, {hermano/hermana}. ¿Has venido a ayudarnos en nuestro tiempo de necesidad?
+dlga_wildfire_talk:wildfire_talk2.14|Lo tengo. ¿En qué puedo ayudar?
+dlga_wildfire_talk:close_window.16|No, lo siento.
+dlga_wildfire_talk2:wildfire_talk3.16|Una compañía de nuestros hermanos recientemente regresó de un viaje del Septo Estrellada en Antigua. Entre las cosas que trajeron al Norte había ¡una reliquia del mismísimo Baelor el Santo! Un anillo, que dicen fue usado por el Rey cuando fue a Dorne, cuando fue a rescatar a su primo Aemon Targaryen, el Cabellero Dragón,  ¡encerrado en una jaula sobre un foso lleno de víboras! Pero en el camino, no muy lejos de Árbol de Cuervos, asentamiento de la Casa Blackwood, fueron atacados por Aegon el Sangriento, el hijo bandolero de Ser Aenys Frey. Pensé que había muerto hace años, pero el maestre Toman de Colina Fantasma jura que era él. Robó a los hermanos suministros y bienes, y el anillo además. ¡Encuentrale {playername} y llévalo ante la justicia! Ha habido informes de forajidos cerca de Caída Alta, podríais encontrarlo cerca de allí.
+dlga_wildfire_talk3:wildfire_talk4.16|¡Te traeré su cabeza!
 dlga_wildfire_talk4:close_window|También puede que haya buscado refugio con sus parientes en Los Gemelos. Con la guerra asolando el país, un proscrito escondido en el castillo de sus abuelos podría pasar fácilmente desapercibido.
-dlga_wildfire_talk7:close_window.26|No estoy interesado.
-dlga_start:close_window.299|¿Sí?
+dlga_wildfire_talk7:close_window.30|Creo que no me interesa.
+dlga_start:close_window.298|Disculpadme, estoy muy ocupado.
 dlga_start:pj_wildfire_talk.26|¡Perro! ¿Qué hacéis aquí?
 dlga_pj_wildfire_talk:close_window.26|¡Ajá!
 dlga_pj_wildfire_talk:pj_wildfire_talk2.26|¡He venido a por la reliquia! ¡Entregadmela!
 dlga_pj_wildfire_talk2:pj_wildfire_talk3.26|¡Ja! Cuando haya terminado con vos, ¡ni siquiera las oraciones del Gran Septón os salvarían! Pero, ¿de verdad creéis que podías hacerme algún daño aquí, en el castillo de mi señor abuelo?
 dlga_pj_wildfire_talk3:pj_wildfire_talk5.11|No, pero tendréis que salir en algún momento. Cuando lo hagáis, os mataré.
 dlga_pj_wildfire_talk5:close_window.7|¡O quizás os ahoguéis en vuestra propia sangre!
-dlga_start:order2.4|¡Os colgaré de un árbol!
-dlga_order2:order3.4|¡Ya lo veremos!
-dlga_order3:close_window.4|¡Haré que os arrepintáis de esto!
+dlga_start:order2.5|¡Haré que os arrepintáis de este día!
+dlga_order2:order3.5|¡Ya lo veremos!
+dlga_order3:close_window.5|¡Os cortaré la verga y os convertiré en mi esclavo eunuco!
 dlga_start:pj_wildfire_talk.27|¿Llevastéis la justicia a Aegon el Sangriento?
 dlga_pj_wildfire_talk:close_window.27|No importa.
 dlga_pj_wildfire_talk:morcant_creditos.13|¿Puedo saber más de vos?
@@ -4719,25 +4825,25 @@ dlga_morcant_creditos:close_window.14|No soy más que un humilde servidor de los
 dlga_pj_wildfire_talk:pj_wildfire_talk2.27|¡Sí! Aunque no fue tarea fácil.
 dlga_pj_wildfire_talk2:pj_wildfire_talk3.27|¿En serio? ¡Bien hecho, {playername}! Tengo un obsequio para vos, un libro. La Estrella de Siete Puntas, el libro sagrado de nuestra Fe. ¡Atesoradlo, pues os mostrará la devoción por los Siete!
 dlga_pj_wildfire_talk3:close_window.11|¡Excelente!
-dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.10|¿Quién sois?
-dlga_wildfire_starter_introduce_2:close_window.10|Denzo D'han, de los Hijos del Viento. Sirvo al Príncipe. Volved más tarde y seguro que podéis encontrarlo.
-dlga_start:close_window.300|Disculpadme, estoy muy ocupado.
-dlga_start:wildfire_talk.15|¿Sí? ¿Qué queréis?
-dlga_wildfire_talk:close_window.15|Nada.
-dlga_wildfire_talk2:wildfire_talk3.15|Barbasangre me disgusta. Estoy bastante cansado de sus insultos y de sus maneras brutales. Ha llegado el momento de que él y su banda de salvajes dejen este mundo. Id a Lys y provocadle, eso debería bastar para que saliera. Matadlo, a él y a sus hombres. Haced esto por mí, {playername}, y me aseguraré de que seáis bien recompensado.
-dlga_wildfire_talk3:wildfire_talk4.15|Muy bien, mataré a Barbasangre. Pero mi señor, si no os importuna que os lo pregunte, ¿quién sois?
+dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.11|¿Quién sóis?
+dlga_wildfire_starter_introduce_2:close_window.11|Denzo D'han, de los Hijos del Viento. Sirvo al Príncipe Desharrapado. Vuelva más tarde, y estoy seguro de que será capaz de encontrarlo.
+dlga_start:close_window.299|¿Sí?
+dlga_start:wildfire_talk.19|Sí, ¿qué queréis?.
+dlga_wildfire_talk:close_window.17|Nada.
+dlga_wildfire_talk2:wildfire_talk3.17|Barbasangre me disgusta. Estoy bastante cansado de sus insultos y actos brutales. Ha llegado el momento para que él y su banda de salvajes partan de este mundo. Id a Lys e insultadlo, eso debería hacerle salir. Mátalo, a él y a sus hombres. Hazlo por mí, {playername}, y me aseguraré de que seas bien recompensado.
+dlga_wildfire_talk3:wildfire_talk4.17|Muy bien, voy a matar a Barbasangre. Mi señor, si no os importa que os pregunte, ¿quién sois vos?
 dlga_wildfire_talk4:close_window.1|Depende de a quién le preguntéis. El Viejo Harapos es cómo me llaman los otros capitanes mercenarios. Mis hombres me llaman el Príncipe Desharrapado. ¿Quién soy? Andrajoso y retorcido, un pícaro es lo que soy, pero sigo siendo un príncipe.
-dlga_wildfire_talk7:close_window.27|Creo que no me interesa.
-dlga_start:close_window.301|¿Sí?
+dlga_wildfire_talk7:close_window.31|Creo que no me interesa.
+dlga_start:close_window.300|Disculpadme, estoy muy ocupado.
 dlga_start:pj_wildfire_talk.28|¿Qué queréis? Os parecéis a una puta que me follé hace tiempo, tenéis los mismos ojos.
 dlga_pj_wildfire_talk:close_window.28|¡Ajá!
 dlga_pj_wildfire_talk:pj_wildfire_talk2.28|Vuestra madre era una puta, aunque vos mismo no servís para nada, salvo para ser montado por caballos.
 dlga_pj_wildfire_talk2:pj_wildfire_talk3.28|¿Qué? ¡Os voy a hacer tragar esas palabras! ¡Daré de comer vuestra verga a los cerdos, mientras seguís vivo para verlo!
 dlga_pj_wildfire_talk3:pj_wildfire_talk5.12|Ya lo veremos. No podemos enfrentarnos bajo este techo, pero reunámonos en el campo y veamos qué ocurre.
 dlga_pj_wildfire_talk5:close_window.8|¡Os atravesaré entero como mi polla desvirga el coño de las muchachas!
-dlga_start:order2.5|¡Haré que os arrepintáis de este día!
-dlga_order2:order3.5|¡Ya lo veremos!
-dlga_order3:close_window.5|¡Os cortaré la verga y os convertiré en mi esclavo eunuco!
+dlga_start:order2.6|¡Voy a hacer que te arrepientas hoy!
+dlga_order2:order3.6|¡Ya lo veremos!
+dlga_order3:close_window.6|¡Te cortaré la polla y te haré mi esclavo eunuco!
 dlga_start:pj_wildfire_talk.29|¿Lo lograstéis, {playername}?
 dlga_pj_wildfire_talk:close_window.29|No importa.
 dlga_pj_wildfire_talk:morcant_creditos.14|¿Puedo saber algo más de vos?
@@ -4793,6 +4899,10 @@ dlga_move_cattle_herd_failed_2:merchant_ask_for_debts|Bueno, era responsabilidad
 dlga_mayor_begin:close_window.1|{Estimado/Estimada} {playername}. Estoy en deuda con vos por traer de vuelta a la hija de mi amigo. Por favor, tomad estos {reg8} venados que os prometí. Mi amigo hubiera deseado daros más, pero tener que pagar el rescate le ha dejado en la ruina.
 dlga_mayor_begin:mayor_friendly_pretalk|Bueno, parece que fuisteis capaz de encontrar a esos bandidos, y enseñarles lo que les ocurre a quienes impiden el comercio. Aquí tenéis vuestra recompensa: {reg5} venados de plata. Os lo merecéis, y os estamos muy agradecidos.
 dlga_mayor_begin:mayor_friendly_pretalk.1|He oído hablar de vuestras hazañas. Les habéis dado su merecido a esos bandidos. Veo que sois tan eficiente como dicen. Aquí tenéis vuestra recompensa: {reg5} venados. Me gustaría daros más pero esos bandidos me han llevado casi a la bancarrota.
+dlga_mayor_begin:close_window.2|He oído que negociaste tu pequeño problema,  {playername}. Veo que no tienes miedo de ensuciarte las manos, ¿eh? Bueno, aquí tienes tu recompensa,
+dlga_mayor_begin:close_window.3|Oh, eres tú. Ilumíname, ¿cómo se hace exactamente para perder una pelea sencilla contra alguien de baja cuna y pobre? De verdad, si alguna vez quiero tomar una lección de cómo rendirse y morir, ten por seguro de que os consultaré a vos. ¡Fuera de mi vista, {playername}!, tengo cosas que hacer.
+dlga_mayor_begin:mayor_friendly_pretalk.2|Bueno, eso suena como si fueras capaz de localizar a los bandidos, y mostrarles lo que le sucede a los que tratan de interrumpir el flujo del comercio. Aquí está su recompensa: {reg5} monedas. Os lo habéis ganado, y estamos muy agradecidos.
+dlga_mayor_begin:mayor_friendly_pretalk.3|He oído hablar de tus obras. Vos habéis dado a esos bandidos el castigo que se merecían. Sois realmente tan bueno como dicen. Aquí está su recompensa: {reg5} monedas. Me gustaría daros más, pero esos bandidos me han llevado casi a la bancarrota.
 dlga_mayor_begin:merchant_ask_for_debts|Según mis cuentas, debéis al gremio de mercaderes {reg1} venados de plata. Será mejor que los recaude ya.
 dlga_merchant_ask_for_debts:merchant_debts_paid|Bien. Os pagaré mi deuda.
 dlga_merchant_debts_paid:mayor_pretalk|Excelente. Haré saber al resto de mercaderes que ya no tenéis ninguna deuda con nosotros.
@@ -4898,14 +5008,14 @@ dlga_merchant_quest_brief:escort_merchant_caravan_quest_brief|Voy a enviar una c
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|Bien. Escoltaré la caravana.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall|Me temo que no tengo tantos soldados conmigo.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall.1|Lo siento. No puedo hacerlo ahora mismo
+dlga_start:close_window.301|¿Sí?
 dlga_start:close_window.302|Podemos terminar el trayecto solos. Gracias
-dlga_start:close_window.303|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tienes tu pago... {reg14} monedas. Gracias por la escolta. Buena suerte.
 dlga_start:merchant_caravan_intro_1|Saludos. Debéis ser nuestra escolta, ¿Verdad?
+dlga_start:close_window.303|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tienes tu pago... {reg14} monedas. Gracias por la escolta. Buena suerte.
 dlga_start:close_window.304|Podemos terminar el trayecto solos. Gracias
-dlga_start:close_window.305|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tienes tu pago... {reg14} monedas. Gracias por la escolta. Buena suerte.
 dlga_start:escort_merchant_caravan_talk|Eh. Hemos llegado hasta aquí... ¿Que quieres que hagamos?
+dlga_start:close_window.305|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tienes tu pago... {reg14} monedas. Gracias por la escolta. Buena suerte.
 dlga_start:close_window.306|Podemos terminar el trayecto solos. Gracias
-dlga_start:close_window.307|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tienes tu pago... {reg14} monedas. Gracias por la escolta. Buena suerte.
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|Sí. Me llamo {playername}. Os llevaré hasta {s1}.
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|Bueno, está bien saber que no viajaremos solos. ¿Qué queréis que hagamos ahora?
 dlga_escort_merchant_caravan_talk:merchant_caravan_follow_lead|Seguidme a mí. Os llevaré por una ruta segura.
@@ -4918,11 +5028,26 @@ dlga_troublesome_bandits_quest_brief:merchant_quest_taken_bandits|Bien. Cazaré 
 dlga_merchant_quest_taken_bandits:close_window|¿Lo haréis? Espléndido. Que tengáis buena suerte.
 dlga_troublesome_bandits_quest_brief:merchant_quest_stall|Lo siento. No tengo tiempo para eso ahora mismo.
 dlga_merchant_quest_requested:merchant_quest_brief.5|En realidad, estaba buscando alguien de fiar que pudiera ayudarme a llevar a cabo una importante misión. Un grupo de bandidos han secuestrado a la hija de un amigo mío y la retienen para cobrar el rescate. Mi amigo está dispuesto a pagarles, pero necesitamos a alguien que les lleve el dinero a esos sinvergüenzas y traiga a la damisela de vuelta sana y salva.
+dlga_merchant_quest_brief:cheese_rustlers_quest_brief|Le pagaré {reg8} monedas si caza a estos forajidos. Es un trabajo peligroso. Pero creo que vos sois el {hombre/mujer} apropiado para el trabajo. ¿Qué decís?
+dlga_cheese_rustlers_quest_brief:merchant_quest_taken_cheese_rustlers|Muy bien. Voy a cazar a estos ladrones de poca monta.
+dlga_merchant_quest_taken_cheese_rustlers:close_window|¿Lo harás? Me alegra escuchar eso. Buena suerte.
+dlga_cheese_rustlers_quest_brief:merchant_quest_stall|Lo siento. No tengo tiempo para eso ahora mismo.
+dlga_merchant_quest_requested:merchant_quest_brief.6|Uno de los mercaderes de aquí está buscando pastores para llevar su ganado al mercado de {s13}.
+dlga_merchant_quest_brief:cheese_paladins_quest_brief|Te pagaré {reg8} monedas si cazas a estos ladrones. Es un trabajo peligroso. Pero debe ser una presa fácil para alguien como tú. ¿Qué dices?
+dlga_cheese_paladins_quest_brief:merchant_quest_taken_cheese_paladins|Muy bien. Voy a cazar a estos forajidos.
+dlga_merchant_quest_taken_cheese_paladins:close_window|¿Lo harás? Me alegra escuchar eso. Buena suerte, {playername}.
+dlga_cheese_paladins_quest_brief:merchant_quest_stall|Lo siento. No tengo tiempo para eso ahora mismo.
+dlga_merchant_quest_requested:merchant_quest_brief.7|Usted podría ser capaz de ayudarme. Los matones locales están fuera de control aquí en la ciudad. Merodean alrededor de la taberna todo el día, alterando los clientes y buscando pelea con cualquier desconocido que pasa cerca. Uno de ellos es el primo de un oficial de la Guardia de la ciudad, así que tengo las manos atadas. ¿Quizás estarías interesado en darles una lección?
+dlga_merchant_quest_brief:bar_brawl_quest_brief|Le pagaré bien si usted causa un poco de alboroto fuera de la taberna, y en el proceso, le pega una buena paliza a esos borrachos. ¿Qué dices?
+dlga_bar_brawl_quest_brief:merchant_quest_taken_bar_brawl|Yo me encargaré de él.
+dlga_bar_brawl_quest_brief:merchant_quest_stall|No soy un alborotador. Busca a otra persona para este trabajo.
+dlga_merchant_quest_taken_bar_brawl:close_window|Muy bien. Me alegro de que hayas aceptado, {playername}. Vamos, quítate esa armadura y ponte esta ropa, que nunca caerán en nuestra artimaña si te ves como un guerrero. Y dame tus armas. Iré hasta la taberna y le diré a los muchachos que hay alguien en la calle insultando a sus madres. Espera aquí.
+dlga_merchant_quest_requested:merchant_quest_brief.8|En realidad, yo estaba buscando un {man/helper} confiable que pueda llevar a cabo una importante misión. Un grupo de bandidos han secuestrado a la hija de un amigo mío y la retienen para pedir rescate. Mi amigo está dispuesto a pagar, pero necesitamos a alguien que lleve el dinero a esos sinvergüenzas y llevar a la chica a un lugar seguro.
 dlga_merchant_quest_brief:kidnapped_girl_quest_brief|La cantidad que los bandidos piden como rescate es {reg12} venados de plata. Os daré el dinero una vez aceptéis la misión. Tenéis 15 días para llevar el dinero a los bandidos, que estarán esperando cerca de la aldea de {s4}. Esos bastardos dijeron que matarían a la pobre muchacha si no les llega el dinero para entonces. Tendréis vuestra paga de {reg8} venados cuando traigáis a la damisela de vuelta sana y salva.
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|Bien. Llevaré el dinero del rescate a los bandidos y regresaré con la damisela.
 dlga_kidnapped_girl_quest_taken:close_window|Perfecto. Sabía que podíamos confiar en vos para esto. Aquí está el dinero del rescate, {reg12} venados de plata. Contadlo antes de cogerlo. Y, por favor, no cometáis ninguna imprudencia. Tened en cuenta que el bienestar de la damisela es lo más importante...
 dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Lo siento. No tengo tiempo para eso ahora mismo.
-dlga_start:close_window.308|¡Gracias por traerme de vuelta! No puedo esperar a ver a mi familia. Adiós.
+dlga_start:close_window.307|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tienes tu pago... {reg14} monedas. Gracias por la escolta. Buena suerte.
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Sí. Venid conmigo. Nos vamos a casa.
 dlga_kidnapped_girl_liberated_map_2a:close_window|Por desgracia, no tenéis sitio para mí en vuestro grupo.
 dlga_kidnapped_girl_liberated_map_2a:close_window.1|Oh, ¿de veras? ¡Mil gracias!
@@ -4990,7 +5115,7 @@ dlga_merchant_quest_brief:merchant_quest_deal_with_night_bandits|Hay un grupo de
 dlga_merchant_quest_deal_with_night_bandits:deal_with_night_bandits_quest_taken|¿Matar bandidos? ¡Por supuesto que sí!
 dlga_merchant_quest_deal_with_night_bandits:merchant_quest_stall|Disculpadme, no me interesa.
 dlga_deal_with_night_bandits_quest_taken:mayor_pretalk|Me habéis quitado un peso de encima, {playername}. Podéis contar con una bonita recompensa si lográis tener éxito. Pero que no os maten, ¿eh?
-dlga_merchant_quest_requested:merchant_quest_brief.6|Uno de los mercaderes de aquí está buscando pastores para llevar su ganado al mercado de {s13}.
+dlga_merchant_quest_requested:merchant_quest_brief.9|Uno de los comerciantes de aquí está buscando pastores para llevar su ganado al mercado en {s13}.
 dlga_merchant_quest_brief:move_cattle_herd_quest_brief|El ganado debe llegar a {s13} en un máximo de 30 días. Si es antes, mucho mejor, pero el plazo máximo no puede sobrepasar los 30 días. Si podéis hacerlo, yo os pagaría {reg8} venados por vuestro esfuerzo. ¿Os interesa?
 dlga_move_cattle_herd_quest_brief:move_cattle_herd_quest_taken|Sí, puedo llevar el ganado a {s13}.
 dlga_move_cattle_herd_quest_brief:merchant_quest_stall|Lo siento, pero no.
@@ -4998,6 +5123,19 @@ dlga_move_cattle_herd_quest_taken:mayor_pretalk|Espléndido. Podéis encontrar a
 dlga_merchant_quest_requested:mayor_pretalk|Me temo que no puedo ofreceros ningún trabajo ahora mismo.
 dlga_start:village_elder_deliver_cattle_thank|Mi {buen señor/buena señora}. Nuestra aldea agradece vuestra ayuda. Gracias a las {reg5} cabezas de ganado que habéis traído, ahora podemos criar nuestro propio ganado.
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|Mi {buen señor/buena señora}, decidme, ¿hay algo que pueda hacer por vos?
+dlga_start:close_window.308|¡Gracias por traerme de vuelta! No puedo esperar a ver a mi familia. Adiós.
+dlga_start:elder_hunt_down_smugglers_failed|{playername}. Hemos estado esperando noticias de una gran batalla entre usted y los contrabandistas, pero no hemos oído nada. ¿No me digas que los has dejado escapar?
+dlga_elder_hunt_down_smugglers_failed:elder_hunt_down_smugglers_failed_1a|Perdóname, anciano, los contrabandistas son resbaladizos como anguilas.
+dlga_elder_hunt_down_smugglers_failed_1a:close_window|Hmph, eso es una excusa de tu fracaso, {playername}. Ahora, si me disculpas, tengo que trabajar en las defensas del pueblo, porque ellos estarán de regreso, seguro como el Invierno.
+dlga_start:close_window.309|Buenos días, {s0}. Siempre es un honor teneros en {s10}.
+dlga_start:village_elder_hunt_down_girl_thank|Muchas gracias por la búsqueda de la niña y traerla de vuelta. Esperemos que esto sea una lección para todas las chicas tontas por aquí. Estamos luchando contra esto, no podemos permitir más que nuestros jóvenes se marchen y críen a sus hijos en un pueblo rival. ¿Cómo beneficia eso a nadie aquí? Tienes nuestro agradecimiento.
+dlga_start:village_elder_hunt_down_girl_thank.1|Bueno, veo que no había mucho sentido en que vinieses después de la chica. ¿Te das cuenta de que este pueblo se encuentra al borde de la extinción? Todos los años, tenemos cada vez menos hijos, y vemos a nuestra juventud nos deja para irse a la ciudad, o para otros pueblos. Usted ha ayudado a que el proceso avance. Bah!
+dlga_village_elder_hunt_down_girl_thank:village_elder_talk|¿Hay algo que pueda hacer por ti?
+dlga_start:close_window.310|Cuidad vuestras maneras y no tendremos problemas.
+dlga_start:lost_kidnapped_wife|Por desgracia he perdido a la mujer en el camino hacia aquí ...
+dlga_lost_kidnapped_wife:lost_kidnapped_wife_2|¡Oh, no! ¿Cómo voy a decirle esto a su marido?
+dlga_lost_kidnapped_wife_2:lost_kidnapped_wife_3|Lo siento. No pude hacer nada.
+dlga_lost_kidnapped_wife_3:village_elder_talk|Me decepcionas, {playername}. Yo confiaba en vos. Voy a dejar que la gente sepa de su incompetencia.
 dlga_start:village_elder_talk|Buen día, {señor/señora}, os doy la bienvenida a {s9}. Soy el anciano de esta aldea.
 dlga_start:village_elder_talk.1|Os doy la bienvenida a {s9}, {s0}. Nos alegra saber que sois {el/la} {nuevo/nueva} {señor/señora} de nuestra humilde aldea. Soy el anciano de la aldea y estaré honrado de serviros en todo lo que pueda.
 dlga_start:village_elder_talk.2|Su Alteza, nos honra con su precensia en nuestra aldea.
@@ -5066,6 +5204,9 @@ dlga_village_elder_active_mission_1:village_elder_active_mission_2|Sí, {señor/
 dlga_village_elder_active_mission_2:village_elder_deliver_grain_thank|Desde luego. Os traje {reg5} sacos de trigo.
 dlga_village_elder_deliver_grain_thank:village_elder_deliver_grain_thank_2|Mi {buen señor/buena señora}. Nos habéis salvado de la hambruna y la desesperación. No podemos agradecéroslo lo suficiente, pero siempre estaréis en nuestras plegarias. La aldea de {s13} no olvidará lo que habéis hecho por nosotros.
 dlga_village_elder_deliver_grain_thank_2:village_elder_talk|Mi {buen señor/buena señora}, decidme, ¿hay algo que pueda hacer por vos?
+dlga_village_elder_active_mission_2:village_elder_deliver_lumber_thank|En efecto. Te traje {reg5} fardos de madera.
+dlga_village_elder_deliver_lumber_thank:village_elder_deliver_lumber_thank_2|Mi buen  {señor/señora}. Vos habéis regresado en el momento preciso. Vamos a iniciar la construcción de inmediato. ¡Si está todo está en orden, vamos a tener que nombrar un granero en vuestro honor!
+dlga_village_elder_deliver_lumber_thank_2:village_elder_talk|Mi {buen señor/buena señora}, decidme, ¿hay algo que pueda hacer por vos?
 dlga_village_elder_active_mission_2:village_elder_active_mission_3|Aún estoy en ello.
 dlga_village_elder_active_mission_2:village_elder_mission_failed|Me temo que no podré terminar con esta misión.
 dlga_village_elder_active_mission_3:village_elder_pretalk|Gracias, {señor/señora}. Rezamos por vuestro éxito todos los días.
@@ -5081,6 +5222,72 @@ dlga_village_elder_tell_deliver_grain_mission_3:village_elder_deliver_grain_miss
 dlga_village_elder_tell_deliver_grain_mission_3:village_elder_deliver_grain_mission_reject|Me temo que no tengo tiempo para esto. Tendréis que pedir ayuda en otra parte.
 dlga_village_elder_deliver_grain_mission_accept:close_window|Gracias, {s0}. Rezaremos por vos día y noche.
 dlga_village_elder_deliver_grain_mission_reject:close_window|Sí, {s0}, claro. Siento haberos molestado con nuestros problemas.
+dlga_village_elder_tell_mission:elder_hunt_smugglers|Hay algo en lo que usted podría ayudarnos, {playername}. Para añadir a todas las otras dificultades, recientemente el pueblo se ha convertido en el hogar de un nido de contrabandistas, que tienen su estacionamiento habitual en {s3}. Ellos beben y se van de juerga, por no hablar de su ocupación en la nefasta práctica del contrabando. Temo que ataquen a un Señor y que provoque una terriblevenganza contra nuestro pobre pueblo. ¿Podríais vos ayudarnos con este problema?
+dlga_elder_hunt_smugglers:elder_hunt_smugglers_accepted|Voy a negociar con ellos. ¿Dónde están?
+dlga_elder_hunt_smugglers:elder_hunt_smugglers_rejected|Me temo que no puedo aceptar tal misión ahora mismo.
+dlga_elder_hunt_smugglers_accepted:close_window|Oh, eso es una buena noticia, {playername}. Voy a enviar a un niño a decir que se ha visto una partida de ataque en el horizonte, y parecen estar preparando para {s4}. Eso debería sofocarlos, y no hay duda que se dirigirán directamente a {s3}. Será entonces cuando usted deberá darles caza. Buena suerte.
+dlga_elder_hunt_smugglers_rejected:close_window|Parece que debemos trabajar bajo esta maldición por algún tiempo más entonces. Buenos días, {playername}.
+dlga_village_elder_tell_mission:elder_quest_scholar|Mi {señor/señora}! ¡Debéis ayudarnos! ¡Se están comiendo toda la comida! Espera, arh, permítanme explicaros. Hace varios días, un grupo de septones llegó a la aldea. Ellos estaban en camino a {s8}, cuando fueron atacados por bandidos. Su escolta huyó, y los propios septones apenas pudieron llegar aquí.
+dlga_elder_quest_scholar:escort_scholars_quest_brief|¡Y ahora no podemos deshacernos de ellos! Se niegan a partir sin escolta y son septones gordos, mi {señor/señora}. Comen y comen, y comen. Si no nos deshacemos de ellos pronto, acabarán con nuestras reservas de comida y cuando llegue el Invierno moriremos de hambre. Si podeis vos llevarlos a {s8}, os estaremos eternamente agradecidos. Pero por favor, no los pierda por el camino, seguro que como lo cerdos que son, volverán a estar de vuelta aquí pronto.
+dlga_escort_scholars_quest_brief:scholar_quest_taken|Escoltare a los Septones.
+dlga_escort_scholars_quest_brief:escort_scholars_reject|Lo siento. No puedo hacerlo ahora mismo
+dlga_scholar_quest_taken:close_window|Gracias, mi amigo. Os deseamos la velocidad de un zorro.
+dlga_escort_scholars_reject:close_window|Sí, sí, por supuesto. Lo siento si os he molestado con nuestros problemas.
+dlga_start:close_window.311|No podemos hablar mientras estamos de guardia, {s0}.
+dlga_start:close_window.312|Bueno, casi hemos llegado a {s21}. Podemos cubrir el resto del camino nosotros mismos. Aquí está vuestro sueldo ... {reg14} monedas. Gracias por la escolta. Ah, y sabemos que ha tenido que aguantar mucho en este viaje, ¡y eso debe ser conmemorado en verso! Por favor, acepte este libro - cuidado, cuidado, que pertenecía al Hermano Mayor de Isla Tranquila, como una recompensa extra. Ahora, creo que el Septo puede abrir sus puertas. ¡Adiós y que el Padre os bendiga!.
+dlga_start:close_window.313|Bueno, casi hemos llegado {s21}. Podemos cubrir el resto del camino nosotros mismos. Aquí está tu sueldo ... {reg14} monedas. También teníamos un regalo para vos, una muestra de nuestro aprecio, pero pareceis incapaz de llevar nada más. No importa. Gracias por la escolta. ¡Buena suerte y que el Guerrero de fuerza a vuestros brazos!
+dlga_start:scholars_intro_1|Saludos. Debéis ser nuestra escolta, ¿Verdad?
+dlga_scholars_intro_1:scholars_intro_2|Sí. Me llamo {playername}. Os llevaré hasta {s1}.
+dlga_scholars_intro_2:escort_scholars_talk|Bueno, está bien saber que no viajaremos solos. ¿Qué queréis que hagamos ahora?
+dlga_escort_scholars_talk:scholars_follow_lead|Seguidme a mí. Os llevaré por una ruta segura.
+dlga_scholars_follow_lead:close_window|Bien. Estaremos justo detrás de vos.
+dlga_escort_scholars_talk:scholars_stay_here|Quedaos aquí un rato. Iré a echar un vistazo por delante.
+dlga_scholars_stay_here:close_window|Bien. Os esperaremos aquí.
+dlga_start:escort_scholars_talk2|¡Joven {hombre/dama}! Yo realmente creo que deberíamos, ah, movernos. Realmente no podemos retrasarnos en esta área. Tenemos que llegar a un Septo pronto, pues de lo contrario, erm, expirará. Aunque no creo que alguien como a vos podais entenderlo... ¿eh?
+dlga_escort_scholars_talk2:scholars_follow_lead2|Seguidme a mí. Os llevaré por una ruta segura.
+dlga_scholars_follow_lead2:close_window|Bien. Estaremos justo detrás de vos.
+dlga_escort_scholars_talk2:scholars_stay_here2|Quedaos aquí un rato. Iré a echar un vistazo por delante.
+dlga_scholars_stay_here2:close_window|Bien. Os esperaremos aquí.
+dlga_escort_scholars_talk2:scholars_defiant|¡Dadme vuestros objetos de valor!
+dlga_scholars_defiant:escort_scholars_talk3|¡Esto es un ultraje! No podéis amenazarnos, maldito zoquete pagano. Ahora daos prisa y asegúrese de que el camino es seguro.
+dlga_escort_scholars_talk3:scholars_follow_lead3|Seguidme a mí. Os llevaré por una ruta segura.
+dlga_scholars_follow_lead3:close_window|Bien. Estaremos justo detrás de vos.
+dlga_escort_scholars_talk3:scholars_stay_here3|Quedaos aquí un rato. Iré a echar un vistazo por delante.
+dlga_scholars_stay_here3:close_window|Bien. Os esperaremos aquí.
+dlga_escort_scholars_talk3:scholars_follow_lead4|Lo he aguantado con su incesante lloriqueo. ¡Vamos a ver si la pluma es más poderosa que la espada!
+dlga_scholars_follow_lead4:close_window|¡Hermanos, a las armas!
+dlga_village_elder_tell_mission:kidnapped_wife_brief|En realidad, yo estaba buscando un {man/helper} que puediese realizar una importante misión. La esposa de uno de nuestros agricultores fue tomada por bandidos hace un par de días. El hombre está muy angustiado. Nosotros no podemos pagaros, mi {señor/lady}, pero siempre seréis bienvenido en nuestro pueblo si pudiera traerla de vuelta.
+dlga_kidnapped_wife_brief:kidnapped_wife_quest_brief|La cantidad que los bandidos piden como rescate es {reg12} monedas. Teneis 15 días para llevar el dinero a los bandidos, que lo estará esperando cerca del pueblo de {s4}. Esos bastardos dijeron que van a violar a la mujer si no reciben el dinero el día indicado.
+dlga_kidnapped_wife_quest_brief:kidnapped_wife_quest_taken|Muy bien. Tomaré el dinero del rescate para los bandidos y traeré de vuelta a la esposa.
+dlga_kidnapped_wife_quest_taken:close_window|Bien. Sabía que podíamos confiar en vos para esta misión. Y por favor, no intente hacer nada precipitado. Tenga en cuenta que la virtud de la mujer es más importante que cualquier otra cosa ...
+dlga_kidnapped_wife_quest_brief:kidnapped_wife_reject|Lo siento. No tengo tiempo para eso ahora mismo.
+dlga_kidnapped_wife_reject:close_window|Sí, sí, por supuesto. Lo siento si os he molestado con nuestros problemas.
+dlga_start:close_window.314|¡Muchas gracias por traerme de vuelta! No puedo esperar a ver a mi familia, a mis hermanas y a mi madre, ¡incluso a mi marido!
+dlga_kidnapped_wife_liberated_map:kidnapped_wife_liberated_map_2a|Sí. Venid conmigo. Nos vamos a casa.
+dlga_kidnapped_wife_liberated_map_2a:close_window|Desafortunadamente, no tienes cabida en mi compañía para mí.
+dlga_kidnapped_wife_liberated_map_2a:close_window.1|Oh, ¿de veras? ¡Mil gracias!
+dlga_kidnapped_wife_liberated_map:kidnapped_wife_liberated_map_2b|Esperad aquí un poco más. Volveré a por vos.
+dlga_kidnapped_wife_liberated_map_2b:close_window|Oh, por favor {mi señor/mi señora}, ¡No me deje aquí solo!
+dlga_start:kidnapped_wife_liberated_map|Oh mi {señor/señora}. Muchas gracias por rescatarme. ¿Me llevais ahora con mi familia?
+dlga_kidnapped_wife_liberated_battle:kidnapped_wife_liberated_battle_2a|Sí. Venid conmigo. Nos vamos a casa.
+dlga_kidnapped_wife_liberated_battle_2a:kidnapped_wife_liberated_battle_2b|Desafortunadamente, vos no tenéis espacio en su grupo para mí.
+dlga_kidnapped_wife_liberated_battle_2a:close_window|Oh, ¿de veras? ¡Mil gracias!
+dlga_kidnapped_wife_liberated_battle:kidnapped_wife_liberated_battle_2b|Esperad aquí un poco más. Volveré a por vos.
+dlga_kidnapped_wife_liberated_battle_2b:close_window|¡Oh, por favor {mi señor/mi señora}, no me dejéis aquí sola!
+dlga_start:kidnapped_wife_liberated_map.1|¿Puedo ir ahora con vos?
+dlga_village_elder_tell_mission:village_elder_mission_hunt_down_girl_told|Tengo un asunto delicado entre manos y necesito ayuda, hay una joven doncella llamada {s4} que ha huido con un muchacho de un pueblo vecino. ¡Huyeron juntos! ¿Podéis creerlo? Estamos viviendo en tiempos con demasiados cambios. Cuando yo era joven, algo como esto sería impensable. De todos modos, su padre está tras de mí, noche y día, y dijo que como alcalde, debo recuperarla. Eso me pone en una posición incómoda, así que estoy pensando en alguien que se dirigirse a {s3} y convenciese a la chica de volver. ¿Qué decís?
+dlga_village_elder_mission_hunt_down_girl_told:village_elder_mission_hunt_down_girl_accepted|Iré allí y encontraré a la chica.
+dlga_village_elder_mission_hunt_down_girl_told:village_elder_mission_hunt_down_girl_rejected|Estoy demasiado ocupado en este momento.
+dlga_village_elder_mission_hunt_down_girl_accepted:close_window|Eso es excelente, {playername}. Os estaré eternamente agradecido y también lo estará la familia de la chica. Tsk, los jóvenes de hoy. Bueno, buena suerte para encontrarla. Ah, una cosa más, es mejor que os deis prisa. Según mi experiencia, estas cosas suelen ser resueltas en un par de días.
+dlga_village_elder_mission_hunt_down_girl_rejected:close_window|Como quiera, {playername}. Supongo que tendré que ir yo, y hacer frente a sus ancianos ... Es un viejo desgraciado fulano de tal.
+dlga_village_elder_tell_mission:village_elder_tell_deliver_lumber_mission|{Mi buen señor/Mi buena señora}, ​​nuestro pueblo ha pasado por muchas dificultades últimamente. Recientemente hemos sufrido un ataque de bandidos que por desgracia, es muy común en estos días. Los miserables, no contentos con saquear la aldea, también incendiaron varios edificios. En su estado actual, no tenemos dónde almacenar la cosecha. Nos vendría bien un poco de madera para ayudar a reconstruir nuestra aldea. Si usted nos puede ayudar, estaremos en deuda con vos para siempre.
+dlga_village_elder_tell_deliver_lumber_mission:village_elder_tell_deliver_lumber_mission_2|Hmmm. ¿Cuánta madera necesitáis?
+dlga_village_elder_tell_deliver_lumber_mission:village_elder_deliver_lumber_mission_reject|No puedo entretenerme en esto. Reúna a su propia madera, campesino.
+dlga_village_elder_tell_deliver_lumber_mission_2:village_elder_tell_deliver_lumber_mission_3|Creo que {reg5} fardos de madera nos permitirán empezar a construirlo. Tenemos un montón de lugareños dispuestos a ayudarnos con eso.
+dlga_village_elder_tell_deliver_lumber_mission_3:village_elder_deliver_lumber_mission_accept|Entonces iré y encontraré la madera que usted necesita.
+dlga_village_elder_tell_deliver_lumber_mission_3:village_elder_deliver_lumber_mission_reject|Me temo que no tengo tiempo para esto. Tendréis que pedir ayuda en otra parte.
+dlga_village_elder_deliver_lumber_mission_accept:close_window|Gracias, {mi señor/mi señora}. ¡Rezaremos por vos día y noche!
+dlga_village_elder_deliver_lumber_mission_reject:close_window|Sí, sí, por supuesto. Lo siento si os he molestado con nuestros problemas.
 dlga_village_elder_tell_mission:village_elder_tell_train_peasants_against_bandits_mission|Estamos sufriendo mucho a manos de un grupo de bandidos. Nos quitan nuestra comida y nuestro ganado y matan a todo el que no les obedezca de inmediato. Nuestros hombres están furiosos porque no podemos defendernos, pero es que sólo somos simples granjeros... No obstante, con algo de ayuda, creo que parte de la gente de aquí podría llegar a ser más que eso. Sólo necesitamos a alguien con experiencia en la guerra que nos enseñe cómo luchar.
 dlga_village_elder_tell_train_peasants_against_bandits_mission:village_elder_train_peasants_against_bandits_mission_accept|Yo puedo enseñaros a defenderos.
 dlga_village_elder_tell_train_peasants_against_bandits_mission:village_elder_train_peasants_against_bandits_mission_reject|Vosotros los campesinos no estáis hechos para llevar armas. Lo que tenéis que hacer es pagar a los bandidos y callar.
@@ -5262,10 +5469,10 @@ dlga_start:player_castle_guard_talk|¿Sí, {s0}?
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|¿Cómo va la guardia, soldado?
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Todo está tranquilo, {s0}. Nada que reportar.
 dlga_player_castle_guard_talk_3:close_window|Bien. Mantened los ojos abiertos.
-dlga_start:close_window.309|Buenos días, {s0}. Siempre es un honor teneros en {s10}.
-dlga_start:close_window.310|Cuidad vuestras maneras y no tendremos problemas.
+dlga_start:close_window.315|Buenos días, {s0}. Siempre es un honor teneros aquí en {s10}.
+dlga_start:close_window.316|Cuida tus modales dentro de los muros y no tendremos problemas.
 dlga_start:hall_guard_talk|¿Sus órdenes, {s0}?
-dlga_start:close_window.311|No podemos hablar mientras estamos de guardia, {s0}.
+dlga_start:close_window.317|No podemos hablar mientras esté de guardia, {s0}.
 dlga_hall_guard_talk:hall_guard_duty|Seguid haciendo guardia y hacedme saber si alguien viene a verme.
 dlga_hall_guard_duty:close_window|Sí, {s0}. Como deseéis.
 dlga_hall_guard_talk:hall_guard_arrest|¡Quiero que arrestéis a este hombre inmediatamente!
@@ -5395,10 +5602,10 @@ dlga_merchant_trade_force_2:merchant_trade_rethink_2|Mostradme vuestra mercancí
 dlga_merchant_trade_force_2:close_window|Sal de mi vista, buhonero. [Irse]
 dlga_merchant_trade_rethink_2:merchant_trade_completed|Hazlo rápido, bribón.
 dlga_merchant_trade_rethink_2:merchant_trade_completed.1|Hrmph. Mis disculpas. Ahora mismo.
-dlga_start:reinforcements_intro|¿Quien va? Somos {s20}.\ Estamos de camino a {s21}.
+dlga_start:reinforcements_intro|¿Quien va? Somos {s20}.\\ Estamos de camino a {s21}.
 dlga_reinforcements_intro:close_window|Soy {playername}. Solo pasaba por aquí.
 dlga_reinforcements_intro:reinforcement_hostile|Soy {playername}. Y solo estoy aquí para evitar que lleguéis a vuestro destino.
-dlga_reinforcement_hostile:reinforcements_attack|¿Qué? Estamos bajo la protección de {s9}.\Estad seguro de que tomará represalias contra vos.
+dlga_reinforcement_hostile:reinforcements_attack|¿Qué? Estamos bajo la protección de {s9}.\\Estad seguro de que tomará represalias contra vos.
 dlga_reinforcements_attack:close_window|¡Eso espero!¡Lo mataré igual que a vosotros!
 dlga_reinforcements_attack:close_window.1|¡Desde luego! ¡Pero no lo has visto todo de mí!
 dlga_lco_conversation_end:close_window|¡Es bueno saber que no me ha olvidado!

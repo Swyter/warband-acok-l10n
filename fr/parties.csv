@@ -1,0 +1,441 @@
+p_zendar|Zendar
+p_town_1|Sortonne
+p_town_3|Salins
+p_town_6|Tudbury
+p_town_8|Goëlle
+p_town_9|Beaumarché
+p_town_12|Pentos
+p_town_16|Port-Réal
+p_town_17|Braavos
+p_town_18|Pierremoûtier
+p_town_19|Lancehélion
+p_town_20|Bourg-Cabanes
+p_town_23|Peyredragon
+p_town_24|Port-Lannis
+p_town_25|Sombreval
+p_town_26|Viergétang
+p_town_27|Kayce
+p_town_30|Cendregué
+p_town_31|Blancport
+p_town_32|Villevieille
+p_town_33|Pyk
+p_town_34|Lordsport
+p_town_35|Chênes-en-Fer
+p_town_36|Ruines de Ghoyan Drobe
+p_town_38|Lorath
+p_town_40|Lys
+p_town_41|Tertre-bourg
+p_town_42|Culbute
+p_town_44|Navar
+p_town_45|Myr
+p_town_46|Tyrosh
+p_town_47|Volantis
+p_town_48|Volon Therys
+p_town_49|Valysar
+p_town_50|Selborys
+p_town_51|Norvos
+p_town_52|Ruines de Ny Sar
+p_castle_1|Forchant
+p_castle_2|Pouce-Flint
+p_castle_3|Bronzes
+p_castle_4|La Veuve
+p_castle_5|Rosby
+p_castle_6|Châteauvieux
+p_castle_7|Salvemer
+p_castle_8|Felbois
+p_castle_9|Moat Cailin
+p_castle_10|La Meule
+p_castle_11|Pointe Aigüe
+p_castle_12|Combemèche
+p_castle_13|Valsepierre
+p_castle_14|Iksa Keria
+p_castle_15|Âtre-lès-Confins
+p_castle_16|Les Epois
+p_castle_17|Castle-Cerwyn
+p_castle_18|Falaise
+p_castle_19|Karhold
+p_castle_20|Nid de Corbeaux
+p_castle_21|Rougefort
+p_castle_22|Motte-la-Forêt
+p_castle_23|Roches-aux-Runes
+p_castle_24|Porte Sanglante
+p_castle_25|La Vesprée
+p_castle_26|Château-Rosières
+p_castle_27|Bois-Brumeux
+p_castle_28|Bois-Combé
+p_castle_29|Harrenhal
+p_castle_30|Salrivage
+p_castle_31|Fléaufort
+p_castle_32|Fort-Terreur
+p_castle_33|Froideseaux
+p_castle_34|Les Eyrié
+p_castle_35|Grand-Arc
+p_castle_36|Vieux havre
+p_castle_37|Les Jumeaux
+p_castle_38|Atranta
+p_castle_39|La Glandée
+p_castle_40|Havrenoir
+p_castle_41|Boycitre
+p_castle_42|Ferboys
+p_castle_43|Voi
+p_castle_44|Le Grès
+p_castle_45|Le Tor
+p_castle_46|Spectremont
+p_castle_47|a Grâcedieux
+p_castle_48|La-Tombe-du-Roy
+p_castle_49|Noirmont
+p_castle_50|Séréna
+p_castle_51|Cendremarc
+p_castle_52|Castral Roc
+p_castle_53|Crakehall
+p_castle_54|Sarschamp
+p_castle_55|Corval
+p_castle_56|Antrecombe
+p_castle_57|Cornfield
+p_castle_58|Havre-aux-Freux
+p_castle_59|Ile Pince
+p_castle_60|Trois-Tours
+p_castle_61|Hautesterres
+p_castle_63|Bandallon
+p_castle_64|Vieux Rouvre
+p_castle_65|Bois Doré
+p_castle_66|Cidre
+p_castle_67|Herbeval
+p_castle_68|Longuetable
+p_castle_69|Sunhouse
+p_castle_70|Pont-l'Amer
+p_castle_71|Corcolline
+p_castle_72|La Treille
+p_castle_73|Dix-Tours
+p_castle_74|Ruines de Iksa Naron
+p_castle_75|Nadinas
+p_castle_76|Rigwa
+p_castle_77|Sharat
+p_castle_78|Nya Dare
+p_castle_79|Nudho
+p_castle_80|Touche-au-Ciel
+p_castle_82|Ruines de Iksa Calo
+p_castle_83|La Griffonière
+p_castle_84|Âtre-la-Pluie
+p_castle_85|Vertepierre
+p_castle_86|Haÿe-Pierre
+p_castle_87|L'argenterie
+p_castle_88|Corbois
+p_castle_89|Corneilla
+p_castle_90|Belcastel
+p_castle_91|Pebbleton
+p_castle_92|Feux-de-Joie
+p_castle_93|Haut Hermitage
+p_castle_94|Wyndhall
+p_castle_95|Cormartel
+p_castle_96|Grey Gargen
+p_castle_97|Starpike
+p_castle_98|Darkdell
+p_castle_99|Wyl
+p_castle_100|Bel Accueil
+p_castle_101|Ruines de Castamere
+p_castle_104|Holt-de-Fer
+p_castle_105|Rubriant
+p_castle_106|Cordial
+p_castle_107|Ruines de Sar Mell
+p_castle_108|Longuesoeur
+p_castle_109|Petitesoeur
+p_castle_110|Darry
+p_castle_111|Bouclier de chêne
+p_castle_112|Limaosy
+p_castle_113|Neufétoiles
+p_castle_115|Redwater Castle
+p_castle_119|Noirmarées
+p_castle_120|Nagga's Hall
+p_castle_122|Seaward Hall
+p_castle_123|Broad Arch
+p_castle_125|Clegane's Keep
+p_castle_126|Greenmore
+p_castle_127|Vivesaigues
+p_castle_128|Saria
+p_castle_129|Winterfell
+p_castle_130|Accalmie
+p_castle_131|Quart-Torrhen
+p_castle_132|Pierheaume
+p_castle_133|Hautjardin
+p_castle_134|Denfert
+p_castle_135|Les Météores
+p_castle_136|La Dent d'Or
+p_castle_137|Lamarck
+p_castle_138|Iles-aux-Ours
+p_castle_139|Castelfoyer
+p_village_1|Wolf Edge
+p_village_2|Port Réal
+p_village_3|Dragon's Neck
+p_village_4|Laketown
+p_village_5|Whiteoak
+p_village_6|Greyedge
+p_village_7|Deepcrest
+p_village_8|Eastwood
+p_village_9|Winter Market
+p_village_10|The Locke
+p_village_11|The White Village
+p_village_12|Blanchedague Hall
+p_village_13|Pik Marché
+p_village_14|The Acorn Water
+p_village_15|Summer's End
+p_village_16|Nid aux Corbeaux
+p_village_17|Sentinel's Tree
+p_village_18|Blazewater Bay
+p_village_19|Piquesel Hall
+p_village_20|Pierre Village
+p_village_21|Le Cap Kraken
+p_village_22|Queen's Stop
+p_village_23|Sept-Rus
+p_village_24|Le Rocher Rouge
+p_village_25|Calwick
+p_village_26|The High Fall
+p_village_27|Ashtree
+p_village_28|Noblecoeur
+p_village_29|Bessbrook
+p_village_30|Whitecliff
+p_village_31|Ulao
+p_village_32|Hembistan
+p_village_33|Mason's Hall
+p_village_34|Le Nid aux crabes
+p_village_35|Douce Grève
+p_village_36|Falon's Roost
+p_village_37|Firemark
+p_village_38|La Baie aux Galets
+p_village_39|Le refuge aux Moineaux
+p_village_40|Monton
+p_village_41|Valetown
+p_village_42|Grass Hill
+p_village_43|Fingermarket
+p_village_44|La Baie aux Vautours
+p_village_45|Driftwood
+p_village_46|Kingsport
+p_village_47|Summerpond
+p_village_48|Woodsway
+p_village_49|Blackfall
+p_village_50|Bellholt
+p_village_51|Brightmead
+p_village_52|Baie du Saphir 
+p_village_53|Barrowhall
+p_village_54|Breemere
+p_village_55|Cap Wrath
+p_village_56|Elmwood
+p_village_57|Bois de la Pluie
+p_village_58|Stonehand
+p_village_59|Woolcove
+p_village_60|Dovedale
+p_village_61|Greencrest
+p_village_62|Pebble Village
+p_village_63|King's Folly
+p_village_64|Redcliff
+p_village_65|Red Dunes
+p_village_66|Pen Beach
+p_village_67|Seamarket
+p_village_68|Sakan
+p_village_69|Seamouth
+p_village_70|Fellrun
+p_village_71|Sandmere
+p_village_72|Seafair
+p_village_73|Blackmoor
+p_village_74|Breemount
+p_village_75|Briarwhite
+p_village_76|Ironman's Bay
+p_village_77|Kelp Beach
+p_village_78|High Pass
+p_village_79|Silvercrest
+p_village_80|Woodrock
+p_village_81|Elmkirk
+p_village_82|Fool's Mire
+p_village_83|Bronzewood
+p_village_84|La Passe dorée
+p_village_85|Oxcross
+p_village_86|Rosemère
+p_village_87|Pontnoir
+p_village_88|Cliffton
+p_village_89|Clam Hall
+p_village_90|Gull Point
+p_village_91|Lac Rouge
+p_village_92|Westcroft
+p_village_93|Stoneyford
+p_village_94|The Silver Pass
+p_village_95|Mormarsh
+p_village_96|Charnhall
+p_village_97|The Golden Peak
+p_village_98|Heart's Hill
+p_village_99|Grapegrove
+p_village_100|Tulip Field
+p_village_101|Redwyne Bay
+p_village_102|Mielvin
+p_village_103|Knightsbourne
+p_village_104|Aemon's Lot
+p_village_105|The Sunset Harbor
+p_village_106|Honeyholt
+p_village_107|Lowland Hall
+p_village_108|Fallmoth
+p_village_109|Manderford
+p_village_110|Cockleswent
+p_village_111|Beechberry
+p_village_112|Ravendale
+p_village_113|Oxhurst
+p_village_114|Grassfirth
+p_village_115|Charcoal Hill
+p_village_116|Le Berceau de Nagga
+p_village_117|Hoarestead
+p_village_118|Saltcliffe
+p_village_119|Harlaw
+p_village_120|Orkmont
+p_village_121|Saltward
+p_village_122|Pikeleigh
+p_village_123|Qringontan
+p_village_124|The Snake Path
+p_village_125|Biarvi
+p_village_126|Tihikhziri
+p_village_127|Elos Ziso
+p_village_128|High Hall
+p_village_129|Drejikydho
+p_village_130|Jorraeliarzus
+p_village_131|Atjakhar
+p_village_132|Memebatas
+p_village_133|Aeksio
+p_village_134|Botilza
+p_village_135|Ji Qlony
+p_village_136|Marshmark
+p_village_137|Ivestras
+p_village_138|Sytilibus
+p_village_139|Skorion Massitas
+p_village_140|Qelbria
+p_village_141|Les Osseux
+p_village_142|Quarry Hill
+p_village_143|Hanoth
+p_village_144|Riddan
+p_village_145|Derve
+p_village_146|Shekhqoyi
+p_village_147|Broza
+p_village_148|Valshe
+p_village_149|Qana
+p_village_150|Kesir Gimi
+p_village_151|Manaeran
+p_village_152|Issi
+p_village_153|Ogat
+p_village_154|Yanqolat
+p_village_155|Baelors Feet
+p_village_156|Loktys
+p_village_157|Estermont
+p_village_158|Sovetes
+p_village_159|La baie des Naufrageurs
+p_village_160|Dunport
+p_village_161|Boarwood
+p_village_162|Champ d'Aemon
+p_village_163|Hull
+p_village_164|Brindlewood
+p_village_165|Azantyr
+p_village_166|Ivestrilatas
+p_village_167|Ji Rigle
+p_village_168|Konir Sema
+p_village_169|Dune Port
+p_village_170|Longuesoeur
+p_village_171|Thirolat
+p_village_172|Oen
+p_village_173|Kerma
+p_village_174|Chetira
+p_village_175|Manin
+p_village_176|Vali
+p_village_177|Menti
+p_village_178|Daero Valoti
+p_village_179|Rudhy
+p_village_180|Odrikatas
+p_village_181|Ossenatas
+p_village_182|Zer Sena
+p_village_183|Spicehall
+p_village_184|Noyane
+p_village_185|Addothralat
+p_village_186|Ovrakh
+p_village_187|Chomokh
+p_village_188|Iderebzi
+p_village_189|Anyrota
+p_village_190|Aeske
+p_village_191|Aohoso
+p_village_192|Jomozu
+p_village_193|Cod Ville
+p_village_194|Timberton
+p_village_195|Plowman's Hill
+p_village_196|Pennytree
+p_village_197|Greenberry
+p_village_198|Crackclaw Point
+p_village_199|Sealbay
+p_village_200|Leadton
+p_village_201|Bayvale
+p_village_202|Butterspell
+p_village_203|Fogfield
+p_village_204|Swinebank
+p_village_205|Goldwell
+p_village_206|Tinhurst
+p_village_207|Corcrest
+p_salt_mine|Mine de sel
+p_four_ways_inn|Les Quatre Chemins
+p_test_scene|test scene
+p_battlefields|Champ de bataille
+p_dhorak_keep|Dhorak Keep
+p_training_ground|Terrain d'entraînement
+p_training_ground_1|Champ de Tournoi
+p_training_ground_2|Champ de Tournoi
+p_training_ground_3|Champ de Tournoi
+p_training_ground_4|Champ de Tournoi
+p_training_ground_5|Champ de Tournoi
+p_lighthouse_1|Harbor
+p_rodgars_hut|Rodgars Hut
+p_relic_septry|Septry
+p_isle_of_faces|Iles aux Faces
+p_saltpans_isles|Ile de Repose
+p_summerhall|Ruines de Summerhall
+p_nunns_deep|Trounonnain
+p_oldstones|Vieilles-Pierres
+p_sorrows|The Sorrows
+p_abandoned_holdfast|Abandoned Holdfast
+p_hillhall|Hillhall
+p_dragonmont|Ruines Sunken
+p_tower_of_joy|La Tour de la Joie
+p_naggas_hill|Nagga's Hill
+p_harrentown|Le Remains de Harrentown
+p_bloodstone|Bloodstone
+p_illyrios_manse|Illyrios Manse
+p_donation_septry|Septry
+p_castle_black|Châteaunoir
+p_castle_black2|Châteaunoir
+p_castle_black3|Châteaunoir
+p_castle_black4|Châteaunoir
+p_castle_black5|Châteaunoir
+p_shadow_tower|Tour Ombreuse
+p_shadow_tower2|Tour Ombreuse
+p_eastwatch|Fort levant
+p_odin_cave|Old Cave
+p_brookwater_keep|Brookwater Keep
+p_dragonstone_village|Fishing Village
+p_haldon_bath|Ruined Baths
+p_horror_cave|Vieux Barrow
+p_golden_company_camp|Camp de la Compagnie Dorée
+p_cairn_hall|Cairnhall
+p_mole_town|Mole Ville
+p_bridge_of_skulls|Les Gorges
+p_wall_tunnel|Tunnel
+p_water_gardens|Les Jardins Aquatiques
+p_nightfort|Fort Nox
+p_looter_spawn_point|looter spawnpoint
+p_steppe_bandit_spawn_point|dothraki spawnpoint
+p_taiga_bandit_spawn_point|wildling spawnpoint
+p_forest_bandit_spawn_point|the forests
+p_mountain_bandit_spawn_point|the highlands
+p_sea_raider_spawn_point_1|ironborn spawnpoint
+p_sea_raider_spawn_point_2|ironborn spawnpoint
+p_ship_raider_spawn_point_1|pirate spawnpoint
+p_slaver_bandit_spawn_point|slaver spawnpoint
+p_escaped_slaves_spawn_point|escaped slaves spawnpoint
+p_clansmen_spawn_point|clansmen spawnpoint
+p_raiders_spawn_point|raiders spawnpoint
+p_outlaws_spawn_point|outlaws spawnpoint
+p_rhoyne_bandits_spawn_point|rhoyne spawnpoint
+p_elite_raiders_spawn_point|elite raiders spawnpoint
+p_elite_wildlings_spawn_point|elite wildlings spawnpoint
+p_elite_dothraki_spawn_point|elite dothraki spawnpoint
+p_crannogmen|crannogmen
+p_desert_bandit_spawn_point|sandoutlaw spawnpoint
