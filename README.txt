@@ -23,3 +23,21 @@ Works in the original M&B 1.011 too?
 -------------------------------------
 
 Yes, it does. The format is all the same.
+
+
+Warning about compatibility with different version
+---------------------------------------------------
+
+The translation is not 100% compatible with newer version because warband have some strings with key dinamic,
+dlga_start:close_window.* (and probably others that I not saw) that it seems that mingling any change even just one of the string.
+There are also strings that change substantially but remaining with same key.
+The best thing is keep final build or snapshot of each game/mod version (advices for how do a pubblic zip of translations)
+
+
+
+Files missed here to take from base translation
+------------------------------------------------
+
+3 files are missed in transifex of acok because same of warband base and is waste of time maintain them also here.
+The files are item_modifiers, ui and uimain and should be taken from here:
+https://www.transifex.com/projects/p/warband/
