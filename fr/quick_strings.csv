@@ -310,7 +310,7 @@ qstr_Walks|Marcher
 qstr_Startpage_set__Quick|Page départ réglage (Vue Rapide)
 qstr_Back_to_shop|Retour à la boutique
 qstr__[?]_| [?] 
-qstr_Hotkeys:^HOME_=_Set_|"Hotkeys:^HOME = Page départ réglage^RMB = Aller au menu^ESCAPE = Vue Rapide^BACKSPACE = retour à la boutique (si visitée)
+qstr_Hotkeys:^HOME_=_Set_|Hotkeys:^HOME = Page départ réglage^RMB = Aller au menu^ESCAPE = Vue Rapide^BACKSPACE = retour à la boutique (si visitée)
 qstr___Quit2__|- Quit2 -
 qstr__Quick_View_|Vue Rapide
 qstr_______|      
@@ -409,7 +409,7 @@ qstr_Ask_about_the_potent|Renseignez-vous sur le bénéfice potentiel des articl
 qstr____________Log_Entry|           Valider les options d'entrées
 qstr_Add_Note|Ajouter des notes
 qstr_Clear_Notes|Effacer les Notes
-qstr_Use_a_/\__caret__for|Utilisez un /\\ (acc. circonf) à chaque saut de ligne.
+qstr_Use_a_/\__caret__for|Utilisez un /\ (acc. circonf) à chaque saut de ligne.
 qstr_Chronological_Log|Chronologie
 qstr_Production_Towns|Villes Productrices
 qstr_Purchasing_Towns|Ville Demandeuses
@@ -672,7 +672,7 @@ qstr_Your_opponents_are_r|Vos adversaires sont prêts à se battre.
 qstr_Try_to_destroy_as_ma|Essayez de détruire autant de cibles que possible. Vous avez deux minutes et demi pour finir. 
 qstr_Stay_behind_the_line|Restez derrière la ligne au sol et visez les cibles. Essayez de ne pas rater de tir. 
 qstr_Bonus_chance_of_loot|Bonus chance de pillage: {reg0}%.
-qstr_Battle_Advantage_=_{|"Avantage tactique = {reg0}. 
+qstr_Battle_Advantage_=_{|Avantage tactique = {reg0}. 
 qstr_{s9}_wants_you_to_re|{s9} veut que vous suiviez son armée jusqu'à nouvel ordre. 
 qstr_{s5}_of_the_{s7}_has|{s5} de {s7} a pris possession de {s4}.
 qstr_{s4}_has_been_awarde|{s4} a été décerné à {s5} du {s7}.
