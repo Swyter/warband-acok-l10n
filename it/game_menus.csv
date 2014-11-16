@@ -1,6 +1,6 @@
-; menu_start_game_options|You go for a stroll in the streets of your hometown, when you hear that King Robert has been gored to death by a large boar. The fish monger that you're speaking with tells you that Eddard Stark, the Hand of the King, tried to usurp the throne! But the valiant King Joffreys advisers managed to foil his plot, and peace has surely been restored. However, a few days later, a weary traveller arrives with more news. Following the imprisonment of Lord Stark, the northern lords marched south, to defeat the Lannisters and free their liege.  They ambushed the army of the Kingslayer, routed his forces and captured Ser Jaime, after which they broke the siege of Riverrun. All of a sudden, the odds seems to be turning against Joffrey, and his name is no longer shouted in the streets.  Making a quick decision, you decide to strike out, hurriedly selling off your meagre positions to a fat innkeeper, and packing only the most essential. You finally feel like you control your own destiny, and that whatever course you take, great deeds await you.
+menu_start_game_options|Mentre passeggi per le strade della tua città natale ti giunge la notizia che Re Robert è stato incornato a morte da un cinghiale. Il pescivendolo dice che Eddard Stark, Primo Cavaliere del Re, tento di usurpare il trono, ma venne fermato dai suoi consiglieri e Re Joffrey prese il posto del padre.\nTuttavia, pochi giorni dopo, uno stanco viaggiatore arriva con più notizie. Dopo l'arresto di Lord Stark, i signori del nord si preparano per una marcia verso sud per sconfiggere i Lanniste e liberare il loro sovrano.\nLord Stark, cogliendo impreparato l'esercito di Jaime, impegnato nell'assedio di Delta delle Acque, prende prigioniero lo Sterminatore di Re. \nBisogna prendere una decisone rapida, decidi di partire portando con te solo l'essenziale e vendendo quelle poche cose inutili, di poco valore, al locandiere. Finalmente avverti il controllo del tuo destino, grandi imprese ti attendono.
 mno_choose_options|Continua...
-; mno_start_mod|Quick Character (for mod testing)
+mno_start_mod|Personaggio Rapido (per test mod)
 mno_go_back|Indietro
 mno_continue|Continua...
 menu_start_game_3|Scegli lo scenario:
@@ -11,21 +11,21 @@ mno_view_party_reports|Visualizza rapporti della compagnia
 mno_dplmc_show_economic_report|Visualizza il report di prosperità.
 mno_resume_travelling|Torna al viaggio.
 menu_reference_reports|Materiale di riferimento
-; mno_action_view_upgrade_trees|View Upgrade Trees
+mno_action_view_upgrade_trees|Visualizza Alberi di Aggiornamento
 mno_action_view_all_items|Visualizza tutti gli oggetti
 mno_action_view_trade_ledger|Mostra la tua contabilità commerciale.
 mno_action_view_trade_ledger_denied|Valutare gli oggetti per iniziare la vostra contabilità commerciale.
 mno_return|Ritorna
 menu_kingdom_reports|Rapporti del regno
 mno_view_faction_relations_report|Guarda il rapporto sulla relazione con le fazioni
-; mno_kmt_lord_holdings|Review Lord Holdings
+mno_kmt_lord_holdings|Esamina Titoli del Lord
 mno_lord_relations|Guarda la lista dei lord conosciuti in ordine di relazione
 menu_personal_reports|Rapporti personali
 mno_view_character_report|Guarda il rapporto sul Personaggio
 mno_courtship_relations|Guarda il rapporto sulle relazioni amorose
-; mno_view_affiliated_family_report|View Affiliated Family Report
+mno_view_affiliated_family_report|Guarda il rapporto Famiglia.
 mno_view_weekly_budget_report|Guarda il rapporto sul budget settimanale
-; menu_cheat_reports|Cheat Menu Reports
+menu_cheat_reports|Rapporto Menu Trucchi
 menu_party_reports|Rapporti della compagnia
 mno_view_party_size_report|Guarda il rapporto sulla dimensione della Compagnia.
 mno_view_morale_report|Guarda il rapporto del morale della Compagnia.
@@ -33,7 +33,7 @@ mno_Companions_overview|Visualizza panoramica compagni.
 mno_view_npc_mission_report|Guarda il rapporto sulla missione dei Compagni.
 menu_custom_battle_scene|(NO TRANS)
 menu_custom_battle_end|La battaglia è finita. {s1} La tua fazione ha ucciso {reg5} nemici e perso {reg6} soldati durante la battaglia. Tu hai messo fuori combattimento o ucciso {reg7} avversari nella battaglia.
-; menu_start_game_0|Welcome, adventurer, to A Clash of Kings, a modification based on the 'A Song of Ice and Fire' series by George R. R. Martin for Mount and Blade: Warband version 1.143. Before beginning the game you must create your character. Remember that in the traditional medieval society depicted in this world, war and politics are usually dominated by male members of the nobility. That does not, however, mean that you should not choose to play a female character, or one who is not of noble birth. Male nobles may have a somewhat easier start, but women and commoners can attain all of the same goals -- and in fact may have a much more interesting, if more challenging, early game.
+menu_start_game_0|Benvenuto nel mondo avventuroso di A Clash of Kings una mod basata sul 'Le Cronache del Ghiaccio e del Fuoco' serie di George R. R. Martin per Mount and Blade: Warband. Prima di cominciare a giocare devi creare il tuo personaggio. Ricorda che nella società tradizionale rappresentata nel gioco, guerra e politica erano normalmente dominate dai membri maschi della nobiltà. Questo però non impedisce che tu possa giocare con un personaggio femminile, o uno che non sia di nobile nascita. I maschi nobili possono avere un inizio facile, ma donne e uomini comuni possono raggiungere tutti gli obiettivi. E questo potrebbe rendere ancora più interessante il gioco.
 menu_start_game_1|Seleziona il sesso del tuo personaggio.
 mno_start_male|Maschio
 mno_start_female|Femmina
@@ -45,23 +45,23 @@ mno_start_forester|Un cacciatore.
 mno_start_nomad|JON STEWART.
 mno_start_thief|Un ladro.
 menu_start_character_2|{s10}^^  Hai cominciato a conoscere il mondo da quando hai imparato a camminare e parlare. Da giovane eri...
-mno_page|In servizio alla corte di un nobile.
+mno_page|Un paggio alla corte di un nobile.
 mno_apprentice|Apprendista di un artigiano.
-mno_stockboy|Aiutante in un negozio.
-mno_urchin|Teppista di strada.
+mno_stockboy|Un assistente in un negozio.
+mno_urchin|Un teppista di strada.
 mno_nomad|Il figlio di un dothraki.
 menu_start_character_3|{s11}^^  Quindi, crescendo, la vita di sempre è cambiata. Decidi di...
 mno_squire|Fare l'aiutante di campo.
 mno_lady|Essere una gentildonna.
 mno_troubadour|Dedicarti alla poesia.
 mno_student|Iscriverti all'università.
-mno_peddler|Dedicarti al commercio.
+mno_peddler|Un Venditore Ambulante.
 mno_craftsman|Lavorare il ferro.
-mno_poacher|Darti al contrabbando.
+mno_poacher|Un Bracconiere.
 menu_start_character_4|{s12}^^ Ma presto le cose cambiano ancora, e decidi di mettere in gioco la tua vita verso l'avventura. Cosa ti ha spinto a questa decisione?...
 mno_revenge|Vendetta personale.
 mno_death|La perdita di un amore.
-mno_wanderlust|La brama d'avventura.
+mno_wanderlust|Il desiderio di viaggiare.
 mno_disown|La perdita della casa.
 mno_greed|Brama di denaro e potere.
 menu_choose_skill|{s13}
@@ -79,13 +79,13 @@ menu_camp|Trovate un luogo adatto per accamparsi.^{s15}
 mno_camp_recruit_prisoners|Recluta dei prigionieri nella tua Compagnia.
 mno_camp_manage_inventory|Gestisci l'inventario dei tuoi compagni.
 mno_camp_action|Fai un'azione.
-; mno_action_prebattle_custom_divisions|Manage Split Troop Assignments.
+mno_action_prebattle_custom_divisions|Gestischi la divisione delle truppe.
 mno_camp_wait_here|Aspetta qui per un po' di tempo.
 mno_camp_fishing|Prova a catturare qualche pesce.
 mno_camp_inspect|Ispeziona il tuo campo.
 mno_camp_entrench|{s1}
 mno_camp_mod_opition|Opzioni della Mod.
-mno_camp_cheat|CHEAT MENU!
+mno_camp_cheat|MENU TRUCCHI!
 menu_camp_cheat|Seleziona un trucco:
 mno_camp_cheat_find_item|Trova un oggetto...
 menu_camp_action|Fai un'azione:
@@ -201,60 +201,60 @@ mno_join_order_attack|Ordina alle tue truppe di attaccare con i tuoi alleati men
 mno_join_leave|Parti.
 mno_join_wounded|Sei troppo ferito per combattere.
 menu_join_order_attack|{s4}^^Le tue perdite: {s8}^^Le perdite alleate: {s9}^^Perdite nemiche: {s10}
-; menu_odin_cave|You arrive at an outlaw lair.
+menu_odin_cave|Sei arrivato in un covo di fuorilegge.
 mno_enter|Entra.
-; menu_horror_cave|You arrive at the old barrow. You can hear a faint murmur from the inside...
-; menu_brookwater_keep|You arrive at Brookwater Keep, the seat of House Darke.
-; menu_haldon_bath|You arrive at a ruined public bath.
-; menu_golden_company_camp|You arrive at the camp of the Golden Company.
+menu_horror_cave|Arrivi al vecchio tumulo. Si sentono dei lievi mormorii che provengono dall' interno ...
+menu_brookwater_keep|Sei arrivato a Brookwater Keep, sede della Casata Darke.
+menu_haldon_bath|Sei arrivato ad un bagno pubblico in rovina.
+menu_golden_company_camp|Sei arrivato al campo della Compagnia Dorata.
 menu_dragonstone_village|Sei arrivato al villaggio.
-; menu_mole_town|You arrive at the outskirts of Mole Town.
-; menu_bridge_of_skulls|You arrive at the Bridge of Skulls.
-; menu_wall_tunnel|You arrive at the storerooms.
-; menu_dragonmont|You arrive at the Sunken Ruins.
-; menu_sorrows|You arrive at the Sorrows.
-; menu_cairn_hall|You arrive at Cairnhall.
-; menu_oldstones|You arrive at Oldstones.
-; menu_nunns_deep|You arrive at Nunn's Deep.
-; menu_summerhall|You arrive at the Ruins of Summerhall.
-; menu_saltpans_isles|You arrive at the Quiet Isle.
-; menu_isle_of_faces|You arrive at the Isle of Faces.
-; menu_rodgars_hut|You arrive at Rodgars Hut.
-; menu_naggas_hill|You arrive at Nagga's Hill.
-; menu_tower_of_joy|You arrive at the Tower of Joy.
-; menu_bloodstone|You arrive at Bloodstone.
-; menu_harrentown|You arrive at the remains of Harrentown.
-; menu_illyrios_manse|You arrive at the manse of Illyrio Mopatis.
-; menu_water_gardens|You arrive at the Water Gardens.
-; menu_castle_black|You arrive at Castle Black, the main stronghold of the Night's Watch.
-; menu_nightfort|You arrive at The Nightfort.
-; menu_castle_black2|You arrive at Castle Black.
-; menu_castle_black3|You arrive at Castle Black.
-; menu_castle_black4|You arrive at Castle Black.
-; menu_castle_black5|You arrive at Castle Black.
-; menu_shadow_tower|You arrive at the Shadow Tower.
-; menu_shadow_tower2|You arrive at the Shadow Tower.
-; menu_eastwatch|You arrive at Eastwatch-by-the-Sea.
-; menu_abandoned_holdfast|You arrive at the Abandoned Holdfast.
-; menu_nightfort_rat_cook|Soon after eating the paste, you sense your vision blurring. The weirwood branches extruding from the walls seem to close in on you, and you loose all sense of time and space. When you wake up, you're still in the Nightfort, but it is as if something is not quite the same. The walls are no longer covered in dust and cobwebs, and fires burn in the alcoves.
-; menu_nightfort_mad_axe|Finishing your talk with the mad cook, you feel time shifting, and everything grows dark. As you regain your sense of being, you find yourself still in the Nightfort, but the sun has set, and it's the dead of night. As you try to gain a sense of direction, you hear soft footsteps echoing from down the hall, and an odd dripping sound...
-; menu_nightfort_nights_king|As you once again plunge into darkness, you can't help but notice how cold you feel. As you regain your senses, you feel the cold like tiny needles in your bones, and notice how your breath is visible in the frosty air...
-; menu_yunkai_ship_1|You board the ship heading for Yunkai, in Slaver's Bay. The crew is a ragged and filthy bunch, foul-mouthed and lice-ridden. Upon boarding, you catch a glimpse of the slaves manning the oars. Naked to the waist, they're chained together by the ankles. The oarmaster is a big fat lyseni, with a pale belly, who wield a large whip. When you hear the whip crack for the first time, the oars begin going up and down, and soon the Spicy Maiden is on her way.
-; menu_yunkai_ship_2|As the ship sails on, you notice how the northern horizon becomes increasingly red and bright, almost like a sunset. You notice the crew muttering about demons, brimstone, and the cursed ruins of Valyria. Soon, the ship is engulfed in an unatural fog, and a sharp smell penetrates the air.
-; menu_yunkai_ship_3|Sailing onwards, the ship soon leaves the Smoking Sea behind, and the mood of the crew lightens. As the ship passes the Isle of Cedars, a monkey somehow manages to climb onboard, and the crew takes this as an omen. Apparently, a monkey aboard signals the favor of R'hllor. The effect of their cheering startles the monkey, and the morale of the crew is raised even further when it throws its excrement at the captain.
-; menu_yunkai|As the ship sails into the harbor of Yunkai, you notice a strong smell wafting off the city. It carries the usual smells of a great many people living together, sweat, smoke and shit, but with the additional scent of spices mixed in. As you step off the ship, you're quickly carried to the town square by the throng of people heading that same way.
-; menu_yunkai_town_square|Having seen Yunkai, you ponder what to do next.
+menu_mole_town|Sei arrivato alla periferia di Mole Town.
+menu_bridge_of_skulls|Sei arrivato al Ponte dei Teschi.
+menu_wall_tunnel|Sei arrivato al magazzino.
+menu_dragonmont|Sei arrivato alle Sunken Ruins.
+menu_sorrows|Sei arrivato a Sorrows.
+menu_cairn_hall|Sei arrivato a Cairnhall.
+menu_oldstones|Sei arrivato a Oldstones.
+menu_nunns_deep|Sei arrivato a Nunn's Deep.
+menu_summerhall|Sei arrivato a Ruins of Summerhall.
+menu_saltpans_isles|Sei arrivato a Quiet Isle.
+menu_isle_of_faces|Sei arrivato a Isle of Faces.
+menu_rodgars_hut|Sei arrivato a Rodgars Hut.
+menu_naggas_hill|Sei arrivato a Nagga's Hill.
+menu_tower_of_joy|Sei arrivato alla Torre di Joy.
+menu_bloodstone|Sei arrivato a Bloodstone.
+menu_harrentown|Sei arrivato alle rovine di Harrentown.
+menu_illyrios_manse|Sei arrivato alla canonica di Illyrio Mopatis.
+menu_water_gardens|Sei arrivato a Water Gardens.
+menu_castle_black|Sei arrivato a Castello Nero, la roccaforte dei Guardiani della Notte.
+menu_nightfort|Sei arrivato a Forte della Notte.
+menu_castle_black2|Sei arrivato a Castello Nero.
+menu_castle_black3|Sei arrivato a Castello Nero.
+menu_castle_black4|Sei arrivato a Castello Nero.
+menu_castle_black5|Sei arrivato a Castello Nero.
+menu_shadow_tower|Sei arrivato alla Torre delle Ombre.
+menu_shadow_tower2|Sei arrivato alla Torre delle Ombre.
+menu_eastwatch|Sei arrivato a Eastwatch-by-the-Sea.
+menu_abandoned_holdfast|Sei arrivato a Abandoned Holdfast.
+menu_nightfort_rat_cook|Subito dopo aver mangiato la pasta, percepisci la tua vista offuscarsi. Gli strani rami di legno che fuoriescono dai muri sembrano richiudersi su di te, e perdi tutta la concezione del tempo e dello spazio. Quando ti svegli, sei ancora a Nightfort, ma è come se qualcosa non fosse più la stessa. I muri non sono più coperti di polvere e ragnatele, e i fuochi bruciano nelle nicchie.
+menu_nightfort_mad_axe|Finendo la tua chiacchierata con il folle cuoco, percepisci il tempo cambiare, e tutto si oscura. Appena recuperi il tuo senso di coscienza, ti ritrovi ancora nella Nightfort, ma il sole è tramontato, ed e' il cuore della notte. Mentre cerchi di ottenere un qualsiasi senso della direzione, senti dei leggeri passi echeggiare da sotto la sala, ed uno strano suono gocciolante... 
+menu_nightfort_nights_king|Mentre ti immergi ancora una volta nel buio, non puoi fare a meno di notare quanto freddo tu senta. Appena recuperi i tuoi sensi, percepisci il freddo come piccoli aghi nelle tue ossa, e noti come il tuo respiro è visibile nell'aria gelida...
+menu_yunkai_ship_1|Sali a bordo della nave diretta a Yunkai, nella Baia degli Schiavisti. L'equipaggio è un gruppo cencioso e sudicio, sboccato e pieno di pidocchi. Al momento dell'imbarco, intravedi degli schiavi imbracciare i remi. Nudi fino alla cintola, sono incatenati insieme per le caviglie. Il mastro di remi è un grande e grasso lysiano, con la pancia pallida, che sventola una larga frusta. Quando senti la frusta schioccare per la prima volta, i remi iniziano ad andare su e giù, e ben presto la Spicy Maiden va per la sua rotta...
+menu_yunkai_ship_2|Appena la nave issa le vele, noti quanto l'orizzonte settentrionale diventa sempre più rosso e brillante, quasi come un tramonto. Noti l'equipaggio borbottare al riguardo di demoni, zolfo e le rovine maledette di Valyria. Presto, la nave è inghiottita da un innaturale nebbia, ed un odore pungente penetra l'aria.
+menu_yunkai_ship_3|Navigando dritto, la nave si lascia presto il Smoking Sea dietro, e l'umore dell'equipaggio si illumina. Mentre la nave passa l'Isola dei Cedri, una scimmia riesce in qualche modo a salire a bordo, e l'equipaggio lo prende come un presagio. A quanto pare, una scimmia a bordo significa avere il favore di R'hllor. L'effetto delle loro acclamazioni spaventa la scimmia, e il morale dell'equipaggio aumenta ancora di più quando l'animale lancia i suoi escrementi al capitano.
+menu_yunkai|Come la nave entra nel porto di Yunkai, si sente un forte odore che si diffonde dal largo della città. Contiene i soliti odori di un gran numero di persone che vivono insieme, di sudore, di fumo e di feci, ma con il profumo aggiuntivo di spezie miste. Appena scendi dalla nave, vieni rapidamente portato alla piazza della città dalla folla di persone dirette nella stessa direzione.
+menu_yunkai_town_square|Dopo aver visto Yunkai, mediti su cosa fare dopo.
 mno_enter1|Continuate ad esplorare la città.
-; mno_enter3|Join a caravan to Meereen.
-; mno_enter2|Return to Volantis.
-; menu_way_to_meereen|Heading onwards through the scorched canyons and flat hills that make up the greater part of Slaver's Bay, you finally see Meereen in the distance, the Great Pyramid towering above the city.
-; menu_meereen_town_square|Having seen Meereen, you ponder what to do next.
-; mno_enter4|Return to Volantis.
-; menu_meereen_throne_room|You ponder what to do next.
-; menu_volantis_town|You've returned to Volantis.
-; menu_donation_septry|You arrive at a septry.
-; menu_hillhall|You arrive at Hillhall.
-; menu_relic_septry|You arrive at a septry.
+mno_enter3|Unisciti a una carovana di Meereen.
+mno_enter2|Torna a Volantis.
+menu_way_to_meereen|Avendo voluto attraversare i brucianti canyon e le piatte colline che compongono la maggior parte della Slaver's Bay, finalmente vedi Meereen in lontananza, la Great Pyramid che sovrasta la città.
+menu_meereen_town_square|Dopo aver visto Meereen, mediti cosa fare dopo.
+mno_enter4|Torna a Volantis.
+menu_meereen_throne_room|Ti chiedi cosa fare dopo.
+menu_volantis_town|Sei tornato a Volantis.
+menu_donation_septry|Sei arrivato a septry.
+menu_hillhall|Sei arrivato a Hillhall.
+menu_relic_septry|Sei arrivato a septry.
 menu_zendar|Entri nella città di Zendar.
 mno_zendar_enter| 
 mno_zendar_enter_door|Porta per il centro della città.
@@ -326,14 +326,14 @@ mno_castle_taken_claim|Chiedi che {s3} ti venga assegnato.
 mno_castle_taken_claim_2|Chiedi che {s3} venga assegnato a {tua moglie/tuo marito}.
 mno_castle_taken_no_claim|Non avanzare richieste.
 menu_requested_castle_granted_to_player|Ricevi un messaggio dal tuo signore, {s3}.^^ {reg4?Lei:Lui} ha deciso di assegnare {s2}{reg3? e il vicino villaggio di {s4}:} a te, con il titolo e tutto ciò che vi è annesso, mantenendolo in {reg4?suo:suo} nome finchè manterrai il giuramento di fedeltà...
-; menu_dk_invasion_start_warning|Word has reached you that invaders have landed in the Stormlands. According to one of your men, who recounts one of the numerous rumors in your army, they're half man, half beast. The man is shaking with fright as he describes their evil eyes, their black and golden armor, their helmets adorned with dragons, griffins and skulls.
-; menu_dothraki_invasion|Word has reached you that an invading dothraki horde has laid siege to the fair city of Selhorys. According to a merchant you meet on the road, it is the khalasar of Khal Pono, who styles himself ruler of the Khizra. Noticing your look of bewilderment, the merchant explains that Khizra means 'Marsh' in dothraki.
-; menu_wildling_invasion|'Dire news, my lord!', shouts an old man you meet on the road. 'In the black of night, wildlings assaulted Last Hearth, and took the castle! The Wall has fallen, and savages roam free!'
-; menu_dk_invasion_start_warning_dorne_joins|News has reached your camp! According to one of your men, a tavern wench told him that she heard, from one of her customers that is, that the dornish lords marches to the aid of the pretender, the one who calls himself Aegon the Sixth. Soon, the rumor is confirmed when a raven is intercepted, proclaiming Doran Martells support for his supposed nephew.
-; menu_dk_stannis_start_warning|A nearby peasant is whispering to his wife. Edging closer, you overhear part of their conversation. From what you can make out, it appears Stannis Baratheon has laid claim to the throne. When you confront the peasant, he confirms your suspicions, declaring Stannis an ungodly man, working with demons from beyond the edge of the world.
-; menu_dk_renly_start_warning2|You intercept a raven. A message is tied to its leg. It urges all loyal lords to support Renly Baratheon as the only true king of the Seven Kingdoms.
-; menu_dk_renly_start_warning3|You intercept another raven. They're everywhere! You unroll the message tied to its leg. It is a proclamation from the Tyrells of Highgarden, urging all loyal and honorable lords to support Renly Baratheon.
-; menu_dk_north_start_warning|One of your men asks your permission to speak. Apparently, he heard a rumor about the ironmen. Supposively, they've begun raiding the northern cost, and Balon Greyjoy has crowned himself King of the Iron Islands and of the North.
+menu_dk_invasion_start_warning|Ti è giunta voce che gli invasori sono sbarcati nelle Stormlands. Secondo uno dei tuoi uomini, il quale racconta una delle numerose dicerie che ci sono nel tuo esercito, gli invasori sono mezzi uomini e mezze bestie. L'uomo trema di paura mentre descrive i loro occhi malefici, la loro nera e dorata armatura, i loro elmi adornati con draghi, grifoni e teschi.
+menu_dothraki_invasion|Ti è giunta voce che un'orda di dothraki ha assediato la Città Libera di Selhorys. Secondo un mercante che incontri per strada, è il khalasar di Khal Pono, il quale si definisce il reggente del Khizra. Notando il tuo sguardo in smarrimento, il mercante ti spiega che Khizra significa 'Palude' in dothraki.
+menu_wildling_invasion|'Pessime notizie, mio signore!', urla un uomo anziano che incontri per stada. 'Nel buio della notte, dei selvaggi hanno assaltato Last Hearth, e preso il castello! La Barriera è caduta, e i selvaggi vagano liberi!'
+menu_dk_invasion_start_warning_dorne_joins|Delle novità hanno raggiunto il tuo accampamento! Secondo uno dei tuoi uomini, una giovane locandiera gli ha detto che ha sentito, da uno dei suoi clienti, che i lords dorniani marciano in aiuto di un pretendente, colui che si fa chiamare Aegon il Sesto. Preso, la voce è confermata quando un corvo è intercettato, proclamando il supporto di Doran Martell per il suo presunto nipote.
+menu_dk_stannis_start_warning|Un contadino vicino sta bisbigliando a sua moglie. Avvicinandoti, senti parte della loro conversazione. Da quel che capisci, sembrerebbe che Stannis Baratheon vanta il diritto di reclamare il trono per sè. Quando parli con il contadino, ti viene tutto confermato, definendo Stannis come un uomo empio, cospiratore con demoni antichi quanto il tempo stesso.\n
+menu_dk_renly_start_warning2|Hai intercettato un corvo. Un messaggio è legato alla sua gamba. Richiede a tutti i Lords fedeli di supportare Renly Baratheon in qualità di unico Re dei Sette Regni.
+menu_dk_renly_start_warning3|Hai intercettato un altro corvo. Sono ovunque! Srotoli il messaggio legato alla sua gamba. E' una proclamazione dei Tyrell di Alto Giardino, richiedendo ai fedeli ed onorabili Lords di supportare l'ascesa al trono di Renly Baratheon.
+menu_dk_north_start_warning|Uno dei tuoi uomini chiede il permesso di parlarti. Apparentemente, sembrerebbe che egli abbia sentito un discorso al riguardo gli Uomini di Ferro. A quanto pare hanno iniziato ad razziare i villaggi che si trovano sulla costa settentrionale, e Balon Greyjoy si e' incoronato Re delle Isole di Ferro e del Nord.
 ; menu_dk_tyrosh_start_warning|The talk of your retinue is all about the new trade war Lys and Tyrosh has initiated, against Myr. The cities of Essos has warred against each other for hundreds of years, but one of your men point out that they always pay well for experienced mercenaries.
 menu_requested_castle_granted_to_player_husband|Hai recevuto un messaggio dal sovrano, {s3}.^^ {reg4?Lei:Lui} ha deciso di concedere {s2}{reg3? e il vicino villaggio di {s4}:} a tuo marito, {s7}.
 menu_requested_castle_granted_to_another|Ricevi un messaggio dal tuo sovrano, {s3}.^^ 'Sono stato informato delle tue eroiche gesta e mi compiaccio vedendo che hai ottenuto la conquista di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che ti venga assegnata la proprietà del castello ma è un favore che non posso accordare, in quanto già possiedi rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campanga, ma {s2} sarà assegnato a {s5}.'
@@ -392,7 +392,7 @@ menu_village_wedding_result|{s9}
 ; menu_village_wedding_suppressed|You trample the wedding guests underfoot and establish a semblance of order. As you pick through the corpses, you find the bridegroom has been slain but there is no sign of the bride. You will have to search the village.
 menu_center_manage|{s19}^{reg6?^^Attualmente stai costruendo {s7}. L'edificio sarà completato tra {reg8} giorno{reg9?/i:}.:}
 mno_castle_recruit_troops|Recluta alcune truppe.
-; mno_castle_sort_troops|Sort the defenders.
+mno_castle_sort_troops|Cambia ordine ai difensori.
 mno_center_build_manor|Costruisci un maniero.
 mno_center_build_fish_pond|Costruisci un mulino.
 mno_center_build_watch_tower|Costruisci una torre d'avvistamento.
@@ -453,7 +453,7 @@ mno_castle_station_troops|Disponi una guarnigione qui {s10}
 mno_dplmc_castle_give_troops|Dai truppe alla guarnigione (non è possibile rimuoverle)
 mno_castle_wait|Aspetta qui per un po' di tempo{s1}.
 mno_dplmc_guild_master_meeting|Incontra il Borgomastro.
-; mno_dplmc_guild_master_meeting_denied|You have not met the Guild Master yet.
+mno_dplmc_guild_master_meeting_denied|Non hai ancora incontrato il Borgomastro.
 mno_town_bank|Visita i mercanti.
 mno_recruit_nobles|Recluta volontari.
 mno_town_leave|Parti...
@@ -656,15 +656,15 @@ menu_notification_troop_joined_players_faction|Buone notizie!^^ {s1} ha lasciato
 menu_notification_war_declared|Dichiarazione di Guerra^^{s1} ha dichiarato guerra a {s2}!
 menu_notification_peace_declared|Trattato di Pace^^{s1} e {s2} hanno stipulato un trattato di pace!^{s57}
 menu_notification_faction_defeated|Una fazione indipendente ha cessato di esistere!
-; menu_notification_kingdom_restoration|{s10} have renounced their allegiance to {s12} and declared themselves the rulers of {s11}.
+menu_notification_kingdom_restoration|{s10} hanno rinunciato alla fedeltà verso {s12} e si sono dichiarati i governanti di {s11}.
 menu_notification_rebels_switched_to_faction|La ribellione ha avuto successo^^ La tua ribellione ha vinto! La tua fazione ora rivendica il titolo di {s11}, con {s12} come regnante unico.
 menu_notification_player_should_consult|{reg0?Il tuo ministro:{s11}} ti informa che ci sono problemi nel regno che, se non affrontati, potrebbero minare la tua autorità. Ti invita a consultarti con lui il prima possibile
 menu_notification_player_feast_in_progress|Festa in preparazione^^Tua moglie ha iniziato i preparativi per una festa nella Sala del lord a {s11}
 menu_notification_lady_requests_visit|Un'anziana donna si avvicina alla tua Compagnia e passa ad uno dei tuoi uomini una lettera, sigillata con la cera. È indirizzata a te. Quando rompi il sigillo vedi che proviene da {s15}. Scrive, 'Mi sono così divertita durante la tua ultima visita. {s14} Sono attualmente a {s10}.{s12}'
-; mno_continue_visit_yes|Tell the woman to inform her mistress that you will come shortly
-; mno_continue_visit_no|Tell the woman to inform her mistress that you are indisposed
+mno_continue_visit_yes|Dite alla donna di informare la propria padrona che tra non molto arriveremo.
+mno_continue_visit_no|Dite alla donna di informare la propria padrona che siete indisposto
 menu_garden|{s12}
-; mno_nurse_1|Go with the nurse
+mno_nurse_1|Vai con l'infermiera
 mno_nurse_2|Aspetta la primavera
 menu_kill_local_merchant_begin|Individui la tua vittima e la segui, osservando quando entra in un vicolo buio. Questa sarà sicuramente la tua migliore opportunità per attaccarlo.
 ; menu_bar_brawl_begin|You wait until a young boy comes running down the street. '{My lord! My lord!/My Lady!}' he cries. 'The troublemakers have left the tavern and are coming this way. Be ready!'
@@ -687,61 +687,61 @@ mno_establish|Insedia a {s4} la tua corte
 menu_notification_relieved_as_marshal|{s4} desidera informarti che i tuoi servigi come Comandante in Capo non sono piu' richiesti. In onore dei valorosi sforzi compiuti in nome del regno negli ultimi {reg4} giorni, comunque, {reg8?lei:lui} ti offre una borsa con {reg5} denari.
 ; menu_notification_give_liege_gift|A messenger boy, riding hard, gallops up to you. He stops and wheels his horse, which paws the ground impatiently. He hands you a package, and with that, he is gone.
 menu_manage_loot_pool|{s10}
-; mno_auto_loot|Let your heroes select gear from the item pool.
+mno_auto_loot|Lasciate che i vostri eroi selezionino l'equipaggiamento dal vostro inventario.
 ; mno_auto_loot_no|Insufficient item pool space for auto-upgrade.
-; mno_loot|Access the item pool.
+mno_loot|Accedi all'inventario.
 mno_auto_loot_upgrade_management|Gestisci il miglioramento dell'equipaggiamento del compagno.
-; mno_auto_loot_leave_with_nothing|Pick the items which price higher than {reg1} denars and continue.
+mno_auto_loot_leave_with_nothing|Raccogliete gli elementi che valgono più di {reg1} denari e continuate.
 mno_auto_loot_leave|{s20}
 ; menu_auto_loot|Your companions will automatically grab items from the item pool based on their pre-selected upgrade options. Companions listed first in the party order will have first pick. Any equipment no longer needed will be placed back into the item pool. Are you sure you wish to do this?
 mno_No|No, ho cambiato idea.
 mno_Yes|Sì, esegui l'aggiornamento.
 ; menu_choose_options_1|Choose the troop trees you'd like to use. Once choosen you can't change it.^^The Native tree is very simple and straight forward, while the Expanded tree is complex with a lot of options and variety. The Reworked tree is a compromise between both other trees.
-; mno_native_troop_trees|Native troop trees
-; mno_reworked_troop_trees|Reworked troop trees
-; mno_expanded_troop_trees|Expanded troop trees
+mno_native_troop_trees|Albero truppe native
+mno_reworked_troop_trees|Albero truppe rielaborato
+mno_expanded_troop_trees|Albero truppe esteso
 ; menu_choose_options_2|Assemble all companions at the tavern of the first encountered town?^^When you assemble them, you might take a look upstairs in the tavern, since a lot of companions might be lingering in the hallway, sitting on the stairs or inspecting their rooms. If your favorite companion isn't present, you might want to quit and re-enter the tavern: sometimes they don't all fit.
 mno_yes_npcs|Sì
 mno_no_npcs|No
 menu_choose_options_3|Desideri giocare con la nebbia di guerra?
 menu_choose_options_end|Selezione delle opzioni di gioco completa.
-; menu_town_menu_cheats|CHEATS.
-; menu_dplmc_notification_alliance_declared|Alliance Agreement^^{s1} and {s2} have formed an alliance!^{s57}
+menu_town_menu_cheats|TRUCCHI.
+menu_dplmc_notification_alliance_declared|Patto di alleanza^^{s1} e {s2} hanno stretto un'alleanza!^{s57}
 mno_dplmc_continue|Continua...
-; menu_dplmc_notification_defensive_declared|Defensive Pact^^{s1} and {s2} have agreed to a defensive pact!^{s57}
-; menu_dplmc_notification_trade_declared|Trade Agreement^^{s1} and {s2} have signed a trade agreement!^{s57}
-; menu_dplmc_notification_nonaggression_declared|Non-aggression Treaty^^{s1} and {s2} have concluded a non-aggression treaty!^{s57}
-; menu_dplmc_question_alliance_offer|You Receive an Alliance Offer^^{s1} wants to form an alliance with you. What is your answer?
+menu_dplmc_notification_defensive_declared|Patto Difensivo^^{s1} e {s2} hanno concordato un patto di difesa!^{s57}
+menu_dplmc_notification_trade_declared|Accordo commerciale^^{s1} e {s2} hanno firmato un accordo commerciale!^{s57}
+menu_dplmc_notification_nonaggression_declared|Patto di non belligeranza^^{s1} e {s2} hanno concluso un trattato di non-aggressione!^{s57}
+menu_dplmc_question_alliance_offer|Avete ricevuto un offerta^^{s1} vuole formare un'alleanza con voi. Qual è la vostra risposta?
 mno_dplmc_alliance_offer_accept|Accetto
 mno_dplmc_alliance_offer_reject|Rifiuto
-; menu_dplmc_question_defensive_offer|You Receive a Pact Offer^^{s1} offers you a defensive pact. What is your answer?
+menu_dplmc_question_defensive_offer|Avete ricevuto un offerta^^{s1} vi offre un patto difensivo. Qual è la vostra risposta?
 mno_dplmc_defensive_offer_accept|Accetto
 mno_dplmc_defensive_offer_reject|Rifiuto
-; menu_dplmc_question_trade_offer|You Receive a Pact Offer^^{s1} offers you a trade pact. What is your answer?
+menu_dplmc_question_trade_offer|Avete ricevuto un offerta^^{s1} vi offre un patto commerciale. Qual è la vostra risposta?
 mno_dplmc_trade_offer_accept|Accetto
 mno_dplmc_trade_offer_reject|Rifiuto
-; menu_dplmc_question_nonaggression_offer|You Receive a Pact Offer^^{s1} offers you a non-aggression treaty. What is your answer?
+menu_dplmc_question_nonaggression_offer|Avete ricevuto un offerta^^{s1} vi offre un trattato di non aggressione. Qual è la vostra risposta?
 mno_dplmc_nonaggression_offer_accept|Accetto
 mno_dplmc_nonaggression_offer_reject|Rifiuto
-; menu_dplmc_notification_alliance_expired|Alliance Has Expired^^The alliance between {s1} and {s2} has expired and was degraded to a defensive pact.
-; menu_dplmc_notification_defensive_expired|Defensive Pact Has Expired^^The defensive pact between {s1} and {s2} has expired and was degraded to a trade agreement.
-; menu_dplmc_notification_trade_expired|Trade Agreement Has Expired^^The trade agreement between {s1} and {s2} has expired and was degraded to a non-aggression treaty.
+menu_dplmc_notification_alliance_expired|Alleanza scaduta^^L'alleanza tra {s1} e {s2} è terminata ed è stata degradata ad un patto difensivo.
+menu_dplmc_notification_defensive_expired|Patto Difensivo scaduto^^Il patto difensivo tra {s1} e {s2} è scaduto ed è stato degradato ad un accordo commerciale.
+menu_dplmc_notification_trade_expired|Tratta commerciale scaduto^^L'accordo commerciale tra {s1} e {s2} è scaduto ed è stato degradato a un trattato di non aggressione.
 menu_dplmc_dictate_terms|Detta i termini di pace.
 mno_dplmc_demand_4000|Chiedi 4000 denari
 mno_dplmc_demand_8000|Chiedi 8000 denari
 mno_dplmc_demand_castle|Chiedi {s2}.
 mno_dplmc_go_back|Indietro
-; menu_dplmc_deny_terms|{s1} refuses your terms and is breaking off of negotiations.
+menu_dplmc_deny_terms|{s1} rifiuta i termini e annulla le trattative.
 menu_dplmc_village_riot_result|{s9}
-; menu_dplmc_village_riot_removed|In bloody battle you and your men slaughter the rebels and regain control over the village. But there is not much left you can control.
-; menu_dplmc_town_riot_removed|In bloody battle you and your men slaughter the rebels and regain control over the town.
+menu_dplmc_village_riot_removed|Dopo una sanguinosa battaglia voi e i vostri uomini ammazzate i ribelli e riprendere il controllo del villaggio. Ma non è rimasto molto che potete controllare.
+menu_dplmc_town_riot_removed|Dopo una sanguinosa battaglia voi e i vostri uomini ammazzate i ribelli e riprendere il controllo dellla città.
 ; menu_dplmc_riot_negotiate|You approach the angry crowd and begin negotiations. The leader of the riot demands {reg0} denars. He agrees to lay down arms if you are willing to pay.
 mno_dplmc_pay_riot_treasury|Induci il siniscalco a pagare coi soldi del tesoro.
 mno_dplmc_pay_riot_cash|Paga in contanti.
 mno_dplmc_back|Indietro...
 ; menu_dplmc_notification_riot|The peasants of {s1} launched a riot against you! In a surprise attack, men loyal to you have been slain. The remainder joined the angry crowd.
 ; menu_dplmc_notification_appoint_chamberlain|As a lord of a fief you can now appoint a seneschal who resides at you court for a weekly salary of 15 denars. He will handle all financial affairs like collecting and determining taxes, paying wages and managing your estate. In addition he supervises money transfers between sovereigns giving you more diplomatic options.
-; mno_dplmc_appoint_default|Appoint a prominent nobleman from the area.
+mno_dplmc_appoint_default|Nomina un eminente cittadino della zona...
 ; menu_dplmc_chamberlain_confirm|Your seneschal can be found at your court. You should consult him if you want to give him any financial advice or you need greater amounts of money. You should always make sure that there is enough money in the treasury to pay for political affairs.
 ; menu_dplmc_notification_appoint_constable|As a lord of a fief you can now appoint a castellan who resides at you court for a weekly salary of 15 denars. He will recruit new troops and provide information about your army.
 ; menu_dplmc_constable_confirm|Your castellan can be found at your court. You should consult him if you want to recruit new troops or get detailed information about your standing army.
@@ -754,33 +754,33 @@ mno_dplmc_comply|Accetta e paga la somma in contanti.
 mno_dplmc_break_off|Interrompi i negoziati.
 ; menu_dplmc_messenger|Sire, I found {s10} and delivered your message. {reg4?Her:His} answer was {s11}.
 menu_dplmc_scout|La tua spia è tornata da {s10} ^^ {s11} {s12}
-; menu_dplmc_domestic_policy|You can now shape the domestic policy of your sovereignty. Do you want to change your policy now?
-; mno_dplmc_yes|Yes, I want to change the domestic policy.
-; mno_dplmc_no|No, I don't want to change the domestic policy.
-; menu_dplmc_preferences|Diplomacy 4.2 (November 27, 2011) Preferences{s0}
-; mno_dplmc_disable_horse_speed|Disable Diplomacy horse speed.
-; mno_dplmc_enable_horse_speed|Enable Diplomacy horse speed.
-; mno_dplmc_disable_battle_continuation|Disable Diplomacy battle continuation.
-; mno_dplmc_enable_battle_continuation|Enable Diplomacy battle continuation.
-; mno_dplmc_disable_terrain_advantage|Disable terrain advantage in Autocalc battles (currently this feature is Enabled).
-; mno_dplmc_enable_terrain_advantage|Enable terrain advantage in Autocalc battles (currently this feature is Disabled).
+menu_dplmc_domestic_policy|Ora è possibile plasmare la politica all'interno della vostro regno. Volete cambiare la vostra politica ora?
+mno_dplmc_yes|Sì, voglio cambiare la politica interna.
+mno_dplmc_no|No, non voglio cambiare la politica interna.
+menu_dplmc_preferences|Diplomazia 4.2 (Novembre 27, 2011) Preferenze{s0}
+mno_dplmc_disable_horse_speed|Disabilità modifica velocità cavallo.
+mno_dplmc_enable_horse_speed|Abilita modifica velocità cavallo.
+mno_dplmc_disable_battle_continuation|Abilita la continuazione della battaglia.
+mno_dplmc_enable_battle_continuation|Disabilita la continuazione della battaglia.
+mno_dplmc_disable_terrain_advantage|Disabilità vantaggio tattico del terreno nelle battaglie automatiche (attualmente abilitata).
+mno_dplmc_enable_terrain_advantage|Abilita vantaggio tattico del terreno nelle battaglie automatiche (attualmente disabilitata).
 ; mno_dplmc_reset_terrain_advantage|You used a saved game from another mod: g dplmc terrain advantage = {reg0} (click to reset)
-; mno_dplmc_toggle_lord_recycling_a|Enable lords returning from exile (currently disabled)
-; mno_dplmc_toggle_lord_recycling_b|Disable lords returning from exile (currently enabled)
+mno_dplmc_toggle_lord_recycling_a|Abilita ritorno dall'esilio dei lord (attualmente disabilitata)
+mno_dplmc_toggle_lord_recycling_b|Disabilita ritorno dall'esilio dei lord (attualmente abilitata)
 ; mno_dplmc_toggle_lord_recycling_reset|You used a saved game from another mod: g dplmc lord recycling = {reg0} (click to reset)
-; mno_dplmc_toggle_ai_changes_a|Enable AI changes (currently disabled)
-; mno_dplmc_toggle_ai_changes_b|Increase AI changes (currently low)
-; mno_dplmc_toggle_ai_changes_c|Increase AI changes (currently medium)
-; mno_dplmc_toggle_ai_changes_d|Disable AI changes (currently high/experimental)
+mno_dplmc_toggle_ai_changes_a|Abilita modifiche AI (attualmente disattivato)
+mno_dplmc_toggle_ai_changes_b|Aumenta modifiche AI (attualmente basso)
+mno_dplmc_toggle_ai_changes_c|Aumenta modifiche AI (attualmente medio)
+mno_dplmc_toggle_ai_changes_d|Disattiva modifiche AI (attualmente alto / sperimentale)
 ; mno_dplmc_reset_ai_changes|You used a saved game from another mod: g dplmc ai changes = {reg0} (click to reset)
-; mno_dplmc_toggle_gold_changes_a|Set economic & behavioral changes to low (current mode: disabled)
-; mno_dplmc_toggle_gold_changes_b|Set economic & behavioral changes to medium (current mode: low)
-; mno_dplmc_toggle_gold_changes_c|Set economic & behavioral changes to high/experimental (current mode: medium)
-; mno_dplmc_toggle_gold_changes_d|Disable economic & behavioral changes (current mode: high/experimental)
+mno_dplmc_toggle_gold_changes_a|Imposta cambiamenti economici e comportamentali a basso (Attualmente: disabilitato)
+mno_dplmc_toggle_gold_changes_b|Imposta cambiamenti economici e comportamentali a medio (Attualmente: basso)
+mno_dplmc_toggle_gold_changes_c|Imposta cambiamenti economici e comportamentali a alto/sperimentale (Attualmente: medio)
+mno_dplmc_toggle_gold_changes_d|Disabilita cambiamenti economici e comportamentali (Attualmente: alto/sperimentale)
 ; mno_dplmc_reset_gold_changes|You used a saved game from another mod: g dplmc gold changes = {reg0} (click to reset)
-; mno_dplmc_switch_woman_prejudice_1|Change prejudice level (current level is default)
-; mno_dplmc_switch_woman_prejudice_2|Change prejudice level (current level is off)
-; mno_dplmc_switch_woman_prejudice_3|Change prejudice level (current level is high)
+mno_dplmc_switch_woman_prejudice_1|Modificare il livello di pregiudizio (livello attuale: default)
+mno_dplmc_switch_woman_prejudice_2|Modificare il livello di pregiudizio (livello attuale: off)
+mno_dplmc_switch_woman_prejudice_3|Modificare il livello di pregiudizio (livello attuale: alto)
 menu_dplmc_affiliated_family_report|{s0}
 ; menu_dplmc_start_select_prejudice|In the traditional medieval society depicted in the game, war and politics are usually dominated by male members of the nobility.  Beacuse of this, a female character can face initial prejudice, and some opportunities open to men will not be available (although a woman will also have some opportunities a man will not).  Some players might find distasteful, so if you want you can ignore that aspect of society in Calradia.^^You can later change your mind through the options in the Camp menu.
 ; mno_dplmc_start_prejudice_yes|I do not mind encountering sexism.
@@ -796,11 +796,11 @@ mno_next|vai alle linee successive
 mno_close|chiudi
 menu_entrenched_camp|  Le fortificazioni sono complete.    
 ; menu_event_01_juicio|Two farmers, one very tall and lanky, the other low and stocky, were presented to you, to discuss the ownership of a calf. Apparently their fields were bordering and the tall farmer had a bull that impregnated a cow belonging to the other farmer.The stocky farmer said the calf was his because it was his cow giving birth. The tall farmer claimed the calf to be his, being the offspring of his best bull, or at least financial compensation.
-; mno_choice_01_1n|The owner of the cow is right. The calf is yours, just like the cow is.
-; mno_choice_01_2n|The owner of the bull is right. The bull is his and the calf too.
-; mno_choice_01_3n|The owner of the cow will keep the calf, and offer financial compensation to the owner of the bull.
+mno_choice_01_1n|Il proprietario della mucca è nel giusto. Il vitello è suo, poichè anche la mucca lo è.
+mno_choice_01_2n|Il proprietario del toro è nel giusto. Il toro è suo e il vitello anche.
+mno_choice_01_3n|Il proprietario della mucca può tenere il vitello, a patto di offrire una ricompensa al proprietario del toro.
 ; mno_choice_01_4n|Neither is right. I'll stick with the calf and beef!
-; mno_choice_01_5n|Neither is right. Kill the calf and distribute its meat to the two farmers!
+mno_choice_01_5n|Nessuno dei due ha ragione. Uccidete il vitello e distribuite la carne ai due contadini!
 ; menu_event_02_juicio|'My liege, we captured the attacker! This is the man who attacked one of your messengers, who is now lying seriously injured', says on of your men. This doesn't show us in the best of light, the messenger was under your protection. But the attacker has an interesting story, and his wish was to tell it to you before he was executed.^^'My liege! I would have never thought of attacking your messenger but... that man wished to sleep with my young daughter for the night. Of course his offer was refused! However he never accepted the answer, entered my house with his three friends, and robbed my dear daughter of her virtue, laughing that you, my lord, will never believe a farmers word. I tried what I could think of, and I regret that I seriously injured him while he was under your personal protection, but a father must protect his only child! Please be reasonable to your humble servant!'
 ; mno_choice_02_1n|The messenger was under my protection. You and your family will be executed at dawn, all your belongings confiscated!
 ; mno_choice_02_2n|The messenger is important, but I will be reasonable with you: Your family will not be punished, it is only you who will hang.
@@ -808,7 +808,7 @@ menu_entrenched_camp|  Le fortificazioni sono complete.
 ; mno_choice_02_4n|What? Throw the messenger out on the streets, how dare he abuse the peasantry!
 ; menu_event_03_juicio|You summon two men to decide their fate. One is a knight, while the other is a man-at-arms sworn to the same knight. It seems what happened is that the knight didn't have enough gold to pay his man, so the man-at-arms took the knights daughter to his own bed and had his way with her.
 mno_choice_03_1n|Castrando il soldato, hai violato l'onore di cavalieri.
-; mno_choice_03_2n|Punish the knight, he failed in his duty.
+mno_choice_03_2n|Punite il cavaliere, ha fallito nel suo dovere.
 ; mno_choice_03_3n|Ask to see the daughter, and when she is brought forth, you decide it was punishment enough that the man-at-arms had to sleep with her.
 ; mno_choice_03_4n|Compensate the knight for this crime, out of your own coffers, and pay the man-at-arms the coin due to him. Then hang him. It will cost 2000 coins.
 ; menu_event_04_juicio|One of your sworn men approaches you. He states that among the men, there is much dissatiafaction. Pertaining that you are too placid and that there is too little gold and honour to be won under your service.
@@ -817,67 +817,67 @@ mno_choice_04_2n|Di' al tuo uomo di essere tranquillo.
 ; mno_choice_04_3n|Kill the man who approached you and state there shall be no more talk of sedition.
 mno_choice_04_4n|Prometti di fare ammenda presto.
 ; menu_event_05_juicio|After having feasted your lords repeatedly for the last four months, it appears your tunic no longer slips over your head. You have begun wearing open chest tunics and generally snacking on delicious fruits from the east. Dinner is, of course, a spiced pig, drowned in butter, and roasted to perfection. A local maester, however, feels you have reached some sort of tipping point, and has suggested fresh air and a general course of exercise, and a limited diet.
-; mno_choice_05_1n|Eat more food and get rid of the maester.
+mno_choice_05_1n|Mangiate più cibo e sbarazzatevi del Maester.
 ; mno_choice_05_2n|Go on a pilgrimage to the nearest public bath house, to regain your figure. It will cost 300 coins.
 ; mno_choice_05_3n|Existing entirely on bowls of beans and lentils, you develop a foul temper, but at least you're no longer fat.
 ; menu_event_06_juicio|Your lover tarries with a youth of soft skin and white curls that have an almost valyrian style to them. Indeed your lover even calls him a young Aegon, it is rumoured. Whilst it is okay for you to practise your love-making amongst the local women, for your lover to taint your relationship in such a manner is...
-; mno_choice_06_1n|Fine.
-; mno_choice_06_2n|Horrible! Have the youth seized and gelded!
+mno_choice_06_1n|Bene.
+mno_choice_06_2n|Orribile! Sequestrare il giovane e castralo!
 ; mno_choice_06_3n|Move in an old nurse, to keep an eye on your lover.
 ; menu_event_07_juicio|The crop this year has whithered miserably under the sun. As the first snow has fallen, there are many who fear the long months of winter as starvation looms. What should we do, my liege?
 ; mno_choice_07_1n|I cannot spare any grain as I have to feed my household. Besides... there are feasts to be had.
 ; mno_choice_07_2n|Distribute some wagons of grain to my people, it is the most I can spare.
-; mno_choice_07_3n|Spend 5000 coins on grain from the Summer Islands!
+mno_choice_07_3n|Comprate grano delle Summer Islands per 5000 monete! 
 ; mno_choice_07_4n|Let them starve! Serves them right for not tending to their crops carefully enough!
 ; menu_event_08_juicio|One of your lords approaches you, stating he has an illegitimate son who wishes to join your bodyguard. You agree to meet the boy as it would be unseemly to flat out reject a noble. When you meet the boy, however it is clear that he is rather homely and certainly not a man of war. Faced with this plump, smiling young man you...
 ; mno_choice_08_1n|Allow him to join your bodyguard.
-; mno_choice_08_2n|Ask for a payment of 500 coins to grease the deal.
-; mno_choice_08_3n|Refuse outright.
+mno_choice_08_2n|Chiedi un corrispettivo di 500 monete per concludere l'affare.
+mno_choice_08_3n|Rifiuta definitivamente.
 ; menu_event_09_juicio|Two men, each with their own proposal, come before you on the same day. One is a young lisping scholar called Mycah who proposes the building of more libraries and a fund to be set aside to buy and maintain books of knowledge. Although his case is eloquent, the delivery is less so.Another man comes forward. A hulking great bearded warrior of a man who makes Mycah visibly wince in his shadow, he suggests the funds be better allocated in purchasing weapons, horses and shields, things that can be used today and are not merely fantasies.
-; mno_choice_09_1n|Choose Mycah, stating that a wise ruler has need of books far more than the sword. It will cost 3000 coins
-; mno_choice_09_2n|Choose the warrior, stating that books have no place in this age of war. It will cost 3000 coins
-; mno_choice_09_3n|State a country needs both men of knowledge and men of war, and that you will provide enough coin for everyone! It will cost 6000 coins
+mno_choice_09_1n|Scegli Mycah, affermando che un sovrano saggio ha più bisogno di libri che di spade. Costerà 3000 monete
+mno_choice_09_2n|Scegli il guerriero, affermando che i libri non hanno posto in questa epoca di guerre. Costerà 3000 monete
+mno_choice_09_3n|Una stato che vuole crescere ha bisogno di entrambi, sia uomini di conoscenza che uomini di guerra, fornirai abbastanza soldi per tutti! Costerà 6000 monete
 mno_choice_9_4n|Ignorali.
 ; menu_event_10_juicio|A searing flash is seen across the night sky. There is much talk of omens the next day. Amongst the people of {s1} there is a general consensus that some act of sacrifice must be made or surely the Gods will unleash their wrath upon the land. The practice of the wickerman suddenely gains impetus, as it is near harvest time. You find a young maiden, freshly flowered, and she is treated as a living goddess until just before harvest...
 ; mno_choice_10_1n|Order the girl burned inside a wickerman of straw.
-; mno_choice_10_2n|You refuse to enact such a barbaric practice and you send the girl away from the town to safety.
+mno_choice_10_2n|Vi rifiutate di mettere in atto tale pratica barbara e inviate la ragazza lontano dalla città per la sua sicurezza.
 mno_choice_10_3n|Ignorare tutta la faccenda.
 ; menu_event_11_juicio|The sound of a galloping horse pierces the cold morning, and you run outside to find a scout. He tells you a strange ship carrying men who speak a strange language has been shipwrecked at the nearest coast. What do you do?
-; mno_choice_11_1n|Immediately send a warband to investigate and search for valuables. If there are any survivors, kill them.
-; mno_choice_11_2n|Immediately send a warband to investigate and search for valuables.
+mno_choice_11_1n|Inviate immediatamente una squadra di soldati a indagare ed a cercare oggetti di valore. Se troveranno sopravvissuti, li uccideranno.
+mno_choice_11_2n|Inviate immediatamente una squadra di soldati a indagare ed a cercare oggetti di valore.
 mno_choice_11_3n|Non fare nulla.
 ; menu_event_12_juicio|The runner arrives at the courtroom, and after you allow it, starts to tell dire news. 'My liege, a village is in great danger! The populace has some kind of strange sickness, they can hardly move, they sweat blood, and vomit! And the local wise-woman has no cure for it. The lord of the village doesn't let anyone out for the moment, and is waiting on your orders!'
 ; mno_choice_12_1n|Dire news indeed! The quarantine should stay, but I will send aid!
 ; mno_choice_12_2n|Dire news indeed! The quarantine should stay, and we will examine the survivors when the epicemic is over!
 ; menu_event_13_juicio|The servants approach you: My lord, the childbirth is not going well! We tried everything we could, but it seems that the young lady is simply not suited for the ordeal. All that is left is to pray.
-; mno_choice_13_1n|Everybody, kneel down and start praying!
+mno_choice_13_1n|Tutti, inginocchiatevi e iniziate a pregare!
 ; mno_choice_13_2n|Hah! You servants are good for nothing! Guards, bring me the wise woman from the village, NOW!.
 ; menu_event_14_juicio|One day, a loyal warrior comes to you with a strange request. 'My lord, I am in a bind! I spent all my money on proper equipment and troops, so that I can serve you well. However, my daughter is about to marry, and I cannot give a proper dowry to the husband'.
 mno_choice_14_1n|Dai all'uomo 1000 monete.
-; mno_choice_14_2n|Everyone should plan ahead. I will grant you 500 coins, but this is the last time.
-; mno_choice_14_3n|No, you should have saved up the coin!
+mno_choice_14_2n|Tutti dovrebbero pianificare ciò in anticipo. Vi concedo 500 monete, ma questa è l'ultima volta.
+mno_choice_14_3n|No, dovevate pensarci prima!
 ; menu_event_15_juicio|One day, your servant arrives at your court, he seems very enthusiastic! 'My lord, I have splendid news! There is a merchant from The Red Mountains in the nearby village now, and he is willing to sell us a piece of blessed Baelors hair! I cannot believe that our lands has the opportunity to gain such a famous relic!'
 ; mno_choice_15_1n|I have seen so many parts of Baelors head, that it must have been at least a size of an aurochs! We don't pay for fake relics!
-; mno_choice_15_2n|This is a very good offer indeed, but sadly we don't have that much in the coffers.
-; mno_choice_15_3n|We cannot let this opportunity slip by! Buy the relic for 500 coins.
+mno_choice_15_2n|Questa è un'offerta molto buona, davvero, ma purtroppo non abbiamo molti soldi nelle nostre casse.
+mno_choice_15_3n|Non possiamo lasciarci sfuggire questa occasione! Acquista la reliquia per 500 monete.
 ; menu_event_16_juicio|You were having a feast with your companions when a messenger from the guild masters came before you. 'My liege, there is a situation developing in the town and we need your council.' You stepped outside, but took your mighty weapon with you.^^There is a great deal of rumble among the crowd, but when you appear, silence falls over the audience. An ancient man bows to you and ask permission to speak, which you give, and  he says: 'My liege, here is a case worthy of your wisdom. There are two women who claim to be the mother of this child.^You say to the crowd 'Let their faces be known'. Two women show up, one in plain clothes and another in rags. You say 'If neither agree, the child will be cut in half' You direct your guards to cut the child in half and give one half to each of the women.Then the woman in rags scream and says 'No please my great king, let the other women have the child. You stare at her and say: 'Your are the rightful mother and this child belongs to you'. The woman in rags fall down sobbing with joy, and when your men ask you what to do with the other claimaint, you tell them:
 mno_choice_16_1n|Imprigionala nei sotterranei più bui.
 ; mno_choice_16_2n|Hang her.
 ; mno_choice_16_3n|Give her and the crowd a speech about honesty and honor, and let her live.
 ; menu_event_17_juicio|Your advisor, streaked with dirt and sunburned, arrives after inspecting the harvest. 'My liege, the harvest is poor this year. If you do not reduce taxes there will be nothing to feed the smallfolk this winter.'
 ; mno_choice_17_1n|And if I reduce taxes I will have to release men from their oaths, and our enemies would overrun us. Better a empty gut than a cut throat.
-; mno_choice_17_2n|Then reduce the tax. It will cost 2000 coins
+mno_choice_17_2n|Se volete ridurre la tassa. Costerà 2000 monete
 ; menu_event_18_juicio|A peasant from a nearby village comes to you as a supplicant. He breathlessly reports that armed men have raided your holdings, carrying off women, cattle and grain. He is spattered with blood and stinks of burned thatch.
-; mno_choice_18_1n|Gather my men! We'll avenge this insult! It will cost 300 coins.
-; mno_choice_18_2n|There is nothing to be done here. Away with you, mongrel!
-; mno_choice_18_3n|There will be war. You have done well to report this to me.
-; mno_choice_18_4n|How can I be sure it wasn't a band of outlaws or madmen? There is little I can do for you.
+mno_choice_18_1n|Radunate gli uomini! Vendicheremo questo insulto! Costerà 300 monete.
+mno_choice_18_2n|Non c'è niente da fare qui. Andatevene, bastardo!
+mno_choice_18_3n|Ci sarà una guerra. Avete fatto bene a segnalarmi l'accaduto.
+mno_choice_18_4n|Come posso essere sicuro che non era una banda di fuorilegge o di pazzi? C'è poco che posso fare per voi.
 ; menu_event_19_juicio|A whore is accused of witchcraft, after several men-at-arms, sworn to your vassal, reported pain while relieving themselves. Your vassal backs their claim, and you suspect he might have the same complaint but know better than to air it publicly.
-; mno_choice_19_1n|Banish the whore, exiling her to the forest.
-; mno_choice_19_2n|Have the whore secretly executed.
+mno_choice_19_1n|Bandite la prostituta, mandatela in esilio nella foresta.
+mno_choice_19_2n|Giustizia segretamente la prostituta.
 ; mno_choice_19_3n|Witches! Where there's one, there's many! Kill the witch and ensure the sanctity of your holdings by killing anyone else accused of witchcraft!
 ; menu_event_20_juicio|A holy man comes upon you, and tells you that most of the inhabitants of one of your villages, where he was preaching his odd religion, has taken up arms and attacked him and his followers. The cause, he says, was that he wanted the villagers to eat dirt.
-; mno_choice_20_1n|This man is obviously insane.
+mno_choice_20_1n|Quest'uomo, ovviamente è pazzo.
 ; mno_choice_20_2n|This man is right! They should eat dirt!
 ; mno_choice_20_3|We should all eat dirt!
 mno_choice_20_4n|Ignoralo.
@@ -886,7 +886,7 @@ mno_choice_21_1n|Accetta di aiutare.
 ; mno_choice_21_2n|Imprison the man, and declare his property forfeit and the lands given over to the other village.
 ; mno_choice_21_3n|Seize the lands for yourself and exile the peasant.
 ; menu_event_22_juicio|A woman from a nearby village comes to you claiming that one of your men, who has died recently, was her husband. She asks for assistance to take care of her deceased husbands child.
-; mno_choice_22_1n|Give her some coin and send for a wetnurse. It will cost 500 coins.
+mno_choice_22_1n|Datele qualche moneta e inviate una nutrice. Costerà 500 monete.
 mno_choice_22_2n|Ignorala.
 ; menu_event_23_juicio|Your lover approaches you with a request, 'My liege, would it not show your great mercy and honor if you where to provide for those who have suffered while serving under you? We have dozens of maimed, lame and aged soldiers begging for coin in the streets, and many families who have lost fathers and husbands in your battles. We need to reward and protect your loyal supporters or else men might be hesitant in the future to be in your retinue.'
 ; mno_choice_23_1n|Bah! Let the orphans and the beggars rot.
@@ -897,53 +897,53 @@ mno_choice_22_2n|Ignorala.
 ; mno_choice_24_1n|Ignoring the evidence, you settle in your mans favor, saying he was acting on your orders.
 ; mno_choice_24_2n|The evidence is clear, the accused is found guilty and has his hands cut off for theft!
 ; mno_choice_24_3n|You claim both parties are in the wrong, exiling them and confiscating all material pertaining to the case.
-; menu_event_01|A singer composed a song about your noble deeds.
+menu_event_01|Un cantante ha composto una canzone sule vostre nobili azioni.
 mno_choice_01_1|Eccellente!
 mno_choice_01_2|Ricompensalo con 200 denari.
-; mno_choice_01_3|Noble deeds? A song? What a fool!
+mno_choice_01_3|Nobili azioni? Una canzone? Che stupido!
 ; menu_event_02|Tales of your deeds spread through the countryside. Everywhere you go, your procession is surrounded by beggars.
 mno_choice_02_1|Donare 1000 monete al fondo locale elemosina.
 mno_choice_02_2|Ignorali.
 ; menu_event_03|A young bard spreads rumors about your mother. Accusations of working in the world's oldest profession are the most delicate ones.
 mno_choice_03_1|Sfidalo a duello.
 mno_choice_03_2|Ignoralo.
-; menu_event_04|You encounter a beggar and his daughter on the road. They look hungry.
+menu_event_04|Hai incontrato un mendicante e sua figlia sulla strada. Sembrano affamati.
 mno_choice_04_1|Dare loro 200 monete.
 mno_choice_04_2|Ignorali.
 ; menu_event_05|A local bard is spreading false rumors about you. While most of the stories are just pure nonsense, sooner or later people will believe those stories.
-; mno_choice_05_1|Let him speak what he wants. Every man has his rights.
-; mno_choice_05_2|Pay a local scribe 300 coins to spread positive rumors.
+mno_choice_05_1|Lasciategli dire quello che vuole. Ogni uomo ha i suoi diritti.
+mno_choice_05_2|Pagate 300 monete ad uno scriba locale per diffondere voci positive.
 mno_choice_05_5|Ignoralo.
 ; menu_event_06|A mob of angry {s1} dwellers are complaining about corrupt tax collectors. They demand justice. The situation is getting worse by the minute. It looks like a riot is about to begin unless you do something.
-; mno_choice_06_1|Begin an investigation and give the peasants 2000 coins.
-; mno_choice_06_2|Order the town guards to prevent the mob from spreading and turning into a riot.
+mno_choice_06_1|Inizia un'indagine e dai ai contadini 2000 monete.
+mno_choice_06_2|Ordinate alle guardie cittadine di disperdere la folla prima che la protesta si trasformi in una sommossa.
 mno_choice_06_3|Ignorali.
 ; menu_event_07|A single rider, looking poor and unarmed, approaches your party. Intercepted by your men he presents himself as a singer from {s1} and requests your permission to compose an ode about your magnificency and generosity. Your men exchange glances and then look at you waiting for an answer. You...
 mno_choice_07_1|Concedi l'autorizzazione al cantante e pagalo 500 monete.
 mno_choice_07_2|Concedi l'autorizzazione al cantante e pagalo 100 monete.
-; mno_choice_07_3|Allow the singer to compose the ode but offer him no payment.
+mno_choice_07_3|Lasciate che il cantante componga l'inno, ma non offritegli nessun pagamento.
 mno_choice_07_4|Ignoralo.
 ; menu_event_08|You spot a single man riding hard towards your party. With a gesture of your hand, your men run to meet him. Intercepted by your men he presents himself as an emissary from {s1} and without delay informs you that an influential man has died {s2} and that his family requests that you agree to declare an official day of mourning in {s1} in his honor. You...
-; mno_choice_08_1|Agree to the request and donate 500 coins to widow.
+mno_choice_08_1|Accetta la richiesta e dona 500 monete alla vedova.
 mno_choice_08_2|Rifiutare la richiesta.
-; menu_event_09|You are travelling through the forest and you suddenly spot a wild hare, trapped in a snare. What do you do?
+menu_event_09|Viaggi attraverso il bosco e improvvisamente individui una lepre selvatica, intrappolata in un laccio. Che cosa fai?
 mno_choice_09_1|Libera l'animale.
-; mno_choice_09_2|Clench the snare and kill the hare!
+mno_choice_09_2|Stringi il laccio e uccidi la lepre!
 mno_choice_09_3|Ignoralo.
-; menu_event_10|You are travelling through the forest and you spot a peasant tied up a tree, probably by a bandit. What do you do?
+menu_event_10|Viaggi attraverso il bosco e improvvisamente trovate un contadino legato ad un albero, probabilmente da un bandito. Cosa fai?
 mno_choice_10_1|Libera il contadino.
 mno_choice_10_2|Ignoralo.
 mno_choice_10_3|Uccidi il contadino.
-; menu_law_event_1|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
-; mno_choice_10_4|Outlaw serfdom.
-; mno_choice_10_5|Outlaw heresy.
+menu_law_event_1|Hai deciso di mettere ordine nei tuoi possedimenti, introducendo una nuova legge. Dopo aver consultato i tuoi cortigiani, decidi di...
+mno_choice_10_4|Fuorilegge la servitù.
+mno_choice_10_5|Eresia fuorilegge.
 mno_choice_10_6|Non fare nulla.
-; menu_law_event_2|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
-; menu_law_event_3|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
-; menu_law_event_4|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
-; menu_law_event_5|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
-; menu_crusader_kings_event_1|You're resting on a bench in a small village. Sitting near the village center, you overhear the many conversations people are having. The gossip, the rumours, the anger and the happiness. There are so many interesting things going on in the world!
-; menu_crusader_kings_event_2|You're resting on a bench in a small village. Sitting near the village center, you notice a travelling singer. Sitting down beside you on the bench, he offers to sing you a song, for free!
+menu_law_event_2|Hai deciso di mettere ordine nei tuoi possedimenti, introducendo una nuova legge. Dopo aver consultato i tuoi cortigiani, decidi di...
+menu_law_event_3|Hai deciso di mettere ordine nei tuoi possedimenti, introducendo una nuova legge. Dopo aver consultato i tuoi cortigiani, decidi di...
+menu_law_event_4|Hai deciso di mettere ordine nei tuoi possedimenti, introducendo una nuova legge. Dopo aver consultato i tuoi cortigiani, decidi di...
+menu_law_event_5|Hai deciso di mettere ordine nei tuoi possedimenti, introducendo una nuova legge. Dopo aver consultato i tuoi cortigiani, decidi di...
+menu_crusader_kings_event_1|Ti stai riposando su una panchina in un piccolo villaggio. Seduto vicino al centro del villaggio, origli le conversazioni che molte persone stanno avendo. I pettegolezzi, le voci, la rabbia e la felicità. Ci sono tante cose interessanti in corso in tutto il mondo!
+menu_crusader_kings_event_2|Ti stai riposando su una panchina in un piccolo villaggio. Seduto vicino al centro del villaggio, noti un cantante itinerante. Si siede accanto a te e si offre di cantarti una canzone, gratis!
 ; menu_crusader_kings_event_3|Two minor nobles from one of your villages fought against each other with swords. You decide to...
 ; menu_crusader_kings_event_4|A religious fanatic held a service in one of your villages as you were passing by. After the sermon, he rushed to meet you, shouting for your opinion on the aspects of the Seven...
 ; menu_crusader_kings_event_5|You are conversing with a minor noble, when you hear a loud scream somewhere behind you! Going to investigate, you discover a septon and a farm girl engaged in carnal pleasures, oblivious to the world. When you politely cough, they turn in your direction, and seem to remember where they are. You decide to...
@@ -956,8 +956,8 @@ mno_choice_10_6|Non fare nulla.
 ; menu_crusader_kings_event_12|Two of your courtiers where caught in the same bed, doing something reserved for married couples. When the two young maidens are brought before you, you decide to...
 ; menu_crusader_kings_event_13|Last night, you had a dream. A strange creature, with five heads and no legs, told you to shout at the moon! Surely dreams are to be taken seriously. You decide to...
 ; menu_crusader_kings_event_14|One of your courtiers have clearly gone mad. He keeps talking to his horse, as if it understood him, and last night the servants caught him doing something... odd... with the horse. You decide to...
-; menu_desert_event_1|You're walking along a dried out riverbed, when you see a scorpion! You decide to...
-; menu_desert_event_2|You're walking along a dried out riverbed, when you see a scorpion! You decide to...
+menu_desert_event_1|State camminando lungo un fiume prosciugato, quando vedete uno scorpione! Decidete di...
+menu_desert_event_2|State camminando lungo un fiume prosciugato, quando vedete uno scorpione! Decidete di...
 ; menu_desert_event_3|You kick a rock, and underneath is a white and red viper. You recognise it as the kind called Smooth-Tree Viper by the smallfolk! The snake hiss at you, getting ready to strike! You decide to...
 ; menu_desert_event_4|You kick a rock, and underneath is a blue and green viper. You recognise it as the kind called Queen Viper by the smallfolk! The snake hiss at you, getting ready to strike! You decide to...
 ; menu_desert_event_5|You kick a rock, and underneath is a black viper. You recognise it as the kind called Long-Nosed Death by the smallfolk! The snake hiss at you, getting ready to strike! You decide to...
@@ -1052,175 +1052,175 @@ mno_choice_10_6|Non fare nulla.
 ; menu_westerlands_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
 ; menu_reach_event_1|The seasons pass, and the day has come again. It's The Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men.
 ; menu_reach_event_2|The seasons pass, and the day has come again. It's The Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
-; menu_reach_event_3|The seasons pass, and the day has come again. It's The Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
-; menu_reach_event_4|The seasons pass, and the day has come again. It's The Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later, in the Starry Sept of Oldtown, there'll be a great feast, during which the local septons prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches.
-; menu_reach_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
-; menu_ironborn_event_1|'What is dead may never die' shouts the men of the ship, as you sail across the waves. The Drowned God favor the ironborn, and this journey across his domain will surely yield a favorable result.
-; menu_ironborn_event_2|'What is dead may never die' shouts the men of the ship, as you sail across the waves. A young man was washed overboard, and when the men of the ship hauled him back in, his skin was cold and his lungs filled with water. But then he opened his eyes, and coughed up the ocean. The young man has been drowned twice, surely he is favored by the Drowned God.
-; menu_ironborn_event_3|The storms are picking up! The Storm God is fighting the Drowned God, and the waves are in turmoil! Now is the time to pray, that the Drowned God may hold out his mighty hand and shelter you from the storm.
-; menu_ironborn_event_4|The storms are picking up, and the waves are huge. 'I will still these waters with mine own blood!' says an old raider who is part of the crew.Picking up an axe, he hacks of a finger and throws it into the waters, as an offering to the Drowned God. You decide to reward the man with...
-; menu_negative_event_1|You stumble and hurt your knee. The pain is unbearable. What do you do?
-; menu_negative_event_2|You stumble and hurt your hand. After a few hours, it starts to turn blue. What do you do?
-; menu_negative_event_3|A branch falls off a tree, and hit you in the head. At first, you feel fine, but soon your vision turns blurry, and you have trouble concentrating. What do you do?
-; menu_negative_event_4|You've caught a cold. The symptoms are not severe, but you should probably rest for a bit. What do you do?
-; menu_negative_event_5|You've cut yourself on a rusty knife. The wound looks fine, but perhaps it would be wise to take some precautions. What do you do?
-; menu_negative_event_6|You come across some mushrooms. They look plain brown and slightly white. What do you do?
-; menu_negative_event_7|You've got a thorn in your hand! What do you do?
-; menu_negative_event_8|A young girl, from a nearby village, offers herself to you. It will only cost twenty silver!
-; menu_negative_event_11|You meet a lonely septon on the road. As you pass him, you stumble and accidentally push him off the track.
-; menu_negative_event_22|Going into the woods alone, you suddenly feel a blade across your throat. An outlaw has ambushed you. Listening to him slobber and stammer, it is clear that the man is unstable and dangerous. What do you do?
-; menu_negative_event_33|Walking alone in the forest, you come across two young women, bathing in a stream. They seem to be alone, with no way of defending themselves.
-; menu_negative_event_44|Walking through a small village, a young man approaches you. He'll spend the night with you for free, if only he can travel with you for a while.
-; menu_negative_event_55|You're walking across a field, when your foot is caught in a rabbits hole. As you fall over, your manage to twist your body, sending a stab of blinding pain up through your leg. What do you do?
-; menu_negative_event_66|You come across a blind beggar. The man is old and frail, but he might have a couple of coins in his purse.
-; menu_negative_event_77|You come across a young man, bearing the clothes of a minor noble. When he sees you, he signals for you to follow. Curious, you do so, and when you're alone, he kicks you in the groin!
-; menu_negative_event_88|A young man, from a nearby village, offers himself to you. It will only cost twenty silver!
-; menu_event_101|You are a famous leader of men, and you receive news that a group of knights wishes to join you. But they want more pay than the rest of your troops.
+menu_reach_event_3|Le stagioni passano, e il giorno è giunto di nuovo. E' il Giorno dell' Estraneo. In questo giorno, uomini e donne, vecchi e giovani, vanno di porta in porta distribuendo dolciumi, frutti e foglie acerbe, portando grandi cestini di vimini pieni di polvere. In seguito, ci sarà una festa, con il Septon locale vestito in abiti scuri il quale getterà frutta marcia ai presenti.
+menu_reach_event_4|Le stagioni passano, e il giorno è giunto di nuovo. E' il The Father's Day. In questo giorno, tutto i padri con un figlio legittimo devono essere ubbiditi. non importa la richiesta. Nelle frazioni remote, alcuni prendono vantaggio di questo per dormire con le mogli dei vicini, ma nelle città, feudi e castelli, le richieste sono generalmente lievi e spesso consistono in un dono. In seguito, nella Setta Stellata di Vecchia Città, ci sarà una grande festa, durante la quale i septon locale si prosta davanti alla statua del Padre e le Sorelle del Silenzio lo frustano con rami di legno intrecciati.
+menu_reach_event_5|Le stagioni passano, e il giorno è giunto di nuovo. E' la festa di Hugor Hill. durante la quale coloro che venerano i Sette si riuniscono nelle sette, e ascoltano il Septon locale recitare passi della Stella a Sette Punte, ci sarà una festa, durante la quale i bambini riceveranno doni dai loro genitori e parenti, e al Septon è dato il posto d'onore nella sala del signore locale.
+menu_ironborn_event_1|'Ciò che è morto non muoia mai' urlano gli uomini della nave, mentre attraversate le onde. Il Dio Abissale protegge gli uomini delle Isole di Ferro, e questo viaggio attraverso il suo dominio darà sicuramente un risultato favorevole.
+menu_ironborn_event_2|'Ciò che è morto non muoia mai' urlano gli uomini dalla nave, mentre navigate tra le onde. Un giovane è spinto in acqua, e quando gli uomini della nave lo issano a bordo, la sua pelle appare fredda e i suoi polmoni sono pieni d'acqua. Ma quando egli riapre i suoi occhi, tossisce l'oceano intero. Il ragazzo è annegato due volte, sicuramente egli ha il favore del Dio Abissale.
+menu_ironborn_event_3|Le tempeste si stanno unendo! il Dio della Tempesta sta combattendo il Dio Abissale, e le onde sono in agitazione. Ora è tempo di pregare, che il Dio Abissale sollevi la sua enorme mano per proteggervi dalla tempesta.
+menu_ironborn_event_4|Le tempeste si stanno unendo, e le onde sono enormi. 'Io vorrò ancora queste acque con il mio stesso sangue!' dice un vecchio predatore che fa parte della ciurma. Raccogliendo un'ascia, si stacca un dito e lo getta nelle acque, come offerta al Dio Abissale. Decidi di premiare l'uomo con...
+menu_negative_event_1|Inciampate e vi fa male il ginocchio. Il dolore è insopportabile. Cosa fai?
+menu_negative_event_2|Inciampate e vi ferite la mano. Dopo qualche ora, inizia a diventare blu. Cosa fai?
+menu_negative_event_3|Un ramo si spezza e cade dall'albero, colpendoti sulla testa. All'inizio ti senti bene, ma in seguito la tua vista diventa sfocata, e hai problemi nel concentrarti. Cosa fai?
+menu_negative_event_4|Ti sei beccato un raffreddore. I sintomi non sono seri, ma dovresti probabilmente riposare un po'. Cosa fai?
+menu_negative_event_5|Ti sei tagliato con un coltello arrugginito. La ferita sembra in buone condizioni, ma sarebbe bene prendere delle precauzioni. Cosa fai?
+menu_negative_event_6|Ti imbatti in alcuni funghi. Essi appaiono lisci, marroni e leggermente bianchi. Cosa fai?
+menu_negative_event_7|Hai una spina nella mano! Cosa fai?
+menu_negative_event_8|Una giovane ragazza, di un villaggio vicino, si offre a voi. Al costo di soli venti pezzi d'argento!
+menu_negative_event_11|Incontri un septon solitario sulla strada. Come lo passa, inciampi e accidentalmente lo spingi fuori pista.
+menu_negative_event_22|Andando nel bosco da solo, senti improvvisamente una lama contro la tua gola. Un fuorilegge ti ha teso un agguato. Ascoltandolo sbavare e balbettare, sembra chiaro che quell' uomo sia instabile e pericoloso. Cosa fai?
+menu_negative_event_33|Camminando da solo nella foresta, ti imbatti in due giovani donne, immerse in un fiume. Sembrano essere sole, con nessuna possibilità di difendersi da sole.
+menu_negative_event_44|Camminando attraverso un piccolo villaggio, un giovane ti viene incontro. Egli passerà la notte con te senza chiedere nulla, se solo egli potrà viaggiare con te per un po'.
+menu_negative_event_55|Stai camminando attraverso un campo, quando il tuo piede va in una tana di un coniglio. Appena ci cadi sopra, contorci il tuo corpo, ricevendo una fitta di dolore accecante attraverso la gamba. Cosa fai?
+menu_negative_event_66|Ti imbatti in un mendicante cieco. L'uomo è vecchio e fragile, ma potrebbe avere un paio di monete nella sua borsa.
+menu_negative_event_77|Ti imbatti in un giovanotto, portando delle vesti di un nobile minore. Quando ti vede, ti segnala di seguirlo. Incuriosito, obbedisci, e quando sei solo, ti sferra un calcio nell'inguine!
+menu_negative_event_88|Un giovane ragazzo, di un villaggio vicino, si offre a voi. Al costo di soli venti pezzi d'argento!
+menu_event_101|Sei un famoso comandante, e ricevi notizia che un gruppo di cavalieri desidera unirsi a te. Ma loro vogliono una paga migliore del resto delle tue truppe.
 mno_choice_101_1|Loro sono i benvenuti.
 mno_choice_101_2|Non ho bisogno di più truppe.
 mno_choice_101_3|Uccidiamoli. Sicuramente portano molti oggetti di valore.
-; menu_event_102|You receive news that a group of women expresses interest in becoming camp followers.
+menu_event_102|Ricevi notizia che un gruppo di donne hanno espresso l'interesse di volersi unire all'accampamento.
 mno_choice_102_1|Loro sono i benvenuti.
 mno_choice_102_2|Non ho bisogno di più truppe.
-; menu_event_103|You are a famous leader of men, and you receive news that a group of singers wishes to join you, and make your travels more joyous.
+menu_event_103|Sei un famoso comandante, e ricevi notizia che un gruppo di bardi desidera unirsi a te, e rendere i tuoi viaggi più gioiosi.
 mno_choice_103_1|Loro sono i benvenuti.
 mno_choice_103_2|Non ho bisogno di più truppe.
-; menu_event_11|The kin of a farmer slain in one of your battles brings a suit against you requesting compensation of 200 coins. What do you do?
+menu_event_11|Un parente di un contadino ucciso in una delle tue battaglie citandoti in giudizio chiedendo un risarcimento di 200 denari. Cosa vuoi fare?
 mno_choice_11_1|Pagali 200 monete.
 mno_choice_11_2|Rifiuta di pagare
 ; mno_choice_11_3|Refuse to answer the case at all
-; menu_event_12|The kin of a sellsword slain in one of your battles demands compensation. What do you do?
+menu_event_12|Il parente di un mercenario ucciso in una delle vostre battaglie chiede un risarcimento. Cosa fai?
 mno_choice_12_1|Pagali 500 monete.
 mno_choice_12_2|Rifiuta di pagare.
 ; mno_choice_12_3|Refuse to answer the case at all.
-; menu_event_13|You see a crane circling above your party.
+menu_event_13|Vedete una gru volteggiare sopra la vostra compagnia.
 ; mno_choice_13_1|Tell to your men that the crane symbolizes good luck, and the next battle you fight shall find you victorious!
 mno_choice_13_2|Ignoralo.
 ; mno_choice_13_3|Tell them that although cranes warn of a bad fortunes, you have faith in their prowess!
-; menu_event_14|A country farmer stands before you on the road, a weeping girl behind him. He points his finger accusingly at one of your men, saying that he raped his daughter and demands justice.
+menu_event_14|Un contadino della campagna ti si para davanti sulla strada, con dietro di sè una ragazza in lacrime. Egli punta l'indice accusando uno dei tuoi uomini, dicendo che ha violentato sua figlia e chiede giustizia.
 mno_choice_14_1|Non tollero indecenza tra i miei uomini! Castra l'uomo e lo gettalo fuori dalla tua compagnia.
 ; mno_choice_14_2|Give the accused man a lashing and consider the matter settled.
 ; mno_choice_14_3|It is a hard world, and a man will take what he can. Tell the farmer that he is lucky that is all the man did!
-; menu_event_15|You are travelling through the forest and you suddenly spot a lot of mushrooms, cowered with blue and red spots. What do you do?
+menu_event_15|Stai viaggiando attraverso la foresta e improvvisamente trovi molti funghi, ricoperti di punti blu e rossi. Cosa vuoi fare?
 mno_choice_15_1|Raccoglili e mangiali.
 mno_choice_15_2|Raccoglili e dalli ai tuoi uomini.
 mno_choice_15_3|Ignorali.
-; menu_event_16|You are travelling through the forest and you suddenly spot a lot of mushrooms, brown and sweet smelling. What do you do?
+menu_event_16|Stai viaggiando attraverso la foresta e improvvisamente trovi molti funghi, marroni e con un dolce odore. Cosa vuoi fare?
 mno_choice_16_1|Raccoglili e mangiali.
 mno_choice_16_2|Raccoglili e dalli ai tuoi uomini.
 mno_choice_16_3|Ignorali.
-; menu_event_17|You are travelling through the forest and you suddenly spot a lot of mushrooms, cowered in spider web, and with an awful smell. What do you do?
+menu_event_17|Stai viaggiando attraverso la foresta e improvvisamente trovi molti funghi, ammassati in una ragnatela, e con un terribile odore. Cosa vuoi fare?
 mno_choice_17_1|Raccoglili e mangiali.
 mno_choice_17_2|Raccoglili e dalli ai tuoi uomini.
 mno_choice_17_3|Ignorali.
-; menu_event_18|You rest near a village, when the local elders wife approaches you. The wife wants to sleep with you, while her husband is away.
+menu_event_18|Sosti vicino ad un villaggio, quando la sposa dell' Anziano del Villaggio ti si avvicina. La sposa vuole dormire con te, mentre suo marito è lontano.
 mno_choice_18_1|Sono d'accordo.
 ; mno_choice_18_2|You send one of your men to rape the wife.
 mno_choice_18_3|Rifiuto.
-; menu_event_19|You stumble over a group of beggars that are being attacked by a group of bandits.
-; mno_choice_19_1|Rush to the aid of the beggars and teach those bloody bandits not to disturb the poor.
-; mno_choice_19_2|Aid the bandits and bathe in the blood of the beggars!
-; menu_event_20|You happen to find a purse filled with coins.
-; mno_choice_20_1|Give the purse to a hospice.
-; mno_choice_20_2|Keep the purse.
-; menu_event_21|You come across some runaway serfs.
-; mno_choice_21_1|Help them on their way.
-; mno_choice_21_2|Return them to their master.
+menu_event_19|Incontrate un gruppo di mendicanti che è sta per essere attaccato da un gruppo di banditi.
+mno_choice_19_1|Correte in aiuto dei mendicanti e insegnate a quei banditi sanguinari di non disturbare i poveri.
+mno_choice_19_2|Aiutate i banditi e fate un bagno di sangue tra i mendicanti!
+menu_event_20|Trovate una borsa piena di monete.
+mno_choice_20_1|Donate la borsa a un ospizio.
+mno_choice_20_2|Tenete la borsa.
+menu_event_21|Vi imbattete in alcuni servi in fuga.
+mno_choice_21_1|Aiutateli nel loro cammino.
+mno_choice_21_2|Riportateli al propietario.
 ; menu_event_22|You come upon bandits ambushing some merchants.
 ; mno_choice_22_1|Chase the bandits away.
 mno_choice_22_2|Aiuta i banditi.
-; menu_event_23|Your fame and popularity has attracted young noblemen to your cause.
+menu_event_23|La vostra fama e popolarità ha attirato giovani nobili alla vostra causa.
 mno_choice_23_1|Accettali.
 mno_choice_23_2|Non ho bisogno di altri uomini.
-; menu_event_24|You spot a poor man on the road. He looks tired. You send one of your men to ask him why he is in the wilderness alone. He says that outlaws robbed him and if he doesnt get some money soon to buy food, he will starve. He says he served in the army once, and will make a loyal warrior.
-; mno_choice_24_1|Life is not fair, give him nothing.
-; mno_choice_24_2|Give him money only to eat a very small meal. At least he'll live.
-; mno_choice_24_3|Give him a ton! Every one deserves to eat.
-; mno_choice_24_4|Give him money and a horse, to ride home.
-; mno_choice_24_5|Pay him and suggest he join your army, he looks able after all.
-; menu_event_25|You encounter a small child, dressed in rags and looking very hungry. He walks up to you and begs for some food.
+menu_event_24|Individui un pover uomo sulla strada. Egli appare stanco. Invii uno dei tuoi uomini per chiedergli perchè è in questa zona sperduta da solo. Egli risponde che dei fuorilegge lo hanno derubato e se non si procurerà dei soldi per comprare del cibo, morirà di fame. Egli afferma che ha servito l'esercito una volta, e sarà un guerriero leale.
+mno_choice_24_1|La vita è ingiusta, non dargli nulla.
+mno_choice_24_2|Dai del denaro sufficente solo per un piccolo pasto. Almeno vivrà.
+mno_choice_24_3|Dategli un tonno! Ognuno merita di mangiare.
+mno_choice_24_4|Dategli dei soldi e un cavallo, per tornare a casa.
+mno_choice_24_5|Pagatelo e suggeriscigli di unirsi al vostro esercito, sembra in grado, dopo tutto.
+menu_event_25|Hai incontrato un bambino piccolo, vestito di stracci e che sembra molto affamato. Cammina vicino a voi e implora per un po' di cibo.
 mno_choice_25_1|Non dargli nulla.
 mno_choice_25_2|Dai al ragazzo 100 monete.
 mno_choice_25_3|Dai al ragazzo un sacco di 500 monete.
-; menu_event_26|A group of bandits approaches your camp. As your men reach for their weapons, the bandits put down their weapons and say they come in peace. The leader of the bandits approaches you and asks if they may join you.
-; mno_choice_26_1|Of course! My party always welcomes bloodthirsty men!
-; mno_choice_26_2|We have no room for your kind!
+menu_event_26|Un gruppo di banditi si avvicina al vostro campo. Mentre i vostri uomini si armano, i banditi gettano a terra le loro armi e dicono di venire in pace. Il capo dei banditi si avvicina e  chiede se possono unirsi a voi.
+mno_choice_26_1|Naturalmente! La mia compagnia accoglie sempre uomini assetati di sangue!
+mno_choice_26_2|Non abbiamo spazio per gente come voi!
 ; mno_choice_26_3|Prove yourselves worthy by raiding a village and bringing me the elders head!
 mno_choice_26_4|Uccideli tutti!
-; menu_event_27|A religous fanatic from Oldtown is following your army. While he gains some converts, he also creates some unrest.
+menu_event_27|Un fanatico Religioso di Oldtown sta seguendo il vostro esercito. Mentre cerca di convertire alcuni dei vostri uomini, crea anche una certa agitazione.
 ; mno_choice_27_1|Thank the heavens! Let him be.
 mno_choice_27_2|Offrigli un posto nella tua compagnia.
 mno_choice_27_3|Sbarazzati di lui.
-; menu_event_28|A religous fanatic from Volantis is following your army. While he gains some converts he also creates some unrest.
+menu_event_28|Un fanatico Religioso di Volantis sta seguendo il vostro esercito. Mentre cerca di convertire alcuni dei vostri uomini, crea anche una certa agitazione.
 ; mno_choice_28_1|Thanks be to R'hllor! Let him be!
 mno_choice_28_2|Offrigli un posto nella tua compagnia.
 mno_choice_28_3|Sbarazzati di lui.
-; menu_event_29|You come upon a temple. The priests are busy working or praying, none of them is armed. You see golden treasures and silver tributes glistening inside...
+menu_event_29|Giungi ad un tempio. I preti sono impegnati a lavorare o a pregare, nessuno di loro è armato. Vedi tesori dorati e tributi in argento luccicare all'interno...
 mno_choice_29_1|Passa dal tempio.
 mno_choice_29_2|Vai dentro, prega e paga un tributo di 500 monete.
 mno_choice_29_3|Saccheggia il tempio, massacra tutti i sacerdoti e brucia il posto!
 ; menu_event_30|You come upon a local septry. The brothers are busy working or praying, none of them is armed. You see gold treasures and silver tributes glistening inside...
 ; mno_choice_30_1|Pass by the septry.
-; mno_choice_30_2|Go inside, pray and pay a tribute of 500 coins.
-; mno_choice_30_3|Loot the septry, slaughter the brothers and burn the place!
-; menu_event_31|Some of your enemies have taken refuge in a nearby septry and the local septon have given them sanctuary!
+mno_choice_30_2|Vai dentro, prega e paga un tributo di 500 monete.
+mno_choice_30_3|Saccheggia il septry, massacra tutti i sacerdoti e brucia il posto!
+menu_event_31|Alcuni vostri nemici si sono rifugiati in un septry vicino e il Septon locale ha dato loro rifugio!
 mno_choice_31_1|Ignorali.
-; mno_choice_31_2|Donate 100 coins to the septry.
-; mno_choice_31_3|Go inside, slaughter them and kill the interfering septon!
+mno_choice_31_2|Donate 100 monete al septry.
+mno_choice_31_3|Entrate, massacrateli e uccidete il septon se osa interferire!
 menu_event_32|Incontri la tomba di un re vecchio e dimenticato.
 mno_choice_32_1|Saccheggia la tomba!
 mno_choice_32_2|Dona 1000 monete per una nuova tomba.
-; mno_choice_32_3|Enter the tomb and pay your respects
-; menu_event_33|In the local tavern you come across a young scholar who claims his master is chronicling the great and notable events of this land.He offers, for a small fee of 300 coins, to convince his master to overlook your notoriety for incessant raping, pillaging, and general debauchery, and instead depict you as a something closer to Baelor the Blessed or a champion for the poor and oppressed or a heroic champion - whichever you prefer.
+mno_choice_32_3|Entrate nella tomba e rendete omaggio
+menu_event_33|Nella taverna locale incontri un giovane studioso che sostiene che il suo maestro è colui che diffonde i più grandi e importanti eventi di questa terra. Egli ti offre, per una piccola tassa di 300 monete, di convincere il suo maestro a trascurare la tua notorietà per stupro incessante, saccheggio, e dissolutezza generale, e invece di dipingerti come qualcosa più simile a Baelor il Benedetto o un paladino dei poveri e degli oppressi o un campione eroico - qualunque tu preferisca.
 ; mno_choice_33_1|You decide to ignore him, muttering that you are content to let history be the judge.
 ; mno_choice_33_2|You pay the young man what he asks for.
 ; mno_choice_33_3|You gladly pay the man his fee.
 ; mno_choice_33_4|After listening impatiently to the man, you scold him, remarking that you have never heard of a more pathetic scam in your life.
-; menu_event_34|You pass through a local village which appears to be suffering through some hard times.To give the village a boost, you announce that you will sponsor a sewing and embroidery contest for the gentle ladyfolk of the countryside and will reward handsomely the one who can produce the brightest, most fashionable, yet suitably manly, new tunic.
+menu_event_34|Passi attraverso un villaggio locale che sembra soffrire a causa di tempi duri. Per dare una spinta di entusiasmo al villaggio, annunci che sponsorizzerai una gara di cucito e ricamo per le dolci fanciulle della campagna e verrà ricompensata colei che riuscirà a produrre la più luminosa, la più alla moda, ma pur sempre virile, nuova tunica,.
 ; mno_choice_34_1|Declare the prettiest girl in town to be the winner, instructing her to present herself at your tent.
 ; mno_choice_34_2|Scold the village elder for not treating the matter seriously. Declaring that these rags are not fit for dishcloths, you storm out of the town.
 ; mno_choice_34_3|You collect various coloured tunics brought to you and amusingly think to yourself that these would be good to use for blankets or for some type of washcloth. You still pay the winner 500 coins.
-; menu_event_35|While reviewing the latest reconnaissance reports with your men, you whimsically remark that passing through the beautiful countryside makes you wish you could one day cast aside your sword settle down on your own land with some local buxom wench and spend the rest of your days making babies and growing wheat...To which one of your men retorts that this was hardly likely, as your body odour is legendary and everyone knows wheat only grows when attended by peasants.
-; mno_choice_35_1|Laugh heartily at his witty comment.
-; mno_choice_35_2|You glare at the young man and your mood suddenly turns for the worse, but later, on reflection, you realise that he was probably right.
-; mno_choice_35_3|You manage to force a smile while your comrades laughter surrounds you, and while no one is looking, you give the secret wink to your most trusted man. The young comedians head will soon adorn a spike.
-; menu_event_36|You come across what are, evidently, stray sheep from a nearby village
+menu_event_35|Mentre rivedi gli ultimi rapporti di ricognizione con i vostri uomini, tu ostinatamente sottolinei che passare attraverso la bellissima campagna ti fa desiderare di poter un giorno mettere da parte la spada e stabilirti sul tuo terreno con qualche fanciulla prosperosa locale e passare il resto dei tuoi giorni a fare i bambini e coltivazione del grano... Al che uno dei vostri uomini ribatte che questa cosa sarebbe poco probabile, in quanto il tuo sudore è leggendario, e tutti sanno che il grano cresce solo quando esso esce dalla fronte dei contadini.
+mno_choice_35_1|Ridi di cuore al il suo commento spiritoso.
+mno_choice_35_2|Fissi il giovane e improvvisamente il tuo umore diventa peggiore, ma in seguito, riflettendoci, realizzi che probabilmente aveva ragione.
+mno_choice_35_3|Riesci ad fingere un sorriso, mentre le risate dei tuoi compagni ti circondano, e mentre nessuno sta guardando, dai un'occhiata di intesa al tuo uomo più fidato. La testa del giovane comico adornerà presto una picca.
+menu_event_36|Ti imbatti in quel che sono, evidentemente, pecore smarrite di un villaggio vicino.
 ; mno_choice_36_1|Return the sheep to the village and ask for no reward.
 ; mno_choice_36_2|Return the sheep... for a price.
 ; mno_choice_36_3|Dinner! Round up and slaughter the animals.
-; menu_event_37|A traveller tells you where to find a band of travelling mummers, recently arrived.
+menu_event_37|Un viaggiatore ti dice dove poter trovare un gruppo di mimi erranti recentemente arrivati.
 ; mno_choice_37_1|You attack the small caravan, easily slaughtering the hapless mummers, leaving few survivors.
 mno_choice_37_2|Domanda un tributo.
 ; mno_choice_37_3|Disperse the mummers and claim all their possessions as your own, leaving them only their lives.
 ; mno_choice_37_4|Help them on their way, giving them 200 coins. They depart praising your name.
 mno_choice_37_5|Ignorali.
-; menu_event_38|A traveller tells you where to find a band of begging brothers.
+menu_event_38|Un viaggiatore ti informa dove poter trovare un gruppo di fratelli mendicanti.
 ; mno_choice_38_1|You attack the small enclave, easily slaughtering the hapless brothers, leaving few survivors.
 mno_choice_38_2|Domanda un tributo.
 ; mno_choice_38_3|Disperse the brothers and claim all their possessions as your own, leaving them only their lives.
 ; mno_choice_38_4|Help them on their way, and give them 500 coins. They depart praising your name.
 mno_choice_38_5|Ignorali.
-; menu_event_39|A traveller tells you where to find a small band of outlaws.
+menu_event_39|Un viaggiatore ti dice dove puoi trovare un piccolo gruppo di fuorilegge.
 ; mno_choice_39_1|You ambush them, easily slaughtering the hapless outlaws, leaving few survivors.
 mno_choice_39_2|Domanda un tributo.
 ; mno_choice_39_3|Disperse the outlaws and claim all their possessions as your own, leaving them only their lives.
 ; mno_choice_39_4|Help them on their way, and give them 500 gold. They depart praising your name.
 mno_choice_39_5|Ignorali.
-; menu_event_40|One of your soldiers rapes the daughter of a local peasant.
+menu_event_40|Uno dei tuoi soldati stupra la figlia di un paesano del posto.
 mno_choice_40_1|Ignora la situazione.
 mno_choice_40_2|Castra il soldato.
 ; mno_choice_40_3|Execute the soldier and apologize for the incident.
 mno_choice_40_4|Paga 250 denari i paesani per il loro silenzio.
-; menu_event_41|One of your soldiers succumbs to his wounds from a previous battle.
+menu_event_41|Uno dei tuoi soldati soccombe a causa delle sue ferite rimediate da una battaglia precedente.
 ; mno_choice_41_1|Take his kit and his gold. He was, afterall, just a soldier, and all he owns belongs to you.
 ; mno_choice_41_2|Give the soldiers belongings to his family.
 ; mno_choice_41_3|Give the widow 550 coins.
-; menu_event_42|One of your new recruits dies from an illness. He carries both a seven pointed star, and a tattoo of R'hllors flames. No one knows what he preferred most.
+menu_event_42|Una delle tue nuove reclute è morta per una malattia. Egli porta con se sia la stella a sette punte, sia un tatuaggio delle fiamme di R'hllor. Nessuno sa cosa quale religione preferiva.
 ; mno_choice_42_1|Burn him and donate 1000 coins to the Temple of the Lord of Light.
 ; mno_choice_42_2|Bury him and donate 1000 coins to the Starry Sept.
-; mno_choice_42_3|Just leave him lying there.
+mno_choice_42_3|Lascialo semplicemente giacere lì.
 menu_recruit_nobles|{s18}
-; menu_world_map_soldier|What do you need to do soldier?
+menu_world_map_soldier|Che cosa dovete fare soldato?
 mno_join_commander_battle|Segui il comandante in battaglia.
 mno_enter_town|Entra nella città in cui stazioni.
 mno_commander|Richiedi un udienza con il tuo comandante.
@@ -1228,16 +1228,16 @@ mno_revolt|Rivoltati contro il comandante!
 mno_revolt_disabled|Non è possibile ribellarsi ora. Aspetta il momento giusto.
 mno_desert|Deserta dall'esercito. (Mantieni l'equipaggiamento ma rovini le relazioni)
 mno_return_to_duty|Torna al tuo dovere.
-; menu_commander_aud|Your request for a meeting is relayed to your commander's camp, and finally {s6} appears from his tent to speak with you.
+menu_commander_aud|La tua richiesta per un incontro è inviata all'accampamento del tuo comandante, e finalmente {s6} appare dalla sua tenda per parlare con te.
 mno_reject_talk_lord|No, non importa.
 menu_ask_revolt|Sei sicuro di volere ribellarti?
-; mno_confirm_revolt|Yes, {s6} will be the death of us all, it is time to act!
+mno_confirm_revolt|Sì, {s6} sarà la morte di noi tutti, è tempo di agire!
 mno_reject_revolt|No, sono leale a {s6}.
 menu_revolt|Desideri rilasciare i prigionieri per aiutare i tuoi uomini?
-; mno_revolt_prisoners|Yes, I will take the risk for a greater advantage.
+mno_revolt_prisoners|Sì, correrò il rischio per un più grande vantaggio.
 mno_revolt_no_prisoners|No, non mi fido dei prigionieri.
 menu_ask_desert|Vuoi disertare?
-; mno_confirm_desert|Yes, this is pointless.
+mno_confirm_desert|Sì, è superfluo.
 mno_reject_desert|No, io sono fedele al mio comandante.
 menu_desert|Mentre eri nell'esercito hai fatto alcuni buoni amici. Alcuni forse potrebbero seguirti.
 mno_desert_party|Cerca di convincerli a seguirti.

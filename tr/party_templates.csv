@@ -1,0 +1,137 @@
+pt_none|none
+pt_rescued_prisoners|Kurtarılmış Esirler
+pt_enemy|Düşman
+; pt_hero_party|Hero Party
+; pt_village_defenders|Village Defenders
+; pt_village_defenders_r|Village Defenders
+; pt_village_defenders_e|Village Defenders
+; pt_cattle_herd|Cattle Herd
+; pt_nemesis|Hired Blades
+; pt_nemesis2|Hired Blades
+; pt_looters|Looters
+; pt_manhunters|Manhunters
+; pt_forest_bandits|Forest Bandits
+; pt_taiga_bandits|Wildlings
+; pt_steppe_bandits|Dothraki Raiders
+; pt_sea_raiders|Lyseni Pirates
+; pt_mountain_bandits|Mountain Bandits
+; pt_desert_bandits|Outlaws
+; pt_looters_r|Looters
+; pt_manhunters_r|Manhunters
+; pt_forest_bandits_r|Forest Bandits
+; pt_taiga_bandits_r|Tundra Bandits
+; pt_steppe_bandits_r|Steppe Bandits
+; pt_sea_raiders_r|Sea Raiders
+; pt_mountain_bandits_r|Mountain Bandits
+; pt_desert_bandits_r|Desert Bandits
+; pt_looters_e|Looters
+; pt_manhunters_e|Honorable Men
+; pt_forest_bandits_e|Forest Bandits
+; pt_taiga_bandits_e|Wildlings
+; pt_steppe_bandits_e|Dothraki Raiders
+; pt_sea_raiders_e|Pirates
+; pt_mountain_bandits_e|Mountain Bandits
+; pt_desert_bandits_e|Outlaws
+; pt_deserters|Broken Men
+; pt_slaver|Slavers
+; pt_escaped_slaves|Escaped Slaves
+; pt_clansmen|Clansmen
+; pt_raiders|Raiders
+; pt_outlaws|Outlaws
+; pt_rhoyne_outlaws|Rhoyne Outlaws
+; pt_crannogmen|Crannogmen
+; pt_elite_raiders|Robber Knights
+; pt_elite_wildlings|Wildlings
+; pt_elite_dothraki|Dothraki Raiders
+; pt_beowulf_warband|The Brave Companions
+; pt_wildfire_wights|Wights
+; pt_new_template|The Bastard of Bolton
+; pt_tattered_prince|The Company of the Cat
+; pt_arrians|The Outlaw of the Crossing
+; pt_bloodstone_pirates|The Prince of Bloodstone
+; pt_clansman_quest|The Sons of the Mist
+; pt_cheese_rustlers|Grain Thieves
+; pt_cheese_paladins|Wine Thieves
+; pt_scholars|Scholars
+; pt_bandits_awaiting_ransom2|Bandits Awaiting Ransom
+; pt_smugglers|Smugglers
+; pt_kidnapped_wife|Miller's Wife
+; pt_merchant_caravan|Merchant Caravan
+; pt_troublesome_bandits|Troublesome Outlaws
+; pt_bandits_awaiting_ransom|Outlaws Awaiting Ransom
+; pt_merchant_caravan_r|Merchant Caravan
+; pt_troublesome_bandits_r|Troublesome Bandits
+; pt_bandits_awaiting_ransom_r|Bandits Awaiting Ransom
+; pt_merchant_caravan_e|Merchant Caravan
+; pt_troublesome_bandits_e|Troublesome Outlaws
+; pt_bandits_awaiting_ransom_e|Outlaws Awaiting Ransom
+; pt_kidnapped_girl|Kidnapped Maiden
+; pt_village_farmers|Village Farmers
+; pt_spy_partners|Unremarkable Travellers
+; pt_runaway_serfs|Runaway Farmers
+; pt_village_farmers_r|Village Farmers
+; pt_spy_partners_r|Unremarkable Travellers
+; pt_runaway_serfs_r|Runaway Serfs
+; pt_village_farmers_e|Village Farmers
+; pt_spy_partners_e|Unremarkable Travellers
+; pt_runaway_serfs_e|Runaway Farmers
+; pt_spy|Ordinary Townsman
+; pt_sacrificed_messenger|Sacrificed Messenger
+; pt_forager_party|Foraging Party
+; pt_scout_party|Scouts
+; pt_patrol_party|Patrol
+; pt_messenger_party|Messenger
+; pt_raider_party|Raiders
+; pt_raider_captives|Raider Captives
+; pt_kingdom_caravan_party|Caravan
+; pt_raider_captives_r|Raider Captives
+; pt_kingdom_caravan_party_r|Caravan
+; pt_raider_captives_e|Raider Captives
+; pt_kingdom_caravan_party_e|Caravan
+; pt_prisoner_train_party|Prisoner Train
+; pt_sea_traders|Merchant Ship
+; pt_sea_traders_r|Merchant Ship
+; pt_sea_traders_e|Merchant Ship
+; pt_ship|Ship
+; pt_default_prisoners|Default Prisoners
+; pt_default_prisoners_r|Default Prisoners
+; pt_default_prisoners_e|Default Prisoners
+; pt_routed_warriors|Routed Enemies
+; pt_center_reinforcements|Reinforcements
+; pt_center_reinforcements_r|Reinforcements
+; pt_center_reinforcements_e|Reinforcements
+; pt_kingdom_hero_party|War Party
+; pt_steppe_bandit_lair|Steppe Bandit Lair
+; pt_taiga_bandit_lair|Tundra Bandit Lair
+; pt_desert_bandit_lair|Desert Bandit Lair
+; pt_forest_bandit_lair|Forest Bandit Camp
+; pt_mountain_bandit_lair|Mountain Bandit Hideout
+; pt_sea_raider_lair|Sea Raider Landing
+; pt_looter_lair|Kidnappers' Hideout
+; pt_leaded_looters|Band of robbers
+; pt_steppe_bandit_lair_r|Steppe Bandit Lair
+; pt_taiga_bandit_lair_r|Tundra Bandit Lair
+; pt_desert_bandit_lair_r|Desert Bandit Lair
+; pt_forest_bandit_lair_r|Forest Bandit Camp
+; pt_mountain_bandit_lair_r|Mountain Bandit Hideout
+; pt_sea_raider_lair_r|Sea Raider Landing
+; pt_looter_lair_r|Kidnappers' Hideout
+; pt_leaded_looters_r|Band of robbers
+; pt_steppe_bandit_lair_e|Steppe Bandit Lair
+; pt_taiga_bandit_lair_e|Tundra Bandit Lair
+; pt_desert_bandit_lair_e|Desert Bandit Lair
+; pt_forest_bandit_lair_e|Forest Bandit Camp
+; pt_mountain_bandit_lair_e|Mountain Bandit Hideout
+; pt_sea_raider_lair_e|Sea Raider Landing
+; pt_looter_lair_e|Kidnappers' Hideout
+; pt_leaded_looters_e|Band of robbers
+; pt_dplmc_spouse|Your spouse
+; pt_dplmc_gift_caravan|Your Caravan
+; pt_dplmc_gift_caravan_r|Your Caravan
+; pt_dplmc_gift_caravan_e|Your Caravan
+; pt_dplmc_recruiter|Recruiter
+; pt_entrench|Entrenchment
+; pt_reinforcements|Reinforcements
+; pt_sea_raiders_ships|Lyseni Pirates
+; pt_sea_raiders_ships_r|Lyseni Pirates
+; pt_sea_raiders_ships_e|Lyseni Pirates

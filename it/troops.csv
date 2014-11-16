@@ -10,8 +10,8 @@ trp_random_town_sequence|Random Town Sequence
 trp_random_town_sequence_pl|Random Town Sequence
 trp_tournament_participants|Partecipanti al torneo
 trp_tournament_participants_pl|Partecipanti al torneo
-trp_tutorial_maceman|Mazziere
-trp_tutorial_maceman_pl|Mazzieri
+trp_tutorial_maceman|Soldato con Mazza
+trp_tutorial_maceman_pl|Soldati con Mazza
 trp_tutorial_archer|Arciere
 trp_tutorial_archer_pl|Arcieri
 trp_tutorial_swordsman|Spadaccino
@@ -46,90 +46,90 @@ trp_arena_training_fighter_10|Campione Combattente
 trp_arena_training_fighter_10_pl|Campioni Combattenti
 trp_cattle|Mandria
 trp_cattle_pl|Mandrie
-; trp_mercenary_n_townsman|Rebelous Townsman
-; trp_mercenary_n_townsman_pl|Rebelous Townsmen
-; trp_mercenary_r_townsman|Caravan Guard
-; trp_mercenary_r_townsman_pl|Caravan Guard
-; trp_mercenary_r_extra1|I1 Rebelous Townsman
-; trp_mercenary_r_extra1_pl|I1 Rebelous Townsmen
-; trp_mercenary_r_extra2|I1 Adventurous Townsman
-; trp_mercenary_r_extra2_pl|I1 Adventurous Townsmen
-; trp_mercenary_r_extra3|I1 Begrudged Townsman
-; trp_mercenary_r_extra3_pl|I1 Begrudged Townsmen
-; trp_mercenary_r_extra4|I1 Travelling Townsman
-; trp_mercenary_r_extra4_pl|I1 Travelling Townsmen
-; trp_mercenary_r_extra5|I1 Docile Townsman
-; trp_mercenary_r_extra5_pl|I1 Docile Townsmen
+trp_mercenary_n_townsman|Cittadino Ribelle
+trp_mercenary_n_townsman_pl|Cittadini Ribelli
+trp_mercenary_r_townsman|Guardia della Carovana
+trp_mercenary_r_townsman_pl|Guardie della Carovana
+trp_mercenary_r_extra1|I1 Cittadino Ribelle
+trp_mercenary_r_extra1_pl|I1 Cittadini Ribelli
+trp_mercenary_r_extra2|I1 Cittadino Avventuriere
+trp_mercenary_r_extra2_pl|I1 Cittadini Avventurieri
+trp_mercenary_r_extra3|I1 Cittadino Rancoroso
+trp_mercenary_r_extra3_pl|I1 Cittadini Rancorosi
+trp_mercenary_r_extra4|I1 Cittadino Viaggiatore
+trp_mercenary_r_extra4_pl|I1 Cittadini Viaggiatori
+trp_mercenary_r_extra5|I1 Cittadino Mansueto
+trp_mercenary_r_extra5_pl|I1 Cittadini Mansueti
 trp_mercenary_e_townsman|Cittadino
 trp_mercenary_e_townsman_pl|Cittadini
 trp_mercenary_e_farmer|Contadino
 trp_mercenary_e_farmer_pl|Contadini
-; trp_mercenary_e_miliz|Sellsword Swordsman
-; trp_mercenary_e_miliz_pl|Sellsword Swordsmen
-; trp_mercenary_e_edelknecht|Veteran Sellsword Swordsman
-; trp_mercenary_e_edelknecht_pl|Veteran Sellsword Swordsmen
-; trp_mercenary_e_spiessknecht|Elite Sellsword Swordsman
-; trp_mercenary_e_spiessknecht_pl|Elite Sellsword Swordsmen
-; trp_mercenary_e_armbruster|Sellsword Spearman
-; trp_mercenary_e_armbruster_pl|Sellsword Spearmen
-; trp_mercenary_e_brabanzon|Veteran Sellsword Spearman
-; trp_mercenary_e_brabanzon_pl|Veteran Sellsword Spearmen
-; trp_mercenary_e_burger|Elite Sellsword Spearman
-; trp_mercenary_e_burger_pl|Elite Sellsword Spearman
-; trp_mercenary_e_volksheer|Sellsword Archer
-; trp_mercenary_e_volksheer_pl|Sellsword Archers
-; trp_mercenary_e_halberdier|Veteran Sellsword Archer
-; trp_mercenary_e_halberdier_pl|Veteran Sellsword Archers
-; trp_mercenary_e_page|Elite Sellsword Archer
-; trp_mercenary_e_page_pl|Elite Sellsword Archers
-; trp_mercenary_e_armbrust_soldner|Sellsword Crossbowman
-; trp_mercenary_e_armbrust_soldner_pl|Sellsword Crossbowmen
-; trp_mercenary_e_armbrust_miliz|Veteran Sellsword Crossbowman
-; trp_mercenary_e_armbrust_miliz_pl|Veteran Sellsword Crossbowmen
-; trp_mercenary_e_ritterbroeder|Elite Sellsword Crossbowman
-; trp_mercenary_e_ritterbroeder_pl|Elite Sellsword Crossbowmen
-; trp_mercenary_e_soldner|Freerider
-; trp_mercenary_e_soldner_pl|Freeriders
-; trp_mercenary_e_reichslandser|Squire
-; trp_mercenary_e_reichslandser_pl|Squires
-; trp_mercenary_e_ritter|Hedge Knight
-; trp_mercenary_e_ritter_pl|Hedge Knights
-; trp_mercenary_e_armbrust_komtur|Sellsword Maceman
-; trp_mercenary_e_armbrust_komtur_pl|Sellsword Macemen
-; trp_mercenary_e_doppelsoldner|Veteran Sellsword Maceman
-; trp_mercenary_e_doppelsoldner_pl|Veteran Sellsword Macemen
-; trp_mercenary_e_komtur|Elite Sellsword Maceman
-; trp_mercenary_e_komtur_pl|Elite Sellsword Macemen
-; trp_mercenary_e_burgmann|Dornish Sellsword Spearman
-; trp_mercenary_e_burgmann_pl|Dornish Sellsword Spearmen
-; trp_mercenary_e_komtur_ritter|Veteran Dornish Sellsword Spearman
-; trp_mercenary_e_komtur_ritter_pl|Veteran Dornish Sellsword Spearmen
-; trp_mercenary_e_kreuzritter|Elite Dornish Sellsword Spearman
-; trp_mercenary_e_kreuzritter_pl|Elite Dornish Sellsword Spearmen
-; trp_mercenary_e_grosskomtur|Dornish Sellsword Skirmisher
-; trp_mercenary_e_grosskomtur_pl|Dornish Sellsword Skirmishers
-; trp_mercenary_e_landsknecht|Ironborn Sellsword Swordsman
-; trp_mercenary_e_landsknecht_pl|Ironborn Sellsword Swordsmen
-; trp_mercenary_e_hochmeister|Mounted Sellsword Archer
-; trp_mercenary_e_hochmeister_pl|Mounted Sellsword Archers
-; trp_mercenary_e_extra1|I1 Rebelous Townsman
-; trp_mercenary_e_extra1_pl|I1 Rebelous Townsmen
-; trp_mercenary_e_extra2|I1 Adventurous Townsman
-; trp_mercenary_e_extra2_pl|I1 Adventurous Townsmen
-; trp_mercenary_e_extra3|I1 Begrudged Townsman
-; trp_mercenary_e_extra3_pl|I1 Begrudged Townsmen
-; trp_mercenary_e_extra4|I1 Travelling Townsman
-; trp_mercenary_e_extra4_pl|I1 Travelling Townsmen
-; trp_mercenary_e_extra5|I1 Docile Townsman
-; trp_mercenary_e_extra5_pl|I1 Docile Townsmen
+trp_mercenary_e_miliz|Spadaccino Mercenario
+trp_mercenary_e_miliz_pl|Spadaccini Mercenari
+trp_mercenary_e_edelknecht|Spadaccino Mercenario Veterano
+trp_mercenary_e_edelknecht_pl|Spadaccini Mercenari Veterani
+trp_mercenary_e_spiessknecht|Spadaccino Mercenario d'Elite
+trp_mercenary_e_spiessknecht_pl|Spadaccini Mercenari d'Elite
+trp_mercenary_e_armbruster|Lanciere Mercenario
+trp_mercenary_e_armbruster_pl|Lancieri Mercenari
+trp_mercenary_e_brabanzon|Lanciere Mercenario Veterano
+trp_mercenary_e_brabanzon_pl|Lancieri Mercenari Veterani
+trp_mercenary_e_burger|Lanciere Mercenario d'Elite
+trp_mercenary_e_burger_pl|Lancieri Mercenari d'Elite
+trp_mercenary_e_volksheer|Arciere Mercenario
+trp_mercenary_e_volksheer_pl|Arcieri Mercenari
+trp_mercenary_e_halberdier|Arciere Mercenario Veterano
+trp_mercenary_e_halberdier_pl|Arcieri Mercenari Veterani
+trp_mercenary_e_page|Arciere Mercenario d'Elite
+trp_mercenary_e_page_pl|Arcieri Mercenari d'Elite
+trp_mercenary_e_armbrust_soldner|Balestriere Mercenario
+trp_mercenary_e_armbrust_soldner_pl|Balestrieri Mercenari
+trp_mercenary_e_armbrust_miliz|Balestriere Mercenario Veterano
+trp_mercenary_e_armbrust_miliz_pl|Balestrieri Mercenari Veterani
+trp_mercenary_e_ritterbroeder|Balestriere Mercenario d'Elite
+trp_mercenary_e_ritterbroeder_pl|Balestrieri Mercenari d'Elite
+trp_mercenary_e_soldner|Soldato Errante
+trp_mercenary_e_soldner_pl|Soldati Erranti
+trp_mercenary_e_reichslandser|Scudiero
+trp_mercenary_e_reichslandser_pl|Scudieri
+trp_mercenary_e_ritter|Cavaliere Errante
+trp_mercenary_e_ritter_pl|Cavalieri Erranti
+trp_mercenary_e_armbrust_komtur|Mercenario con Mazza
+trp_mercenary_e_armbrust_komtur_pl|Mercenari con Mazza
+trp_mercenary_e_doppelsoldner|Mercenario con Mazza Veterano
+trp_mercenary_e_doppelsoldner_pl|Mercenari con Mazza Veterani
+trp_mercenary_e_komtur|Mercenario con Mazza d'Elite
+trp_mercenary_e_komtur_pl|Mercenari con Mazza d'Elite
+trp_mercenary_e_burgmann|Lanciere Mercenario di Dorne
+trp_mercenary_e_burgmann_pl|Lancieri Mercenari di Dorne
+trp_mercenary_e_komtur_ritter|Lanciere Mercenario Veterano di Dorne
+trp_mercenary_e_komtur_ritter_pl|Lancieri Mercenari Veterani di Dorne
+trp_mercenary_e_kreuzritter|Lanciere Mercenario d'Elite di Dorne
+trp_mercenary_e_kreuzritter_pl|Lancieri Mercenari d'Elite di Dorne
+trp_mercenary_e_grosskomtur|Schermagliatore Mercenario di Dorne
+trp_mercenary_e_grosskomtur_pl|Schermagliatori Mercenari di Dorne
+trp_mercenary_e_landsknecht|Spadaccino Mercenario di Ferro
+trp_mercenary_e_landsknecht_pl|Spadaccini Mercenari di Ferro
+trp_mercenary_e_hochmeister|Arciere Mercenario a Cavallo
+trp_mercenary_e_hochmeister_pl|Arcieri Mercenari a Cavallo
+trp_mercenary_e_extra1|I1 Cittadino Ribelle
+trp_mercenary_e_extra1_pl|I1 Cittadini Ribelli
+trp_mercenary_e_extra2|I1 Cittadino Avventuriere
+trp_mercenary_e_extra2_pl|I1 Cittadini Avventurieri
+trp_mercenary_e_extra3|I1 Cittadino Rancoroso
+trp_mercenary_e_extra3_pl|I1 Cittadini Rancorosi
+trp_mercenary_e_extra4|I1 Cittadino Viaggiatore
+trp_mercenary_e_extra4_pl|I1 Cittadini Viaggiatori
+trp_mercenary_e_extra5|I1 Cittadino Mansueto
+trp_mercenary_e_extra5_pl|I1 Cittadini Mansueti
 trp_mercenaries_end|mercenaries end
 trp_mercenaries_end_pl|mercenaries end
-; trp_swadian_r_peasant|I1 Swadian Peasant
-; trp_swadian_r_peasant_pl|I1 Swadian Peasants
-; trp_swadian_n_peasant|I1 Swadian Peasant
-; trp_swadian_n_peasant_pl|I1 Swadian Peasants
-; trp_swadian_e_peasant|I1 Swadian Peasant
-; trp_swadian_e_peasant_pl|I1 Swadian Peasants
+trp_swadian_r_peasant|I1 Contadino di Swadia
+trp_swadian_r_peasant_pl|I1 Contadini di Swadia
+trp_swadian_n_peasant|I1 Contadino di Swadia
+trp_swadian_n_peasant_pl|I1 Contadini di Swadia
+trp_swadian_e_peasant|I1 Contadino di Swadia
+trp_swadian_e_peasant_pl|I1 Contadini di Swadia
 trp_swadian_messenger|Messaggero di Swadia
 trp_swadian_messenger_pl|Messaggeri di Swadia
 trp_swadian_deserter|Disertore di Swadia
@@ -140,12 +140,12 @@ trp_swadian_castle_guard|Guardia del Castello
 trp_swadian_castle_guard_pl|Guardie del Castello
 trp_stormlands_castle_guard|Guardia del Castello
 trp_stormlands_castle_guard_pl|Guardie del Castello
-; trp_northern_castle_guard|Household Guard
-; trp_northern_castle_guard_pl|Household Guards
+trp_northern_castle_guard|Guardia della Casata
+trp_northern_castle_guard_pl|Guardie della Casata
 trp_vale_castle_guard|Guardia del Castello
 trp_vale_castle_guard_pl|Guardie del Castello
-; trp_braavosi_castle_guard|Sealords Guard
-; trp_braavosi_castle_guard_pl|Sealords Guard
+trp_braavosi_castle_guard|Guardia del Signore del Mare
+trp_braavosi_castle_guard_pl|Guardie del Signore del Mare
 trp_riverlands_castle_guard|Guardia del Castello
 trp_riverlands_castle_guard_pl|Guardie del Castello
 trp_dornish_castle_guard|Guardia del Castello
@@ -156,120 +156,120 @@ trp_westerlands_castle_guard|Guardia del Castello
 trp_westerlands_castle_guard_pl|Guardie del Castello
 trp_reach_castle_guard|Guardia del Castello
 trp_reach_castle_guard_pl|Guardie del Castello
-; trp_ironborn_castle_guard|Household Guard
-; trp_ironborn_castle_guard_pl|Household Guards
-; trp_pentos_castle_guard|City Watchman
-; trp_pentos_castle_guard_pl|City Watchmen
-; trp_tyrosh_castle_guard|City Watchman
-; trp_tyrosh_castle_guard_pl|City Watchmen
-; trp_myr_castle_guard|City Watchmen
-; trp_myr_castle_guard_pl|City Watchmen
-; trp_lys_castle_guard|City Watchman
-; trp_lys_castle_guard_pl|City Watchmen
-; trp_volantis_castle_guard|Tiger Guard
-; trp_volantis_castle_guard_pl|Tiger Guards
-; trp_norvos_castle_guard|Holy Guard
-; trp_norvos_castle_guard_pl|Holy Guards
-; trp_lorath_castle_guard|City Watchman
-; trp_lorath_castle_guard_pl|City Watchmen
-; trp_sister_castle_guard|Household Guard
-; trp_sister_castle_guard_pl|Household Guards
+trp_ironborn_castle_guard|Guardia della Casata
+trp_ironborn_castle_guard_pl|Guardie della Casata
+trp_pentos_castle_guard|Sentinella Cittadina
+trp_pentos_castle_guard_pl|Sentinelle Cittadina
+trp_tyrosh_castle_guard|Sentinella Cittadina
+trp_tyrosh_castle_guard_pl|Sentinelle Cittadina
+trp_myr_castle_guard|Sentinelle Cittadina
+trp_myr_castle_guard_pl|Sentinelle Cittadina
+trp_lys_castle_guard|Sentinella Cittadina
+trp_lys_castle_guard_pl|Sentinelle Cittadina
+trp_volantis_castle_guard|Guardia del Triarca
+trp_volantis_castle_guard_pl|Guardie del Triarca
+trp_norvos_castle_guard|Guardia Santa
+trp_norvos_castle_guard_pl|Guardie Sante
+trp_lorath_castle_guard|Sentinella Cittadina
+trp_lorath_castle_guard_pl|Sentinelle Cittadina
+trp_sister_castle_guard|Guardia della Casata
+trp_sister_castle_guard_pl|Guardie della Casata
 trp_targaryen_castle_guard|Guardia del Castello
 trp_targaryen_castle_guard_pl|Guardie del Castello
 trp_wildling_castle_guard|Guardia del Castello
 trp_wildling_castle_guard_pl|Guardie del Castello
 trp_dothraki_castle_guard|Guardia del Castello
 trp_dothraki_castle_guard_pl|Guardie del Castello
-; trp_stormlands_messenger|Stormlands Messenger
-; trp_stormlands_messenger_pl|Stormlands Messengers
+trp_stormlands_messenger|Messaggero della Tempesta
+trp_stormlands_messenger_pl|Messaggeri della Tempesta
 trp_stormlands_prison_guard|Carcieriere
 trp_stormlands_prison_guard_pl|Carcierieri
-; trp_northern_messenger|Northern Messenger
-; trp_northern_messenger_pl|Northern Messengers
+trp_northern_messenger|Messaggero del Nord
+trp_northern_messenger_pl|Messaggeri del Nord
 trp_northern_prison_guard|Carcieriere
 trp_northern_prison_guard_pl|Carcierieri
-; trp_vale_messenger|Vale Messenger
-; trp_vale_messenger_pl|Vale Messengers
+trp_vale_messenger|Messaggero della Valle
+trp_vale_messenger_pl|Messaggeri della Valle
 trp_vale_prison_guard|Carcieriere
 trp_vale_prison_guard_pl|Carcierieri
-; trp_riverlands_messenger|Riverlands Messenger
-; trp_riverlands_messenger_pl|Riverlands Messengers
+trp_riverlands_messenger|Messaggero dei Fiumi
+trp_riverlands_messenger_pl|Messaggeri dei Fiumi
 trp_riverlands_prison_guard|Carcieriere
 trp_riverlands_prison_guard_pl|Carcierieri
-; trp_dornish_messenger|Dornish Messenger
-; trp_dornish_messenger_pl|Dornish Messengers
+trp_dornish_messenger|Messaggero di Dorne
+trp_dornish_messenger_pl|Messaggeri di Dorne
 trp_dornish_prison_guard|Carcieriere
 trp_dornish_prison_guard_pl|Carcierieri
-; trp_dragonstone_messenger|Dragonstone Messenger
-; trp_dragonstone_messenger_pl|Dragonstone Messengers
+trp_dragonstone_messenger|Messaggero di Roccia del Drago
+trp_dragonstone_messenger_pl|Messaggeri di Roccia del Drago
 trp_dragonstone_prison_guard|Carcieriere
 trp_dragonstone_prison_guard_pl|Carcierieri
-; trp_westerlands_messenger|Westerlands Messenger
-; trp_westerlands_messenger_pl|Westerlands Messengers
+trp_westerlands_messenger|Messaggero delle Terre dell'Ovest
+trp_westerlands_messenger_pl|Messaggeri delle Terre dell'Ovest
 trp_westerlands_prison_guard|Carcieriere
 trp_westerlands_prison_guard_pl|Carcierieri
-; trp_reach_messenger|Reach Messenger
-; trp_reach_messenger_pl|Reach Messengers
+trp_reach_messenger|Messaggero dell'Altopiano
+trp_reach_messenger_pl|Messaggeri dell'Altopiano
 trp_reach_prison_guard|Carcieriere
 trp_reach_prison_guard_pl|Carcierieri
-; trp_ironborn_messenger|Ironborn Messenger
-; trp_ironborn_messenger_pl|Ironborn Messengers
+trp_ironborn_messenger|Messaggero di Ferro
+trp_ironborn_messenger_pl|Messaggeri di Ferro
 trp_ironborn_prison_guard|Carcieriere
 trp_ironborn_prison_guard_pl|Carcierieri
-; trp_sister_messenger|Sisterman Messenger
-; trp_sister_messenger_pl|Sisterman Messengers
+trp_sister_messenger|Messaggero delle Sorelle
+trp_sister_messenger_pl|Messaggeri delle Sorelle
 trp_sister_prison_guard|Carcieriere
 trp_sister_prison_guard_pl|Carcierieri
-; trp_targaryen_messenger|Targaryen Messenger
-; trp_targaryen_messenger_pl|Targaryen Messengers
+trp_targaryen_messenger|Messaggero di Targaryen
+trp_targaryen_messenger_pl|Messaggeri di Targaryen
 trp_targaryen_prison_guard|Carcieriere
 trp_targaryen_prison_guard_pl|Carcierieri
-; trp_braavosi_messenger|Braavosi Messenger
-; trp_braavosi_messenger_pl|Braavosi Messengers
+trp_braavosi_messenger|Messaggero di Braavos
+trp_braavosi_messenger_pl|Messaggeri di Braavos
 trp_braavosi_prison_guard|Carcieriere
 trp_braavosi_prison_guard_pl|Carcierieri
-; trp_pentos_messenger|Pentoshi Messenger
-; trp_pentos_messenger_pl|Pentoshi Messengers
+trp_pentos_messenger|Messaggero di Pentos
+trp_pentos_messenger_pl|Messaggeri di Pentos
 trp_pentos_prison_guard|Carcieriere
 trp_pentos_prison_guard_pl|Carcierieri
-; trp_tyrosh_messenger|Tyroshi Messenger
-; trp_tyrosh_messenger_pl|Tyroshi Messengers
+trp_tyrosh_messenger|Messaggero di Tyrosh
+trp_tyrosh_messenger_pl|Messaggeri di Tyrosh
 trp_tyrosh_prison_guard|Carcieriere
 trp_tyrosh_prison_guard_pl|Carcierieri
-; trp_myr_messenger|Myrman Messenger
-; trp_myr_messenger_pl|Myrman Messengers
+trp_myr_messenger|Messaggero di Myr
+trp_myr_messenger_pl|Messaggeri di Myr
 trp_myr_prison_guard|Carcieriere
 trp_myr_prison_guard_pl|Carcierieri
-; trp_lys_messenger|Lyseni Messenger
-; trp_lys_messenger_pl|Lyseni Messengers
+trp_lys_messenger|Messaggero di Lys
+trp_lys_messenger_pl|Messaggeri di Lys
 trp_lys_prison_guard|Carcieriere
 trp_lys_prison_guard_pl|Carcierieri
-; trp_volantis_messenger|Volantene Messenger
-; trp_volantis_messenger_pl|Volantene Messengers
+trp_volantis_messenger|Messaggero di Volantis
+trp_volantis_messenger_pl|Messaggeri di Volantis
 trp_volantis_prison_guard|Carcieriere
 trp_volantis_prison_guard_pl|Carcierieri
-; trp_norvos_messenger|Norvoshi Messenger
-; trp_norvos_messenger_pl|Norvoshi Messengers
+trp_norvos_messenger|Messaggero di Norvos
+trp_norvos_messenger_pl|Messaggeri di Norvos
 trp_norvos_prison_guard|Carcieriere
 trp_norvos_prison_guard_pl|Carcierieri
-; trp_lorath_messenger|Lorathi Messenger
-; trp_lorath_messenger_pl|Lorathi Messengers
+trp_lorath_messenger|Messaggero di Lorath
+trp_lorath_messenger_pl|Messaggero di Lorath
 trp_lorath_prison_guard|Carcieriere
 trp_lorath_prison_guard_pl|Carcierieri
-; trp_wildling_messenger|Wildling Messenger
-; trp_wildling_messenger_pl|Wildling Messengers
+trp_wildling_messenger|Messaggero dei Bruti
+trp_wildling_messenger_pl|Messaggeri dei Bruti
 trp_wildling_prison_guard|Carcieriere
 trp_wildling_prison_guard_pl|Carcierieri
-; trp_dothraki_messenger|Dothraki Messenger
-; trp_dothraki_messenger_pl|Dothraki Messengers
+trp_dothraki_messenger|Messaggero Dothraki
+trp_dothraki_messenger_pl|Messaggeri Dothraki
 trp_dothraki_prison_guard|Carcieriere
 trp_dothraki_prison_guard_pl|Carcierieri
-; trp_vaegir_n_kholop|Vaegir Recruit
-; trp_vaegir_n_kholop_pl|Vaegir Recruits
-; trp_vaegir_r_kholop|I1 Vaegir Kholop
-; trp_vaegir_r_kholop_pl|I1 Vaegir Kholopy
-; trp_vaegir_e_kholop|I1 Vaegir Kholop
-; trp_vaegir_e_kholop_pl|I1 Vaegir Kholopy
+trp_vaegir_n_kholop|Vaegir recluta
+trp_vaegir_n_kholop_pl|Vaegir reclute
+trp_vaegir_r_kholop|I1 Vaegir Kholop
+trp_vaegir_r_kholop_pl|I1 Vaegir Kholopy
+trp_vaegir_e_kholop|I1 Vaegir Kholop
+trp_vaegir_e_kholop_pl|I1 Vaegir Kholopy
 trp_vaegir_messenger|Messaggero Vaegir
 trp_vaegir_messenger_pl|Messaggeri Vaegir
 trp_vaegir_deserter|Disertore Vaegir
@@ -278,10 +278,10 @@ trp_vaegir_prison_guard|Carcieriere
 trp_vaegir_prison_guard_pl|Carcierieri
 trp_vaegir_castle_guard|Guardia del Castello
 trp_vaegir_castle_guard_pl|Guardie del Castello
-; trp_khergit_n_tariachin|Khergit Tribesman
-; trp_khergit_n_tariachin_pl|Khergit Tribesmen
-; trp_khergit_e_tariachin|I1 Khergit Tariachin
-; trp_khergit_e_tariachin_pl|I1 Khergit Tariachinuud
+trp_khergit_n_tariachin|Khergit tribu
+trp_khergit_n_tariachin_pl|Tribù Khergit
+trp_khergit_e_tariachin|I1 Khergit Tariachin
+trp_khergit_e_tariachin_pl|I1 Khergit Tariachinuud
 trp_khergit_messenger|Messaggero Khergit
 trp_khergit_messenger_pl|Messaggeri Khergit
 trp_khergit_deserter|Disertore Khergit
@@ -290,76 +290,76 @@ trp_khergit_prison_guard|Carcieriere
 trp_khergit_prison_guard_pl|Carcierieri
 trp_khergit_castle_guard|Guardia del Castello
 trp_khergit_castle_guard_pl|Guardie del Castello
-; trp_nord_n_bondi|Nord Recruit
-; trp_nord_n_bondi_pl|Nord Recruits
-; trp_nord_r_bondi|I1 Nord Bondi
-; trp_nord_r_bondi_pl|I1 Nord Bondir
-; trp_nord_e_bondi|I1 Nord Bondi
-; trp_nord_e_bondi_pl|I1 Nord Bondir
-; trp_nord_e_berserkr|I2 Nord Berserkr
-; trp_nord_e_berserkr_pl|I2 Nord Berserkir
-; trp_nord_e_huskarl|I2 Nord Huskarl
-; trp_nord_e_huskarl_pl|I2 Nord Huskarlar
-; trp_nord_e_kertilsveinr|I3 Nord Kertilsveinr
-; trp_nord_e_kertilsveinr_pl|I3 Nord Kertilsveinar
-; trp_nord_e_bogmadur|A3 Nord Bogmadur
-; trp_nord_e_bogmadur_pl|A3 Nord Bogmadurar
-; trp_nord_e_gesith|A3 Nord Gesith
-; trp_nord_e_gesith_pl|A3 Nord Gesiths
-; trp_nord_e_gridman|I3 Nord Gridman
-; trp_nord_e_gridman_pl|I3 Nord Gridmen
-; trp_nord_e_ascoman|A4 Nord Ascoman
-; trp_nord_e_ascoman_pl|A4 Nord Ascomen
-; trp_nord_e_vikingr|I4 Nord Vikingr
-; trp_nord_e_vikingr_pl|I4 Nord Vikingar
-; trp_nord_e_einhleyping|I4 Nord Einhleyping
-; trp_nord_e_einhleyping_pl|I4 Nord Einhleypingar
-; trp_nord_e_bogsveigir|A4 Nord Bogsveigir
-; trp_nord_e_bogsveigir_pl|A4 Nord Bogsveigar
-; trp_nord_e_hermadur|A4 Nord Hermadur
-; trp_nord_e_hermadur_pl|A4 Nord Hermadurar
-; trp_nord_e_innaesmaen|I4 Nord Innaesmaen
-; trp_nord_e_innaesmaen_pl|I4 Nord Innaesmaener
-; trp_nord_e_vigamadr|I4 Nord Vigamadr
-; trp_nord_e_vigamadr_pl|I4 Nord Vigamadar
-; trp_nord_e_heimthegi|A5 Nord Heimthegi
-; trp_nord_e_heimthegi_pl|A5 Nord Heimthegir
-; trp_nord_e_hirdman|I5 Nord Hirdman
-; trp_nord_e_hirdman_pl|I5 Nord Hirdmen
-; trp_nord_e_lausaman|I5 Nord Lausaman
-; trp_nord_e_lausaman_pl|I5 Nord Lausamen
-; trp_nord_e_heahgerefa|A5 Nord Heahgerefa
-; trp_nord_e_heahgerefa_pl|A5 Nord Heahgerefar
-; trp_nord_e_himthige|I5 Nord Himthige
-; trp_nord_e_himthige_pl|I5 Nord Himthiger
-; trp_nord_e_kappi|I5 Nord Kappi
-; trp_nord_e_kappi_pl|I5 Nord Kappir
-; trp_nord_e_skjadsveinn|I5 Nord Skjadsveinn
-; trp_nord_e_skjadsveinn_pl|I5 Nord Skjadsveinnar
-; trp_nord_e_skutilsveinr|I6 Nord Skutilsveinr
-; trp_nord_e_skutilsveinr_pl|I6 Nord Skutilsveinar
-; trp_nord_e_ealdorman|A6 Nord Ealdorman
-; trp_nord_e_ealdorman_pl|A6 Nord Ealdormen
-; trp_nord_e_erfane_himthige|I6 Nord Erfarne Himthige
-; trp_nord_e_erfane_himthige_pl|I6 Nord Erfarne Himthiger
-; trp_nord_e_hetja|I6 Nord Hetja
-; trp_nord_e_hetja_pl|I6 Nord Erfarne Hetjar
-; trp_nord_e_husbondi|I6 Nord Husbondi
-; trp_nord_e_husbondi_pl|I6 Nord Husbondir
-; trp_nord_e_aetheling|I7 Nord Aetheling
-; trp_nord_e_aetheling_pl|I7 Nord Aethelinger
-; trp_nord_e_vaeringi|I7 Nord Vaeringi
-; trp_nord_e_vaeringi_pl|I7 Nord Vaeringir
-; trp_nord_e_extra1|I1 Rebelous Nord Bondi
-; trp_nord_e_extra1_pl|I1 Rebelous Nord Bondir
-; trp_nord_e_extra2|I1 Adventurous Nord Bondi
-; trp_nord_e_extra2_pl|I1 Adventurous Nord Bondir
-; trp_nord_e_extra3|I1 Begrudged Nord Bondi
-; trp_nord_e_extra3_pl|I1 Begrudged Nord Bondir
-; trp_nord_e_extra4|I1 Travelling Nord Bondi
-; trp_nord_e_extra4_pl|I1 Travelling Nord Bondir
-; trp_nord_e_extra5|I1 Docile Nord Bondi
-; trp_nord_e_extra5_pl|I1 Docile Nord Bondir
+trp_nord_n_bondi|Recluta nord
+trp_nord_n_bondi_pl|Reclute del Nord
+trp_nord_r_bondi|I1 Nord Bondi
+trp_nord_r_bondi_pl|I1 Nord Bondir
+trp_nord_e_bondi|I1 Nord Bondi
+trp_nord_e_bondi_pl|I1 Nord Bondir
+trp_nord_e_berserkr|I2 Nord Berserkr
+trp_nord_e_berserkr_pl|I2 Nord Berserkir
+trp_nord_e_huskarl|I2 Nord Huskarl
+trp_nord_e_huskarl_pl|I2 Nord Huskarlar
+trp_nord_e_kertilsveinr|I3 Nord Kertilsveinr
+trp_nord_e_kertilsveinr_pl|I3 Nord Kertilsveinar
+trp_nord_e_bogmadur|A3 Nord Bogmadur
+trp_nord_e_bogmadur_pl|A3 Nord Bogmadurar
+trp_nord_e_gesith|A3 Nord Gesith
+trp_nord_e_gesith_pl|A3 Nord Gesiths
+trp_nord_e_gridman|I3 Nord Gridman
+trp_nord_e_gridman_pl|I3 Nord Gridmen
+trp_nord_e_ascoman|A4 Nord Ascoman
+trp_nord_e_ascoman_pl|A4 Nord Ascomen
+trp_nord_e_vikingr|I4 Nord Vikingr
+trp_nord_e_vikingr_pl|I4 Nord Vikingar
+trp_nord_e_einhleyping|I4 Nord Einhleyping
+trp_nord_e_einhleyping_pl|I4 Nord Einhleypingar
+trp_nord_e_bogsveigir|A4 Nord Bogsveigir
+trp_nord_e_bogsveigir_pl|A4 Nord Bogsveigar
+trp_nord_e_hermadur|A4 Nord Hermadur
+trp_nord_e_hermadur_pl|A4 Nord Hermadurar
+trp_nord_e_innaesmaen|I4 Nord Innaesmaen
+trp_nord_e_innaesmaen_pl|I4 Nord Innaesmaener
+trp_nord_e_vigamadr|I4 Nord Vigamadr
+trp_nord_e_vigamadr_pl|I4 Nord Vigamadar
+trp_nord_e_heimthegi|A5 Nord Heimthegi
+trp_nord_e_heimthegi_pl|A5 Nord Heimthegir
+trp_nord_e_hirdman|I5 Nord Hirdman
+trp_nord_e_hirdman_pl|I5 Nord Hirdmen
+trp_nord_e_lausaman|I5 Nord Lausaman
+trp_nord_e_lausaman_pl|I5 Nord Lausamen
+trp_nord_e_heahgerefa|A5 Nord Heahgerefa
+trp_nord_e_heahgerefa_pl|A5 Nord Heahgerefar
+trp_nord_e_himthige|I5 Nord Himthige
+trp_nord_e_himthige_pl|I5 Nord Himthiger
+trp_nord_e_kappi|I5 Nord Kappi
+trp_nord_e_kappi_pl|I5 Nord Kappir
+trp_nord_e_skjadsveinn|I5 Nord Skjadsveinn
+trp_nord_e_skjadsveinn_pl|I5 Nord Skjadsveinnar
+trp_nord_e_skutilsveinr|I6 Nord Skutilsveinr
+trp_nord_e_skutilsveinr_pl|I6 Nord Skutilsveinar
+trp_nord_e_ealdorman|A6 Nord Ealdorman
+trp_nord_e_ealdorman_pl|A6 Nord Ealdormen
+trp_nord_e_erfane_himthige|I6 Nord Erfarne Himthige
+trp_nord_e_erfane_himthige_pl|I6 Nord Erfarne Himthiger
+trp_nord_e_hetja|I6 Nord Hetja
+trp_nord_e_hetja_pl|I6 Nord Erfarne Hetjar
+trp_nord_e_husbondi|I6 Nord Husbondi
+trp_nord_e_husbondi_pl|I6 Nord Husbondir
+trp_nord_e_aetheling|I7 Nord Aetheling
+trp_nord_e_aetheling_pl|I7 Nord Aethelinger
+trp_nord_e_vaeringi|I7 Nord Vaeringi
+trp_nord_e_vaeringi_pl|I7 Nord Vaeringir
+trp_nord_e_extra1|I1 Pietro Nord Bondi
+trp_nord_e_extra1_pl|I1 Pietro Nord Bondir
+trp_nord_e_extra2|I1 Avventuroso Nord Bondi
+trp_nord_e_extra2_pl|I1 Avventuroso Nord Bondir
+trp_nord_e_extra3|I1 Invidiò Nord Bondi
+trp_nord_e_extra3_pl|I1 Invidiò Nord Bondir
+trp_nord_e_extra4|I1 Viaggio Nord Bondi
+trp_nord_e_extra4_pl|I1 Viaggio Nord Bondir
+trp_nord_e_extra5|I1 Docile Nord Bondi
+trp_nord_e_extra5_pl|I1 Docile Nord Bondir
 trp_nord_messenger|Messaggero Nords
 trp_nord_messenger_pl|Messaggeri Nords
 trp_nord_deserter|Disertore Nords
@@ -368,138 +368,138 @@ trp_nord_prison_guard|Carcieriere
 trp_nord_prison_guard_pl|Carcierieri
 trp_nord_castle_guard|Guardia del Castello
 trp_nord_castle_guard_pl|Guardie del Castello
-; trp_rhodok_n_cittadino|Rhodok Tribesman
-; trp_rhodok_n_cittadino_pl|Rhodok Tribesmen
+trp_rhodok_n_cittadino|Rhodok Tribesman
+trp_rhodok_n_cittadino_pl|Rhodok Tribesmen
 trp_rhodok_n_novizio|Rhodok Spearman
 trp_rhodok_n_novizio_pl|Rhodok Spearmen
 trp_rhodok_n_recluta_balestriere|Rhodok Crossbowman
 trp_rhodok_n_recluta_balestriere_pl|Rhodok Crossbowmen
-; trp_rhodok_n_milizia|Rhodok Trained Spearman
-; trp_rhodok_n_milizia_pl|Rhodok Trained Spearmen
-; trp_rhodok_n_milizia_balestriere|Rhodok Trained Crossbowman
-; trp_rhodok_n_milizia_balestriere_pl|Rhodok Trained Crossbowmen
-; trp_rhodok_n_fante|Rhodok Veteran Spearman
-; trp_rhodok_n_fante_pl|Rhodok Veteran Spearmen
-; trp_rhodok_n_balestriere|Rhodok Veteran Crossbowman
-; trp_rhodok_n_balestriere_pl|Rhodok Veteran Crossbowmen
+trp_rhodok_n_milizia|Rhodok Trained Spearman
+trp_rhodok_n_milizia_pl|Rhodok Trained Spearmen
+trp_rhodok_n_milizia_balestriere|Rhodok Trained Crossbowman
+trp_rhodok_n_milizia_balestriere_pl|Rhodok Trained Crossbowmen
+trp_rhodok_n_fante|Lanciere veterano Rhodok
+trp_rhodok_n_fante_pl|Rhodok Veteran Spearmen
+trp_rhodok_n_balestriere|Rhodok Veteran Crossbowman
+trp_rhodok_n_balestriere_pl|Rhodok Veteran Crossbowmen
 trp_rhodok_n_veterano|Rhodok Sergeant
 trp_rhodok_n_veterano_pl|Rhodok Sergeants
-; trp_rhodok_n_balestriere_veterano|Rhodok Sharpshooter
-; trp_rhodok_n_balestriere_veterano_pl|Rhodok Sharpshooters
-; trp_rhodok_n_extra1|Rebelous Rhodok Tribesman
-; trp_rhodok_n_extra1_pl|Rebelous Rhodok Tribesmen
-; trp_rhodok_n_extra2|Adventurous Rhodok Tribesman
-; trp_rhodok_n_extra2_pl|Adventurous Rhodok Tribesmen
-; trp_rhodok_n_extra3|Begrudged Rhodok Tribesman
-; trp_rhodok_n_extra3_pl|Begrudged Rhodok Tribesmen
-; trp_rhodok_n_extra4|Travelling Rhodok Tribesman
-; trp_rhodok_n_extra4_pl|Travelling Rhodok Tribesmen
-; trp_rhodok_n_extra5|Docile Rhodok Tribesman
-; trp_rhodok_n_extra5_pl|Docile Rhodok Tribesmen
-; trp_rhodok_r_cittadino|I1 Rhodok Cittadino
-; trp_rhodok_r_cittadino_pl|I1 Rhodok Cittadini
-; trp_rhodok_r_novizio|I2 Rhodok Novizio
-; trp_rhodok_r_novizio_pl|I2 Rhodok Novizi
-; trp_rhodok_r_recluta|I2 Rhodok Recluta
-; trp_rhodok_r_recluta_pl|I2 Rhodok Reclute
-; trp_rhodok_r_lanciere_a_cavallo|C3 Rhodok Lanciere a Cavallo
-; trp_rhodok_r_lanciere_a_cavallo_pl|C3 Rhodok Lancieri a Cavalli
-; trp_rhodok_r_recluta_balestriere|A3 Rhodok Recluta Balestriere
-; trp_rhodok_r_recluta_balestriere_pl|A3 Rhodok Reclute Balestrieri
-; trp_rhodok_r_lanciere|I3 Rhodok Lanciere
-; trp_rhodok_r_lanciere_pl|I3 Rhodok Lancieri
-; trp_rhodok_r_lanza_spezzata|C4 Rhodok Lanza Spezzata
-; trp_rhodok_r_lanza_spezzata_pl|C4 Rhodok Lanze Spezzati
-; trp_rhodok_r_balestriere|A4 Rhodok Balestriere
-; trp_rhodok_r_balestriere_pl|A4 Rhodok Balestrieri
-; trp_rhodok_r_balestriere_leggero|A4 Rhodok Balestriere Leggero
-; trp_rhodok_r_balestriere_leggero_pl|A4 Rhodok Balestrieri Leggeri
-; trp_rhodok_r_lanciere_veterano|I4 Rhodok Lanciere Veterano
-; trp_rhodok_r_lanciere_veterano_pl|I4 Rhodok Lancieri Veterani
-; trp_rhodok_r_fante|I4 Rhodok Fante
-; trp_rhodok_r_fante_pl|I4 Rhodok Fanti
-; trp_rhodok_r_balestriere_veterano|A5 Rhodok Balestriere Veterano
-; trp_rhodok_r_balestriere_veterano_pl|A5 Rhodok Balestrieri Veterani
-; trp_rhodok_r_balestriere_d_assedio|A5 Rhodok Balestriere d'Assedio
-; trp_rhodok_r_balestriere_d_assedio_pl|A5 Rhodok Balestrieri d'Assedi
-; trp_rhodok_r_picchiere_veterano|I5 Rhodok Picchiere Veterano
-; trp_rhodok_r_picchiere_veterano_pl|I5 Rhodok Picchieri Veterani
-; trp_rhodok_r_capitano_d_assedio|A6 Rhodok Capitano d'Assedio
-; trp_rhodok_r_capitano_d_assedio_pl|A6 Rhodok Capitani d'Assedi
-; trp_rhodok_r_extra1|I1 Rebelous Rhodok Cittadino
-; trp_rhodok_r_extra1_pl|I1 Rebelous Rhodok Cittadini
-; trp_rhodok_r_extra2|I1 Adventurous Rhodok Cittadino
-; trp_rhodok_r_extra2_pl|I1 Adventurous Rhodok Cittadini
-; trp_rhodok_r_extra3|I1 Begrudged Rhodok Cittadino
-; trp_rhodok_r_extra3_pl|I1 Begrudged Rhodok Cittadini
-; trp_rhodok_r_extra4|I1 Travelling Rhodok Cittadino
-; trp_rhodok_r_extra4_pl|I1 Travelling Rhodok Cittadini
-; trp_rhodok_r_extra5|I1 Docile Rhodok Cittadino
-; trp_rhodok_r_extra5_pl|I1 Docile Rhodok Cittadini
-; trp_rhodok_e_cittadino|I1 Rhodok Cittadino
-; trp_rhodok_e_cittadino_pl|I1 Rhodok Cittadini
-; trp_rhodok_e_novizio|I2 Rhodok Novizio
-; trp_rhodok_e_novizio_pl|I2 Rhodok Novizi
-; trp_rhodok_e_recluta|I2 Rhodok Recluta
-; trp_rhodok_e_recluta_pl|I2 Rhodok Reclute
-; trp_rhodok_e_milizia|I3 Rhodok Milizia
-; trp_rhodok_e_milizia_pl|I3 Rhodok Milizie
-; trp_rhodok_e_milizia_balestriere|A3 Rhodok Milizia Balestriere
-; trp_rhodok_e_milizia_balestriere_pl|A3 Rhodok Milizie Balestrieri
-; trp_rhodok_e_recluta_balestriere|A3 Rhodok Recluta Balestriere
-; trp_rhodok_e_recluta_balestriere_pl|A3 Rhodok Reclute Balestrieri
-; trp_rhodok_e_lanciere|I3 Rhodok Lanciere
-; trp_rhodok_e_lanciere_pl|I3 Rhodok Lancieri
-; trp_rhodok_e_provisionato|I4 Rhodok Provisionato
-; trp_rhodok_e_provisionato_pl|I4 Rhodok Provisionati
-; trp_rhodok_e_fante|I4 Rhodok Fante
-; trp_rhodok_e_fante_pl|I4 Rhodok Fanti
-; trp_rhodok_e_balestriere|A4 Rhodok Balestriere
-; trp_rhodok_e_balestriere_pl|A4 Rhodok Balestrieri
-; trp_rhodok_e_balestriere_leggero|A4 Rhodok Balestriere Leggero
-; trp_rhodok_e_balestriere_leggero_pl|A4 Rhodok Balestrieri Leggeri
-; trp_rhodok_e_lanciere_veterano|I4 Rhodok Lanciere Veterano
-; trp_rhodok_e_lanciere_veterano_pl|I4 Rhodok Lancieri Veterani
-; trp_rhodok_e_lanciere_a_cavallo|C4 Rhodok Lanciere a Cavallo
-; trp_rhodok_e_lanciere_a_cavallo_pl|C4 Rhodok Lancieri a Cavalli
-; trp_rhodok_e_guardia|I5 Rhodok Guardia
-; trp_rhodok_e_guardia_pl|I5 Rhodok Guardie
-; trp_rhodok_e_veterano|I5 Rhodok Veterano
-; trp_rhodok_e_veterano_pl|I5 Rhodok Veterani
-; trp_rhodok_e_balestriere_veterano|A5 Rhodok Balestriere Veterano
-; trp_rhodok_e_balestriere_veterano_pl|A5 Rhodok Balestrieri Veterani
-; trp_rhodok_e_balestriere_d_assedio|A5 Rhodok Balestriere d'Assedio
-; trp_rhodok_e_balestriere_d_assedio_pl|A5 Rhodok Balestrieri d'Assedi
-; trp_rhodok_e_balestriere_a_cavallo|H5 Rhodok Balestriere a Cavallo
-; trp_rhodok_e_balestriere_a_cavallo_pl|H5 Rhodok Balestrieri a Cavalli
-; trp_rhodok_e_picchiere_veterano|I5 Rhodok Picchiere Veterano
-; trp_rhodok_e_picchiere_veterano_pl|I5 Rhodok Picchieri Veterani
-; trp_rhodok_e_lanza_spezzata|C5 Rhodok Lanza Spezzata
-; trp_rhodok_e_lanza_spezzata_pl|C5 Rhodok Lanze Spezzati
-; trp_rhodok_e_guardia_ducale|I6 Rhodok Guardia Ducale
-; trp_rhodok_e_guardia_ducale_pl|I6 Rhodok Guardie Ducali
-; trp_rhodok_e_capitano_di_ventura|I6 Rhodok Capitano di Ventura
-; trp_rhodok_e_capitano_di_ventura_pl|I6 Rhodok Capitani di Venturi
-; trp_rhodok_e_balestriere_pesante|A6 Rhodok Balestriere Pesante
-; trp_rhodok_e_balestriere_pesante_pl|A6 Rhodok Balestrieri Pesanti
-; trp_rhodok_e_capitano_d_assedio|A6 Rhodok Capitano d'Assedio
-; trp_rhodok_e_capitano_d_assedio_pl|A6 Rhodok Capitani d'Assedi
-; trp_rhodok_e_picchiere_fiammingo|I6 Rhodok Picchiere Fiammingo
-; trp_rhodok_e_picchiere_fiammingo_pl|I6 Rhodok Picchieri Fiamminghi
-; trp_rhodok_e_condottiero_d_assedio|A7 Rhodok Condottiero d'Assedio
-; trp_rhodok_e_condottiero_d_assedio_pl|A7 Rhodok Condottieri d'Assedi
-; trp_rhodok_e_condottiero|I7 Rhodok Condottiero
-; trp_rhodok_e_condottiero_pl|I7 Rhodok Condottieri
-; trp_rhodok_e_extra1|I1 Rebelous Rhodok Cittadino
-; trp_rhodok_e_extra1_pl|I1 Rebelous Rhodok Cittadini
-; trp_rhodok_e_extra2|I1 Adventurous Rhodok Cittadino
-; trp_rhodok_e_extra2_pl|I1 Adventurous Rhodok Cittadini
-; trp_rhodok_e_extra3|I1 Begrudged Rhodok Cittadino
-; trp_rhodok_e_extra3_pl|I1 Begrudged Rhodok Cittadini
-; trp_rhodok_e_extra4|I1 Travelling Rhodok Cittadino
-; trp_rhodok_e_extra4_pl|I1 Travelling Rhodok Cittadini
-; trp_rhodok_e_extra5|I1 Docile Rhodok Cittadino
-; trp_rhodok_e_extra5_pl|I1 Docile Rhodok Cittadini
+trp_rhodok_n_balestriere_veterano|Rhodok Sharpshooter
+trp_rhodok_n_balestriere_veterano_pl|Rhodok Sharpshooters
+trp_rhodok_n_extra1|Rebelous Rhodok Tribesman
+trp_rhodok_n_extra1_pl|Rebelous Rhodok Tribesmen
+trp_rhodok_n_extra2|Avventuroso Rhodok tribu
+trp_rhodok_n_extra2_pl|Rhodok avventuroso Tribesmen
+trp_rhodok_n_extra3|Rhodok tribu
+trp_rhodok_n_extra3_pl|Tribù Rhodok
+trp_rhodok_n_extra4|Viaggiando Rhodok tribu
+trp_rhodok_n_extra4_pl|Itinerante delle tribù Rhodok
+trp_rhodok_n_extra5|Docile Rhodok tribu
+trp_rhodok_n_extra5_pl|Rhodok docile Tribesmen
+trp_rhodok_r_cittadino|I1 Rhodok Cittadino
+trp_rhodok_r_cittadino_pl|I1 Rhodok Cittadini
+trp_rhodok_r_novizio|I2 Rhodok Novizio
+trp_rhodok_r_novizio_pl|I2 Rhodok Novizi
+trp_rhodok_r_recluta|I2 Rhodok Recluta
+trp_rhodok_r_recluta_pl|I2 Rhodok Reclute
+trp_rhodok_r_lanciere_a_cavallo|C3 Rhodok Lanciere a Cavallo
+trp_rhodok_r_lanciere_a_cavallo_pl|C3 Rhodok Lancieri un Cavalli
+trp_rhodok_r_recluta_balestriere|A3 Rhodok Recluta Balestriere
+trp_rhodok_r_recluta_balestriere_pl|A3 Rhodok Reclute Balestrieri
+trp_rhodok_r_lanciere|I3 Rhodok Lanciere
+trp_rhodok_r_lanciere_pl|I3 Rhodok Lancieri
+trp_rhodok_r_lanza_spezzata|C4 Rhodok Lanza Spezzata
+trp_rhodok_r_lanza_spezzata_pl|C4 Rhodok Lanze Spezzati
+trp_rhodok_r_balestriere|A4 Rhodok Balestriere
+trp_rhodok_r_balestriere_pl|A4 Rhodok Balestrieri
+trp_rhodok_r_balestriere_leggero|A4 Rhodok Balestriere Leggero
+trp_rhodok_r_balestriere_leggero_pl|A4 Rhodok Balestrieri Leggeri
+trp_rhodok_r_lanciere_veterano|I4 Rhodok Lanciere Veterano
+trp_rhodok_r_lanciere_veterano_pl|I4 Rhodok Lancieri Veterani
+trp_rhodok_r_fante|I4 Rhodok Fante
+trp_rhodok_r_fante_pl|I4 Rhodok Fanti
+trp_rhodok_r_balestriere_veterano|A5 Rhodok Balestriere Veterano
+trp_rhodok_r_balestriere_veterano_pl|A5 Rhodok Balestrieri Veterani
+trp_rhodok_r_balestriere_d_assedio|D'Assedio a5 Rhodok Balestriere
+trp_rhodok_r_balestriere_d_assedio_pl|D'Assedi a5 Rhodok Balestrieri
+trp_rhodok_r_picchiere_veterano|I5 Rhodok Picchiere Veterano
+trp_rhodok_r_picchiere_veterano_pl|I5 Rhodok Pichierri Veterani
+trp_rhodok_r_capitano_d_assedio|A6 Rhodok Capitano d'Assedio
+trp_rhodok_r_capitano_d_assedio_pl|A6 Rhodok Capitani d'Assedi
+trp_rhodok_r_extra1|I1 Pietro Rhodok Cittadino
+trp_rhodok_r_extra1_pl|I1 Pietro Rhodok Cittadini
+trp_rhodok_r_extra2|I1 Avventurosi Rhodok Cittadino
+trp_rhodok_r_extra2_pl|I1 Avventurosi Rhodok Cittadini
+trp_rhodok_r_extra3|I1 Invidiò Rhodok Cittadino
+trp_rhodok_r_extra3_pl|I1 Invidiò Rhodok Cittadini
+trp_rhodok_r_extra4|I1 Viaggio Rhodok Cittadino
+trp_rhodok_r_extra4_pl|I1 Viaggio Rhodok Cittadini
+trp_rhodok_r_extra5|I1 Docile Rhodok Cittadino
+trp_rhodok_r_extra5_pl|I1 Docile Rhodok Cittadini
+trp_rhodok_e_cittadino|I1 Rhodok Cittadino
+trp_rhodok_e_cittadino_pl|I1 Rhodok Cittadini
+trp_rhodok_e_novizio|I2 Rhodok Novizio
+trp_rhodok_e_novizio_pl|I2 Rhodok Novizi
+trp_rhodok_e_recluta|I2 Rhodok Recluta
+trp_rhodok_e_recluta_pl|I2 Rhodok Reclute
+trp_rhodok_e_milizia|I3 Rhodok Milizia
+trp_rhodok_e_milizia_pl|I3 Rhodok Milizie
+trp_rhodok_e_milizia_balestriere|A3 Rhodok Milizia Balestriere
+trp_rhodok_e_milizia_balestriere_pl|A3 Rhodok Milizie Balestrieri
+trp_rhodok_e_recluta_balestriere|A3 Rhodok Recluta Balestriere
+trp_rhodok_e_recluta_balestriere_pl|A3 Rhodok Reclute Balestrieri
+trp_rhodok_e_lanciere|I3 Rhodok Lanciere
+trp_rhodok_e_lanciere_pl|I3 Rhodok Lancieri
+trp_rhodok_e_provisionato|I4 Rhodok Provisionato
+trp_rhodok_e_provisionato_pl|I4 Rhodok Provisionati
+trp_rhodok_e_fante|I4 Rhodok Fante
+trp_rhodok_e_fante_pl|I4 Rhodok Fanti
+trp_rhodok_e_balestriere|A4 Rhodok Balestriere
+trp_rhodok_e_balestriere_pl|A4 Rhodok Balestrieri
+trp_rhodok_e_balestriere_leggero|A4 Rhodok Balestriere Leggero
+trp_rhodok_e_balestriere_leggero_pl|A4 Rhodok Balestrieri Leggeri
+trp_rhodok_e_lanciere_veterano|I4 Rhodok Lanciere Veterano
+trp_rhodok_e_lanciere_veterano_pl|I4 Rhodok Lancieri Veterani
+trp_rhodok_e_lanciere_a_cavallo|C4 Rhodok Lanciere a Cavallo
+trp_rhodok_e_lanciere_a_cavallo_pl|C4 Rhodok Lancieri un Cavalli
+trp_rhodok_e_guardia|I5 Rhodok Guardia
+trp_rhodok_e_guardia_pl|I5 Rhodok Guardie
+trp_rhodok_e_veterano|I5 Rhodok Veterano
+trp_rhodok_e_veterano_pl|I5 Rhodok Veterani
+trp_rhodok_e_balestriere_veterano|A5 Rhodok Balestriere Veterano
+trp_rhodok_e_balestriere_veterano_pl|A5 Rhodok Balestrieri Veterani
+trp_rhodok_e_balestriere_d_assedio|A5 D'Assedio Rhodok Balestriere
+trp_rhodok_e_balestriere_d_assedio_pl|A5 D'Assedi Rhodok Balestrieri
+trp_rhodok_e_balestriere_a_cavallo|H5 Rhodok Balestriere a Cavallo
+trp_rhodok_e_balestriere_a_cavallo_pl|H5 Rhodok Balestrieri un Cavalli
+trp_rhodok_e_picchiere_veterano|I5 Rhodok Picchiere Veterano
+trp_rhodok_e_picchiere_veterano_pl|I5 Rhodok Pichierri Veterani
+trp_rhodok_e_lanza_spezzata|C5 Rhodok Lanza Spezzata
+trp_rhodok_e_lanza_spezzata_pl|C5 Rhodok Lanze Spezzati
+trp_rhodok_e_guardia_ducale|I6 Rhodok Guardia Ducale
+trp_rhodok_e_guardia_ducale_pl|I6 Rhodok Guardie Ducali
+trp_rhodok_e_capitano_di_ventura|I6 Rhodok Capitano di Ventura
+trp_rhodok_e_capitano_di_ventura_pl|I6 Rhodok Capitani di Venturi
+trp_rhodok_e_balestriere_pesante|A6 Rhodok Balestriere Pesante
+trp_rhodok_e_balestriere_pesante_pl|A6 Rhodok Balestrieri trifasi
+trp_rhodok_e_capitano_d_assedio|A6 Rhodok Capitano d'Assedio
+trp_rhodok_e_capitano_d_assedio_pl|A6 Rhodok Capitani d'Assedi
+trp_rhodok_e_picchiere_fiammingo|I6 Rhodok Picchiere Fiammingo
+trp_rhodok_e_picchiere_fiammingo_pl|I6 Rhodok Pichierri Fiamminghi
+trp_rhodok_e_condottiero_d_assedio|A7 Rhodok Condottiero d'Assedio
+trp_rhodok_e_condottiero_d_assedio_pl|A7 Rhodok Condottieri d'Assedi
+trp_rhodok_e_condottiero|I7 Rhodok Condottiero
+trp_rhodok_e_condottiero_pl|I7 Rhodok Condottieri
+trp_rhodok_e_extra1|I1 Pietro Rhodok Cittadino
+trp_rhodok_e_extra1_pl|I1 Pietro Rhodok Cittadini
+trp_rhodok_e_extra2|I1 Avventurosi Rhodok Cittadino
+trp_rhodok_e_extra2_pl|I1 Avventurosi Rhodok Cittadini
+trp_rhodok_e_extra3|I1 Invidiò Rhodok Cittadino
+trp_rhodok_e_extra3_pl|I1 Invidiò Rhodok Cittadini
+trp_rhodok_e_extra4|I1 Viaggio Rhodok Cittadino
+trp_rhodok_e_extra4_pl|I1 Viaggio Rhodok Cittadini
+trp_rhodok_e_extra5|I1 Docile Rhodok Cittadino
+trp_rhodok_e_extra5_pl|I1 Docile Rhodok Cittadini
 trp_rhodok_messenger|Messaggero Rhodok
 trp_rhodok_messenger_pl|Messaggeri Rhodok
 trp_rhodok_deserter|Disertore Rhodok
@@ -508,570 +508,570 @@ trp_rhodok_prison_guard|Carcieriere
 trp_rhodok_prison_guard_pl|Carcierieri
 trp_rhodok_castle_guard|Guardia del Castello
 trp_rhodok_castle_guard_pl|Guardie del Castello
-; trp_sarranid_n_millet|Dornish Levy
-; trp_sarranid_n_millet_pl|Dornish Levies
-; trp_sarranid_n_ajam|Dornish Man-at-Arms
-; trp_sarranid_n_ajam_pl|Dornish Men-at-Arms
-; trp_sarranid_n_cemaat|Veteran Dornish Man-at-Arms
-; trp_sarranid_n_cemaat_pl|Veteran Dornish Men-at-Arms
-; trp_sarranid_n_jebelus|Dornish Skirmisher
-; trp_sarranid_n_jebelus_pl|Dornish Skirmishers
-; trp_sarranid_n_yerliyya|Elite Dornish Man-at-Arms
-; trp_sarranid_n_yerliyya_pl|Elite Dornish Men-at-Arms
-; trp_sarranid_n_timariot|Dornish Archer
-; trp_sarranid_n_timariot_pl|Dornish Archers
-; trp_sarranid_n_garip|Dornish Serjeant
-; trp_sarranid_n_garip_pl|Dornish Serjeants
-; trp_dorne_troop_1|Veteran Dornish Archer
-; trp_dorne_troop_1_pl|Veteran Dornish Archers
-; trp_sarranid_n_yeniceri|Mounted Dornish Archer
-; trp_sarranid_n_yeniceri_pl|Mounted Dornish Archers
-; trp_sarranid_n_kapikula|Mounted Dornish Skirmisher
-; trp_sarranid_n_kapikula_pl|Mounted Dornish Skirmisher
-; trp_sarranid_n_uluteci|Dornish Knight
-; trp_sarranid_n_uluteci_pl|Dornish Knight
-; trp_sarranid_n_millet1|Stormlands Levy
-; trp_sarranid_n_millet1_pl|Stormlands Levies
-; trp_sarranid_n_ajam1|Stormlands Man-at-Arms
-; trp_sarranid_n_ajam1_pl|Stormlands Men-at-Arms
-; trp_sarranid_n_cemaat1|Veteran Stormlands Man-at-Arms
-; trp_sarranid_n_cemaat1_pl|Veteran Stormlands Men-at-Arms
-; trp_sarranid_n_jebelus1|Stormlands Archer
-; trp_sarranid_n_jebelus1_pl|Stormlands Archers
-; trp_sarranid_n_yerliyya1|Elite Stormlands Man-at-Arms
-; trp_sarranid_n_yerliyya1_pl|Elite Stormlands Men-at-Arms
-; trp_sarranid_n_timariot1|Stormlands Longbowman
-; trp_sarranid_n_timariot1_pl|Stormlands Longbowmen
-; trp_sarranid_n_garip1|Stormlands Serjeant
-; trp_sarranid_n_garip1_pl|Stormlands Serjeants
-; trp_stormlands_troop_1|Veteran Stormlands Longbowman
-; trp_stormlands_troop_1_pl|Veteran Stormlands Longbowmen
-; trp_sarranid_n_yeniceri1|Stormlands Knight
-; trp_sarranid_n_yeniceri1_pl|Stormlands Knights
-; trp_sarranid_n_kapikula1|Mounted Stormlands Serjeant
-; trp_sarranid_n_kapikula1_pl|Mounted Stormlands Serjeants
-; trp_sarranid_n_uluteci1|Heavy Stormlands Knight
-; trp_sarranid_n_uluteci1_pl|Heavy Stormlands Knight
-; trp_sarranid_n_millet2|Northern Levy
-; trp_sarranid_n_millet2_pl|Northmen Levies
-; trp_sarranid_n_ajam2|Northern Pikeman
-; trp_sarranid_n_ajam2_pl|Northern Pikemen
-; trp_sarranid_n_cemaat2|Veteran Northern Pikeman
-; trp_sarranid_n_cemaat2_pl|Veteran Northern Pikemen
-; trp_sarranid_n_jebelus2|Northern Archer
-; trp_sarranid_n_jebelus2_pl|Northern Archers
-; trp_sarranid_n_yerliyya2|Elite Northern Pikeman
-; trp_sarranid_n_yerliyya2_pl|Elite Northern Pikemen
-; trp_sarranid_n_timariot2|Veteran Northern Archer
-; trp_sarranid_n_timariot2_pl|Veteran Northern Archers
-; trp_sarranid_n_garip2|Northern Serjeant
-; trp_sarranid_n_garip2_pl|Northern Serjeants
-; trp_northern_troop_1|Elite Northern Archer
-; trp_northern_troop_1_pl|Elite Northern Archers
-; trp_sarranid_n_yeniceri2|Northern Man-at-Arms
-; trp_sarranid_n_yeniceri2_pl|Northern Men-at-Arms
-; trp_sarranid_n_kapikula2|Mounted Northern Serjeant
-; trp_sarranid_n_kapikula2_pl|Mounted Northern Serjeants
-; trp_sarranid_n_uluteci2|Veteran Northern Man-at-Arms
-; trp_sarranid_n_uluteci2_pl|Veteran Northern Men-at-Arms
-; trp_sarranid_n_millet3|Vale Levy
-; trp_sarranid_n_millet3_pl|Vale Levies
-; trp_sarranid_n_ajam3|Vale Man-at-Arms
-; trp_sarranid_n_ajam3_pl|Vale Men-at-Arms
-; trp_sarranid_n_cemaat3|Veteran Vale Man-at-Arms
-; trp_sarranid_n_cemaat3_pl|Veteran Vale Men-at-Arms
-; trp_sarranid_n_jebelus3|Vale Archer
-; trp_sarranid_n_jebelus3_pl|Vale Archers
-; trp_sarranid_n_yerliyya3|Elite Vale Man-at-Arms
-; trp_sarranid_n_yerliyya3_pl|Elite Vale Men-at-Arms
-; trp_sarranid_n_timariot3|Vale Longbowman
-; trp_sarranid_n_timariot3_pl|Vale Longbowmen
-; trp_sarranid_n_garip3|Vale Serjeant
-; trp_sarranid_n_garip3_pl|Vale Serjeants
-; trp_vale_troop_1|Veteran Vale Longbowman
-; trp_vale_troop_1_pl|Veteran Vale Longbowmen
-; trp_sarranid_n_yeniceri3|Vale Knight
-; trp_sarranid_n_yeniceri3_pl|Vale Knights
-; trp_sarranid_n_kapikula3|Mounted Vale Serjeant
-; trp_sarranid_n_kapikula3_pl|Mounted Vale Serjeants
-; trp_sarranid_n_uluteci3|Heavy Vale Knight
-; trp_sarranid_n_uluteci3_pl|Heavy Vale Knights
-; trp_sarranid_n_millet4|Braavosi Pikeman
-; trp_sarranid_n_millet4_pl|Braavosi Pikemen
-; trp_sarranid_n_ajam4|Veteran Braavosi Pikeman
-; trp_sarranid_n_ajam4_pl|Veteran Braavosi Pikemen
-; trp_sarranid_n_cemaat4|Elite Braavosi Pikeman
-; trp_sarranid_n_cemaat4_pl|Elite Braavosi Pikemen
-; trp_sarranid_n_jebelus4|Braavosi Archer
-; trp_sarranid_n_jebelus4_pl|Braavosi Archers
-; trp_sarranid_n_yerliyya4|Braavosi Glaiveman
-; trp_sarranid_n_yerliyya4_pl|Braavosi Glaivemen
-; trp_sarranid_n_timariot4|Veteran Braavosi Archer
-; trp_sarranid_n_timariot4_pl|Veteran Braavosi Archers
-; trp_sarranid_n_garip4|Braavosi Two-Hander
-; trp_sarranid_n_garip4_pl|Braavosi Two-Handers
-; trp_braavosi_troop_1|Elite Braavosi Archer
-; trp_braavosi_troop_1_pl|Elite Braavosi Archers
-; trp_sarranid_n_yeniceri4|Veteran Braavosi Man-at-Arms
-; trp_sarranid_n_yeniceri4_pl|Veteran Braavosi Men-at-Arms
-; trp_sarranid_n_kapikula4|Braavosi Man-at-Arms
-; trp_sarranid_n_kapikula4_pl|Braavosi Men-at-Arms
-; trp_sarranid_n_uluteci4|Elite Braavosi Man-at-Arms
-; trp_sarranid_n_uluteci4_pl|Elite Braavosi Men-at-Arms
-; trp_sarranid_n_millet5|Riverlands Pikeman
-; trp_sarranid_n_millet5_pl|Riverlands Pikemen
-; trp_sarranid_n_ajam5|Veteran Riverlands Pikeman
-; trp_sarranid_n_ajam5_pl|Veteran Riverlands Pikemen
-; trp_sarranid_n_cemaat5|Elite Riverlands Pikeman
-; trp_sarranid_n_cemaat5_pl|Elite Riverlands Pikemen
-; trp_sarranid_n_jebelus5|Riverlands Archer
-; trp_sarranid_n_jebelus5_pl|Riverlands Archers
-; trp_sarranid_n_yerliyya5|Riverlands Glaiveman
-; trp_sarranid_n_yerliyya5_pl|Riverlands Glaivemen
-; trp_sarranid_n_timariot5|Veteran Riverlands Archer
-; trp_sarranid_n_timariot5_pl|Veteran Riverlands Archers
-; trp_sarranid_n_garip5|Riverlands Serjeant
-; trp_sarranid_n_garip5_pl|Riverlands Serjeants
-; trp_riverlands_troop_1|Riverlands Crossbowman
-; trp_riverlands_troop_1_pl|Riverlands Crossbowmen
-; trp_sarranid_n_yeniceri5|Riverlands Knight
-; trp_sarranid_n_yeniceri5_pl|Riverlands Knights
-; trp_sarranid_n_kapikula5|Mounted Riverlands Archer
-; trp_sarranid_n_kapikula5_pl|Mounted Riverlands Archers
-; trp_sarranid_n_uluteci5|Heavy Riverlands Knight
-; trp_sarranid_n_uluteci5_pl|Heavy Riverlands Knights
-; trp_sarranid_n_millet8|Dragonstone Levy
-; trp_sarranid_n_millet8_pl|Dragonstone Levies
-; trp_sarranid_n_ajam8|Dragonstone Man-at-Arms
-; trp_sarranid_n_ajam8_pl|Dragonstone Men-at-Arms
-; trp_sarranid_n_cemaat8|Veteran Dragonstone Man-at-Arms
-; trp_sarranid_n_cemaat8_pl|Veteran Dragonstone Men-at-Arms
-; trp_sarranid_n_jebelus8|Dragonstone Archer
-; trp_sarranid_n_jebelus8_pl|Dragonstone Archers
-; trp_sarranid_n_yerliyya8|Elite Dragonstone Man-at-Arms
-; trp_sarranid_n_yerliyya8_pl|Elite Dragonstone Men-at-Arms
-; trp_sarranid_n_timariot8|Dragonstone Longbowman
-; trp_sarranid_n_timariot8_pl|Dragonstone Longbowmen
-; trp_sarranid_n_garip8|Dragonstone Axeman
-; trp_sarranid_n_garip8_pl|Dragonstone Axemen
-; trp_dragonstone_troop_1|Veteran Dragonstone Longbowman
-; trp_dragonstone_troop_1_pl|Veteran Dragonstone Longbowmen
-; trp_sarranid_n_yeniceri8|Dragonstone Knight
-; trp_sarranid_n_yeniceri8_pl|Dragonstone Knights
-; trp_sarranid_n_kapikula8|Mounted Dragonstone Serjeant
-; trp_sarranid_n_kapikula8_pl|Mounted Dragonstone Serjeants
-; trp_sarranid_n_uluteci8|Heavy Dragonstone Knight
-; trp_sarranid_n_uluteci8_pl|Heavy Dragonstone Knights
-; trp_sarranid_n_millet9|Westerlands Levy
-; trp_sarranid_n_millet9_pl|Westerlands Levies
-; trp_sarranid_n_ajam9|Westerlands Man-at-Arms
-; trp_sarranid_n_ajam9_pl|Westerlands Men-at-Arms
-; trp_sarranid_n_cemaat9|Veteran Westerlands Man-at-Arms
-; trp_sarranid_n_cemaat9_pl|Veteran Westerlands Men-at-Arms
-; trp_sarranid_n_jebelus9|Westerlands Archer
-; trp_sarranid_n_jebelus9_pl|Westerlands Archers
-; trp_sarranid_n_yerliyya9|Elite Westerlands Man-at-Arms
-; trp_sarranid_n_yerliyya9_pl|Elite Westerlands Men-at-Arms
-; trp_sarranid_n_timariot9|Westerlands Longbowman
-; trp_sarranid_n_timariot9_pl|Westerlands Longbowmen
-; trp_sarranid_n_garip9|Westerlands Billman
-; trp_sarranid_n_garip9_pl|Westerlands Billmen
-; trp_westerlands_troop_1|Veteran Westerlands Longbowman
-; trp_westerlands_troop_1_pl|Veteran Westerlands Longbowmen
-; trp_sarranid_n_yeniceri9|Westerlands Knight
-; trp_sarranid_n_yeniceri9_pl|Westerlands Knights
-; trp_sarranid_n_kapikula9|Mounted Westerlands Serjeant
-; trp_sarranid_n_kapikula9_pl|Mounted Westerlands Serjeants
-; trp_sarranid_n_uluteci9|Heavy Westerlands Knight
-; trp_sarranid_n_uluteci9_pl|Heavy Westerlands Knights
-; trp_sarranid_n_millet10|Reach Levy
-; trp_sarranid_n_millet10_pl|Reach Levies
-; trp_sarranid_n_ajam10|Veteran Reach Levy
-; trp_sarranid_n_ajam10_pl|Veteran Reach Levies
-; trp_sarranid_n_cemaat10|Reach Glaiveman
-; trp_sarranid_n_cemaat10_pl|Reach Glaivemen
-; trp_sarranid_n_jebelus10|Reach Crossbowman
-; trp_sarranid_n_jebelus10_pl|Reach Crossbowmen
-; trp_sarranid_n_yerliyya10|Veteran Reach Glaiveman
-; trp_sarranid_n_yerliyya10_pl|Veteran Reach Glaivemen
-; trp_sarranid_n_timariot10|Veteran Reach Crossbowman
-; trp_sarranid_n_timariot10_pl|Veteran Reach Crossbowmen
-; trp_sarranid_n_garip10|Elite Reach Glaiveman
-; trp_sarranid_n_garip10_pl|Elite Reach Glaivemen
-; trp_reach_troop_1|Elite Reach Crossbowman
-; trp_reach_troop_1_pl|Elite Reach Crossbowmen
-; trp_sarranid_n_yeniceri10|Reach Knight
-; trp_sarranid_n_yeniceri10_pl|Reach Knights
-; trp_sarranid_n_kapikula10|Mounted Reach Serjeant
-; trp_sarranid_n_kapikula10_pl|Mounted Reach Serjeants
-; trp_sarranid_n_uluteci10|Heavy Reach Knight
-; trp_sarranid_n_uluteci10_pl|Heavy Reach Knights
-; trp_sarranid_n_millet11|Ironborn Spearman
-; trp_sarranid_n_millet11_pl|Ironborn Spearmen
-; trp_sarranid_n_ajam11|Veteran Ironborn Spearman
-; trp_sarranid_n_ajam11_pl|Veteran Ironborn Spearmen
-; trp_sarranid_n_cemaat11|Elite Ironborn Spearman
-; trp_sarranid_n_cemaat11_pl|Elite Ironborn Spearmen
-; trp_sarranid_n_jebelus11|Ironborn Archer
-; trp_sarranid_n_jebelus11_pl|Ironborn Archers
-; trp_sarranid_n_yerliyya11|Ironborn Axeman
-; trp_sarranid_n_yerliyya11_pl|Ironborn Axemen
-; trp_sarranid_n_timariot11|Veteran Ironborn Archer
-; trp_sarranid_n_timariot11_pl|Veteran Ironborn Archers
-; trp_sarranid_n_garip11|Elite Ironborn Archer
-; trp_sarranid_n_garip11_pl|Elite Ironborn Archers
-; trp_sarranid_n_yeniceri11|Veteran Ironborn Retainer
-; trp_sarranid_n_yeniceri11_pl|Veteran Ironborn Retainers
-; trp_sarranid_n_kapikula11|Ironborn Retainer
-; trp_sarranid_n_kapikula11_pl|Ironborn Retainers
-; trp_sarranid_n_uluteci11|Elite Ironborn Retainer
-; trp_sarranid_n_uluteci11_pl|Elite Ironborn Retainers
-; trp_sarranid_n_millet12|Pentoshi Pikeman
-; trp_sarranid_n_millet12_pl|Pentoshi Pikemen
-; trp_sarranid_n_ajam12|Veteran Pentoshi Pikeman
-; trp_sarranid_n_ajam12_pl|Veteran Pentoshi Pikemen
-; trp_sarranid_n_cemaat12|Elite Pentoshi Pikeman
-; trp_sarranid_n_cemaat12_pl|Elite Pentoshi Pikemen
-; trp_sarranid_n_jebelus12|Pentoshi Archer
-; trp_sarranid_n_jebelus12_pl|Pentoshi Archers
-; trp_sarranid_n_yerliyya12|Pentoshi Skirmisher
-; trp_sarranid_n_yerliyya12_pl|Pentoshi Skirmishers
-; trp_sarranid_n_timariot12|Veteran Pentoshi Archer
-; trp_sarranid_n_timariot12_pl|Veteran Pentoshi Archers
-; trp_sarranid_n_garip12|Mounted Pentoshi Archer
-; trp_sarranid_n_garip12_pl|Mounted Pentoshi Archers
-; trp_sarranid_n_yeniceri12|Pentoshi Lancer
-; trp_sarranid_n_yeniceri12_pl|Pentoshi Lancers
-; trp_sarranid_n_kapikula12|Pentoshi Swordsman
-; trp_sarranid_n_kapikula12_pl|Pentoshi Swordsmen
-; trp_sarranid_n_uluteci12|Pentoshi Cataphract
-; trp_sarranid_n_uluteci12_pl|Pentoshi Cataphracts
-; trp_sarranid_n_millet13|Tyroshi Archer
-; trp_sarranid_n_millet13_pl|Tyroshi Archers
-; trp_sarranid_n_ajam13|Veteran Tyroshi Archer
-; trp_sarranid_n_ajam13_pl|Veteran Tyroshi Archers
-; trp_sarranid_n_cemaat13|Elite Tyroshi Archer
-; trp_sarranid_n_cemaat13_pl|Elite Tyroshi Archers
-; trp_sarranid_n_jebelus13|Tyroshi Spearman
-; trp_sarranid_n_jebelus13_pl|Tyroshi Spearmen
-; trp_sarranid_n_yerliyya13|Veteran Tyroshi Spearman
-; trp_sarranid_n_yerliyya13_pl|Veteran Tyroshi Spearmen
-; trp_sarranid_n_timariot13|Tyroshi Axeman
-; trp_sarranid_n_timariot13_pl|Tyroshi Axemen
-; trp_sarranid_n_garip13|Tyroshi Voulgeman
-; trp_sarranid_n_garip13_pl|Tyroshi Voulgemen
-; trp_sarranid_n_yeniceri13|Veteran Mounted Tyroshi Archer
-; trp_sarranid_n_yeniceri13_pl|Veteran Mounted Tyroshi Archers
-; trp_sarranid_n_kapikula13|Mounted Tyroshi Archer
-; trp_sarranid_n_kapikula13_pl|Mounted Tyroshi Archers
-; trp_sarranid_n_uluteci13|Elite Mounted Tyroshi Archer
-; trp_sarranid_n_uluteci13_pl|Elite Mounted Tyroshi Archers
-; trp_sarranid_n_millet14|Myrman Swordsman
-; trp_sarranid_n_millet14_pl|Myrman Swordsmen
-; trp_sarranid_n_ajam14|Veteran Myrman Swordsman
-; trp_sarranid_n_ajam14_pl|Veteran Myrman Swordsmen
-; trp_sarranid_n_cemaat14|Myrman Skirmisher
-; trp_sarranid_n_cemaat14_pl|Myrman Skirmishers
-; trp_sarranid_n_jebelus14|Elite Myrman Swordsman
-; trp_sarranid_n_jebelus14_pl|Elite Myrman Swordsmen
-; trp_sarranid_n_yerliyya14|Mounted Myrman Archer
-; trp_sarranid_n_yerliyya14_pl|Mounted Myrman Archers
-; trp_sarranid_n_timariot14|Myrman Spearman
-; trp_sarranid_n_timariot14_pl|Myrman Spearmen
-; trp_sarranid_n_garip14|Veteran Mounted Myrman Archer
-; trp_sarranid_n_garip14_pl|Veteran Mounted Myrman Archers
-; trp_sarranid_n_yeniceri14|Veteran Myrman Crossbowman
-; trp_sarranid_n_yeniceri14_pl|Veteran Myrman Crossbowmen
-; trp_sarranid_n_kapikula14|Myrman Crossbowman
-; trp_sarranid_n_kapikula14_pl|Myrman Crossbowmen
-; trp_sarranid_n_uluteci14|Elite Myrman Crossbowman
-; trp_sarranid_n_uluteci14_pl|Elite Myrman Crossbowmen
-; trp_sarranid_n_millet15|Lyseni Pikeman
-; trp_sarranid_n_millet15_pl|Lyseni Pikemen
-; trp_sarranid_n_ajam15|Veteran Lyseni Pikeman
-; trp_sarranid_n_ajam15_pl|Veteran Lyseni Pikemen
-; trp_sarranid_n_cemaat15|Elite Lyseni Pikeman
-; trp_sarranid_n_cemaat15_pl|Elite Lyseni Pikemen
-; trp_sarranid_n_jebelus15|Lyseni Skirmisher
-; trp_sarranid_n_jebelus15_pl|Lyseni Skirmishers
-; trp_sarranid_n_yerliyya15|Lyseni Axeman
-; trp_sarranid_n_yerliyya15_pl|Lyseni Axemen
-; trp_sarranid_n_timariot15|Veteran Lyseni Skirmisher
-; trp_sarranid_n_timariot15_pl|Veteran Lyseni Skirmisher
-; trp_sarranid_n_garip15|Mounted Lyseni Skirmisher
-; trp_sarranid_n_garip15_pl|Mounted Lyseni Skirmishers
-; trp_sarranid_n_yeniceri15|Veteran Mounted Lyseni Archer
-; trp_sarranid_n_yeniceri15_pl|Veteran Mounted Lyseni Archers
-; trp_sarranid_n_kapikula15|Mounted Lyseni Archer
-; trp_sarranid_n_kapikula15_pl|Mounted Lyseni Archers
-; trp_sarranid_n_uluteci15|Elite Mounted Lyseni Archer
-; trp_sarranid_n_uluteci15_pl|Elite Mounted Lyseni Archers
-; trp_sarranid_n_millet16|Volantene Archer
-; trp_sarranid_n_millet16_pl|Volantene Archers
-; trp_sarranid_n_ajam16|Veteran Volantene Archer
-; trp_sarranid_n_ajam16_pl|Veteran Volantene Archers
-; trp_sarranid_n_cemaat16|Elite Volantene Archer
-; trp_sarranid_n_cemaat16_pl|Elite Volantene Archers
-; trp_sarranid_n_jebelus16|Volantene Skirmisher
-; trp_sarranid_n_jebelus16_pl|Volantene Skirmishers
-; trp_sarranid_n_yerliyya16|DO NOT USE
-; trp_sarranid_n_yerliyya16_pl|DO NOT USE
-; trp_sarranid_n_timariot16|DO NOT USE
-; trp_sarranid_n_timariot16_pl|DO NOT USE
-; trp_sarranid_n_garip16|DO NOT USE
-; trp_sarranid_n_garip16_pl|DO NOT USE
-; trp_sarranid_n_yeniceri16|Veteran Volantene Man-at-Arms
-; trp_sarranid_n_yeniceri16_pl|Veteran Volantene Men-at-Arms
-; trp_sarranid_n_kapikula16|Volantene Man-at-Arms
-; trp_sarranid_n_kapikula16_pl|Volantene Men-at-Arms
-; trp_sarranid_n_uluteci16|Elite Volantene Man-at-Arms
-; trp_sarranid_n_uluteci16_pl|Elite Volantene Men-at-Arms
-; trp_sarranid_n_millet17|Norvoshi Spearman
-; trp_sarranid_n_millet17_pl|Norvoshi Spearmen
-; trp_sarranid_n_ajam17|Veteran Norvoshi Spearman
-; trp_sarranid_n_ajam17_pl|Veteran Norvoshi Spearmen
-; trp_sarranid_n_cemaat17|Elite Norvoshi Spearman
-; trp_sarranid_n_cemaat17_pl|Elite Norvoshi Spearmen
-; trp_sarranid_n_jebelus17|Norvoshi Skirmisher
-; trp_sarranid_n_jebelus17_pl|Norvoshi Skirmishers
-; trp_sarranid_n_yerliyya17|Norvoshi Axeman
-; trp_sarranid_n_yerliyya17_pl|Norvoshi Axemen
-; trp_sarranid_n_timariot17|Norvoshi Archer
-; trp_sarranid_n_timariot17_pl|Norvoshi Archers
-; trp_sarranid_n_garip17|Veteran Norvoshi Archer
-; trp_sarranid_n_garip17_pl|Veteran Norvoshi Archer
-; trp_sarranid_n_yeniceri17|Norvoshi Lancer
-; trp_sarranid_n_yeniceri17_pl|Norvoshi Lancers
-; trp_sarranid_n_kapikula17|Mounted Norvoshi Archer
-; trp_sarranid_n_kapikula17_pl|Mounted Norvoshi Archer
-; trp_sarranid_n_uluteci17|Norvoshi Cataphract
-; trp_sarranid_n_uluteci17_pl|Norvoshi Cataphracts
-; trp_sarranid_n_millet18|Lorathi Archer
-; trp_sarranid_n_millet18_pl|Lorathi Archers
-; trp_sarranid_n_ajam18|Veteran Lorathi Archer
-; trp_sarranid_n_ajam18_pl|Veteran Lorathi Archers
-; trp_sarranid_n_cemaat18|Elite Lorathi Archer
-; trp_sarranid_n_cemaat18_pl|Elite Lorathi Archers
-; trp_sarranid_n_jebelus18|Lorathi Glaiveman
-; trp_sarranid_n_jebelus18_pl|Lorathi Glaivemen
-; trp_sarranid_n_yerliyya18|Veteran Lorathi Glaiveman
-; trp_sarranid_n_yerliyya18_pl|Veteran Lorathi Glaivemen
-; trp_sarranid_n_timariot18|Lorathi Man-at-Arms
-; trp_sarranid_n_timariot18_pl|Lorathi Men-at-Arms
-; trp_sarranid_n_garip18|Elite Lorathi Glaiveman
-; trp_sarranid_n_garip18_pl|Elite Lorathi Glaivemen
-; trp_sarranid_n_yeniceri18|Veteran Lorathi Axeman
-; trp_sarranid_n_yeniceri18_pl|Veteran Lorathi Axemen
-; trp_sarranid_n_kapikula18|Lorathi Axeman
-; trp_sarranid_n_kapikula18_pl|Lorathi Axemen
-; trp_sarranid_n_uluteci18|Elite Lorathi Axeman
-; trp_sarranid_n_uluteci18_pl|Elite Lorathi Axemen
-; trp_sarranid_n_millet19|Sisterman Levy
-; trp_sarranid_n_millet19_pl|Sisterman Levies
-; trp_sarranid_n_ajam19|Sisterman Spearman
-; trp_sarranid_n_ajam19_pl|Sisterman Spearmen
-; trp_sarranid_n_cemaat19|Veteran Sisterman Spearman
-; trp_sarranid_n_cemaat19_pl|Veteran Sisterman Spearmen
-; trp_sarranid_n_jebelus19|Sisterman Archer
-; trp_sarranid_n_jebelus19_pl|Sisterman Archers
-; trp_sarranid_n_yerliyya19|Elite Sisterman Spearman
-; trp_sarranid_n_yerliyya19_pl|Elite Sisterman Spearmen
-; trp_sarranid_n_timariot19|Veteran Sisterman Archer
-; trp_sarranid_n_timariot19_pl|Veteran Sisterman Archers
-; trp_sarranid_n_garip19|Elite Sisterman Archer
-; trp_sarranid_n_garip19_pl|Elite Sisterman Archers
-; trp_sarranid_n_yeniceri19|Veteran Sisterman Retainer
-; trp_sarranid_n_yeniceri19_pl|Veteran Sisterman Retainers
-; trp_sarranid_n_kapikula19|Sisterman Retainer
-; trp_sarranid_n_kapikula19_pl|Sisterman Retainers
-; trp_sarranid_n_uluteci19|Elite Sisterman Retainer
-; trp_sarranid_n_uluteci19_pl|Elite Sisterman Retainers
-; trp_sarranid_n_millet20|Targaryen Man-at-Arms
-; trp_sarranid_n_millet20_pl|Targaryen Men-at-Arms
-; trp_sarranid_n_ajam20|Veteran Targaryen Man-at-Arms
-; trp_sarranid_n_ajam20_pl|Veteran Targaryen Men-at-Arms
-; trp_sarranid_n_cemaat20|Elite Targaryen Man-at-Arms
-; trp_sarranid_n_cemaat20_pl|Elite Targaryen Men-at-Arms
-; trp_sarranid_n_jebelus20|Targaryen Longbowman
-; trp_sarranid_n_jebelus20_pl|Targaryen Longbowmen
-; trp_sarranid_n_yerliyya20|Targaryen Serjeant
-; trp_sarranid_n_yerliyya20_pl|Targaryen Serjeants
-; trp_sarranid_n_timariot20|Veteran Targaryen Longbowman
-; trp_sarranid_n_timariot20_pl|Veteran Targaryen Longbowmen
-; trp_sarranid_n_garip20|Elite Targaryen Longbowman
-; trp_sarranid_n_garip20_pl|Elite Targaryen Longbowmen
-; trp_sarranid_n_yeniceri20|Targaryen Knight
-; trp_sarranid_n_yeniceri20_pl|Targaryen Knights
-; trp_sarranid_n_kapikula20|Mounted Targaryen Serjeant
-; trp_sarranid_n_kapikula20_pl|Mounted Targaryen Serjeants
-; trp_sarranid_n_uluteci20|Heavy Targaryen Knight
-; trp_sarranid_n_uluteci20_pl|Heavy Targaryen Knights
-; trp_sarranid_n_millet21|Levy
-; trp_sarranid_n_millet21_pl|Levies
-; trp_sarranid_n_ajam21|Man-at-Arms
-; trp_sarranid_n_ajam21_pl|Man-at-Arms
-; trp_sarranid_n_cemaat21|Veteran Man-at-Arms
-; trp_sarranid_n_cemaat21_pl|Veteran Man-at-Arms
-; trp_sarranid_n_jebelus21|Longbowman
-; trp_sarranid_n_jebelus21_pl|Longbowmen
-; trp_sarranid_n_yerliyya21|Serjeant
-; trp_sarranid_n_yerliyya21_pl|Serjeants
-; trp_sarranid_n_timariot21|Veteran Longbowman
-; trp_sarranid_n_timariot21_pl|Veteran Longbowmen
-; trp_sarranid_n_garip21|Elite Longbowman
-; trp_sarranid_n_garip21_pl|Elite Longbowmen
-; trp_sarranid_n_yeniceri21|Knight
-; trp_sarranid_n_yeniceri21_pl|Knights
-; trp_sarranid_n_kapikula21|Mounted Serjeant
-; trp_sarranid_n_kapikula21_pl|Mounted Serjeants
-; trp_sarranid_n_uluteci21|Heavy Knight
-; trp_sarranid_n_uluteci21_pl|Heavy Knights
-; trp_sarranid_n_millet22|Wildling Warrior
-; trp_sarranid_n_millet22_pl|Wildling Warriors
-; trp_sarranid_n_ajam22|Veteran Wildling Warrior
-; trp_sarranid_n_ajam22_pl|Veteran Wildling Warriors
-; trp_sarranid_n_cemaat22|Elite Wildling Warrior
-; trp_sarranid_n_cemaat22_pl|Elite Wildling Warriors
-; trp_sarranid_n_jebelus22|Wildling Archer
-; trp_sarranid_n_jebelus22_pl|Wildling Archers
-; trp_sarranid_n_yerliyya22|DO NOT USE
-; trp_sarranid_n_yerliyya22_pl|DO NOT USE
-; trp_sarranid_n_timariot22|DO NOT USE
-; trp_sarranid_n_timariot22_pl|DO NOT USE
-; trp_sarranid_n_garip22|DO NOT USE
-; trp_sarranid_n_garip22_pl|DO NOT USE
-; trp_sarranid_n_yeniceri22|Wildling Horseman
-; trp_sarranid_n_yeniceri22_pl|Wildling Horsemen
-; trp_sarranid_n_kapikula22|Wildling Berserker
-; trp_sarranid_n_kapikula22_pl|Wildling Berserkers
-; trp_sarranid_n_uluteci22|Veteran Wildling Archer
-; trp_sarranid_n_uluteci22_pl|Veteran Wildling Archers
-; trp_sarranid_n_millet23|Dothraki Warrior
-; trp_sarranid_n_millet23_pl|Dothraki Warriors
-; trp_sarranid_n_ajam23|Veteran Dothraki Warrior
-; trp_sarranid_n_ajam23_pl|Veteran Dothraki Warriors
-; trp_sarranid_n_cemaat23|Elite Dothraki Warrior
-; trp_sarranid_n_cemaat23_pl|Elite Dothraki Warriors
-; trp_sarranid_n_jebelus23|Dothraki Skirmisher
-; trp_sarranid_n_jebelus23_pl|Dothraki Skirmishers
-; trp_sarranid_n_yeniceri23|Dothraki Screamer
-; trp_sarranid_n_yeniceri23_pl|Dothraki Screamers
-; trp_sarranid_n_extra1|Rebelous Sarranid Recruit
-; trp_sarranid_n_extra1_pl|Rebelous Sarranid Recruits
-; trp_sarranid_n_extra2|Adventurous Sarranid Recruit
-; trp_sarranid_n_extra2_pl|Adventurous Sarranid Recruits
-; trp_sarranid_n_extra3|Begrudged Sarranid Recruit
-; trp_sarranid_n_extra3_pl|Begrudged Sarranid Recruits
-; trp_sarranid_n_extra4|Travelling Sarranid Recruit
-; trp_sarranid_n_extra4_pl|Travelling Sarranid Recruits
-; trp_sarranid_n_extra5|Docile Sarranid Recruit
-; trp_sarranid_n_extra5_pl|Docile Sarranid Recruits
-; trp_sarranid_r_millet|I1 Sarranid Millet
-; trp_sarranid_r_millet_pl|I1 Sarranid Milletani
-; trp_sarranid_r_ajam|I2 Sarranid Ajam
-; trp_sarranid_r_ajam_pl|I2 Sarranid Ajami
-; trp_sarranid_r_oglan|A2 Sarranid Oglan
-; trp_sarranid_r_oglan_pl|A2 Sarranid Oglani
-; trp_sarranid_r_azab|I3 Sarranid Azab
-; trp_sarranid_r_azab_pl|I3 Sarranid Azablar
-; trp_sarranid_r_cemaat|I3 Sarranid Cemaat
-; trp_sarranid_r_cemaat_pl|I3 Sarranid Cemaatle
-; trp_sarranid_r_jebelus|A3 Sarranid Jebelus
-; trp_sarranid_r_jebelus_pl|A3 Sarranid Jebeli
-; trp_sarranid_r_kapikulu_savari|C4 Sarranid Kapikulu Savari
-; trp_sarranid_r_kapikulu_savari_pl|C4 Sarranid Kapikulu Savarleri
-; trp_sarranid_r_timariot|C4 Sarranid Timariot
-; trp_sarranid_r_timariot_pl|C4 Sarranid Timarioter
-; trp_sarranid_r_al_haqa|I4 Sarranid Al-Haqa
-; trp_sarranid_r_al_haqa_pl|I4 Sarranid Al-Haqani
-; trp_sarranid_r_garip|A4 Sarranid Garip
-; trp_sarranid_r_garip_pl|A4 Sarranid Garipler
-; trp_sarranid_r_badw|H4 Sarranid Badw
-; trp_sarranid_r_badw_pl|H4 Sarranid Badawi
-; trp_sarranid_r_kapikula|C5 Sarranid Kapikula
-; trp_sarranid_r_kapikula_pl|C5 Sarranid Kapikulani
-; trp_sarranid_r_yerliyya|I5 Sarranid Yerliyya
-; trp_sarranid_r_yerliyya_pl|I5 Sarranid Yerliyyas
-; trp_sarranid_r_uluteci|A5 Sarranid Uluteci
-; trp_sarranid_r_uluteci_pl|A5 Sarranid Uluteciler
-; trp_sarranid_r_yeniceri|I6 Sarranid Yeniceri
-; trp_sarranid_r_yeniceri_pl|I6 Sarranid Yeniceriler
-; trp_sarranid_r_extra1|I1 Rebelous Sarranid Millet
-; trp_sarranid_r_extra1_pl|I1 Rebelous Sarranid Milletani
-; trp_sarranid_r_extra2|I1 Adventurous Sarranid Millet
-; trp_sarranid_r_extra2_pl|I1 Adventurous Sarranid Milletani
-; trp_sarranid_r_extra3|I1 Begrudged Sarranid Millet
-; trp_sarranid_r_extra3_pl|I1 Begrudged Sarranid Milletani
-; trp_sarranid_r_extra4|I1 Travelling Sarranid Millet
-; trp_sarranid_r_extra4_pl|I1 Travelling Sarranid Milletani
-; trp_sarranid_r_extra5|I1 Docile Sarranid Millet
-; trp_sarranid_r_extra5_pl|I1 Docile Sarranid Milletani
-; trp_sarranid_e_millet|I1 Sarranid Millet
-; trp_sarranid_e_millet_pl|I1 Sarranid Milletani
-; trp_sarranid_e_ajam|I2 Sarranid Ajam
-; trp_sarranid_e_ajam_pl|I2 Sarranid Ajami
-; trp_sarranid_e_oglan|A2 Sarranid Oglan
-; trp_sarranid_e_oglan_pl|A2 Sarranid Oglani
-; trp_sarranid_e_azab|I3 Sarranid Azab
-; trp_sarranid_e_azab_pl|I3 Sarranid Azablar
-; trp_sarranid_e_cemaat|I3 Sarranid Cemaat
-; trp_sarranid_e_cemaat_pl|I3 Sarranid Cemaatle
-; trp_sarranid_e_jebelus|A3 Sarranid Jebelus
-; trp_sarranid_e_jebelus_pl|A3 Sarranid Jebeli
-; trp_sarranid_e_ghulam|A3 Sarranid Ghulam
-; trp_sarranid_e_ghulam_pl|A3 Sarranid Ghilman
-; trp_sarranid_e_al_haqa|I4 Sarranid Al-Haqa
-; trp_sarranid_e_al_haqa_pl|I4 Sarranid Al-Haqani
-; trp_sarranid_e_timariot|C4 Sarranid Timariot
-; trp_sarranid_e_timariot_pl|C4 Sarranid Timarioter
-; trp_sarranid_e_yerliyya|I4 Sarranid Yerliyya
-; trp_sarranid_e_yerliyya_pl|I4 Sarranid Yerliyyas
-; trp_sarranid_e_kapikulu_savari|C4 Sarranid Kapikulu Savari
-; trp_sarranid_e_kapikulu_savari_pl|C4 Sarranid Kapikulu Savarleri
-; trp_sarranid_e_garip|A4 Sarranid Garip
-; trp_sarranid_e_garip_pl|A4 Sarranid Garipler
-; trp_sarranid_e_badw|H4 Sarranid Badw
-; trp_sarranid_e_badw_pl|H4 Sarranid Badawi
-; trp_sarranid_e_serdengecti|A4 Sarranid Serdengecti
-; trp_sarranid_e_serdengecti_pl|A4 Sarranid Serdengectleri
-; trp_sarranid_e_tabardariyya|A4 Sarranid Tabardariyya
-; trp_sarranid_e_tabardariyya_pl|A4 Sarranid Tabardariyyani
-; trp_sarranid_e_kapikula|C5 Sarranid Kapikula
-; trp_sarranid_e_kapikula_pl|C5 Sarranid Kapikulani
-; trp_sarranid_e_yeniceri|I5 Sarranid Yeniceri
-; trp_sarranid_e_yeniceri_pl|I5 Sarranid Yeniceriler
-; trp_sarranid_e_beylik|C5 Sarranid Beylik
-; trp_sarranid_e_beylik_pl|C5 Sarranid Beylerin
-; trp_sarranid_e_uluteci|A5 Sarranid Uluteci
-; trp_sarranid_e_uluteci_pl|A5 Sarranid Uluteciler
-; trp_sarranid_e_akinci|H5 Sarranid Akinci
-; trp_sarranid_e_akinci_pl|H5 Sarranid Akinciler
-; trp_sarranid_e_terkes_serdengecti|A5 Sarranid Terkes Serdengecti
-; trp_sarranid_e_terkes_serdengecti_pl|A5 Sarranid Terkes Serdengectleri
-; trp_sarranid_e_qilich_arslan|C6 Sarranid Qilich Arslan
-; trp_sarranid_e_qilich_arslan_pl|C6 Sarranid Qilich Arslani
-; trp_sarranid_e_memluk|C6 Sarranid Memluk
-; trp_sarranid_e_memluk_pl|C6 Sarranid Mamalik
-; trp_sarranid_e_sekban|C6 Sarranid Sekban
-; trp_sarranid_e_sekban_pl|C6 Sarranid Sekbanlar
-; trp_sarranid_e_silahtar|A6 Sarranid Silahtar
-; trp_sarranid_e_silahtar_pl|A6 Sarranid Silahtarin
-; trp_sarranid_e_sipahi|H6 Sarranid Sipahi
-; trp_sarranid_e_sipahi_pl|H6 Sarranid Sipahiler
-; trp_sarranid_e_hasham|C7 Sarranid Hasham
-; trp_sarranid_e_hasham_pl|C7 Sarranid Hashamler
-; trp_sarranid_e_iqta_dar|H7 Sarranid Iqta'dar
-; trp_sarranid_e_iqta_dar_pl|H7 Sarranid Iqta'darani
-; trp_sarranid_e_extra1|I1 Rebelous Sarranid Millet
-; trp_sarranid_e_extra1_pl|I1 Rebelous Sarranid Milletani
-; trp_sarranid_e_extra2|I1 Adventurous Sarranid Millet
-; trp_sarranid_e_extra2_pl|I1 Adventurous Sarranid Milletani
-; trp_sarranid_e_extra3|I1 Begrudged Sarranid Millet
-; trp_sarranid_e_extra3_pl|I1 Begrudged Sarranid Milletani
-; trp_sarranid_e_extra4|I1 Travelling Sarranid Millet
-; trp_sarranid_e_extra4_pl|I1 Travelling Sarranid Milletani
-; trp_sarranid_e_extra5|I1 Docile Sarranid Millet
-; trp_sarranid_e_extra5_pl|I1 Docile Sarranid Milletani
+trp_sarranid_n_millet|Recluta di Dorne
+trp_sarranid_n_millet_pl|Reclute di Dorne
+trp_sarranid_n_ajam|Uomo d'Arme di Dorne
+trp_sarranid_n_ajam_pl|Uomini d'Arme di Dorne
+trp_sarranid_n_cemaat|Uomo d'Arme Veterano di Dorne
+trp_sarranid_n_cemaat_pl|Uomini d'Arme Veterani di Dorne
+trp_sarranid_n_jebelus|Schermagliatore di Dorne
+trp_sarranid_n_jebelus_pl|Schermagliatori di Dorne
+trp_sarranid_n_yerliyya|Uomo d'Arme d'Elite di Dorne
+trp_sarranid_n_yerliyya_pl|Uomini d'Arme d'Elite di Dorne
+trp_sarranid_n_timariot|Arciere di Dorne
+trp_sarranid_n_timariot_pl|Arcieri di Dorne
+trp_sarranid_n_garip|Sergente di Dorne
+trp_sarranid_n_garip_pl|Sergenti di Dorne
+trp_dorne_troop_1|Arciere Veterano di Dorne
+trp_dorne_troop_1_pl|Arcieri Veterani di Dorne
+trp_sarranid_n_yeniceri|Arciere a Cavallo di Dorne
+trp_sarranid_n_yeniceri_pl|Arcieri a Cavallo di Dorne
+trp_sarranid_n_kapikula|Schermagliatore a Cavallo di Dorne
+trp_sarranid_n_kapikula_pl|Schermagliatori a Cavallo di Dorne
+trp_sarranid_n_uluteci|Cavaliere di Dorne
+trp_sarranid_n_uluteci_pl|Cavalieri di Dorne
+trp_sarranid_n_millet1|Recluta della Tempesta
+trp_sarranid_n_millet1_pl|Reclute della Tempesta
+trp_sarranid_n_ajam1|Uomo d'Arme della Tempesta
+trp_sarranid_n_ajam1_pl|Uomini d'Arme della Tempesta
+trp_sarranid_n_cemaat1|Uomo d'Arme Veterano della Tempesta
+trp_sarranid_n_cemaat1_pl|Uomini d'Arme Veterani della Tempesta
+trp_sarranid_n_jebelus1|Arciere della Tempesta
+trp_sarranid_n_jebelus1_pl|Arcieri della Tempesta
+trp_sarranid_n_yerliyya1|Uomo d'Arme d'Elite della Tempesta
+trp_sarranid_n_yerliyya1_pl|Uomini d'Arme d'Elite della Tempesta
+trp_sarranid_n_timariot1|Arciere Arco Lungo della Tempesta
+trp_sarranid_n_timariot1_pl|Arcieri Arco Lungo della Tempesta
+trp_sarranid_n_garip1|Sergente della Tempesta
+trp_sarranid_n_garip1_pl|Sergenti della Tempesta
+trp_stormlands_troop_1|Arciere Lungo Veterano della Tempesta
+trp_stormlands_troop_1_pl|Arcieri Lungo Veterani della Tempesta
+trp_sarranid_n_yeniceri1|Cavaliere della Tempesta
+trp_sarranid_n_yeniceri1_pl|Cavalieri della Tempesta
+trp_sarranid_n_kapikula1|Sergente a Cavallo della Tempesta
+trp_sarranid_n_kapikula1_pl|Sergenti a Cavallo della Tempesta
+trp_sarranid_n_uluteci1|Cavaliere Pesante della Tempesta
+trp_sarranid_n_uluteci1_pl|Cavalieri Pesanti della Tempesta
+trp_sarranid_n_millet2|Recluta del Nord
+trp_sarranid_n_millet2_pl|Reclute del Nord
+trp_sarranid_n_ajam2|Picchiere del Nord
+trp_sarranid_n_ajam2_pl|Picchieri del Nord
+trp_sarranid_n_cemaat2|Picchiere Veterano del Nord
+trp_sarranid_n_cemaat2_pl|Picchieri Veterani del Nord
+trp_sarranid_n_jebelus2|Arciere del Nord
+trp_sarranid_n_jebelus2_pl|Arcieri del Nord
+trp_sarranid_n_yerliyya2|Picchiere d'Elite del Nord
+trp_sarranid_n_yerliyya2_pl|Picchieri d'Elite del Nord
+trp_sarranid_n_timariot2|Arciere Veterano del Nord
+trp_sarranid_n_timariot2_pl|Arcieri Veterani del Nord
+trp_sarranid_n_garip2|Sergente del Nord
+trp_sarranid_n_garip2_pl|Sergenti del Nord
+trp_northern_troop_1|Arciere d'Elite del Nord
+trp_northern_troop_1_pl|Arcieri d'Elite del Nord
+trp_sarranid_n_yeniceri2|Uomo d'Arme del Nord
+trp_sarranid_n_yeniceri2_pl|Uomini d'Arme del Nord
+trp_sarranid_n_kapikula2|Sergente a Cavallo del Nord
+trp_sarranid_n_kapikula2_pl|Sergenti a Cavallo del Nord
+trp_sarranid_n_uluteci2|Uomo d'Arme Veterano del Nord
+trp_sarranid_n_uluteci2_pl|Uomini d'Arme Veterani del Nord
+trp_sarranid_n_millet3|Recluta della Valle
+trp_sarranid_n_millet3_pl|Reclute della Valle
+trp_sarranid_n_ajam3|Uomo d'Arme della Valle
+trp_sarranid_n_ajam3_pl|Uomini d'Arme della Valle
+trp_sarranid_n_cemaat3|Uomo d'Arme Veterano della Valle
+trp_sarranid_n_cemaat3_pl|Uomini d'Arme Veterani della Valle
+trp_sarranid_n_jebelus3|Arciere della Valle
+trp_sarranid_n_jebelus3_pl|Arcieri della Valle
+trp_sarranid_n_yerliyya3|Uomo d'Arme d'Elite della Valle
+trp_sarranid_n_yerliyya3_pl|Uomini d'Arme d'Elite della Valle
+trp_sarranid_n_timariot3|Arciere Arco Lungo della Valle
+trp_sarranid_n_timariot3_pl|Arcieri Arco Lungo della Valle
+trp_sarranid_n_garip3|Sergente della Valle
+trp_sarranid_n_garip3_pl|Sergenti della Valle
+trp_vale_troop_1|Arciere Lungo Veterano della Valle
+trp_vale_troop_1_pl|Arcieri Lungo Veterani della Valle
+trp_sarranid_n_yeniceri3|Cavaliere della Valle
+trp_sarranid_n_yeniceri3_pl|Cavalieri della Valle
+trp_sarranid_n_kapikula3|Sergente a Cavallo della Valle
+trp_sarranid_n_kapikula3_pl|Sergenti a Cavallo della Valle
+trp_sarranid_n_uluteci3|Cavaliere Pesante della Valle
+trp_sarranid_n_uluteci3_pl|Cavalieri Pesanti della Valle
+trp_sarranid_n_millet4|Picchiere di Braavos
+trp_sarranid_n_millet4_pl|Picchieri di Braavos
+trp_sarranid_n_ajam4|Picchiere Veterano di Braavos
+trp_sarranid_n_ajam4_pl|Picchieri Veterani di Braavos
+trp_sarranid_n_cemaat4|Picchiere d'Elite di Braavos
+trp_sarranid_n_cemaat4_pl|Picchieri d'Elite di Braavos
+trp_sarranid_n_jebelus4|Arciere di Braavos
+trp_sarranid_n_jebelus4_pl|Arcieri di Braavos
+trp_sarranid_n_yerliyya4|Alabardiere di Braavos
+trp_sarranid_n_yerliyya4_pl|Alabardieri di Braavos
+trp_sarranid_n_timariot4|Arciere Veterano di Braavos
+trp_sarranid_n_timariot4_pl|Arcieri Veterani di Braavos
+trp_sarranid_n_garip4|Soldato con Spadone di Braavos
+trp_sarranid_n_garip4_pl|Soldati con Spadone di Braavos
+trp_braavosi_troop_1|Arciere d'Elite di Braavos
+trp_braavosi_troop_1_pl|Arcieri d'Elite di Braavos
+trp_sarranid_n_yeniceri4|Uomo d'Arme Veterano di Braavos
+trp_sarranid_n_yeniceri4_pl|Uomini d'Arme Veterani di Braavos
+trp_sarranid_n_kapikula4|Uomo d'Arme di Braavos
+trp_sarranid_n_kapikula4_pl|Uomini d'Arme di Braavos
+trp_sarranid_n_uluteci4|Uomo d'Arme d'Elite di Braavos
+trp_sarranid_n_uluteci4_pl|Uomini d'Arme d'Elite di Braavos
+trp_sarranid_n_millet5|Picchiere dei Fiumi
+trp_sarranid_n_millet5_pl|Picchieri dei Fiumi
+trp_sarranid_n_ajam5|Picchiere Veterano dei Fiumi
+trp_sarranid_n_ajam5_pl|Picchieri Veterani dei Fiumi
+trp_sarranid_n_cemaat5|Picchiere d'Elite dei Fiumi
+trp_sarranid_n_cemaat5_pl|Picchieri d'Elite dei Fiumi
+trp_sarranid_n_jebelus5|Arciere dei Fiumi
+trp_sarranid_n_jebelus5_pl|Arcieri dei Fiumi
+trp_sarranid_n_yerliyya5|Alabardiere dei Fiumi
+trp_sarranid_n_yerliyya5_pl|Alabardieri dei Fiumi
+trp_sarranid_n_timariot5|Arciere Veterano dei Fiumi
+trp_sarranid_n_timariot5_pl|Arcieri Veterani dei Fiumi
+trp_sarranid_n_garip5|Sergente dei Fiumi
+trp_sarranid_n_garip5_pl|Sergenti dei Fiumi
+trp_riverlands_troop_1|Balestriere dei Fiumi
+trp_riverlands_troop_1_pl|Balestrieri dei Fiumi
+trp_sarranid_n_yeniceri5|Cavaliere dei Fiumi
+trp_sarranid_n_yeniceri5_pl|Cavalieri dei Fiumi
+trp_sarranid_n_kapikula5|Arciere a Cavallo dei Fiumi
+trp_sarranid_n_kapikula5_pl|Arcieri a Cavallo dei Fiumi
+trp_sarranid_n_uluteci5|Cavaliere Pesante dei Fiumi
+trp_sarranid_n_uluteci5_pl|Cavalieri Pesanti dei Fiumi
+trp_sarranid_n_millet8|Recluta Roccia del Drago
+trp_sarranid_n_millet8_pl|Reclute Roccia del Drago
+trp_sarranid_n_ajam8|Uomo d'Arme Roccia del Drago
+trp_sarranid_n_ajam8_pl|Uomini d'Arme Roccia del Drago
+trp_sarranid_n_cemaat8|Uomo d'Arme Veterano Roccia del Drago
+trp_sarranid_n_cemaat8_pl|Uomini d'Arme Veterani Roccia del Drago
+trp_sarranid_n_jebelus8|Arciere Roccia del Drago
+trp_sarranid_n_jebelus8_pl|Arcieri Roccia del Drago
+trp_sarranid_n_yerliyya8|Uomo d'Arme d'Elite Roccia del Drago
+trp_sarranid_n_yerliyya8_pl|Uomini d'Arme d'Elite Roccia del Drago
+trp_sarranid_n_timariot8|Arciere Arco Lungo Roccia del Drago
+trp_sarranid_n_timariot8_pl|Arcieri Arco Lungo Roccia del Drago
+trp_sarranid_n_garip8|Soldato con Ascia Roccia del Drago
+trp_sarranid_n_garip8_pl|Soldati con Ascia Roccia del Drago
+trp_dragonstone_troop_1|Arciere Lungo Veterano Roccia del Drago
+trp_dragonstone_troop_1_pl|Arcieri Lungo Veterani Roccia del Drago
+trp_sarranid_n_yeniceri8|Cavaliere Roccia del Drago
+trp_sarranid_n_yeniceri8_pl|Cavalieri Roccia del Drago
+trp_sarranid_n_kapikula8|Sergente a Cavallo Roccia del Drago
+trp_sarranid_n_kapikula8_pl|Sergenti a Cavallo Roccia del Drago
+trp_sarranid_n_uluteci8|Cavaliere Pesante Roccia del Drago
+trp_sarranid_n_uluteci8_pl|Cavalieri Pesanti Roccia del Drago
+trp_sarranid_n_millet9|Recluta dell'Ovest
+trp_sarranid_n_millet9_pl|Reclute dell'Ovest
+trp_sarranid_n_ajam9|Uomo d'Arme dell'Ovest
+trp_sarranid_n_ajam9_pl|Uomini d'Arme dell'Ovest
+trp_sarranid_n_cemaat9|Uomo d'Arme Veterano dell'Ovest
+trp_sarranid_n_cemaat9_pl|Uomini d'Arme Veterani dell'Ovest
+trp_sarranid_n_jebelus9|Arciere dell'Ovest
+trp_sarranid_n_jebelus9_pl|Arcieri dell'Ovest
+trp_sarranid_n_yerliyya9|Uomo d'Arme d'Elite dell'Ovest
+trp_sarranid_n_yerliyya9_pl|Uomini d'Arme d'Elite dell'Ovest
+trp_sarranid_n_timariot9|Arciere Arco Lungo dell'Ovest
+trp_sarranid_n_timariot9_pl|Arcieri Arco Lungo dell'Ovest
+trp_sarranid_n_garip9|Ronconiere dell'Ovest
+trp_sarranid_n_garip9_pl|Ronconieri dell'Ovest
+trp_westerlands_troop_1|Arciere Lungo Veterano dell'Ovest
+trp_westerlands_troop_1_pl|Arcieri ungo Veterani dell'Ovest
+trp_sarranid_n_yeniceri9|Cavaliere dell'Ovest
+trp_sarranid_n_yeniceri9_pl|Cavalieri dell'Ovest
+trp_sarranid_n_kapikula9|Sergente a Cavallo dell'Ovest
+trp_sarranid_n_kapikula9_pl|Sergenti a Cavallo dell'Ovest
+trp_sarranid_n_uluteci9|Cavaliere Pesante dell'Ovest
+trp_sarranid_n_uluteci9_pl|Cavalieri Pesanti dell'Ovest
+trp_sarranid_n_millet10|Recluta dell'Altopiano
+trp_sarranid_n_millet10_pl|Reclute dell'Altopiano
+trp_sarranid_n_ajam10|Recluta Veterana dell'Altopiano
+trp_sarranid_n_ajam10_pl|Reclute Veterane dell'Altopiano
+trp_sarranid_n_cemaat10|Alabardiere dell'Altopiano
+trp_sarranid_n_cemaat10_pl|Alabardieri dell'Altopiano
+trp_sarranid_n_jebelus10|Balestriere dell'Altopiano
+trp_sarranid_n_jebelus10_pl|Balestrieri dell'Altopiano
+trp_sarranid_n_yerliyya10|Alabardiere Veterano dell'Altopiano
+trp_sarranid_n_yerliyya10_pl|Alabardieri Veterani dell'Altopiano
+trp_sarranid_n_timariot10|Balestriere Veterano dell'Altopiano
+trp_sarranid_n_timariot10_pl|Balestrieri Veterani dell'Altopiano
+trp_sarranid_n_garip10|Alabardiere d'Elite dell'Altopiano
+trp_sarranid_n_garip10_pl|Alabardieri d'Elite dell'Altopiano
+trp_reach_troop_1|Balestriere d'Elite dell'Altopiano
+trp_reach_troop_1_pl|Balestrieri d'Elite dell'Altopiano
+trp_sarranid_n_yeniceri10|Cavaliere dell'Altopiano
+trp_sarranid_n_yeniceri10_pl|Cavalieri dell'Altopiano
+trp_sarranid_n_kapikula10|Sergente a Cavallo dell'Altopiano
+trp_sarranid_n_kapikula10_pl|Sergenti a Cavallo dell'Altopiano
+trp_sarranid_n_uluteci10|Cavaliere Pesante dell'Altopiano
+trp_sarranid_n_uluteci10_pl|Cavalieri Pesanti dell'Altopiano
+trp_sarranid_n_millet11|Lanciere di Ferro
+trp_sarranid_n_millet11_pl|Lancieri di Ferro
+trp_sarranid_n_ajam11|Lanciere Veterano di Ferro
+trp_sarranid_n_ajam11_pl|Lancieri Veterani di Ferro
+trp_sarranid_n_cemaat11|Lanciere d'Elite di Ferro
+trp_sarranid_n_cemaat11_pl|Lancieri d'Elite di Ferro
+trp_sarranid_n_jebelus11|Arciere di Ferro
+trp_sarranid_n_jebelus11_pl|Arcieri di Ferro
+trp_sarranid_n_yerliyya11|Soldato con Ascia Isole di Ferro
+trp_sarranid_n_yerliyya11_pl|Soldati con Ascia Isole di Ferro
+trp_sarranid_n_timariot11|Arciere Veterano di Ferro
+trp_sarranid_n_timariot11_pl|Arcieri Veterani di Ferro
+trp_sarranid_n_garip11|Arciere d'Elite di Ferro
+trp_sarranid_n_garip11_pl|Arcieri d'Elite di Ferro
+trp_sarranid_n_yeniceri11|Seguace Veterano di Ferro
+trp_sarranid_n_yeniceri11_pl|Seguaci Veterani di Ferro
+trp_sarranid_n_kapikula11|Seguace di Ferro
+trp_sarranid_n_kapikula11_pl|Seguaci di Ferro
+trp_sarranid_n_uluteci11|Seguace d'Elite di Ferro
+trp_sarranid_n_uluteci11_pl|Seguaci d'Elite di Ferro
+trp_sarranid_n_millet12|Picchiere di Pentos
+trp_sarranid_n_millet12_pl|Picchieri di Pentos
+trp_sarranid_n_ajam12|Picchiere Veterano di Pentos
+trp_sarranid_n_ajam12_pl|Picchieri Veterani di Pentos
+trp_sarranid_n_cemaat12|Picchiere d'Elite di Pentos
+trp_sarranid_n_cemaat12_pl|Picchieri d'Elite di Pentos
+trp_sarranid_n_jebelus12|Arciere di Pentos
+trp_sarranid_n_jebelus12_pl|Arcieri di Pentos
+trp_sarranid_n_yerliyya12|Schermagliatore di Pentos
+trp_sarranid_n_yerliyya12_pl|Schermagliatori di Pentos
+trp_sarranid_n_timariot12|Arciere Veterano di Pentos
+trp_sarranid_n_timariot12_pl|Arcieri Veterani di Pentos
+trp_sarranid_n_garip12|Arciere a Cavallo di Pentos
+trp_sarranid_n_garip12_pl|Arcieri a Cavallo di Pentos
+trp_sarranid_n_yeniceri12|Lanciere a Cavallo di Pentos
+trp_sarranid_n_yeniceri12_pl|Lancieri a Cavallo di Pentos
+trp_sarranid_n_kapikula12|Spadaccino di Pentos
+trp_sarranid_n_kapikula12_pl|Spadaccini di Pentos
+trp_sarranid_n_uluteci12|Catafratto di Pentos
+trp_sarranid_n_uluteci12_pl|Catafratti di Pentos
+trp_sarranid_n_millet13|Arciere di Tyrosh
+trp_sarranid_n_millet13_pl|Arcieri di Tyrosh
+trp_sarranid_n_ajam13|Arciere Veterano di Tyrosh
+trp_sarranid_n_ajam13_pl|Arcieri Veterani di Tyrosh
+trp_sarranid_n_cemaat13|Arciere d'Elite di Tyrosh
+trp_sarranid_n_cemaat13_pl|Arcieri d'Elite di Tyrosh
+trp_sarranid_n_jebelus13|Lanciere di Tyrosh
+trp_sarranid_n_jebelus13_pl|Lancieri di Tyrosh
+trp_sarranid_n_yerliyya13|Lanciere Veterano di Tyrosh
+trp_sarranid_n_yerliyya13_pl|Lancieri Veterani di Tyrosh
+trp_sarranid_n_timariot13|Soldato con Ascia di Tyrosh
+trp_sarranid_n_timariot13_pl|Soldati con Ascia di Tyrosh
+trp_sarranid_n_garip13|Soldato con Voulge di Tyrosh
+trp_sarranid_n_garip13_pl|Soldati con Voulge di Tyrosh
+trp_sarranid_n_yeniceri13|Arciere Veterano a Cavallo di Tyrosh
+trp_sarranid_n_yeniceri13_pl|Arcieri Veterani a Cavallo di Tyrosh
+trp_sarranid_n_kapikula13|Arciere a Cavallo di Tyrosh
+trp_sarranid_n_kapikula13_pl|Arcieri a Cavallo di Tyrosh
+trp_sarranid_n_uluteci13|Arciere a Cavallo d'Elite di Tyrosh
+trp_sarranid_n_uluteci13_pl|Arcieri a Cavallo d'Elite di Tyrosh
+trp_sarranid_n_millet14|Spadaccino di Myr
+trp_sarranid_n_millet14_pl|Spadaccini di Myr
+trp_sarranid_n_ajam14|Spadaccino Veterano di Myr
+trp_sarranid_n_ajam14_pl|Spadaccini Veterani di Myr
+trp_sarranid_n_cemaat14|Schermagliatore di Myr
+trp_sarranid_n_cemaat14_pl|Schermagliatori di Myr
+trp_sarranid_n_jebelus14|Spadaccino d'Elite di Myr
+trp_sarranid_n_jebelus14_pl|Spadaccini d'Elite di Myr
+trp_sarranid_n_yerliyya14|Arciere a Cavallo di Myr
+trp_sarranid_n_yerliyya14_pl|Arcieri a Cavallo di Myr
+trp_sarranid_n_timariot14|Lanciere di Myr
+trp_sarranid_n_timariot14_pl|Lancieri di Myr
+trp_sarranid_n_garip14|Arciere Veterano a Cavallo di Myr
+trp_sarranid_n_garip14_pl|Arcieri Veterani a Cavallo di Myr
+trp_sarranid_n_yeniceri14|Balestriere Veterano di Myr
+trp_sarranid_n_yeniceri14_pl|Balestrieri Veterani di Myr
+trp_sarranid_n_kapikula14|Balestriere di Myr
+trp_sarranid_n_kapikula14_pl|Balestrieri di Myr
+trp_sarranid_n_uluteci14|Balestriere d'Elite di Myr
+trp_sarranid_n_uluteci14_pl|Balestrieri d'Elite di Myr
+trp_sarranid_n_millet15|Picchiere di Lys
+trp_sarranid_n_millet15_pl|Picchieri di Lys
+trp_sarranid_n_ajam15|Picchiere Veterano di Lys
+trp_sarranid_n_ajam15_pl|Picchieri Veterani di Lys
+trp_sarranid_n_cemaat15|Picchiere d'Elite di Lys
+trp_sarranid_n_cemaat15_pl|Picchieri d'Elite di Lys
+trp_sarranid_n_jebelus15|Schermagliatore di Lys
+trp_sarranid_n_jebelus15_pl|Schermagliatori di Lys
+trp_sarranid_n_yerliyya15|Soldato con Ascia di Lys
+trp_sarranid_n_yerliyya15_pl|Soldati con Ascia di Lys
+trp_sarranid_n_timariot15|Schermagliatore Veterano di Lys
+trp_sarranid_n_timariot15_pl|Schermagliatori Veterani di Lys
+trp_sarranid_n_garip15|Schermagliatore a Cavallo di Lys
+trp_sarranid_n_garip15_pl|Schermagliatori a Cavallo di Lys
+trp_sarranid_n_yeniceri15|Arciere Veterano a Cavallo di Lys
+trp_sarranid_n_yeniceri15_pl|Arcieri Veterani a Cavallo di Lys
+trp_sarranid_n_kapikula15|Arciere a Cavallo di Lys
+trp_sarranid_n_kapikula15_pl|Arcieri a Cavallo di Lys
+trp_sarranid_n_uluteci15|Arciere a Cavallo d'Elite di Lys
+trp_sarranid_n_uluteci15_pl|Arcieri a Cavallo d'Elite di Lys
+trp_sarranid_n_millet16|Arciere di Volantis
+trp_sarranid_n_millet16_pl|Arcieri di Volantis
+trp_sarranid_n_ajam16|Arciere Veterano di Volantis
+trp_sarranid_n_ajam16_pl|Arcieri Veterani di Volantis
+trp_sarranid_n_cemaat16|Arciere d'Elite di Volantis
+trp_sarranid_n_cemaat16_pl|Arcieri d'Elite di Volantis
+trp_sarranid_n_jebelus16|Schermagliatore di Volantis
+trp_sarranid_n_jebelus16_pl|Schermagliatori di Volantis
+trp_sarranid_n_yerliyya16|DO NOT USE
+trp_sarranid_n_yerliyya16_pl|DO NOT USE
+trp_sarranid_n_timariot16|DO NOT USE
+trp_sarranid_n_timariot16_pl|DO NOT USE
+trp_sarranid_n_garip16|DO NOT USE
+trp_sarranid_n_garip16_pl|DO NOT USE
+trp_sarranid_n_yeniceri16|Uomo d'Arme Veterano di Volantis
+trp_sarranid_n_yeniceri16_pl|Uomini d'Arme Veterani di Volantis
+trp_sarranid_n_kapikula16|Uomo d'Arme di Volantis
+trp_sarranid_n_kapikula16_pl|Uomini d'Arme di Volantis
+trp_sarranid_n_uluteci16|Uomo d'Arme d'Elite di Volantis
+trp_sarranid_n_uluteci16_pl|Uomini d'Arme d'Elite di Volantis
+trp_sarranid_n_millet17|Lanciere di Norvos
+trp_sarranid_n_millet17_pl|Lancieri di Norvos
+trp_sarranid_n_ajam17|Lanciere Veterano di Norvos
+trp_sarranid_n_ajam17_pl|Lancieri Veterani di Norvos
+trp_sarranid_n_cemaat17|Lanciere d'Elite di Norvos
+trp_sarranid_n_cemaat17_pl|Lancieri d'Elite di Norvos
+trp_sarranid_n_jebelus17|Schermagliatore di Norvos
+trp_sarranid_n_jebelus17_pl|Schermagliatori di Norvos
+trp_sarranid_n_yerliyya17|Soldato con Ascia di Norvos
+trp_sarranid_n_yerliyya17_pl|Soldati con Ascia di Norvos
+trp_sarranid_n_timariot17|Arciere di Norvos
+trp_sarranid_n_timariot17_pl|Arcieri di Norvos
+trp_sarranid_n_garip17|Arciere Veterano di Norvos
+trp_sarranid_n_garip17_pl|Arcieri Veterani di Norvos
+trp_sarranid_n_yeniceri17|Lanciere a Cavallo di Norvos
+trp_sarranid_n_yeniceri17_pl|Lancieri a Cavallo di Norvos
+trp_sarranid_n_kapikula17|Arciere a Cavallo di Norvos
+trp_sarranid_n_kapikula17_pl|Arcieri a Cavallo di Norvos
+trp_sarranid_n_uluteci17|Catafratto di Norvos
+trp_sarranid_n_uluteci17_pl|Catafratti di Norvos
+trp_sarranid_n_millet18|Arciere di Lorath
+trp_sarranid_n_millet18_pl|Arcieri di Lorath
+trp_sarranid_n_ajam18|Arciere Veterano di Lorath
+trp_sarranid_n_ajam18_pl|Arcieri Veterani di Lorath
+trp_sarranid_n_cemaat18|Arciere d'Elite di Lorath
+trp_sarranid_n_cemaat18_pl|Arcieri d'Elite di Lorath
+trp_sarranid_n_jebelus18|Alabardiere di Lorath
+trp_sarranid_n_jebelus18_pl|Alabardieri di Lorath
+trp_sarranid_n_yerliyya18|Alabardiere Veterano di Lorath
+trp_sarranid_n_yerliyya18_pl|Alabardieri Veterani di Lorath
+trp_sarranid_n_timariot18|Uomo d'Arme di Lorath
+trp_sarranid_n_timariot18_pl|Uomini d'Arme di Lorath
+trp_sarranid_n_garip18|Alabardiere d'Elite di Lorath
+trp_sarranid_n_garip18_pl|Alabardieri d'Elite di Lorath
+trp_sarranid_n_yeniceri18|Soldato con Ascia Veterano di Lorath
+trp_sarranid_n_yeniceri18_pl|Soldati con Ascia Veterani di Lorath
+trp_sarranid_n_kapikula18|Soldato con Ascia di Lorath
+trp_sarranid_n_kapikula18_pl|Soldati con Ascia di Lorath
+trp_sarranid_n_uluteci18|Soldato con Ascia d'Elite di Lorath
+trp_sarranid_n_uluteci18_pl|Soldati con Ascia d'Elite di Lorath
+trp_sarranid_n_millet19|Recluta delle Sorelle
+trp_sarranid_n_millet19_pl|Reclute delle Sorelle
+trp_sarranid_n_ajam19|Lanciere delle Sorelle
+trp_sarranid_n_ajam19_pl|Lancieri delle Sorelle
+trp_sarranid_n_cemaat19|Lanciere Veterano delle Sorelle
+trp_sarranid_n_cemaat19_pl|Lancieri Veterani delle Sorelle
+trp_sarranid_n_jebelus19|Arciere delle Sorelle
+trp_sarranid_n_jebelus19_pl|Arcieri delle Sorelle
+trp_sarranid_n_yerliyya19|Lanciere d'Elite delle Sorelle
+trp_sarranid_n_yerliyya19_pl|Lancieri d'Elite delle Sorelle
+trp_sarranid_n_timariot19|Arciere Veterano delle Sorelle
+trp_sarranid_n_timariot19_pl|Arcieri Veterani delle Sorelle
+trp_sarranid_n_garip19|Arciere d'Elite delle Sorelle
+trp_sarranid_n_garip19_pl|Arcieri d'Elite delle Sorelle
+trp_sarranid_n_yeniceri19|Seguace Veterano delle Sorelle
+trp_sarranid_n_yeniceri19_pl|Seguaci Veterani delle Sorelle
+trp_sarranid_n_kapikula19|Seguace delle Sorelle
+trp_sarranid_n_kapikula19_pl|Seguaci delle Sorelle
+trp_sarranid_n_uluteci19|Seguace d'Elite delle Sorelle
+trp_sarranid_n_uluteci19_pl|Seguaci d'Elite delle Sorelle
+trp_sarranid_n_millet20|Uomo d'Arme di Targaryen
+trp_sarranid_n_millet20_pl|Uomini d'Arme di Targaryen
+trp_sarranid_n_ajam20|Uomo d'Arme Veterano di Targaryen
+trp_sarranid_n_ajam20_pl|Uomini d'Arme Veterani di Targaryen
+trp_sarranid_n_cemaat20|Uomo d'Arme d'Elite di Targaryen
+trp_sarranid_n_cemaat20_pl|Uomini d'Arme d'Elite di Targaryen
+trp_sarranid_n_jebelus20|Arciere con Arco Lungo di Targaryen
+trp_sarranid_n_jebelus20_pl|Arcieri con Arco Lungo di Targaryen
+trp_sarranid_n_yerliyya20|Sergente di Targaryen
+trp_sarranid_n_yerliyya20_pl|Sergenti di Targaryen
+trp_sarranid_n_timariot20|Arciere Lungo Veterano di Targaryen
+trp_sarranid_n_timariot20_pl|Arcieri Lungo Veterani di Targaryen
+trp_sarranid_n_garip20|Arciere Lungo d'Elite di Targaryen
+trp_sarranid_n_garip20_pl|Arcieri Lungo d'Elite di Targaryen
+trp_sarranid_n_yeniceri20|Cavaliere di Targaryen
+trp_sarranid_n_yeniceri20_pl|Cavalieri di Targaryen
+trp_sarranid_n_kapikula20|Sergente a Cavallo di Targaryen
+trp_sarranid_n_kapikula20_pl|Sergenti a Cavallo di Targaryen
+trp_sarranid_n_uluteci20|Cavaliere Pesante di Targaryen
+trp_sarranid_n_uluteci20_pl|Cavalieri Pesanti di Targaryen
+trp_sarranid_n_millet21|Recluta
+trp_sarranid_n_millet21_pl|Reclute
+trp_sarranid_n_ajam21|Uomo d'Arme
+trp_sarranid_n_ajam21_pl|Uomini d'Arme
+trp_sarranid_n_cemaat21|Uomo d'Arme Veterano
+trp_sarranid_n_cemaat21_pl|Uomini d'Arme Veterani
+trp_sarranid_n_jebelus21|Arciere con Arco Lungo
+trp_sarranid_n_jebelus21_pl|Arcieri con Arco Lungo
+trp_sarranid_n_yerliyya21|Sergente
+trp_sarranid_n_yerliyya21_pl|Sergenti
+trp_sarranid_n_timariot21|Arciere Arco Lungo Veterano
+trp_sarranid_n_timariot21_pl|Arcieri Arco Lungo Veterani
+trp_sarranid_n_garip21|Arciere Arco Lungo d'Elite  
+trp_sarranid_n_garip21_pl|Arcieri Arco Lungo d'Elite 
+trp_sarranid_n_yeniceri21|Cavaliere
+trp_sarranid_n_yeniceri21_pl|Cavalieri
+trp_sarranid_n_kapikula21|Sergente a Cavallo
+trp_sarranid_n_kapikula21_pl|Sergenti a Cavallo
+trp_sarranid_n_uluteci21|Cavaliere Pesante
+trp_sarranid_n_uluteci21_pl|Cavalieri Pesanti
+trp_sarranid_n_millet22|Guerriero Bruto
+trp_sarranid_n_millet22_pl|Guerrieri Bruti
+trp_sarranid_n_ajam22|Guerriero Veterano Bruto
+trp_sarranid_n_ajam22_pl|Guerrieri Veterani Bruti
+trp_sarranid_n_cemaat22|Guerriero d'Elite Bruto
+trp_sarranid_n_cemaat22_pl|Guerrieri d'Elite Bruti
+trp_sarranid_n_jebelus22|Arciere Bruto
+trp_sarranid_n_jebelus22_pl|Arcieri Bruti
+trp_sarranid_n_yerliyya22|DO NOT USE
+trp_sarranid_n_yerliyya22_pl|DO NOT USE
+trp_sarranid_n_timariot22|DO NOT USE
+trp_sarranid_n_timariot22_pl|DO NOT USE
+trp_sarranid_n_garip22|DO NOT USE
+trp_sarranid_n_garip22_pl|DO NOT USE
+trp_sarranid_n_yeniceri22|Bruto a Cavallo
+trp_sarranid_n_yeniceri22_pl|Bruti a Cavallo
+trp_sarranid_n_kapikula22|Bruto Forsennato
+trp_sarranid_n_kapikula22_pl|Bruti Forsennato
+trp_sarranid_n_uluteci22|Arciere Veterano Bruto
+trp_sarranid_n_uluteci22_pl|Arcieri Veterani Bruti
+trp_sarranid_n_millet23|Guerriero Dothraki
+trp_sarranid_n_millet23_pl|Guerrieri Dothraki
+trp_sarranid_n_ajam23|Guerriero Veterano Dothraki
+trp_sarranid_n_ajam23_pl|Guerrieri Veterani Dothraki
+trp_sarranid_n_cemaat23|Guerriero d'Elite Dothraki
+trp_sarranid_n_cemaat23_pl|Guerrieri d'Elite Dothraki
+trp_sarranid_n_jebelus23|Schermagliatore Dothraki
+trp_sarranid_n_jebelus23_pl|Schermagliatori Dothraki
+trp_sarranid_n_yeniceri23|Urlatore Dothraki
+trp_sarranid_n_yeniceri23_pl|Urlatori Dothraki
+trp_sarranid_n_extra1|Rebelous Sarranid Recruit
+trp_sarranid_n_extra1_pl|Rebelous Sarranid Recruits
+trp_sarranid_n_extra2|Adventurous Sarranid Recruit
+trp_sarranid_n_extra2_pl|Adventurous Sarranid Recruits
+trp_sarranid_n_extra3|Begrudged Sarranid Recruit
+trp_sarranid_n_extra3_pl|Begrudged Sarranid Recruits
+trp_sarranid_n_extra4|Travelling Sarranid Recruit
+trp_sarranid_n_extra4_pl|Travelling Sarranid Recruits
+trp_sarranid_n_extra5|Docile Sarranid Recruit
+trp_sarranid_n_extra5_pl|Docile Sarranid Recruits
+trp_sarranid_r_millet|I1 Sarranid Millet
+trp_sarranid_r_millet_pl|I1 Sarranid Milletani
+trp_sarranid_r_ajam|I2 Sarranid Ajam
+trp_sarranid_r_ajam_pl|I2 Sarranid Ajami
+trp_sarranid_r_oglan|A2 Sarranid Oglan
+trp_sarranid_r_oglan_pl|A2 Sarranid Oglani
+trp_sarranid_r_azab|I3 Sarranid Azab
+trp_sarranid_r_azab_pl|I3 Sarranid Azablar
+trp_sarranid_r_cemaat|I3 Sarranid Cemaat
+trp_sarranid_r_cemaat_pl|I3 Sarranid Cemaatle
+trp_sarranid_r_jebelus|A3 Sarranid Jebelus
+trp_sarranid_r_jebelus_pl|A3 Sarranid Jebeli
+trp_sarranid_r_kapikulu_savari|C4 Sarranid Kapikulu Savari
+trp_sarranid_r_kapikulu_savari_pl|C4 Sarranid Kapikulu Savarleri
+trp_sarranid_r_timariot|C4 Sarranid Timariot
+trp_sarranid_r_timariot_pl|C4 Sarranid Timarioter
+trp_sarranid_r_al_haqa|I4 Sarranid Al-Haqa
+trp_sarranid_r_al_haqa_pl|I4 Sarranid Al-Haqani
+trp_sarranid_r_garip|A4 Sarranid Garip
+trp_sarranid_r_garip_pl|A4 Sarranid Garipler
+trp_sarranid_r_badw|H4 Sarranid Badw
+trp_sarranid_r_badw_pl|H4 Sarranid Badawi
+trp_sarranid_r_kapikula|C5 Sarranid Kapikula
+trp_sarranid_r_kapikula_pl|C5 Sarranid Kapikulani
+trp_sarranid_r_yerliyya|I5 Sarranid Yerliyya
+trp_sarranid_r_yerliyya_pl|I5 Sarranid Yerliyyas
+trp_sarranid_r_uluteci|A5 Sarranid Uluteci
+trp_sarranid_r_uluteci_pl|A5 Sarranid Uluteciler
+trp_sarranid_r_yeniceri|I6 Sarranid Yeniceri
+trp_sarranid_r_yeniceri_pl|I6 Sarranid Yeniceriler
+trp_sarranid_r_extra1|I1 Rebelous Sarranid Millet
+trp_sarranid_r_extra1_pl|I1 Rebelous Sarranid Milletani
+trp_sarranid_r_extra2|I1 Adventurous Sarranid Millet
+trp_sarranid_r_extra2_pl|I1 Adventurous Sarranid Milletani
+trp_sarranid_r_extra3|I1 Begrudged Sarranid Millet
+trp_sarranid_r_extra3_pl|I1 Begrudged Sarranid Milletani
+trp_sarranid_r_extra4|I1 Travelling Sarranid Millet
+trp_sarranid_r_extra4_pl|I1 Travelling Sarranid Milletani
+trp_sarranid_r_extra5|I1 Docile Sarranid Millet
+trp_sarranid_r_extra5_pl|I1 Docile Sarranid Milletani
+trp_sarranid_e_millet|I1 Sarranid Millet
+trp_sarranid_e_millet_pl|I1 Sarranid Milletani
+trp_sarranid_e_ajam|I2 Sarranid Ajam
+trp_sarranid_e_ajam_pl|I2 Sarranid Ajami
+trp_sarranid_e_oglan|A2 Sarranid Oglan
+trp_sarranid_e_oglan_pl|A2 Sarranid Oglani
+trp_sarranid_e_azab|I3 Sarranid Azab
+trp_sarranid_e_azab_pl|I3 Sarranid Azablar
+trp_sarranid_e_cemaat|I3 Sarranid Cemaat
+trp_sarranid_e_cemaat_pl|I3 Sarranid Cemaatle
+trp_sarranid_e_jebelus|A3 Sarranid Jebelus
+trp_sarranid_e_jebelus_pl|A3 Sarranid Jebeli
+trp_sarranid_e_ghulam|A3 Sarranid Ghulam
+trp_sarranid_e_ghulam_pl|A3 Sarranid Ghilman
+trp_sarranid_e_al_haqa|I4 Sarranid Al-Haqa
+trp_sarranid_e_al_haqa_pl|I4 Sarranid Al-Haqani
+trp_sarranid_e_timariot|C4 Sarranid Timariot
+trp_sarranid_e_timariot_pl|C4 Sarranid Timarioter
+trp_sarranid_e_yerliyya|I4 Sarranid Yerliyya
+trp_sarranid_e_yerliyya_pl|I4 Sarranid Yerliyyas
+trp_sarranid_e_kapikulu_savari|C4 Sarranid Kapikulu Savari
+trp_sarranid_e_kapikulu_savari_pl|C4 Sarranid Kapikulu Savarleri
+trp_sarranid_e_garip|A4 Sarranid Garip
+trp_sarranid_e_garip_pl|A4 Sarranid Garipler
+trp_sarranid_e_badw|H4 Sarranid Badw
+trp_sarranid_e_badw_pl|H4 Sarranid Badawi
+trp_sarranid_e_serdengecti|A4 Sarranid Serdengecti
+trp_sarranid_e_serdengecti_pl|A4 Sarranid Serdengectleri
+trp_sarranid_e_tabardariyya|A4 Sarranid Tabardariyya
+trp_sarranid_e_tabardariyya_pl|A4 Sarranid Tabardariyyani
+trp_sarranid_e_kapikula|C5 Sarranid Kapikula
+trp_sarranid_e_kapikula_pl|C5 Sarranid Kapikulani
+trp_sarranid_e_yeniceri|I5 Sarranid Yeniceri
+trp_sarranid_e_yeniceri_pl|I5 Sarranid Yeniceriler
+trp_sarranid_e_beylik|C5 Sarranid Beylik
+trp_sarranid_e_beylik_pl|C5 Sarranid Beylerin
+trp_sarranid_e_uluteci|A5 Sarranid Uluteci
+trp_sarranid_e_uluteci_pl|A5 Sarranid Uluteciler
+trp_sarranid_e_akinci|H5 Sarranid Akinci
+trp_sarranid_e_akinci_pl|H5 Sarranid Akinciler
+trp_sarranid_e_terkes_serdengecti|A5 Sarranid Terkes Serdengecti
+trp_sarranid_e_terkes_serdengecti_pl|A5 Sarranid Terkes Serdengectleri
+trp_sarranid_e_qilich_arslan|C6 Sarranid Qilich Arslan
+trp_sarranid_e_qilich_arslan_pl|C6 Sarranid Qilich Arslani
+trp_sarranid_e_memluk|C6 Sarranid Memluk
+trp_sarranid_e_memluk_pl|C6 Sarranid Mamalik
+trp_sarranid_e_sekban|C6 Sarranid Sekban
+trp_sarranid_e_sekban_pl|C6 Sarranid Sekbanlar
+trp_sarranid_e_silahtar|A6 Sarranid Silahtar
+trp_sarranid_e_silahtar_pl|A6 Sarranid Silahtarin
+trp_sarranid_e_sipahi|H6 Sarranid Sipahi
+trp_sarranid_e_sipahi_pl|H6 Sarranid Sipahiler
+trp_sarranid_e_hasham|C7 Sarranid Hasham
+trp_sarranid_e_hasham_pl|C7 Sarranid Hashamler
+trp_sarranid_e_iqta_dar|H7 Sarranid Iqta'dar
+trp_sarranid_e_iqta_dar_pl|H7 Sarranid Iqta'darani
+trp_sarranid_e_extra1|I1 Rebelous Sarranid Millet
+trp_sarranid_e_extra1_pl|I1 Rebelous Sarranid Milletani
+trp_sarranid_e_extra2|I1 Adventurous Sarranid Millet
+trp_sarranid_e_extra2_pl|I1 Adventurous Sarranid Milletani
+trp_sarranid_e_extra3|I1 Begrudged Sarranid Millet
+trp_sarranid_e_extra3_pl|I1 Begrudged Sarranid Milletani
+trp_sarranid_e_extra4|I1 Travelling Sarranid Millet
+trp_sarranid_e_extra4_pl|I1 Travelling Sarranid Milletani
+trp_sarranid_e_extra5|I1 Docile Sarranid Millet
+trp_sarranid_e_extra5_pl|I1 Docile Sarranid Milletani
 trp_sarranid_messenger|Messaggero del Sultanato
 trp_sarranid_messenger_pl|Messaggeri del Sultanato
 trp_sarranid_deserter|Disertore Sarranide
@@ -1080,590 +1080,590 @@ trp_sarranid_prison_guard|Carcieriere
 trp_sarranid_prison_guard_pl|Carcierieri
 trp_sarranid_castle_guard|Guardia del Castello
 trp_sarranid_castle_guard_pl|Guardie del Castello
-; trp_custom_n_recruit|Unsullied
-; trp_custom_n_recruit_pl|Unsullied
-; trp_custom_n_recruit_equip|Unsullied
-; trp_custom_n_recruit_equip_pl|Unsullied
-; trp_custom_n_recruit_selection|Unsullied
-; trp_custom_n_recruit_selection_pl|Unsullied
-; trp_custom_n_militia|Freelancer Militia
-; trp_custom_n_militia_pl|Freelancer Militia
-; trp_custom_n_militia_equip|Freelancer Militia
-; trp_custom_n_militia_equip_pl|Freelancer Militia
-; trp_custom_n_militia_selection|Freelancer Militia
-; trp_custom_n_militia_selection_pl|Freelancer Militia
-; trp_custom_n_page|Freelancer Page
-; trp_custom_n_page_pl|Freelancer Page
-; trp_custom_n_page_equip|Freelancer Page
-; trp_custom_n_page_equip_pl|Freelancer Page
-; trp_custom_n_page_selection|Freelancer Page
-; trp_custom_n_page_selection_pl|Freelancer Page
-; trp_custom_n_guard|Freelancer Guard
-; trp_custom_n_guard_pl|Freelancer Guards
-; trp_custom_n_guard_equip|Freelancer Guard
-; trp_custom_n_guard_equip_pl|Freelancer Guards
-; trp_custom_n_guard_selection|Freelancer Guard
-; trp_custom_n_guard_selection_pl|Freelancer Guards
-; trp_custom_n_squire|Freelancer Squire
-; trp_custom_n_squire_pl|Freelancer Squires
-; trp_custom_n_squire_equip|Freelancer Squire
-; trp_custom_n_squire_equip_pl|Freelancer Squires
-; trp_custom_n_squire_selection|Freelancer Squire
-; trp_custom_n_squire_selection_pl|Freelancer Squires
-; trp_custom_n_swordman|Freelancer Swordman
-; trp_custom_n_swordman_pl|Freelancer Swordmen
-; trp_custom_n_swordman_equip|Freelancer Swordman
-; trp_custom_n_swordman_equip_pl|Freelancer Swordmen
-; trp_custom_n_swordman_selection|Freelancer Swordman
-; trp_custom_n_swordman_selection_pl|Freelancer Swordmen
-; trp_custom_n_archer|Freelancer Archer
-; trp_custom_n_archer_pl|Freelancer Archers
-; trp_custom_n_archer_equip|Freelancer Archer
-; trp_custom_n_archer_equip_pl|Freelancer Archers
-; trp_custom_n_archer_selection|Freelancer Archer
-; trp_custom_n_archer_selection_pl|Freelancer Archers
-; trp_custom_n_knight|Freelancer Knight
-; trp_custom_n_knight_pl|Freelancer Knights
-; trp_custom_n_knight_equip|Freelancer Knight
-; trp_custom_n_knight_equip_pl|Freelancer Knights
-; trp_custom_n_knight_selection|Freelancer Knight
-; trp_custom_n_knight_selection_pl|Freelancer Knights
-; trp_custom_n_swordmaster|Freelancer Swordmaster
-; trp_custom_n_swordmaster_pl|Freelancer Swordmasters
-; trp_custom_n_swordmaster_equip|Freelancer Swordmaster
-; trp_custom_n_swordmaster_equip_pl|Freelancer Swordmasters
-; trp_custom_n_swordmaster_selection|Freelancer Swordmaster
-; trp_custom_n_swordmaster_selection_pl|Freelancer Swordmasters
-; trp_custom_n_expert_archer|Freelancer Expert Archer
-; trp_custom_n_expert_archer_pl|Freelancer Expert Archers
-; trp_custom_n_expert_archer_equip|Freelancer Expert Archer
-; trp_custom_n_expert_archer_equip_pl|Freelancer Expert Archers
-; trp_custom_n_expert_archer_selection|Freelancer Expert Archer
-; trp_custom_n_expert_archer_selection_pl|Freelancer Expert Archers
-; trp_custom_r_recruit|I1 Freelancer Recruit
-; trp_custom_r_recruit_pl|I1 Freelancer Recruits
-; trp_custom_r_recruit_equip|I1 Freelancer Recruit
-; trp_custom_r_recruit_equip_pl|I1 Freelancer Recruits
-; trp_custom_r_recruit_selection|I1 Freelancer Recruit
-; trp_custom_r_recruit_selection_pl|I1 Freelancer Recruits
-; trp_custom_r_militia|I2 Freelancer Militia
-; trp_custom_r_militia_pl|I2 Freelancer Militia
-; trp_custom_r_militia_equip|I2 Freelancer Militia
-; trp_custom_r_militia_equip_pl|I2 Freelancer Militia
-; trp_custom_r_militia_selection|I2 Freelancer Militia
-; trp_custom_r_militia_selection_pl|I2 Freelancer Militia
-; trp_custom_r_hunter|A2 Freelancer Hunter
-; trp_custom_r_hunter_pl|A2 Freelancer Hunters
-; trp_custom_r_hunter_equip|A2 Freelancer Hunter
-; trp_custom_r_hunter_equip_pl|A2 Freelancer Hunters
-; trp_custom_r_hunter_selection|A2 Freelancer Hunter
-; trp_custom_r_hunter_selection_pl|A2 Freelancer Hunters
-; trp_custom_r_guard|I3 Freelancer Guard
-; trp_custom_r_guard_pl|I3 Freelancer Guards
-; trp_custom_r_guard_equip|I3 Freelancer Guard
-; trp_custom_r_guard_equip_pl|I3 Freelancer Guards
-; trp_custom_r_guard_selection|I3 Freelancer Guard
-; trp_custom_r_guard_selection_pl|I3 Freelancer Guards
-; trp_custom_r_page|C3 Freelancer Page
-; trp_custom_r_page_pl|C3 Freelancer Page
-; trp_custom_r_page_equip|C3 Freelancer Page
-; trp_custom_r_page_equip_pl|C3 Freelancer Page
-; trp_custom_r_page_selection|C3 Freelancer Page
-; trp_custom_r_page_selection_pl|C3 Freelancer Page
-; trp_custom_r_woodsman|A3 Freelancer Woodsman
-; trp_custom_r_woodsman_pl|A3 Freelancer Woodsmen
-; trp_custom_r_woodsman_equip|A3 Freelancer Woodsman
-; trp_custom_r_woodsman_equip_pl|A3 Freelancer Woodsmen
-; trp_custom_r_woodsman_selection|A3 Freelancer Woodsman
-; trp_custom_r_woodsman_selection_pl|A3 Freelancer Woodsmen
-; trp_custom_r_spearman|I4 Freelancer Spearman
-; trp_custom_r_spearman_pl|I4 Freelancer Spearmen
-; trp_custom_r_spearman_equip|I4 Freelancer Spearman
-; trp_custom_r_spearman_equip_pl|I4 Freelancer Spearmen
-; trp_custom_r_spearman_selection|I4 Freelancer Spearman
-; trp_custom_r_spearman_selection_pl|I4 Freelancer Spearmen
-; trp_custom_r_swordman|I4 Freelancer Swordman
-; trp_custom_r_swordman_pl|I4 Freelancer Swordmen
-; trp_custom_r_swordman_equip|I4 Freelancer Swordman
-; trp_custom_r_swordman_equip_pl|I4 Freelancer Swordmen
-; trp_custom_r_swordman_selection|I4 Freelancer Swordman
-; trp_custom_r_swordman_selection_pl|I4 Freelancer Swordmen
-; trp_custom_r_squire|C4 Freelancer Squire
-; trp_custom_r_squire_pl|C4 Freelancer Squires
-; trp_custom_r_squire_equip|C4 Freelancer Squire
-; trp_custom_r_squire_equip_pl|C4 Freelancer Squires
-; trp_custom_r_squire_selection|C4 Freelancer Squire
-; trp_custom_r_squire_selection_pl|C4 Freelancer Squires
-; trp_custom_r_archer|A4 Freelancer Archer
-; trp_custom_r_archer_pl|A4 Freelancer Archers
-; trp_custom_r_archer_equip|A4 Freelancer Archer
-; trp_custom_r_archer_equip_pl|A4 Freelancer Archers
-; trp_custom_r_archer_selection|A4 Freelancer Archer
-; trp_custom_r_archer_selection_pl|A4 Freelancer Archers
-; trp_custom_r_skirmisher|A4 Freelancer Skirmisher
-; trp_custom_r_skirmisher_pl|A4 Freelancer Skirmishers
-; trp_custom_r_skirmisher_equip|A4 Freelancer Skirmisher
-; trp_custom_r_skirmisher_equip_pl|A4 Freelancer Skirmishers
-; trp_custom_r_skirmisher_selection|A4 Freelancer Skirmisher
-; trp_custom_r_skirmisher_selection_pl|A4 Freelancer Skirmishers
-; trp_custom_r_swordmaster|I5 Freelancer Swordmaster
-; trp_custom_r_swordmaster_pl|I5 Freelancer Swordmasters
-; trp_custom_r_swordmaster_equip|I5 Freelancer Swordmaster
-; trp_custom_r_swordmaster_equip_pl|I5 Freelancer Swordmasters
-; trp_custom_r_swordmaster_selection|I5 Freelancer Swordmaster
-; trp_custom_r_swordmaster_selection_pl|I5 Freelancer Swordmasters
-; trp_custom_r_knight|C5 Freelancer Knight
-; trp_custom_r_knight_pl|C5 Freelancer Knights
-; trp_custom_r_knight_equip|C5 Freelancer Knight
-; trp_custom_r_knight_equip_pl|C5 Freelancer Knights
-; trp_custom_r_knight_selection|C5 Freelancer Knight
-; trp_custom_r_knight_selection_pl|C5 Freelancer Knights
-; trp_custom_r_expert_archer|A5 Freelancer Expert Archer
-; trp_custom_r_expert_archer_pl|A5 Freelancer Expert Archers
-; trp_custom_r_expert_archer_equip|A5 Freelancer Expert Archer
-; trp_custom_r_expert_archer_equip_pl|A5 Freelancer Expert Archers
-; trp_custom_r_expert_archer_selection|A5 Freelancer Expert Archer
-; trp_custom_r_expert_archer_selection_pl|A5 Freelancer Expert Archers
-; trp_custom_r_frontline_skirmisher|A5 Freelancer Frontline Skirmisher
-; trp_custom_r_frontline_skirmisher_pl|A5 Freelancer Frontline Skirmishers
-; trp_custom_r_frontline_skirmisher_equip|A5 Freelancer Frontline Skirmisher
-; trp_custom_r_frontline_skirmisher_equip_pl|A5 Freelancer Frontline Skirmishers
-; trp_custom_r_frontline_skirmisher_selection|A5 Freelancer Frontline Skirmisher
-; trp_custom_r_frontline_skirmisher_selection_pl|A5 Freelancer Frontline Skirmishers
-; trp_custom_e_recruit|Unsullied
-; trp_custom_e_recruit_pl|Unsullied
-; trp_custom_e_recruit_equip|Unsullied
-; trp_custom_e_recruit_equip_pl|Unsullied
-; trp_custom_e_recruit_selection|Unsullied
-; trp_custom_e_recruit_selection_pl|Unsullied
-; trp_custom_e_militia|I2 Freelancer Militia
-; trp_custom_e_militia_pl|I2 Freelancer Militia
-; trp_custom_e_militia_equip|I2 Freelancer Militia
-; trp_custom_e_militia_equip_pl|I2 Freelancer Militia
-; trp_custom_e_militia_selection|I2 Freelancer Militia
-; trp_custom_e_militia_selection_pl|I2 Freelancer Militia
-; trp_custom_e_hunter|A2 Freelancer Hunter
-; trp_custom_e_hunter_pl|A2 Freelancer Hunters
-; trp_custom_e_hunter_equip|A2 Freelancer Hunter
-; trp_custom_e_hunter_equip_pl|A2 Freelancer Hunters
-; trp_custom_e_hunter_selection|A2 Freelancer Hunter
-; trp_custom_e_hunter_selection_pl|A2 Freelancer Hunters
-; trp_custom_e_guard|I3 Freelancer Guard
-; trp_custom_e_guard_pl|I3 Freelancer Guards
-; trp_custom_e_guard_equip|I3 Freelancer Guard
-; trp_custom_e_guard_equip_pl|I3 Freelancer Guards
-; trp_custom_e_guard_selection|I3 Freelancer Guard
-; trp_custom_e_guard_selection_pl|I3 Freelancer Guards
-; trp_custom_e_page|C3 Freelancer Page
-; trp_custom_e_page_pl|C3 Freelancer Page
-; trp_custom_e_page_equip|C3 Freelancer Page
-; trp_custom_e_page_equip_pl|C3 Freelancer Page
-; trp_custom_e_page_selection|C3 Freelancer Page
-; trp_custom_e_page_selection_pl|C3 Freelancer Page
-; trp_custom_e_woodsman|A3 Freelancer Woodsman
-; trp_custom_e_woodsman_pl|A3 Freelancer Woodsmen
-; trp_custom_e_woodsman_equip|A3 Freelancer Woodsman
-; trp_custom_e_woodsman_equip_pl|A3 Freelancer Woodsmen
-; trp_custom_e_woodsman_selection|A3 Freelancer Woodsman
-; trp_custom_e_woodsman_selection_pl|A3 Freelancer Woodsmen
-; trp_custom_e_swordman|I4 Freelancer Swordman
-; trp_custom_e_swordman_pl|I4 Freelancer Swordmen
-; trp_custom_e_swordman_equip|I4 Freelancer Swordman
-; trp_custom_e_swordman_equip_pl|I4 Freelancer Swordmen
-; trp_custom_e_swordman_selection|I4 Freelancer Swordman
-; trp_custom_e_swordman_selection_pl|I4 Freelancer Swordmen
-; trp_custom_e_spearman|I4 Freelancer Spearman
-; trp_custom_e_spearman_pl|I4 Freelancer Spearmen
-; trp_custom_e_spearman_equip|I4 Freelancer Spearman
-; trp_custom_e_spearman_equip_pl|I4 Freelancer Spearmen
-; trp_custom_e_spearman_selection|I4 Freelancer Spearman
-; trp_custom_e_spearman_selection_pl|I4 Freelancer Spearmen
-; trp_custom_e_squire|C4 Freelancer Squire
-; trp_custom_e_squire_pl|C4 Freelancer Squires
-; trp_custom_e_squire_equip|C4 Freelancer Squire
-; trp_custom_e_squire_equip_pl|C4 Freelancer Squires
-; trp_custom_e_squire_selection|C4 Freelancer Squire
-; trp_custom_e_squire_selection_pl|C4 Freelancer Squires
-; trp_custom_e_archer|A4 Freelancer Archer
-; trp_custom_e_archer_pl|A4 Freelancer Archers
-; trp_custom_e_archer_equip|A4 Freelancer Archer
-; trp_custom_e_archer_equip_pl|A4 Freelancer Archers
-; trp_custom_e_archer_selection|A4 Freelancer Archer
-; trp_custom_e_archer_selection_pl|A4 Freelancer Archers
-; trp_custom_e_skirmisher|A4 Freelancer Skirmisher
-; trp_custom_e_skirmisher_pl|A4 Freelancer Skirmishers
-; trp_custom_e_skirmisher_equip|A4 Freelancer Skirmisher
-; trp_custom_e_skirmisher_equip_pl|A4 Freelancer Skirmishers
-; trp_custom_e_skirmisher_selection|A4 Freelancer Skirmisher
-; trp_custom_e_skirmisher_selection_pl|A4 Freelancer Skirmishers
-; trp_custom_e_swordmaster|I5 Freelancer Swordmaster
-; trp_custom_e_swordmaster_pl|I5 Freelancer Swordmasters
-; trp_custom_e_swordmaster_equip|I5 Freelancer Swordmaster
-; trp_custom_e_swordmaster_equip_pl|I5 Freelancer Swordmasters
-; trp_custom_e_swordmaster_selection|I5 Freelancer Swordmaster
-; trp_custom_e_swordmaster_selection_pl|I5 Freelancer Swordmasters
-; trp_custom_e_spearmaster|I5 Freelancer Spearmaster
-; trp_custom_e_spearmaster_pl|I5 Freelancer Spearmasters
-; trp_custom_e_spearmaster_equip|I5 Freelancer Spearmaster
-; trp_custom_e_spearmaster_equip_pl|I5 Freelancer Spearmasters
-; trp_custom_e_spearmaster_selection|I5 Freelancer Spearmaster
-; trp_custom_e_spearmaster_selection_pl|I5 Freelancer Spearmasters
-; trp_custom_e_knight|C5 Freelancer Knight
-; trp_custom_e_knight_pl|C5 Freelancer Knights
-; trp_custom_e_knight_equip|C5 Freelancer Knight
-; trp_custom_e_knight_equip_pl|C5 Freelancer Knights
-; trp_custom_e_knight_selection|C5 Freelancer Knight
-; trp_custom_e_knight_selection_pl|C5 Freelancer Knights
-; trp_custom_e_horse_archer|H5 Freelancer Horse Archer
-; trp_custom_e_horse_archer_pl|H5 Freelancer Horse Archers
-; trp_custom_e_horse_archer_equip|H5 Freelancer Horse Archer
-; trp_custom_e_horse_archer_equip_pl|H5 Freelancer Horse Archers
-; trp_custom_e_horse_archer_selection|H5 Freelancer Horse Archer
-; trp_custom_e_horse_archer_selection_pl|H5 Freelancer Horse Archers
-; trp_custom_e_expert_archer|A5 Freelancer Expert Archer
-; trp_custom_e_expert_archer_pl|A5 Freelancer Expert Archers
-; trp_custom_e_expert_archer_equip|A5 Freelancer Expert Archer
-; trp_custom_e_expert_archer_equip_pl|A5 Freelancer Expert Archers
-; trp_custom_e_expert_archer_selection|A5 Freelancer Expert Archer
-; trp_custom_e_expert_archer_selection_pl|A5 Freelancer Expert Archers
-; trp_custom_e_frontline_skirmisher|A5 Freelancer Frontline Skirmisher
-; trp_custom_e_frontline_skirmisher_pl|A5 Freelancer Frontline Skirmishers
-; trp_custom_e_frontline_skirmisher_equip|A5 Freelancer Frontline Skirmisher
-; trp_custom_e_frontline_skirmisher_equip_pl|A5 Freelancer Frontline Skirmishers
-; trp_custom_e_frontline_skirmisher_selection|A5 Freelancer Frontline Skirmisher
-; trp_custom_e_frontline_skirmisher_selection_pl|A5 Freelancer Frontline Skirmishers
-; trp_custom_e_heavy_knight|C6 Freelancer Heavy Knight
-; trp_custom_e_heavy_knight_pl|C6 Freelancer Heavy Knights
-; trp_custom_e_heavy_knight_equip|C6 Freelancer Heavy Knight
-; trp_custom_e_heavy_knight_equip_pl|C6 Freelancer Heavy Knights
-; trp_custom_e_heavy_knight_selection|C6 Freelancer Heavy Knight
-; trp_custom_e_heavy_knight_selection_pl|C6 Freelancer Heavy Knights
-; trp_custom_e_heavy_horse_archer|H6 Freelancer Heavy Horse Archer
-; trp_custom_e_heavy_horse_archer_pl|H6 Freelancer Heavy Horse Archers
-; trp_custom_e_heavy_horse_archer_equip|H6 Freelancer Heavy Horse Archer
-; trp_custom_e_heavy_horse_archer_equip_pl|H6 Freelancer Heavy Horse Archers
-; trp_custom_e_heavy_horse_archer_selection|H6 Freelancer Heavy Horse Archer
-; trp_custom_e_heavy_horse_archer_selection_pl|H6 Freelancer Heavy Horse Archers
-; trp_custom_master|Grazmak mo Senko
-; trp_custom_master_pl|Grazmak mo Senko
+trp_custom_n_recruit|Immacolato
+trp_custom_n_recruit_pl|Immacolati
+trp_custom_n_recruit_equip|Immacolato
+trp_custom_n_recruit_equip_pl|Immacolati
+trp_custom_n_recruit_selection|Immacolato
+trp_custom_n_recruit_selection_pl|Immacolati
+trp_custom_n_militia|Milizia Indipendente
+trp_custom_n_militia_pl|Milizia Indipendente
+trp_custom_n_militia_equip|Milizia Indipendente
+trp_custom_n_militia_equip_pl|Milizia Indipendente
+trp_custom_n_militia_selection|Milizia Indipendente
+trp_custom_n_militia_selection_pl|Milizia Indipendente
+trp_custom_n_page|Indipendente Paggio
+trp_custom_n_page_pl|Indipendente Paggio
+trp_custom_n_page_equip|Indipendente Paggio
+trp_custom_n_page_equip_pl|Indipendente Paggio
+trp_custom_n_page_selection|Indipendente Paggio
+trp_custom_n_page_selection_pl|Indipendente Paggio
+trp_custom_n_guard|Indipendente Guardia
+trp_custom_n_guard_pl|Indipendente Guardie
+trp_custom_n_guard_equip|Indipendente Guardia
+trp_custom_n_guard_equip_pl|Indipendente Guardie
+trp_custom_n_guard_selection|Indipendente Guardia
+trp_custom_n_guard_selection_pl|Indipendente Guardie
+trp_custom_n_squire|Indipendente Scudiero
+trp_custom_n_squire_pl|Indipendente Scudieri
+trp_custom_n_squire_equip|Indipendente Scudiero
+trp_custom_n_squire_equip_pl|Indipendente Scudieri
+trp_custom_n_squire_selection|Indipendente Scudiero
+trp_custom_n_squire_selection_pl|Indipendente Scudieri
+trp_custom_n_swordman|Indipendente Spadaccino
+trp_custom_n_swordman_pl|Indipendente Spadaccini
+trp_custom_n_swordman_equip|Indipendente Spadaccino
+trp_custom_n_swordman_equip_pl|Indipendente Spadaccini
+trp_custom_n_swordman_selection|Indipendente Spadaccino
+trp_custom_n_swordman_selection_pl|Indipendente Spadaccini
+trp_custom_n_archer|Indipendente Arciere
+trp_custom_n_archer_pl|Indipendente Arcieri
+trp_custom_n_archer_equip|Indipendente Arciere
+trp_custom_n_archer_equip_pl|Indipendente Arcieri
+trp_custom_n_archer_selection|Indipendente Arciere
+trp_custom_n_archer_selection_pl|Indipendente Arcieri
+trp_custom_n_knight|Indipendente Cavaliere
+trp_custom_n_knight_pl|Indipendente Cavalieri
+trp_custom_n_knight_equip|Indipendente Cavaliere
+trp_custom_n_knight_equip_pl|Indipendente Cavalieri
+trp_custom_n_knight_selection|Indipendente Cavaliere
+trp_custom_n_knight_selection_pl|Indipendente Cavalieri
+trp_custom_n_swordmaster|Indipendente Maestro di Spade
+trp_custom_n_swordmaster_pl|Indipendente Maestri di Spade
+trp_custom_n_swordmaster_equip|Indipendente Maestro di Spade
+trp_custom_n_swordmaster_equip_pl|Indipendente Maestri di Spade
+trp_custom_n_swordmaster_selection|Indipendente Maestro di Spade
+trp_custom_n_swordmaster_selection_pl|Indipendente Maestri di Spade
+trp_custom_n_expert_archer|Indipendente Esperto Arciere
+trp_custom_n_expert_archer_pl|Indipendente Esperto Arcieri
+trp_custom_n_expert_archer_equip|Indipendente Esperto Arciere
+trp_custom_n_expert_archer_equip_pl|Indipendente Esperto Arcieri
+trp_custom_n_expert_archer_selection|Indipendente Esperto Arciere
+trp_custom_n_expert_archer_selection_pl|Indipendente Esperto Arcieri
+trp_custom_r_recruit|I1 Indipendente Recluta
+trp_custom_r_recruit_pl|I1 Indipendente Reclute
+trp_custom_r_recruit_equip|I1 Indipendente Recluta
+trp_custom_r_recruit_equip_pl|I1 Indipendente Reclute
+trp_custom_r_recruit_selection|I1 Indipendente Recluta
+trp_custom_r_recruit_selection_pl|I1 Indipendente Reclute
+trp_custom_r_militia|I2 Indipendente Milizia
+trp_custom_r_militia_pl|I2 Indipendente Milizia
+trp_custom_r_militia_equip|I2 Indipendente Milizia
+trp_custom_r_militia_equip_pl|I2 Indipendente Milizia
+trp_custom_r_militia_selection|I2 Indipendente Milizia
+trp_custom_r_militia_selection_pl|I2 Indipendente Milizia
+trp_custom_r_hunter|A2 Indipendente Cacciatore
+trp_custom_r_hunter_pl|A2 Indipendente Cacciatori
+trp_custom_r_hunter_equip|A2 Indipendente Cacciatore
+trp_custom_r_hunter_equip_pl|A2 Indipendente Cacciatori
+trp_custom_r_hunter_selection|A2 Indipendente Cacciatore
+trp_custom_r_hunter_selection_pl|A2 Indipendente Cacciatori
+trp_custom_r_guard|I3 Indipendente Guardia
+trp_custom_r_guard_pl|I3 Indipendente Guardie
+trp_custom_r_guard_equip|I3 Indipendente Guardia
+trp_custom_r_guard_equip_pl|I3 Indipendente Guardie
+trp_custom_r_guard_selection|I3 Indipendente Guardia
+trp_custom_r_guard_selection_pl|I3 Indipendente Guardie
+trp_custom_r_page|C3 Indipendente Paggio
+trp_custom_r_page_pl|C3 Indipendente Paggio
+trp_custom_r_page_equip|C3 Indipendente Paggio
+trp_custom_r_page_equip_pl|C3 Indipendente Paggio
+trp_custom_r_page_selection|C3 Indipendente Paggio
+trp_custom_r_page_selection_pl|C3 Indipendente Paggio
+trp_custom_r_woodsman|A3 Indipendente Boscaiolo
+trp_custom_r_woodsman_pl|A3 Indipendente Boscaioli
+trp_custom_r_woodsman_equip|A3 Indipendente Boscaiolo
+trp_custom_r_woodsman_equip_pl|A3 Indipendente Boscaioli
+trp_custom_r_woodsman_selection|A3 Indipendente Boscaiolo
+trp_custom_r_woodsman_selection_pl|A3 Indipendente Boscaioli
+trp_custom_r_spearman|I4 Indipendente Lanciere
+trp_custom_r_spearman_pl|I4 Indipendente Lancieri
+trp_custom_r_spearman_equip|I4 Indipendente Lanciere
+trp_custom_r_spearman_equip_pl|I4 Indipendente Lancieri
+trp_custom_r_spearman_selection|I4 Indipendente Lanciere
+trp_custom_r_spearman_selection_pl|I4 Indipendente Lancieri
+trp_custom_r_swordman|I4 Indipendente Spadaccino
+trp_custom_r_swordman_pl|I4 Indipendente Spadaccini
+trp_custom_r_swordman_equip|I4 Indipendente Spadaccino
+trp_custom_r_swordman_equip_pl|I4 Indipendente Spadaccini
+trp_custom_r_swordman_selection|I4 Indipendente Spadaccino
+trp_custom_r_swordman_selection_pl|I4 Indipendente Spadaccini
+trp_custom_r_squire|C4 Indipendente Scudiero
+trp_custom_r_squire_pl|C4 Indipendente Scudieri
+trp_custom_r_squire_equip|C4 Indipendente Scudiero
+trp_custom_r_squire_equip_pl|C4 Indipendente Scudieri
+trp_custom_r_squire_selection|C4 Indipendente Scudiero
+trp_custom_r_squire_selection_pl|C4 Indipendente Scudieri
+trp_custom_r_archer|A4 Indipendente Arciere
+trp_custom_r_archer_pl|A4 Indipendente Arcieri
+trp_custom_r_archer_equip|A4 Indipendente Arciere
+trp_custom_r_archer_equip_pl|A4 Indipendente Arcieri
+trp_custom_r_archer_selection|A4 Indipendente Arciere
+trp_custom_r_archer_selection_pl|A4 Indipendente Arcieri
+trp_custom_r_skirmisher|A4 Indipendente Schermagliatore
+trp_custom_r_skirmisher_pl|A4 Indipendente Schermagliatori
+trp_custom_r_skirmisher_equip|A4 Indipendente Schermagliatore
+trp_custom_r_skirmisher_equip_pl|A4 Indipendente Schermagliatori
+trp_custom_r_skirmisher_selection|A4 Indipendente Schermagliatore
+trp_custom_r_skirmisher_selection_pl|A4 Indipendente Schermagliatori
+trp_custom_r_swordmaster|I5 Indipendente Maestro di Spade
+trp_custom_r_swordmaster_pl|I5 Indipendente Maestri di Spade
+trp_custom_r_swordmaster_equip|I5 Indipendente Maestro di Spade
+trp_custom_r_swordmaster_equip_pl|I5 Indipendente Maestri di Spade
+trp_custom_r_swordmaster_selection|I5 Indipendente Maestro di Spade
+trp_custom_r_swordmaster_selection_pl|I5 Indipendente Maestri di Spade
+trp_custom_r_knight|C5 Indipendente Cavaliere
+trp_custom_r_knight_pl|C5 Indipendente Cavalieri
+trp_custom_r_knight_equip|C5 Indipendente Cavaliere
+trp_custom_r_knight_equip_pl|C5 Indipendente Cavalieri
+trp_custom_r_knight_selection|C5 Indipendente Cavaliere
+trp_custom_r_knight_selection_pl|C5 Indipendente Cavalieri
+trp_custom_r_expert_archer|A5 Indipendente Esperto Arciere
+trp_custom_r_expert_archer_pl|A5 Indipendente Esperto Arcieri
+trp_custom_r_expert_archer_equip|A5 Indipendente Esperto Arciere
+trp_custom_r_expert_archer_equip_pl|A5 Indipendente Esperto Arcieri
+trp_custom_r_expert_archer_selection|A5 Indipendente Esperto Arciere
+trp_custom_r_expert_archer_selection_pl|A5 Indipendente Esperto Arcieri
+trp_custom_r_frontline_skirmisher|A5 Indipendente Prima Linea Schermagliatore
+trp_custom_r_frontline_skirmisher_pl|A5 Indipendente Prima Linea Schermagliatori
+trp_custom_r_frontline_skirmisher_equip|A5 Indipendente Prima Linea Schermagliatore
+trp_custom_r_frontline_skirmisher_equip_pl|A5 Indipendente Prima Linea Schermagliatori
+trp_custom_r_frontline_skirmisher_selection|A5 Indipendente Prima Linea Schermagliatore
+trp_custom_r_frontline_skirmisher_selection_pl|A5 Indipendente Prima Linea Schermagliatori
+trp_custom_e_recruit|Immacolato
+trp_custom_e_recruit_pl|Immacolati
+trp_custom_e_recruit_equip|Immacolato
+trp_custom_e_recruit_equip_pl|Immacolati
+trp_custom_e_recruit_selection|Immacolato
+trp_custom_e_recruit_selection_pl|Immacolati
+trp_custom_e_militia|I2 Indipendente Milizia
+trp_custom_e_militia_pl|I2 Indipendente Milizia
+trp_custom_e_militia_equip|I2 Indipendente Milizia
+trp_custom_e_militia_equip_pl|I2 Indipendente Milizia
+trp_custom_e_militia_selection|I2 Indipendente Milizia
+trp_custom_e_militia_selection_pl|I2 Indipendente Milizia
+trp_custom_e_hunter|A2 Indipendente Cacciatore
+trp_custom_e_hunter_pl|A2 Indipendente Cacciatori
+trp_custom_e_hunter_equip|A2 Indipendente Cacciatore
+trp_custom_e_hunter_equip_pl|A2 Indipendente Cacciatori
+trp_custom_e_hunter_selection|A2 Indipendente Cacciatore
+trp_custom_e_hunter_selection_pl|A2 Indipendente Cacciatori
+trp_custom_e_guard|I3 Indipendente Guardia
+trp_custom_e_guard_pl|I3 Indipendente Guardie
+trp_custom_e_guard_equip|I3 Indipendente Guardia
+trp_custom_e_guard_equip_pl|I3 Indipendente Guardie
+trp_custom_e_guard_selection|I3 Indipendente Guardia
+trp_custom_e_guard_selection_pl|I3 Indipendente Guardie
+trp_custom_e_page|C3 Indipendente Paggio
+trp_custom_e_page_pl|C3 Indipendente Paggio
+trp_custom_e_page_equip|C3 Indipendente Paggio
+trp_custom_e_page_equip_pl|C3 Indipendente Paggio
+trp_custom_e_page_selection|C3 Indipendente Paggio
+trp_custom_e_page_selection_pl|C3 Indipendente Paggio
+trp_custom_e_woodsman|A3 Indipendente Boscaiolo
+trp_custom_e_woodsman_pl|A3 Indipendente Boscaioli
+trp_custom_e_woodsman_equip|A3 Indipendente Boscaiolo
+trp_custom_e_woodsman_equip_pl|A3 Indipendente Boscaioli
+trp_custom_e_woodsman_selection|A3 Indipendente Boscaiolo
+trp_custom_e_woodsman_selection_pl|A3 Indipendente Boscaioli
+trp_custom_e_swordman|I4 Indipendente Spadaccino
+trp_custom_e_swordman_pl|I4 Indipendente Spadaccini
+trp_custom_e_swordman_equip|I4 Indipendente Spadaccino
+trp_custom_e_swordman_equip_pl|I4 Indipendente Spadaccini
+trp_custom_e_swordman_selection|I4 Indipendente Spadaccino
+trp_custom_e_swordman_selection_pl|I4 Indipendente Spadaccini
+trp_custom_e_spearman|I4 Indipendente Lanciere
+trp_custom_e_spearman_pl|I4 Indipendente Lancieri
+trp_custom_e_spearman_equip|I4 Indipendente Lanciere
+trp_custom_e_spearman_equip_pl|I4 Indipendente Lancieri
+trp_custom_e_spearman_selection|I4 Indipendente Lanciere
+trp_custom_e_spearman_selection_pl|I4 Indipendente Lancieri
+trp_custom_e_squire|C4 Indipendente Scudiero
+trp_custom_e_squire_pl|C4 Indipendente Scudieri
+trp_custom_e_squire_equip|C4 Indipendente Scudiero
+trp_custom_e_squire_equip_pl|C4 Indipendente Scudieri
+trp_custom_e_squire_selection|C4 Indipendente Scudiero
+trp_custom_e_squire_selection_pl|C4 Indipendente Scudieri
+trp_custom_e_archer|A4 Indipendente Arciere
+trp_custom_e_archer_pl|A4 Indipendente Arcieri
+trp_custom_e_archer_equip|A4 Indipendente Arciere
+trp_custom_e_archer_equip_pl|A4 Indipendente Arcieri
+trp_custom_e_archer_selection|A4 Indipendente Arciere
+trp_custom_e_archer_selection_pl|A4 Indipendente Arcieri
+trp_custom_e_skirmisher|A4 Indipendente Schermagliatore
+trp_custom_e_skirmisher_pl|A4 Indipendente Schermagliatori
+trp_custom_e_skirmisher_equip|A4 Indipendente Schermagliatore
+trp_custom_e_skirmisher_equip_pl|A4 Indipendente Schermagliatori
+trp_custom_e_skirmisher_selection|A4 Indipendente Schermagliatore
+trp_custom_e_skirmisher_selection_pl|A4 Indipendente Schermagliatori
+trp_custom_e_swordmaster|I5 Indipendente Maestro di Spade
+trp_custom_e_swordmaster_pl|I5 Indipendente Maestri di Spade
+trp_custom_e_swordmaster_equip|I5 Indipendente Maestro di Spade
+trp_custom_e_swordmaster_equip_pl|I5 Indipendente Maestri di Spade
+trp_custom_e_swordmaster_selection|I5 Indipendente Maestro di Spade
+trp_custom_e_swordmaster_selection_pl|I5 Indipendente Maestri di Spade
+trp_custom_e_spearmaster|I5 Indipendente Maestro di Lancia
+trp_custom_e_spearmaster_pl|I5 Indipendente Maestri di Lancia
+trp_custom_e_spearmaster_equip|I5 Indipendente Maestro di Lancia
+trp_custom_e_spearmaster_equip_pl|I5 Indipendente Maestri di Lancia
+trp_custom_e_spearmaster_selection|I5 Indipendente Maestro di Lancia
+trp_custom_e_spearmaster_selection_pl|I5 Indipendente Maestri di Lancia
+trp_custom_e_knight|C5 Indipendente Cavaliere
+trp_custom_e_knight_pl|C5 Indipendente Cavalieri
+trp_custom_e_knight_equip|C5 Indipendente Cavaliere
+trp_custom_e_knight_equip_pl|C5 Indipendente Cavalieri
+trp_custom_e_knight_selection|C5 Indipendente Cavaliere
+trp_custom_e_knight_selection_pl|C5 Indipendente Cavalieri
+trp_custom_e_horse_archer|H5 Indipendente a Cavallo Arciere
+trp_custom_e_horse_archer_pl|H5 Indipendente a Cavallo Arcieri
+trp_custom_e_horse_archer_equip|H5 Indipendente a Cavallo Arciere
+trp_custom_e_horse_archer_equip_pl|H5 Indipendente a Cavallo Arcieri
+trp_custom_e_horse_archer_selection|H5 Indipendente a Cavallo Arciere
+trp_custom_e_horse_archer_selection_pl|H5 Indipendente a Cavallo Arcieri
+trp_custom_e_expert_archer|A5 Indipendente Esperto Arciere
+trp_custom_e_expert_archer_pl|A5 Indipendente Esperto Arcieri
+trp_custom_e_expert_archer_equip|A5 Indipendente Esperto Arciere
+trp_custom_e_expert_archer_equip_pl|A5 Indipendente Esperto Arcieri
+trp_custom_e_expert_archer_selection|A5 Indipendente Esperto Arciere
+trp_custom_e_expert_archer_selection_pl|A5 Indipendente Esperto Arcieri
+trp_custom_e_frontline_skirmisher|A5 Indipendente Prima Linea Schermagliatore
+trp_custom_e_frontline_skirmisher_pl|A5 Indipendente Prima Linea Schermagliatori
+trp_custom_e_frontline_skirmisher_equip|A5 Indipendente Prima Linea Schermagliatore
+trp_custom_e_frontline_skirmisher_equip_pl|A5 Indipendente Prima Linea Schermagliatori
+trp_custom_e_frontline_skirmisher_selection|A5 Indipendente Prima Linea Schermagliatore
+trp_custom_e_frontline_skirmisher_selection_pl|A5 Indipendente Prima Linea Schermagliatori
+trp_custom_e_heavy_knight|C6 Indipendente Pesante Cavaliere
+trp_custom_e_heavy_knight_pl|C6 Indipendente Pesante Cavalieri
+trp_custom_e_heavy_knight_equip|C6 Indipendente Pesante Cavaliere
+trp_custom_e_heavy_knight_equip_pl|C6 Indipendente Pesante Cavalieri
+trp_custom_e_heavy_knight_selection|C6 Indipendente Pesante Cavaliere
+trp_custom_e_heavy_knight_selection_pl|C6 Indipendente Pesante Cavalieri
+trp_custom_e_heavy_horse_archer|H6 Indipendente Pesante a Cavallo Arciere
+trp_custom_e_heavy_horse_archer_pl|H6 Indipendente Pesante a Cavallo Arcieri
+trp_custom_e_heavy_horse_archer_equip|H6 Indipendente Pesante a Cavallo Arciere
+trp_custom_e_heavy_horse_archer_equip_pl|H6 Indipendente Pesante a Cavallo Arcieri
+trp_custom_e_heavy_horse_archer_selection|H6 Indipendente Pesante a Cavallo Arciere
+trp_custom_e_heavy_horse_archer_selection_pl|H6 Indipendente Pesante a Cavallo Arcieri
+trp_custom_master|Grazmak mo Senko
+trp_custom_master_pl|Grazmak mo Senko
 trp_custom_messenger|Messaggeri
-; trp_custom_messenger_pl|Messengers
-; trp_custom_deserter|Deserter
+trp_custom_messenger_pl|Messaggeri
+trp_custom_deserter|Disertore
 trp_custom_deserter_pl|Disertori
 trp_custom_prison_guard|Carcieriere
 trp_custom_prison_guard_pl|Carcierieri
 trp_custom_castle_guard|Guardia del Castello
 trp_custom_castle_guard_pl|Guardie del Castello
-; trp_bandit_n_looter|Looter
+trp_bandit_n_looter|Razziatore
 trp_bandit_n_looter_pl|Razziatori
-; trp_bandit_n_bandit|Bandit
-; trp_bandit_n_bandit_pl|Bandits
-; trp_bandit_n_brigand|Brigand
-; trp_bandit_n_brigand_pl|Brigands
-; trp_bandit_n_mountain|Mountain Bandit
+trp_bandit_n_bandit|Bandito
+trp_bandit_n_bandit_pl|Banditi
+trp_bandit_n_brigand|Brigante
+trp_bandit_n_brigand_pl|Briganti
+trp_bandit_n_mountain|Bandito di montagna
 trp_bandit_n_mountain_pl|Banditi di montagna
-; trp_bandit_n_forest|Forest Bandit
+trp_bandit_n_forest|Bandito della foresta
 trp_bandit_n_forest_pl|Banditi della foresta
-; trp_bandit_n_sea_raider|Pirate
-; trp_bandit_n_sea_raider_pl|Pirates
-; trp_bandit_n_steppe|Dothraki Warrior
-; trp_bandit_n_steppe_pl|Dothraki Warriors
-; trp_bandit_n_taiga|Wildling Horseman
-; trp_bandit_n_taiga_pl|Wildling Horsemen
-; trp_bandit_n_desert|Outlaw
+trp_bandit_n_sea_raider|Pirata
+trp_bandit_n_sea_raider_pl|Pirati
+trp_bandit_n_steppe|Geuerriero Dothraki
+trp_bandit_n_steppe_pl|Guerrieri Dothraki
+trp_bandit_n_taiga|Bruto a Cavallo
+trp_bandit_n_taiga_pl|Bruti a Cavallo
+trp_bandit_n_desert|Fuorilegge
 trp_bandit_n_desert_pl|Fuorilegge
-; trp_bandit_n_outlaw|Outlaw Leader
-; trp_bandit_n_outlaw_pl|Outlaw Leaders
-; trp_bandit_n_outlaw1|Outlaw Archer
-; trp_bandit_n_outlaw1_pl|Outlaw Archers
-; trp_bandit_n_valemen|Clansman Chieftain
-; trp_bandit_n_valemen_pl|Clansman Chieftains
-; trp_bandit_n_valemen1|Clansman Archer
-; trp_bandit_n_valemen1_pl|Clansman Archer
-; trp_bandit_n_valemen2|Clansman Maceman
-; trp_bandit_n_valemen2_pl|Clansman Maceman
-; trp_bandit_n_raiders|Raider Leader
-; trp_bandit_n_raiders_pl|Raider Leaders
-; trp_bandit_n_raiders1|Raider Archer
-; trp_bandit_n_raiders1_pl|Raider Archers
-; trp_bandit_n_raiders2|Raider Horseman
-; trp_bandit_n_raiders2_pl|Raider Horsemen
-; trp_bandit_n_essoslooter|Desert Bandit
-; trp_bandit_n_essoslooter_pl|Desert Bandits
-; trp_bandit_n_dothraki|Desert Bandit
-; trp_bandit_n_dothraki_pl|Desert Bandits
-; trp_bandit_n_dothraki1|Desert Bandit
-; trp_bandit_n_dothraki1_pl|Desert Bandits
-; trp_bandit_n_dothraki2|Desert Bandit
-; trp_bandit_n_dothraki2_pl|Desert Bandits
-; trp_bandit_n_slavers|Slaver Leader
-; trp_bandit_n_slavers_pl|Slaver Leaders
-; trp_bandit_n_slavers1|Slaver Camelrider
-; trp_bandit_n_slavers1_pl|Slaver Camelrider
-; trp_bandit_n_slavers2|Slaver Spearman
-; trp_bandit_n_slavers2_pl|Slaver Spearmen
-; trp_bandit_n_pirates|Rhoynar Bandit
-; trp_bandit_n_pirates_pl|Rhoynar Bandits
-; trp_bandit_n_pirates1|Rhoynar Archer
-; trp_bandit_n_pirates1_pl|Rhoynar Archers
-; trp_bandit_n_escapedslave|Slave Leader
-; trp_bandit_n_escapedslave_pl|Slave Leaders
-; trp_bandit_n_escapedslave1|Slave
-; trp_bandit_n_escapedslave1_pl|Slaves
-; trp_bandit_n_wildling_archer|Wildling Archer
-; trp_bandit_n_wildling_archer_pl|Wildling Archers
-; trp_bandit_n_dothraki_archer|Dothraki Archer
-; trp_bandit_n_dothraki_archer_pl|Dothraki Archers
-; trp_bandit_n_wildling_spearwifes|Wildling Spearwife
-; trp_bandit_n_wildling_spearwifes_pl|Wildling Spearwives
-; trp_crannogmen|Crannogman
-; trp_crannogmen_pl|Crannogmen
-; trp_brienne|Brienne of Tarth
-; trp_brienne_pl|Brienne of Tarth
-; trp_event_young_noblemen|Young Nobleman
-; trp_event_young_noblemen_pl|Young Noblemen
-; trp_event_bandits|Bandit
-; trp_event_bandits_pl|Bandits
-; trp_event_religious_fanatic_oldtown|Religious Fanatic
-; trp_event_religious_fanatic_oldtown_pl|Religious Fanatics
-; trp_event_religious_fanatic_volantis|Religious Fanatic
-; trp_event_religious_fanatic_volantis_pl|Religious Fanatics
-; trp_event_knights|Hedge Knight
-; trp_event_knights_pl|Hedge Knights
-; trp_event_camp_followers|Camp Follower
-; trp_event_camp_followers_pl|Camp Followers
-; trp_event_singer|Singer
-; trp_event_singer_pl|Singers
-; trp_event_lute_player|Lute Player
-; trp_event_lute_player_pl|Lute Players
+trp_bandit_n_outlaw|Leader dei fuorilegge
+trp_bandit_n_outlaw_pl|Leader dei fuorilegge
+trp_bandit_n_outlaw1|Arciere fuorilegge
+trp_bandit_n_outlaw1_pl|Arcieri fuorilegge
+trp_bandit_n_valemen|Capo del Clan
+trp_bandit_n_valemen_pl|Capi del Clan
+trp_bandit_n_valemen1|Arciere del Clan
+trp_bandit_n_valemen1_pl|Arcieri del Clan
+trp_bandit_n_valemen2|Membro del Clan con Mazza
+trp_bandit_n_valemen2_pl|Membri del Clan con Mazza
+trp_bandit_n_raiders|Leader dei razziatori
+trp_bandit_n_raiders_pl|Leader dei razziatori
+trp_bandit_n_raiders1|Arciere razziatore
+trp_bandit_n_raiders1_pl|Arcieri razziatori
+trp_bandit_n_raiders2|Razziatore a cavallo
+trp_bandit_n_raiders2_pl|Razziatori a cavallo
+trp_bandit_n_essoslooter|Bandito del deserto
+trp_bandit_n_essoslooter_pl|Banditi del deserto
+trp_bandit_n_dothraki|Bandito del deserto
+trp_bandit_n_dothraki_pl|Banditi del deserto
+trp_bandit_n_dothraki1|Bandito del deserto
+trp_bandit_n_dothraki1_pl|Banditi del deserto
+trp_bandit_n_dothraki2|Bandito del deserto
+trp_bandit_n_dothraki2_pl|Banditi del deserto
+trp_bandit_n_slavers|Capo degli Schiavisti
+trp_bandit_n_slavers_pl|Capi degli Schiavisti
+trp_bandit_n_slavers1|Schiavista a Cammello
+trp_bandit_n_slavers1_pl|Schiavisti a Cammello
+trp_bandit_n_slavers2|Lanciere Schiavista 
+trp_bandit_n_slavers2_pl|Lancieri Schiavisti
+trp_bandit_n_pirates|Bandito Rhoynar 
+trp_bandit_n_pirates_pl|Banditi Rhoynar 
+trp_bandit_n_pirates1|Arciere Rhoynar 
+trp_bandit_n_pirates1_pl|Arcieri Rhoynar 
+trp_bandit_n_escapedslave|Capo degli Schiavi
+trp_bandit_n_escapedslave_pl|Capi degli Schiavi
+trp_bandit_n_escapedslave1|Schiavo
+trp_bandit_n_escapedslave1_pl|Schiavi
+trp_bandit_n_wildling_archer|Arciere Bruto
+trp_bandit_n_wildling_archer_pl|Arcieri Bruti
+trp_bandit_n_dothraki_archer|Arciere Dothraki
+trp_bandit_n_dothraki_archer_pl|Arcieri Dothraki
+trp_bandit_n_wildling_spearwifes|Moglie di Lancia dei Bruti
+trp_bandit_n_wildling_spearwifes_pl|Mogli di Lancia dei Bruti
+trp_crannogmen|Crannogman
+trp_crannogmen_pl|Crannogmen
+trp_brienne|Brienne di Tarth
+trp_brienne_pl|Brienne di Tarth
+trp_event_young_noblemen|Giovane Nobile
+trp_event_young_noblemen_pl|Giovani Nobili
+trp_event_bandits|Bandito
+trp_event_bandits_pl|Banditi
+trp_event_religious_fanatic_oldtown|Fanatico Religioso
+trp_event_religious_fanatic_oldtown_pl|Fanatici Religiosi
+trp_event_religious_fanatic_volantis|Fanatico Religioso
+trp_event_religious_fanatic_volantis_pl|Fanatici Religiosi
+trp_event_knights|Cavaliere Errante
+trp_event_knights_pl|Cavalieri Erranti
+trp_event_camp_followers|Vivandiere da Campo
+trp_event_camp_followers_pl|Vivandieri da Campo
+trp_event_singer|Cantore
+trp_event_singer_pl|Cantori
+trp_event_lute_player|Suonatore di Liuto
+trp_event_lute_player_pl|Suonatori di Liuto
 trp_event_peasant|Contadino
 trp_event_peasant_pl|Contadini
-; trp_event_plump_bastard|Plump Bastard
-; trp_event_plump_bastard_pl|Plump Bastards
-; trp_event_young_girls_brother|Young Girls Brother
-; trp_event_young_girls_brother_pl|Young Girls Brothers
-; trp_event_ibbenese_axeman|Ibbenese Axeman
-; trp_event_ibbenese_axeman_pl|Ibbenese Axemen
-; trp_goldcloak_1|Gold Cloak Glaiveman
-; trp_goldcloak_1_pl|Gold Cloak Glaivemen
-; trp_goldcloak_2|Gold Cloak Man-at-Arms
-; trp_goldcloak_2_pl|Gold Cloak Men-at-Arms
-; trp_goldcloak_3|Gold Cloak Archer
-; trp_goldcloak_3_pl|Gold Cloak Archers
-; trp_goldcloak_4|Gold Cloak Crossbowman
-; trp_goldcloak_4_pl|Gold Cloak Crossbowmen
-; trp_goldcloak_5|Gold Cloak Officer
-; trp_goldcloak_5_pl|Gold Cloak Officers
-; trp_zombie_wight|Decayed Wight
-; trp_zombie_wight_pl|Decayed Wight
-; trp_wildling_wight|Wight
-; trp_wildling_wight_pl|Wight
-; trp_unsullied|Unsullied
-; trp_unsullied_pl|Unsullied
-; trp_bandit_n_black_khergit_horseman|Black Khergit Horseman
-; trp_bandit_n_black_khergit_horseman_pl|Black Khergit Horsemen
-; trp_bandit_n_manhunter|Manhunter
+trp_event_plump_bastard|Grasso Bastardo
+trp_event_plump_bastard_pl|Grassi Bastardi
+trp_event_young_girls_brother|Fratello della Ragazza
+trp_event_young_girls_brother_pl|Fratelli della Ragazza
+trp_event_ibbenese_axeman|Soldato con Ascia di Ibben
+trp_event_ibbenese_axeman_pl|Soldati con Ascia di Ibben
+trp_goldcloak_1|Alabardiere delle Cappe Dorate
+trp_goldcloak_1_pl|Alabardieri delle Cappe Dorate
+trp_goldcloak_2|Uomo d'Arme delle Cappe Dorate
+trp_goldcloak_2_pl|Uomini d'Arme delle Cappe Dorate
+trp_goldcloak_3|Arciere delle Cappe Dorate
+trp_goldcloak_3_pl|Arcieri delle Cappe Dorate
+trp_goldcloak_4|Balestriere delle Cappe Dorate
+trp_goldcloak_4_pl|Balestrieri delle Cappe Dorate
+trp_goldcloak_5|Ufficiale delle Cappe Dorate
+trp_goldcloak_5_pl|Ufficiali delle Cappe Dorate
+trp_zombie_wight|Non-Morto Putrido
+trp_zombie_wight_pl|Non-Morti Putridi
+trp_wildling_wight|Non-Morto
+trp_wildling_wight_pl|Non-Morti
+trp_unsullied|Immacolato
+trp_unsullied_pl|Immacolati
+trp_bandit_n_black_khergit_horseman|Cavaliere Nero Khergita
+trp_bandit_n_black_khergit_horseman_pl|Cavalieri Neri Khergita
+trp_bandit_n_manhunter|Cacciatore di Taglie
 trp_bandit_n_manhunter_pl|Cacciatori di taglie
-; trp_bandit_n_slave_driver|Slave Driver
-; trp_bandit_n_slave_driver_pl|Slave Drivers
-; trp_bandit_n_slave_hunter|Slave Hunter
-; trp_bandit_n_slave_hunter_pl|Slave Hunters
-; trp_bandit_n_slave_crusher|Slave Crusher
-; trp_bandit_n_slave_crusher_pl|Slave Crushers
-; trp_bandit_n_slaver_chief|Slaver Chief
-; trp_bandit_n_slaver_chief_pl|Slaver Chiefs
-; trp_bandit_r_looter|Looter
+trp_bandit_n_slave_driver|Sorvegliante di Schiavi
+trp_bandit_n_slave_driver_pl|Sorveglianti di Schiavi
+trp_bandit_n_slave_hunter|Cacciatore di Schiavi
+trp_bandit_n_slave_hunter_pl|Cacciatori di Schiavi
+trp_bandit_n_slave_crusher|Castigatore
+trp_bandit_n_slave_crusher_pl|Castigatori
+trp_bandit_n_slaver_chief|Capo Schiavista
+trp_bandit_n_slaver_chief_pl|Capi Schiavisti
+trp_bandit_r_looter|Razziatore
 trp_bandit_r_looter_pl|Razziatori
-; trp_bandit_r_bandit|Bandit
-; trp_bandit_r_bandit_pl|Bandits
-; trp_bandit_r_brigand|Brigand
-; trp_bandit_r_brigand_pl|Brigands
-; trp_bandit_r_mountain|Mountain Bandit
+trp_bandit_r_bandit|Bandito
+trp_bandit_r_bandit_pl|Banditi
+trp_bandit_r_brigand|Brigante
+trp_bandit_r_brigand_pl|Briganti
+trp_bandit_r_mountain|Bandito di montagna
 trp_bandit_r_mountain_pl|Banditi di montagna
-; trp_bandit_r_forest|Forest Bandit
+trp_bandit_r_forest|Bandito della foresta
 trp_bandit_r_forest_pl|Banditi della foresta
-; trp_bandit_r_sea_raider|Pirate
-; trp_bandit_r_sea_raider_pl|Pirates
-; trp_bandit_r_steppe|Steppe Bandit
-; trp_bandit_r_steppe_pl|Steppe Bandits
-; trp_bandit_r_taiga|Taiga Bandit
-; trp_bandit_r_taiga_pl|Taiga Bandits
-; trp_bandit_r_desert|Desert Bandit
-; trp_bandit_r_desert_pl|Desert Bandits
-; trp_bandit_r_black_khergit_horseman|Black Khergit Horseman
-; trp_bandit_r_black_khergit_horseman_pl|Black Khergit Horsemen
-; trp_bandit_r_manhunter|Manhunter
+trp_bandit_r_sea_raider|Pirata
+trp_bandit_r_sea_raider_pl|Pirati
+trp_bandit_r_steppe|Steppa Bandit
+trp_bandit_r_steppe_pl|Steppa banditi
+trp_bandit_r_taiga|Bandito della Taiga
+trp_bandit_r_taiga_pl|Banditi della Taiga
+trp_bandit_r_desert|Bandito del deserto
+trp_bandit_r_desert_pl|Banditi del deserto
+trp_bandit_r_black_khergit_horseman|Cavaliere Nero Khergita
+trp_bandit_r_black_khergit_horseman_pl|Cavalieri Neri Khergita
+trp_bandit_r_manhunter|Cacciatore di Taglie
 trp_bandit_r_manhunter_pl|Cacciatori di taglie
-; trp_bandit_r_slave_driver|Slave Driver
-; trp_bandit_r_slave_driver_pl|Slave Drivers
-; trp_bandit_r_slave_hunter|Slave Hunter
-; trp_bandit_r_slave_hunter_pl|Slave Hunters
-; trp_bandit_r_slave_crusher|Slave Crusher
-; trp_bandit_r_slave_crusher_pl|Slave Crushers
-; trp_bandit_r_slaver_chief|Slaver Chief
-; trp_bandit_r_slaver_chief_pl|Slaver Chiefs
-; trp_bandit_e_looter|Looter
+trp_bandit_r_slave_driver|Schiavista
+trp_bandit_r_slave_driver_pl|Schiavisti
+trp_bandit_r_slave_hunter|Cacciatore di Schiavi
+trp_bandit_r_slave_hunter_pl|Cacciatori di Schiavi
+trp_bandit_r_slave_crusher|Castigatore
+trp_bandit_r_slave_crusher_pl|Castigatori
+trp_bandit_r_slaver_chief|Capo Schiavista
+trp_bandit_r_slaver_chief_pl|Capi Schiavisti
+trp_bandit_e_looter|Razziatore
 trp_bandit_e_looter_pl|Razziatori
-; trp_bandit_e_bandit|Bandit
-; trp_bandit_e_bandit_pl|Bandits
-; trp_bandit_e_brigand|Brigand
-; trp_bandit_e_brigand_pl|Brigands
-; trp_bandit_e_mountain|Mountain Bandit
+trp_bandit_e_bandit|Bandito
+trp_bandit_e_bandit_pl|Banditi
+trp_bandit_e_brigand|Brigante
+trp_bandit_e_brigand_pl|Briganti
+trp_bandit_e_mountain|Bandito di montagna
 trp_bandit_e_mountain_pl|Banditi di montagna
-; trp_bandit_e_forest|Forest Bandit
+trp_bandit_e_forest|Bandito della foresta
 trp_bandit_e_forest_pl|Banditi della foresta
-; trp_bandit_e_sea_raider|Pirate Captain
-; trp_bandit_e_sea_raider_pl|Pirate Captains
-; trp_bandit_e_sea_raider1|Pirate Swordsman
-; trp_bandit_e_sea_raider1_pl|Pirate Swordsmen
-; trp_bandit_e_sea_raider2|Pirate Archer
-; trp_bandit_e_sea_raider2_pl|Pirate Archers
-; trp_bandit_e_steppe|Dothraki Ko
-; trp_bandit_e_steppe_pl|Dothraki Ko
-; trp_bandit_e_steppe1|Dothraki Warrior
-; trp_bandit_e_steppe1_pl|Dothraki Warriors
-; trp_bandit_e_steppe2|Dothraki Archer
-; trp_bandit_e_steppe2_pl|Dothraki Archers
-; trp_bandit_e_taiga|Wildling Leader
-; trp_bandit_e_taiga_pl|Wildling Leaders
-; trp_bandit_e_taiga1|Wildling Warrior
-; trp_bandit_e_taiga1_pl|Wildling Warriors
-; trp_bandit_e_taiga2|Wildling Archer
-; trp_bandit_e_taiga2_pl|Wildling Archer
-; trp_wildling_spearwife|Wildling Spearwife
-; trp_wildling_spearwife_pl|Wildling Spearwives
-; trp_bandit_e_desert|Outlaw Leader
-; trp_bandit_e_desert_pl|Outlaw Leaders
-; trp_bandit_e_desert1|Outlaw Horseman
-; trp_bandit_e_desert1_pl|Outlaw Horsemen
-; trp_bandit_e_desert2|Outlaw Skirmisher
-; trp_bandit_e_desert2_pl|Outlaw Skirmishers
-; trp_bandit_e_outlaw|Desert Bandit
-; trp_bandit_e_outlaw_pl|Desert Bandits
-; trp_bandit_e_outlaw1|Outlaw Footman
-; trp_bandit_e_outlaw1_pl|Outlaw Footmen
-; trp_bandit_e_valemen|Desert Bandit
-; trp_bandit_e_valemen_pl|Desert Bandits
-; trp_bandit_e_valemen1|Desert Bandit
-; trp_bandit_e_valemen1_pl|Desert Bandits
-; trp_bandit_e_valemen2|Desert Bandit
-; trp_bandit_e_valemen2_pl|Desert Bandits
-; trp_bandit_e_raiders|Desert Bandit
-; trp_bandit_e_raiders_pl|Desert Bandits
-; trp_bandit_e_raiders1|Desert Bandit
-; trp_bandit_e_raiders1_pl|Desert Bandits
-; trp_bandit_e_raiders2|Desert Bandit
-; trp_bandit_e_raiders2_pl|Desert Bandits
-; trp_bandit_e_essoslooter|Desert Bandit
-; trp_bandit_e_essoslooter_pl|Desert Bandits
-; trp_bandit_e_dothraki|Desert Bandit
-; trp_bandit_e_dothraki_pl|Desert Bandits
-; trp_bandit_e_dothraki1|Desert Bandit
-; trp_bandit_e_dothraki1_pl|Desert Bandits
-; trp_bandit_e_dothraki2|Desert Bandit
-; trp_bandit_e_dothraki2_pl|Desert Bandits
-; trp_bandit_e_slavers|Desert Bandit
-; trp_bandit_e_slavers_pl|Desert Bandits
-; trp_bandit_e_slavers1|Desert Bandit
-; trp_bandit_e_slavers1_pl|Desert Bandits
-; trp_bandit_e_slavers2|Desert Bandit
-; trp_bandit_e_slavers2_pl|Desert Bandits
-; trp_bandit_e_pirates|Desert Bandit
-; trp_bandit_e_pirates_pl|Desert Bandits
-; trp_bandit_e_pirates1|Desert Bandit
-; trp_bandit_e_pirates1_pl|Desert Bandits
-; trp_bandit_e_escapedslave|Desert Bandit
-; trp_bandit_e_escapedslave_pl|Desert Bandits
-; trp_bandit_e_escapedslave1|Desert Bandit
-; trp_bandit_e_escapedslave1_pl|Desert Bandits
-; trp_bandit_e_black_khergit_horseman|Black Khergit Horseman
-; trp_bandit_e_black_khergit_horseman_pl|Black Khergit Horsemen
-; trp_bandit_e_manhunter|Manhunter
+trp_bandit_e_sea_raider|Capitano dei Pirati
+trp_bandit_e_sea_raider_pl|Capitani dei Pirati
+trp_bandit_e_sea_raider1|Pirata Spadaccino
+trp_bandit_e_sea_raider1_pl|Pirati Spadaccini
+trp_bandit_e_sea_raider2|Pirata Arciere
+trp_bandit_e_sea_raider2_pl|Pirati Arcieri
+trp_bandit_e_steppe|Ko Dothraki
+trp_bandit_e_steppe_pl|Ko Dothraki
+trp_bandit_e_steppe1|Guerriero Dothraki
+trp_bandit_e_steppe1_pl|Guerrieri Dothraki
+trp_bandit_e_steppe2|Arciere Dothraki
+trp_bandit_e_steppe2_pl|Arcieri Dothraki
+trp_bandit_e_taiga|Capo dei Bruti
+trp_bandit_e_taiga_pl|Capi dei Bruti
+trp_bandit_e_taiga1|Guerriero Bruto
+trp_bandit_e_taiga1_pl|Guerrieri Bruti
+trp_bandit_e_taiga2|Arciere Bruto
+trp_bandit_e_taiga2_pl|Arcieri Bruti
+trp_wildling_spearwife|Moglie di Lancia dei Bruti
+trp_wildling_spearwife_pl|Mogli di Lancia dei Bruti
+trp_bandit_e_desert|Leader dei fuorilegge
+trp_bandit_e_desert_pl|Leader dei fuorilegge
+trp_bandit_e_desert1|Fuorilegge a cavallo
+trp_bandit_e_desert1_pl|Fuorilegge a cavallo
+trp_bandit_e_desert2|Schermagliatore fuorilegge
+trp_bandit_e_desert2_pl|Schermagliatori fuorilegge
+trp_bandit_e_outlaw|Bandito del deserto
+trp_bandit_e_outlaw_pl|Banditi del deserto
+trp_bandit_e_outlaw1|Fuorilegge appiedato
+trp_bandit_e_outlaw1_pl|Fuorilegge appiedati
+trp_bandit_e_valemen|Bandito del deserto
+trp_bandit_e_valemen_pl|Banditi del deserto
+trp_bandit_e_valemen1|Bandito del deserto
+trp_bandit_e_valemen1_pl|Banditi del deserto
+trp_bandit_e_valemen2|Bandito del deserto
+trp_bandit_e_valemen2_pl|Banditi del deserto
+trp_bandit_e_raiders|Bandito del deserto
+trp_bandit_e_raiders_pl|Banditi del deserto
+trp_bandit_e_raiders1|Bandito del deserto
+trp_bandit_e_raiders1_pl|Banditi del deserto
+trp_bandit_e_raiders2|Bandito del deserto
+trp_bandit_e_raiders2_pl|Banditi del deserto
+trp_bandit_e_essoslooter|Bandito del deserto
+trp_bandit_e_essoslooter_pl|Banditi del deserto
+trp_bandit_e_dothraki|Bandito del deserto
+trp_bandit_e_dothraki_pl|Banditi del deserto
+trp_bandit_e_dothraki1|Bandito del deserto
+trp_bandit_e_dothraki1_pl|Banditi del deserto
+trp_bandit_e_dothraki2|Bandito del deserto
+trp_bandit_e_dothraki2_pl|Banditi del deserto
+trp_bandit_e_slavers|Bandito del deserto
+trp_bandit_e_slavers_pl|Banditi del deserto
+trp_bandit_e_slavers1|Bandito del deserto
+trp_bandit_e_slavers1_pl|Banditi del deserto
+trp_bandit_e_slavers2|Bandito del deserto
+trp_bandit_e_slavers2_pl|Banditi del deserto
+trp_bandit_e_pirates|Bandito del deserto
+trp_bandit_e_pirates_pl|Banditi del deserto
+trp_bandit_e_pirates1|Bandito del deserto
+trp_bandit_e_pirates1_pl|Banditi del deserto
+trp_bandit_e_escapedslave|Bandito del deserto
+trp_bandit_e_escapedslave_pl|Banditi del deserto
+trp_bandit_e_escapedslave1|Bandito del deserto
+trp_bandit_e_escapedslave1_pl|Banditi del deserto
+trp_bandit_e_black_khergit_horseman|Cavaliere Nero Khergita
+trp_bandit_e_black_khergit_horseman_pl|Cavalieri Neri Khergita
+trp_bandit_e_manhunter|Cacciatore di Taglie
 trp_bandit_e_manhunter_pl|Cacciatori di taglie
-; trp_bandit_e_slave_driver|Slave Driver
-; trp_bandit_e_slave_driver_pl|Slave Drivers
-; trp_bandit_e_slave_hunter|Slave Hunter
-; trp_bandit_e_slave_hunter_pl|Slave Hunters
-; trp_bandit_e_slave_crusher|Slave Crusher
-; trp_bandit_e_slave_crusher_pl|Slave Crushers
-; trp_bandit_e_slaver_chief|Slaver Chief
-; trp_bandit_e_slaver_chief_pl|Slaver Chiefs
-; trp_woman_n_refugee|Refugee
-; trp_woman_n_refugee_pl|Refugees
-; trp_woman_r_refugee|Female Sellsword Tier Two
-; trp_woman_r_refugee_pl|Female Sellsword Tier Two
-; trp_woman_e_refugee|Peasant Woman
-; trp_woman_e_refugee_pl|Peasant Women
-; trp_woman_e_peasant|Peasant Woman
-; trp_woman_e_peasant_pl|Peasant Women
-; trp_woman_e_militia|Sellsword Pikeman
-; trp_woman_e_militia_pl|Sellsword Pikemen
-; trp_woman_e_camp_follower|Veteran Sellsword Pikeman
-; trp_woman_e_camp_follower_pl|Veteran Sellsword Pikemen
-; trp_woman_e_dressed_up|Elite Sellsword Pikeman
-; trp_woman_e_dressed_up_pl|Elite Sellsword Pikemen
-; trp_woman_e_warrior|Mounted Sellsword Crossbowman
-; trp_woman_e_warrior_pl|Mounted Sellsword Crossbowmen
-; trp_woman_e_nurse|Veteran Mounted Sellsword Crossbowman
-; trp_woman_e_nurse_pl|Veteran Mounted Sellsword Crossbowmen
-; trp_woman_e_huntress|Sellsword Two-Hander
-; trp_woman_e_huntress_pl|Sellsword Two-Handers
-; trp_woman_e_stedinger|Veteran Sellsword Two-Hander
-; trp_woman_e_stedinger_pl|Veteran Sellsword Two-Handers
-; trp_woman_e_hospitaller|Elite Sellsword Two-Hander
-; trp_woman_e_hospitaller_pl|Elite Sellsword Two-Handers
-; trp_woman_e_sword_sister|Sellsword Axeman
-; trp_woman_e_sword_sister_pl|Sellsword Axemen
-; trp_woman_e_truus_te_paard|Veteran Sellsword Axeman
-; trp_woman_e_truus_te_paard_pl|Veteran Sellsword Axemen
-; trp_woman_e_maiden|Elite Sellsword Axeman
-; trp_woman_e_maiden_pl|Elite Sellsword Axemen
-; trp_woman_e_markswoman|Myrman Sellsword Crossbowman
-; trp_woman_e_markswoman_pl|Myrman Sellsword Crossbowmen
-; trp_woman_e_mounted_markswoman|Veteran Myrman Sellsword Crossbowman
-; trp_woman_e_mounted_markswoman_pl|Veteran Myrman Sellsword Crossbowmen
-; trp_woman_e_kriegerin|Elite Myrman Sellsword Crossbowman
-; trp_woman_e_kriegerin_pl|Elite Myrman Sellsword Crossbowmen
-; trp_woman_e_beritten_jungfrau|Sellsword Voulgeman
-; trp_woman_e_beritten_jungfrau_pl|Sellsword Voulgemen
-; trp_woman_e_jungfrau|Veteran Sellsword Voulgeman
-; trp_woman_e_jungfrau_pl|Veteran Sellsword Voulgemen
-; trp_woman_e_swob_ridder|Elite Sellsword Voulgeman
-; trp_woman_e_swob_ridder_pl|Elite Sellsword Voulgemen
-; trp_woman_e_femme_fatale|Sellsword Halberdier
-; trp_woman_e_femme_fatale_pl|Sellsword Halberdiers
-; trp_woman_e_virago|Veteran Sellsword Halberdier
-; trp_woman_e_virago_pl|Veteran Sellsword Halberdiers
-; trp_woman_e_amazon|Elite Sellsword Halberdier
-; trp_woman_e_amazon_pl|Elite Sellsword Halberdiers
-; trp_woman_e_schildmaid|Sellsword Longbowman
-; trp_woman_e_schildmaid_pl|Sellsword Longbowmen
-; trp_woman_e_schildjungfer|Veteran Sellsword Longbowman
-; trp_woman_e_schildjungfer_pl|Veteran Sellsword Longbowmen
-; trp_woman_e_kenau|Elite Sellsword Longbowman
-; trp_woman_e_kenau_pl|Elite Sellsword Longbowmen
-; trp_woman_e_black_widow|Sellsword Lancer
-; trp_woman_e_black_widow_pl|Sellsword Lancers
-; trp_woman_e_walkure|Veteran Sellsword Lancer
-; trp_woman_e_walkure_pl|Veteran Sellsword Lancers
-; trp_woman_e_extra1|I1 Lost Refugee
-; trp_woman_e_extra1_pl|I1 Lost Refugees
-; trp_woman_e_extra2|I1 Tired Refugee
-; trp_woman_e_extra2_pl|I1 Tired Refugees
-; trp_woman_e_extra3|I1 Slutty Refugee
-; trp_woman_e_extra3_pl|I1 Slutty Refugees
-; trp_woman_e_extra4|I1 Widowed Refugee
-; trp_woman_e_extra4_pl|I1 Widowed Refugees
-; trp_woman_e_extra5|I1 Wannabe Refugee
-; trp_woman_e_extra5_pl|I1 Wannabe Refugees
+trp_bandit_e_slave_driver|Sorvegliante di Schiavi
+trp_bandit_e_slave_driver_pl|Sorveglianti di Schiavi
+trp_bandit_e_slave_hunter|Cacciatore di Schiavi
+trp_bandit_e_slave_hunter_pl|Cacciatori di Schiavi
+trp_bandit_e_slave_crusher|Schiavista
+trp_bandit_e_slave_crusher_pl|Schiavisti
+trp_bandit_e_slaver_chief|Capo Schiavista
+trp_bandit_e_slaver_chief_pl|Capi Schiavisti
+trp_woman_n_refugee|Rifugiato
+trp_woman_n_refugee_pl|Rifugiati
+trp_woman_r_refugee|Mercenaria di Secondo Livello
+trp_woman_r_refugee_pl|Mercenarie di Secondo Livello
+trp_woman_e_refugee|Cantadina
+trp_woman_e_refugee_pl|Contadine
+trp_woman_e_peasant|Cantadina
+trp_woman_e_peasant_pl|Contadine
+trp_woman_e_militia|Picchiere Mercenario
+trp_woman_e_militia_pl|Picchieri Mercenari
+trp_woman_e_camp_follower|Picchiere Mercenario Veterano 
+trp_woman_e_camp_follower_pl|Picchieri Mercenari Veterani
+trp_woman_e_dressed_up|Picchiere Mercenario d'Elite
+trp_woman_e_dressed_up_pl|Picchieri Mercenari d'Elite
+trp_woman_e_warrior|Balestriere Mercenario a Cavallo
+trp_woman_e_warrior_pl|Balestrieri Mercenari a Cavallo
+trp_woman_e_nurse|Balestriere Mercenario Veterano a Cavallo
+trp_woman_e_nurse_pl|Balestrieri Mercenari Veterani a Cavallo 
+trp_woman_e_huntress|Mercenario con Spadone
+trp_woman_e_huntress_pl|Mercenari con Spadone
+trp_woman_e_stedinger|Mercenario Veterano con Spadone
+trp_woman_e_stedinger_pl|Mercenari Veterani con Spadone
+trp_woman_e_hospitaller|Mercenario d'Elite con Spadone
+trp_woman_e_hospitaller_pl|Mercenari d'Elite con Spadone
+trp_woman_e_sword_sister|Mercenario con Ascia
+trp_woman_e_sword_sister_pl|Mercenari con Ascia
+trp_woman_e_truus_te_paard|Mercenario Veterano con Ascia 
+trp_woman_e_truus_te_paard_pl|Mercenari Veterani con Ascia 
+trp_woman_e_maiden|Mercenario d'Elite con Ascia 
+trp_woman_e_maiden_pl|Mercenari d'Elite con Ascia
+trp_woman_e_markswoman|Balestriere Mercenario di Myr
+trp_woman_e_markswoman_pl|Balestrieri Mercenari di Myr
+trp_woman_e_mounted_markswoman|Balestriere Mercenario Veterano di Myr
+trp_woman_e_mounted_markswoman_pl|Balestrieri Mercenari Veterani di Myr
+trp_woman_e_kriegerin|Balestriere Mercenario d'Elite di Myr
+trp_woman_e_kriegerin_pl|Balestrieri Mercenari d'Elite di Myr
+trp_woman_e_beritten_jungfrau|Mercenario con Voulge
+trp_woman_e_beritten_jungfrau_pl|Mercenari con Voulge
+trp_woman_e_jungfrau|Mercenario Veterano con Voulge
+trp_woman_e_jungfrau_pl|Mercenari Veterani con Voulge
+trp_woman_e_swob_ridder|Mercenario d'Elite con Voulge
+trp_woman_e_swob_ridder_pl|Mercenari d'Elite con Voulge
+trp_woman_e_femme_fatale|Alabardiere Mercenario
+trp_woman_e_femme_fatale_pl|Alabardiere Mercenario
+trp_woman_e_virago|Alabardiere Veterano Mercenario
+trp_woman_e_virago_pl|Alabardieri Mercenari Veterani
+trp_woman_e_amazon|Alabardiere Mercenario d'Elite
+trp_woman_e_amazon_pl|Alabardieri Mercenari d'Elite
+trp_woman_e_schildmaid|Mercenario con Arco Lungo
+trp_woman_e_schildmaid_pl|Mercenari con Arco Lungo
+trp_woman_e_schildjungfer|Mercenario Veterano Arco Lungo
+trp_woman_e_schildjungfer_pl|Mercenari Veterani Arco Lungo
+trp_woman_e_kenau|Mercenario d'Elite Arco Lungo
+trp_woman_e_kenau_pl|Mercenari d'Elite Arco Lungo
+trp_woman_e_black_widow|Lanciere a Cavallo Mercenario
+trp_woman_e_black_widow_pl|Lancieri a Cavallo Mercenari
+trp_woman_e_walkure|Lanciere Mercenario Veterano a Cavallo 
+trp_woman_e_walkure_pl|Lancieri Mercenari Veterani a Cavallo 
+trp_woman_e_extra1|I1 Rifugiato Perso
+trp_woman_e_extra1_pl|I1 Rifugiati Persi
+trp_woman_e_extra2|I1 Rifugiato Stanco
+trp_woman_e_extra2_pl|I1 Rifugiati Stanchi
+trp_woman_e_extra3|I1 Rifugiata Sgualdrina
+trp_woman_e_extra3_pl|I1 Rifugiate Sgualdrine
+trp_woman_e_extra4|I1 Rifugiata Vedova
+trp_woman_e_extra4_pl|I1 Rifugiate Vedove
+trp_woman_e_extra5|I1 Aspirante Rifugiato
+trp_woman_e_extra5_pl|I1 Aspiranti Rifugiati
 trp_caravan_master|Carovaniere
 trp_caravan_master_pl|Carovanieri
 trp_kidnapped_girl|Fanciulla Rapita
 trp_kidnapped_girl_pl|Fanciulle Rapite
-; trp_kidnapped_wife|Miller's Wife
-; trp_kidnapped_wife_pl|Miller's Wives
-; trp_wedding_guest|Wedding Guest
-; trp_wedding_guest_pl|Wedding Guests
+trp_kidnapped_wife|Moglie di Miller
+trp_kidnapped_wife_pl|Mogli di Miller
+trp_wedding_guest|Invitato alle Nozze
+trp_wedding_guest_pl|Invitati alle Nozze
 trp_swadian_town_walker_m_average|Cittadino
 trp_swadian_town_walker_m_average_pl|Cittadini
 trp_swadian_town_walker_f_average|Cittadina
@@ -1672,18 +1672,18 @@ trp_vaegir_town_walker_m_average|Cittadino
 trp_vaegir_town_walker_m_average_pl|Cittadini
 trp_vaegir_town_walker_f_average|Cittadina
 trp_vaegir_town_walker_f_average_pl|Cittadine
-; trp_khergit_town_walker_m_average|Citizen
-; trp_khergit_town_walker_m_average_pl|Citizens
-; trp_khergit_town_walker_f_average|Citizen
-; trp_khergit_town_walker_f_average_pl|Citizens
+trp_khergit_town_walker_m_average|Cittadino
+trp_khergit_town_walker_m_average_pl|Cittadini
+trp_khergit_town_walker_f_average|Cittadino
+trp_khergit_town_walker_f_average_pl|Cittadini
 trp_nord_town_walker_m_average|Cittadino
 trp_nord_town_walker_m_average_pl|Cittadini
 trp_nord_town_walker_f_average|Cittadina
 trp_nord_town_walker_f_average_pl|Cittadine
-; trp_rhodok_town_walker_m_average|Citizen
-; trp_rhodok_town_walker_m_average_pl|Citizen
-; trp_rhodok_town_walker_f_average|Citizen
-; trp_rhodok_town_walker_f_average_pl|Citizens
+trp_rhodok_town_walker_m_average|Cittadino
+trp_rhodok_town_walker_m_average_pl|Cittadino
+trp_rhodok_town_walker_f_average|Cittadino
+trp_rhodok_town_walker_f_average_pl|Cittadini
 trp_sarranid_town_walker_m_average|Cittadino
 trp_sarranid_town_walker_m_average_pl|Cittadini
 trp_sarranid_town_walker_f_average|Cittadina
@@ -1692,33 +1692,33 @@ trp_town_walker_m_average|Cittadino
 trp_town_walker_m_average_pl|Cittadini
 trp_town_walker_f_average|Cittadina
 trp_town_walker_f_average_pl|Cittadine
-; trp_swadian_village_walker_m_average|Villager
+trp_swadian_village_walker_m_average|Abitante del Villaggio
 trp_swadian_village_walker_m_average_pl|Abitanti del villaggio
-; trp_swadian_village_walker_f_average|Villager
+trp_swadian_village_walker_f_average|Abitante del Villaggio
 trp_swadian_village_walker_f_average_pl|Abitanti del villaggio
-; trp_vaegir_village_walker_m_average|Villager
+trp_vaegir_village_walker_m_average|Abitante del Villaggio
 trp_vaegir_village_walker_m_average_pl|Abitanti del villaggio
-; trp_vaegir_village_walker_f_average|Villager
+trp_vaegir_village_walker_f_average|Abitante del Villaggio
 trp_vaegir_village_walker_f_average_pl|Abitanti del villaggio
-; trp_khergit_village_walker_m_average|Villager
+trp_khergit_village_walker_m_average|Abitante del Villaggio
 trp_khergit_village_walker_m_average_pl|Abitanti del villaggio
-; trp_khergit_village_walker_f_average|Villager
+trp_khergit_village_walker_f_average|Abitante del Villaggio
 trp_khergit_village_walker_f_average_pl|Abitanti del villaggio
-; trp_nord_village_walker_m_average|Villager
+trp_nord_village_walker_m_average|Abitante del Villaggio
 trp_nord_village_walker_m_average_pl|Abitanti del villaggio
-; trp_nord_village_walker_f_average|Villager
+trp_nord_village_walker_f_average|Abitante del Villaggio
 trp_nord_village_walker_f_average_pl|Abitanti del villaggio
-; trp_rhodok_village_walker_m_average|Villager
+trp_rhodok_village_walker_m_average|Abitante del Villaggio
 trp_rhodok_village_walker_m_average_pl|Abitanti del villaggio
-; trp_rhodok_village_walker_f_average|Villager
+trp_rhodok_village_walker_f_average|Abitante del Villaggio
 trp_rhodok_village_walker_f_average_pl|Abitanti del villaggio
-; trp_sarranid_village_walker_m_average|Villager
+trp_sarranid_village_walker_m_average|Abitante del Villaggio
 trp_sarranid_village_walker_m_average_pl|Abitanti del villaggio
-; trp_sarranid_village_walker_f_average|Villager
+trp_sarranid_village_walker_f_average|Abitante del Villaggio
 trp_sarranid_village_walker_f_average_pl|Abitanti del villaggio
-; trp_village_walker_m_average|Villager
+trp_village_walker_m_average|Abitante del Villaggio
 trp_village_walker_m_average_pl|Abitanti del villaggio
-; trp_village_walker_f_average|Villager
+trp_village_walker_f_average|Abitante del Villaggio
 trp_village_walker_f_average_pl|Abitanti del villaggio
 trp_swadian_spy_walker_1|Cittadino
 trp_swadian_spy_walker_1_pl|Cittadini
@@ -1758,24 +1758,24 @@ trp_ramun_the_slave_trader|Ramun, il mercante di schiavi
 trp_ramun_the_slave_trader_pl|Ramun, il mercante di schiavi
 trp_guide|Quick Jimmy
 trp_guide_pl|Quick Jimmy
-; trp_xerina|Ser Baelor Donniger
-; trp_xerina_pl|Ser Baelor Donniger
-; trp_dranton|Ser Andros Egen
-; trp_dranton_pl|Ser Andros Egen
-; trp_kradus|Ser Patrek Hersy
-; trp_kradus_pl|Ser Patrek Hersy
-; trp_dranton1|Ser Marlon Pryor
-; trp_dranton1_pl|Ser Marlon Pryor
-; trp_dranton2|Ser Rodrik Upcliff
-; trp_dranton2_pl|Ser Rodrik Upcliff
-; trp_dranton3|Ser Andrey Charlton
-; trp_dranton3_pl|Ser Andrey Charlton
-; trp_dranton4|Ser Leslyn Haigh
-; trp_dranton4_pl|Ser Leslyn Haigh
-; trp_dranton5|Ser Andros the Thunderhead
-; trp_dranton5_pl|Ser Andros the Thunderhead
-; trp_dranton6|Ser Forley
-; trp_dranton6_pl|Ser Forley
+trp_xerina|Ser Baelor Donniger
+trp_xerina_pl|Ser Baelor Donniger
+trp_dranton|Ser Andros Egen
+trp_dranton_pl|Ser Andros Egen
+trp_kradus|Ser Patrek Hersy
+trp_kradus_pl|Ser Patrek Hersy
+trp_dranton1|Ser Marlon Pryor
+trp_dranton1_pl|Ser Marlon Pryor
+trp_dranton2|Ser Rodrik Upcliff
+trp_dranton2_pl|Ser Rodrik Upcliff
+trp_dranton3|Ser Andrey Charlton
+trp_dranton3_pl|Ser Andrey Charlton
+trp_dranton4|Ser Leslyn Haigh
+trp_dranton4_pl|Ser Leslyn Haigh
+trp_dranton5|Ser Andros the Thunderhead
+trp_dranton5_pl|Ser Andros the Thunderhead
+trp_dranton6|Ser Forley
+trp_dranton6_pl|Ser Forley
 ; trp_dranton7|Ser Brom of the Whispers
 ; trp_dranton7_pl|Ser Brom of the Whispers
 ; trp_dranton8|Ser Clifton of the Glen
@@ -1908,60 +1908,60 @@ trp_trainer_4|Addestratori
 trp_trainer_4_pl|Addestratori
 trp_trainer_5|Addestratori
 trp_trainer_5_pl|Addestratori
-; trp_ransom_broker_1|Ezhram the Slaver
-; trp_ransom_broker_1_pl|Ezhram the Slaver
-; trp_ransom_broker_2|Leybold the Ransom Broker
-; trp_ransom_broker_2_pl|Leybold the Ransom Broker
-; trp_ransom_broker_3|Aladale the Ransom Broker
-; trp_ransom_broker_3_pl|Aladale the Ransom Broker
-; trp_ransom_broker_4|Colloquo the Slaver
-; trp_ransom_broker_4_pl|Colloquo the Slaver
-; trp_ransom_broker_5|Quort the Slaver
-; trp_ransom_broker_5_pl|Quort the Slaver
-; trp_ransom_broker_6|Graznan the Slaver
-; trp_ransom_broker_6_pl|Graznan the Slaver
-; trp_ransom_broker_7|Elloras the Slaver
-; trp_ransom_broker_7_pl|Elloras the Slaver
-; trp_ransom_broker_8|Temmo the Slaver
-; trp_ransom_broker_8_pl|Temmo the Slaver
-; trp_ransom_broker_9|Tremond the Ransom Broker
-; trp_ransom_broker_9_pl|Tremond the Ransom Broker
-; trp_ransom_broker_10|Manfred the Ransom Broker
-; trp_ransom_broker_10_pl|Manfred the Ransom Broker
-; trp_tavern_traveler_1|Hamish the Wanderer
-; trp_tavern_traveler_1_pl|Hamish the Wanderer
-; trp_tavern_traveler_2|Barth the Traveller
-; trp_tavern_traveler_2_pl|Barth the Traveller
-; trp_tavern_traveler_3|Bellegere the Traveller
-; trp_tavern_traveler_3_pl|Bellegere the Traveller
-; trp_tavern_traveler_4|Cayn the Traveller
-; trp_tavern_traveler_4_pl|Cayn the Traveller
-; trp_tavern_traveler_5|Dick the Traveller
-; trp_tavern_traveler_5_pl|Dick the Traveller
-; trp_tavern_traveler_6|Ebrose the Traveller
-; trp_tavern_traveler_6_pl|Ebrose the Traveller
-; trp_tavern_traveler_7|Iggo the Wanderer
-; trp_tavern_traveler_7_pl|Iggo the Wanderer
-; trp_tavern_traveler_8|Dhorane the Wanderer
-; trp_tavern_traveler_8_pl|Dhorane the Wanderer
-; trp_tavern_traveler_9|Laro the Wanderer
-; trp_tavern_traveler_9_pl|Laro the Wanderer
-; trp_tavern_traveler_10|Qelghor The Wanderer
-; trp_tavern_traveler_10_pl|Qelghor The Wanderer
-; trp_tavern_bookseller_1|Waltyr the Scholar
-; trp_tavern_bookseller_1_pl|Waltyr the Scholar
+trp_ransom_broker_1|Ezhram lo Schiavista
+trp_ransom_broker_1_pl|Ezhram lo Schiavista
+trp_ransom_broker_2|Leybold il Riscattatore
+trp_ransom_broker_2_pl|Leybold il Riscattatore
+trp_ransom_broker_3|Aladale il Riscattatore
+trp_ransom_broker_3_pl|Aladale il Riscattatore
+trp_ransom_broker_4|Colloquo lo Schiavista
+trp_ransom_broker_4_pl|Colloquo lo Schiavista
+trp_ransom_broker_5|Quort lo Schiavista
+trp_ransom_broker_5_pl|Quort lo Schiavista
+trp_ransom_broker_6|Graznan tlo Schiavista
+trp_ransom_broker_6_pl|Graznan tlo Schiavista
+trp_ransom_broker_7|Elloras Lo Schiavista
+trp_ransom_broker_7_pl|Elloras Lo Schiavista
+trp_ransom_broker_8|Temmo lo Schiavista
+trp_ransom_broker_8_pl|Temmo lo Schiavista
+trp_ransom_broker_9|Tremond il Riscattatore
+trp_ransom_broker_9_pl|Tremond il Riscattatore
+trp_ransom_broker_10|Manfred il Riscattatore
+trp_ransom_broker_10_pl|Manfred il Riscattatore
+trp_tavern_traveler_1|Hamish il Vagabondo
+trp_tavern_traveler_1_pl|Hamish il Vagabondo
+trp_tavern_traveler_2|Barth il Viaggiatore
+trp_tavern_traveler_2_pl|Barth il Viaggiatore
+trp_tavern_traveler_3|Bellegere il Viaggiatore
+trp_tavern_traveler_3_pl|Bellegere il Viaggiatore
+trp_tavern_traveler_4|Cayn il Viaggiatore
+trp_tavern_traveler_4_pl|Cayn il Viaggiatore
+trp_tavern_traveler_5|Dick il Viaggiatore
+trp_tavern_traveler_5_pl|Dick il Viaggiatore
+trp_tavern_traveler_6|Ebrose il Viaggiatore
+trp_tavern_traveler_6_pl|Ebrose il Viaggiatore
+trp_tavern_traveler_7|Iggo il Vagabondo
+trp_tavern_traveler_7_pl|Iggo il Vagabondo
+trp_tavern_traveler_8|Dhorane il Vagabondo
+trp_tavern_traveler_8_pl|Dhorane il Vagabondo
+trp_tavern_traveler_9|Laro il Vagabondo
+trp_tavern_traveler_9_pl|Laro il Vagabondo
+trp_tavern_traveler_10|Qelghor il Vagabondo
+trp_tavern_traveler_10_pl|Qelghor il Vagabondo
+trp_tavern_bookseller_1|Waltyr lo Studioso
+trp_tavern_bookseller_1_pl|Waltyr lo Studioso
 ; trp_tavern_bookseller_2|Septon Ulbard
 ; trp_tavern_bookseller_2_pl|Septon Ulbard
-; trp_tavern_minstrel_1|Alyn the Bard
-; trp_tavern_minstrel_1_pl|Alyn the Bard
-; trp_tavern_minstrel_2|Tom the Bard
-; trp_tavern_minstrel_2_pl|Tom the Bard
-; trp_tavern_minstrel_3|Torgo the Bard
-; trp_tavern_minstrel_3_pl|Torgo the Bard
-; trp_tavern_minstrel_4|Walder the Bard
-; trp_tavern_minstrel_4_pl|Walder the Bard
-; trp_tavern_minstrel_5|Desmond the Bard
-; trp_tavern_minstrel_5_pl|Desmond the Bard
+trp_tavern_minstrel_1|Alyn il Bardo
+trp_tavern_minstrel_1_pl|Alyn il Bardo
+trp_tavern_minstrel_2|Tom il Bardo
+trp_tavern_minstrel_2_pl|Tom il Bardo
+trp_tavern_minstrel_3|Torgo il Bardo
+trp_tavern_minstrel_3_pl|Torgo il Bardo
+trp_tavern_minstrel_4|Walder il Bardo
+trp_tavern_minstrel_4_pl|Walder il Bardo
+trp_tavern_minstrel_5|Desmond il Bardo
+trp_tavern_minstrel_5_pl|Desmond il Bardo
 ; trp_septon_1|Septon Raynard
 ; trp_septon_1_pl|Septon Raynard
 ; trp_septon_2|Septon Luceon
@@ -2066,10 +2066,10 @@ trp_trainer_5_pl|Addestratori
 ; trp_hot_pie_pl|Hot Pie
 ; trp_hotho_harlaw|Hotho Harlaw
 ; trp_hotho_harlaw_pl|Hotho Harlaw
-; trp_musican_male|Singer
-; trp_musican_male_pl|Singer
-; trp_musican_female|Singer
-; trp_musican_female_pl|Singer
+trp_musican_male|Cantore
+trp_musican_male_pl|Cantore
+trp_musican_female|Cantore
+trp_musican_female_pl|Cantore
 trp_musicans_end| 
 trp_musicans_end_pl| 
 ; trp_melisandre|Melisandre
@@ -2260,10 +2260,10 @@ trp_musicans_end_pl|
 ; trp_nw_thenn_pl|Thenn
 ; trp_nw_spearwife|Spearwife
 ; trp_nw_spearwife_pl|Spearwives
-; trp_nw_raider|Wildling Raider
-; trp_nw_raider_pl|Wildling Raiders
-; trp_nw_raider_archer|Wildling Archer
-; trp_nw_raider_archer_pl|Wildling Archers
+trp_nw_raider|Bruto Razziatore
+trp_nw_raider_pl|Bruti Razziatori
+trp_nw_raider_archer|Arciere Bruto
+trp_nw_raider_archer_pl|Arcieri Bruti
 ; trp_nights_watch_ranger|Ranger
 ; trp_nights_watch_ranger_pl|Rangers
 ; trp_nights_watch_archer|Ranger
@@ -2376,22 +2376,22 @@ trp_musicans_end_pl|
 ; trp_illyrio_mopatis_1_pl|Magister Illyrio Mopatis
 ; trp_illyrio_mopatis_2|Magister Illyrio Mopatis
 ; trp_illyrio_mopatis_2_pl|Magister Illyrio Mopatis
-; trp_haldon_npc_1|Starving Outlaw
-; trp_haldon_npc_1_pl|Starving Outlaws
-; trp_haldon_npc_2|Starving Outlaw
-; trp_haldon_npc_2_pl|Starving Outlaws
-; trp_haldon_npc_3|Starving Outlaw
-; trp_haldon_npc_3_pl|Starving Outlaws
-; trp_haldon_npc_4|Outlaw
-; trp_haldon_npc_4_pl|Outlaw
-; trp_haldon_npc_5|Outlaw
-; trp_haldon_npc_5_pl|Outlaw
-; trp_haldon_npc_6|Outlaw
-; trp_haldon_npc_6_pl|Outlaw
-; trp_haldon_npc_7|Starving Outlaw
-; trp_haldon_npc_7_pl|Starving Outlaw
-; trp_haldon_npc_8|Outlaw
-; trp_haldon_npc_8_pl|Outlaw
+trp_haldon_npc_1|Fuorilegge famelico
+trp_haldon_npc_1_pl|Fuorilegge famelici
+trp_haldon_npc_2|Fuorilegge famelico
+trp_haldon_npc_2_pl|Fuorilegge famelici
+trp_haldon_npc_3|Fuorilegge famelico
+trp_haldon_npc_3_pl|Fuorilegge famelici
+trp_haldon_npc_4|Fuorilegge
+trp_haldon_npc_4_pl|Fuorilegge
+trp_haldon_npc_5|Fuorilegge
+trp_haldon_npc_5_pl|Fuorilegge
+trp_haldon_npc_6|Fuorilegge
+trp_haldon_npc_6_pl|Fuorilegge
+trp_haldon_npc_7|Fuorilegge famelico
+trp_haldon_npc_7_pl|Fuorilegge famelici
+trp_haldon_npc_8|Fuorilegge
+trp_haldon_npc_8_pl|Fuorilegge
 ; trp_haldon_npc_9|Borro
 ; trp_haldon_npc_9_pl|Borro
 ; trp_clansman_npc_0|Ser Marwyn Belmore
@@ -2444,24 +2444,24 @@ trp_musicans_end_pl|
 ; trp_golden_company_npc_4_pl|Malo Jayn
 ; trp_golden_company_npc_5|Lymond Pease
 ; trp_golden_company_npc_5_pl|Lymond Pease
-; trp_improved_clansman_1|Clansman Archer
-; trp_improved_clansman_1_pl|Clansman Archers
-; trp_improved_clansman_2|Clansman Maceman
-; trp_improved_clansman_2_pl|Clansman Macemen
-; trp_improved_clansman_3|Clansman Horseman
-; trp_improved_clansman_3_pl|Clansman Horsemen
-; trp_improved_clansman_4|Clansman Axeman
-; trp_improved_clansman_4_pl|Clansman Axemen
+trp_improved_clansman_1|Arciere del Clan
+trp_improved_clansman_1_pl|Arcieri del Clan
+trp_improved_clansman_2|Membro del Clan con Mazza
+trp_improved_clansman_2_pl|Membri del Clan con Mazza
+trp_improved_clansman_3|Membro del Clan a Cavallo
+trp_improved_clansman_3_pl|Membri del Clan a Cavallo
+trp_improved_clansman_4|Membro del Clan con Ascia
+trp_improved_clansman_4_pl|Membri del Clan con Ascia
 ; trp_scholars|Scholar
 ; trp_scholars_pl|Scholars
-; trp_odin_npc_1|Outlaw Archer
-; trp_odin_npc_1_pl|Outlaw Archers
-; trp_odin_npc_2|Outlaw Archer
-; trp_odin_npc_2_pl|Outlaw Archers
-; trp_odin_npc_3|Outlaw Swordsman
-; trp_odin_npc_3_pl|Outlaw Swordsmen
-; trp_odin_npc_4|Outlaw Axeman
-; trp_odin_npc_4_pl|Outlaw Axemen
+trp_odin_npc_1|Arcere fuorilegge
+trp_odin_npc_1_pl|Arceri fuorilegge
+trp_odin_npc_2|Arcere fuorilegge
+trp_odin_npc_2_pl|Arceri fuorilegge
+trp_odin_npc_3|Fuorilegge con spada
+trp_odin_npc_3_pl|Fuorilegge con spada
+trp_odin_npc_4|Fuorilegge con ascia
+trp_odin_npc_4_pl|Fuorilegge con ascia
 ; trp_odin_npc_5|Vencarlo Dexa
 ; trp_odin_npc_5_pl|Vencarlo Dexa
 ; trp_horror_npc_1|Cultist
@@ -2490,12 +2490,12 @@ trp_musicans_end_pl|
 ; trp_beowulf_npc_6_pl|Ponorro of Asshai
 ; trp_beowulf_npc_7|Samol
 ; trp_beowulf_npc_7_pl|Samol
-; trp_brave_archer|Brave Archer
-; trp_brave_archer_pl|Brave Archers
-; trp_brave_horseman|Brave Horseman
-; trp_brave_horseman_pl|Brave Horsemen
-; trp_brave_swordsman|Brave Man-at-Arms
-; trp_brave_swordsman_pl|Brave Men-at-Arms
+trp_brave_archer|Arciere dei Bravi
+trp_brave_archer_pl|Arcieri dei Bravi
+trp_brave_horseman|Membro dei Bravi a Cavallo
+trp_brave_horseman_pl|Membri dei Bravi a Cavallo
+trp_brave_swordsman|Uomo d'Arme dei Bravi
+trp_brave_swordsman_pl|Uomini d'Arme dei Bravi
 ; trp_urswyck|Urswyck
 ; trp_urswyck_pl|Urswyck
 ; trp_shagwell|Shagwell the Fool
@@ -2836,14 +2836,14 @@ trp_musicans_end_pl|
 ; trp_grazdam_pl|Grazdam zo Galare
 ; trp_hizdahr|Hizdahr zo Loraq
 ; trp_hizdahr_pl|Hizdahr zo Loraq
-; trp_unsullied_1|Unsullied
-; trp_unsullied_1_pl|Unsullied
-; trp_unsullied_2|Unsullied
-; trp_unsullied_2_pl|Unsullied
-; trp_unsullied_3|Unsullied
-; trp_unsullied_3_pl|Unsullied
-; trp_unsullied_4|Unsullied
-; trp_unsullied_4_pl|Unsullied
+trp_unsullied_1|Immacolato
+trp_unsullied_1_pl|Immacolati
+trp_unsullied_2|Immacolato
+trp_unsullied_2_pl|Immacolati
+trp_unsullied_3|Immacolato
+trp_unsullied_3_pl|Immacolati
+trp_unsullied_4|Immacolato
+trp_unsullied_4_pl|Immacolati
 ; trp_unsullied_5|Unsullied
 ; trp_unsullied_5_pl|Unsullied
 ; trp_unsullied_6|Unsullied
@@ -4264,84 +4264,84 @@ trp_knight_1_1_wife_pl|knight 1 1 wife
 ; trp_kingdom_2_lady_35_pl|Dacey Mormont
 ; trp_kingdom_2_lady_36|Alysane Mormont
 ; trp_kingdom_2_lady_36_pl|Alysane Mormont
-; trp_swadian_n_hero1|Excellent Swadian Sergeant
-; trp_swadian_n_hero1_pl|Excellent Swadian Sergeants
-; trp_swadian_n_hero2|Excellent Swadian Sharpshooter
-; trp_swadian_n_hero2_pl|Excellent Swadian Sharpshooters
+trp_swadian_n_hero1|Excellent Swadian Sergeant
+trp_swadian_n_hero1_pl|Excellent Swadian Sergeants
+trp_swadian_n_hero2|Excellent Swadian Sharpshooter
+trp_swadian_n_hero2_pl|Excellent Swadian Sharpshooters
 ; trp_vaegir_n_hero1|Excellent Vaegir Knight
 ; trp_vaegir_n_hero1_pl|Excellent Vaegir Knights
 ; trp_vaegir_n_hero2|Excellent Vaegir Guard
 ; trp_vaegir_n_hero2_pl|Excellent Vaegir Guards
-; trp_khergit_n_hero1|Excellent Khergit Veteran Horse Archer
-; trp_khergit_n_hero1_pl|Excellent Khergit Veteran Horse Archers
-; trp_nord_n_hero1|Excellent Nord Huscarl
-; trp_nord_n_hero1_pl|Excellent Nord Huscarls
-; trp_rhodok_n_hero1|Excellent Rhodok Sergeant
-; trp_rhodok_n_hero1_pl|Excellent Rhodok Sergeants
-; trp_rhodok_n_hero2|Excellent Rhodok Sharpshooter
-; trp_rhodok_n_hero2_pl|Excellent Rhodok Sharpshooters
-; trp_sarranid_n_hero1|Excellent Sarranid Mamluke
-; trp_sarranid_n_hero1_pl|Excellent Sarranid Mamlukes
-; trp_sarranid_n_hero2|Excellent Sarranid Master Archer
-; trp_sarranid_n_hero2_pl|Excellent Sarranid Master Archers
-; trp_swadian_r_hero1|Excellent Swadian Jock
-; trp_swadian_r_hero1_pl|Excellent Swadian Jocks
-; trp_swadian_r_hero2|Excellent Swadian Selfbow Archer
-; trp_swadian_r_hero2_pl|Excellent Swadian Selfbow Archers
+trp_khergit_n_hero1|Eccellente Khergit veterano cavallo arciere
+trp_khergit_n_hero1_pl|Arcieri a cavallo eccellente Khergit veterano
+trp_nord_n_hero1|Eccellente Nord Huscarl
+trp_nord_n_hero1_pl|Eccellente Nord huscarl
+trp_rhodok_n_hero1|Excellent Rhodok Sergeant
+trp_rhodok_n_hero1_pl|Excellent Rhodok Sergeants
+trp_rhodok_n_hero2|Eccellente tiratore scelto Rhodok
+trp_rhodok_n_hero2_pl|Tiratori scelti Rhodok eccellente
+trp_sarranid_n_hero1|Excellent Sarranid Mamluke
+trp_sarranid_n_hero1_pl|Excellent Sarranid Mamlukes
+trp_sarranid_n_hero2|Excellent Sarranid Master Archer
+trp_sarranid_n_hero2_pl|Excellent Sarranid Master Archers
+trp_swadian_r_hero1|Excellent Swadian Jock
+trp_swadian_r_hero1_pl|Excellent Swadian Jocks
+trp_swadian_r_hero2|Excellent Swadian Selfbow Archer
+trp_swadian_r_hero2_pl|Excellent Swadian Selfbow Archers
 ; trp_vaegir_r_hero1|Otlichniy Vaegir Ataman
 ; trp_vaegir_r_hero1_pl|Otlichniy Vaegir Atamany
 ; trp_vaegir_r_hero2|Otlichniy Vaegir Druzhinnik-Veteran
 ; trp_vaegir_r_hero2_pl|Otlichniy Vaegir Druzhinniki-Veterany
-; trp_khergit_r_hero1|Ontzsayn Khergit Khevtuul
-; trp_khergit_r_hero1_pl|Ontzsayn Khergit Khevtuulcuud
-; trp_khergit_r_hero2|Ontzsayn Khergit Borjigin
-; trp_khergit_r_hero2_pl|Ontzsayn Khergit Borjiginuud
-; trp_nord_r_hero1|Utmarkt Nord Heahgerefa
-; trp_nord_r_hero1_pl|Utmarkt Nord Heahgerefar
-; trp_nord_r_hero2|Utmarkt Nord Kappi
-; trp_nord_r_hero2_pl|Utmarkt Nord Kappir
-; trp_rhodok_r_hero1|Eccelente Rhodok Balestriere Veterano
-; trp_rhodok_r_hero1_pl|Eccelente Rhodok Balestrieri Veterani
-; trp_rhodok_r_hero2|Eccelente Rhodok Picchiere Veterano
-; trp_rhodok_r_hero2_pl|Eccelente Rhodok Picchieri Veterani
-; trp_sarranid_r_hero1|Mumtaz Sarranid Kapikula
-; trp_sarranid_r_hero1_pl|Mumtaz Sarranid Kapikulani
-; trp_sarranid_r_hero2|Mumtaz Sarranid Uluteci
-; trp_sarranid_r_hero2_pl|Mumtaz Sarranid Uluteciler
-; trp_swadian_e_hero1|Excellent Swadian Highlander
-; trp_swadian_e_hero1_pl|Excellent Swadian Highlanders
-; trp_swadian_e_hero2|Excellent Swadian Lancer
-; trp_swadian_e_hero2_pl|Excellent Swadian Lancers
+trp_khergit_r_hero1|Ontzsayn Khergit Khevtuul
+trp_khergit_r_hero1_pl|Ontzsayn Khergit Khevtuulcuud
+trp_khergit_r_hero2|Ontzsayn Khergit Borjigin
+trp_khergit_r_hero2_pl|Ontzsayn Khergit Borjiginuud
+trp_nord_r_hero1|Utmarkt Nord Heahgerefa
+trp_nord_r_hero1_pl|Utmarkt Nord Heahgerefar
+trp_nord_r_hero2|Utmarkt Nord Kappi
+trp_nord_r_hero2_pl|Utmarkt Nord Kappir
+trp_rhodok_r_hero1|Eccelente Rhodok Balestriere Veterano
+trp_rhodok_r_hero1_pl|Eccelente Rhodok Balestrieri Veterani
+trp_rhodok_r_hero2|Eccelente Rhodok Picchiere Veterano
+trp_rhodok_r_hero2_pl|Eccelente Rhodok Pichierri Veterani
+trp_sarranid_r_hero1|Mumtaz Sarranid Kapikula
+trp_sarranid_r_hero1_pl|Mumtaz Sarranid Kapikulani
+trp_sarranid_r_hero2|Mumtaz Sarranid Uluteci
+trp_sarranid_r_hero2_pl|Mumtaz Sarranid Uluteciler
+trp_swadian_e_hero1|Excellent Swadian Highlander
+trp_swadian_e_hero1_pl|Excellent Swadian Highlanders
+trp_swadian_e_hero2|Excellent Swadian Lancer
+trp_swadian_e_hero2_pl|Excellent Swadian Lancers
 ; trp_vaegir_e_hero1|Otlichniy Vaegir Legkoy Vityas
 ; trp_vaegir_e_hero1_pl|Otlichniy Vaegir Legkoi Vityasy
 ; trp_vaegir_e_hero2|Otlichniy Vaegir Voevoda
 ; trp_vaegir_e_hero2_pl|Otlichniy Vaegir Voevody
 ; trp_vaegir_e_hero3|Otlichniy Vaegir Elitniy Druzhinnik
 ; trp_vaegir_e_hero3_pl|Otlichniy Vaegir Elitniy Druzhinniki
-; trp_khergit_e_hero1|Ontzsayn Khergit Keshig
-; trp_khergit_e_hero1_pl|Ontzsayn Khergit Keshignuud
-; trp_khergit_e_hero2|Ontzsayn Khergit Kharvaach
-; trp_khergit_e_hero2_pl|Ontzsayn Khergit Kharvaachuud
-; trp_khergit_e_hero3|Ontzsayn Khergit Jurtchi
-; trp_khergit_e_hero3_pl|Ontzsayn Khergit Jurtchinuud
-; trp_nord_e_hero1|Utmarkt Nord Ealdorman
-; trp_nord_e_hero1_pl|Utmarkt Nord Ealdormen
-; trp_nord_e_hero2|Utmarkt Nord Erfarne Himthige
-; trp_nord_e_hero2_pl|Utmarkt Nord Erfarne Himthiger
-; trp_nord_e_hero3|Utmarkt Nord Hetja
-; trp_nord_e_hero3_pl|Utmarkt Nord Erfarne Hetjar
-; trp_rhodok_e_hero1|Eccelente Rhodok Balestriere Pesante
-; trp_rhodok_e_hero1_pl|Eccelente Rhodok Balestrieri Pesanti
-; trp_rhodok_e_hero2|Eccelente Rhodok Capitano di Ventura
-; trp_rhodok_e_hero2_pl|Eccelente Rhodok Capitani di Venturi
-; trp_rhodok_e_hero3|Eccelente Rhodok Guardia Ducale
-; trp_rhodok_e_hero3_pl|Eccelente Rhodok Guardie Ducali
-; trp_sarranid_e_hero1|Mumtaz Sarranid Qilich Arslan
-; trp_sarranid_e_hero1_pl|Mumtaz Sarranid Qilich Arslani
-; trp_sarranid_e_hero2|Mumtaz Sarranid Sekban
-; trp_sarranid_e_hero2_pl|Mumtaz Sarranid Sekbanlar
-; trp_sarranid_e_hero3|Mumtaz Sarranid Silahtar
-; trp_sarranid_e_hero3_pl|Mumtaz Sarranid Silahtarin
+trp_khergit_e_hero1|Ontzsayn Khergit Keshig
+trp_khergit_e_hero1_pl|Ontzsayn Khergit Keshignuud
+trp_khergit_e_hero2|Ontzsayn Khergit Kharvaach
+trp_khergit_e_hero2_pl|Ontzsayn Khergit Kharvaachuud
+trp_khergit_e_hero3|Ontzsayn Khergit Jurtchi
+trp_khergit_e_hero3_pl|Ontzsayn Khergit Jurtchinuud
+trp_nord_e_hero1|Utmarkt Nord Ealdorman
+trp_nord_e_hero1_pl|Utmarkt Nord Ealdormen
+trp_nord_e_hero2|Utmarkt Nord Erfarne Himthige
+trp_nord_e_hero2_pl|Utmarkt Nord Erfarne Himthiger
+trp_nord_e_hero3|Utmarkt Nord Hetja
+trp_nord_e_hero3_pl|Utmarkt Nord Erfarne Hetjar
+trp_rhodok_e_hero1|Eccelente Rhodok Balestriere Pesante
+trp_rhodok_e_hero1_pl|Eccelente Rhodok Balestrieri trifasi
+trp_rhodok_e_hero2|Eccelente Rhodok Capitano di Ventura
+trp_rhodok_e_hero2_pl|Eccelente Rhodok Capitani di Venturi
+trp_rhodok_e_hero3|Eccelente Rhodok Guardia Ducale
+trp_rhodok_e_hero3_pl|Eccelente Rhodok Guardie Ducali
+trp_sarranid_e_hero1|Mumtaz Sarranid Qilich Arslan
+trp_sarranid_e_hero1_pl|Mumtaz Sarranid Qilich Arslani
+trp_sarranid_e_hero2|Mumtaz Sarranid Sekban
+trp_sarranid_e_hero2_pl|Mumtaz Sarranid Sekbanlar
+trp_sarranid_e_hero3|Mumtaz Sarranid Silahtar
+trp_sarranid_e_hero3_pl|Mumtaz Sarranid Silahtarin
 trp_town_1_arena_master|Mastro dei Tornei
 trp_town_3_arena_master|Mastro dei Tornei
 trp_town_6_arena_master|Mastro dei Tornei
@@ -5035,53 +5035,53 @@ trp_relative_of_merchants_end_pl|relative of merchants end
 ; trp_dplmc_constable|Castellan Erlos Linnan
 ; trp_dplmc_constable_pl|Castellan Erlos Linnan
 ; trp_dplmc_chancellor|Maester Herfast
-; trp_dplmc_chancellor_pl|Chancellors
+trp_dplmc_chancellor_pl|Cancelliere
 trp_dplmc_messenger|Messaggeri
-; trp_dplmc_messenger_pl|Messengers
-; trp_dplmc_scout|Scout
+trp_dplmc_messenger_pl|Messaggeri
+trp_dplmc_scout|Esploratore
 trp_dplmc_scout_pl|Esploratori
-; trp_dplmc_recruiter|Recruiter
-; trp_dplmc_recruiter_pl|Recruiters
-; trp_mystic_merchant_1|Mystic Merchant
-; trp_mystic_merchant_1_pl|Mystic Merchant
-; trp_mystic_merchant_2|Mystic Merchant
-; trp_mystic_merchant_2_pl|Mystic Merchant
-; trp_mystic_merchant_3|Mystic Merchant
-; trp_mystic_merchant_3_pl|Mystic Merchant
-; trp_mystic_merchant_4|Mystic Merchant
-; trp_mystic_merchant_4_pl|Mystic Merchant
-; trp_mystic_merchant_5|Mystic Merchant
-; trp_mystic_merchant_5_pl|Mystic Merchant
-; trp_slave_swadian|Swadian Slave
-; trp_slave_swadian_pl|Swadian Slaves
-; trp_slave_vaegir|Vaegir Slave
-; trp_slave_vaegir_pl|Vaegir Slaves
-; trp_slave_khergit|Khergit Slave
-; trp_slave_khergit_pl|Khergit Slaves
-; trp_slave_nord|Nord Slave
-; trp_slave_nord_pl|Nord Slaves
-; trp_slave_rhodok|Rhodok Slave
-; trp_slave_rhodok_pl|Rhodok Slaves
-; trp_slave_sarranid|Sarranid Slave
-; trp_slave_sarranid_pl|Sarranid Slaves
-; trp_skill_hunter|Hunter
-; trp_skill_hunter_pl|Hunters
-; trp_skill_scout|Outrider
-; trp_skill_scout_pl|Outriders
-; trp_skill_surgeon|Serjeant
-; trp_skill_surgeon_pl|Serjeants
+trp_dplmc_recruiter|Reclutatore
+trp_dplmc_recruiter_pl|Reclutatori
+trp_mystic_merchant_1|Mercante Mistico
+trp_mystic_merchant_1_pl|Mercante Mistico
+trp_mystic_merchant_2|Mercante Mistico
+trp_mystic_merchant_2_pl|Mercante Mistico
+trp_mystic_merchant_3|Mercante Mistico
+trp_mystic_merchant_3_pl|Mercante Mistico
+trp_mystic_merchant_4|Mercante Mistico
+trp_mystic_merchant_4_pl|Mercante Mistico
+trp_mystic_merchant_5|Mercante Mistico
+trp_mystic_merchant_5_pl|Mercante Mistico
+trp_slave_swadian|Schiavo Swadian
+trp_slave_swadian_pl|Swadian Slaves
+trp_slave_vaegir|Schiavo Vaegir
+trp_slave_vaegir_pl|Schiavi Vaegir
+trp_slave_khergit|Khergit Slave
+trp_slave_khergit_pl|Khergit schiavi
+trp_slave_nord|Schiavo del Nord
+trp_slave_nord_pl|Schiavi del Nord
+trp_slave_rhodok|Rhodok Slave
+trp_slave_rhodok_pl|Rhodok schiavi
+trp_slave_sarranid|Sarranid Slave
+trp_slave_sarranid_pl|Sarranid Slaves
+trp_skill_hunter|Cacciatore
+trp_skill_hunter_pl|Cacciatori
+trp_skill_scout|Guida
+trp_skill_scout_pl|Guide
+trp_skill_surgeon|Sergente
+trp_skill_surgeon_pl|Sergenti
 ; trp_skill_monk|Begging Brother
 ; trp_skill_monk_pl|Begging Brothers
-; trp_skill_merchant|Hedge Knight
-; trp_skill_merchant_pl|Hedge Knights
-; trp_skill_priest|Preacher
-; trp_skill_priest_pl|Preachers
-; trp_skill_bishop|Guardsman
-; trp_skill_bishop_pl|Guardsmen
-; trp_skill_end|End
-; trp_skill_end_pl|End
-; trp_sea_captain|Sea Captain
-; trp_sea_captain_pl|Sea Captains
+trp_skill_merchant|Cavaliere Errante
+trp_skill_merchant_pl|Cavalieri Erranti
+trp_skill_priest|Predicatore
+trp_skill_priest_pl|Predicatori
+trp_skill_bishop|Guardia
+trp_skill_bishop_pl|Guardie
+trp_skill_end|Fine
+trp_skill_end_pl|Fine
+trp_sea_captain|Capitano di Mare
+trp_sea_captain_pl|Capitani di Mare
 trp_swadian_town_walker_m_poor|Cittadino
 trp_swadian_town_walker_m_poor_pl|Cittadini
 trp_swadian_town_walker_f_poor|Cittadina
@@ -5110,33 +5110,33 @@ trp_town_walker_m_poor|Cittadino
 trp_town_walker_m_poor_pl|Cittadini
 trp_town_walker_f_poor|Cittadina
 trp_town_walker_f_poor_pl|Cittadine
-; trp_swadian_village_walker_m_poor|Villager
+trp_swadian_village_walker_m_poor|Abitante del Villaggio
 trp_swadian_village_walker_m_poor_pl|Abitanti del villaggio
-; trp_swadian_village_walker_f_poor|Villager
+trp_swadian_village_walker_f_poor|Abitante del Villaggio
 trp_swadian_village_walker_f_poor_pl|Abitanti del villaggio
-; trp_vaegir_village_walker_m_poor|Villager
+trp_vaegir_village_walker_m_poor|Abitante del Villaggio
 trp_vaegir_village_walker_m_poor_pl|Abitanti del villaggio
-; trp_vaegir_village_walker_f_poor|Villager
+trp_vaegir_village_walker_f_poor|Abitante del Villaggio
 trp_vaegir_village_walker_f_poor_pl|Abitanti del villaggio
-; trp_khergit_village_walker_m_poor|Villager
+trp_khergit_village_walker_m_poor|Abitante del Villaggio
 trp_khergit_village_walker_m_poor_pl|Abitanti del villaggio
-; trp_khergit_village_walker_f_poor|Villager
+trp_khergit_village_walker_f_poor|Abitante del Villaggio
 trp_khergit_village_walker_f_poor_pl|Abitanti del villaggio
-; trp_nord_village_walker_m_poor|Villager
+trp_nord_village_walker_m_poor|Abitante del Villaggio
 trp_nord_village_walker_m_poor_pl|Abitanti del villaggio
-; trp_nord_village_walker_f_poor|Villager
+trp_nord_village_walker_f_poor|Abitante del Villaggio
 trp_nord_village_walker_f_poor_pl|Abitanti del villaggio
-; trp_rhodok_village_walker_m_poor|Villager
+trp_rhodok_village_walker_m_poor|Abitante del Villaggio
 trp_rhodok_village_walker_m_poor_pl|Abitanti del villaggio
-; trp_rhodok_village_walker_f_poor|Villager
+trp_rhodok_village_walker_f_poor|Abitante del Villaggio
 trp_rhodok_village_walker_f_poor_pl|Abitanti del villaggio
-; trp_sarranid_village_walker_m_poor|Villager
+trp_sarranid_village_walker_m_poor|Abitante del Villaggio
 trp_sarranid_village_walker_m_poor_pl|Abitanti del villaggio
-; trp_sarranid_village_walker_f_poor|Villager
+trp_sarranid_village_walker_f_poor|Abitante del Villaggio
 trp_sarranid_village_walker_f_poor_pl|Abitanti del villaggio
-; trp_village_walker_m_poor|Villager
+trp_village_walker_m_poor|Abitante del Villaggio
 trp_village_walker_m_poor_pl|Abitanti del villaggio
-; trp_village_walker_f_poor|Villager
+trp_village_walker_f_poor|Abitante del Villaggio
 trp_village_walker_f_poor_pl|Abitanti del villaggio
 trp_swadian_town_walker_m_rich|Cittadino
 trp_swadian_town_walker_m_rich_pl|Cittadini
@@ -5166,36 +5166,36 @@ trp_town_walker_m_rich|Cittadino
 trp_town_walker_m_rich_pl|Cittadini
 trp_town_walker_f_rich|Cittadina
 trp_town_walker_f_rich_pl|Cittadine
-; trp_swadian_village_walker_m_rich|Villager
+trp_swadian_village_walker_m_rich|Abitante del villaggio
 trp_swadian_village_walker_m_rich_pl|Abitanti del villaggio
-; trp_swadian_village_walker_f_rich|Villager
+trp_swadian_village_walker_f_rich|Abitante del villaggio
 trp_swadian_village_walker_f_rich_pl|Abitanti del villaggio
-; trp_vaegir_village_walker_m_rich|Villager
+trp_vaegir_village_walker_m_rich|Abitante del villaggio
 trp_vaegir_village_walker_m_rich_pl|Abitanti del villaggio
-; trp_vaegir_village_walker_f_rich|Villager
+trp_vaegir_village_walker_f_rich|Abitante del Villaggio
 trp_vaegir_village_walker_f_rich_pl|Abitanti del villaggio
-; trp_khergit_village_walker_m_rich|Villager
+trp_khergit_village_walker_m_rich|Abitante del Villaggio
 trp_khergit_village_walker_m_rich_pl|Abitanti del villaggio
-; trp_khergit_village_walker_f_rich|Villager
+trp_khergit_village_walker_f_rich|Abitante del Villaggio
 trp_khergit_village_walker_f_rich_pl|Abitanti del villaggio
-; trp_nord_village_walker_m_rich|Villager
+trp_nord_village_walker_m_rich|Abitante del Villaggio
 trp_nord_village_walker_m_rich_pl|Abitanti del villaggio
-; trp_nord_village_walker_f_rich|Villager
+trp_nord_village_walker_f_rich|Abitante del Villaggio
 trp_nord_village_walker_f_rich_pl|Abitanti del villaggio
-; trp_rhodok_village_walker_m_rich|Villager
+trp_rhodok_village_walker_m_rich|Abitante del Villaggio
 trp_rhodok_village_walker_m_rich_pl|Abitanti del villaggio
-; trp_rhodok_village_walker_f_rich|Villager
+trp_rhodok_village_walker_f_rich|Abitante del Villaggio
 trp_rhodok_village_walker_f_rich_pl|Abitanti del villaggio
-; trp_sarranid_village_walker_m_rich|Villager
+trp_sarranid_village_walker_m_rich|Abitante del Villaggio
 trp_sarranid_village_walker_m_rich_pl|Abitanti del villaggio
-; trp_sarranid_village_walker_f_rich|Villager
+trp_sarranid_village_walker_f_rich|Abitante del Villaggio
 trp_sarranid_village_walker_f_rich_pl|Abitanti del villaggio
-; trp_village_walker_m_rich|Villager
+trp_village_walker_m_rich|Abitante del villaggio
 trp_village_walker_m_rich_pl|Abitanti del villaggio
-; trp_village_walker_f_rich|Villager
+trp_village_walker_f_rich|Abitante del villaggio
 trp_village_walker_f_rich_pl|Abitanti del villaggio
-; trp_walkers_end|End
-; trp_walkers_end_pl|End
+trp_walkers_end|Fine
+trp_walkers_end_pl|Fine
 ; trp_tpe_settings|TPE Persistent Settings
 ; trp_tpe_settings_pl|TPE Scaled Troops
 ; trp_tpe_appearance|TPE Appearance Settings

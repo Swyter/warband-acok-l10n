@@ -2,7 +2,7 @@ qst_deliver_message|Consegna un messaggio a {s13}
 qst_deliver_message_to_enemy_lord|Consegna un messaggio a {s13}
 qst_raise_troops|Istruisci {reg1} {s14}
 qst_escort_lady|Scorta {s13} a {s14}
-qst_deal_with_bandits_at_lords_village|Salva il villaggio di {s15} dai Banditi.
+qst_deal_with_bandits_at_lords_village|Salva il villaggio di {s15} dai Banditi Saccheggiatori.
 qst_collect_taxes|Riscuoti le tasse da {s3}
 qst_hunt_down_fugitive|Dai la caccia a {s4}
 qst_kill_local_merchant|Assassinio di un mercante locale a {s3}
@@ -44,7 +44,7 @@ qst_bar_brawl_text|{s9} di {s4} ti ha chiesto di affrontare le zoticoni nelle vi
 qst_deliver_grain|Porta il grano a {s3}
 qst_deliver_cattle|Consegna {reg5} capi di bestiame a {s3}
 qst_train_peasants_against_bandits|Addestra i paesani di {s13} per affrontare i banditi.
-qst_escort_scholars|Scorta Septons a {s8}
+qst_escort_scholars|Scorta i Septons a {s8}
 qst_escort_scholars_text|Scorta i septons alla città di {s8}.
 qst_hunt_down_smugglers|Caccia ai contrabbandieri
 qst_hunt_down_smugglers_text|{s9} ha chiesto di affrontare con i contrabbandieri. Ha detto che tutti e tre i gruppi stanno scappando in direzione di {s3}.
@@ -75,83 +75,83 @@ qst_raid_caravan_to_start_war|Attacca una Carovana neutrale per provocare la gue
 qst_cause_provocation|Dai un pretesto al Regno per attaccarne un altro
 qst_rescue_prisoner|Libera o riscatta un prigioniero
 qst_destroy_bandit_lair|Distruggi il covo dei banditi
-; qst_beowulf_quest|The Horn and the Necklace: Part 1
-; qst_beowulf_quest1|The Horn and the Necklace: Part 2
-; qst_beowulf_quest2|The Horn and the Necklace: Part 3
-; qst_beowulf_quest3|The Horn and the Necklace: Part 4
-; qst_beowulf_quest4|The Horn and the Necklace: Part 5
-; qst_beowulf_quest5|The Horn and the Necklace: Part 6
-; qst_beowulf_quest6|The Horn and the Necklace: Part 7
-; qst_relic_quest|The Blessed Ring: Part 1
-; qst_relic_quest1|The Blessed Ring: Part 2
-; qst_tatters_quest|Old Tatters and Bloodbeard: Part 1
-; qst_tatters_quest1|Old Tatters and Bloodbeard: Part 2
-; qst_tatters_quest2|Old Tatters and Bloodbeard: Part 3
-; qst_ramsay_quest|The Bastard of Bolton: Part 1
-; qst_ramsay_quest1|The Bastard of Bolton: Part 2
-; qst_ramsay_quest2|The Bastard of Bolton: Part 3
-; qst_tyrion_quest|Hear me Roar: Part 1
-; qst_tyrion_quest1|Hear me Roar: Part 2
-; qst_quaithe_quest|The Nightfort: Part 1
-; qst_quaithe_quest1|The Nightfort: Part 2
-; qst_quaithe_quest2|The Nightfort: Part 3
-; qst_quaithe_quest3|The Nightfort: Part 4
-; qst_quaithe_quest4|The Nightfort: Part 5
-; qst_return_to_illyrio|The Lord of Cheese: Part 1
-; qst_return_to_illyrio2|The Lord of Cheese: Part 2
-; qst_gueren_quest|The Night's Watch: Part 1
-; qst_gueren_quest1|The Night's Watch: Part 2
-; qst_odin_cave_quest|The Lost Caravan: Part 1
-; qst_odin_cave_quest1|The Lost Caravan: Part 2
-; qst_barrow_quest|Tombs of the Andals: Part 1
-; qst_barrow_quest1|Tombs of the Andals: Part 2
-; qst_terror_quest|Terror in the Cairn: Part 1
-; qst_terror_quest1|Terror in the Cairn: Part 2
-; qst_nw_main_quest_first_quest|Blood on the Snow: Part 1
-; qst_nw_main_quest_first_quest1|Blood on the Snow: Part 2
-; qst_nw_main_quest_second_quest|Rough Speech: Part 1
-; qst_nw_main_quest_second_quest1|Rough Speech: Part 2
-; qst_nw_main_quest_third_quest|The Bridge of Skulls: Part 1
-; qst_nw_main_quest_third_quest1|The Bridge of Skulls: Part 2
-; qst_nw_main_quest_third_quest2|The Bridge of Skulls: Part 3
-; qst_nw_main_quest_fourth_quest|The Approaching Storm: Part 1
-; qst_nw_main_quest_fifth_quest|The Battle of Castle Black: Part 1
-; qst_nw_main_quest_fifth_quest2|The Battle of Castle Black: Part 2
-; qst_nw_main_quest_fifth_quest1|The Battle of Castle Black: Part 3
-; qst_aegon_targaryen_quest|Half a Maester: Part 1
-; qst_aegon_targaryen_quest1|Half a Maester: Part 2
-; qst_dragonseed_quest|Seed of the Dragons: Part 1
-; qst_dragonseed_quest1|Seed of the Dragons: Part 2
-; qst_espada_falcata|Valar Dohaeris
-; qst_wildfire_quest|Shadows in the Night: Part 1
-; qst_wildfire_quest1|Shadows in the Night: Part 2
-; qst_wildfire_quest2|Shadows in the Night: Part 3
-; qst_wildfire_quest3|Shadows in the Night: Part 4
-; qst_wildfire_quest4|Shadows in the Night: Part 5
-; qst_wildfire_quest5|Shadows in the Night: Part 6
-; qst_wildfire_quest6|Shadows in the Night: Part 7
-; qst_stepstone_quest|The Prince and the Queen: Part 1
-; qst_stepstone_quest1|The Prince and the Queen: Part 2
-; qst_stepstone_quest2|The Prince and the Queen: Part 3
-; qst_stepstone_quest3|The Prince and the Queen: Part 4
-; qst_stepstone_quest4|The Prince and the Queen: Part 5
-; qst_stepstone_quest5|The Prince and the Queen: Part 6
-; qst_stepstone_quest6|The Prince and the Queen: Part 7
-; qst_clansman_quest|Sticks and Stones: Part 1
-; qst_clansman_quest1|Sticks and Stones: Part 2
-; qst_clansman_quest2|Sticks and Stones: Part 3
-; qst_clansman_quest3|Sticks and Stones: Part 4
-; qst_clansman_quest4|Sticks and Stones: Part 5
-; qst_clansman_quest5|Sticks and Stones: Part 6
-; qst_clansman_quest6|Sticks and Stones: Part 7
-; qst_varys_quest|Fire and Blood: Part 1
-; qst_varys_quest1|Fire and Blood: Part 2
-; qst_varys_quest2|Fire and Blood: Part 3
-; qst_varys_quest3|Fire and Blood: Part 4
-; qst_varys_quest4|Fire and Blood: Part 5
-; qst_varys_quest5|Fire and Blood: Part 6
-; qst_varys_quest6|Fire and Blood: Part 7
-; qst_varys_quest7|Fire and Blood: Part 8
+qst_beowulf_quest|Il Corno e la collana: Parte 1
+qst_beowulf_quest1|Il Corno e la collana: Parte 2
+qst_beowulf_quest2|Il Corno e la collana: Parte 3
+qst_beowulf_quest3|Il Corno e la collana: Parte 4
+qst_beowulf_quest4|Il Corno e la collana: Parte 5
+qst_beowulf_quest5|Il Corno e la collana: Parte 6
+qst_beowulf_quest6|Il Corno e la collana: Parte 7
+qst_relic_quest|L' Anello Benedetto: Parte 1
+qst_relic_quest1|L' Anello Benedetto: Parte 2
+qst_tatters_quest|Vecchi trattati e Bloodbeard: Parte 1
+qst_tatters_quest1|Vecchi trattati e Bloodbeard: Parte 2
+qst_tatters_quest2|Vecchi trattati e Bloodbeard: Parte 3
+qst_ramsay_quest|Il Bastardo di Bolton: Parte 1
+qst_ramsay_quest1|Il Bastardo di Bolton: Parte 2
+qst_ramsay_quest2|Il Bastardo di Bolton: Parte 3
+qst_tyrion_quest|Uditemi ruggire: Parte 1
+qst_tyrion_quest1|Uditemi ruggire: Parte 2
+qst_quaithe_quest|Le rovine di Nightfort: Parte 1
+qst_quaithe_quest1|Le rovine di  Nightfort: Parte 2
+qst_quaithe_quest2|Le rovine di  Nightfort: Parte 3
+qst_quaithe_quest3|Le rovine di  Nightfort: Parte 4
+qst_quaithe_quest4|Le rovine di  Nightfort: Parte 5
+qst_return_to_illyrio|Il Signore del formaggio: Parte 1
+qst_return_to_illyrio2|Il Signore del formaggio: Parte 2
+qst_gueren_quest|I guardiani della notte: Parte 1
+qst_gueren_quest1|I guardiani della notte: Parte 2
+qst_odin_cave_quest|La carovana perduta: Parte 1
+qst_odin_cave_quest1|La carovana perduta: Parte 2
+qst_barrow_quest|Le tombe degli Andal: Parte 1
+qst_barrow_quest1|Le tombe degli Andal: Parte 2
+qst_terror_quest|Terrore nel Cairn: Parte 1
+qst_terror_quest1|Terrore nel Cairn: Parte 2
+qst_nw_main_quest_first_quest|Sangue sulla neve: Parte 1
+qst_nw_main_quest_first_quest1|Sangue sulla neve: Parte 2
+qst_nw_main_quest_second_quest|Linguaggio Grezzo: Parte 1
+qst_nw_main_quest_second_quest1|Linguaggio Grezzo: Parte 2
+qst_nw_main_quest_third_quest|Il ponte dei teschi: Parte 1
+qst_nw_main_quest_third_quest1|Il ponte dei teschi: Parte 2
+qst_nw_main_quest_third_quest2|Il ponte dei teschi: Parte 3
+qst_nw_main_quest_fourth_quest|La tempesta si avvicina: Parte 1
+qst_nw_main_quest_fifth_quest|La battaglia di Castello Nero: Parte 1
+qst_nw_main_quest_fifth_quest2|La battaglia di Castello Nero: Parte 2
+qst_nw_main_quest_fifth_quest1|La battaglia di Castello Nero: Parte 3
+qst_aegon_targaryen_quest|Maestro a metà: Parte 1
+qst_aegon_targaryen_quest1|Maestro a metà: Parte 2
+qst_dragonseed_quest|Seme dei Draghi: Parte 1
+qst_dragonseed_quest1|Seme dei Draghi: Parte 2
+qst_espada_falcata|Valar Dohaeris
+qst_wildfire_quest|Ombre nella notte: Parte 1
+qst_wildfire_quest1|Ombre nella notte: Parte 2
+qst_wildfire_quest2|Ombre nella notte: Parte 3
+qst_wildfire_quest3|Ombre nella notte: Parte 4
+qst_wildfire_quest4|Ombre nella notte: Parte 5
+qst_wildfire_quest5|Ombre nella notte: Parte 6
+qst_wildfire_quest6|Ombre nella notte: Parte 7
+qst_stepstone_quest|Il principe e la regina: Parte 1
+qst_stepstone_quest1|Il principe e la regina: Parte 2
+qst_stepstone_quest2|Il principe e la regina: Parte 3
+qst_stepstone_quest3|Il principe e la regina: Parte 4
+qst_stepstone_quest4|Il principe e la regina: Parte 5
+qst_stepstone_quest5|Il principe e la regina: Parte 6
+qst_stepstone_quest6|Il principe e la regina: Parte 7
+qst_clansman_quest|Bastoni e Pietre: Parte 1
+qst_clansman_quest1|Bastoni e Pietre: Parte 2
+qst_clansman_quest2|Bastoni e Pietre: Parte 3
+qst_clansman_quest3|Bastoni e Pietre: Parte 4
+qst_clansman_quest4|Bastoni e Pietre: Parte 5
+qst_clansman_quest5|Bastoni e Pietre: Parte 6
+qst_clansman_quest6|Bastoni e Pietre: Parte 7
+qst_varys_quest|Fuoco e Sangue: Parte 1
+qst_varys_quest1|Fuoco e Sangue: Parte 2
+qst_varys_quest2|Fuoco e Sangue: Parte 3
+qst_varys_quest3|Fuoco e Sangue: Parte 4
+qst_varys_quest4|Fuoco e Sangue: Parte 5
+qst_varys_quest5|Fuoco e Sangue: Parte 6
+qst_varys_quest6|Fuoco e Sangue: Parte 7
+qst_varys_quest7|Fuoco e Sangue: Parte 8
 qst_collect_men|Recluta cinque uomini
 qst_learn_where_merchant_brother_is|Scopri dove sono tenuti gli ostaggi
 qst_save_relative_of_merchant|Attacca il covo dei Banditi
@@ -166,6 +166,6 @@ qst_freelancer_enlisted|Arruolato nella compagnia di {s13}
 qst_freelancer_vacation|Arruolato: In congedo
 qst_freelancer_captured|Arruolato: Catturato
 qst_freelancer_revolt|Arruolato: In rivolta
-; qst_freelancer_end|Freelancer Quests End
+qst_freelancer_end|Indipendente Missione Finale
 qst_floris_active_tournament|Partecipare al torneo in {s13}
 qst_quests_end|Fine delle missioni

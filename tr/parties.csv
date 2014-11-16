@@ -1,30 +1,30 @@
 p_zendar|Zendar
 p_town_1|Sisterton
-p_town_3|Padelle Salate
+p_town_3|Saltpans
 p_town_6|Weeping Tower
-p_town_8|Città del Gabbiano
+p_town_8|Gulltown
 p_town_9|Fairmarket
 p_town_12|Pentos
-p_town_16|Approdo del Re
+p_town_16|King's Landing
 p_town_17|Braavos
-p_town_18|Tempio di Pietra
-p_town_19|Lancia del Sole
+p_town_18|Stoney Sept
+p_town_19|Sunspear
 p_town_20|Planky Town
-p_town_23|Roccia del Drago
+p_town_23|Dragonstonw
 p_town_24|Lannisport
 p_town_25|Duskendale
 p_town_26|Maidenpool
 p_town_27|Kayce
 p_town_30|Ashford
-p_town_31|Porto Bianco
-p_town_32|Vecchia Città
+p_town_31|White HArbor
+p_town_32|Oldtown
 p_town_33|Pyke
 p_town_34|Lordsport
 p_town_35|Ironoaks
-p_town_36|Rovine di Ghoyan Drohe
+p_town_36|Ghoyan Drohe Harabeleri
 p_town_38|Lorath
 p_town_40|Lys
-p_town_41|Città delle Tombe
+p_town_41|Barrowton
 p_town_42|Tumbleton
 p_town_44|Navar
 p_town_45|Myr
@@ -32,141 +32,141 @@ p_town_46|Tyrosh
 p_town_47|Volantis
 p_town_48|Volon Therys
 p_town_49|Valysar
-p_town_50|Selhorys
+p_town_50|Selhyros
 p_town_51|Norvos
-p_town_52|Rovine di Ny Sar
-p_castle_1|Fortecanto
-p_castle_2|Dito della Silice
-p_castle_3|Porta di Bronzo
-p_castle_4|Capo della Vedova
-p_castle_5|Rosby
-p_castle_6|Vecchio Castello
-p_castle_7|Seagard
-p_castle_8|Felwood
-p_castle_9|Moat Cailin
-p_castle_10|Sala del Fienile
-p_castle_11|Capo Tagliente
-p_castle_12|Wickenden
-p_castle_13|Stonedance
-p_castle_14|Iksa Keria
-p_castle_15|Ultimo Focolare
-p_castle_16|Antlers
-p_castle_17|Castello dei Cerwyn
-p_castle_18|Crag
-p_castle_19|Karhold
-p_castle_20|Nido del Corvo
-p_castle_21|Redfort
+p_town_52|Ruins of Ny Sar
+p_castle_1|Strongsong Kalesi
+p_castle_2|Flint's Finger Kalesi
+p_castle_3|Bronzegate Kalesi
+p_castle_4|Widow'un Gözcüleri
+p_castle_5|Rosby Kalesi
+p_castle_6|Oldcastle Kalesi
+p_castle_7|Seagard Kalesi
+p_castle_8|Fellwood Kalesi
+p_castle_9|Moat Cailin Kalesi
+p_castle_10|Haystack Hall
+p_castle_11|Sharp Point
+p_castle_12|Wickenden Kalesi
+p_castle_13|Stonedance Kalesi
+p_castle_14|Iksa Karea
+p_castle_15|Last Hearth
+p_castle_16|Antlers Kalesi
+p_castle_17|Cerwyn Kalesi
+p_castle_18|The Crag
+p_castle_19|Karhold Kalesi
+p_castle_20|Crow's Nest
+p_castle_21|Redfort Kalesi
 p_castle_22|Deepwood Motte
-p_castle_23|Runestone
-p_castle_24|Porta Insanguinata
+p_castle_23|Runestone Kalesi
+p_castle_24|Kanlı Kapı
 p_castle_25|Evenfall Hall
-p_castle_26|Pinkmaiden
-p_castle_27|Mistwood
-p_castle_28|Foresta del Serpente
-p_castle_29|Harrenhal
-p_castle_30|Costa Salata
-p_castle_31|Banefort
-p_castle_32|Forte Terrore
-p_castle_33|Coldwater
-p_castle_34|Nido dell' Aquila
+p_castle_26|Pinkmaiden Kalesi
+p_castle_27|Mistwood Kalesi
+p_castle_28|Snakewood Kalesi
+p_castle_29|Harrenhal Kalesi
+p_castle_30|Salt Shore
+p_castle_31|Banefort Kalesi
+p_castle_32|The Dreadfort
+p_castle_33|Coldwater Kalesi
+p_castle_34|The Eyrie
 p_castle_35|Longbow Hall
-p_castle_36|Vecchia Ancora
-p_castle_37|Torri Gemelle
-p_castle_38|Atranta
-p_castle_39|Sala delle Ghiande
-p_castle_40|Blackhaven
-p_castle_41|Bosco dei Limoni
-p_castle_42|Yronwood
-p_castle_43|Vaith
-p_castle_44|Sandstone
-p_castle_45|Thor
-p_castle_46|Collina Fantasma
-p_castle_47|Grazia degli Dei
-p_castle_48|Tomba del Re
-p_castle_49|Blackmont
-p_castle_50|Canto Notturno
-p_castle_51|Ashemark
-p_castle_52|Castel Granito
-p_castle_53|Crakehall
-p_castle_54|Sarsfield
-p_castle_55|Collina del Corno
+p_castle_36|Old Anchor
+p_castle_37|The Crossing
+p_castle_38|Atranta Kalesi
+p_castle_39|Acorn Hall
+p_castle_40|Blackhaven Kalesi
+p_castle_41|Lemonwood Kalesi
+p_castle_42|Yronwood Kalesi
+p_castle_43|Vaith Kalesi
+p_castle_44|Sandstone Kalesi
+p_castle_45|The Tor
+p_castle_46|Ghost Tepesi
+p_castle_47|Godsgrace Kalesi
+p_castle_48|Kingsgrave Kalesi
+p_castle_49|Blockmont Kalesi
+p_castle_50|Nightsong Kalesi
+p_castle_51|Ashemark Kalesi
+p_castle_52|Casterly Rock
+p_castle_53|Crakehall Kalesi
+p_castle_54|Sarsfield Kalesi
+p_castle_55|Hornvale Kalesi
 p_castle_56|Deep Den
-p_castle_57|Campo di Grano
-p_castle_58|Riposo delle Rocce
-p_castle_59|Isola della Chela
-p_castle_60|Tre Torri
+p_castle_57|Cornfield Kalesi
+p_castle_58|Rook's Rest
+p_castle_59|Claw Isle
+p_castle_60|Üç Kule
 p_castle_61|Uplands
-p_castle_63|Bandallon
-p_castle_64|Vecchia Quercia
-p_castle_65|Golden Grove
-p_castle_66|Sala dei Cedri
-p_castle_67|Valle dell' Erba
-p_castle_68|Lungotavolo
-p_castle_69|Casa del Sole
-p_castle_70|Ponteamaro
-p_castle_71|Horn Hill
-p_castle_72|Arbor
-p_castle_73|Dieci Torri
-p_castle_74|Rovine di Iksa Naron
-p_castle_75|Nadinas
-p_castle_76|Rigwa
-p_castle_77|Sharat
+p_castle_63|Bandallon Kalesi
+p_castle_64|Yaşlı Çınar
+p_castle_65|Goldengorve Kalesi
+p_castle_66|Cider Hall
+p_castle_67|Grassy Vale
+p_castle_68|Longtable Kalesi
+p_castle_69|Sunhouse Kalesi
+p_castle_70|Bitterbridge Kalesi
+p_castle_71|Horn Tepesi
+p_castle_72|The Arbor
+p_castle_73|On Kule
+p_castle_74|Iksa Naron Harabeleri
+p_castle_75|Nadinas Kalesi
+p_castle_76|Rigwa Kalesi
+p_castle_77|Sharat Kalesi
 p_castle_78|Nya Dare
-p_castle_79|Nudho
-p_castle_80|Skyreach
-p_castle_82|Rovine di Iksa Calo
-p_castle_83|Posatoio del Grifone
-p_castle_84|Casa della Pioggia
-p_castle_85|Casa delle Pietre Verdi
+p_castle_79|Nudho Kalesi
+p_castle_80|Skyreach Kalesi
+p_castle_82|Iksa Calo Harabeleri
+p_castle_83|Griffin's Roost
+p_castle_84|Rain House
+p_castle_85|Greenstone
 p_castle_86|Stone Hedge
-p_castle_87|Sala d' Argento
-p_castle_88|Hornwood
-p_castle_89|Raventree Hall
-p_castle_90|Belcastello
-p_castle_91|Pebbleton
-p_castle_92|Fuochi di Festa
-p_castle_93|Alto Eremo
-p_castle_94|Wyndhall
-p_castle_95|Hammerhorn
-p_castle_96|Grey Garden
-p_castle_97|Starpike
-p_castle_98|Darkdell
-p_castle_99|Wyl
-p_castle_100|Riposo del Viandante
-p_castle_101|Rovine di Castamere
-p_castle_104|Iron Holt
-p_castle_105|Fortezza di Acquachiara
-p_castle_106|Casa del Cuore
-p_castle_107|Rovine di Sar Mell
-p_castle_108|Longsister
-p_castle_109|Littlesister
-p_castle_110|Darry
-p_castle_111|Scudo di Quercia
-p_castle_112|Limaosy
+p_castle_87|Silverhall Kalesi
+p_castle_88|Hornwood Kalesi
+; p_castle_89|Raventree Hall
+; p_castle_90|Faircastle
+; p_castle_91|Pebbleton
+; p_castle_92|Feastfires
+; p_castle_93|High Hermitage
+; p_castle_94|Wyndhall
+; p_castle_95|Hammerhorn
+; p_castle_96|Grey Garden
+; p_castle_97|Starpike
+; p_castle_98|Darkdell
+; p_castle_99|Wyl
+; p_castle_100|Wayfarer's Rest
+; p_castle_101|Ruins of Castamere
+; p_castle_104|Iron Holt
+; p_castle_105|Brightwater Keep
+; p_castle_106|Heart's Home
+; p_castle_107|Ruins of Sar Mell
+; p_castle_108|Longsister
+; p_castle_109|Littlesister
+; p_castle_110|Darry
+; p_castle_111|Oakenshield
+; p_castle_112|Limaosy
 ; p_castle_113|Ninestars
-p_castle_115|Castello di Redwater
-p_castle_119|Blacktyde
-p_castle_120|Sala di Nagga
+; p_castle_115|Redwater Castle
+; p_castle_119|Blacktyde
+; p_castle_120|Nagga's Hall
 ; p_castle_122|Seaward Hall
-p_castle_123|Broad Arch
-p_castle_125|Fortezza dei Clegane
+; p_castle_123|Broad Arch
+; p_castle_125|Clegane's Keep
 ; p_castle_126|Greenmore
-p_castle_127|Riverrun
-p_castle_128|Saria
-p_castle_129|Grande Inverno
-p_castle_130|Capo Tempesta
-p_castle_131|Piazza di Torrhen
-p_castle_132|Stonehelm
-p_castle_133|Alto Giardino
-p_castle_134|Hellholt
-p_castle_135|Stelle al Tramonto
-p_castle_136|Zanna Dorata
+; p_castle_127|Riverrun
+; p_castle_128|Saria
+; p_castle_129|Winterfell
+; p_castle_130|Storm's End
+; p_castle_131|Torrhen's Square
+; p_castle_132|Stonehelm
+; p_castle_133|Highgarden
+; p_castle_134|Hellholt
+; p_castle_135|Starfall
+; p_castle_136|Golden Tooth
 ; p_castle_137|High Tide
-p_castle_138|Isola dell' Orso
-p_castle_139|Stokeworth
-p_village_1|Rills
+; p_castle_138|Bear Island
+; p_castle_139|Stokeworth
+; p_village_1|The Rills
 ; p_village_2|King's End
-p_village_3|Collo del Drago
+; p_village_3|Dragon's Neck
 ; p_village_4|Laketown
 ; p_village_5|Whiteoak
 ; p_village_6|Greyedge
@@ -174,34 +174,34 @@ p_village_3|Collo del Drago
 ; p_village_8|Eastwood
 ; p_village_9|Winter Market
 ; p_village_10|The Locke
-p_village_11|Villaggio Innevato
-p_village_12|Coltello Bianco
+; p_village_11|The White Village
+; p_village_12|White Knife Hall
 ; p_village_13|Pike Market
-p_village_14|Acorn Water
+; p_village_14|The Acorn Water
 ; p_village_15|Summer's End
-p_village_16|Posatoio del Corvo
-p_village_17|Albero Sentinella
-p_village_18|Baia Infuocata
-p_village_19|Lancia di Sale
+; p_village_16|Crow's Rest
+; p_village_17|Sentinel's Tree
+; p_village_18|Blazewater Bay
+; p_village_19|Saltspear Hall
 ; p_village_20|Stone Village
-p_village_21|Capo della Piovra
+; p_village_21|Cape Kraken
 ; p_village_22|Queen's Stop
-p_village_23|Settecorrenti
+; p_village_23|Sevenstreams
 ; p_village_24|The Red Rock
-p_village_25|Calwick
+; p_village_25|Calwick
 ; p_village_26|The High Fall
 ; p_village_27|Ashtree
-p_village_28|Alto Cuore
+; p_village_28|High Heart
 ; p_village_29|Bessbrook
 ; p_village_30|Whitecliff
-p_village_31|Ulao
+; p_village_31|Ulao
 ; p_village_32|Hembistan
 ; p_village_33|Mason's Hall
 ; p_village_34|The Crab's Nest
 ; p_village_35|The Smooth Shore
 ; p_village_36|The Falcon's Roost
 ; p_village_37|Firemark
-p_village_38|Pebble
+; p_village_38|Pebble Bay
 ; p_village_39|Sparrow's Refuge
 ; p_village_40|Monton
 ; p_village_41|Valetown
@@ -371,21 +371,21 @@ p_village_38|Pebble
 ; p_village_205|Goldwell
 ; p_village_206|Tinhurst
 ; p_village_207|Corcrest
-p_salt_mine|Miniera di Sale
+; p_salt_mine|Salt Mine
 ; p_four_ways_inn|Four Ways Inn
 ; p_test_scene|test scene
-p_battlefields|campi di battaglia
+; p_battlefields|battlefields
 ; p_dhorak_keep|Dhorak Keep
-p_training_ground|Campo d'addestramento
-p_training_ground_1|Campo del Torneo
-p_training_ground_2|Campo del Torneo
-p_training_ground_3|Campo del Torneo
-p_training_ground_4|Campo del Torneo
-p_training_ground_5|Campo del Torneo
+; p_training_ground|Training Ground
+; p_training_ground_1|Tourney Field
+; p_training_ground_2|Tourney Field
+; p_training_ground_3|Tourney Field
+; p_training_ground_4|Tourney Field
+; p_training_ground_5|Tourney Field
 ; p_lighthouse_1|Harbor
 ; p_rodgars_hut|Rodgars Hut
 ; p_relic_septry|Septry
-p_isle_of_faces|L' Isola dei Volti
+; p_isle_of_faces|The Isle of Faces
 ; p_saltpans_isles|The Quiet Isle
 ; p_summerhall|Ruins of Summerhall
 ; p_nunns_deep|Nunn's Deep
@@ -394,19 +394,19 @@ p_isle_of_faces|L' Isola dei Volti
 ; p_abandoned_holdfast|Abandoned Holdfast
 ; p_hillhall|Hillhall
 ; p_dragonmont|Sunken Ruins
-p_tower_of_joy|Torre della Gioia
-p_naggas_hill|Collina di Nagga
-p_harrentown|Resti di Harrentown
+; p_tower_of_joy|The Tower of Joy
+; p_naggas_hill|Nagga's Hill
+; p_harrentown|The Remains of Harrentown
 ; p_bloodstone|Bloodstone
 ; p_illyrios_manse|Illyrios Manse
 ; p_donation_septry|Septry
-p_castle_black|Castello Nero
-p_castle_black2|Castello Nero
-p_castle_black3|Castello Nero
-p_castle_black4|Castello Nero
-p_castle_black5|Castello Nero
-p_shadow_tower|Torre delle Ombre
-p_shadow_tower2|Torre delle Ombre
+; p_castle_black|Castle Black
+; p_castle_black2|Castle Black
+; p_castle_black3|Castle Black
+; p_castle_black4|Castle Black
+; p_castle_black5|Castle Black
+; p_shadow_tower|The Shadow Tower
+; p_shadow_tower2|The Shadow Tower
 ; p_eastwatch|Eastwatch-by-the-Sea
 ; p_odin_cave|Old Cave
 ; p_brookwater_keep|Brookwater Keep
@@ -437,5 +437,5 @@ p_shadow_tower2|Torre delle Ombre
 ; p_elite_raiders_spawn_point|elite raiders spawnpoint
 ; p_elite_wildlings_spawn_point|elite wildlings spawnpoint
 ; p_elite_dothraki_spawn_point|elite dothraki spawnpoint
-p_crannogmen|crannogmen
+; p_crannogmen|crannogmen
 ; p_desert_bandit_spawn_point|sandoutlaw spawnpoint
