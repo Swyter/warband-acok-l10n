@@ -46,13 +46,12 @@ pt_elite_dothraki|Dothraki Raiders
 pt_beowulf_warband|The Brave Companions
 pt_wildfire_wights|Wights
 pt_new_template|The Bastard of Bolton
-pt_tattered_prince|The Company of the Cat
 pt_arrians|The Outlaw of the Crossing
 pt_bloodstone_pirates|The Prince of Bloodstone
 pt_clansman_quest|The Sons of the Mist
 pt_cheese_rustlers|Grain Thieves
 pt_cheese_paladins|Wine Thieves
-pt_scholars|Scholars
+pt_scholars|Noblemen
 pt_bandits_awaiting_ransom2|Bandits Awaiting Ransom
 pt_smugglers|Smugglers
 pt_kidnapped_wife|Miller's Wife
@@ -117,12 +116,12 @@ pt_mountain_bandit_lair_r|Mountain Bandit Hideout
 pt_sea_raider_lair_r|Sea Raider Landing
 pt_looter_lair_r|Kidnappers' Hideout
 pt_leaded_looters_r|Band of robbers
-pt_steppe_bandit_lair_e|Steppe Bandit Lair
-pt_taiga_bandit_lair_e|Tundra Bandit Lair
-pt_desert_bandit_lair_e|Desert Bandit Lair
+pt_steppe_bandit_lair_e|Dothraki Lair
+pt_taiga_bandit_lair_e|Wildling Lair
+pt_desert_bandit_lair_e|Outlaw Lair
 pt_forest_bandit_lair_e|Forest Bandit Camp
 pt_mountain_bandit_lair_e|Mountain Bandit Hideout
-pt_sea_raider_lair_e|Sea Raider Landing
+pt_sea_raider_lair_e|Pirate Landing
 pt_looter_lair_e|Kidnappers' Hideout
 pt_leaded_looters_e|Band of robbers
 pt_dplmc_spouse|Your spouse

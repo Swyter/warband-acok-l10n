@@ -49,7 +49,7 @@ skl_horse_archery_desc|Reduces damage and accuracy penalties for archery and thr
 skl_riding|Riding
 skl_riding_desc|Enables you to ride horses of higher difficulty levels and increases your riding speed and manuever. (Personal skill)
 skl_athletics|Athletics
-skl_athletics_desc|Improves your running speed. (Personal skill)
+skl_athletics_desc|Improves your running speed and decreases the chance you'll stumble. (Personal skill)
 skl_shield|Shield
 skl_shield_desc|Reduces damage to shields (by 8%% per skill level) and improves shield speed and coverage. (Personal skill)
 skl_weapon_master|Weapon Master
