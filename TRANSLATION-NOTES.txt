@@ -1,0 +1,10 @@
+The translation is available here:
+https://www.transifex.com/projects/p/acok/
+
+For know bad thing of warband translation system some strings have "dynamic keys", when one or more of strings change some/all keys of the same "group" are "shuffled".
+For example in dialogs they are with keys dlga_start:close_window.N, dlga_wildfire_talkX:*Y and probably others.
+Check on transifex suggest corrispondence at 100% for older translation.
+I not enabled autocompletation from transifex memory for errors I saw in many strings.
+
+There are also strings not translated correctly for double (or more) use of same key with different strings, bugs in ACOK code that must solved in it (for example one in menu already reported 3 versions ago but still not solved); and other strings with bugs (mainly minor) that can be solved also with translation.
+
