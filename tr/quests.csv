@@ -1,0 +1,171 @@
+qst_deliver_message|{s13}' e mektup ulaştır.
+qst_deliver_message_to_enemy_lord|{s13}' e mektup ulaştır.
+; qst_raise_troops|Raise {reg1} {s14}
+; qst_escort_lady|Escort {s13} to {s14}
+; qst_deal_with_bandits_at_lords_village|Save the Village of {s15} from Marauding Bandits
+; qst_collect_taxes|Collect Taxes from {s3}
+; qst_hunt_down_fugitive|Hunt Down {s4}
+; qst_kill_local_merchant|Assassinate Local Merchant at {s3}
+; qst_bring_back_runaway_serfs|Bring Back Runaway Serfs
+; qst_follow_spy|Follow the Spy to Meeting
+; qst_capture_enemy_hero|Capture a Lord from {s13}
+; qst_lend_companion|Lend Your Companion {s3} to {s9}
+; qst_collect_debt|Collect the Debt {s3} Owes to {s9}
+; qst_incriminate_loyal_commander|Incriminate the Loyal Commander of {s13}, {s16}
+; qst_meet_spy_in_enemy_town|Meet Spy in {s13}
+; qst_capture_prisoners|Bring {reg1} {s3} Prisoners
+; qst_deliver_love_letter|Deliver Message to {s13}
+; qst_lend_surgeon|Lend Your Surgeon {s3} to {s1}
+; qst_follow_army|Follow {s9}'s Army
+; qst_report_to_army|Report to {s13}, the Marshall
+; qst_deliver_cattle_to_army|Deliver {reg3} Heads of Cattle to {s13}
+; qst_join_siege_with_army|Join the Siege of {s14}
+; qst_screen_army|Screen the Advance of {s13}'s Army
+; qst_scout_waypoints|Scout {s13}, {s14} and {s15}
+; qst_rescue_lord_by_replace|Rescue {s13} from {s14}
+; qst_deliver_message_to_prisoner_lord|Deliver Message to {s13} at {s14}
+; qst_duel_for_lady|Challenge {s13} to a Trial of Arms
+; qst_duel_courtship_rival|Challenge {s13} to a Trial of Arms (optional)
+; qst_duel_avenge_insult|Challenge {s13} to a Trial of Arms
+; qst_move_cattle_herd|Move Cattle Herd to {s13}
+; qst_escort_merchant_caravan|Escort Merchant Caravan to {s8}
+; qst_deliver_wine|Deliver {reg5} Units of {s6} to {s4}
+; qst_troublesome_bandits|Hunt Down Troublesome Bandits
+; qst_kidnapped_girl|Ransom Girl from Bandits
+; qst_persuade_lords_to_make_peace|Make Sure Two Lords Do Not Object to Peace
+; qst_deal_with_looters|Deal with Looters
+; qst_deal_with_night_bandits|Deal with Night Bandits
+; qst_cheese_rustlers|Hunt Down Grain Thieves
+; qst_cheese_rustlers_text|{s9} of {s4} asked you to hunt down the grain thieves in the vicinity of the town.
+; qst_cheese_paladins|Hunt Down Wine Thieves
+; qst_cheese_paladins_text|{s9} of {s4} asked you to hunt down the wine thieves in the vicinity of the town.
+; qst_bar_brawl|Clean Up the Town
+; qst_bar_brawl_text|{s9} of {s4} asked you to deal with the louts in the vicinity of the tavern.
+qst_deliver_grain|{s3}'e buğday getir.
+qst_deliver_cattle|{s3}' e {reg5} adet sığır getir.
+qst_train_peasants_against_bandits|{s13}'teki Köylüleri Haydutlara Karşı Eğit
+qst_escort_scholars|Septonlara {s8}'e kadar refakat et
+qst_escort_scholars_text|Septonları {s8} şehrine kadar eşlik et.
+qst_hunt_down_smugglers|Kaçakçıları Avla
+qst_hunt_down_smugglers_text|{s9] senden kaçakçıların işine bakmanı istedi. Hepsinin {s3} 'e doğru kaçtığını söyledi.
+qst_hunt_down_girl|{s4}'ü Avla
+qst_hunt_down_girl_text|{s9} senden {s4} adında bir kızı avalamanı istedi. Şuanda {s3}'de olduğu düşünülüyor.
+qst_deliver_lumber|{s3}'e odun getir.
+qst_deliver_lumber_text|{s3} küyünün yaşlısı senden {reg5} balya odun getirmeni istedi.
+qst_kidnapped_wife|Kadını Haydutlardan Kurtar
+qst_kidnapped_wife_text|{s4] 'ün yaşlısı senden bir çiftçini karısının fidyesini ödemeni istedi. {s3} yakınlarındaki haydutlarla buluş ve fidyeyi öde ve kadını geri {s4} 'e getir.
+qst_eliminate_bandits_infesting_village|{s7} haydutlar tarafından istila edildi. Onları etkisiz hale getir.
+qst_visit_lady|Leydiyi ziyaret et
+qst_formal_marriage_proposal|Resmi Evlenme Teklifi
+qst_obtain_liege_blessing|Resmi Evlenme Teklifi
+qst_wed_betrothed|Nişanlınla Evlen
+qst_wed_betrothed_female|Nişanlınla Evlen
+qst_join_faction|{s1}'e bağlılık yemini et
+qst_rebel_against_kingdom|{s13}'in {s14} tacını elde etmesine yardım et.
+qst_consult_with_minister|Lonca başkanına danış
+qst_organize_feast|Ziyafet ver
+qst_resolve_dispute|Münakaşayı sonlandır
+qst_offer_gift|Hediye ver
+qst_denounce_lord|Lorda bağlılık yeminini boz
+qst_intrigue_against_lord|Lordun arkasından işler çevir
+qst_track_down_bandits|Haydutları takip et
+qst_track_down_provocateurs|Provokatörleri takip et
+qst_retaliate_for_border_incident|Bir sınır olayına karşılık ver
+qst_raid_caravan_to_start_war|Bağımsız bir kervana saldırıp savaş sebebi yarat
+qst_cause_provocation|Bir krallığı diğerine saldırması için kışkırt
+qst_rescue_prisoner|Bir mahkumu fidyeyle ya da fidyesiz kurtar
+qst_destroy_bandit_lair|Haydut Sığınağını Yok Et
+qst_beowulf_quest|Boru ve Kolye: Bölüm 1
+qst_beowulf_quest1|Boru ve Kolye: Bölüm 2
+qst_beowulf_quest2|Boru ve Kolye: Bölüm 3
+qst_beowulf_quest3|Boru ve Kolye: Bölüm 4
+qst_beowulf_quest4|Boru ve Kolye: Bölüm 5
+qst_beowulf_quest5|Boru ve Kolye: Bölüm 6
+qst_beowulf_quest6|Boru ve Kolye: Bölüm 7
+qst_relic_quest|Kutsal Yüzük: Bölüm 1
+qst_relic_quest1|Kutsal Yüzük: Bölüm 2
+qst_tatters_quest|Paçavralar ve Bloodbeard: Bölüm 1
+qst_tatters_quest1|Paçavralar ve Bloodbeard: Bölüm 2
+qst_tatters_quest2|Paçavralar ve Bloodbeard: Bölüm 3
+qst_ramsay_quest|Bolton'un Piçi: Bölüm 1
+qst_ramsay_quest1|Bolton'un Piçi: Bölüm 2
+qst_ramsay_quest2|Bolton'un Piçi: Bölüm 3
+qst_tyrion_quest|Kükrediğimi Duy: Bölüm 1
+qst_tyrion_quest1|Kükrediğimi Duy: Bölüm 2
+qst_quaithe_quest|Nightfort: Bölüm 1
+qst_quaithe_quest1|Kükrediğimi Duy: Bölüm 2
+qst_quaithe_quest2|Kükrediğimi Duy: Bölüm 3
+qst_quaithe_quest3|Kükrediğimi Duy: Bölüm 4
+qst_quaithe_quest4|Kükrediğimi Duy: Bölüm 5
+qst_return_to_illyrio|Peynir Lord: Bölüm 1
+qst_return_to_illyrio2|Peynir Lord: Bölüm 2
+qst_gueren_quest|Gece'nin Gözcüleri: Bölüm 1
+qst_gueren_quest1|Gece'nin Gözcüleri: Bölüm 2
+qst_odin_cave_quest|Kayıp Kervan: Bölüm 1
+qst_odin_cave_quest1|Kayıp Kervan: Bölüm 2
+qst_barrow_quest|Andalların Mezartaşları: Bölüm 1
+qst_barrow_quest1|Andalların Mezartaşları: Bölüm 2
+qst_terror_quest|Höyükte Terör: Bölüm 1
+qst_terror_quest1|Höyükte Terör: Bölüm 2
+qst_nw_main_quest_first_quest|Karın Üstündeki Kan: Bölüm 1
+qst_nw_main_quest_first_quest1|Karın Üstündeki Kan: Bölüm 2
+qst_nw_main_quest_second_quest|Sert Konuşma: Bölüm 1
+qst_nw_main_quest_second_quest1|Sert Konuşma: Bölüm 2
+qst_nw_main_quest_third_quest|Kurukafa Köprüsü: Bölüm 1
+qst_nw_main_quest_third_quest1|Kurukafa Köprüsü: Bölüm 2
+qst_nw_main_quest_third_quest2|Kurukafa Köprüsü: Bölüm 3
+qst_nw_main_quest_fourth_quest|Yaklaşan Fırtına: Bölüm 1
+qst_nw_main_quest_fifth_quest|Castle Black Savaşı: Bölüm 1
+qst_nw_main_quest_fifth_quest2|Castle Black Savaşı: Bölüm 2
+qst_nw_main_quest_fifth_quest1|Castle Black Savaşı: Bölüm 3
+qst_aegon_targaryen_quest|Yarı Üstad: Bölüm 1
+qst_aegon_targaryen_quest1|Yarı Üstad: Bölüm 2
+qst_dragonseed_quest|Ejderhaların Tohumu: Bölüm 1
+qst_dragonseed_quest1|Ejderhaların Tohumu: Bölüm 2
+qst_espada_falcata|Valar Dohaeris
+qst_wildfire_quest|Gecenin Gölgeleri: Bölüm 1
+qst_wildfire_quest1|Gecenin Gölgeleri: Bölüm 2
+qst_wildfire_quest2|Gecenin Gölgeleri: Bölüm 3
+qst_wildfire_quest3|Gecenin Gölgeleri: Bölüm 4
+qst_wildfire_quest4|Gecenin Gölgeleri: Bölüm 5
+qst_wildfire_quest5|Gecenin Gölgeleri: Bölüm 6
+qst_wildfire_quest6|Gecenin Gölgeleri: Bölüm 7
+qst_stepstone_quest|Prens ve Kraliçe: Bölüm 1
+qst_stepstone_quest1|Prens ve Kraliçe: Bölüm 2
+qst_stepstone_quest2|Prens ve Kraliçe: Bölüm 3
+qst_stepstone_quest3|Prens ve Kraliçe: Bölüm 4
+qst_stepstone_quest4|Prens ve Kraliçe: Bölüm 5
+qst_stepstone_quest5|Prens ve Kraliçe: Bölüm 6
+qst_stepstone_quest6|Prens ve Kraliçe: Bölüm 7
+qst_clansman_quest|Taş ve Sopalar: Bölüm 1
+qst_clansman_quest1|Taş ve Sopalar: Bölüm 2
+qst_clansman_quest2|Taş ve Sopalar: Bölüm 3
+qst_clansman_quest3|Taş ve Sopalar: Bölüm 4
+qst_clansman_quest4|Taş ve Sopalar: Bölüm 5
+qst_clansman_quest5|Taş ve Sopalar: Bölüm 6
+qst_clansman_quest6|Taş ve Sopalar: Bölüm 7
+qst_varys_quest|Ateş ve Kan: Bölüm 1
+qst_varys_quest1|Ateş ve Kan: Bölüm 2
+qst_varys_quest2|Ateş ve Kan: Bölüm 3
+qst_varys_quest3|Ateş ve Kan: Bölüm 4
+qst_varys_quest4|Ateş ve Kan: Bölüm 5
+qst_varys_quest5|Ateş ve Kan: Bölüm 6
+qst_varys_quest6|Ateş ve Kan: Bölüm 7
+qst_varys_quest7|Ateş ve Kan: Bölüm 8
+; qst_collect_men|Collect Five Men
+; qst_learn_where_merchant_brother_is|Learn Where the Hostages are Held.
+; qst_save_relative_of_merchant|Attack the Bandit Lair
+; qst_save_town_from_bandits|Save Town from Bandits
+; qst_deal_with_forest_bandit|Deal with the leader of forest bandits
+; qst_deal_with_taiga_bandit|Deal with the leader of taiga bandits
+; qst_deal_with_steppe_bandit|Deal with the leader of steppe bandits
+; qst_deal_with_sea_raider|Deal with the leader of sea raiders
+; qst_deal_with_mountain_bandit|Deal with the leader of mountain bandits
+; qst_deal_with_desert_bandit|Deal with the leader of desert bandits
+; qst_freelancer_enlisted|Enlisted in the Party of {s13}
+; qst_freelancer_vacation|Enlisted: On Leave
+; qst_freelancer_captured|Enlisted: Captured
+; qst_freelancer_revolt|Enlisted: Revolting
+; qst_freelancer_end|Freelancer Quests End
+; qst_floris_active_tournament|Attend Tournament in {s13}
+; qst_quests_end|Quests End
