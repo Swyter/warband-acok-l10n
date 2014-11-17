@@ -46,13 +46,12 @@ pt_elite_dothraki|Salteadores dothraki
 pt_beowulf_warband|La Compañía Audaz
 pt_wildfire_wights|Espectros
 pt_new_template|El Bastardo de Bolton
-pt_tattered_prince|La Compañía del Gato
 pt_arrians|Los Forajidos de 'El Cruce'
 pt_bloodstone_pirates|El Príncipe de Piedra Sangrienta
 pt_clansman_quest|Los Hijos de la Niebla
 pt_cheese_rustlers|Ladrones de grano
 pt_cheese_paladins|Ladrones de vino
-pt_scholars|Eruditos
+pt_scholars|Nobles
 pt_bandits_awaiting_ransom2|Bandidos secuestradores
 pt_smugglers|Contrabandistas
 pt_kidnapped_wife|Esposa de Miller
@@ -117,12 +116,12 @@ pt_mountain_bandit_lair_r|Guarida de los bandidos de la montaña
 pt_sea_raider_lair_r|Desembarco de los piratas
 pt_looter_lair_r|Guarida de los secuestradores
 pt_leaded_looters_r|Banda de ladrones
-pt_steppe_bandit_lair_e|Guarida de los bandidos de la estepa
-pt_taiga_bandit_lair_e|Guarida de los bandidos de la tundra
-pt_desert_bandit_lair_e|Guarida de los bandidos del desierto
+pt_steppe_bandit_lair_e|Guarida dothraki
+pt_taiga_bandit_lair_e|Guarida de los salvajes
+pt_desert_bandit_lair_e|Guarida de forajidos
 pt_forest_bandit_lair_e|Guarida de los bandidos del desierto
 pt_mountain_bandit_lair_e|Guarida de los bandidos de la montaña
-pt_sea_raider_lair_e|Desembarco de los piratas
+pt_sea_raider_lair_e|Desembarco pirata
 pt_looter_lair_e|Guarida de los secuestradores
 pt_leaded_looters_e|Banda de ladrones
 pt_dplmc_spouse|Vuestra esposa

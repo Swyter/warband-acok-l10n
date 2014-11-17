@@ -49,7 +49,7 @@ skl_horse_archery_desc|Reduce la penalización de daño y puntería al utilizar 
 skl_riding|Cabalgar
 skl_riding_desc|Permite montar caballos de mayor nivel de dificultad e incrementa vuestra velocidad y maniobrabilidad. (Habilidad personal)
 skl_athletics|Atletismo
-skl_athletics_desc|Incrementa vuestra velocidad al correr. (Habilidad personal)
+skl_athletics_desc|Incrementa vuestra velocidad al correr y disminuye las probabilidades de tropezar. (Habilidad personal)
 skl_shield|Escudo
 skl_shield_desc|Reduce el daño a los escudos (en un 8%% por nivel de habilidad) y mejora la velocidad al escudarse y cubrirse. (Habilidad personal)
 skl_weapon_master|Maestría en Armas

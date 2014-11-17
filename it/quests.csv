@@ -44,8 +44,8 @@ qst_bar_brawl_text|{s9} di {s4} ti ha chiesto di affrontare le zoticoni nelle vi
 qst_deliver_grain|Porta il grano a {s3}
 qst_deliver_cattle|Consegna {reg5} capi di bestiame a {s3}
 qst_train_peasants_against_bandits|Addestra i paesani di {s13} per affrontare i banditi.
-qst_escort_scholars|Scorta i Septons a {s8}
-qst_escort_scholars_text|Scorta i septons alla città di {s8}.
+qst_escort_scholars|Scorta i Nobili a {s8}
+qst_escort_scholars_text|Scorta i nobili alla città di {s8}.
 qst_hunt_down_smugglers|Caccia ai contrabbandieri
 qst_hunt_down_smugglers_text|{s9} ha chiesto di affrontare con i contrabbandieri. Ha detto che tutti e tre i gruppi stanno scappando in direzione di {s3}.
 qst_hunt_down_girl|Dai la caccia a {s4}
@@ -84,14 +84,19 @@ qst_beowulf_quest5|Il Corno e la collana: Parte 6
 qst_beowulf_quest6|Il Corno e la collana: Parte 7
 qst_relic_quest|L' Anello Benedetto: Parte 1
 qst_relic_quest1|L' Anello Benedetto: Parte 2
-qst_tatters_quest|Vecchi trattati e Bloodbeard: Parte 1
-qst_tatters_quest1|Vecchi trattati e Bloodbeard: Parte 2
-qst_tatters_quest2|Vecchi trattati e Bloodbeard: Parte 3
 qst_ramsay_quest|Il Bastardo di Bolton: Parte 1
 qst_ramsay_quest1|Il Bastardo di Bolton: Parte 2
 qst_ramsay_quest2|Il Bastardo di Bolton: Parte 3
 qst_tyrion_quest|Uditemi ruggire: Parte 1
 qst_tyrion_quest1|Uditemi ruggire: Parte 2
+qst_starting_quest_1_1|Un Nuovo Inizio: Parte 1
+qst_starting_quest_1_2|Un Nuovo Inizio: Parte 2
+; qst_starting_quest_1_3|The Tourney at Ninestars: Part 1
+; qst_starting_quest_1_4|The Tourney at Ninestars: Part 2
+; qst_starting_quest_1_5|The Tourney at Ninestars: Part 3
+; qst_starting_quest_1_6|Trial by Combat: Part 1
+; qst_starting_quest_1_7|Trial by Combat: Part 1
+qst_terror_quest_starter|Terrore nel Cairn: Parte 1
 qst_quaithe_quest|Le rovine di Nightfort: Parte 1
 qst_quaithe_quest1|Le rovine di  Nightfort: Parte 2
 qst_quaithe_quest2|Le rovine di  Nightfort: Parte 3
@@ -105,8 +110,8 @@ qst_odin_cave_quest|La carovana perduta: Parte 1
 qst_odin_cave_quest1|La carovana perduta: Parte 2
 qst_barrow_quest|Le tombe degli Andal: Parte 1
 qst_barrow_quest1|Le tombe degli Andal: Parte 2
-qst_terror_quest|Terrore nel Cairn: Parte 1
-qst_terror_quest1|Terrore nel Cairn: Parte 2
+qst_terror_quest|Terrore nel Cairn: Parte 2
+qst_terror_quest1|Terrore nel Cairn: Parte 3
 qst_nw_main_quest_first_quest|Sangue sulla neve: Parte 1
 qst_nw_main_quest_first_quest1|Sangue sulla neve: Parte 2
 qst_nw_main_quest_second_quest|Linguaggio Grezzo: Parte 1
@@ -144,14 +149,14 @@ qst_clansman_quest3|Bastoni e Pietre: Parte 4
 qst_clansman_quest4|Bastoni e Pietre: Parte 5
 qst_clansman_quest5|Bastoni e Pietre: Parte 6
 qst_clansman_quest6|Bastoni e Pietre: Parte 7
-qst_varys_quest|Fuoco e Sangue: Parte 1
-qst_varys_quest1|Fuoco e Sangue: Parte 2
-qst_varys_quest2|Fuoco e Sangue: Parte 3
-qst_varys_quest3|Fuoco e Sangue: Parte 4
-qst_varys_quest4|Fuoco e Sangue: Parte 5
-qst_varys_quest5|Fuoco e Sangue: Parte 6
-qst_varys_quest6|Fuoco e Sangue: Parte 7
-qst_varys_quest7|Fuoco e Sangue: Parte 8
+; qst_varys_quest|A Friend Across the Water: Part 1
+; qst_varys_quest1|A Friend Across the Water: Part 2
+; qst_varys_quest2|A Friend Across the Water: Part 3
+; qst_varys_quest3|A Friend Across the Water: Part 4
+; qst_varys_quest4|A Friend Across the Water: Part 5
+; qst_varys_quest5|A Friend Across the Water: Part 6
+qst_varys_quest6|Fuoco e Sangue: Parte 1
+qst_varys_quest7|Fuoco e Sangue: Parte 2
 qst_collect_men|Recluta cinque uomini
 qst_learn_where_merchant_brother_is|Scopri dove sono tenuti gli ostaggi
 qst_save_relative_of_merchant|Attacca il covo dei Banditi

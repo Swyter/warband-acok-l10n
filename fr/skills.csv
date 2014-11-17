@@ -49,7 +49,7 @@ skl_horse_archery_desc|Reduit les penalites de dommages et de precisions pour l'
 skl_riding|Equitation
 skl_riding_desc|Permet de monter des chevaux plus difficiles et augmente la vitesse et la maniabilite de ceux-ci. (Compétences personnelles)
 skl_athletics|Forme physique
-skl_athletics_desc|Augmente votre vitesse de course. (Compétences personnelles)
+; skl_athletics_desc|Improves your running speed and decreases the chance you'll stumble. (Personal skill)
 skl_shield|Bouclier
 skl_shield_desc|Reduit les dommages aux boucliers de 8%% par niveau et augmente la couverture et la vitesse de ceux-ci. (Compétences personnelles)
 skl_weapon_master|Maitre d'armes

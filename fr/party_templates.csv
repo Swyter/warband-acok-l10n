@@ -46,13 +46,12 @@ pt_elite_dothraki|Pilleurs Dothraki
 pt_beowulf_warband|Les braves compagnons
 pt_wildfire_wights|Revenants
 pt_new_template|Le Bâtard de Bolton
-pt_tattered_prince|La Compagnie du Chat
 pt_arrians|Les renégats du Crossing
 pt_bloodstone_pirates|Le prince de Bloodstone
 pt_clansman_quest|Les Fils de la brume
 pt_cheese_rustlers|Voleurs de grains
 pt_cheese_paladins|Voleurs de vin
-pt_scholars|Erudits
+; pt_scholars|Noblemen
 pt_bandits_awaiting_ransom2|Bandits attendant la rançon
 pt_smugglers|Passeurs
 pt_kidnapped_wife|Epouse de Miller
@@ -117,12 +116,12 @@ pt_mountain_bandit_lair_r|Cache bandits des montagnes
 pt_sea_raider_lair_r|Débarcadère pirates
 pt_looter_lair_r|Cache des ravisseurs
 pt_leaded_looters_r|Bande de voleurs
-pt_steppe_bandit_lair_e|Repaire bandits des steppes
-pt_taiga_bandit_lair_e|Repaire bandits de la toundra
-pt_desert_bandit_lair_e|Repaire bandits du désert
+; pt_steppe_bandit_lair_e|Dothraki Lair
+; pt_taiga_bandit_lair_e|Wildling Lair
+; pt_desert_bandit_lair_e|Outlaw Lair
 pt_forest_bandit_lair_e|Repaire bandits des forêts
 pt_mountain_bandit_lair_e|Cache bandits des montagnes
-pt_sea_raider_lair_e|Débarcadère pirates
+; pt_sea_raider_lair_e|Pirate Landing
 pt_looter_lair_e|Cache des ravisseurs
 pt_leaded_looters_e|Bande de voleurs
 pt_dplmc_spouse|Votre conjoint

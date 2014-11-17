@@ -18,11 +18,9 @@ mno_action_view_trade_ledger_denied|Valutare gli oggetti per iniziare la vostra 
 mno_return|Ritorna
 menu_kingdom_reports|Rapporti del regno
 mno_view_faction_relations_report|Guarda il rapporto sulla relazione con le fazioni
-mno_kmt_lord_holdings|Esamina Titoli del Lord
 mno_lord_relations|Guarda la lista dei lord conosciuti in ordine di relazione
 menu_personal_reports|Rapporti personali
 mno_view_character_report|Guarda il rapporto sul Personaggio
-mno_courtship_relations|Guarda il rapporto sulle relazioni amorose
 mno_view_affiliated_family_report|Guarda il rapporto Famiglia.
 mno_view_weekly_budget_report|Guarda il rapporto sul budget settimanale
 menu_cheat_reports|Rapporto Menu Trucchi
@@ -81,7 +79,6 @@ mno_camp_manage_inventory|Gestisci l'inventario dei tuoi compagni.
 mno_camp_action|Fai un'azione.
 mno_action_prebattle_custom_divisions|Gestischi la divisione delle truppe.
 mno_camp_wait_here|Aspetta qui per un po' di tempo.
-mno_camp_fishing|Prova a catturare qualche pesce.
 mno_camp_inspect|Ispeziona il tuo campo.
 mno_camp_entrench|{s1}
 mno_camp_mod_opition|Opzioni della Mod.
@@ -92,9 +89,9 @@ menu_camp_action|Fai un'azione:
 mno_action_read_book|Leggi un libro.
 mno_action_change_party_name|Cambia il nome della tua compagnia.
 mno_action_rename_kingdom|Rinomina il tuo Regno.
-mno_action_change_vassal_title|Cambia i titoli di nobiltà dei tuoi vassalli.
 ; mno_jump_to_scene|debug: test scene menu
 mno_action_modify_banner|Modifica il tuo stemma.
+; mno_action_modify_factions_color|Re-dye the factions.
 mno_action_export_import|Esportata o importa la storia del personaggio.
 mno_action_retire|Ritirati dalla vita avventurosa.
 mno_camp_action_4|Torna al menù del campo.
@@ -226,6 +223,36 @@ menu_bloodstone|Sei arrivato a Bloodstone.
 menu_harrentown|Sei arrivato alle rovine di Harrentown.
 menu_illyrios_manse|Sei arrivato alla canonica di Illyrio Mopatis.
 menu_water_gardens|Sei arrivato a Water Gardens.
+; menu_special_room_painted_table|The Chamber of the Painted Table, located on the top floor of the Stone Drum in Dragonstone, is a large room, with old pillars of valyrian masonry, made before the Doom. The chamber holds a large table, carved and painted in the form of a detailed map of Westeros. Here, Aegon the Conqueror planned his invasion of Westeros along with his sisters, Visenya and Rhaenys.
+; menu_special_room_iron_throne_room|The Great Hall is the throne room of the king of the Seven Kingdoms. The Iron Throne sits on a raised iron dais with high and narrow steps. A long carpet stretches from the throne to the Hall's great oak-and-bronze doors. The Hall itself is cavernous, and can sit a thousand people. It is oriented north to south, with high, narrow windows on the eastern and western walls. Skulls of the Targaryen dragons once adorned the walls, but Robert Baratheon had them taken down at the beginning of his reign.
+; menu_ninestars_1|You arrive at Ninestars, the seat of House Templeton. You spot craftsmen setting up the tourney field, farmers bringing in supplies for the lords and ladies, young knights and squires practicing in the fields, riding at rings and bludgeoning each other with blunt swords and maces. Outside the walls, merchants have set up pavilions and tents, selling everything from apple pies and large chunks of cheese, to finely crafted tourney helmets, swords and large jugs of ale.
+; menu_ninestars_2|Leaving the castle, you notice a great spectacle down by one of the pavilions. A man-at-arms, a young squire and a knight, with a surcoat showing seven black stripes and nine stars, are beating a young man, while a young woman looks on, a horrified look on her face. Moving nearer, she runs to your side, asking for your help. It seems the knight fondled her, and the young man, her betrothed, protested. That is when the knight hit him in the face with a steel gauntlet, and the man-at-arms started kicking him. Suddenly, the squire turns around and yank the woman away, taking hold of her hand, and breaking her wrist. You decide to...
+; mno_choice_10_1|Hit the squire and attack the knight and his man-at-arms!
+; mno_choice_10_2|Ignore the incident.
+; menu_ninestars_sights|As you head towards the tents and pavilions of the merchants, you notice the smell of roasted boar, onions in gravy, pecan nuts in honey, carrots boiled with beans and thyme and all other sorts of delicious treats. The armorers, mummers and jugglers are not out yet, but you decide to treat yourself to a little something before continuing on your way. You decide to...
+; mno_choice_10_3|Order a a jumble of carrots, beans and thyme.
+; mno_choice_10_4|Order a thick, spicy, sausage.
+; menu_ninestars_trial_woods_failed|Ser Emrick and Ser Arreck smelled strongly of wine and ale, and must have been more than a little drunk. When you fell to the ground, they seem to have taken you for dead, as you've just woken up in the bushes beside the road. With a head that's like to split, you make your way down the road, only to find yourself close to Ninestars! You must have gone the wrong way!
+; menu_ninestars_trial_woods_success|You hide the bodies of Ser Emrick and Ser Arreck in the woods, hoping that they weren't followed by anyone from the castle, but not before looting their bodies. Then you turn back towards Ninestars, to mask your tracks in case men are sent after you.
+; menu_ninestars_3|As you start brawling with the men, guardsmen from the castle come running over, to break up the fight. Before they arrive, you manage to take a swing at the knight, and hit him right on the nose. Blood spurts forth, but in the meantime, the man-at-arms has managed to get his club ready, and hits you in the head, causing you to fall unconscious.
+; menu_ninestars_4|As you wake up, you notice a dim light, and a moldy smell. Opening your eyes, you realise you're in some sort of dungeon. It feels like your head is being invaded by an army of aurochs, and your body is blue and yellow, covered in bruises. As you get to your feet, you hear voices outside the locked door and, trying to stand upright, you wait for the man outside to enter...
+; menu_ninestars_5|As soon as Ser Alyn leaves the cell, you fall into a dreamless sleep. You're woken by the call of a rooster, and soon enough, the guards come to fetch you for the trial.
+; menu_ninestars_6|As the guards escort you to the great hall of Ninestars, you notice a mass of noble lords and ladies. The knights attending the tourney, their wives and companions, their squires and attendants, all have turned out to watch the trial. You can hear whispers, snickers and quiet conversation, but have no way of knowing whether they're directed at you, or at Ser Raymun who has already arrived, wearing a doublet of yellow and black, and sporting a red, swollen, nose. As you make your way towards the dais where the three judges are seated, you see Ser Alyn smiling at you, but the two other judges scowl as if a nasty smell has followed you into the room. Ser Emrick and Ser Arreck Templeton, twins by the look of them, both have the look of warriors, broad shoulders, thick necks and flat bellies.
+; menu_ninestars_7|As the trial begins, the judges ask if you have anything to say. You decide to...
+; menu_ninestars_8|As Ser Raymun lays his case before the judges, he starts to smirk. As he tells his tale of how you attacked him with no provocation, his eyes meet yours, and his smile grows wider. His tale contains a bit of truth, and with the two judges being his older brothers, you chances seem slim. Soon, the judges retreat to discuss the evidence laid before them, and all you can do is wait.
+; menu_ninestars_9|As the judges return, you wait with baited breath. Ser Alyn, as the most senior of the judges, rises and pronounces the sentence. You won't lose a hand, he declares, but you'll receive fifty lashes for striking a relative of the local liege. The sentence is to be carried out immediatly, and the guards quickly surround you and drag you to the castle courtyard, where a big farmer stands ready with a whip. As the first lash strikes your back, you decide not to make a sound, but once the fifth strikes you, you forget all about your decision and the rest of the lashes fall to the sound of your screams.
+; menu_ninestars_10|Once all the lashes have fallen, the local maester rushes to your side, taking you to his tower and giving you milk of the poppy. You quickly lose conscience, and when you wake up, hours have gone by. The maester tells you he's done all he can, and that you'll probably live, but that you lost a lot of blood and will likely feel the effect of the lashes for the rest of your life.
+; menu_ninestars_10_1|Once all the lashes have fallen, the local maester rushes to your side, taking you to his tower and giving you milk of the poppy. You quickly lose conscience, and when you wake up, hours have gone by. The maester tells you he's done all he can, and that you'll probably live, but that you lost a lot of blood and will likely feel the effect of the lashes for the rest of your life. He also informs you that you've been banned from the castle, and is to leave as soon as you can walk. As the victor of the fight, Ser Raymun would usually be the new owner of your arms and armor, but as you loaned it from Ser Alyn, he'll receive nothing. The equipment was damaged and dented during the fight though, and Ser Alyn has taken some coin out of your belongings to pay for the repairs.
+; menu_ninestars_11|The hall immediatly erupts into chaos, with knights and squires shouting, ladies gasping, servants clapping, Ser Raymun and his two brothers seething and Ser Alyn favoring you with a big grin. The guards look confused, unsure of what to do, until Ser Alyn calls for quiet. He declares a request for trial by combat within your rights, and that the gods will surely look upon the righteous with favor. When Ser Raymun asks if you will still lose a hand, when he defeats you and if decides to accept your yield, Ser Alyn decrees that the loser will receives fifty lashes. When the guards gather around you to escort you back to your cell, Ser Alyn tells them to stop, and instead bring you to his chambers.
+; menu_ninestars_12|As the guards escort you to the castellans chambers, you notice some knights nodding their approval of your actions. It would seem Ser Raymun is not well liked.
+; menu_ninestars_13|As you lie down to sleep, you ponder how to defeat Ser Raymun. Soon, however, sleep overwhelms you, and suddenly dawn has arrived. Once again, the rooster wakens you, and Ser Alyn arrives with a servant carrying a plate with two sausages, three fried ducks eggs, a piece of new bread, fresh from the oven and a large piece of blood pudding. When you finish, the servants presents you with the armor provided by Ser Alyn, and helps you don it. He explains that Ser Raymun has asked for the trial to be fought on horseback, both of you starting with lances, and fighting on foot should either of you be struck from the saddle. Too soon, the servant tells you that the time has come, and you both descend the stairs of the keep, and begin walking towards the tourney ground.
+; menu_ninestars_14|As you reach the tourney ground, smallfolk surrounds you. Grizzled old farmers shake your hand, and young peasant girls kiss your cheek. Young men pat your back, and a septon pushes through the crowd to bless you. You climb over the fence separating the tourney grounds and the surrounding fields, and mount your stallion. On the opposite end of the field, Ser Raymun is mounted on his own horse, holding a lance.
+; menu_ninestars_trial_failed|As you regain your senses, you can see Ser Raymun standing over you. You notice his lips moving, but can't make out the words. He leans forward, and shouting into your face, asks if you yield. You manage to get a 'yes' through your bloody teeth, and Ser Raymun smirks at you, obviously pleased with himself. Rolling unto your side, you see the crowds sulking, obviously displeased with the result, and your performance. Some of the smallfolk have already started making their way away from the grounds, and a pair of noble ladies are giggling and pointing at you.
+; menu_ninestars_trial_failed_1|Soon, guards come to drag you to your cell, where they inform you that you'll receieve your punishment the next day. Despondent and tired, you fall asleep, and all too soon, the sun rises once again. The door to the cell is opened, and guards quickly surround you and drag you to the castle courtyard, where a big farmer stands ready with a whip. As the first lash strikes your back, you decide not to make a sound, but once the fifth strikes you, you forget all about your decision and the rest of the lashes fall to the sound of your screams.
+; menu_ninestars_trial_success|As Ser Raymun falls to the ground, the stands erupt in cheers, and the smallfolk surrounding the tourney grounds shout your name. Blood leaking through his armor, Ser Raymun gives a final sigh, and then breathes his final breath. Exhausted yourself, you motion for a servant to help you get out of your armor and back into some comfortable clothes.
+; menu_ninestars_trial_success_1|Suddenly, Ser Alyn appears at your side, taking hold of your arm and dragging you off towards the the woods. Still groggy from the fight, you can't make sense of what he's shouting, but then he points towards the castle gates. There, Ser Emrick and Ser Arreck are mounting their horses, and grabbing swords, obviously intending to revenge their little brother. Ser Alyn leads you towards the road leading towards Snakewood, and tells you to make haste, before the brothers can catch up to you. As a final gesture, with a broad smile on his face, he hands you a small bag, filled with clinking coins. 'I bet a good amount on you defeating Ser Raymun, and figured it was only just you should have your share' he says.
+; menu_ninestars_trial_success_2|Setting out, you make good speed towards the safety of Snakewood, but the brothers are mounted on fine horses, and they know the woods much better than you do. Soon, you can hear them coming up behind you, and you turn your horse around, ready to face them.
+; menu_ninestars_15|In the stands surrounding the tourney grounds, knights, nobles, ladies, farmers and merchants are gathered. A septon is summoned to deplore the Father above to give strenght to the righteous and judge the men about to fight justly. A herald blows a trumpet, the signal to fight, and you couch your lance.
 menu_castle_black|Sei arrivato a Castello Nero, la roccaforte dei Guardiani della Notte.
 menu_nightfort|Sei arrivato a Forte della Notte.
 menu_castle_black2|Sei arrivato a Castello Nero.
@@ -253,6 +280,16 @@ mno_enter4|Torna a Volantis.
 menu_meereen_throne_room|Ti chiedi cosa fare dopo.
 menu_volantis_town|Sei tornato a Volantis.
 menu_donation_septry|Sei arrivato a septry.
+; menu_sellsword_camp_bright_banners|The Bright Banners make their camp in on the shores of the lagoon which contains the city of Braavos. The camp is orderly, and the men have set up nets and traps in the waters to catch the fish, crabs and mussels that are found in the waters surrounding the city. The company consists of twenty-five lancers, twenty-five archers and fifty men-at-arms, and is led by Ser Lucamore the Grim.
+; mno_choice_1_1|Recruit the Bright Banners.
+; mno_choice_1_2|Leave.
+; menu_sellsword_camp_iron_shields|The Iron Shields make their camp close to the swamps and Ruins of Sar Mell, on the only dry hill for miles. The locals shun the swamps and marshes, for fear of the wraiths and ghosts rumoured to populate the waters, the remains of the rhoynish warriors who were burned by the dragons. The camp is orderly, and the men can be seen training their formations. The company consists of fifty men-at-arms, and is led by Lotharo Gendymis.
+; menu_sellsword_camp_gallant_men|The Gallant Men make their camp outside Pentos, on what the locals call Sunset Meadow. From there, they command the entrance to the Sunset Gate, and the magisters of Pentos have been providing them with food in return for dealing with a group of pirates that was robbing merchants on the road. The company consists of fifty men-at-arms and fifty archers, and is led by Addam Blackwood.
+; menu_sellsword_camp_maidens_men|The Maiden's Men make their camp in the Hills of Andalos, and have been spending their time days in prayer. The locals claim that they hill they're camped on is where the Father first spoke to Hugor of the Hill, and to honor the gods, the Maiden's Men have made their camp into a seven-pointed star, well-ordered and quiet. The company consists of ten knights and fifty archers, and is led by Ser Otho Bracken.
+; menu_sellsword_camp_ragged_standard|The Ragged Standard make their camp in the wooded outskirts of the great Forest of Qohor. The camp is orderly, but the dothraki contingent have not bothered with a sharpened stakes or pallisades. The company consists of a hundred pikemen and twenty dothraki warriors, and is led by Oronno Paenrakos.
+; menu_sellsword_camp_long_lances|The Long Lances make their camp in the sandy and desolate hills of the Orange Shore, where once stood the rhoynish port of Sarhoy. The camp is messy and without order. The company consists of a hundred lancers, and is led by Gylo Rhegan.
+; menu_sellsword_camp_company_of_the_cat|The Company of the Cat makes their camp on the shores of the tyroshi coastline, making good use of the many cliffs, rocks and caves to act as a natural defensive site. The company consists of a hundred and fifty men-at-arms, and is led by the man known simply as 'Bloodbeard'.
+; menu_sellsword_camp_windblown|The Windblown make their camp outside the walls of Myr. The camp is well-ordered, and guards are stationed at every major entrance and exit. The standards of the Windblown are fork-tailed blue-and-white banners, and they carry streamers of pale blue silk on their lances. The company consists of forty lancers, a hundred men-at-arms and twenty archers and is led by the Tattered Prince.
 menu_hillhall|Sei arrivato a Hillhall.
 menu_relic_septry|Sei arrivato a septry.
 menu_zendar|Entri nella città di Zendar.
@@ -317,7 +354,7 @@ mno_build_siege_tower_cont|Comincia a costruire.
 menu_castle_attack_walls_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico: {s9}
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite alleate: {s9}^^Perdite nemiche: {s10}
 menu_castle_taken_by_friends|Niente da vedere qui.
-menu_castle_taken|{s3} è stato conquistato dalle tue truppe, ed ora tu hai il pieno controllo {reg2?della città:del castello}.{reg1? Puoi posizionare delle truppe qui per difenderti contro i nemici che potrebbero provare a riconquistare. Inoltre, devi scegliere adesso se vuoi tenere {reg2?la città:il castello} per te stesso o darlo ad un vassallo fedele...:}
+; menu_castle_taken|{s3} has fallen to your troops, and you now have full control of the {reg2?town:castle}. You can plunder spoils of war worth {reg3} coins.{reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
 mno_dplmc_spoils_yourself|Saccheggiala e tieni il bottino tutto per te.
 mno_dplmc_spoils_accompanying_vassals|Saccheggiala e condividi il bottino equamente tra i vassalli che ti accompagnano e te stesso.
 mno_dplmc_spoils_all_vassals|Saccheggiala e condividi il bottino equamente tra tuoi vassalli e te stesso.
@@ -326,20 +363,20 @@ mno_castle_taken_claim|Chiedi che {s3} ti venga assegnato.
 mno_castle_taken_claim_2|Chiedi che {s3} venga assegnato a {tua moglie/tuo marito}.
 mno_castle_taken_no_claim|Non avanzare richieste.
 menu_requested_castle_granted_to_player|Ricevi un messaggio dal tuo signore, {s3}.^^ {reg4?Lei:Lui} ha deciso di assegnare {s2}{reg3? e il vicino villaggio di {s4}:} a te, con il titolo e tutto ciò che vi è annesso, mantenendolo in {reg4?suo:suo} nome finchè manterrai il giuramento di fedeltà...
-menu_dk_invasion_start_warning|Ti è giunta voce che gli invasori sono sbarcati nelle Stormlands. Secondo uno dei tuoi uomini, il quale racconta una delle numerose dicerie che ci sono nel tuo esercito, gli invasori sono mezzi uomini e mezze bestie. L'uomo trema di paura mentre descrive i loro occhi malefici, la loro nera e dorata armatura, i loro elmi adornati con draghi, grifoni e teschi.
-menu_dothraki_invasion|Ti è giunta voce che un'orda di dothraki ha assediato la Città Libera di Selhorys. Secondo un mercante che incontri per strada, è il khalasar di Khal Pono, il quale si definisce il reggente del Khizra. Notando il tuo sguardo in smarrimento, il mercante ti spiega che Khizra significa 'Palude' in dothraki.
-menu_wildling_invasion|'Pessime notizie, mio signore!', urla un uomo anziano che incontri per stada. 'Nel buio della notte, dei selvaggi hanno assaltato Last Hearth, e preso il castello! La Barriera è caduta, e i selvaggi vagano liberi!'
-menu_dk_invasion_start_warning_dorne_joins|Delle novità hanno raggiunto il tuo accampamento! Secondo uno dei tuoi uomini, una giovane locandiera gli ha detto che ha sentito, da uno dei suoi clienti, che i lords dorniani marciano in aiuto di un pretendente, colui che si fa chiamare Aegon il Sesto. Preso, la voce è confermata quando un corvo è intercettato, proclamando il supporto di Doran Martell per il suo presunto nipote.
-menu_dk_stannis_start_warning|Un contadino vicino sta bisbigliando a sua moglie. Avvicinandoti, senti parte della loro conversazione. Da quel che capisci, sembrerebbe che Stannis Baratheon vanta il diritto di reclamare il trono per sè. Quando parli con il contadino, ti viene tutto confermato, definendo Stannis come un uomo empio, cospiratore con demoni antichi quanto il tempo stesso.\n
-menu_dk_renly_start_warning2|Hai intercettato un corvo. Un messaggio è legato alla sua gamba. Richiede a tutti i Lords fedeli di supportare Renly Baratheon in qualità di unico Re dei Sette Regni.
-menu_dk_renly_start_warning3|Hai intercettato un altro corvo. Sono ovunque! Srotoli il messaggio legato alla sua gamba. E' una proclamazione dei Tyrell di Alto Giardino, richiedendo ai fedeli ed onorabili Lords di supportare l'ascesa al trono di Renly Baratheon.
-menu_dk_north_start_warning|Uno dei tuoi uomini chiede il permesso di parlarti. Apparentemente, sembrerebbe che egli abbia sentito un discorso al riguardo gli Uomini di Ferro. A quanto pare hanno iniziato ad razziare i villaggi che si trovano sulla costa settentrionale, e Balon Greyjoy si e' incoronato Re delle Isole di Ferro e del Nord.
-; menu_dk_tyrosh_start_warning|The talk of your retinue is all about the new trade war Lys and Tyrosh has initiated, against Myr. The cities of Essos has warred against each other for hundreds of years, but one of your men point out that they always pay well for experienced mercenaries.
+; menu_dk_invasion_start_warning|Word has reached you that invaders have landed in the Stormlands. According to a man standing close by, who recounts one of the numerous rumors spreading across the land, they're half man, half beast. The man is shaking with fright as he describes their evil eyes, their black and golden armor, their helmets adorned with dragons, griffins and skulls. Supposively, they're the remnants of the men who have gone into exile in Essos over the years, twisted by greed, lust, loss and madness into wild beasts intent on setting the world afire.
+; menu_dothraki_invasion|Word has reached you that an invading dothraki horde has laid siege to the fair city of Selhorys. According to a stranger standing close by, it is the khalasar of Khal Pono, who styles himself ruler of the Khizra. Noticing your look of bewilderment, the man explains that Khizra means 'Marsh' in dothraki and that the dothraki hordes who have made their territory east of Volantis have often claimed rulership of the marshes surrounding the Painted Mountains.
+; menu_wildling_invasion|'Dire news, my lord!', shouts an old man standing a few feet from you. 'In the black of night, wildlings assaulted Last Hearth, and took the castle! The Wall has fallen, and savages roam free!' The man is clearly frightened and walks away muttering curses and something about giants and grumpkins.
+; menu_dk_invasion_start_warning_dorne_joins|News has reached you that the dornish lords marches to the aid of the pretender, the one who calls himself Aegon the Sixth. A woman standing close by recounts the rumor, something she picked up in a tavern not far from your location. Soon, the rumor is confirmed when a raven is intercepted, proclaiming Doran Martells support for his supposed nephew and urging all the loyal and true lords of Westeros to join the cause of the true heir to the Iron Throne.
+; menu_dk_stannis_start_warning|A nearby man is whispering to his wife. Edging closer, you overhear part of their conversation. From what you can make out, it appears Stannis Baratheon has laid claim to the throne. When you confront the peasant, he confirms your suspicions, declaring Stannis an ungodly man, working with demons from beyond the edge of the world and plotting to tear down the Sept of Baelor.
+; menu_dk_renly_start_warning2|You intercept a raven. A message is tied to its leg with golden thread, the paper fine and the ink exquisite. It urges all loyal lords to support Renly Baratheon as the only true king of the Seven Kingdoms by virtue of being the brother of the former king.
+; menu_dk_renly_start_warning3|You intercept another raven. They're everywhere! You unroll the message tied to its leg with green velvet. It is a proclamation from the Tyrells of Highgarden, urging all loyal and honorable lords to support Renly Baratheon as king of the Seven Kingdoms.
+; menu_dk_north_start_warning|A nearby man ask your permission to speak. Apparently, he heard a rumor about the ironmen. Supposively, they've begun raiding the northern cost, and Balon Greyjoy has crowned himself and once again sits the Seastone Chair as King of the Iron Islands.
+; menu_dk_tyrosh_start_warning|The talk of the locals is all about the new trade war Lys and Tyrosh has initiated, against Myr. The cities of Essos has warred against each other for hundreds of years, but a nearby sellsword point out that they always pay well for experienced warriors to fight their battles.
 menu_requested_castle_granted_to_player_husband|Hai recevuto un messaggio dal sovrano, {s3}.^^ {reg4?Lei:Lui} ha deciso di concedere {s2}{reg3? e il vicino villaggio di {s4}:} a tuo marito, {s7}.
-menu_requested_castle_granted_to_another|Ricevi un messaggio dal tuo sovrano, {s3}.^^ 'Sono stato informato delle tue eroiche gesta e mi compiaccio vedendo che hai ottenuto la conquista di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che ti venga assegnata la proprietà del castello ma è un favore che non posso accordare, in quanto già possiedi rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campanga, ma {s2} sarà assegnato a {s5}.'
+; menu_requested_castle_granted_to_another|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour which I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {reg6} coinss to cover the expenses of your campaign, but {s2} I give to {s5}.' 
 mno_accept_decision|Accetta la decisione.
 mno_leave_faction|Decidi che è inaccettabile! Sciogli il giuramento di fedeltà!
-menu_requested_castle_granted_to_another_female|Hai ricevuto un messaggio dal re, {s3}.^^ 'Sono molto contento di sentire i vostri sforzi valorosi nella cattura di {s2}. La vostra vittoria è rallegrato tutti i nostri cuori. Mi hai anche chiesto di dare la proprietà del castello a tuo marito, ma questo è un favore che temo che non posso concedere, visto che lui detiene proprietà significative nel mio regno. Invece ti ho mandato {reg6} denari per coprire le spese della sua campagna, ma {s2} lo do a {s5}.'
+; menu_requested_castle_granted_to_another_female|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your {wife/husband}, but that is a favour which I fear I cannot grant, as {she/he} already holds significant estates in my realm. Instead I have sent you {reg6} coins to cover the expenses of your campaign, but {s2} I give to {s5}.' 
 menu_leave_faction|Sciogliere un giuramento di fedeltà è un atto molto grave. Il tuo signore potrebbe condannarti e confiscare le tue terre e le tue fortezze. Comunque, se tornerai di tua spontanea volontà, egli potrebbe dimenticare il tradimento e rinunciare a combatterti.
 mno_leave_faction_give_back|Sciogli il tuo giuramento e rinuncia alle tue proprietà.
 mno_leave_faction_hold|Sciogli il tuo giuramento e mantieni le tue proprietà, compreso {s2}.
@@ -374,7 +411,9 @@ mno_dplmc_village_negotiate|Inizia i negoziati.
 mno_collect_taxes_qst|{reg5?Continua a riscuotere le tasse:Raccogli le tasse} dovute a {s1}.
 mno_train_peasants_against_bandits_qst|Addestra i paesani.
 mno_village_hostile_action|Compi un'azione ostile.
+; mno_village_perform_basic_work|Work in the fields for a week.
 mno_village_leave|Parti...
+; menu_village_basic_work|{s3}
 menu_village_hostile_action|Che tipo di azione hai in mente?
 mno_village_take_food|Costringi i contadini a darti le loro scorte.
 mno_village_steal_cattle|Ruba del bestiame.
@@ -382,7 +421,7 @@ mno_village_loot|Saccheggia il villaggio e successivamente brucialo.
 mno_forced_recruits|Tenta di reclutare con forza alcuni paesani.
 menu_recruit_volunteers|{s18}
 mno_continue_not_enough_gold|Non hai abbastanza soldi...
-mno_recruit_them|Reclutali ({reg6} denari).
+; mno_recruit_them|Recruit them ({reg6} coins).
 menu_village_hunt_down_fugitive_defeated|Un colpo violento del fuggitivo ti scaraventa a terra, la tua vista si fa annebbiata e poi più nulla. Il tempo passa. Quando riprendi conoscenza il tuo corpo è contuso e sanguinante, ma fortunatamente nessuna ferita è risultata letale.
 menu_village_infest_bandits_result|{s9}
 menu_village_infestation_removed|In una battaglia degna di essere ricordata nelle canzoni dei bardi, tu e i tuoi uomini avete scacciato i banditi dal villaggio, rendendolo sicuro come mai prima d'ora. Ai contadini è rimasto ben poco dopo questo terribile momento, ma ti offrono tutto ciò che riescono a trovare.
@@ -400,7 +439,7 @@ mno_center_build_school|Costruisci una scuola.
 mno_center_build_messenger_post|Costruisci un ufficio postale.
 mno_center_build_prisoner_tower|Costruisci una torre prigione.
 mno_center_build_barracks|Costruisci caserma.
-menu_center_improve|{s19} Come membro della Compagnia con le più alte abilità ingegneristiche ({reg2}), {reg3?calcoli:{s3} calcola} che la costruzione di {s4} costerà {reg5} denari e richiederà {reg6} giorni.
+; menu_center_improve|{s19} As the most architecturally learned avatar of your company, ({reg2}), {reg3?you reckon:{s3} reckons} that building the {s4} will cost you {reg5} coins and will take {reg6} days.
 mno_dplmc_improve_cont|Continua. (Paga dal tesoro)
 mno_improve_cont|Agisci.
 mno_improve_not_enough_gold|Non hai abbastanza soldi per farlo.
@@ -418,7 +457,7 @@ menu_village_start_attack|Alcuni abitanti del villaggio furenti, impugnando dell
 mno_village_raid_attack|Attaccali.
 mno_village_raid_leave|Lascia stare questo villaggio.
 menu_village_loot_no_resist|Gli abitanti del villaggio sono pochi e impauriti, si dileguano prima del tuo arrivo. Il villaggio è nelle tue mani.
-menu_village_loot_complete|Al tuo ordine, i soldati saccheggiano il villaggio, depredandolo di ogni oggetto di valore e infine dando fuoco agli edifici. Tra monete e oggetti di valore, ottieni {reg1} denari.
+; menu_village_loot_complete|On your orders your troops sack the village, pillaging everything of any value, and then put the buildings to the torch. From the coins and valuables that are found, you get your share of {reg1} coins.
 menu_village_loot_defeat|Combattendo con coraggio e determinazione, i villani riescono a resistere e a respingere il tuo attacco.
 menu_village_loot_continue|Vuoi continuare a razziare questo villaggio?
 mno_disembark_yes|Sì.
@@ -427,7 +466,7 @@ menu_close|Nulla.
 menu_town|{s10} {s14}^{s11}{s12}{s13}
 mno_castle_castle|Vai alla Sala del lord{s1}.
 mno_castle_castle_door|Portone del castello.
-mno_join_tournament|Partecipa al Torneo.
+; mno_join_tournament|Join the melee.
 mno_town_castle|Vai al Castello.{s1}
 mno_town_castle_door|Portone del castello.
 mno_town_center|Passeggia per le strade.
@@ -454,8 +493,37 @@ mno_dplmc_castle_give_troops|Dai truppe alla guarnigione (non è possibile rimuo
 mno_castle_wait|Aspetta qui per un po' di tempo{s1}.
 mno_dplmc_guild_master_meeting|Incontra il Borgomastro.
 mno_dplmc_guild_master_meeting_denied|Non hai ancora incontrato il Borgomastro.
-mno_town_bank|Visita i mercanti.
+; mno_town_bank|Visit the Iron Bank of Braavos.
+; mno_special_room_painted_table|Visit the Chamber of the Painted Table.
+; mno_special_room_iron_throne_room|Visit the Great Hall.
 mno_recruit_nobles|Recluta volontari.
+; mno_recruit_sellswords_braavos|Recruit sellswords.
+; mno_recruit_sellswords_lorath|Recruit sellswords.
+; mno_recruit_sellswords_pentos|Recruit sellswords.
+; mno_recruit_sellswords_norvos|Recruit sellswords.
+; mno_recruit_sellswords_qohor|Recruit sellswords.
+; mno_recruit_sellswords_myr|Recruit sellswords.
+; mno_recruit_sellswords_tyrosh|Recruit sellswords.
+; mno_recruit_sellswords_lys|Recruit sellswords.
+; mno_recruit_sellswords_volantis|Recruit sellswords.
+; mno_recruit_white_harbor_town|Visit Fishfoot Yard.
+; mno_recruit_barrowton_town|Visit Roddy's Street.
+; mno_recruit_deepwood_motte_town|Visit the Sheepfold.
+; mno_recruit_raventree_hall_town|Visit the Godswood.
+; mno_recruit_stone_hedge_town|Visit the Village.
+; mno_recruit_crossing_town|Visit the Toll House.
+; mno_recruit_sarsfield_town|Visit the Clinking Coin Inn.
+; mno_recruit_banefort_town|Visit the Woods of the Hooded Man.
+; mno_recruit_casterly_rock_town|Visit the Barracks.
+; mno_recruit_lannisport_town|Visit the Harbor.
+; mno_recruit_runestone_town|Visit the Tourney Grounds.
+; mno_recruit_longbow_hall_town|Visit the Hunters Gate.
+; mno_recruit_nightsong_town|Visit the Marching Field.
+; mno_recruit_stonehelm_town|Visit the Ten Bells.
+; mno_recruit_oldtown_town|Visit the Thieves' Market.
+; mno_recruit_arbor_town|Visit Stonecrab Cay.
+; mno_recruit_skyreach_town|Visit the Hawk Gate.
+; mno_recruit_driftmark_town|Visit the Ruins of Spicetown.
 mno_town_leave|Parti...
 mno_town_leave_door|Lascia quest'area.
 menu_cannot_enter_court|C'è una festa in corso nella Sala del lord, ma tu non hai uno status sufficiente per essere invitato a partecipare. Tuttavia aumentando la tua fama otterrai d'essere ammesso... O potresti provare a distinguerti in un torneo mentre la festa è in corso...
@@ -470,8 +538,8 @@ mno_visit_lady_6|Visita {s12}
 mno_visit_lady_7|Visita {s12}
 mno_visit_lady_8|Visita {s12}
 menu_town_tournament_lost|Hai subito l'eliminazione dal torneo.{s8}
-menu_town_tournament_won| Hai vinto il torneo di {s3}! Ti riempi d'orgoglio mentre la folla inneggia il tuo nome. Oltre all'onore, la fama e la gloria, guadagni un premio di {reg9} denari. {s8}
-menu_town_tournament_won_by_another|Come unico {reg3?combattente:uomo} senza sconfitte oggi, {s1} vince il premio e la gloria di questo torneo.
+; menu_town_tournament_won|You have won the melee of {s3}! You are filled with pride as the crowd cheers your name, the young women throwing flowers and handkerchiefs your way and the men hollering congratulations. In addition to honour, fame and glory, you earn a prize of {reg9} coins. {s8}
+; menu_town_tournament_won_by_another|As the only {reg3?fighter:man} to remain undefeated this day, {s1} wins the love of the smallfolk and the glory of this melee.
 menu_town_tournament|{s1} Sei al turno numero {reg0} di questo torneo, con {reg1} partecipanti rimasti. Nel prossimo turno combatteranno {reg2} squadre di {reg3} {reg4?combattenti:combattente} ciascuna.
 mno_tournament_view_participants|Vedi i partecipanti.
 mno_tournament_bet|Scommetti su di te
@@ -480,22 +548,22 @@ mno_leave_tournament|Ritirati dal torneo
 menu_tournament_withdraw_verify|Confermi di volerti ritirare dal torneo?
 mno_tournament_withdraw_yes|Sì, non ho alcuna possibilità di vittoria...
 mno_tournament_withdraw_no|No, fino a che ci sarà una possibilità di vincere!
-menu_tournament_bet|Le scommesse su di te sono {reg5} a {reg6}.{reg1? Hai già scommesso {reg1} denari su di te, e se vinci guadagnerai {reg2} denari.:} Quanto vuoi scommettere?
-mno_bet_100_denars|100 denari.
-mno_bet_50_denars|50 denari.
-mno_bet_20_denars|20 denari.
-mno_bet_10_denars|10 denari.
-mno_bet_5_denars|5 denari.
-menu_tournament_bet_confirm|Se scommetti {reg1} denari, guadagnerai {reg2} denari se vinci il torneo. Va bene?
+; menu_tournament_bet|The odds against you are {reg5} to {reg6}.{reg1? You have already bet {reg1} coins on yourself, and if you win, you will earn {reg2} coins.:} How much do you want to bet?
+; mno_bet_100_denars|100 coins.
+; mno_bet_50_denars|50 coins.
+; mno_bet_20_denars|20 coins.
+; mno_bet_10_denars|10 coins.
+; mno_bet_5_denars|5 coins.
+; menu_tournament_bet_confirm|If you bet {reg1} coins, you will earn {reg2} coins if you win the melee. Is that all right?
 mno_tournament_bet_accept|Scommetti.
 mno_tournament_bet_cancel|Lascia perdere.
 menu_tournament_participants|Chiedi a uno degli organizzatori i nomi dei partecipanti. Essi sono:^{s11}
 menu_collect_taxes|Come membro della Compagnia con le migliori capacità commerciali ({reg2}), {reg3?stimi:{s1} stima} che riscuotere le tasse richiederà {reg4} giorni...
 mno_start_collecting|Inizia a raccogliere.
 mno_collect_later|Rimanda a più tardi.
-menu_collect_taxes_complete|Hai riscosso {reg3} denari in tasse da {s3}. {s19} si aspetterà che gli porti questo denaro..
+; menu_collect_taxes_complete|You've collected {reg3} coins in taxes from {s3}. {s19} will be expecting you to take the money to {reg4?her:him}.
 menu_collect_taxes_rebels_killed|La tua reazione rapida e decisa ha prontamente represso la rivolta. Sicuramente, nessuno con un po' di cervello proverà più a ribellarsi.
-menu_collect_taxes_failed|Hai riscosso solo {reg3} denari come tasse da {s3} prima che la rivolta ti interrompesse. {s1} non sarà contento, ma un po' di soldi lo placheranno, dopo tutto è meglio di niente...
+; menu_collect_taxes_failed|You could collect only {reg3} coins as tax from {s3} before the revolt broke out. {s1} won't be happy, but some silver will placate {reg4?her:him} better than nothing at all...
 menu_collect_taxes_revolt_warning|La popolazione di {s3} è oltraggiata dalle tue richieste e le definisce estorsione. Sono divenuti molto irrequieti, potrebbero reagire malamente se continuerai a tartassarli.
 mno_continue_collecting_taxes|Ignorali e continua.
 mno_halve_taxes|Propongono di ridurre le richieste alla metà. ({s1} potrebbe adirarsi)
@@ -526,7 +594,7 @@ mno_trade_with_horse_merchant|Commercia con il mercante di cavalli.
 mno_trade_with_goods_merchant|Commercia con il mercante di beni e vivande.
 mno_auto_buy_food|Compra cibo automaticamente.
 mno_back_to_town_menu|Torna indietro.
-; menu_trade_auto_sell_begin|Items in the inventory of companions which selected as the type for sell and their prices below {reg1} denars will be sold to {reg2?all merchants:the elder} in current {reg2?town:village} automatically. Specifically foods, trade goods and books will never be sold.^^You can change some settings here freely.
+; menu_trade_auto_sell_begin|Items in the inventory of companions which selected as the type for sell and their prices below {reg1} coins will be sold to {reg2?all merchants:the elder} in current {reg2?town:village} automatically. Specifically foods, trade goods and books will never be sold.^^You can change some settings here freely.
 mno_change_settings|Cambia le impostazioni.
 ; menu_trade_auto_buy_food_begin|You will buy food according to the shopping list of foods automatically. Do you want to continue?^^You can view and configure the shopping list here.
 mno_change_shopping_list_of_food|Configura la lista della spesa di alimenti.
@@ -538,7 +606,7 @@ mno_sneak_caught_fight|Prova a farti largo combattendo!
 mno_sneak_caught_surrender|Arrendetevi.
 menu_sneak_into_town_caught_dispersed_guards|Ti liberi delle guardie e cancelli le tue tracce per non farti trovare, semini facilmente gli inseguitori nel dedalo delle vie.
 menu_sneak_into_town_caught_ran_away|Trovi una via di fuga attraverso il cancello e ti ritiri prontamente verso la salvezza sulle colline.{s11}
-menu_enemy_offer_ransom_for_prisoner|{s2} ti offre la somma di {reg12} denari in argento, se vorrai liberare {s1}.
+; menu_enemy_offer_ransom_for_prisoner|{s2} offers you a sum of {reg12} coins in silver if you are willing to sell them {s1}.
 mno_ransom_accept|Accetta l'offerta.
 mno_ransom_reject|Rifiuta l'offerta.
 menu_training_ground|Ti avvicini al campo d'addestramento, dove puoi addestrarti nel combattimento. Quale tipo d'addestramento vuoi praticare?
@@ -590,7 +658,7 @@ menu_captivity_castle_taken_prisoner|Prontamente le guardie ti circondano e disa
 menu_captivity_rescue_lord_taken_prisoner|Mantieni il travestimento il più a lungo possibile prima di rivelarti. Le guardie sono oltraggiate e ti picchiano selvaggiamente prima di gettarti in una cella per chissà quanto tempo...
 menu_captivity_castle_check|stub
 menu_captivity_end_exchanged_with_prisoner|Dopo giorni di prigionia, ottieni la liberazione grazie ad uno scambio di ostaggi.
-menu_captivity_end_propose_ransom|Passi lunghe ore nelle celle senza luce delle segrete, più di quante tu ne possa contare. Improvvisamente il tuo carceriere entra nella cella con un'offerta; ti propone la libertà in cambio di {reg5} denari del tuo tesoro nascosto. Tu decidi di...
+; menu_captivity_end_propose_ransom|You spend long hours in the sunless dank of the dungeon, more than you can count. Suddenly one of your captors enters your cell with an offer; he proposes to free you in return for {reg5} coins of your hidden wealth. You decide to...
 mno_captivity_end_ransom_accept|Accettare l'offerta.
 mno_captivity_end_ransom_deny|Rifiutare e aspettare una migliore occasione.
 menu_captivity_castle_remain|Molti giorni passano nell'oscurità della tua cella. Cerchi di passarli meglio che puoi, sopportando i calci e le maledizioni delle guardie, osservando il tuo corpo denutrito deperire giorno dopo giorno...
@@ -679,19 +747,16 @@ menu_notification_player_faction_political_issue_resolved|Dopo essersi consultat
 menu_notification_player_faction_political_issue_resolved_for_player|Dopo essersi consultato con i pari del regno, {s10} ha deciso di conferire {s11} a te. Puoi rifiutare questo onore, ma ricorda che potresti non ricevere altre ricompense per un po' di tempo.{s12}
 mno_accept|Accetta l'onore
 mno_decline|Declina l'onore
-; menu_start_phase_3|{s16}^^Follwing a long trek through the Rainwood, you finally see the town of Weeping Tower in the distance. You are exhausted by the time you find the inn, and go in search of a decent tavern. According to an old blind man sitting in the corner, drinking a mug of stale ale, a kraken has been seen off the coast of Dorne, and a five-headed calf has been born, killing its mother in the process, surely an omen to be taken seriously. Dismissing the old fool as crazy, you venture out onto the streets, which are still deserted. All of a sudden, you hear a sound that stands the hairs of your neck on end -- the rasp of a blade sliding from its scabbard...
+; menu_start_phase_3|{s16}^^Follwing a long trek through the Rainwood, you finally see the town of The Weeping Tower in the distance. You are exhausted by the time you find the inn, and go in search of a decent tavern. According to an old blind man sitting in the corner, drinking a mug of stale ale, a kraken has been seen off the coast of Dorne, and a five-headed calf has been born, killing its mother in the process, surely an omen to be taken seriously. Dismissing the old fool as crazy, you venture out onto the streets, which are still deserted. All of a sudden, you hear a sound that stands the hairs of your neck on end -- the rasp of a blade sliding from its scabbard...
 menu_start_phase_4|{s11}
 menu_lost_tavern_duel|{s11}
 menu_establish_court|Per stabilire la tua corte a {s4} hai bisogno di eseguire alcuni lavori di ristrutturazione. In particolare, avrai bisogno di una serie di attrezzi e di un rotolo di velluto. Inoltre potrebbe essere necessario un po' di tempo ai tuoi seguaci per trasferirsi qui. Intendi procedere?
 mno_establish|Insedia a {s4} la tua corte
-menu_notification_relieved_as_marshal|{s4} desidera informarti che i tuoi servigi come Comandante in Capo non sono piu' richiesti. In onore dei valorosi sforzi compiuti in nome del regno negli ultimi {reg4} giorni, comunque, {reg8?lei:lui} ti offre una borsa con {reg5} denari.
+; menu_notification_relieved_as_marshal|{s4} wishes to inform you that your services as marshal are no longer required. In honor of valiant efforts on behalf of the realm over the last {reg4} days, however, {reg8?she:he} offers you a purse of {reg5} coins.
 ; menu_notification_give_liege_gift|A messenger boy, riding hard, gallops up to you. He stops and wheels his horse, which paws the ground impatiently. He hands you a package, and with that, he is gone.
 menu_manage_loot_pool|{s10}
-mno_auto_loot|Lasciate che i vostri eroi selezionino l'equipaggiamento dal vostro inventario.
-; mno_auto_loot_no|Insufficient item pool space for auto-upgrade.
 mno_loot|Accedi all'inventario.
-mno_auto_loot_upgrade_management|Gestisci il miglioramento dell'equipaggiamento del compagno.
-mno_auto_loot_leave_with_nothing|Raccogliete gli elementi che valgono più di {reg1} denari e continuate.
+; mno_auto_loot_leave_with_nothing|Pick the items which price higher than {reg1} coins and continue.
 mno_auto_loot_leave|{s20}
 ; menu_auto_loot|Your companions will automatically grab items from the item pool based on their pre-selected upgrade options. Companions listed first in the party order will have first pick. Any equipment no longer needed will be placed back into the item pool. Are you sure you wish to do this?
 mno_No|No, ho cambiato idea.
@@ -727,28 +792,28 @@ menu_dplmc_notification_alliance_expired|Alleanza scaduta^^L'alleanza tra {s1} e
 menu_dplmc_notification_defensive_expired|Patto Difensivo scaduto^^Il patto difensivo tra {s1} e {s2} è scaduto ed è stato degradato ad un accordo commerciale.
 menu_dplmc_notification_trade_expired|Tratta commerciale scaduto^^L'accordo commerciale tra {s1} e {s2} è scaduto ed è stato degradato a un trattato di non aggressione.
 menu_dplmc_dictate_terms|Detta i termini di pace.
-mno_dplmc_demand_4000|Chiedi 4000 denari
-mno_dplmc_demand_8000|Chiedi 8000 denari
+; mno_dplmc_demand_4000|Demand 4000 coins
+; mno_dplmc_demand_8000|Demand 8000 coins
 mno_dplmc_demand_castle|Chiedi {s2}.
 mno_dplmc_go_back|Indietro
 menu_dplmc_deny_terms|{s1} rifiuta i termini e annulla le trattative.
 menu_dplmc_village_riot_result|{s9}
 menu_dplmc_village_riot_removed|Dopo una sanguinosa battaglia voi e i vostri uomini ammazzate i ribelli e riprendere il controllo del villaggio. Ma non è rimasto molto che potete controllare.
 menu_dplmc_town_riot_removed|Dopo una sanguinosa battaglia voi e i vostri uomini ammazzate i ribelli e riprendere il controllo dellla città.
-; menu_dplmc_riot_negotiate|You approach the angry crowd and begin negotiations. The leader of the riot demands {reg0} denars. He agrees to lay down arms if you are willing to pay.
+; menu_dplmc_riot_negotiate|You approach the angry crowd and begin negotiations. The leader of the riot demands {reg0} coins. He agrees to lay down arms if you are willing to pay.
 mno_dplmc_pay_riot_treasury|Induci il siniscalco a pagare coi soldi del tesoro.
 mno_dplmc_pay_riot_cash|Paga in contanti.
 mno_dplmc_back|Indietro...
 ; menu_dplmc_notification_riot|The peasants of {s1} launched a riot against you! In a surprise attack, men loyal to you have been slain. The remainder joined the angry crowd.
-; menu_dplmc_notification_appoint_chamberlain|As a lord of a fief you can now appoint a seneschal who resides at you court for a weekly salary of 15 denars. He will handle all financial affairs like collecting and determining taxes, paying wages and managing your estate. In addition he supervises money transfers between sovereigns giving you more diplomatic options.
+; menu_dplmc_notification_appoint_chamberlain|As a lord of a fief you can now appoint a seneschal who resides at you court for a weekly salary of 15 coins. He will handle all financial affairs like collecting and determining taxes, paying wages and managing your estate. In addition he supervises money transfers between sovereigns giving you more diplomatic options.
 mno_dplmc_appoint_default|Nomina un eminente cittadino della zona...
 ; menu_dplmc_chamberlain_confirm|Your seneschal can be found at your court. You should consult him if you want to give him any financial advice or you need greater amounts of money. You should always make sure that there is enough money in the treasury to pay for political affairs.
-; menu_dplmc_notification_appoint_constable|As a lord of a fief you can now appoint a castellan who resides at you court for a weekly salary of 15 denars. He will recruit new troops and provide information about your army.
+; menu_dplmc_notification_appoint_constable|As a lord of a fief you can now appoint a castellan who resides at you court for a weekly salary of 15 coins. He will recruit new troops and provide information about your army.
 ; menu_dplmc_constable_confirm|Your castellan can be found at your court. You should consult him if you want to recruit new troops or get detailed information about your standing army.
-; menu_dplmc_notification_appoint_chancellor|As a lord of a fief you can now appoint a maester who resides at you court for a weekly salary of 20 denars. He will be the keeper of your seal and conduct the correspondence between you and other important persons.
+; menu_dplmc_notification_appoint_chancellor|As a lord of a fief you can now appoint a maester who resides at you court for a weekly salary of 20 coins. He will be the keeper of your seal and conduct the correspondence between you and other important persons.
 ; menu_dplmc_chancellor_confirm|Your maester can be found at your court. You should consult him if you want to send messages or gifts.
 ; menu_dplmc_deserters|Some of your men don't believe that you will pay their wages and desert. Overall you lose: {s11} men.
-; menu_dplmc_negotiate_besieger|You appear with a white flag at the top of the wall. After a while a negotiator of {s11} approaches you. He demands {s6} and all associated villages as well as {reg0} denars for safe conduct.
+; menu_dplmc_negotiate_besieger|You appear with a white flag at the top of the wall. After a while a negotiator of {s11} approaches you. He demands {s6} and all associated villages as well as {reg0} coins for safe conduct.
 mno_dplmc_comply_treasury|Accetta e induci il siniscalco a pagare coi soldi del tesoro.
 mno_dplmc_comply|Accetta e paga la somma in contanti.
 mno_dplmc_break_off|Interrompi i negoziati.
@@ -829,7 +894,7 @@ mno_choice_06_2n|Orribile! Sequestrare il giovane e castralo!
 ; mno_choice_07_2n|Distribute some wagons of grain to my people, it is the most I can spare.
 mno_choice_07_3n|Comprate grano delle Summer Islands per 5000 monete! 
 ; mno_choice_07_4n|Let them starve! Serves them right for not tending to their crops carefully enough!
-; menu_event_08_juicio|One of your lords approaches you, stating he has an illegitimate son who wishes to join your bodyguard. You agree to meet the boy as it would be unseemly to flat out reject a noble. When you meet the boy, however it is clear that he is rather homely and certainly not a man of war. Faced with this plump, smiling young man you...
+; menu_event_08_juicio|One of your vassals approach you, stating he has an illegitimate son who wishes to join your bodyguard. You agree to meet the boy as it would be unseemly to flat out reject a noble. When you meet the boy, however it is clear that he is rather homely and certainly not a man of war. Faced with this plump, smiling young man you...
 ; mno_choice_08_1n|Allow him to join your bodyguard.
 mno_choice_08_2n|Chiedi un corrispettivo di 500 monete per concludere l'affare.
 mno_choice_08_3n|Rifiuta definitivamente.
@@ -856,10 +921,9 @@ mno_choice_13_1n|Tutti, inginocchiatevi e iniziate a pregare!
 mno_choice_14_1n|Dai all'uomo 1000 monete.
 mno_choice_14_2n|Tutti dovrebbero pianificare ciò in anticipo. Vi concedo 500 monete, ma questa è l'ultima volta.
 mno_choice_14_3n|No, dovevate pensarci prima!
-; menu_event_15_juicio|One day, your servant arrives at your court, he seems very enthusiastic! 'My lord, I have splendid news! There is a merchant from The Red Mountains in the nearby village now, and he is willing to sell us a piece of blessed Baelors hair! I cannot believe that our lands has the opportunity to gain such a famous relic!'
-; mno_choice_15_1n|I have seen so many parts of Baelors head, that it must have been at least a size of an aurochs! We don't pay for fake relics!
-mno_choice_15_2n|Questa è un'offerta molto buona, davvero, ma purtroppo non abbiamo molti soldi nelle nostre casse.
-mno_choice_15_3n|Non possiamo lasciarci sfuggire questa occasione! Acquista la reliquia per 500 monete.
+; menu_event_15_juicio|One day, your servant arrives at your court, he seems very enthusiastic! 'My lord, I have splendid news! There is a hermit from The Red Mountains in the nearby village now, and he is willing to give us a piece of blessed Baelors hair! I cannot believe that our lands has the opportunity to gain such a famous relic!'
+; mno_choice_15_1n|Baelors hair is everywhere! I have no need for fake relics!
+; mno_choice_15_2n|Our lands shall be blessed indeed.
 ; menu_event_16_juicio|You were having a feast with your companions when a messenger from the guild masters came before you. 'My liege, there is a situation developing in the town and we need your council.' You stepped outside, but took your mighty weapon with you.^^There is a great deal of rumble among the crowd, but when you appear, silence falls over the audience. An ancient man bows to you and ask permission to speak, which you give, and  he says: 'My liege, here is a case worthy of your wisdom. There are two women who claim to be the mother of this child.^You say to the crowd 'Let their faces be known'. Two women show up, one in plain clothes and another in rags. You say 'If neither agree, the child will be cut in half' You direct your guards to cut the child in half and give one half to each of the women.Then the woman in rags scream and says 'No please my great king, let the other women have the child. You stare at her and say: 'Your are the rightful mother and this child belongs to you'. The woman in rags fall down sobbing with joy, and when your men ask you what to do with the other claimaint, you tell them:
 mno_choice_16_1n|Imprigionala nei sotterranei più bui.
 ; mno_choice_16_2n|Hang her.
@@ -931,11 +995,7 @@ mno_choice_09_1|Libera l'animale.
 mno_choice_09_2|Stringi il laccio e uccidi la lepre!
 mno_choice_09_3|Ignoralo.
 menu_event_10|Viaggi attraverso il bosco e improvvisamente trovate un contadino legato ad un albero, probabilmente da un bandito. Cosa fai?
-mno_choice_10_1|Libera il contadino.
-mno_choice_10_2|Ignoralo.
-mno_choice_10_3|Uccidi il contadino.
 menu_law_event_1|Hai deciso di mettere ordine nei tuoi possedimenti, introducendo una nuova legge. Dopo aver consultato i tuoi cortigiani, decidi di...
-mno_choice_10_4|Fuorilegge la servitù.
 mno_choice_10_5|Eresia fuorilegge.
 mno_choice_10_6|Non fare nulla.
 menu_law_event_2|Hai deciso di mettere ordine nei tuoi possedimenti, introducendo una nuova legge. Dopo aver consultato i tuoi cortigiani, decidi di...
@@ -988,6 +1048,12 @@ menu_desert_event_2|State camminando lungo un fiume prosciugato, quando vedete u
 ; menu_food_event_18|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
 ; menu_food_event_19|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
 ; menu_food_event_20|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
+; menu_coronation_event_1|As the newly enthroned ruler of a sovereign realm, many men and women come seeking your favour. Goldsmiths, master armorers and all other sorts of craftsmen flock to your court, and you're soon overwhelmed with requests for work or lucrative contracts. The goldsmiths, and armorers in particular, are persistent in their praise of your rule, and how you should have a crown suitable for your noble head. You decide to...
+; mno_choice_1_3|Request a cheap crowned helmet. (2500 coins)
+; mno_choice_1_4|Ignore the smiths.
+; menu_coronation_event_2|As the goldsmiths and armorers leave your court to return to their work, you notice one man loitering in a corner. When everyone has left, he introduces himself to you as Racallio of Qohor, a renowned armorer. He offers to forge you a magnificent tourney helmet, suitable for a champion such as yourself. You decide to...
+; mno_choice_1_5|Ignore the armorer.
+; menu_coronation_event_3|To cement your rule, you've decided to get the blessing of the gods. The coronation ceremony will be a grand affair, and announce to all the world your benevolence and right to rule. You decide to...
 ; menu_feast_event_1|You're in the mood for something special today. Perhaps a minor feast. Talking to one of your courtiers, you settle on hosting a feast for your retinue and decide to...
 ; menu_feast_event_2|You're in the mood for something special today. Perhaps a minor feast. Talking to one of your courtiers, you settle on hosting a feast for your retinue and decide to...
 ; menu_feast_event_3|You're in the mood for something special today. Perhaps a minor feast. Talking to one of your courtiers, you settle on hosting a feast for your retinue and decide to...
@@ -1016,10 +1082,14 @@ menu_desert_event_2|State camminando lungo un fiume prosciugato, quando vedete u
 ; menu_stormlands_event_6|The storms are gaining strenght! The Stormlands are widely known for the savage storms beating against the cliffs of Shipbreaker's Bay, making sea travel a hazardous endeavor at best.To appease the storms, the septons of the Stormlands often hold special prayer days, invocating the Father to ease the passage of the winds. The Stormlanders calls these days 'Ember Days', as the septons fires are often snuffed out by the storms.
 ; menu_stormlands_event_7|The Stormlands are well known for their massive warhorses. As you sit down to rest on a fallen log, you notice a merchant travelling towards you. He offers to sell you one of the famous destriers, for the standard price of 5000 coins.
 ; menu_stormlands_event_8|The Stormlands are well known for their finely crafted war hammers. As you sit down to rest on a large, smooth, stone, you notice a lonely knight travelling towards you. He offers to sell you one of his own war hammers for the reasonable price of 3000 coins.
+; menu_stormlands_event_9|When Argilac the Arrogant, last of the Storm Kings and last of the male line of House Durrandon, was slain in combat by Orys Baratheon, the guards of Storm's End delivered his maiden daughter, Argella to Orys, bound in chains and naked. Orys took pity on the princess, and covered her in his own cloak, taking her as his bride. He decreed that the guards should be punished for eternity, locking them in cages overlooking Shipbreaker's Bay, there to stand eternal vigil for House Baratheon, loyal until they where nothing but bone. The tradition has endured, and each year thieves, murders and rapists are locked in cages and hung from the rocks protruding over the bay.
+; menu_stormlands_event_10|A kinslayer has been caught! The man set fire to the house where his father and mother slept soundly, but the villagers caught him, and have decided on an unusual punishment. He is to be sewn into a burlap sack along with a large amount of hungry rats, then hung from a tree. There he will hang until the rats have eaten him and the Stranger has claimed him. A local maester informs you that the method of punishment is not new, and that the records of one of the Storm Kings, Arrec Durrandon, reign show that he was fond of sewing ironborn into sacks and filling them with hungry vermin. According to legend, the ironborn treated him the same way then he was caught in a battle by the God's Eye, but not before they'd taken his eyes and his tongue.
 ; menu_north_event_1|Winter is coming! The summer snows are getting stronger, and autumn is approaching. Now is the time to start buying supplies, and getting ready for winter. How much do you wish to spend on grain this month?
 ; menu_north_event_2|The seasons pass, and the day has come again. It's the Feast of the Raven, during which those who worship the Old Gods all gather around the weirwoods and light great fires.Later, there'll be a feast, during which old grizzled warriors compete against each other in wrestling matches, with the winner being given a weirwood crown, and usually a bag of silver.
-; menu_north_event_3|The seasons pass, and the day has come again. It's the Feast of the Watch, during which every man, woman and child in the north celebrate the Night's Watch by dressing all in black.Later, there'll be a feast, during which old grizzled warriors tells tales of Raymund Redbeard, Joramun and the brothers Gendel and Gorne, usually followed by songs and plenty of ale.
+; menu_north_event_3|The seasons pass, and the day has come again. It's the Feast of the Watch, during which every man, woman and child in the north celebrate the Night's Watch by dressing all in black.Later, there'll be a feast, during which old grizzled warriors tells tales of Raymund Redbeard, Joramun and the brothers Gendel and Gorne, usually followed by songs and plenty of ale, wine and mead.
 ; menu_north_event_4|'May your winters be short and your summers bountiful' says an old beggar you meet on the road.Recognizing the usual greeting extended to people from the far north, you reward the beggar with...
+; menu_north_event_5|Coming across a small village, you notice a large weirwood in the village center. Sauntering over, you notice entrails hanging from the bone-white branches, the blood fresh and dripping. An old man, obviously the most prosperous in the village by the looks of his clothes, offers to tell you why entrails are hanging from the tree. It seems to be an old tradition, dating back to when pirates would sail up the White Knife and take the northmen slaves, and be allowed to do so because of the old age and infirmity of King Edrick Stark, the one they called Snowbeard. But one winter, when the cold wind came howling down from the Wall and the pirates and slavers huddled around their hovels and fires at the mouth of the White Knife, the new King in the North, Brandon Stark, called Ice-Eyes, came down upon them with fire and sword. He freed the slaves, and gave over the slavers to their care. The freed northmen gutted the slavers and pirates, and hung their entrails from a weirwood. According to the old man, tradition has it that the village was founded by one of the freed slaves, and each year they celebrate by hanging pig intestines from their own weirwood.
+; menu_north_event_6|The harvest is in, and all across the North, and the Trident, nobles and ladies gather to celebrate by holding a feast. The harvest feast is an annual chance to visit distant relatives, scheme with other lords, court young maidens, dance a merry jig, gorge yourself on fine food and drink yourself into oblivion. You decide to...
 ; menu_vale_event_1|The seasons pass, and the day has come again. It's The Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men.
 ; menu_vale_event_2|The seasons pass, and the day has come again. It's The Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
 ; menu_vale_event_3|The seasons pass, and the day has come again. It's The Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
@@ -1058,7 +1128,7 @@ menu_reach_event_5|Le stagioni passano, e il giorno è giunto di nuovo. E' la fe
 menu_ironborn_event_1|'Ciò che è morto non muoia mai' urlano gli uomini della nave, mentre attraversate le onde. Il Dio Abissale protegge gli uomini delle Isole di Ferro, e questo viaggio attraverso il suo dominio darà sicuramente un risultato favorevole.
 menu_ironborn_event_2|'Ciò che è morto non muoia mai' urlano gli uomini dalla nave, mentre navigate tra le onde. Un giovane è spinto in acqua, e quando gli uomini della nave lo issano a bordo, la sua pelle appare fredda e i suoi polmoni sono pieni d'acqua. Ma quando egli riapre i suoi occhi, tossisce l'oceano intero. Il ragazzo è annegato due volte, sicuramente egli ha il favore del Dio Abissale.
 menu_ironborn_event_3|Le tempeste si stanno unendo! il Dio della Tempesta sta combattendo il Dio Abissale, e le onde sono in agitazione. Ora è tempo di pregare, che il Dio Abissale sollevi la sua enorme mano per proteggervi dalla tempesta.
-menu_ironborn_event_4|Le tempeste si stanno unendo, e le onde sono enormi. 'Io vorrò ancora queste acque con il mio stesso sangue!' dice un vecchio predatore che fa parte della ciurma. Raccogliendo un'ascia, si stacca un dito e lo getta nelle acque, come offerta al Dio Abissale. Decidi di premiare l'uomo con...
+; menu_ironborn_event_4|The storms are picking up, and the waves are huge. 'I will still these waters with mine own blood!' says an old reaper who is part of the crew.Picking up an axe, he hacks of a finger and throws it into the waters, as an offering to the Drowned God. You decide to reward the man with...
 menu_negative_event_1|Inciampate e vi fa male il ginocchio. Il dolore è insopportabile. Cosa fai?
 menu_negative_event_2|Inciampate e vi ferite la mano. Dopo qualche ora, inizia a diventare blu. Cosa fai?
 menu_negative_event_3|Un ramo si spezza e cade dall'albero, colpendoti sulla testa. All'inizio ti senti bene, ma in seguito la tua vista diventa sfocata, e hai problemi nel concentrarti. Cosa fai?
@@ -1129,8 +1199,8 @@ mno_choice_21_2|Riportateli al propietario.
 ; menu_event_22|You come upon bandits ambushing some merchants.
 ; mno_choice_22_1|Chase the bandits away.
 mno_choice_22_2|Aiuta i banditi.
-menu_event_23|La vostra fama e popolarità ha attirato giovani nobili alla vostra causa.
-mno_choice_23_1|Accettali.
+; menu_event_23|Your fame and popularity has attracted a young nobleman, who wish to join your retinue.
+; mno_choice_23_1|Let him join.
 mno_choice_23_2|Non ho bisogno di altri uomini.
 menu_event_24|Individui un pover uomo sulla strada. Egli appare stanco. Invii uno dei tuoi uomini per chiedergli perchè è in questa zona sperduta da solo. Egli risponde che dei fuorilegge lo hanno derubato e se non si procurerà dei soldi per comprare del cibo, morirà di fame. Egli afferma che ha servito l'esercito una volta, e sarà un guerriero leale.
 mno_choice_24_1|La vita è ingiusta, non dargli nulla.
@@ -1219,6 +1289,38 @@ menu_event_42|Una delle tue nuove reclute è morta per una malattia. Egli porta 
 ; mno_choice_42_1|Burn him and donate 1000 coins to the Temple of the Lord of Light.
 ; mno_choice_42_2|Bury him and donate 1000 coins to the Starry Sept.
 mno_choice_42_3|Lascialo semplicemente giacere lì.
+; menu_recruit_sellswords_braavos|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
+; mno_choice_1_6|Recruit 1 Westerosi Lance (7500 coins).
+; mno_choice_1_7|Recruit 1 Essosi Lance (6000 coins).
+; mno_choice_1_8|Recruit 1 Essosi Lance (6000 coins).
+; mno_choice_1_9|Recruit 1 Essosi Lance (6000 coins).
+; mno_choice_1_10|Recruit 1 Essosi Lance (6000 coins).
+; menu_recruit_sellswords_lorath|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
+; menu_recruit_sellswords_pentos|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
+; menu_recruit_sellswords_norvos|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
+; menu_recruit_sellswords_qohor|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
+; menu_recruit_sellswords_myr|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
+; menu_recruit_sellswords_tyrosh|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
+; menu_recruit_sellswords_lys|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
+; menu_recruit_sellswords_volantis|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
+; menu_recruit_white_harbor|Fishfood Yard is a cobbled square in the center of White Harbor. The yard is dominated by a large statue of a merman, called Old Fishfoot. In the alleys and in the market stalls, merchants sell fried cod, crab stews, pork pies and baked apples, coated with sugar and cinnamon. A brothel lies close to Old Fishfoot, and is often visited by the prosperous people of the city. The Castle Stair, a steep street illuminated by whale oil lamps leads from the Wolf's Den down to Fishfoot Yard, and here sellswords, knights and freeriders gather, looking for a liege, or atleast someone willing to take on their services for a fair price. A burly young knight introduces himself to you, offering the services of himself, and his own retinue of nine knights.
+; menu_recruit_barrowton|Roddy's Street lies close to the eastern gate, where the road leads toward Goldgrass, the keep and seat of House Stout. The street is named after Lord Roderick Dustin, also known as Roddy the Ruin, who led the northern forces during the Targaryen civil war known as the Dance of the Dragons. Armorers, merchants and inns lie along the street, and sellswords from the Rills, the region west of Barrowton, are lined up against the shops. A rough-looking young man approaches you. Him and the nineteen lancers sworn to his service are looking for employment, and inquire whether you'd like to take them on.
+; menu_recruit_deepwood_motte|East and west of Deepwood Motte lies fields where the smallfolk grow oats and barley. Close to the castle lies a sheepfold where members of the northern mountain clans come to sell their sheeps, salted fish, dried nuts and seal furs. They're often accompanied by clan champions, big men wielding great two-handed swords, and always looking for a fight. A small caravan of fur merchants has recently arrived, and their guards are looking for further service. The leader of the men offers to join your service if you'll take on his four men as well.
+; menu_recruit_raventree_hall|The godswood of Raventree Hall contains a dead, ancient and colossal weirwood, where ravens roost in great numbers every night. An arrow is stuck in the weirwood, shot by the same Billy Burley who slew the dragon Tessarion on the orders of Benjicot Blackwood. Archers from the surrounding villages often train in the courtyard, and hire themselves out as sellswords. A young, lean-looking, man approach you, offering to enter your service if you'll take on his four brothers as well.
+; menu_recruit_stone_hedge|The village surrounding Stone Hedge is teeming with life, and contains a great market where the prized stallions of House Bracken are sold, traded and trained. Many knights make their home in the village, often showcasing their prowess to prospective horse buyers, and selling their swords to the highest bidder. Five knights offer to join your service, if you'll have them.
+; menu_recruit_crossing|The Freys of the Crossing have grown wealthy on the tolls they extract from travellers seeking to cross the Green Fork. The toll house is a large timbered building, where the servants stock the tools and supplies of the soldiers who train beneath the walls of the eastern castle, and where the toll collecters make their home. The Freys are a powerful house, and attrack many adventurers and sellswords, many of whom are willing to sell their sword to the highest bidder. Outside the toll house, a mean-looking man-at-arms offers his own, and his four sworn brothers, sword, if you'll have them.
+; menu_recruit_sarsfield|The Clinking Coin Inn is one of the most prosperous inns lying beside the River Road, which runs from Casterly Rock to the Inn at the Crossroads where it meets the Kingsroad. Members of House Sarsfield have been known to visit from time to time, as the whores are excellent, and the food better. The famed mounted archers of the surrounding lands can often be found enjoying the thick dark ale the innkeeper brews, and are always looking for someone to take them on as sellswords. Chatting with the innkeeper, you learn that a young knight is looking for a new master, along with his own retinue of four mounted archers.
+; menu_recruit_banefort|The Woods surrounding Banefort are known to be haunted by the Hooded Man, the founder of House Banefort, and all his descendants, chief amongst them Morgon Banefort, whom people called 'The Necromancer'. The men inhabiting the woods carry greatswords, to protect them against the wights, and the ironborn, who often raid the shores. With the increased ironborn activity along the shores, only five men offer to join your service.
+; menu_recruit_casterly_rock|The Barracks form an entire sub-section of Casterly Rock, housing the garrison and household guard of House Lannister. Great sections are given over to storage rooms, filled with arms and armor. Men-at-arms fill the common area, many looking for hire. The Lannisters are not fond of soldiers leaving their service, but a man-at-arms leans close to you, telling you that he and his five friends will join you if you'll have them.
+; menu_recruit_lannisport|Lannisport is one of the great cities of Westeros, being smaller than King's Landing and Oldtown, but much larger than Gull Town and White Harbor. It's one of the main ports on the western side of the continent, and is well-known for the beautiful goldwork being wrought in the many smithies of the city. The harbor is bustling with activity, ships coming from all over Westeros and Essos to trade their furs, spices, wine and olive oil for gold and jewelry. The harbor is also home to a multitude of sellswords, many whom take service with House Lannister and the other westerland lords, but who will fight for the highest bidder. A lean serjeant with a scarred face informs you that him and his fourteen companions will join your service, if the price is right.
+; menu_recruit_runestone|Runestone is the seat of chivalry in the Vale, and the Royces have a long tradition of holding tourneys, and winning them. The tourney grounds at Runestone is often occupied by knights and squires competing against each other, training with sword, mace and lance, and trying to catch the eye of a lord, so that he may take on their services. A young squire offer to join your service, if you'll take his five friends as well.
+; menu_recruit_longbow_hall|The Hunters Gate is a great gate leading towards the mountain range west of Longbow Hall. The gate is sculpted with scenes of huntsmen, stags, boars, wolves and bears. Sellsword archers from the surrounding lands often gather around the gate, hoping to find hire with one of the knights or lords passing through Longbow Hall. A tall man approach you, offering to join your retinue with his seven sons.
+; menu_recruit_nightsong|The marcher lords have a strong martial tradition, defending the Stormlands against dornish incursions for a thousand years. The Marching Field is where the Storm Kings of old, and later the Lord of Storm's End, would muster their forces when descending on either the dornish or the men of the Reach. House Caron, the Lords of the Marches, traditionally train their longbowmen on the field, and these men often sell their services. As you approach the field, you notice a mass of archers training with their bows, and they soon swarm around you, offering their services. Twenty men are available for hire right away, shouts what is obviously the leader of the bunch.
+; menu_recruit_stonehelm|The Ten Bells is an inn outside Stonehelm, named for the great tower next to it, where the Swanns would ring their bells in the time when dornish incursions where common. The inn contains a large common hall, and several smaller rooms, furnished with myrish carpets and large featherbeds. Knights and squires often stay at the inn, on their way to or from The Weeping Tower, and they often sell their sword. The innkeeper informs you that an old knight is currently lodging at the inn, along with his own band of ten knights, and that they're currently looking for hire.
+; menu_recruit_oldtown|The Thieves' Market is the largest market in Oldtown. Despite the name, the merchants populating the market have a good reputation, all of them peddling high quality goods. The merchants sell spices, olives, wines from the Arbor, finely crafted woodharps, and all the fruits under the sun, along with imported goods from Essos. The market also contains a large fountain where hedge knights congregate, looking for a master. Their armor is well-crafted, and many scoof as they see you. A young knight, however, approach you, offering the services of himself and his five men.
+; menu_recruit_arbor|The isle of the Arbor is surrounded by several smaller islands, Stonecrab Cay amongst them, all excellent sites for shipbuilding and trade. The towns of Ryamsport, Vinetown and Starfish Harbor all produce a surplus of young men who take hire on ships as sailors, but who will join an armed force if the pay is good. Poorly armed, they're excellent at close quarters combat, owing to their experience fighting pirates. The master of the harbor informs you that twenty sailors are currently looking for hire.
+; menu_recruit_skyreach|The Fowlers of Skyreach are the most prominent of the houses guarding the Prince's Pass, and the Hawk Gate faces directly towards the path that leads from both the Stormlands and the Reach into Dorne. During the years, Skyreach has withstood many a siege, and the Hawk Gate is decorated with the weapons of the fallen men who have tried to take the castle, all broken and hammered to the gate itself. The smallfolk living in the Prince's Pass often harass enemies descending on Dorne, and in times of peace sell themselves as caravan guards and skirmishers. Outside the walls of Skyreach, a small camp has been set up around a large rock, and one of the children jumping on, and teasing, a large snake informs you that five men are looking for hire.
+; menu_recruit_driftmark|The town of Spicetown was once home to a thriving market and the principal town of the isle of Driftmark. But during the Dance of the Dragons the town was sacked by a fleet from the Kingdom of the Three Daughters, its people butchered and its buildings burned, and it was never rebuilt. However, the ruins provide shelter against the storms blowing across Blackwater Bay, and is often used as a shelter for ships. They also provide a place for the levies of House Velaryon, and sellswords from across the Narrow Sea, to train and live in while they wait to be shipped out, and many of the men camping there will sell their sword to the highest bidder. As you approach the ruins, an older man with indigo eyes, and shoulder length silver hair, offer to join your retinue along with his ten companions.
 menu_recruit_nobles|{s18}
 menu_world_map_soldier|Che cosa dovete fare soldato?
 mno_join_commander_battle|Segui il comandante in battaglia.
