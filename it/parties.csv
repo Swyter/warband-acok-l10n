@@ -26,7 +26,7 @@ p_town_38|Lorath
 p_town_40|Lys
 p_town_41|Città delle Tombe
 p_town_42|Tumbleton
-p_town_44|Navar
+p_town_44|Qohor
 p_town_45|Myr
 p_town_46|Tyrosh
 p_town_47|Volantis
@@ -72,7 +72,6 @@ p_castle_34|Nido dell' Aquila
 p_castle_35|Longbow Hall
 p_castle_36|Vecchia Ancora
 p_castle_37|Torri Gemelle
-p_castle_38|Atranta
 p_castle_39|Sala delle Ghiande
 p_castle_40|Blackhaven
 p_castle_41|Bosco dei Limoni
@@ -92,7 +91,6 @@ p_castle_54|Sarsfield
 p_castle_55|Collina del Corno
 p_castle_56|Deep Den
 p_castle_57|Campo di Grano
-p_castle_58|Riposo delle Rocce
 p_castle_59|Isola della Chela
 p_castle_60|Tre Torri
 p_castle_61|Uplands
@@ -100,7 +98,7 @@ p_castle_63|Bandallon
 p_castle_64|Vecchia Quercia
 p_castle_65|Golden Grove
 p_castle_66|Sala dei Cedri
-p_castle_67|Valle dell' Erba
+; p_castle_67|Grassfield Keep
 p_castle_68|Lungotavolo
 p_castle_69|Casa del Sole
 p_castle_70|Ponteamaro
@@ -108,11 +106,11 @@ p_castle_71|Horn Hill
 p_castle_72|Arbor
 p_castle_73|Dieci Torri
 p_castle_74|Rovine di Iksa Naron
-p_castle_75|Nadinas
-p_castle_76|Rigwa
-p_castle_77|Sharat
-p_castle_78|Nya Dare
-p_castle_79|Nudho
+p_castle_75|Ultimo Rifugio
+; p_castle_76|Torturer's Deep
+; p_castle_77|Fist of the Daughters
+p_castle_78|Corno dei Sette
+; p_castle_79|Daggerstop
 p_castle_80|Skyreach
 p_castle_82|Rovine di Iksa Calo
 p_castle_83|Posatoio del Grifone
@@ -123,36 +121,27 @@ p_castle_87|Sala d' Argento
 p_castle_88|Hornwood
 p_castle_89|Raventree Hall
 p_castle_90|Belcastello
-p_castle_91|Pebbleton
+; p_castle_91|Pebbleton Tower
 p_castle_92|Fuochi di Festa
 p_castle_93|Alto Eremo
-p_castle_94|Wyndhall
 p_castle_95|Hammerhorn
 p_castle_96|Grey Garden
-p_castle_97|Starpike
-p_castle_98|Darkdell
 p_castle_99|Wyl
 p_castle_100|Riposo del Viandante
-p_castle_101|Rovine di Castamere
 p_castle_104|Iron Holt
 p_castle_105|Fortezza di Acquachiara
 p_castle_106|Casa del Cuore
-p_castle_107|Rovine di Sar Mell
+p_castle_107|Rovine di Sae Mell
 p_castle_108|Longsister
 p_castle_109|Littlesister
 p_castle_110|Darry
 p_castle_111|Scudo di Quercia
-p_castle_112|Limaosy
-; p_castle_113|Ninestars
-p_castle_115|Castello di Redwater
-p_castle_119|Blacktyde
-p_castle_120|Sala di Nagga
-; p_castle_122|Seaward Hall
-p_castle_123|Broad Arch
-p_castle_125|Fortezza dei Clegane
-; p_castle_126|Greenmore
+p_castle_112|Scogliere Grigie
+p_castle_115|Lago Rosso
+; p_castle_119|Blacktyde Castle
+; p_castle_120|Wyk Hall
 p_castle_127|Riverrun
-p_castle_128|Saria
+; p_castle_128|Den of Skulls
 p_castle_129|Grande Inverno
 p_castle_130|Capo Tempesta
 p_castle_131|Piazza di Torrhen
@@ -160,7 +149,7 @@ p_castle_132|Stonehelm
 p_castle_133|Alto Giardino
 p_castle_134|Hellholt
 p_castle_135|Stelle al Tramonto
-p_castle_136|Zanna Dorata
+; p_castle_136|The Golden Tooth
 ; p_castle_137|High Tide
 p_castle_138|Isola dell' Orso
 p_castle_139|Stokeworth
@@ -175,44 +164,44 @@ p_village_3|Collo del Drago
 ; p_village_9|Winter Market
 ; p_village_10|The Locke
 p_village_11|Villaggio Innevato
-p_village_12|Coltello Bianco
+; p_village_12|Woolfield
 ; p_village_13|Pike Market
-p_village_14|Acorn Water
-; p_village_15|Summer's End
+; p_village_14|Crofter's Village
+; p_village_15|Overton
 p_village_16|Posatoio del Corvo
 p_village_17|Albero Sentinella
 p_village_18|Baia Infuocata
-p_village_19|Lancia di Sale
-; p_village_20|Stone Village
+; p_village_19|Goldgrass
+; p_village_20|Forrester Hall
 p_village_21|Capo della Piovra
-; p_village_22|Queen's Stop
+; p_village_22|Whitehill
 p_village_23|Settecorrenti
-; p_village_24|The Red Rock
+; p_village_24|Hag's Mire
 p_village_25|Calwick
 ; p_village_26|The High Fall
-; p_village_27|Ashtree
+; p_village_27|Sallydance
 p_village_28|Alto Cuore
-; p_village_29|Bessbrook
-; p_village_30|Whitecliff
-p_village_31|Ulao
-; p_village_32|Hembistan
-; p_village_33|Mason's Hall
+; p_village_29|Mousedown Mill
+; p_village_30|Ramsford
+; p_village_31|Elk Wood
+; p_village_32|The Marsh
+; p_village_33|Gull Tower
 ; p_village_34|The Crab's Nest
-; p_village_35|The Smooth Shore
+; p_village_35|Grey Glen
 ; p_village_36|The Falcon's Roost
 ; p_village_37|Firemark
 p_village_38|Pebble
 ; p_village_39|Sparrow's Refuge
 ; p_village_40|Monton
 ; p_village_41|Valetown
-; p_village_42|Grass Hill
+p_village_42|Newkeep
 ; p_village_43|Fingermarket
 ; p_village_44|Vulture Bay
 ; p_village_45|Driftwood
-; p_village_46|Kingsport
-; p_village_47|Summerpond
-; p_village_48|Woodsway
-; p_village_49|Blackfall
+p_village_46|Uncino di Massey
+p_village_47|Summerpond
+p_village_48|Woodsway
+; p_village_49|Poddingfield
 ; p_village_50|Bellholt
 ; p_village_51|Brightmead
 ; p_village_52|Sapphire Bay 
@@ -225,137 +214,137 @@ p_village_38|Pebble
 ; p_village_59|Woolcove
 ; p_village_60|Dovedale
 ; p_village_61|Greencrest
-; p_village_62|Pebble Village
+; p_village_62|Spottswood
 ; p_village_63|King's Folly
 ; p_village_64|Redcliff
 ; p_village_65|Red Dunes
-; p_village_66|Pen Beach
+; p_village_66|Shandystone
 ; p_village_67|Seamarket
-; p_village_68|Sakan
-; p_village_69|Seamouth
+; p_village_68|Flat Town
+; p_village_69|Ryamsport
 ; p_village_70|Fellrun
 ; p_village_71|Sandmere
 ; p_village_72|Seafair
-; p_village_73|Blackmoor
-; p_village_74|Breemount
+; p_village_73|Smithyton
+; p_village_74|Falwell
 ; p_village_75|Briarwhite
 ; p_village_76|Ironman's Bay
 ; p_village_77|Kelp Beach
 ; p_village_78|High Pass
-; p_village_79|Silvercrest
-; p_village_80|Woodrock
+; p_village_79|Chelsted
+; p_village_80|Rollingford
 ; p_village_81|Elmkirk
-; p_village_82|Fool's Mire
+; p_village_82|Rushing Falls
 ; p_village_83|Bronzewood
 ; p_village_84|The Golden Pass
 ; p_village_85|Oxcross
 ; p_village_86|Rosemere
 ; p_village_87|Blackbridge
-; p_village_88|Cliffton
-; p_village_89|Clam Hall
+; p_village_88|Langward
+; p_village_89|Lord Harroway's Town
 ; p_village_90|Gull Point
-; p_village_91|Red Lake
-; p_village_92|Westcroft
-; p_village_93|Stoneyford
+; p_village_91|Roosterton
+; p_village_92|Peckledon
+; p_village_93|Crossed Elms
 ; p_village_94|The Silver Pass
 ; p_village_95|Mormarsh
 ; p_village_96|Charnhall
 ; p_village_97|The Golden Peak
 ; p_village_98|Heart's Hill
 ; p_village_99|Grapegrove
-; p_village_100|Tulip Field
-; p_village_101|Redwyne Bay
-; p_village_102|Honeywine
-; p_village_103|Knightsbourne
-; p_village_104|Aemon's Lot
+; p_village_100|Cobble Cover
+; p_village_101|Ivy Hall
+p_village_102|Vino di Miele
+; p_village_103|Hammerhal
+; p_village_104|Donnelwood
 ; p_village_105|The Sunset Harbor
-; p_village_106|Honeyholt
+p_village_106|Arma del Miele
 ; p_village_107|Lowland Hall
-; p_village_108|Fallmoth
+; p_village_108|Dosk
 ; p_village_109|Manderford
 ; p_village_110|Cockleswent
 ; p_village_111|Beechberry
-; p_village_112|Ravendale
+p_village_112|Sala dell' Avvoltoio
 ; p_village_113|Oxhurst
-; p_village_114|Grassfirth
+; p_village_114|Appleton
 ; p_village_115|Charcoal Hill
 ; p_village_116|Nagga's Craddle
-; p_village_117|Hoarestead
+; p_village_117|Sealskin Point
 ; p_village_118|Saltcliffe
-; p_village_119|Harlaw
+; p_village_119|Harlaw Hall
 ; p_village_120|Orkmont
-; p_village_121|Saltward
-; p_village_122|Pikeleigh
-; p_village_123|Qringontan
-; p_village_124|The Snake Path
-; p_village_125|Biarvi
-; p_village_126|Tihikhziri
-; p_village_127|Elos Ziso
+; p_village_121|Downdelving
+; p_village_122|Tower of Glimmering
+; p_village_123|The Forest of Pennies
+p_village_124|Sentiero del Serpente
+; p_village_125|Brown Cliffs
+; p_village_126|Bay of Pentos
+; p_village_127|Slaver's End
 ; p_village_128|High Hall
-; p_village_129|Drejikydho
-; p_village_130|Jorraeliarzus
-; p_village_131|Atjakhar
-; p_village_132|Memebatas
-; p_village_133|Aeksio
-; p_village_134|Botilza
-; p_village_135|Ji Qlony
-; p_village_136|Marshmark
-; p_village_137|Ivestras
-; p_village_138|Sytilibus
-; p_village_139|Skorion Massitas
-; p_village_140|Qelbria
-; p_village_141|The Boneway
+; p_village_129|Upper Rhoyne
+; p_village_130|White Cliffs
+; p_village_131|Lower Noyne
+; p_village_132|Spice Yard
+; p_village_133|Limetree
+; p_village_134|The Amber Stream
+; p_village_135|Wreckstone
+; p_village_136|Chyttering
+; p_village_137|Darkwash
+; p_village_138|The Bleeding Tower
+; p_village_139|Lavender Shore
+; p_village_140|Bay of Myrth
+; p_village_141|Holyhall
 ; p_village_142|Quarry Hill
-; p_village_143|Hanoth
-; p_village_144|Riddan
-; p_village_145|Derve
-; p_village_146|Shekhqoyi
-; p_village_147|Broza
-; p_village_148|Valshe
-; p_village_149|Qana
-; p_village_150|Kesir Gimi
-; p_village_151|Manaeran
-; p_village_152|Issi
-; p_village_153|Ogat
-; p_village_154|Yanqolat
+; p_village_143|Pine Hill
+; p_village_144|Iron Hill
+; p_village_145|Deep Coast
+; p_village_146|Hugor's Hall
+; p_village_147|Lake of Avarice
+; p_village_148|Oil Yard
+; p_village_149|Brick Market
+; p_village_150|Lady's Lace
+; p_village_151|Velvet Market
+; p_village_152|Vale of Narrah
+; p_village_153|Bronze Market
+; p_village_154|Little Rhoyne
 ; p_village_155|Baelors Feet
-; p_village_156|Loktys
+; p_village_156|Obsidian Harbor
 ; p_village_157|Estermont
-; p_village_158|Sovetes
-; p_village_159|Shipbreaker Bay
-; p_village_160|Dunport
-; p_village_161|Boarwood
-; p_village_162|Aemon's Field
+; p_village_158|Ivory Market
+; p_village_159|Amberly
+; p_village_160|The Whispers
+; p_village_161|Brandybottom
+; p_village_162|Sherrer
 ; p_village_163|Hull
-; p_village_164|Brindlewood
-; p_village_165|Azantyr
-; p_village_166|Ivestrilatas
-; p_village_167|Ji Rigle
-; p_village_168|Konir Sema
+; p_village_164|Sludgy Pond
+; p_village_165|Little Rock
+; p_village_166|Marshdown
+; p_village_167|Hollow Ring
+; p_village_168|Honeyfinger
 ; p_village_169|Dune Port
-; p_village_170|Longsister
-; p_village_171|Thirolat
-; p_village_172|Oen
-; p_village_173|Kerma
-; p_village_174|Chetira
-; p_village_175|Manin
-; p_village_176|Vali
-; p_village_177|Menti
-; p_village_178|Daero Valoti
-; p_village_179|Rudhy
-; p_village_180|Odrikatas
-; p_village_181|Ossenatas
-; p_village_182|Zer Sena
+; p_village_170|Sweetsister
+; p_village_171|Utheros' Maze
+; p_village_172|Grape Lake
+; p_village_173|Shivering Sea
+; p_village_174|The Velvet Hills
+; p_village_175|Upper Noyne
+; p_village_176|Erregs Hall
+; p_village_177|The Orange Shore
+; p_village_178|Cedarwood
+; p_village_179|The Shy Daughter
+; p_village_180|Ruins of Sarhoy
+; p_village_181|Orange Cliffs
+; p_village_182|Pinchfire
 ; p_village_183|Spicehall
-; p_village_184|Noyane
-; p_village_185|Addothralat
-; p_village_186|Ovrakh
-; p_village_187|Chomokh
-; p_village_188|Iderebzi
-; p_village_189|Anyrota
-; p_village_190|Aeske
-; p_village_191|Aohoso
-; p_village_192|Jomozu
+; p_village_184|Spice Tree
+; p_village_185|Nyel's Mountain
+; p_village_186|Hills of Noom
+; p_village_187|Bears Den
+; p_village_188|Gallows Rock
+; p_village_189|Turtle Hill
+; p_village_190|Deep Marsh
+; p_village_191|The Silver Stream
+; p_village_192|White Cherry Town
 ; p_village_193|Cod Town
 ; p_village_194|Timberton
 ; p_village_195|Plowman's Hill
@@ -363,9 +352,9 @@ p_village_38|Pebble
 ; p_village_197|Greenberry
 ; p_village_198|Crackclaw Point
 ; p_village_199|Sealbay
-; p_village_200|Leadton
-; p_village_201|Bayvale
-; p_village_202|Butterspell
+; p_village_200|Crow Spike Keep
+; p_village_201|Fieldstone
+; p_village_202|Lambswold
 ; p_village_203|Fogfield
 ; p_village_204|Swinebank
 ; p_village_205|Goldwell
@@ -413,20 +402,29 @@ p_shadow_tower2|Torre delle Ombre
 ; p_dragonstone_village|Fishing Village
 ; p_haldon_bath|Ruined Baths
 ; p_horror_cave|Old Barrow
-; p_golden_company_camp|Camp of the Golden Company
+; p_golden_company_camp|The Golden Company
 ; p_cairn_hall|Cairnhall
 ; p_mole_town|Mole Town
 ; p_bridge_of_skulls|The Gorge
 ; p_wall_tunnel|Tunnel
 ; p_water_gardens|The Water Gardens
 ; p_nightfort|The Nightfort
+; p_ninestars_1|Ninestars
+; p_sellsword_camp_bright_banners|The Bright Banners
+; p_sellsword_camp_iron_shields|The Iron Shields
+; p_sellsword_camp_gallant_men|The Gallant Men
+; p_sellsword_camp_maidens_men|The Maiden's Men
+; p_sellsword_camp_ragged_standard|The Ragged Standard
+; p_sellsword_camp_long_lances|The Long Lances
+; p_sellsword_camp_company_of_the_cat|The Company of the Cat
+; p_sellsword_camp_windblown|The Windblown
 ; p_looter_spawn_point|looter spawnpoint
-; p_steppe_bandit_spawn_point|dothraki spawnpoint
-; p_taiga_bandit_spawn_point|wildling spawnpoint
+; p_steppe_bandit_spawn_point|the steppes
+; p_taiga_bandit_spawn_point|the tundra
 ; p_forest_bandit_spawn_point|the forests
 ; p_mountain_bandit_spawn_point|the highlands
-; p_sea_raider_spawn_point_1|ironborn spawnpoint
-; p_sea_raider_spawn_point_2|ironborn spawnpoint
+; p_sea_raider_spawn_point_1|the coast
+; p_sea_raider_spawn_point_2|the coast
 ; p_ship_raider_spawn_point_1|pirate spawnpoint
 ; p_slaver_bandit_spawn_point|slaver spawnpoint
 ; p_escaped_slaves_spawn_point|escaped slaves spawnpoint
@@ -438,4 +436,4 @@ p_shadow_tower2|Torre delle Ombre
 ; p_elite_wildlings_spawn_point|elite wildlings spawnpoint
 ; p_elite_dothraki_spawn_point|elite dothraki spawnpoint
 p_crannogmen|crannogmen
-; p_desert_bandit_spawn_point|sandoutlaw spawnpoint
+; p_desert_bandit_spawn_point|the deserts

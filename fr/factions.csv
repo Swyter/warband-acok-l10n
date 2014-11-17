@@ -10,7 +10,7 @@ fac_kingdom_1|Terres de l'Orage
 fac_kingdom_2|Nord
 fac_kingdom_3|Val d'Arryn
 fac_kingdom_4|Braavos
-fac_kingdom_5|Conflans
+; fac_kingdom_5|Qohor
 fac_kingdom_6|Dorne
 fac_kingdom_8|Peyredragon
 fac_kingdom_9|Terres de l'Ouest
@@ -27,7 +27,7 @@ fac_kingdom_19|Les Trois Soeurs
 fac_kingdom_20|Maison Targaryen
 fac_kingdom_21|Le Peuple Libre
 fac_kingdom_22|Les Khizra Khalasar
-fac_crannogmen|Crannogneckmen
+; fac_crannogmen|Crannogmen
 fac_beowulf_warband|Les Braves Compagnons
 fac_ramsay_snow|Le Bâtard de Bolton
 fac_bloodborn|Les Renégats du Crossing

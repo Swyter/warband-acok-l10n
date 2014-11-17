@@ -46,13 +46,12 @@ pt_elite_dothraki|Razziatori Dothraki
 pt_beowulf_warband|i Bravi Camerati
 pt_wildfire_wights|Non-Morti
 pt_new_template|Il Bastardo di Bolton
-pt_tattered_prince|La Compagnia del Gatto
 pt_arrians|Il Fuorilegge della Traversata
 pt_bloodstone_pirates|Il principe di Bloodstone
 pt_clansman_quest|Figli della nebbia
 pt_cheese_rustlers|Ladri di grano
 pt_cheese_paladins|Ladri di vino
-pt_scholars|Studiosi
+pt_scholars|Nobili
 pt_bandits_awaiting_ransom2|Banditi in attesa di riscatto
 pt_smugglers|Contrabbandieri
 pt_kidnapped_wife|Sposa di Miller
@@ -117,12 +116,12 @@ pt_mountain_bandit_lair_r|Nascondiglio dei banditi di montagna
 pt_sea_raider_lair_r|Approdo dei razziatori della costa
 pt_looter_lair_r|Nascondiglio dei rapitori
 pt_leaded_looters_r|Banda di razziatori
-pt_steppe_bandit_lair_e|Nascondiglio dei banditi delle steppe
-pt_taiga_bandit_lair_e|Tana dei banditi della tundra
-pt_desert_bandit_lair_e|Covo dei banditi del deserto
+pt_steppe_bandit_lair_e|Rifugio Dothraki
+pt_taiga_bandit_lair_e|Rifugio dei Bruti
+pt_desert_bandit_lair_e|Rifugio dei Fuorilegge
 pt_forest_bandit_lair_e|Campo dei banditi della foresta
 pt_mountain_bandit_lair_e|Nascondiglio dei banditi di montagna
-pt_sea_raider_lair_e|Approdo dei razziatori della costa
+pt_sea_raider_lair_e|Approdo dei Pirati
 pt_looter_lair_e|Nascondiglio dei rapitori
 pt_leaded_looters_e|Banda di razziatori
 pt_dplmc_spouse|La tua coniuge

@@ -49,7 +49,7 @@ skl_horse_archery|Atlı Okçuluk
 skl_riding|Binicilik
 ; skl_riding_desc|Enables you to ride horses of higher difficulty levels and increases your riding speed and manuever. (Personal skill)
 skl_athletics|Atletizm
-; skl_athletics_desc|Improves your running speed. (Personal skill)
+; skl_athletics_desc|Improves your running speed and decreases the chance you'll stumble. (Personal skill)
 skl_shield|Kalkan
 ; skl_shield_desc|Reduces damage to shields (by 8%% per skill level) and improves shield speed and coverage. (Personal skill)
 skl_weapon_master|Silah Ustası
