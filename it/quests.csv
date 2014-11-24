@@ -91,11 +91,11 @@ qst_tyrion_quest|Uditemi ruggire: Parte 1
 qst_tyrion_quest1|Uditemi ruggire: Parte 2
 qst_starting_quest_1_1|Un Nuovo Inizio: Parte 1
 qst_starting_quest_1_2|Un Nuovo Inizio: Parte 2
-; qst_starting_quest_1_3|The Tourney at Ninestars: Part 1
-; qst_starting_quest_1_4|The Tourney at Ninestars: Part 2
-; qst_starting_quest_1_5|The Tourney at Ninestars: Part 3
-; qst_starting_quest_1_6|Trial by Combat: Part 1
-; qst_starting_quest_1_7|Trial by Combat: Part 1
+qst_starting_quest_1_3|Il Torneo a Nove Stelle: Parte 1
+qst_starting_quest_1_4|Il Torneo a Nove Stelle: Parte 2
+qst_starting_quest_1_5|Il Torneo a Nove Stelle: Parte 3
+qst_starting_quest_1_6|Processo per Singolar Tenzone: Parte 1
+qst_starting_quest_1_7|Processo per Singolar Tenzone: Parte 1
 qst_terror_quest_starter|Terrore nel Cairn: Parte 1
 qst_quaithe_quest|Le rovine di Nightfort: Parte 1
 qst_quaithe_quest1|Le rovine di  Nightfort: Parte 2
@@ -149,12 +149,12 @@ qst_clansman_quest3|Bastoni e Pietre: Parte 4
 qst_clansman_quest4|Bastoni e Pietre: Parte 5
 qst_clansman_quest5|Bastoni e Pietre: Parte 6
 qst_clansman_quest6|Bastoni e Pietre: Parte 7
-; qst_varys_quest|A Friend Across the Water: Part 1
-; qst_varys_quest1|A Friend Across the Water: Part 2
-; qst_varys_quest2|A Friend Across the Water: Part 3
-; qst_varys_quest3|A Friend Across the Water: Part 4
-; qst_varys_quest4|A Friend Across the Water: Part 5
-; qst_varys_quest5|A Friend Across the Water: Part 6
+qst_varys_quest|Un Amico d'Oltremare: Parte 1
+qst_varys_quest1|Un Amico d'Oltremare: Parte 2
+qst_varys_quest2|Un Amico d'Oltremare: Parte 3
+qst_varys_quest3|Un Amico d'Oltremare: Parte 4
+qst_varys_quest4|Un Amico d'Oltremare: Parte 5
+qst_varys_quest5|Un Amico d'Oltremare: Parte 6
 qst_varys_quest6|Fuoco e Sangue: Parte 1
 qst_varys_quest7|Fuoco e Sangue: Parte 2
 qst_collect_men|Recluta cinque uomini

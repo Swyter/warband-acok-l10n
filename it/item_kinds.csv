@@ -1,7 +1,7 @@
 itm_no_item|OGGETTO INVALIDO
 itm_no_item_pl|OGGETTO INVALIDO
-itm_tutorial_spear|Lancia
-itm_tutorial_spear_pl|Lancia
+itm_tutorial_spear|Asta
+itm_tutorial_spear_pl|Asta
 itm_tutorial_club|Clava
 itm_tutorial_club_pl|Clava
 itm_tutorial_battle_axe|Ascia da battaglia
@@ -32,8 +32,8 @@ itm_tutorial_dagger|Pugnale
 itm_tutorial_dagger_pl|Pugnale
 itm_horse_meat|Carne di cavallo
 itm_horse_meat_pl|Carne di cavallo
-itm_practice_lance|Lancia da Torneo
-itm_practice_lance_pl|Lancia da Torneo
+itm_practice_lance|Lancia da giostra da Torneo
+itm_practice_lance_pl|Lancia da giostra da Torneo
 itm_practice_axe|Ascia da Torneo Smussata
 itm_practice_axe_pl|Ascia da Torneo Smussata
 itm_practice_dagger|Mazza smussata da Torneo
@@ -54,14 +54,14 @@ itm_practice_bolts|Spada da Torneo Smussata
 itm_practice_bolts_pl|Spada da Torneo Smussata
 itm_practice_bolts_9_amount|Mazza smussata da Torneo
 itm_practice_bolts_9_amount_pl|Mazza smussata da Torneo
-itm_practice_bow|Lancia da Torneo
-itm_practice_bow_pl|Lancia da Torneo
-itm_practice_crossbow|Lancia da Torneo
-itm_practice_crossbow_pl|Lancia da Torneo
-itm_practice_javelin|Lancia da Torneo
-itm_practice_javelin_pl|Lancia da Torneo
-itm_practice_javelin_melee|Lancia da Torneo
-itm_practice_javelin_melee_pl|Lancia da Torneo
+itm_practice_bow|Lancia da giostra da Torneo
+itm_practice_bow_pl|Lancia da giostra da Torneo
+itm_practice_crossbow|Lancia da giostra da Torneo
+itm_practice_crossbow_pl|Lancia da giostra da Torneo
+itm_practice_javelin|Lancia da giostra da Torneo
+itm_practice_javelin_pl|Lancia da giostra da Torneo
+itm_practice_javelin_melee|Lancia da giostra da Torneo
+itm_practice_javelin_melee_pl|Lancia da giostra da Torneo
 itm_practice_throwing_daggers|Mazza smussata da Torneo
 itm_practice_throwing_daggers_pl|Mazza smussata da Torneo
 itm_practice_throwing_daggers_100_amount|Mazza smussata da Torneo
@@ -306,20 +306,20 @@ itm_ho_swa_saddle_black|Ronzino
 itm_ho_swa_saddle_black_pl|Ronzino
 itm_rounsey_2|Ronzino
 itm_rounsey_2_pl|Ronzino
-; itm_palfrey_1|Palfrey
-; itm_palfrey_1_pl|Palfrey
-; itm_palfrey_2|Palfrey
-; itm_palfrey_2_pl|Palfrey
+itm_palfrey_1|Palafreno
+itm_palfrey_1_pl|Palafreno
+itm_palfrey_2|Palafreno
+itm_palfrey_2_pl|Palafreno
 itm_courser_1|Corsiero
 itm_courser_1_pl|Corsiero
 itm_courser_2|Corsiero
 itm_courser_2_pl|Corsiero
 itm_courser_3|Corsiero
 itm_courser_3_pl|Corsiero
-; itm_garron_1|Garron
-; itm_garron_1_pl|Garron
-; itm_garron_2|Garron
-; itm_garron_2_pl|Garron
+itm_garron_1|Garron
+itm_garron_1_pl|Garron
+itm_garron_2|Garron
+itm_garron_2_pl|Garron
 itm_horse_light_a|Corsiero Dothraki
 itm_horse_light_a_pl|Corsiero Dothraki
 itm_horse_light_b|Corsiero Dothraki
@@ -374,26 +374,26 @@ itm_we_vae_spear_scythe|Falce
 itm_we_vae_spear_scythe_pl|Falce
 itm_we_vae_spear_scythe_shortened|Falce Accorciata Militare
 itm_we_vae_spear_scythe_shortened_pl|Falce Accorciata Militare
-itm_we_vae_spear_polehammer|Lancia Leggera
-itm_we_vae_spear_polehammer_pl|Lancia Leggera
-itm_we_khe_spear_staff|Lancia Leggera
-itm_we_khe_spear_staff_pl|Lancia Leggera
-itm_we_khe_spear_bamboolong|Lancia Leggera
-itm_we_khe_spear_bamboolong_pl|Lancia Leggera
-itm_we_khe_spear_nagita|Lancia Leggera
-itm_we_khe_spear_nagita_pl|Lancia Leggera
-itm_we_khe_spear_haftedblade|Lancia Leggera
-itm_we_khe_spear_haftedblade_pl|Lancia Leggera
-itm_heavy_spear_1|Lancia Pesante
-itm_heavy_spear_1_pl|Lancia Pesante
-itm_heavy_spear_2|Lancia Pesante
-itm_heavy_spear_2_pl|Lancia Pesante
-itm_heavy_spear_3|Lancia Pesante
-itm_heavy_spear_3_pl|Lancia Pesante
-itm_dornish_spear_feathers|Lancia Pesante
-itm_dornish_spear_feathers_pl|Lancia Pesante
-itm_dornish_heavy_spear|Lancia Pesante
-itm_dornish_heavy_spear_pl|Lancia Pesante
+itm_we_vae_spear_polehammer|Asta Leggera
+itm_we_vae_spear_polehammer_pl|Asta Leggera
+itm_we_khe_spear_staff|Asta Leggera
+itm_we_khe_spear_staff_pl|Asta Leggera
+itm_we_khe_spear_bamboolong|Asta Leggera
+itm_we_khe_spear_bamboolong_pl|Asta Leggera
+itm_we_khe_spear_nagita|Asta Leggera
+itm_we_khe_spear_nagita_pl|Asta Leggera
+itm_we_khe_spear_haftedblade|Asta Leggera
+itm_we_khe_spear_haftedblade_pl|Asta Leggera
+itm_heavy_spear_1|Asta Pesante
+itm_heavy_spear_1_pl|Asta Pesante
+itm_heavy_spear_2|Asta Pesante
+itm_heavy_spear_2_pl|Asta Pesante
+itm_heavy_spear_3|Asta Pesante
+itm_heavy_spear_3_pl|Asta Pesante
+itm_dornish_spear_feathers|Asta Pesante
+itm_dornish_spear_feathers_pl|Asta Pesante
+itm_dornish_heavy_spear|Asta Pesante
+itm_dornish_heavy_spear_pl|Asta Pesante
 itm_we_rho_spear_fork_pitch|Forcone
 itm_we_rho_spear_fork_pitch_pl|Forcone
 itm_we_rho_spear_fork_military|Forca da Militare
@@ -484,16 +484,16 @@ itm_we_rho_throw_stone|Pietre
 itm_we_rho_throw_stone_pl|Pietre
 itm_we_sar_spear_javelin|Giavellotti
 itm_we_sar_spear_javelin_pl|Giavellotti
-itm_we_sar_spear_javelin_melee|Lancia Corta
-itm_we_sar_spear_javelin_melee_pl|Lancia Corta
+itm_we_sar_spear_javelin_melee|Asta Corta
+itm_we_sar_spear_javelin_melee_pl|Asta Corta
 itm_we_sar_spear_throwing_spears|Aste da Lancio
 itm_we_sar_spear_throwing_spears_pl|Aste da Lancio
-itm_we_sar_spear_throwing_spear_melee|Lancia Corta
-itm_we_sar_spear_throwing_spear_melee_pl|Lancia Corta
+itm_we_sar_spear_throwing_spear_melee|Asta Corta
+itm_we_sar_spear_throwing_spear_melee_pl|Asta Corta
 itm_we_sar_spear_jarid|Giavellotti
 itm_we_sar_spear_jarid_pl|Giavellotti
-itm_we_sar_spear_jarid_melee|Lancia Corta
-itm_we_sar_spear_jarid_melee_pl|Lancia Corta
+itm_we_sar_spear_jarid_melee|Asta Corta
+itm_we_sar_spear_jarid_melee_pl|Asta Corta
 itm_we_sar_throw_stone|Pietre
 itm_we_sar_throw_stone_pl|Pietre
 itm_ar_vae_t7_elite_b|Armatura Pesante a Piastre Articolate
@@ -756,8 +756,8 @@ itm_flattop_a|Elmo Cilindro
 itm_flattop_a_pl|Elmo Cilindro
 itm_varangian_helmet|Elmo da Catafratto
 itm_varangian_helmet_pl|Elmo da Catafratto
-itm_andalusianskirmisher_armor|Gilet di Pelle Pesante
-itm_andalusianskirmisher_armor_pl|Gilet di Pelle Pesante
+itm_andalusianskirmisher_armor|Corpetto di Pelle Pesante
+itm_andalusianskirmisher_armor_pl|Corpetto di Pelle Pesante
 itm_gaelic_mail_shirt_a|Usbergo di Maglia
 itm_gaelic_mail_shirt_a_pl|Usbergo di Maglia
 itm_galloglass_padded|Usbergo di Maglia
@@ -802,8 +802,8 @@ itm_byzantion|Cappello d'Arme a Punta
 itm_byzantion_pl|Cappello d'Arme a Punta
 itm_col1_byzantion|Cappello d'Arme a Punta
 itm_col1_byzantion_pl|Cappello d'Arme a Punta
-itm_aketon|Farsetto d'Arme
-itm_aketon_pl|Farsetto d'Arme
+itm_aketon|Gambesone
+itm_aketon_pl|Gambesone
 itm_nomad_cap_b_new|Cappello di Pelle
 itm_nomad_cap_b_new_pl|Cappello di Pelle
 itm_black_khergit_armor_new|Armatura di Pelliccia
@@ -816,10 +816,10 @@ itm_dec_steel_shield|Scudo Rotondo d'Argento
 itm_dec_steel_shield_pl|Scudo Rotondo d'Argento
 itm_brass_mamluk_armor|Armatura Pesante a Piastre
 itm_brass_mamluk_armor_pl|Armatura Pesante a Piastre
-; itm_mercenary_lamellar|Expensive Lamellar Armor
-; itm_mercenary_lamellar_pl|Expensive Lamellar Armor
-; itm_mercenary_surcoat|Surcoat over Mail
-; itm_mercenary_surcoat_pl|Surcoat over Mail
+itm_mercenary_lamellar|Armatura Lamellare Costosa
+itm_mercenary_lamellar_pl|Armatura Lamellare Costosa
+itm_mercenary_surcoat|Cotta di Maglia con Surcotto
+itm_mercenary_surcoat_pl|Cotta di Maglia con Surcotto
 itm_mercenary_hauberk|Usbergo di Maglia
 itm_mercenary_hauberk_pl|Usbergo di Maglia
 itm_surcoat_braavosi|Cotta di Maglia con Surcotto
@@ -914,12 +914,12 @@ itm_mace_knobbed|Mazza da Guerra
 itm_mace_knobbed_pl|Mazza da Guerra
 itm_mace_spiral|Mazza da Guerra
 itm_mace_spiral_pl|Mazza da Guerra
-; itm_mackie_morning_star|Morningstar
-; itm_mackie_morning_star_pl|Morningstar
+itm_mackie_morning_star|Morningstar
+itm_mackie_morning_star_pl|Morningstar
 itm_mackie_great_lakes_mace|Clava
 itm_mackie_great_lakes_mace_pl|Clava
-itm_kataphraktoi_2|Gilet di Pelle
-itm_kataphraktoi_2_pl|Gilet di Pelle
+itm_kataphraktoi_2|Corpetto di Pelle
+itm_kataphraktoi_2_pl|Corpetto di Pelle
 itm_kataphraktoi_3|Armatura Pesante Lamellare
 itm_kataphraktoi_3_pl|Armatura Pesante Lamellare
 itm_kataphraktoi_4|Giaco a Piastre
@@ -1012,54 +1012,54 @@ itm_fi_reach_plate_armor_3|Armatura Pesante a Piastre
 itm_fi_reach_plate_armor_3_pl|Armatura Pesante a Piastre
 itm_fi_westerlands_plate_armor_1|Armatura Pesante a Piastre
 itm_fi_westerlands_plate_armor_1_pl|Armatura Pesante a Piastre
-itm_fi_stripped_leather_jerkin|Gilet di Pelle di Braavos
-itm_fi_stripped_leather_jerkin_pl|Gilet di Pelle di Braavos
-itm_fi_leather_jerkin_2|Gilet di Pelle di Braavos
-itm_fi_leather_jerkin_2_pl|Gilet di Pelle di Braavos
-itm_fi_leather_jerkin|Gilet di Pelle Pesante
-itm_fi_leather_jerkin_pl|Gilet di Pelle Pesante
-; itm_fi_green_leather_armor|Kingswood Leather Jerkin
-; itm_fi_green_leather_armor_pl|Kingswood Leather Jerkin
+itm_fi_stripped_leather_jerkin|Corpetto di Pelle di Braavos
+itm_fi_stripped_leather_jerkin_pl|Corpetto di Pelle di Braavos
+itm_fi_leather_jerkin_2|Corpetto di Pelle di Braavos
+itm_fi_leather_jerkin_2_pl|Corpetto di Pelle di Braavos
+itm_fi_leather_jerkin|Corpetto di Pelle Pesante
+itm_fi_leather_jerkin_pl|Corpetto di Pelle Pesante
+itm_fi_green_leather_armor|Corpetto di Cuoio Bosco del Re
+itm_fi_green_leather_armor_pl|Corpetto di Cuoio Bosco del Re
 itm_stormland_light|Farsetto d'Arme
 itm_stormland_light_pl|Farsetto d'Arme
-itm_sellsword_light|Gilet di Pelle
-itm_sellsword_light_pl|Gilet di Pelle
+itm_sellsword_light|Corpetto di Pelle
+itm_sellsword_light_pl|Corpetto di Pelle
 itm_westerland_goldcloak|Usbergo di Maglia Cappe Dorate
 itm_westerland_goldcloak_pl|Usbergo di Maglia Cappe Dorate
 itm_westerland_goldcloak_cloaked|Usbergo di Maglia Cappe Dorate
 itm_westerland_goldcloak_cloaked_pl|Usbergo di Maglia Cappe Dorate
 itm_westerland_hound|Usbergo di Maglia
 itm_westerland_hound_pl|Usbergo di Maglia
-itm_nightswatch_a|Gilet di Pelle
-itm_nightswatch_a_pl|Gilet di Pelle
-itm_nightswatch_b|Gilet di Pelle
-itm_nightswatch_b_pl|Gilet di Pelle
-itm_nightswatch_c|Gilet di Pelle Rinforzato
-itm_nightswatch_c_pl|Gilet di Pelle Rinforzato
+itm_nightswatch_a|Corpetto di Pelle
+itm_nightswatch_a_pl|Corpetto di Pelle
+itm_nightswatch_b|Corpetto di Pelle
+itm_nightswatch_b_pl|Corpetto di Pelle
+itm_nightswatch_c|Corpetto di Pelle Rinforzato
+itm_nightswatch_c_pl|Corpetto di Pelle Rinforzato
 itm_nightswatch_d|Armatura Lamellare
 itm_nightswatch_d_pl|Armatura Lamellare
 itm_north_archer|Farsetto d'Arme di Pelle
 itm_north_archer_pl|Farsetto d'Arme di Pelle
-itm_north_hunter|Gilet di Pelle
-itm_north_hunter_pl|Gilet di Pelle
+itm_north_hunter|Corpetto di Pelle
+itm_north_hunter_pl|Corpetto di Pelle
 itm_north_heavycav|Armatura di Pelle Pesante
 itm_north_heavycav_pl|Armatura di Pelle Pesante
-itm_riverlands_light|Gilet di Pelle Articolato
-itm_riverlands_light_pl|Gilet di Pelle Articolato
-itm_riverlands_freyheavy|Gilet di Pelle
-itm_riverlands_freyheavy_pl|Gilet di Pelle
-itm_riverlands_freylight|Gilet di Pelle
-itm_riverlands_freylight_pl|Gilet di Pelle
-itm_riverlands_freylight_shoulders|Gilet di Pelle
-itm_riverlands_freylight_shoulders_pl|Gilet di Pelle
+itm_riverlands_light|Corpetto di Pelle Articolato
+itm_riverlands_light_pl|Corpetto di Pelle Articolato
+itm_riverlands_freyheavy|Corpetto di Pelle
+itm_riverlands_freyheavy_pl|Corpetto di Pelle
+itm_riverlands_freylight|Corpetto di Pelle
+itm_riverlands_freylight_pl|Corpetto di Pelle
+itm_riverlands_freylight_shoulders|Corpetto di Pelle
+itm_riverlands_freylight_shoulders_pl|Corpetto di Pelle
 itm_vale_heavy|Armatura Leggera a Piastre
 itm_vale_heavy_pl|Armatura Leggera a Piastre
 itm_vale_heavy_neck|Armatura Leggera a Piastre
 itm_vale_heavy_neck_pl|Armatura Leggera a Piastre
-itm_sellsword_jerkin|Gilet di Pelle
-itm_sellsword_jerkin_pl|Gilet di Pelle
-itm_sellsword_jerkin_neck|Gilet di Pelle
-itm_sellsword_jerkin_neck_pl|Gilet di Pelle
+itm_sellsword_jerkin|Corpetto di Pelle
+itm_sellsword_jerkin_pl|Corpetto di Pelle
+itm_sellsword_jerkin_neck|Corpetto di Pelle
+itm_sellsword_jerkin_neck_pl|Corpetto di Pelle
 itm_north_bolton_standard|Usbergo di Maglia
 itm_north_bolton_standard_pl|Usbergo di Maglia
 itm_north_bolton_heavy|Usbergo di Maglia con Placche
@@ -1078,10 +1078,10 @@ itm_north_karstark_01_cloaked|Usbergo di Maglia
 itm_north_karstark_01_cloaked_pl|Usbergo di Maglia
 itm_north_karstark_02|Usbergo di Maglia
 itm_north_karstark_02_pl|Usbergo di Maglia
-itm_north_light_01|Gilet di Pelle
-itm_north_light_01_pl|Gilet di Pelle
-itm_north_light_01_cloaked|Gilet di Pelle
-itm_north_light_01_cloaked_pl|Gilet di Pelle
+itm_north_light_01|Corpetto di Pelle
+itm_north_light_01_pl|Corpetto di Pelle
+itm_north_light_01_cloaked|Corpetto di Pelle
+itm_north_light_01_cloaked_pl|Corpetto di Pelle
 itm_north_light_02|Usbergo di Maglia
 itm_north_light_02_pl|Usbergo di Maglia
 itm_north_stark_captain_heavy|Usbergo di Maglia con Placche
@@ -1090,20 +1090,20 @@ itm_north_stark_captain|Usbergo di Maglia
 itm_north_stark_captain_pl|Usbergo di Maglia
 itm_north_stark_captain_cloaked|Usbergo di Maglia
 itm_north_stark_captain_cloaked_pl|Usbergo di Maglia
-itm_north_stark_knight|Gilet di Pelle Pesante
-itm_north_stark_knight_pl|Gilet di Pelle Pesante
-itm_north_stark_heavy_knight|Gilet di Pelle Pesante con Placche
-itm_north_stark_heavy_knight_pl|Gilet di Pelle Pesante con Placche
-itm_north_stark_lord|Gilet di Pelle Pesante con Placche
-itm_north_stark_lord_pl|Gilet di Pelle Pesante con Placche
-itm_north_stark_standard|Gilet di Pelle Pesante
-itm_north_stark_standard_pl|Gilet di Pelle Pesante
-itm_north_stark_guardsman|Gilet di Pelle Pesante
-itm_north_stark_guardsman_pl|Gilet di Pelle Pesante
-itm_north_umbar|Gilet di Pelle Pesante di Umber
-itm_north_umbar_pl|Gilet di Pelle Pesante di Umber
-itm_north_umbar_cloaked|Gilet di Pelle Pesante di Umber
-itm_north_umbar_cloaked_pl|Gilet di Pelle Pesante di Umber
+itm_north_stark_knight|Corpetto di Pelle Pesante
+itm_north_stark_knight_pl|Corpetto di Pelle Pesante
+itm_north_stark_heavy_knight|Corpetto di Pelle Pesante con Placche
+itm_north_stark_heavy_knight_pl|Corpetto di Pelle Pesante con Placche
+itm_north_stark_lord|Corpetto di Pelle Pesante con Placche
+itm_north_stark_lord_pl|Corpetto di Pelle Pesante con Placche
+itm_north_stark_standard|Corpetto di Pelle Pesante
+itm_north_stark_standard_pl|Corpetto di Pelle Pesante
+itm_north_stark_guardsman|Corpetto di Pelle Pesante
+itm_north_stark_guardsman_pl|Corpetto di Pelle Pesante
+itm_north_umbar|Corpetto di Pelle Pesante di Umber
+itm_north_umbar_pl|Corpetto di Pelle Pesante di Umber
+itm_north_umbar_cloaked|Corpetto di Pelle Pesante di Umber
+itm_north_umbar_cloaked_pl|Corpetto di Pelle Pesante di Umber
 itm_reach_loras|Armatura Pesante a Piastre
 itm_reach_loras_pl|Armatura Pesante a Piastre
 itm_reach_loras2|Armatura Pesante a Piastre
@@ -1112,22 +1112,22 @@ itm_riverlands_blackfish|Usbergo di Maglia
 itm_riverlands_blackfish_pl|Usbergo di Maglia
 itm_riverlands_edmure|Usbergo di Maglia di Edmure
 itm_riverlands_edmure_pl|Usbergo di Maglia di Edmure
-itm_riverlands_frey_01|Gilet di Pelle
-itm_riverlands_frey_01_pl|Gilet di Pelle
-itm_riverlands_frey_01_neck|Gilet di Pelle Pesante
-itm_riverlands_frey_01_neck_pl|Gilet di Pelle Pesante
-itm_riverlands_frey_02|Gilet di Pelle
-itm_riverlands_frey_02_pl|Gilet di Pelle
-itm_riverlands_frey_02_neck|Gilet di Pelle Pesante
-itm_riverlands_frey_02_neck_pl|Gilet di Pelle Pesante
+itm_riverlands_frey_01|Corpetto di Pelle
+itm_riverlands_frey_01_pl|Corpetto di Pelle
+itm_riverlands_frey_01_neck|Corpetto di Pelle Pesante
+itm_riverlands_frey_01_neck_pl|Corpetto di Pelle Pesante
+itm_riverlands_frey_02|Corpetto di Pelle
+itm_riverlands_frey_02_pl|Corpetto di Pelle
+itm_riverlands_frey_02_neck|Corpetto di Pelle Pesante
+itm_riverlands_frey_02_neck_pl|Corpetto di Pelle Pesante
 itm_riverlands_heavy_no_shoulders|Usbergo di Maglia
 itm_riverlands_heavy_no_shoulders_pl|Usbergo di Maglia
 itm_riverlands_heavy|Usbergo di Maglia
 itm_riverlands_heavy_pl|Usbergo di Maglia
 itm_riverlands_heavy_neck|Usbergo di Maglia Pesante
 itm_riverlands_heavy_neck_pl|Usbergo di Maglia Pesante
-itm_riverlands_standard_01|Gilet di Pelle Pesante
-itm_riverlands_standard_01_pl|Gilet di Pelle Pesante
+itm_riverlands_standard_01|Corpetto di Pelle Pesante
+itm_riverlands_standard_01_pl|Corpetto di Pelle Pesante
 itm_stormlands_brienne|Armatura Pesante a Piastre
 itm_stormlands_brienne_pl|Armatura Pesante a Piastre
 itm_stormlands_brienne2|Armatura Pesante a Piastre
@@ -1148,14 +1148,14 @@ itm_westerlands_lord_1|Armatura Leggera a Piastre
 itm_westerlands_lord_1_pl|Armatura Leggera a Piastre
 itm_westerlands_lord_2|Armatura Leggera a Piastre
 itm_westerlands_lord_2_pl|Armatura Leggera a Piastre
-itm_westerlands_light_01|Gilet di Pelle
-itm_westerlands_light_01_pl|Gilet di Pelle
-itm_westerlands_light_02|Gilet di Pelle
-itm_westerlands_light_02_pl|Gilet di Pelle
-itm_westerlands_polliver_01|Gilet di Pelle Pesante con Placche
-itm_westerlands_polliver_01_pl|Gilet di Pelle Pesante con Placche
-itm_westerlands_polliver_02|Gilet di Pelle Pesante
-itm_westerlands_polliver_02_pl|Gilet di Pelle Pesante
+itm_westerlands_light_01|Corpetto di Pelle
+itm_westerlands_light_01_pl|Corpetto di Pelle
+itm_westerlands_light_02|Corpetto di Pelle
+itm_westerlands_light_02_pl|Corpetto di Pelle
+itm_westerlands_polliver_01|Corpetto di Pelle Pesante con Placche
+itm_westerlands_polliver_01_pl|Corpetto di Pelle Pesante con Placche
+itm_westerlands_polliver_02|Corpetto di Pelle Pesante
+itm_westerlands_polliver_02_pl|Corpetto di Pelle Pesante
 itm_dragonstone_stannis|Usbergo di Maglia
 itm_dragonstone_stannis_pl|Usbergo di Maglia
 itm_westerland_helm|Elmo di Lannister
@@ -1302,8 +1302,8 @@ itm_xenoargh_round_shield03_06|Scudo Rotondo in Pelle
 itm_xenoargh_round_shield03_06_pl|Scudi Rotondi in Pelle
 itm_stark_shield|Scudo Rotondo in Acciaio
 itm_stark_shield_pl|Scudo Rotondo in Acciaio
-; itm_alen_cargylls_hauberk|Alen Cargylls Surcoat
-; itm_alen_cargylls_hauberk_pl|Alen Cargylls Surcoat
+itm_alen_cargylls_hauberk|Surcotto di Alen Cargyll
+itm_alen_cargylls_hauberk_pl|Surcotto di Alen Cargyll
 itm_wide_toga_1|Toga
 itm_wide_toga_1_pl|Toga
 itm_reznak_robe_1|Vestito Ghiscari
@@ -1332,8 +1332,8 @@ itm_arena_shield_red|BUGGED ITEM
 itm_arena_shield_red_pl|BUGGED ITEM
 itm_arena_lance|BUGGED ITEM
 itm_arena_lance_pl|BUGGED ITEM
-; itm_ar_swa_ban_scale_a|BUGGED ITEM
-; itm_ar_swa_ban_scale_a_pl|BUGGED ITEM
+itm_ar_swa_ban_scale_a|BUGGED ITEM
+itm_ar_swa_ban_scale_a_pl|BUGGED ITEM
 itm_nord_dress_common_b|Vestito da Contadino
 itm_nord_dress_common_b_pl|Vestito da Contadino
 itm_rhodok_dress_common_b|Vestito da Contadino
@@ -1386,14 +1386,14 @@ itm_tuareg|Copricapo di Stoffa
 itm_tuareg_pl|Copricapo di Stoffa
 itm_tuareg_open|Copricapo di Stoffa
 itm_tuareg_open_pl|Copricapo di Stoffa
-itm_banded_leather_c|Gilet di Pelle
-itm_banded_leather_c_pl|Gilet di Pelle
-itm_peasant_leather_plate_a|Gilet di Pelle
-itm_peasant_leather_plate_a_pl|Gilet di Pelle
+itm_banded_leather_c|Corpetto di Pelle
+itm_banded_leather_c_pl|Corpetto di Pelle
+itm_peasant_leather_plate_a|Corpetto di Pelle
+itm_peasant_leather_plate_a_pl|Corpetto di Pelle
 itm_dunland_antleraxe|Ascia a Una Mano Antler
 itm_dunland_antleraxe_pl|Ascia a Una Mano Antler
-itm_dunland_spear|Lancia d'Osso
-itm_dunland_spear_pl|Lancia d'Osso
+itm_dunland_spear|Asta d'Osso
+itm_dunland_spear_pl|Asta d'Osso
 itm_dunland_pike|Palo Appuntito
 itm_dunland_pike_pl|Palo Appuntito
 itm_wildling_heavy_armor_1|Armatura di Pelliccia Pesante
@@ -1548,14 +1548,14 @@ itm_mackie_meat_cleaver_3|Mannaia da Macellaio
 itm_mackie_meat_cleaver_3_pl|Mannaia da Macellaio
 itm_dothraki_bow|Arco Dothraki
 itm_dothraki_bow_pl|Arco Dothraki
-itm_new_nightswatch_1|Gilet di Pelle
-itm_new_nightswatch_1_pl|Gilet di Pelle
-itm_new_nightswatch_1_cloak|Gilet di Pelle
-itm_new_nightswatch_1_cloak_pl|Gilet di Pelle
-itm_new_nightswatch_2|Gilet di Pelle
-itm_new_nightswatch_2_pl|Gilet di Pelle
-itm_new_nightswatch_2_cloak|Gilet di Pelle
-itm_new_nightswatch_2_cloak_pl|Gilet di Pelle
+itm_new_nightswatch_1|Corpetto di Pelle
+itm_new_nightswatch_1_pl|Corpetto di Pelle
+itm_new_nightswatch_1_cloak|Corpetto di Pelle
+itm_new_nightswatch_1_cloak_pl|Corpetto di Pelle
+itm_new_nightswatch_2|Corpetto di Pelle
+itm_new_nightswatch_2_pl|Corpetto di Pelle
+itm_new_nightswatch_2_cloak|Corpetto di Pelle
+itm_new_nightswatch_2_cloak_pl|Corpetto di Pelle
 itm_new_nightswatch_3|Usbergo di Maglia
 itm_new_nightswatch_3_pl|Usbergo di Maglia
 itm_new_nightswatch_3_cloak|Usbergo di Maglia
@@ -1620,54 +1620,54 @@ itm_dornish_chain_mail_shirt_3|Usbergo di Maglia
 itm_dornish_chain_mail_shirt_3_pl|Usbergo di Maglia
 itm_dornish_heavy_lamellar|Armatura Pesante Lamellare
 itm_dornish_heavy_lamellar_pl|Armatura Pesante Lamellare
-itm_dornish_leather_robe|Gilet di Pelle
-itm_dornish_leather_robe_pl|Gilet di Pelle
+itm_dornish_leather_robe|Corpetto di Pelle
+itm_dornish_leather_robe_pl|Corpetto di Pelle
 itm_dornish_skirmisher|Tunica Imbottita
 itm_dornish_skirmisher_pl|Tunica Imbottita
 itm_broken_bottle|Bottiglia Rotta
 itm_broken_bottle_pl|Bottiglia Rotta
-itm_kuauik_padded_leather|Gilet di Pelle
-itm_kuauik_padded_leather_pl|Gilet di Pelle
+itm_kuauik_padded_leather|Corpetto di Pelle
+itm_kuauik_padded_leather_pl|Corpetto di Pelle
 itm_kuauik_peasant_1|Tunica da Contadino
 itm_kuauik_peasant_1_pl|Tunica da Contadino
 itm_kuauik_peasant_2|Tunica da Contadino
 itm_kuauik_peasant_2_pl|Tunica da Contadino
-itm_kuauik_studded_leather_1|Gilet di Pelle Borchiato
-itm_kuauik_studded_leather_1_pl|Gilet di Pelle Borchiato
-itm_kuauik_studded_leather_2|Gilet di Pelle Borchiato
-itm_kuauik_studded_leather_2_pl|Gilet di Pelle Borchiato
-itm_kuauik_welsh_archer_1|Gilet di Pelle Borchiato
-itm_kuauik_welsh_archer_1_pl|Gilet di Pelle Borchiato
-itm_kuauik_welsh_archer_2|Gilet di Pelle Borchiato
-itm_kuauik_welsh_archer_2_pl|Gilet di Pelle Borchiato
-itm_kuauik_leather_tunic|Gilet di Pelle
-itm_kuauik_leather_tunic_pl|Gilet di Pelle
-itm_kuauik_dornish_leather_tunic_1|Gilet di Pelle
-itm_kuauik_dornish_leather_tunic_1_pl|Gilet di Pelle
-itm_kuauik_dornish_leather_tunic_2|Gilet di Pelle
-itm_kuauik_dornish_leather_tunic_2_pl|Gilet di Pelle
-itm_kuauik_dornish_studded_leather|Gilet di Pelle Borchiato
-itm_kuauik_dornish_studded_leather_pl|Gilet di Pelle Borchiato
+itm_kuauik_studded_leather_1|Corpetto di Pelle Borchiato
+itm_kuauik_studded_leather_1_pl|Corpetto di Pelle Borchiato
+itm_kuauik_studded_leather_2|Corpetto di Pelle Borchiato
+itm_kuauik_studded_leather_2_pl|Corpetto di Pelle Borchiato
+itm_kuauik_welsh_archer_1|Corpetto di Pelle Borchiato
+itm_kuauik_welsh_archer_1_pl|Corpetto di Pelle Borchiato
+itm_kuauik_welsh_archer_2|Corpetto di Pelle Borchiato
+itm_kuauik_welsh_archer_2_pl|Corpetto di Pelle Borchiato
+itm_kuauik_leather_tunic|Corpetto di Pelle
+itm_kuauik_leather_tunic_pl|Corpetto di Pelle
+itm_kuauik_dornish_leather_tunic_1|Corpetto di Pelle
+itm_kuauik_dornish_leather_tunic_1_pl|Corpetto di Pelle
+itm_kuauik_dornish_leather_tunic_2|Corpetto di Pelle
+itm_kuauik_dornish_leather_tunic_2_pl|Corpetto di Pelle
+itm_kuauik_dornish_studded_leather|Corpetto di Pelle Borchiato
+itm_kuauik_dornish_studded_leather_pl|Corpetto di Pelle Borchiato
 itm_kuauik_dornish_chain_mail|Usbergo di Maglia
 itm_kuauik_dornish_chain_mail_pl|Usbergo di Maglia
 itm_kuauik_gambeson|Farsetto d'Arme
 itm_kuauik_gambeson_pl|Farsetto d'Arme
 itm_kuauik_bulgar_armor|Armatura Lamellare
 itm_kuauik_bulgar_armor_pl|Armatura Lamellare
-itm_kuauik_bulgar_leather_armor|Gilet di Pelle
-itm_kuauik_bulgar_leather_armor_pl|Gilet di Pelle
+itm_kuauik_bulgar_leather_armor|Corpetto di Pelle
+itm_kuauik_bulgar_leather_armor_pl|Corpetto di Pelle
 itm_kuauik_byz_footman_1|Usbergo di Maglia
 itm_kuauik_byz_footman_1_pl|Usbergo di Maglia
 itm_kuauik_byz_guard|Armatura Lamellare
 itm_kuauik_byz_guard_pl|Armatura Lamellare
-itm_kuauik_byz_leather|Gilet di Pelle
-itm_kuauik_byz_leather_pl|Gilet di Pelle
+itm_kuauik_byz_leather|Corpetto di Pelle
+itm_kuauik_byz_leather_pl|Corpetto di Pelle
 itm_kuauik_padded_cloth|Usbergo di Maglia
 itm_kuauik_padded_cloth_pl|Usbergo di Maglia
 itm_kuauik_varangian_a|Armatura Lamellare
 itm_kuauik_varangian_a_pl|Armatura Lamellare
-itm_kuauik_norvos_guard|Gilet di Pelle
-itm_kuauik_norvos_guard_pl|Gilet di Pelle
+itm_kuauik_norvos_guard|Corpetto di Pelle
+itm_kuauik_norvos_guard_pl|Corpetto di Pelle
 itm_kuauik_pentos_guard|Armatura Lamellare
 itm_kuauik_pentos_guard_pl|Armatura Lamellare
 itm_kuauik_volantis_guard|Armatura Lamellare
@@ -1686,8 +1686,8 @@ itm_kuauik_surcoat_5|Cotta di Maglia con Surcotto
 itm_kuauik_surcoat_5_pl|Cotta di Maglia con Surcotto
 itm_kuauik_surcoat_6|Cotta di Maglia con Surcotto
 itm_kuauik_surcoat_6_pl|Cotta di Maglia con Surcotto
-; itm_kuauik_surcoat_7|Jasper Rivers Surcoat over Mail
-; itm_kuauik_surcoat_7_pl|Jasper Rivers Surcoat over Mail
+itm_kuauik_surcoat_7|Cotta di Maglia con Surcotto di Jasper Rivers
+itm_kuauik_surcoat_7_pl|Cotta di Maglia con Surcotto di Jasper Rivers
 itm_kuauik_surcoat_8|Cotta di Maglia con Surcotto
 itm_kuauik_surcoat_8_pl|Cotta di Maglia con Surcotto
 itm_kuauik_surcoat_9|Cotta di Maglia con Surcotto
@@ -1696,8 +1696,8 @@ itm_kuauik_surcoat_10|Cotta di Maglia con Surcotto
 itm_kuauik_surcoat_10_pl|Cotta di Maglia con Surcotto
 itm_kuauik_surcoat_11|Cotta di Maglia con Surcotto
 itm_kuauik_surcoat_11_pl|Cotta di Maglia con Surcotto
-; itm_surcoat_targaryen|Surcoat over Mail
-; itm_surcoat_targaryen_pl|Surcoat over Mail
+itm_surcoat_targaryen|Cotta di Maglia con Surcotto
+itm_surcoat_targaryen_pl|Cotta di Maglia con Surcotto
 itm_tournament_yellow_surcoat|Cotta di Maglia con Surcotto
 itm_tournament_yellow_surcoat_pl|Cotta di Maglia con Surcotto
 itm_tournament_white_surcoat|Cotta di Maglia con Surcotto
@@ -1706,32 +1706,32 @@ itm_tournament_red_surcoat|Cotta di Maglia con Surcotto
 itm_tournament_red_surcoat_pl|Cotta di Maglia con Surcotto
 itm_tournament_surcoat_blue|Cotta di Maglia con Surcotto
 itm_tournament_surcoat_blue_pl|Cotta di Maglia con Surcotto
-; itm_surcoat_new_lannister|Surcoat over Mail
-; itm_surcoat_new_lannister_pl|Surcoat over Mail
-; itm_surcoat_new_morrigen|Surcoat over Mail
-; itm_surcoat_new_morrigen_pl|Surcoat over Mail
-; itm_surcoat_new_florent|Surcoat over Mail
-; itm_surcoat_new_florent_pl|Surcoat over Mail
-; itm_surcoat_new_tarth|Surcoat over Mail
-; itm_surcoat_new_tarth_pl|Surcoat over Mail
-; itm_surcoat_longbow_hall|Surcoat over Mail
-; itm_surcoat_longbow_hall_pl|Surcoat over Mail
-; itm_surcoat_white_harbor|Surcoat over Mail
-; itm_surcoat_white_harbor_pl|Surcoat over Mail
-; itm_surcoat_driftmark|Surcoat over Mail
-; itm_surcoat_driftmark_pl|Surcoat over Mail
-; itm_surcoat_massey|Surcoat over Mail
-; itm_surcoat_massey_pl|Surcoat over Mail
-; itm_surcoat_qorgyle|Surcoat over Mail
-; itm_surcoat_qorgyle_pl|Surcoat over Mail
-; itm_surcoat_oldtown|Surcoat over Mail
-; itm_surcoat_oldtown_pl|Surcoat over Mail
-; itm_surcoat_hellholt|Surcoat over Mail
-; itm_surcoat_hellholt_pl|Surcoat over Mail
-; itm_trial_surcoat|Tolletts Surcoat over Mail
-; itm_trial_surcoat_pl|Tolletts Surcoat over Mail
-; itm_trial_shield|Tolletts Kite Shield
-; itm_trial_shield_pl|Tolletts Kite Shield
+itm_surcoat_new_lannister|Cotta di Maglia con Surcotto
+itm_surcoat_new_lannister_pl|Cotta di Maglia con Surcotto
+itm_surcoat_new_morrigen|Cotta di Maglia con Surcotto
+itm_surcoat_new_morrigen_pl|Cotta di Maglia con Surcotto
+itm_surcoat_new_florent|Cotta di Maglia con Surcotto
+itm_surcoat_new_florent_pl|Cotta di Maglia con Surcotto
+itm_surcoat_new_tarth|Cotta di Maglia con Surcotto
+itm_surcoat_new_tarth_pl|Cotta di Maglia con Surcotto
+itm_surcoat_longbow_hall|Cotta di Maglia con Surcotto
+itm_surcoat_longbow_hall_pl|Cotta di Maglia con Surcotto
+itm_surcoat_white_harbor|Cotta di Maglia con Surcotto
+itm_surcoat_white_harbor_pl|Cotta di Maglia con Surcotto
+itm_surcoat_driftmark|Cotta di Maglia con Surcotto
+itm_surcoat_driftmark_pl|Cotta di Maglia con Surcotto
+itm_surcoat_massey|Cotta di Maglia con Surcotto
+itm_surcoat_massey_pl|Cotta di Maglia con Surcotto
+itm_surcoat_qorgyle|Cotta di Maglia con Surcotto
+itm_surcoat_qorgyle_pl|Cotta di Maglia con Surcotto
+itm_surcoat_oldtown|Cotta di Maglia con Surcotto
+itm_surcoat_oldtown_pl|Cotta di Maglia con Surcotto
+itm_surcoat_hellholt|Cotta di Maglia con Surcotto
+itm_surcoat_hellholt_pl|Cotta di Maglia con Surcotto
+itm_trial_surcoat|Cotta di Maglia con Surcotto di Tollett
+itm_trial_surcoat_pl|Cotta di Maglia con Surcotto di Tollett
+itm_trial_shield|Scudo a Goccia di Tollett
+itm_trial_shield_pl|Scudo a Goccia di Tollett
 itm_trial_boots|Gambiere di Maglia Steccate
 itm_trial_boots_pl|Gambiere di Maglia Steccate
 itm_trial_gloves|Guanti di Maglia
@@ -1756,18 +1756,18 @@ itm_fi_greathelmet_1|Elmo da Torneo Decorato
 itm_fi_greathelmet_1_pl|Elmo da Torneo Decorato
 itm_fi_armet_2|Elmo da Torneo Decorato
 itm_fi_armet_2_pl|Elmo da Torneo Decorato
-; itm_crown_sallet|Sallet with Crown
-; itm_crown_sallet_pl|Sallet with Crown
+itm_crown_sallet|Celata con Corona
+itm_crown_sallet_pl|Celata con Corona
 itm_crown_coif|Calotta di Maglia con Corona
 itm_crown_coif_pl|Calotta di Maglia con Corona
 itm_nord_coat_of_plates|Armatura di Pelle Pesante
 itm_nord_coat_of_plates_pl|Armatura di Pelle Pesante
 itm_nord_coat_of_plates_pelt|Armatura di Pelle Pesante
 itm_nord_coat_of_plates_pelt_pl|Armatura di Pelle Pesante
-; itm_fi_lance|Tourney Lance
-; itm_fi_lance_pl|Tourney Lance
-; itm_bb_rus_pike|War Lance
-; itm_bb_rus_pike_pl|War Lance
+itm_fi_lance|Lancia da giostra da Tornero
+itm_fi_lance_pl|Lancia da giostra da Tornero
+itm_bb_rus_pike|Lancia da giostra da Guerra
+itm_bb_rus_pike_pl|Lancia da giostra da Guerra
 itm_ar_sar_t7_fullplate_a|Tunica da Nobile del Clan
 itm_ar_sar_t7_fullplate_a_pl|Tunica da Nobile del Clan
 itm_ar_rho_shi_capegreen|Tunica da Nobile del Clan
@@ -1812,18 +1812,18 @@ itm_noblemans_tunic_5|Tunica da Nobile
 itm_noblemans_tunic_5_pl|Tunica da Nobile
 itm_noblemans_tunic_6|Tunica da Nobile
 itm_noblemans_tunic_6_pl|Tunica da Nobile
-; itm_noblemans_tunic_7|Davos' Tunic
-; itm_noblemans_tunic_7_pl|Davos' Tunic
+itm_noblemans_tunic_7|Tunica di Davos
+itm_noblemans_tunic_7_pl|Tunica di Davos
 itm_noblemans_tunic_8|Tunica da Nobile
 itm_noblemans_tunic_8_pl|Tunica da Nobile
-; itm_noblemans_aketon|Noblemans Aketon
-; itm_noblemans_aketon_pl|Noblemans Aketon
+itm_noblemans_aketon|Gambesone da Nobile
+itm_noblemans_aketon_pl|Gambesone da Nobile
 itm_noblemans_kaftan|Kaftan da Nobile
 itm_noblemans_kaftan_pl|Kaftan da Nobile
 itm_kuauik_norvoshi_style_1|Kaftan da Nobile
 itm_kuauik_norvoshi_style_1_pl|Kaftan da Nobile
-; itm_pentoshi_style_1|Noblemans Kaftan
-; itm_pentoshi_style_1_pl|Noblemans Kaftan
+itm_pentoshi_style_1|Kaftan da Nobile
+itm_pentoshi_style_1_pl|Kaftan da Nobile
 itm_kuauik_volantis_style_1|Veste da Nobile
 itm_kuauik_volantis_style_1_pl|Veste da Nobile
 itm_kuauik_volantis_style_2|Veste da Nobile
@@ -1938,12 +1938,12 @@ itm_pretender_vezenkor|Armatura Lamellare Costosa
 itm_pretender_vezenkor_pl|Armatura Lamellare Costosa
 itm_pretender_yara|Usbergo di Maglia
 itm_pretender_yara_pl|Usbergo di Maglia
-; itm_pretender_laros|Surcoat over Mail
-; itm_pretender_laros_pl|Surcoat over Mail
+itm_pretender_laros|Cotta di Maglia con Surcotto
+itm_pretender_laros_pl|Cotta di Maglia con Surcotto
 itm_pretender_assadora|Armatura Lamellare
 itm_pretender_assadora_pl|Armatura Lamellare
-; itm_pretender_sarella|Surcoat over Mail
-; itm_pretender_sarella_pl|Surcoat over Mail
+itm_pretender_sarella|Cotta di Maglia con Surcotto
+itm_pretender_sarella_pl|Cotta di Maglia con Surcotto
 itm_pretender_shiera|Armatura Lamellare Costosa
 itm_pretender_shiera_pl|Armatura Lamellare Costosa
 itm_rathos_lamellar_armor_2|Armatura Lamellare Costosa
@@ -1972,12 +1972,12 @@ itm_medium_tier_sword_8|Spada d'Armi
 itm_medium_tier_sword_8_pl|Spada d'Armi
 itm_medium_tier_sword_9|Spada d'Armi
 itm_medium_tier_sword_9_pl|Spada d'Armi
-; itm_high_tier_sword_1|Castle-Forged Arming Sword
-; itm_high_tier_sword_1_pl|Castle-Forged Arming Sword
-; itm_high_tier_sword_2|Castle-Forged Arming Sword
-; itm_high_tier_sword_2_pl|Castle-Forged Arming Sword
-; itm_high_tier_sword_3|Castle-Forged Arming Sword
-; itm_high_tier_sword_3_pl|Castle-Forged Arming Sword
+itm_high_tier_sword_1|Spada d'Armi in Acciaio Forgiato
+itm_high_tier_sword_1_pl|Spada d'Armi in Acciaio Forgiato
+itm_high_tier_sword_2|Spada d'Armi in Acciaio Forgiato
+itm_high_tier_sword_2_pl|Spada d'Armi in Acciaio Forgiato
+itm_high_tier_sword_3|Spada d'Armi in Acciaio Forgiato
+itm_high_tier_sword_3_pl|Spada d'Armi in Acciaio Forgiato
 itm_low_tier_saber_1|Spada Curva
 itm_low_tier_saber_1_pl|Spada Curva
 itm_medium_tier_saber_1|Spada Curva
@@ -1988,16 +1988,16 @@ itm_medium_tier_saber_3|Spada Curva
 itm_medium_tier_saber_3_pl|Spada Curva
 itm_medium_tier_saber_4|Spada Curva
 itm_medium_tier_saber_4_pl|Spada Curva
-; itm_high_tier_saber_1|Castle-Forged Curved Sword
-; itm_high_tier_saber_1_pl|Castle-Forged Curved Sword
-; itm_high_tier_saber_2|Castle-Forged Curved Sword
-; itm_high_tier_saber_2_pl|Castle-Forged Curved Sword
-; itm_high_tier_saber_3|Castle-Forged Curved Sword
-; itm_high_tier_saber_3_pl|Castle-Forged Curved Sword
-; itm_high_tier_saber_4|Castle-Forged Curved Sword
-; itm_high_tier_saber_4_pl|Castle-Forged Curved Sword
-; itm_high_tier_saber_5|Castle-Forged Curved Sword
-; itm_high_tier_saber_5_pl|Castle-Forged Curved Sword
+itm_high_tier_saber_1|Spada Curva in Acciaio Forgiato
+itm_high_tier_saber_1_pl|Spada Curva in Acciaio Forgiato
+itm_high_tier_saber_2|Spada Curva in Acciaio Forgiato
+itm_high_tier_saber_2_pl|Spada Curva in Acciaio Forgiato
+itm_high_tier_saber_3|Spada Curva in Acciaio Forgiato
+itm_high_tier_saber_3_pl|Spada Curva in Acciaio Forgiato
+itm_high_tier_saber_4|Spada Curva in Acciaio Forgiato
+itm_high_tier_saber_4_pl|Spada Curva in Acciaio Forgiato
+itm_high_tier_saber_5|Spada Curva in Acciaio Forgiato
+itm_high_tier_saber_5_pl|Spada Curva in Acciaio Forgiato
 itm_we_rho_sword_rondeldagger|Spada corta
 itm_we_rho_sword_rondeldagger_pl|Spada corta
 itm_sword_rusty_a|Spada Arrugginita

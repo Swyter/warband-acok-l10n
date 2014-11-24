@@ -2381,148 +2381,148 @@ qstr_You_can_hear_screams|Se puede oír los gritos, al parecer procedentes de to
 qstr_If_you_do_not_return_|Si no regresas con su comandante a tiempo, se le declarará como un desertor. Si él ha sido hecho prisionero, quizás ahora sería el momento de demostrar tu valía y rescatarlo.
 qstr_Lysa_Tully_acting_on_|Lysa Tully, actuando en nombre de su hijo, Robert Arryn, os ha encargado exterminar a los clanes de las montañas. Buscad a Ser Albar Royce, que debería estar en la Puerta de la Sangre.
 qstr_A_clay_pot_filled_with_|Una vasija de cerámica repleta de fuego valyrio,^Creado por los piromantes de Desembarco del Rey.^La sustancia es inestable, y podría con facilidad estallar, llevando al infierno ardiente^Tanto amigos como enemigos
-; qstr_Return_to_the_castle|Return to the castle later, and talk to Ser Rodrik Cassel.
-; qstr_Search_the_tavern_fo|Search the tavern for the Cairnhall peasant.
-; qstr_Search_the_tavern_for|Search the tavern for Tyrion Lannister.
-; qstr_Search_the_tavern_for_|Search the tavern for Ser Gilbert Farring.
-; qstr_Search_the_tavern_for_M|Search the tavern for Moredo Tendyris.
-; qstr_Visit_Illyrio_Mopati|Visit Illyrio Mopatis in Pentos.
-; qstr_Return_later_and_tal|Return later and talk to the singer.
-; qstr_Go_to_Fairmarket_and|Go to Fairmarket and talk to the Elder Brother.
-; qstr_Return_to_the_castle_|Return to the castle later, and talk to the Tattered Prince.
-; qstr_Return_to_the_tavern_|Return to the tavern and search for Phario Forel.
-; qstr_A_ruler_should_be_ge|A ruler should be generous, not miserly!
-; qstr_You_gain_2_right_to_|You gain 2 right to rule!
-; qstr_Septon_Garibald_told|Septon Garibald told you of a farmer in need of help. You can find him in the tavern.
-; qstr_The_merchant_gave_yo|The merchant gave you a heavy bag of silver, enough to start your own career as a sellsword, merchant or outlaw, or begin the long and arduous journey towards lordship. You can strike out on your own, or search the town of Weeping Tower for people who might have need of your services.
-; qstr_Ser_Clifford_Gower_t|Ser Clifford Gower, the captain of the guards, needs someone to deliver a letter. You can find him in the castle hall.
-; qstr_Ser_Clifford_Gower_a|Ser Clifford Gower asked you to deliver a letter, and a gift, to the castellan of Ninestars, where a tourney celebrating the name day of Rowena Templeton is about to take place. Ninestars lies close to Snakewood, in the Vale.
-; qstr_You_hand_Ser_Alyn_th|You hand Ser Alyn the letter and the gift.
-; qstr_Ser_Alyn_Tollett_ask|Ser Alyn Tollett asked you to stay around for the tourney celebrating the name day of Rowena Templeton. Visit the tourney grounds and the merchants camps.
-; qstr_You_attacked_Ser_Ray|You attacked Ser Raymun Templeton, and stand accused. Ser Alyn Tollett has advised you to demand a trial by combat.
-; qstr_The_trial_by_combat_|The trial by combat is about to start. Defeat Ser Raymun Templeton.
-; qstr_You_stumble_and_fall|You stumble and fall.
-; qstr_The_men_in_the_cages|The men in the cages scream something fiercely though.
-; qstr_The_men_of_the_Storm|The men of the Stormlands disagree.
-; qstr_The_man_in_the_sack_|The man in the sack scream something fiercely though.
-; qstr_The_old_man_looks_pl|The old man looks pleased.
-; qstr_The_men_of_the_villa|The men of the village disagree.
-; qstr_And_a_tasty_boar_it_|And a tasty boar it was!
-; qstr_A_fine_meal_and_an_e|A fine meal, and an exquisite wine!
-; qstr_Your_weapon_broke.|Your weapon broke.
-; qstr_Hah!_Your_weapon_bro|Hah! Your weapon broke. This can not be repaired until the end of the battle
-; qstr_You_broke_your_lance|You broke your lance!
-; qstr_You_broke_your_spear|You broke your spear!
-; qstr_Your_{s20}_is_too_cr|Your {s20} is too crapy to fall apart!
-; qstr_Your_{s20}_cracks!|Your {s20} cracks!
-; qstr_Your_{s20}_falls_apa|Your {s20} falls apart!
-; qstr_Your_spear_broke!|Your spear broke!
-; qstr_A_round_steel_shield_c|A round steel shield, carried by men trained at Winterfell.
-; qstr_Lances_are_likely_to|Lances are likely to break on impact.^You should always carry a secondary weapon.
-; qstr_Spears_are_likely_to|Spears are likely to crack, splinter and break in combat.^You should always carry a secondary weapon.
-; qstr_This_area_of_Braavos|This area of Braavos can best be described as the very core of the city.^^ You can almost see the strings that are being pulled from here, the coin and wealth that comes and goes at seemingly endless rates. Though all the Free Cities have their own banks, the Iron Bank is richer and more powerful than all the rest combined, though one would not immediatly think so when observing the keyholders and justiciars, all of whom are dressed in drab coats of brown and grey. Here you can buy the land that is cultivated all along the western shores of northern Essos, the area known as the Braavosian Coastlands, and benefit from the ones working hard, while also acquiring a steady income to fund whatever endeavors you wish. Of course you might not have the coin required to do so, but the servants of Iron Bank are known to have some spare change, and will gladly lend you whatever you require, as long as the loan is repayed. Those who default on their promises meet a grizzly fate, and the people of Braavos have a saying 'The Iron Bank will have its due'.
-; qstr_There_are_currently_|There are currently {reg2} acres of land available for cultivation to provide them with  food and other goods. You own {reg3} acres of land in this town. You currently owe the moneylenders of {s1} {reg4} coins. The interest rate is 20% and the contract period amounts  to 2 weeks. If you dont manage to pay off your debt until the deadline, the interest is raised to 40%. Buying an existing acre costs {reg9} denars, while it sells for {reg10} denars. Building a new one requires {reg11} denars. The rent paid to landowners currently accumulates to {reg13} coins per acre every 2 weeks and has to be collected in the town. Land wont be rented if a town is already well supplied.
-; qstr_You_can_t_sell_0_acr|You can't sell 0 acres of land.
-; qstr_You_can_t_buy_0_acre|You can't buy 0 acres of land.
-; qstr_You_can_t_borrow_0_d|You can't borrow 0 denars.
-; qstr_You_can_t_pay_back_0|You can't pay back 0 denars.
-; qstr_There_are_currently_{|There are currently {reg2} acres of land available for cultivation to provide the people of Braavos with  grain, corn, olives and other goods. You own {reg3} acres of land spread out across the Braavosian Coastlands. You currently owe the Iron Bank {reg4} coins. The interest rate is 20% and the contract period amounts  to 2 weeks. If you dont manage to pay off your debt until the deadline, the interest is raised to 40%. Buying an existing acre costs {reg9} coins, while it sells for {reg10} coins. Building a new one requires {reg11} coins. The rent paid to landowners currently accumulates to {reg13} coins per acre every 2 weeks and is delivered to the servants of the Iron Bank, for safekeeping in the vaults. You can collect your rents by visiting the bank. Land won't be rented if the people of Braavos are already well supplied.
-; qstr_You_ve_lost_15_one_h|You've lost 15 one-handed weapon proficiency.
-; qstr_You_ve_gained_5_one_|You've gained 5 one-handed weapon proficiency.
-; qstr_You_ve_lost_5_one_ha|You've lost 5 one-handed weapon proficiency.
-; qstr_You_ve_lost_20_one_h|You've lost 20 one-handed weapon proficiency.
-; qstr_You_ve_gained_10_one|You've gained 10 one-handed weapon proficiency.
-; qstr_You_ve_lost_2_one_ha|You've lost 2 one-handed weapon proficiency.
-; qstr_You_ve_lost_10_one_h|You've lost 10 one-handed weapon proficiency.
-; qstr_You_missed_the_deadli|You missed the deadline to pay back your debts to the Iron Bank. They now grow at an interest of 50%.
-; qstr_Your_debt_to_the_Iro|Your debt to the Iron Bank is now so staggering that they have given up on ever getting their coin back. But they have other ways of getting their due...
-; qstr_You_ve_been_knocked_unconscious!|You've been knocked unconscious!
-; qstr_You_have_defeated_Se|You have defeated Ser Raymun Templeton.
-; qstr_Return_to_Ser_Alyn_T|Return to Ser Alyn Tollett.
-; qstr_Receive_your_reward.|Receive your reward.
-; qstr_You_ve_gained_35_ren|You've gained 35 renown.
-; qstr_You_ve_gained_2_agil|You've gained 2 agility.
-; qstr_You_have_beaten_the_t|You have beaten the twins!
-; qstr_Delicious!_The_cook_|Delicious! The cook has seasoned it with pepper!
-; qstr_Delicious!_This_cook|Delicious! This cook knows what he's doing!
-; qstr_You_can_t_afford_tha|You can't afford that.
-; qstr_This_does_nothing:|This does nothing:
-; qstr_We_re_not_afraid_of_y|We're not afraid of you. Time to bust some heads!
-; qstr_{playername}_when_we_|{playername}, when we started our long walk, few people had the courage to support me. And fewer still would be willing to put their lives at risk for my cause. But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and there were times I came close to losing all hope. But with the help of the gods, we prevailed. It is now time for me to leave your company and take what's rightfully mine. From now on, I will carry out the great responsibility of ruling {s3}. There still lie many challenges ahead and I count on your help in overcoming those. And of course, you will always remain as my foremost vassal.
-; qstr_{s1}__embassy_|{s1} (embassy)
-; qstr___{reg1}_coins_per_n| ({reg1} coins per night)
-; qstr_Moreover_you_earn_{re|Moreover, you earn {reg8} coins from the clever bets you placed on yourself...
-; qstr_^Buying_{s4}_here_and|^Buying {s4} here and selling it at {s5} would bring a profit of {reg6} coins per item.{s3}
-; qstr_You_stumble_and_fall!|You stumble and fall!
-; qstr_Light_spears_are_lik|Light spears are likely to crack, splinter and break in combat.^You should always carry a secondary weapon.
-; qstr__You_start_performin| You start performing these hard peasantry basic work.
-; qstr_You_lose_10_renown.|You lose 10 renown.
-; qstr__You_ve_been_carried| You've been carried off as prisoner.
-; qstr__The_village_is_being| The village is being raided. You are no longer needed in the field.
-; qstr__The_village_is_being_| The village is being infested by bandits. You are no longer needed in the field.
-; qstr_You_improve_your_ren|You improve your renown with this village.
-; qstr_Alas_you_don_t_impro|Alas, you don't improve your renown with this village.
-; qstr_Working_in_the_field|Working in the fields is hard work, but you've gained {reg1} xp and receive {s1}. {s2}.
-; qstr_You_keep_working_har|You keep working hard for this village...
-; qstr_Your_strenuous_villa|Your strenuous village work ends.
-; qstr_You_begin_working_in|You begin working in the fields.
-; qstr_Working_in_the_fields|Working in the fields is for the peasants!
-; qstr_You_ve_been_carried_|You've been carried off as prisoner.
-; qstr_The_village_is_being|The village is being raided. You are no longer needed in the field.
-; qstr_The_village_is_being_|The village is being infested by bandits. You are no longer needed in the field.
-; qstr_You_improve_your_rel|You improve your relations with the village.
-; qstr_Alas_you_don_t_improv|Alas, you don't improve your relations with the village.
-; qstr_Working_in_the_fields_|Working in the fields is hard work, but you've gained {reg1} experience and receive {s1}. {s2}.
-; qstr_You_keep_working_hard|You keep working hard for the village...
-; qstr__Like_farmer_you_los| Like farmer, you lose renown and reputation.
-; qstr__You_ve_been_carried_| You've been carried off as prisoner. You stop your work.
-; qstr__The_village_is_being_r| The village is being raided. You stop your work.
-; qstr__The_village_is_being_i| The village is being infested by bandits. You stop your work.
-; qstr__You_improve_your_re| You improve your renown with this village
-; qstr__Alas_you_don_t_impr| Alas, you don't improve your renown with this village
-; qstr_Here_are_the_results|Here are the results of your hard work: You exhaust yourself, You gain {reg1} xps, you receive some {s1}. {s2}. Peasant life is hard, but you feel good.
-; qstr_You_start_working_in|You start working in the field, alongside the other peasants.
-; qstr_Working_in_the_field_|Working in the field is for the filthy peasants!
-; qstr_The_village_is_being_r|The village is being raided. You stop working in the field.
-; qstr_The_village_is_being_i|The village is being infested by bandits. You stop working in the field.
-; qstr__You_improve_your_rel| You improve your relations with the village.
-; qstr__Alas_you_don_t_impro| Alas, you don't improve your renown with the village.
-; qstr_You_ve_finished_work|You've finished working for the village, and have exhausted yourself, but you've gained {reg1} experience, you receive {s1}. {s2}.
-; qstr_You_keep_working_for|You keep working for the village...
-; qstr__Alas_you_don_t_improv| Alas, you don't improve your relations with the village.
-; qstr_You_ve_finished_worki|You've finished working for the village, and have exhausted yourself, but you've gained {reg1} experience and you receive {s1}. {s2}.
-; qstr_Part_of_your_food_was|Part of your food was distributed.
-; qstr_You_managed_to_catch_|You managed to catch a fat fish, and the fish had another fish inside it! You smoked both over an open fire.
-; qstr_The_line_broke!|The line broke!
-; qstr__When_you_give_him_ar| When you give him armor and food, he suddenly appear as a mighty warrior.
-; qstr__The_priest_bless_you_| The priest bless you and you continue on your way.
-; qstr_The_septon_bless_you_a|The septon bless you, and you continue on your way.
-; qstr_{s10}|{s10}
-; qstr_A_jubilant_young_maid|A jubilant young maiden gift you a fine looking courser.
-; qstr_After_two_hours_the_|After two hours the bandits return with some loot and the elders head...
-; qstr_The_ruler_of_{s3}_app|The ruler of {s3} applauds your valiant victory, and gift you a massive two-handed axe.
-; qstr_A_young_maiden_from_|A young maiden from {s3} gift you a fine sword.
-; qstr_A_young_noble_from_{|A young noble from {s3} gift you a fine curved sword.
-; qstr_A_wealthy_merchant_f|A wealthy merchant from {s3} gift you a fine destrier.
-; qstr_A_jubilant_merchant_g|A jubilant merchant gift you a fine looking courser.
-; qstr_A_shy_young_maiden_f|A shy young maiden from {s3} gift you a fine looking palfrey.
-; qstr_The_ruler_of_{s3}_gift_yo|The ruler of {s3} gift you a fine palfrey.
-; qstr_The_merchant_gave_you|The merchant gave you a heavy bag of silver, enough to start your own career as a sellsword, merchant or outlaw, or begin the long and arduous journey towards lordship. You can strike out on your own, or search the town of Weeping Tower for people who might have need of your services. Talk to septon Garibald in the castle hall of Weeping Tower to learn more.
-; qstr_A_lady_of_{s3}_applau|A lady of {s3} applauds your victory, and gift you a fine bow, carved from the branches of a weirwood.
-; qstr_One_of_the_nobles_of_|One of the nobles of {s3} gift you a fine bow, decorated by a master craftsman.
-; qstr_The_ruler_of_{s3}_gift_you|The ruler of {s3} gift you a fine bow, crafted from the bones of a long dead dragon.
-; qstr_The_ruler_of_{s3}_gift_you_|The ruler of {s3} gift you a fine bow, decorated by a master craftsman.
-; qstr_The_nobles_and_merchan|The nobles and merchants of {s3} gift you a fine sword, crafted by a master weaponsmith.
-; qstr_A_young_maiden_from_a|A young maiden from a noble house gift you a fine sword, crafted by the best weaponsmith in {s3}.
-; qstr_A_young_nobleman_gif|A young nobleman gift you a fine curved sword, crafted by the best blacksmith in {s3}.
-; qstr_A_young_knight_gift_y|A young knight gift you sword, finely wrought and decorated with silver.
-; qstr_The_ruler_of_{s3}_gift_you_a|The ruler of {s3} gift you a fine destrier, the best one in his stables.
-; qstr_The_local_septon_gift|The local septon gift you a fine valyrian dagger, wrought in dragonflame.
-; qstr_A_jubilant_young_maide|A jubilant young maiden gift you a fine looking courser, well-trained and fast.
-; qstr_A_jubilant_young_mer|A jubilant young merchant gift you a fine looking courser.
-; qstr_The_ruler_of_{s3}_gift_you_a_|The ruler of {s3} gift you a fine palfrey, the best one in his stables.
-; qstr_The_leading_merchant|The leading merchant of {s3} gift you a heavy bag of silver, as a reward for your valiant victory.
-; qstr_One_of_the_constable|One of the constables of {s3} gift you a small bag of silver, with his thanks. Apparently, he won a lot of silver betting on you.
-; qstr_A_distant_cousin_of_|A distant cousin of the ruler of {s3} gift you a small bag of silver.
-; qstr_The_ruler_of_{s3}_gift_you_a_h|The ruler of {s3} gift you a heavy bag of silver, as a reward for your valiant victory in the melee.
-; qstr_The_people_of_The_We|The people of The Weeping Tower are duly impressed.
+qstr_Return_to_the_castle|Regresa más tarde al castillo y habla con Ser Rodrik Cassel.
+qstr_Search_the_tavern_fo|Busque la taberna para el campesino de Cairnhall.
+qstr_Search_the_tavern_for|Busque la taberna para Tyrion Lannister.
+qstr_Search_the_tavern_for_|Busque la taberna para Ser Gilbert Farring.
+qstr_Search_the_tavern_for_M|Busque la taberna para Moredo Tendyris.
+qstr_Visit_Illyrio_Mopati|Visita a Illyrio Mopatis en Pentos.
+qstr_Return_later_and_tal|Regresa más tarde y habla con el bardo.
+qstr_Go_to_Fairmarket_and|Ve a Buenmercado y habla con el Hermano Mayor.
+qstr_Return_to_the_castle_|Regresa más tarde al castillo y habla con el Príncipe Desharrapado.
+qstr_Return_to_the_tavern_|Busque la taberna para Phario Forel.
+qstr_A_ruler_should_be_ge|Un gobernante debe ser generoso, ¡no tacaño!
+qstr_You_gain_2_right_to_|Ganáis 2 en derecho a gobernar.
+qstr_Septon_Garibald_told|El Septon Garibald te habla de un agricultor que necesita ayuda. Lo puedes encontrar en la taberna.
+qstr_The_merchant_gave_yo|El comerciante le dio una pesada bolsa de plata, lo suficiente como para comenzar su propia carrera como mercenario, comerciante o forajido, e iniciar el largo y arduo camino hacia la nobleza. Puede actuar por su cuenta, o buscar en la localidad de Atalaya Llorosa a personas que podrían necesitar de sus servicios.
+qstr_Ser_Clifford_Gower_t|Ser Clifford Gower, el capitán de la guardia, necesita a alguien para entregar una carta. Lo puedes encontrar en la sala del castillo.
+qstr_Ser_Clifford_Gower_a|Ser Clifford Gower os pide entregar una carta y un regalo, al castellano de Nuevestrellas, donde se celebra un torneo por el día del nombre de Rowena Templeton, que está a punto de tener lugar. Nuevestrellas encuentra cerca Bosque de la Serpiente, en el Valle.
+qstr_You_hand_Ser_Alyn_th|Entregas a Ser Alyn la carta y el regalo.
+qstr_Ser_Alyn_Tollett_ask|Ser Alyn Tollett os pidió quedaros alrededor para el torneo que celebra el día delnombre de Rowena Templeton. Visita las arenas de torneo y los campos de comerciantes.
+qstr_You_attacked_Ser_Ray|Usted atacó a Ser Raymun Templeton, y os acusa. Ser Alyn Tollett os aconseja pedir un juicio por el combate.
+qstr_The_trial_by_combat_|El juicio por combate está a punto de comenzar. Derrota a Ser Raymun Templeton.
+qstr_You_stumble_and_fall|Usted tropieza y se cae.
+qstr_The_men_in_the_cages| Sin embargo los hombres en las jaulas gritan algo ferozmente.
+qstr_The_men_of_the_Storm|Los hombres de las Tierras de las Tormentas no están de acuerdo.
+qstr_The_man_in_the_sack_|Sin embargo el hombre en el saco grita algo ferozmente.
+qstr_The_old_man_looks_pl|El anciano mira contento.
+qstr_The_men_of_the_villa|La gente de la aldea no está de acuerdo.
+qstr_And_a_tasty_boar_it_|¡Y era un sabroso jabalí!
+qstr_A_fine_meal_and_an_e|¡Una comida fina, y un vino exquisito!
+qstr_Your_weapon_broke.|Tu arma se rompió.
+qstr_Hah!_Your_weapon_bro|¡Hah! Tu arma se rompió. No puede ser reparado hasta el final de la batalla.
+qstr_You_broke_your_lance|¡Rompiste su lanza!
+qstr_You_broke_your_spear|¡Rompiste su espada!
+qstr_Your_{s20}_is_too_cr|¡Su {s20} es demasiado mala para deshacerse!
+qstr_Your_{s20}_cracks!|¡Su {s20} se agrieta!
+qstr_Your_{s20}_falls_apa|¡Su {s20} se deshace!
+qstr_Your_spear_broke!|¡Tu arma se rompió!
+qstr_A_round_steel_shield_c|Un escudo redondo de acero, forjado por hombres entrenados en Invernalia.
+qstr_Lances_are_likely_to|Las lanzas son propensas a romperse en el impacto. ^ Vos siempre debéis llevar un arma secundaria.
+qstr_Spears_are_likely_to|Las lanzas son propensas a agrietarse, astillarse y romperse en combate. ^ Vos siempre debéis llevar un arma secundaria.
+qstr_This_area_of_Braavos|Esta área de Braavos es la que mejor se puede describir como el corazón mismo de la ciudad. ^^ Casi se puede ver las cadenas que están siendo tirados desde aquí, la moneda y la riqueza que viene y se va a un ritmo aparentemente interminables. A pesar de que todas las Ciudades Libres tienen sus propios bancos, el Banco de Hierro es más rico y más poderoso que todos los demás juntos, aunque uno no lo pensaría así de primeras al observar a los guardias, todos ellos vestidos con abrigos grises y de color marrón gris. Aquí usted puede comprar la tierra que es cultivada a lo largo de la costa occidental del norte de Essos, la zona conocida como la Costa Braavosi, y beneficiarse de los que trabajan duro, a la vez que obtendrás de unos ingresos estables para financiar cualquier esfuerzo que usted desee. Por supuesto puede que no tenga el dinero necesario para hacerlo, pero los siervos de Banco de Hierro  con mucho gusto te prestarían la cantidad de dinero que necesitases, siempre y cuando el préstamo sea pagado. Los que incumplan sus promesas les espera un horrible destino, y el pueblo de Braavos tienen un dicho "El Banco de Hierro obtiene lo que le pertenece".
+qstr_There_are_currently_|Hay actualmente {reg2} acres de tierra disponible para cultivarlos y dotarlos de comida y otros bienes. Poseeis {reg3} acres de tierra en esta ciudad. Actualmente, le debeis a los prestamistas de {s1} {reg4} monedas. La tasa de intereses es del 20% y debéis pagar cada 2 semanas. Si no pagáis antes de la fecha los intereses suben al 40%. Comprar los acres restantes costaría {reg9} monedas, mientras se venden por {reg10} monedas. Construir uno nuevo requiere de {reg11} monedas. La renta pagada a los propietarios de las tierras acumula {reg13} moneras por acre cada dos semanas y tiene que recogerse en la ciudad. Las tierras no se alquilarán si la ciudad está ya bien suplida.
+qstr_You_can_t_sell_0_acr|No puedes vender 0 acres de tierra.
+qstr_You_can_t_buy_0_acre|No puedes comprar 0 acres de tierra.
+qstr_You_can_t_borrow_0_d|No puedes pedir prestados 0 venados de plata.
+qstr_You_can_t_pay_back_0|No puedes devolver 0 venados de plata.
+qstr_There_are_currently_{|Hay actualmente {reg2} acres de tierra disponible para cultivarlos y para proporcionar a la gente de Braavos grano, maíz, aceitunas y otros bienes. Poseeis {reg3} acres de tierra extendido a través de la Costa Bravoosi. Actualmente, le debeis al Banco de Hierro {reg4} venados de plata. La tasa de intereses es del 20% y debéis pagar cada 2 semanas. Si no pagáis antes de la fecha los intereses suben al 40%. Comprar los acres restantes costaría {reg9} venados de plata, mientras se venden por {reg10} venados de plata. Construir uno nuevo requiere de {reg11} venados de plata. La renta pagada a los propietarios de las tierras acumula {reg13} venados de plata por acre cada dos semanas y y se entrega a los funcionarios del Banco de Hierro, para su custodia en las bóvedas. Vos podéis obtener sus rentas visitando el banco. La tierra no se alquila si el pueblo de Braavos ya están bien abastecido.
+qstr_You_ve_lost_15_one_h|Habéis perdido 15 puntos de habilidad con armas a una mano.
+qstr_You_ve_gained_5_one_|Habéis ganado 5 puntos de habilidad con armas a una mano.
+qstr_You_ve_lost_5_one_ha|Habéis perdido 5 puntos de habilidad con armas a una mano.
+qstr_You_ve_lost_20_one_h|Habéis perdido 20 puntos de habilidad con armas a una mano.
+qstr_You_ve_gained_10_one|Habéis ganado 10 puntos de habilidad con armas a una mano.
+qstr_You_ve_lost_2_one_ha|Habéis perdido 2 puntos de habilidad con armas a una mano.
+qstr_You_ve_lost_10_one_h|Habéis perdido 10 puntos de habilidad con armas a una mano.
+qstr_You_missed_the_deadli|Habéis traspasado la fecha límite para pagar vuestras deudascon el Banco de Hierro. Se os aplicará un interés del 50%.
+qstr_Your_debt_to_the_Iro|Tu deuda con el Banco de hierro es ahora tan grande que han renunciado a conseguir que les devuelvas su dinero. Pero tienen otras maneras de hacerte pagar tu deuda ...
+qstr_You_ve_been_knocked_unconscious!|¡Habéis sido golpeado hasta quedar inconsciente!
+qstr_You_have_defeated_Se|Habéis derrotado a Ser Raymun Templeton.
+qstr_Return_to_Ser_Alyn_T|Regresa con Ser Alyn Tollett.
+qstr_Receive_your_reward.|Recibes tu recompensa.
+qstr_You_ve_gained_35_ren|Habéis ganado 35 puntos de renombre.
+qstr_You_ve_gained_2_agil|Habéis ganado 2 puntos de agilidad.
+qstr_You_have_beaten_the_t|¡Has vencido a los gemelos!
+qstr_Delicious!_The_cook_|¡Delicioso! ¡El cocinero ha sazonado con pimienta!
+qstr_Delicious!_This_cook|¡Delicioso! ¡Este cocinero sabe lo que hace!
+qstr_You_can_t_afford_tha|No tenéis suficiente dinero.
+qstr_This_does_nothing:|Esto no hace nada.
+qstr_We_re_not_afraid_of_y|No nos asustas. ¡Os partiremos la cabeza!
+qstr_{playername}_when_we_|{playername}, cuando comencé mi larga andadura, poca gente tuvo el coraje de apoyarme. Mucho menos aún de arriesgar su vida por mi causa. Pero vos no os lo pensasteis dos veces y cargasteis contra mis enemigos. Hemos pasado por muchas cosas juntos, y hubo momentos en los que casi perdí la esperanza. Pero con la ayuda de los Siete hemos prevalecido. Es tiempo para mí de abandonaros  y tomar lo que es mío por derecho. De hoy en adelante asumiré la gran responsabilidad de gobernar {s3}. Sé que aún nos esperan muchos desafíos y cuento con vuestra ayuda para superarlos. Y por supuesto, no habrá mejor vasallo para mí que vos.
+qstr_{s1}__embassy_|{s1} (embajada)
+qstr___{reg1}_coins_per_n| ({reg1} venados de plata por noche)
+qstr_Moreover_you_earn_{re|Además, ganáis {reg8} venados de plata por las astutas apuestas que habéis hecho sobre vuestra persona...
+qstr_^Buying_{s4}_here_and|^Comprar {s4} aquí e ir a {s5} para vender os reportará una ganancia de {reg6} venados de plata por unidad.{s3}
+qstr_You_stumble_and_fall!|¡Tropiezas y te caes!
+qstr_Light_spears_are_lik|Las lanzas ligeras son propensas a agrietarse, astillarse y romperse en combate. ^ Vos siempre debéis llevar un arma secundaria.
+qstr__You_start_performin|Comienzas a realizar el trabajo básico de los campesinos.
+qstr_You_lose_10_renown.|Perdéis 10 puntos de renombre.
+qstr__You_ve_been_carried|Has sido tomado prisionero.
+qstr__The_village_is_being|La aldea está siendo asaltada. Ya no sois necesario en los campos.
+qstr__The_village_is_being_|Esta aldea está infestada de bandidos. Ya no sois necesario en los campos.
+qstr_You_improve_your_ren|Mejoráis vuestro renombre en la aldea.
+qstr_Alas_you_don_t_impro|Por desgracia, no mejoráis vuestro renombre en esta aldea.
+qstr_Working_in_the_field|Labrar los campos es un trabajo duro, pero ganáis {reg1} experiencia y recibís {s1}. {s2}.
+qstr_You_keep_working_har|Sigues trabajando duro para esta aldea...
+qstr_Your_strenuous_villa|Tu extenuante trabajo en la aldea llega a su fin.
+qstr_You_begin_working_in|Comienzas a trabajar en el campo.
+qstr_Working_in_the_fields|¡Trabajar en el campo es para campesinos!
+qstr_You_ve_been_carried_|Has sido tomado prisionero.
+qstr_The_village_is_being|La aldea está siendo asaltada. Ya no sois necesario en los campos.
+qstr_The_village_is_being_|Esta aldea está infestada de bandidos. Ya no sois necesario en los campos.
+qstr_You_improve_your_rel|Mejoráis vuestra relación con la aldea
+qstr_Alas_you_don_t_improv|Por desgracia, no mejoráis vuestra relación con esta aldea.
+qstr_Working_in_the_fields_|Labrar los campos es un trabajo duro, pero ganáis {reg1} experiencia y recibís {s1}. {s2}.
+qstr_You_keep_working_hard|Seguís trabajando duro para la aldea...
+qstr__Like_farmer_you_los|Como granjero, pierdes renombre y reputación.
+qstr__You_ve_been_carried_|Has sido tomado prisionero. Dejas de hacer tu trabajo.
+qstr__The_village_is_being_r|La aldea está siendo asaltada. Dejas de hacer tu trabajo.
+qstr__The_village_is_being_i|La aldea está infestada de bandidos. Dejas de hacer tu trabajo.
+qstr__You_improve_your_re|Mejoráis vuestro renombre en la aldea.
+qstr__Alas_you_don_t_impr|Por desgracia, no mejoráis vuestro renombre en esta aldea.
+qstr_Here_are_the_results|Aquí están los resultados del trabajo duro. Te sientes exausto. Ganas  {reg1} experiencia, recibes algunos {s1}. {s2}. La vida de un campesino es dura, pero te sientes bien contigo mismo.
+qstr_You_start_working_in|Comienzas a trabajar en el campo, junto a otros campesinos.
+qstr_Working_in_the_field_|¡Trabajar en el campo es para campesinos inmundos!
+qstr_The_village_is_being_r|La aldea está siendo asaltada. Dejas de hacer tu trabajo en los campos.
+qstr_The_village_is_being_i|La aldea está infestada de bandidos. Dejas de hacer tu trabajo en los campos.
+qstr__You_improve_your_rel|Mejoráis vuestra relación con la aldea
+qstr__Alas_you_don_t_impro|Por desgracia, no mejoráis vuestro renombre en esta aldea.
+qstr_You_ve_finished_work|Has terminado tu trabajo en la aldea y estás agotado, pero ganáis {reg1} experiencia y recibís {s1}. {s2}.
+qstr_You_keep_working_for|Seguís trabajando para la aldea...
+qstr__Alas_you_don_t_improv|Por desgracia, no mejoráis vuestra relación con esta aldea.
+qstr_You_ve_finished_worki|Has terminado tu trabajo en la aldea y estás agotado, pero ganáis {reg1} experiencia y recibís {s1}. {s2}.
+qstr_Part_of_your_food_was|Parte de vuestras provisiones han sido distribuidas.
+qstr_You_managed_to_catch_|Te las arreglas para pescar un pez gordo y ¡dentro había otro pez! Fumas delante del fuego.
+qstr_The_line_broke!|¡Te pasaste de la raya!
+qstr__When_you_give_him_ar|Cuando le entregáis armadura y comida, de repente parece un poderoso guerrero.
+qstr__The_priest_bless_you_| El septón os bendice y continuáis vuestro camino .
+qstr_The_septon_bless_you_a|El septón os bendice y seguís vuestro camino .
+qstr_{s10}|{s10}
+qstr_A_jubilant_young_maid|Una doncella emocionada os regala un corcel de excelente aspecto.
+qstr_After_two_hours_the_| Después de dos horas, los bandidos vuelven con algo de botín y la cabeza de los ancianos...
+qstr_The_ruler_of_{s3}_app|El señor de {s3} aplaude vuestra victoria, y os obsequia con una enorme hacha a dos manos.
+qstr_A_young_maiden_from_|Una joven doncella de {s3} os obsequia con una espada de buena manufactura.
+qstr_A_young_noble_from_{|Un joven noble de  {s3} os regala una espada curva de exquisita factura.
+qstr_A_wealthy_merchant_f|Un rico comerciante de {s3} os regala uno de sus mejores caballos.
+qstr_A_jubilant_merchant_g|Un comerciente emocionado os regala un corcel de excelente aspecto.
+qstr_A_shy_young_maiden_f|Una tímida y joven doncella de {s3} os regala un palafrén de excelente aspecto.
+qstr_The_ruler_of_{s3}_gift_yo|El señor de {s3} os regala un hermoso palafrén.
+qstr_The_merchant_gave_you|El comerciante le dio una pesada bolsa de plata, lo suficiente como para comenzar su propia carrera como mercenario, comerciante o forajido, e iniciar el largo y arduo camino hacia la nobleza. Puede actuar por su cuenta, o buscar en la localidad de Atalaya Llorosa a personas que podrían necesitar de sus servicios. Habla  con el Septon Garibald en el salón del castillo para saber más.
+qstr_A_lady_of_{s3}_applau|Una dama de {s3} aplaude vuestra victoria, y os regala un excelente arco, tallado en las ramas de un arciano.
+qstr_One_of_the_nobles_of_|Un noble de {s3} os obsequia con un buen arco, decorado por un maestro artesano.
+qstr_The_ruler_of_{s3}_gift_you|El señor de {s3} os regala un excelente arco, fabricado con huesos de un dragón muerto hace mucho tiempo.
+qstr_The_ruler_of_{s3}_gift_you_|El señor de {s3} os regala un excelente arco, decorado por un maestro artesano.
+qstr_The_nobles_and_merchan|Los nobles y mercaderes de {s3} honran vuestra victoria entregándoos una buena espada, forjada por un maestro armero.
+qstr_A_young_maiden_from_a|Una joven doncella de una casa noble os regala una bella espada, forjada por el mejor armero de {s3}.
+qstr_A_young_nobleman_gif|Un joven noble os regala una bella espada curva, forjada por el mejor herrero de {s3}.
+qstr_A_young_knight_gift_y|Un joven caballero os regala una espada, finamente forjada y decorada con plata.
+qstr_The_ruler_of_{s3}_gift_you_a|El señor de {s3} os regala un bello caballo, el mejor que hay en sus establos.
+qstr_The_local_septon_gift|El septón local os obsequia con una excelente daga valyria, forjada con fuego de dragón.
+qstr_A_jubilant_young_maide|Una doncella emocionada os regala un corcel de excelente aspecto, bien entrenado y veloz.
+qstr_A_jubilant_young_mer|Un comerciente emocionado os regala un corcel de excelente aspecto.
+qstr_The_ruler_of_{s3}_gift_you_a_|El señor de {s3} os regala un hermoso palafrén, el mejor que hay en sus establos.
+qstr_The_leading_merchant|El comercienta jefe de {s3} os regala una pesada bolsa de plata, como recompensa por su valiente victoria.
+qstr_One_of_the_constable|Uno de los guardias de {s3} os regala una pequeña bolsa de plata y su agradecimiento. Al parecer, él ganó una gran cantidad de dinero apostando por ti.
+qstr_A_distant_cousin_of_|El primo lejano del señor de {s3} os recompensa con una pequeña bolsa de plata.
+qstr_The_ruler_of_{s3}_gift_you_a_h|El comercienta jefe de {s3} os regala una pesada bolsa de plata, como recompensa por su valiente victoria en la refriega.
+qstr_The_people_of_The_We|Los habitantes de Atalaya Llorosa son debidamente impresionados.
