@@ -74,7 +74,7 @@ qstr_Weapon_upgrade_setti|Impostazioni aggiornamento armi:
 qstr_Apply_to_everyone|Applica a tutti
 qstr_Upgrade_armor_|Migliora armatura
 qstr_Upgrade_horse_|Migliora cavallo
-; qstr_Price_threshold_of_i|Price threshold of items for picking:
+qstr_Price_threshold_of_i|Soglia del valore degli oggetti per la raccolta:
 qstr_Select_your_domestic|Seleziona la politica interna
 qstr_Centralization:|Centralizzazione:
 qstr_Aristocracy:|Aristocrazia:
@@ -166,10 +166,10 @@ qstr_Withdraw|Ritira
 qstr_Deposit|Deposita
 qstr_Record_Battle_Size_a|Scegli la dimensione delle battlagie nel menù Opzioni:
 ; qstr_The__Weapon_Use_Fixe|The 'Weapon Use Fixes' change NPC decision-^making with the following weapon types.^^Un-tick the boxes if you dislike the behavior.
-; qstr_Use_NPC_Lancer_Fix:|Use NPC Lancer Fix:
-; qstr_Use_NPC_Horse_Archer|Use NPC Horse Archer Fix:
-; qstr_Use_NPC_Spear/Polear|Use NPC Spear/Polearm Fix:
-; qstr_Use_Pike/Horse_Damag|Use Pike/Horse Damage Tweaks:
+qstr_Use_NPC_Lancer_Fix:|Utilizza il fix per i Lancieri  PNG:
+qstr_Use_NPC_Horse_Archer|Utilizza il fix per gli Arcieri a Cavallo  PNG:
+qstr_Use_NPC_Spear/Polear|Utilizza il fix per Aste/Armi Inastate PNG:
+qstr_Use_Pike/Horse_Damag|Utilizza Modifica Danni per Trafiggere/Cavallo:
 qstr_Distance_limit_for_s|Distanza massima per visualizzare le barre HP:
 qstr_Show_health_bars_of_|Mostra la barra di salute delle truppe alleate:
 qstr_Show_health_bars_of_e|Mostra la barra della salute delle truppe nemiche:
@@ -183,14 +183,14 @@ qstr_Reassign_De_horsed_C|Riassegna i Cavalieri Smontati da Cavallo a:
 qstr_Reassign_No_Ammo_Arc|Riassegna gli Arceri Senza Munizioni a:
 qstr_Reinforcement_waves:|Numero di rinforzi a ondata:
 qstr_Report_shot_distance|Segnala distanza di tiro:
-; qstr_Report_extra_XP_&_Wp|Report extra XP & Wpn Prof:
+qstr_Report_extra_XP_&_Wp|Riporta extra XP & Comp Armi:
 qstr_Enable_Bodyguards_in|Abilita le guardie del corpo nelle città/villaggi:
-; qstr_Morale_threshold_for|Morale threshold for consuming food^twice the speed as much as normal:
+qstr_Morale_threshold_for|Limite livello del Morale per il consumo del cibo^doppio rispetto al normale:
 qstr_Speed_of_battles_on_|Velocità delle battaglie sulla mappa:
 qstr_Skill_penalty_from_e|Penalità sull'abilità dovuta all'ingombro dell'equipaggiamento:
 qstr_Ranged_penalty_from_|Distanza di tiro penalizzata dal tempo:
-; qstr_Disable_horse_speed_|Disable horse speed scaling:
-; qstr_Allow_drowning_in_mi|Allow drowning in missions:
+qstr_Disable_horse_speed_|Disabilità variazione velocità del cavallo:
+qstr_Allow_drowning_in_mi|Consenti annegamento nelle missioni:
 qstr_Terrain_advantage_in|Vantaggio tattico nelle battaglie sul proprio territorio:
 qstr_Lords_returning_from|I Lord tornano dall'esilio:
 qstr_Diplomacy_AI_changes|Modifiche alla diplomazia IA:
@@ -199,13 +199,13 @@ qstr_Anti_woman_prejudice|Livello di pregiudizio verso le donne:
 qstr_Enable_Fog_of_War:|Abilita la Nebbia di Guerra:
 qstr_Disable_Time_of_Day:|Disabilita Tempo del Giorno:
 qstr_Probability_of_rain/|Probabilità di pioggia/neve (%):
-; qstr_Cloud_amount:|Cloud amount:
+qstr_Cloud_amount:|Quantità di nuvole:
 qstr_Fog_strength:|Densità nebbia:
 qstr_Disable_companions__|Disattivare reclami compagni:
 qstr_Enable_debug_mode:|Abilita la modalità di debug:
 qstr_Charge_All|Carica Tutti
 qstr_Formations_AI|Formazioni IA
-; qstr_Native_AI_w/Formatio|Native AI, w/Formations
+qstr_Native_AI_w/Formatio|IA Native, w/Formazioni
 qstr_Enabled|Abilita
 qstr_Frequent|Frequente
 qstr_Low|Basso
@@ -261,7 +261,7 @@ qstr_a_goods_peddler|un venditore ambulante
 qstr_a_university_student|uno studente universitario
 qstr_a_troubadour|un trovatore
 qstr_a_squire|uno scudiero
-qstr_a_lady_in_waiting|una gentildonna
+qstr_a_lady_in_waiting|una dama di compagnia
 qstr_lust_for_money_and_p|brama di denaro e potere
 qstr_being_forced_out_of_|la perdita della tua casa
 qstr_wanderlust|il desiderio di viaggiare
@@ -346,18 +346,18 @@ qstr_the_general_state_of|lo stato generale degli affari.^----------------------
 qstr_Morale:_____________|Morale: ^^Origine: 
 qstr_State:______________|Stato:
 qstr_Startpage_set__Exten|Impostazioni pagina iniziale (Visuale Estesa)
-; qstr_How_will_your_male_v|How will your male vassals be known?
-; qstr_How_will_your_female|How will your female vassals be known?
+qstr_How_will_your_male_v|Con quale titolo saranno noti i vostri vassalli maschi?
+qstr_How_will_your_female|Con quale titolo saranno noti i vostri vassalli donna?
 qstr_Default_title.|Titolo predefinito.
 qstr_Set_Custom_Titles.|Imposta Titoli personalizzati.
 qstr_Use_fief_based_title|Utilizza titoli basati sul feudo (predefinito).
-; qstr_What_will_your_party|What will your party be known as?
-qstr_By_the_name_entered_|Dal nome inserito sopra.
-qstr_Simply_by_my_name:_{|Semplicemente dal mio nome: {s5}.
+qstr_What_will_your_party|Con quale nome sarà nota la tua compagnia?
+qstr_By_the_name_entered_|Con il nome inserito sopra.
+qstr_Simply_by_my_name:_{|Semplicemente con il mio nome: {s5}.
 qstr__{s2}_siege_camp.|{s2} campo d'assedio.
 qstr__Continue_| Continua
-; qstr_This_area_of_{s1}_ca|This area of {s1} can best be described as the very core of the town.^^ You can almost see the strings that are being pulled from here, the money that comes and goes at seemingly endless rates.  Here you can buy the land that is cultivated outside the towns gates and benefit from the ones working hard. Of course you might not have the denars required to do so, but the moneylenders are known to have some spare change.
-; qstr_{reg1}_people_live_i|{reg1} people live in {s1}. There are currently {reg2} acres of land available for cultivation to provide them with  food and other goods. You own {reg3} acres of land in this town. You currently owe the moneylenders of {s1} {reg4} denars. The interest rate is 20% and the contract period amounts  to 2 weeks. If you dont manage to pay off your debt until the deadline, the interest is raised to 40%. Buying an existing acre costs {reg9} denars, while it sells for {reg10} denars. Building a new one requires {reg11} denars. The rent paid to landowners currently accumulates to {reg13} denars per acre every 2 weeks and has to be collected in the town. Land wont be rented if a town is already well supplied.
+qstr_This_area_of_{s1}_ca|Questa zona di {s1} può essere meglio descritta come il cuore della città.^^ Si possono quasi vedere i fili che vengono tirati da qui, il denaro che va e viene in quantità in apparenza infinita. Qui è possibile acquistare la terra che viene coltivata al di fuori dei cancelli della città e beneficiare di quelli che la lavorano duro. Naturalmente si potrebbe non avere i denari necessari per farlo, ma gli usurai sono noti per avere un po di spiccioli.
+qstr_{reg1}_people_live_i|{reg1} persone vivono dentro {s1}. Ci sono attualmente {reg2} ettari di terreno disponibili per essere coltivati e fornire loro cibo e altre merci. Possiedi {reg3} acri di terra in questa città. Attualmente devi agli usurai di {s1} {reg4} denari. Il tasso di interesse è del 20% e il periodo del contratto è pari a 2 settimane. Se non riesci a pagare il debito prima della scadenza, l'interesse sarà elevato al 40%. L'acquisto di un acro esistente costa {reg9} denari, mentre si può vendere per {reg10} denari. Costruirne uno nuovo richiede {reg11} denari. L'affitto pagato ai proprietari terrieri attualmente ammonta a {reg13} denari per acro ogni 2 settimane e deve essere raccolto in città. Le terre vengono solitamente affittate se una città è già ben fornita.
 qstr_Choose_how_many_acre|Scegli quanti acri desideri vendere:
 qstr_Choose_how_many_acres|Scegli quanti acri desideri acquistare:
 qstr_Verify|Verifica
@@ -466,7 +466,7 @@ qstr_PBOD_Mod^Options|PBOD Mod^Opzioni
 ; qstr_Damage_tweaks_will_g|Damage tweaks will give a flat boost to damage from spears to horses, and charge damage from horses to infantry, in an attempt to compensate for poor AI use of polearms and charges.
 ; qstr_Mounted_bots_once_th|Mounted bots, once their horse dies, can be re-assinged to a division of your choosing. If active, AI bots will be reassigned to infantry.
 ; qstr_Foot_archer_bots_onc|Foot archer bots, once out of ammo, can be re-assinged to a division of your choosing. If active, AI bots will be reassigned to infantry.
-; qstr_Battle_Continuation_|Battle Continuation allows your troops to continue fighting after you are knocked out.
+qstr_Battle_Continuation_|Continuazione della Battaglia permette alle tue truppe di continuare a combattere anche dopo che sei stato messo ko.
 ; qstr_If_Battle_Continuati|If Battle Continuation is active, you can select what your troops will do after you get knocked out: Disabled has them continue their previous orders; Charge all will give everyone a charge order; Formations AI (if active for the AI) will allow the new AI to take over for you.
 ; qstr_Select_your_prefered|Select your prefered Battle AI: Disabled is Native AI; Formations AI both allows the AI to use formations and changes their battle decision-making; Native AI w/Formations is Native AI but carries out the Native AI with basic formations.
 ; qstr_Enabling_AI_Special_|Enabling AI Special Orders allows the AI teams to use volley fire (crossbows), skirmish mode (bow-users), and spear-bracing (polearm infantry).
@@ -984,7 +984,7 @@ qstr_avoid_melee|evitare il corpo a corpo
 ; qstr_brace_for_charge|brace for charge
 ; qstr_remove_brace_and_fig|remove brace and fight
 qstr_Everyone|Tutti
-; qstr_No_Troops_Left.|No Troops Left.
+qstr_No_Troops_Left.|Nessuna Unità Rimasta.
 qstr_Undefined!|Indefinito!
 ; qstr_DEBUG_:_Weather_pena|DEBUG : Weather penalty {reg2}% - {s0}: {reg0} to {reg1}
 qstr_DEBUG_:_{s0}_profici|DEBUG: competenza {s0} ripristinato a: {reg1}
@@ -1356,7 +1356,7 @@ qstr_Your_recruiter_who_wa|Il reclutatore a cui hai incaricato il reclutamento d
 ; qstr_{s13}_has_been_taken|{s13} has been taken by the enemy and your recruiter who was commissioned to recruit {reg10} recruits vanished  without a trace!
 ; qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
 ; qstr_A_recruiter_has_brou|A recruiter has brought {reg10} recruits to {s13}.
-; qstr_Distance_between_{s1|Distance between {s14} and {s15}: {reg0}
+qstr_Distance_between_{s1|Distanza tra {s14} e {s15}: {reg0}
 ; qstr_Your_caravan_has_bro|Your caravan has brought {s12} to {s13}.
 ; qstr_{s13}_is_unimpressed|{s13} is unimpressed by your paltry gift.
 ; qstr_The_people_of_{s13}_|The people of {s13} are unimpressed by your paltry gift.
@@ -1543,7 +1543,7 @@ qstr_You_get_a_{s3}.|Ottieni {s3}.
 ; qstr_Are_you_mad?_That_s_|Are you mad? That's not going to happen!
 qstr_A_villager_from_{s7}|Un abitante di {s7} ti ha supplicato di salvare il suo villaggio dai banditi che hanno trovato rifugio lì.
 ; qstr_You_chose_well_{s0}.|You chose well, {s0}. My {reg65?companions:lads} know how to keep their word and earn their pay.
-; qstr_Well_done_{s0}._Keep|Well done, {s0}. Keep the money and wine coming our way, and there's no foe in the world you need fear.
+qstr_Well_done_{s0}._Keep|Ben fatto, {s0}. Conservate i soldi e il vino senza paura durante il viaggio, non c'è nemico in questo mondo che dobbiate temere.
 qstr_We_are_at_your_servi|Siamo al vostro servizio, {signore/signora}. Indicateci la direzione di costoro che abbisognano di una lezione, e noi faremo il resto.
 qstr_The_Guildmaster_of_{|Il Borgomastro di {s13} ti ha chiesto di occuparti dei banditi che si aggirano per queste campagne.
 qstr_{s9}_of_{s3}_asked_y|Il {s9} di {s3} ti ha chiesto di consegnare {reg5} unità di {s6} alla taverna a {s4} entro 7 giorni.
@@ -1567,7 +1567,7 @@ qstr_Another_fool_come_to|Ecco qualcuno venuto a buttarsi direttamente sulla mia
 qstr_We_re_not_afraid_of_|Non ci dispiace per voi, {messere/fanciulla}. È tempo di spaccare un po' di teste!
 qstr_That_was_a_mistake._|È stato un errore. Ora renderò la vostra morte lunga e dolorosa.
 qstr_Brave_words._Let_s_s|Parole coraggiose. Vediamo come ve la cavate con i fatti, idiota!
-; qstr_your_lordship|your lordship
+qstr_your_lordship|Vostra signoria
 qstr_A_{s5}?_Well..._Yes_|Un {s5}? Beh... Si, penso di Si. Che strana domanda.
 qstr_Eh?_No_it_most_certa|Eh? No, certamente non è un {s5}. Se fossi in voi metterei in dubbio le mie convinzioni.
 qstr_This_is_the_{reg4?to|{reg4?Questa è la città:Questo è il villaggio} di {s5}, {signore/signora}.
@@ -1584,18 +1584,18 @@ qstr_We_are_at_your_servic|Siamo al vostro servizio, {signore/signora}. Indicate
 qstr_You_wont_find_better|Non troverete mercanti migliori nel resto del mondo.
 qstr_You_won_t_regret_thi|Non ve ne pentirete!
 qstr_{s3}_of_{s4}_wishes_|{s3} da {s4} vuole nominare un nuovo Comandante d'armata e chiama i suoi vassalli in consiglio. {s1} e {s2} sono i possibili candidati.
-; qstr_{s2}_has_heard_his_va|{s2} has heard his vassals' counsel. He selects {s1} as the marshall of {s3}.
+qstr_{s2}_has_heard_his_va|{s2} ha valutato il consiglio dei suoi vassalli. È stato scelto {s1} quale Comandante d'armata di {s3}.
 qstr_{s1}_of_{s3}_was_def|{s1} del {s3} è stato battuto in battaglia, ma è riuscito a fuggire. 
 qstr_Reading_Progress:_{r|Progressi Lettura: {reg1}%
 qstr_{s1}_has_been_besiege|{s1} è assediato da {s2} di {s3}.
 qstr_{s1}_is_the_new_marsh|{s1} è il nuovo comandante in capo di {S2}.
 qstr_{reg0?One_of_your_pri|{reg0?Uno dei tuoi prigionieri, :}{s1} di {s3} è riuscito a fuggire!
-; qstr_You_were_a_child_of_the|You were a child of the steppe, born to a tribe of wandering nomads who lived in great camps throughout the arid grasslands. Like the other tribesmen, your family revered horses above almost everything else, and they taught you how to ride almost before you learned how to walk. 
-; qstr_As_a_{reg3?girl:boy}_growing_out_of|As a {reg3?girl:boy} growing out of childhood, you were sent to live in the court of one of the nobles of the land. There, your first lessons were in humility, as you waited upon the lords and ladies of the household. But from their chess games, their gossip, even the poetry of great deeds and courtly love, you quickly began to learn about the adult world of conflict and competition. You also learned from the rough games of the other children, who battered at each other with sticks in imitation of their elders' swords.
-; qstr_As_a_{reg3?girl:boy}_growing_out_of_|As a {reg3?girl:boy} growing out of childhood, you rode the great steppes on a horse of your own, learning the ways of the grass and the desert. Although you sometimes went hungry, you became a skillful hunter and pathfinder in this trackless country. Your body too started to harden with muscle as you grew into the life of a nomad {reg3?woman:man}.
-; qstr_Though_the_distinction_felt_sudden_to_you_somewh|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you. You found yourself as a student in the university of one of the great cities, where you studied theology, philosophy, and medicine. But not all your lessons were learned in the lecture halls. You may or may not have joined in with your fellows as they roamed the alleys in search of wine, women, and a good fight. However, you certainly were able to observe how a broken jaw is set, or how an angry townsman can be persuaded to set down his club and accept cash compensation for the destruction of his shop.
+qstr_You_were_a_child_of_the|Sei un erede della steppa, la tua nascita e crescita si è verificata in una tribù di nomadi che vive in grandi accampamenti nella prateria, è stata dura. Come ogni membro della tribù, anche la tua famiglia venera i cavalli più di ogni altra cosa, ti hanno insegnato a cavalcare prima ancora che a camminare.
+qstr_As_a_{reg3?girl:boy}_growing_out_of|Essendo {reg3?una ragazza appena cresciuta:un ragazzo appena cresciuto}, la tua assegnazione è presso la corte di un nobile del paese. I tuoi primi insegnamenti riguardano l'umiltà, come quella che mostrano talvolta i signori e le signore del casato. Ma dai loro giochi di scacchi, dai loro pettegolezzi, e persino dalla poesia di grandi opere e di amor cortesi, hai cominciato velocemente ad imparare tutto riguardo le competizioni ed i conflitti degli adulti. Hai imparato anche dai giochi rudimentali degli altri ragazzi, che combattono con bastoni per imitare le spade dei più grandi.
+qstr_As_a_{reg3?girl:boy}_growing_out_of_|Essendo {reg3?una ragazza appena cresciuta:un ragazzo appena cresciuto}, cavalchi attraverso le grandi steppe con un tuo cavallo, imparando le strade da percorrere sull'erba e sul deserto. Anche se a volte patisci la fame, hai imparato l'arte della caccia e dell'esplorazione in queste terre selvagge. Diventi sempre più {reg3?muscolosa crescendo come una nomade:muscoloso crescendo come un nomade}.
+qstr_Though_the_distinction_felt_sudden_to_you_somewh|Anche se noti il cambiamento all'improvviso, in qualche modo sei {reg3?diventata una donna:diventato un uomo}, e il mondo intero sembra cambiare intorno a te. Studi all'università in una grande città, occupandoti di teologia, filosofia e medicina. Ma non tutte le lezioni vengono impartite in aula. Non frequenti buone amicizie, ti aggreghi a gente che cerca donne, vino e una rissa. Comunque, sai mettere a posto una mandibola rotta, o persuadere un cittadino arrabbiato ad accettare un rimborso dei danni per la distruzione del suo locale.
 qstr_You_are_currently_rea|Stai attualmente leggendo {s8}.
-; qstr_Current_party_size_li|Current party size limit is {reg5}.^Current party size modifiers are:^^Base size:  +30^Leadership: {s2}{reg1}^Charisma: {s3}{reg2}^Renown: {s4}{reg3}^TOTAL:  {reg5}
+qstr_Current_party_size_li|L'attuale limite di dimensione della Compagnia è {reg5}.^I momentanei modificatori della dimensione della Compagnia sono:^^Dimensione di base:  +30^Comando: {s2}{reg1}^Carisma: {s3}{reg2}^Fama: {s4}{reg3}^TOTALE:  {reg5}
 qstr_Your_relation_with_th|Il tuo rapporto con le fazioni è:^{s2}
 qstr_Player_renown_is_inc|La fama del personaggio è cresciuta di 100.
 qstr_Player_honor_is_incr|L'onore del personaggio è cresciuto di 1 e adesso è {reg7}.
@@ -1613,7 +1613,7 @@ qstr_I_am_{s4}_a_vassal_of|Sono {s4}, vassallo di {s6}
 qstr_{s9}_asked_you_to_take|{s9} ti ha chiesto di portare il messaggio a {s13} del {s15}. {s13} era a {s4} quando ti è stata affidata la missione.
 qstr_{s11}_asked_you_to_es|{s11} ti ha chiesto di scortare la {s17} {s13} a {s14}.
 qstr_{s13}_asked_you_to_de|{s13} ti ha chiesto di occuparti dei banditi che stanno occupando il villaggio di {s15} e poi di fare rapporto.
-; qstr_{s9}_asked_you_to_rai|{s9} asked you to raise {reg1} {s14} and bring them to him.
+qstr_{s9}_asked_you_to_rai|{s9} ti ha chiesto di aumentare {reg1} {s14} e portarglieli.
 qstr_{s9}_asked_you_to_coll|{s9} ti ha chiesto di raccogliere le tasse da {s3}. Ti ha offerto un quinto dei denari che raccoglierai.
 qstr_{s11}_asked_you_to_ca|{s11} ti ha chiesto di catturare un lord dal {s13}, un lord qualsiasi, e di portare la vittima a {s11} per essere posta sotto custodia.
 qstr_{s9}_asked_you_to_colle|{s9} ti ha chiesto di riscuotere il debito di {reg4} denari {s3} dovuti a lui. {s3} era a {s4} quando la missione ti è stata affidata.
@@ -1656,11 +1656,11 @@ qstr_{s11}_asked_you_to_rescue|{s11} ti ha chiesto di riscattare {suo/sua} {s17}
 ; qstr_{s6}_We_are_losing_{r|{s6} We are losing {reg0} coins due to tax inefficiency. That means {reg1} percent.
 ; qstr_{s6}_Overall_this_sum|{s6} Overall this sums up to {reg0} coins.
 qstr_{reg0}_coins|{reg0} monete
-; qstr__We_are_expecting_{re| We are expecting {reg0} coins for rents
-; qstr__The_troop_wages_for_| The troop wages for {reg0} troops cost us {reg1} coins.
-; qstr_{s61}_and_{reg0}_coi|{s61} and {reg0} coins for tariffs
+qstr__We_are_expecting_{re|Ci aspettiamo {reg0} monete dagli affitti
+qstr__The_troop_wages_for_|Il salario di truppe per {reg0} truppe ci costa {reg1}  monete.
+qstr_{s61}_and_{reg0}_coi|{s61} e {reg0} denari dalle tariffe
 ; qstr_{s4}_{s3}._The_tax_ra|{s4} {s3}. The tax rate is {s50}.{s59}{s61}. Overall this sums up to {s62} coins.
-; qstr_{s9}_asked_you_to_collec|{s9} asked you to collect the debt of {reg4} coins {s3} owes to {reg65?her:him}. {s3} was at {s4} when you were given this quest.
+qstr_{s9}_asked_you_to_collec|{s9} ti ha chiesto di riscuotere il debito di {reg4} denari {s3} dovuti a {reg65?lei:lui}. {s3} era a {s4} quando la missione ti è stata affidata.
 ; qstr_Defeat_Ramsay_Snow._|Defeat Ramsay Snow. Once he's been defeated, return to Ser Rodrik to claim your reward.
 ; qstr_Ser_Arwood_hands_you|Ser Arwood hands you the necklace. Old and worn, the engraving in it resembles a beautiful woman.
 ; qstr_The_priest_hands_you|The priest hands you the horn. It looks old, and it's covered in strange runes.
@@ -1673,9 +1673,9 @@ qstr_{reg0}_coins|{reg0} monete
 ; qstr_Aegon_Bloodborn_has_ro|Aegon Bloodborn has robbed a band of begging brothers. The Elder Brother of their septry has tasked you with bringing him to justice. The Elder Brother told you that outlaws have been seen near The High Fall. Perhaps you can find him there. Or you can return to the Elder Brother and lie about killing Aegon, then claim your reward.
 ; qstr_Enlisted_as_a_{s5}_i|Enlisted as a {s5} in the party of {s13} of {s14}.
 qstr_You_have_deserted_fr|Hai disertato dalla compagnia di {s13}!
-; qstr_Current_rank:_{s5}|Current rank: {s5}
-; qstr_If_you_do_not_return|If you do not return to your commander in time, you will be declared a deserter.
-; qstr_You_have_been_captur|You have been captured! Escape and rejoin your commander!
+qstr_Current_rank:_{s5}|Gradi attuale: {s5}
+qstr_If_you_do_not_return|Se non ritornerai dal tuo comandante in tempo, sarai dichiarato un disertore.
+qstr_You_have_been_captur|Sei stato catturato! Fuggi e ritorna dal tuo comandante!
 ; qstr___too_weak_for_requi|--too weak for required melee weapons
 ; qstr___too_weak_for_requir|--too weak for required armor
 ; qstr___lacking_required_r|--lacking required ranged skill or strength
@@ -1709,18 +1709,18 @@ qstr_Talk_to_Jess.|Parla con Jess.
 ; qstr_Defeat_the_Prince_of_|Defeat the Prince of Bloodstone, and then talk to Korale Kermanthes.
 ; qstr_Return_to_Illyrio_Mo|Return to Illyrio Mopatis.
 ; qstr_The_ancient_valyrian|The ancient valyrian blade worn by Aegon the Dragon.
-; qstr_A_mysterious_mace_al|A mysterious mace, always cold.
+qstr_A_mysterious_mace_al|Una mazza misteriosa, sempre fredda.
 ; qstr_A_great_valyrian_ste|A great valyrian steel axe, of unknown origin.
-; qstr_A_fine_spice_worth_i|A fine spice, worth its weight in gold.
-; qstr_A_worthless_spice_it|A worthless spice, it appears to be mostly dried cow dung.
+qstr_A_fine_spice_worth_i|Una stupenda spezia, vale il suo peso in oro.
+qstr_A_worthless_spice_it|Una spezia orribile, assomiglia a sterco di vacca fatto essiccare.
 ; qstr_Upon_closer_inspecti|Upon closer inspection, it would appear that this sword is not a valyrian blade, but rather a rusty arming sword.
 ; qstr_While_not_a_valyrian|While not a valyrian blade, this sword does appear to have been exceptionally well-made.
 ; qstr_Wait_outside_The_Dre|Wait outside The Dreadfort, and defeat Ramsay Snow once he leaves his fathers castle. Then return to Ser Rodrik.
 ; qstr_Travel_to_The_Dreadf|Travel to The Dreadfort and bring execute Ramsay Snow.
 ; qstr_Find_Aegon_Bloodborn_|Find Aegon Bloodborn and defeat him. He should be around The High Fall, close to Raventree Hall.
 ; qstr_a_JON_STEWART_MAN|a JON STEWART MAN
-; qstr_This_area_of_{s1}_can|This area of {s1} can best be described as the very core of the town.^^ You can almost see the strings that are being pulled from here, the money that comes and goes at seemingly endless rates.  Here you can buy the land that is cultivated outside the towns gates and benefit from the ones working hard. Of course you might not have the coin required to do so, but the merchants of {s1} are known to have some spare change.
-; qstr_{reg1}00_people_live|{reg1}00 people live in {s1}. There are currently {reg2} acres of land available for cultivation to provide them with  food and other goods. You own {reg3} acres of land in this town. You currently owe the moneylenders of {s1} {reg4} coins. The interest rate is 20% and the contract period amounts  to 2 weeks. If you dont manage to pay off your debt until the deadline, the interest is raised to 40%. Buying an existing acre costs {reg9} denars, while it sells for {reg10} denars. Building a new one requires {reg11} denars. The rent paid to landowners currently accumulates to {reg13} coins per acre every 2 weeks and has to be collected in the town. Land wont be rented if a town is already well supplied.
+qstr_This_area_of_{s1}_can|Questa zona di {s1} può essere meglio descritta come il cuore della città.^^ Si possono quasi vedere i fili che vengono tirati da qui, il denaro che va e viene in quantità in apparenza infinita. Qui è possibile acquistare la terra che viene coltivata al di fuori dei cancelli della città e beneficiare di quelli che la lavorano duro. Naturalmente si potrebbe non avere i denari necessari per farlo, ma i mercanti di {s1} sono noti per avere un pò di spiccioli.
+qstr_{reg1}00_people_live|{reg1}00 persone vivono dentro {s1}. Ci sono attualmente {reg2} ettari di terreno disponibili per essere coltivati e fornire loro cibo e altre merci. Possiedi {reg3} acri di terra in questa città. Attualmente devi agli usurai di {s1} {reg4} denari. Il tasso di interesse è del 20% e il periodo del contratto è pari a 2 settimane. Se non riesci a pagare il debito prima della scadenza, l'interesse sarà elevato al 40%. L'acquisto di un acro esistente costa {reg9} denari, mentre si può vendere per {reg10} denari. Costruirne uno nuovo richiede {reg11} denari. L'affitto pagato ai proprietari terrieri attualmente ammonta a {reg13} denari per acro ogni 2 settimane e deve essere raccolto in città. Le terre vengono solitamente affittate se una città è già ben fornita.
 ; qstr_Your_debt_in_{s1}_is_|Your debt in {s1} is now so high that your sovereign himself has taken notice. He has frozen your debt, but is displeased with the situation.
 qstr_You_don_t_have_enough_|Non hai abbastanza monete. Che imbarazzo!
 qstr_Part_of_your_food_wa|Parte del tuo cibo è stata distribuita.
@@ -1734,28 +1734,28 @@ qstr_of_an_indigestion|di indigestione
 ; qstr_It_is_common_knowled|It is common knowledge that the crane is a Celtic symbol of war. Your men are impressed by your worldy knowledge, and grateful that the gods are with them.
 ; qstr_Your_men_pass_by_the|Your men pass by the bird without noticing it.
 ; qstr_The_crane_is_a_Celti|The crane is a Celtic symbol of war - everyone knows that! Your lack of knowledge troubles your men, and they begin to doubt your certainty of character.
-; qstr_The_mushrooms_were_r|The mushrooms were really tasty!
-; qstr_Your_men_are_eating_|Your men are eating mushrooms while resting at camp. They seem to be happy.
+qstr_The_mushrooms_were_r|I finghi sono molto buoni!
+qstr_Your_men_are_eating_|I tuoi uomini mangiano funghi mentre sono al campo. Sembrano felici.
 ; qstr_The_mushrooms_were_re|The mushrooms were really tasteless. You have diarrhoea and feel very bad. Strength and agility attributes were decreased by 1.
 ; qstr_Your_men_are_eating_m|Your men are eating mushrooms while resting at camp. Some of them have diarrhoea and feel very bad. They are angry!
 ; qstr_The_mushrooms_were_rea|The mushrooms were really tasteless. You have diarrhoea and feel very bad. Strength and agility attributes were decreased by 3.
 ; qstr_Your_men_are_eating_mu|Your men are eating mushrooms while resting at camp. Some of them have diarrhoea and feel very bad. They are really angry!
 ; qstr_You_spend_a_good_tim|You spend a good time with the priest's wife, and when her husband returns, you away for the stable without being seen!
-; qstr_Bandits_run_away_whe|Bandits run away when you are near!
+qstr_Bandits_run_away_whe|I banditi fuggono via appena ti avvicini!
 ; qstr_You_kill_the_priest_|You kill the priest while claiming the name of Woden!
-; qstr_Merchants_give_you_s|Merchants give you some money!
+qstr_Merchants_give_you_s|I mercanti ti danno molto denaro!
 ; qstr__The_man_s_eyes_sadl| The man's eyes sadly watch you while you follow your path.
 qstr__You_feel_good_for_h|Ti senti bene per aver aiutato.
 ; qstr__When_you_give_him_a| When you give him armor and food, he draws a distinction in the size of a mighty warrior.
-; qstr__The_child_s_eyes_sa| The child's eyes sadly watch you while you follow your path.
+qstr__The_child_s_eyes_sa|Gli occhi del bambino ti seguono tristemente.
 qstr__New_troops_join_you|Nuove truppe si uniscono alla tua compagnia.
-; qstr__Bandits_flee_away.| Bandits flee away.
+qstr__Bandits_flee_away.|I banditi fuggono via.
 ; qstr__After_tow_hours_the| After tow hours the bandits return with some loot and the chiefs head...
 qstr__Your_men_kill_all_t|I tuoi uomini hanno ucciso tutti i banditi.
-; qstr__You_are_now_a_chris| You are now a christian.
-; qstr__He_join_you.| He join you.
+qstr__You_are_now_a_chris|Ora sei cristiano.
+qstr__He_join_you.|Si unisce a voi.
 ; qstr__The_man_insists_too| The man insists too much, and then you leave his body by the roadside.
-; qstr__You_are_now_a_pagan| You are now a pagan (germanic gods).
+qstr__You_are_now_a_pagan|Ora sei un pagano (dei germanici).
 ; qstr__The_priest_bless_yo| The priest bless you and you continue your way .
 ; qstr__Blood_and_death_eve| Blood and death everywhere. The priest do not resist and you take possession of their gold.
 ; qstr__The_monks_bless_you| The monks bless you and you continue your way .
@@ -1763,42 +1763,42 @@ qstr__Your_men_kill_all_t|I tuoi uomini hanno ucciso tutti i banditi.
 ; qstr__Blood_and_death_ever| Blood and death everywhere. The monks do not resist and you take possession of their gold. Your Christian followers do not seem very happy.
 ; qstr__With_unusual_fury_yo| With unusual fury, your pagan warriors plundered the church and kill all the priest and your enemies. Blood covers the ground, and greed shining in the eyes of the fiercest men.
 ; qstr__Among_the_remains_o| Among the remains of the corpse are the sword and armor of a king. Magnificent weapons to take away the iron oxide to discover a high quality. Now they are yours if you do not mind the bad luck that belonged to a dead.
-; qstr__Someday_perhaps_you| Someday, perhaps, you might have the honor of being buried like a king.
-; qstr__Fame_is_important.| Fame is important.
-; qstr__Tunic_isn_t_importa| Tunic isn't important, girl yes.
+qstr__Someday_perhaps_you|Un giorno, forse, potresti avere l'onore di essere sepolto come un re.
+qstr__Fame_is_important.|La fama è importante.
+qstr__Tunic_isn_t_importa|La tunica non è importante, ma le ragazze si.
 ; qstr__Animals_really_valu| Animals really valuable to village survival.
 ; qstr__You_did_return_the_| You did return the animals after all.
 ; qstr__Anymore_was_devoure| Anymore was devoured on the spot.
 ; qstr__With_the_blood_of_t| With the blood of the sword falling to the elbow, you will welcome the easy victory.
 ; qstr__Your_soldiers_get_a| Your soldiers get a kick out of harassing helpless peasants.
-; qstr__Honour_and_fame_are| Honour and fame are important.
-; qstr__The_girl_is_pregnan| The girl is pregnant and the elder asks for a high compensation. To avoid rumors and problems, you pay.
+qstr__Honour_and_fame_are|L'onore e la fama sono importanti.
+qstr__The_girl_is_pregnan|La ragazza è incinta e il contadino chiede un grosso risarcimento. Per evitare voci e problemi, paghi.
 ; qstr__you_get_their_meage| you get their meager belongings.
-; qstr__Celebrating_a_funer| Celebrating a funeral at your expense.
-; qstr_of_a_fulminating_dis|of a fulminating disease
+qstr__Celebrating_a_funer|Celebrare un funerale a vostre spese.
+qstr_of_a_fulminating_dis|di malattia fulminante
 ; qstr_by_being_kicked_by_a|by being kicked by a goat
-; qstr_of_indigestion|of indigestion
+qstr_of_indigestion|di indigestione
 ; qstr_Compensation_was_pai|Compensation was paid.
 ; qstr_It_is_common_knowledg|It is common knowledge that the crane is a symbol of the Warrior. Your men are impressed by your worldy knowledge, and grateful that the gods are with them.
 ; qstr_The_crane_is_a_symbo|The crane is a symbol of the Warrior - everyone knows that! Your lack of knowledge troubles your men, and they begin to doubt your reliability.
-; qstr_The_mushrooms_were_real|The mushrooms were really tasty. But now you have diarrhea and feel awful.
+qstr_The_mushrooms_were_real|I funghi erano davvero buoni. Ma ora hai la diarrea e stai molto male.
 ; qstr_Your_men_are_eating_mus|Your men are eating mushrooms while resting at camp. Some of them have diarrhea and feel very bad. They blame you for their misery!
-; qstr_The_mushrooms_tasted|The mushrooms tasted horrible! You have diarrhea, and there's blood mixed in with the stool!
+qstr_The_mushrooms_tasted|I funghi che hai assaggiato erano orribili! Hai la diarrea, e c'è del sangue mescolato alle feci!
 ; qstr_Your_men_are_eating_mush|Your men are eating mushrooms while resting at camp. Most of them have diarrhea and can hardly walk. They blame you for their misery!
 ; qstr_You_spend_a_good_time|You spend a good time with the elders wife, and when her husband returns, you run from the stable without being seen!
-; qstr_The_bandits_run_away|The bandits run away when you approach!
+qstr_The_bandits_run_away|I banditi fuggono quando appena ti avvicini!
 ; qstr_You_kill_the_beggars|You kill the beggars, while invoking the Stranger!
-; qstr_The_merchants_give_y|The merchants give you some money.
+qstr_The_merchants_give_y|I mercanti ti danno molte monete.
 ; qstr_The_man_eyes_follow_|The man eyes follow you while you get on your way, the look on his face on of sadness and despair.
 qstr_You_feel_good_due_to|Ti senti bene per aver aiutato il povero.
-; qstr_The_child_s_eyes_fol|The child's eyes follow you sadly, while you follow your path.
+qstr_The_child_s_eyes_fol|Gli occhi del bambino ti seguono tristemente, mentre voi prodegiute per la vostra strada.
 qstr_You_feel_good_for_he|Ti senti bene per aver aiutato.
-; qstr_New_troops_join_your|New troops join your party.
-; qstr_The_bandits_flee.|The bandits flee.
-; qstr__After_two_hours_the| After two hours the bandits return with some loot and the elders head...
-; qstr_Your_men_kill_all_th|Your men kill all the bandits.
+qstr_New_troops_join_your|Nuove truppe si uniscono alla tua compagnia.
+qstr_The_bandits_flee.|I banditi fuggono.
+qstr__After_two_hours_the|Dopo due ore i banditi ritornano con un buon bottino e la testa dell'anziano del villaggio...
+qstr_Your_men_kill_all_th|I tuoi uomini hanno ucciso tutti i banditi.
 ; qstr_The_townsfolk_of_Old|The townsfolk of Oldtown her of your piousness.
-; qstr_He_joins_you.|He joins you.
+qstr_He_joins_you.|Si unisce a voi.
 ; qstr_The_man_insists_too_|The man insists too much, so you order your loyal men to hang him.
 ; qstr_The_people_of_Volant|The people of Volantis her of your piousness.
 ; qstr_The_man_insists_too_m|The man insists too much, and you have no choice but to have your loyal men cut his throat.
@@ -1811,23 +1811,23 @@ qstr_You_feel_good_for_he|Ti senti bene per aver aiutato.
 ; qstr_With_unusual_fury_you|With unusual fury, your warriors plundered the septry and killed all your enemies. Blood covers the ground, and when a silent sister stumbles out from behind the sept, your men rape her.
 ; qstr_Amongst_the_remains_|Amongst the remains of the corpse is a mysterious sword. Upon closer inspection, the sword seems to be completely regular.
 qstr_You_feel_good_for_ho|Ti senti bene per onorare questo coraggioso, ignoto, re.
-; qstr_Someday_perhaps_you_|Someday, perhaps, you might have the honor of being buried like a king.
-; qstr_Fame_is_important.|Fame is important.
-; qstr_The_tunic_isn_t_impo|The tunic isn't important, but the girls has nice teats.
+qstr_Someday_perhaps_you_|Un giorno, forse, potresti avere l'onore di essere sepolto come un re.
+qstr_Fame_is_important.|La fama è importante.
+qstr_The_tunic_isn_t_impo|La tunica non è importante, ma le ragazze devono avere un bel seno.
 ; qstr_Facades_are_importan|Facades are important.
-; qstr_The_sheep_are_very_v|The sheep are very valuable to the village.
-; qstr_You_return_the_sheep|You return the sheep to the village.
+qstr_The_sheep_are_very_v|Le pecore sono molto preziose per il paese.
+qstr_You_return_the_sheep|Riporta le pecore al villaggio.
 ; qstr_The_cattle_was_devou|The cattle was devoured on the spot.
 ; qstr_With_the_blood_of_th|With the blood of the settlers covering your weapon, you welcome the easy victory.
 ; qstr_Your_soldiers_get_a_|Your soldiers get a kick out of harassing helpless peasants.
-; qstr_Honour_and_fame_are_|Honour and fame are important.
+qstr_Honour_and_fame_are_|L'onore e la fama sono importanti.
 ; qstr_With_blood_covering_|With blood covering your weapon, you smile at the slaughter.
 ; qstr_Your_soldiers_get_a_k|Your soldiers get a kick out of harassing helpless men.
 ; qstr_Your_soldiers_get_a_ki|Your soldiers get a kick out of the easy victory.
-; qstr_You_wonder_why_you_h|You wonder why you helped the outlaws...
-; qstr_The_girl_is_pregnant|The girl is pregnant and the peasant asks for a big compensation. To avoid rumors and problems, you pay.
+qstr_You_wonder_why_you_h|Ti chiedi perché hai aiutato i fuorilegge...
+qstr_The_girl_is_pregnant|La ragazza è incinta e il contadino chiede un grosso risarcimento. Per evitare voci e problemi, paghi.
 ; qstr_You_get_his_meager_b|You get his meager belongings.
-; qstr_Celebrating_a_funera|Celebrating a funeral at your expense.
+qstr_Celebrating_a_funera|Celebrare un funerale a vostre spese.
 ; qstr_Burn_the_soldiers_co|Burn the soldiers corpse, honoring R'hllor.
 ; qstr_Your_debt_in_{s1}_is_n|Your debt in {s1} is now so high that the sovereign himself has taken notice. He has frozen your debt, but is displeased with the situation.
 ; qstr_Defeat_The_Company_o|Defeat The Company of the Cat, then return to the Tattered Prince to claim your reward.
@@ -1849,7 +1849,7 @@ qstr_You_feel_good_for_ho|Ti senti bene per onorare questo coraggioso, ignoto, r
 ; qstr_Giving_Jess_one_last|Giving Jess one last scornfull look, you decide to leave the tavern.
 ; qstr_After_leaving_the_ba|After leaving the barn, you wonder if Jess will soon have a swollen belly.
 ; qstr_As_the_madman_cacles|As the madman cacles maniacally, you notice how cold is has gotten...
-; qstr_A_raven_caws_in_the_|A raven caws in the distance.
+qstr_A_raven_caws_in_the_|Un corvo gracchia in lontananza.
 ; qstr_Turning_around_to_le|Turning around to leave, you notice something odd about Samol. It's almost as if he emits cold...
 ; qstr_Something_rumbles_in|Something rumbles in the bushes. You decide to leave, right away.
 ; qstr_As_you_head_for_the_|As you head for the door, you notice the huge bats sleeping in the rafters.
@@ -1858,7 +1858,7 @@ qstr_You_feel_good_for_ho|Ti senti bene per onorare questo coraggioso, ignoto, r
 ; qstr_As_you_turn_to_leave|As you turn to leave, you notice Hoat gesturing towards his men. Perhaps he means to ambush you.
 ; qstr_As_you_take_the_horn|As you take the horn, you notice something scribbled on it. You can only make out the name 'JORAMUN'.
 ; qstr_Magister_Illyrio_tas|Magister Illyrio tasked you with seeking out his acquintance in Meereen. Seek out Bayle Neres in Volantis to board a ship heading for Slaver's Bay.
-; qstr_Visit_the_throne_roo|Visit the throne room.
+qstr_Visit_the_throne_roo|visita la stanza del trono.
 ; qstr_When_you_turn_to_wal|When you turn to walk towards the gate, leading into the pyramid, you hear a loud shriek. Above the city, you can just make out a large winged shape, soaring higher and higher.
 ; qstr_Talk_to_Ser_Barristan|Talk to Ser Barristan.
 ; qstr_You_stand_in_awe_of_|You stand in awe of the beauty of the last of the Targaryens.
@@ -1879,17 +1879,17 @@ qstr_You_feel_good_for_ho|Ti senti bene per onorare questo coraggioso, ignoto, r
 ; qstr_Defeat_Bloodbeard_an|Defeat Bloodbeard, and then return to Tyrosh.
 qstr_{s5}_has_ceased_to_e|{s5} ha cessato di esistere.
 ; qstr_This_ammunition_work|This ammunition works with all Cannon-type weapons.^Any weapon marked (cannon) needs this ammo equipped to work.
-; qstr_It_s_very_cold!|It's very cold!
+qstr_It_s_very_cold!|Fa molto freddo!
 ; qstr_This_is_a_supply_of_|This is a supply of ammunition for you and your troops.^It is consumed in battle.
 ; qstr_A_fine_well_crafted_|A fine, well-crafted, ring. A merchant would pay well for it.
 ; qstr_A_very_valuable_spic|A very valuable spice. Merchants in Westeros and the Free Cities would pay well for it.
 ; qstr_Upon_closer_inspectio|Upon closer inspection, it would appear that these spices are nothing but dung and crushed pinecones.
 ; qstr_Upon_closer_inspection|Upon closer inspection, it would appear that this is not, as you thought, a valyrian steel sword, but rather a poorly made arming sword.
-; qstr_A_huge_ruby_a_mercha|A huge ruby, a merchant would pay well for it.
+qstr_A_huge_ruby_a_mercha|Un rubino enorme. Un commerciante pagherebbe bene per averlo.
 ; qstr_A_carved_mammoth_tus|A carved mammoth tusk, perhaps a merchant would pay good coin for it.
-; qstr_A_gold_goblet_very_v|A gold goblet, very valuable.
-; qstr_A_gold_nugget_very_v|A gold nugget, very valuable.
-; qstr_The_carcass_of_a_rab|The carcass of a rabbit.
+qstr_A_gold_goblet_very_v|Una pepita d'oro.Molto preziosa.
+qstr_A_gold_nugget_very_v|Una pepita d'oro.Molto preziosa.
+qstr_The_carcass_of_a_rab|La carcassa di un conoglio.
 ; qstr_The_camels_originati|The camels, originating in far away Qarth, are used mainly as pack animals.
 ; qstr_Heartsbane_is_the_an|Heartsbane is the ancestral valyrian steel sword of House Tarly. It has been in the family for five hundred years.
 ; qstr_Originally_wielded_b|Originally wielded by Aegon the Conquerer, the fabled valyrian steel sword Blackfyre later passed to the illegitimate son of Aegon the Unworthy, Daemon Blackfyre.
@@ -1903,9 +1903,9 @@ qstr_{s5}_has_ceased_to_e|{s5} ha cessato di esistere.
 ; qstr_A_very_valuable_spice|A very valuable spice.^Merchants in Westeros and the Free Cities would pay well for it.
 ; qstr_Upon_closer_inspection_|Upon closer inspection, it would appear that these spices are nothing^but dung and crushed pinecones.
 ; qstr_Upon_closer_inspection_i|Upon closer inspection, it would appear that this is not, as you thought,^a valyrian steel sword, but rather a poorly made arming sword.
-; qstr_A_huge_ruby.^A_merch|A huge ruby.^A merchant would pay well for it.
-; qstr_A_gold_goblet.^Very_|A gold goblet.^Very valuable.
-; qstr_A_gold_nugget.^Very_|A gold nugget.^Very valuable.
+qstr_A_huge_ruby.^A_merch|Un rubino enorme.^Un commerciante pagherebbe bene per averlo.
+qstr_A_gold_goblet.^Very_|Una pepita d'oro.^Molto preziosa.
+qstr_A_gold_nugget.^Very_|Una pepita d'oro.^Molto preziosa.
 ; qstr_Heartsbane_is_the_anc|Heartsbane is the ancestral valyrian steel sword of House Tarly.^It has been in the family for five hundred years.
 ; qstr_Originally_wielded_by|Originally wielded by Aegon the Conquerer,^the fabled valyrian steel sword Blackfyre later passed to the illegitimate son of Aegon the Unworthy, Daemon Blackfyre.
 ; qstr_A_valyrian_steel_axe_|A valyrian steel axe, with unknown origins.^It might well be the only one of its kind in the world.
@@ -1932,15 +1932,15 @@ qstr_{s5}_has_ceased_to_e|{s5} ha cessato di esistere.
 ; qstr__Bandits_strike_you_| Bandits strike you with anger and you fall into a puddle of blood. They think you're dead...
 ; qstr_A_short_valyrian_swo|A short valyrian sword, of unknown origins.
 ; qstr_A_very_old_arming_sw|A very old arming sword, from the time of the Andals.
-; qstr_You_ve_been_knocked_|You've been knocked unconscious, and the outlaws loot your body...
-; qstr_You_have_beaten_the_|You have beaten the leader of the outlaws.
+qstr_You_ve_been_knocked_|Hai perso i sensi, e i fuorilegge fanno bottino dal tuo corpo...
+qstr_You_have_beaten_the_|Avete battuto il capo dei fuorilegge.
 ; qstr_A_very_valuable_spice_|A very valuable spice from the lands beyond the Dothraki sea.^Merchants in Westeros and the Free Cities would pay well for it.
 ; qstr_Upon_closer_inspection_it|Upon closer inspection, it would appear that these spices are^nothing but dung and crushed pinecones, mixed with sawdust.
 ; qstr_Upon_closer_inspection_it_|Upon closer inspection, it would appear that this is not,^as you thought, a valyrian steel sword, but rather a poorly made replica.
-; qstr_A_huge_ruby._A_merch|A huge ruby. A merchant would pay well for it.
+qstr_A_huge_ruby._A_merch|Un rubino enorme. Un commerciante pagherebbe bene per averlo.
 ; qstr_A_carved_mammoth_tusk|A carved mammoth tusk. Perhaps a merchant would pay good coin for it.
-; qstr_A_gold_goblet._Very_|A gold goblet. Very valuable.
-; qstr_A_gold_nugget._Very_|A gold nugget. Very valuable.
+qstr_A_gold_goblet._Very_|Una pepita d'oro. Molto preziosa.
+qstr_A_gold_nugget._Very_|Una pepita d'oro. Molto preziosa.
 ; qstr_Originally_wielded_by_|Originally wielded by Aegon the Conquerer, the fabled^valyrian steel sword Blackfyre later passed to the illegitimate son of Aegon the Unworthy, Daemon Blackfyre.
 ; qstr_A_valyrian_steel_axe_w|A valyrian steel axe, with unknown origins. It might well^be the only one of its kind in the world.
 ; qstr_The_intricate_white_en|The intricate, white enameled, suit of armor worn by the^members of the Kingsguard, sworn to protect the life of the king, with their^own if the need arises.
@@ -1973,21 +1973,21 @@ qstr_{s5}_has_ceased_to_e|{s5} ha cessato di esistere.
 ; qstr_They_giving_you_a_be|They giving you a beautiful lorica adorned with a wolf skin. Armor fit for a Warlord.
 ; qstr_They_gift_you_with_a|They gift you with a sword fit for a prince.
 ; qstr_They_will_appreciate|They will appreciate your participation in the tournament, and they apologize for not having a great gift to offer.
-; qstr_The_ruler_of_{s3}_ap|The ruler of {s3} applauds your victory, and gift you a massive two-handed axe.
-; qstr_A_jubilant_merchant_|A jubilant merchant of {s3} gift you a fine great sword.
-; qstr_A_lady_of_{s3}_appla|A lady of {s3} applauds your victory, and gift you a fine bow.
-; qstr_One_of_the_nobles_of|One of the nobles of {s3} gift you a fine bow.
+qstr_The_ruler_of_{s3}_ap|Il sovrano di {s3} si congratura pe la tua vittoria, e ti ha regalato una maestosa ascia a due mani.
+qstr_A_jubilant_merchant_|Un esultante mercante di {s3} ti ha regalato uno stupendo spadone.
+qstr_A_lady_of_{s3}_appla|La signora di {s3} si congratura per la tua vittoria, e ti regala un pregevole arco.
+qstr_One_of_the_nobles_of|Uno dei nobili di {s3} ti ha regalato un pregevole arco.
 ; qstr_The_ruler_of_{s3}_gi|The ruler of {s3} gift you a fine bow, crafted from the bones of a dragon.
-; qstr_The_ruler_of_{s3}_gif|The ruler of {s3} gift you a fine bow.
-; qstr_The_nobles_and_merch|The nobles and merchants of {s3} gift you a fine sword.
-; qstr_A_young_maiden_gift_|A young maiden gift you a fine sword.
-; qstr_A_young_noble_gift_y|A young noble gift you a fine sword.
-; qstr_A_young_knight_gift_|A young knight gift you a fine sword.
-; qstr_The_ruler_of_{s3}_gift|The ruler of {s3} gift you a fine courser.
-; qstr_The_ruler_of_{s3}_gift_|The ruler of {s3} gift you a fine destrier.
+qstr_The_ruler_of_{s3}_gif|Il sovrano di {s3} ti ha regalato un pregevole arco.
+qstr_The_nobles_and_merch|I nobili e i mercanti di {s3} ti hanno regalato una stupenda spada.
+qstr_A_young_maiden_gift_|Una giovane fanciulla ti ha regalato una stupenda spada.
+qstr_A_young_noble_gift_y|Un giovane nobile ti ha regalato una stupenda spada..
+qstr_A_young_knight_gift_|Un giovane cavaliere ti ha regalato una stupenda spada.
+qstr_The_ruler_of_{s3}_gift|Il sovrano di {s3} ti ha regalato un magnifico corsiero.
+qstr_The_ruler_of_{s3}_gift_|Il sovrano di {s3} ti ha regalato un magnifico destriero.
 ; qstr_The_local_septon_gif|The local septon gift you a fine valyrian dagger.
-; qstr_A_jubilant_young_man|A jubilant young man gift you a sturdy axe.
-; qstr_A_jubilant_young_mai|A jubilant young maiden gift you a fine looking destrier.
+qstr_A_jubilant_young_man|Un esultante giovanotto ti ha regalato una robusta ascia.
+qstr_A_jubilant_young_mai|Una esultante fanciulla ti ha regalato uno splendido destriero.
 ; qstr_The_ruler_of_{s3}_gift_y|The ruler of {s3} gift you a fine dornish steed.
 ; qstr_The_nobles_and_mercha|The nobles and merchants of {s3} applaud your valiant victory, and apologize for not having a suitable gift for you.
 ; qstr_Illyrio_Mopatis_has_a|Illyrio Mopatis has asked you to find out what happened to his friend. Search the ruined baths, north of Myr.
@@ -2008,28 +2008,28 @@ qstr_{s5}_has_ceased_to_e|{s5} ha cessato di esistere.
 ; qstr_The_men_are_soon_che|The men are soon cheering your name!
 ; qstr_You_can_hardly_walk_|You can hardly walk up the stairs!
 ; qstr_For_days_a_smell_lik|For days, a smell like roast pork follow you around.
-; qstr_Your_men_grumble._No|Your men grumble. No one should curse the gods.
-; qstr_Your_men_grumble._Pe|Your men grumble. Perhaps you've run out of luck.
+qstr_Your_men_grumble._No|I vostri uomini si lamentano. Nessuno dovrebbe offendere gli dèi.
+qstr_Your_men_grumble._Pe|I vostri uomini si lamentano. Forse siamo a corto di fortuna.
 ; qstr_All_the_man_did_was_|All the man did was pray!
 ; qstr_The_woman_was_clearl|The woman was clearly mad!
-; qstr_He_managed_to_save_y|He managed to save your hand, but you feel weak.
+qstr_He_managed_to_save_y|E' riuscito a salvarti la mano, ma ti sente debole.
 ; qstr_The_woman_was_clearly|The woman was clearly an amateur!
 ; qstr_The_maester_cleared_|The maester cleared your head, but you still feel weak.
 ; qstr_Your_men_grumble._Wh|Your men grumble. What if the cold spreads?
 ; qstr_Your_men_think_you_s|Your men think you sensible.
 ; qstr_The_wound_festers!|The wound festers!
-; qstr_Your_back_is_sore_an|Your back is sore and bleeding!
-; qstr_Your_hand_has_starte|Your hand has started to itch.
-; qstr_You_ve_caught_the_po|You've caught the pox!
-; qstr_Your_men_approve._No|Your men approve. No one should offend the gods.
-; qstr_Your_men_grumble._No_|Your men grumble. No one should offend the gods.
-; qstr_You_managed_to_get_a|You managed to get away, but the man cut your hands!
-; qstr_You_managed_to_get_aw|You managed to get away, but the man cut your leg!
-; qstr_You_managed_to_get_awa|You managed to get away.
-; qstr_You_leave_the_women_|You leave the women on the ground, with their throats cut.
-; qstr_Your_decision_was_a_|Your decision was a wise one.
+qstr_Your_back_is_sore_an|La schiena è dolorante e sanguinante!
+qstr_Your_hand_has_starte|La tua mano inizia a prudere.
+qstr_You_ve_caught_the_po|Hai preso la sifilide!
+qstr_Your_men_approve._No|I vostri uomini approvano. Nessuno dovrebbe offendere gli dèi.
+qstr_Your_men_grumble._No_|I vostri uomini si lamentano. Nessuno dovrebbe offendere gli dèi.
+qstr_You_managed_to_get_a|Sei riuscito a fuggire, ma l'uomo ti ha ferito ad una mano!
+qstr_You_managed_to_get_aw|Sei riuscito a fuggire, ma l'uomo ti ha ferito ad una gamba!
+qstr_You_managed_to_get_awa|Sei riuscito a fuggire.
+qstr_You_leave_the_women_|Lasciate le donne a terra, con la gola tagliata.
+qstr_Your_decision_was_a_|La vostra decisione è stata saggia.
 qstr_No_harm_was_done.|Nessun danno è stato fatto.
-; qstr_The_beggar_is_dead_b|The beggar is dead, but he managed to stab you in the leg! And he didn't have any coins on him!
+qstr_The_beggar_is_dead_b|Il mendicante è morto, ma è riuscito a colpirvi la gamba! E non aveva nessuna monete con se!
 ; qstr_The_man_was_obviousl|The man was obviously a madman, in stolen clothing!
 ; qstr_You_feel_very_refres|You feel very refreshed!
 ; qstr_Goodman_Tom_asked_yo|Goodman Tom asked you to deal with the wight in Cairnhall.
@@ -2046,8 +2046,8 @@ qstr_No_harm_was_done.|Nessun danno è stato fatto.
 ; qstr_The_Weeper_has_been_|The Weeper has been knocked unconscious.
 ; qstr_Return_to_Ser_Denys_|Return to Ser Denys Mallister.
 ; qstr_You_ve_been_knocked_uncons|You've been knocked unconscious, but hearing the commotion, your men rush to your aid...
-; qstr_You_ve_lost_1_streng|You've lost 1 strength.
-; qstr_You_ve_lost_2_streng|You've lost 2 strength.
+qstr_You_ve_lost_1_streng|Hai perso 1 punto forza.
+qstr_You_ve_lost_2_streng|Hai perso 2 punti forza.
 ; qstr_You_ve_been_knocked_unconsc|You've been knocked unconscious, but the commotion attracts the guards!
 ; qstr_You_ve_been_knocked_unconsci|You've been knocked unconscious, but your men prevail and slay the Magnar and his men!
 ; qstr_You_ve_been_knocked_unconscio|You've been knocked unconscious, but the battle continues, and the wildlings are defeated!
@@ -2085,14 +2085,14 @@ qstr_You_ve_gained_1_stre|Hai guadagnato 1 di forza.
 qstr_a_landless_knight|un cavaliere senza terra
 qstr_a_man_at_arms|un uomo d'arme
 ; qstr_As_a_child_your_family_|As a child, your family scrabbled out a meagre living from your fathers wages as a guardsman to old Lord Whent. It was not an easy existence, and you were too poor to get much of an education. You learned mainly how to defend yourself in brawls with the other guardsmens sons, with or without a weapon in hand.
-; qstr_You_were_the_{reg3?daug|You were the {reg3?daughter:son} of a family who lived off the woods, doing whatever they needed to make ends meet. Hunting, woodcutting, making arrows, even a spot of poaching whenever things got tight. The last winter, though lasting only a few years, was a hard time for your family as the cold took animals and people alike, but you always lived to see another dawn, though your brothers and sisters where not so fortunate.
+qstr_You_were_the_{reg3?daug|Sei {reg3?figlia:figlio} di una famiglia che viveva nei boschi. I tuoi genitori cacciavano, tagliavano la legna, costruivano frecce e quando i tempi si facevano più duri, si procuravano il cibo col bracconaggio. L'inverno non era mai una bella stagione, il freddo colpiva tanto le persone quanto gli animali, ma tu hai sempre trovato il modo di sopravvivere; i tuoi fratelli e le tue sorelle non sono state così fortunate.
 qstr_a_bard|un bardo
 ; qstr_You_were_a_child_of_the_|You were a child of the taverns, spending your days listening to your father sing of Jonquil and Florian the Fool, deftly playing his lute.
-; qstr_As_the_{reg3?daughter:s|As the {reg3?daughter:son} of a thief, you had very little 'formal' education. Instead, you were out on the streets, begging until you learned how to cut purses, cutting purses until you learned how to pick locks, all the way through your childhood.  Still, these long years made you streetwise and sharp to the secrets of cities and shadowy backways.
+qstr_As_the_{reg3?daughter:s|In quanto {reg3?figlia:figlio} di un ladro, hai avuto un'educazione 'particolare'. Ovvero hai fatto 'pratica' nel tagliare le cinghie dei borselli e nello scassinare le serrature. Questi lunghi anni di 'scuola' hanno acuito la tua furbizia e l'abilità nel muoverti fra i vicoli oscuri delle città.
 ; qstr_A_{reg3?daughter:son}|A {reg3?daughter:son} that nobody wanted, you were left to the faith as a baby, a foundling raised by the septons and silent sisters to their own traditions.  You were only one of many other foundlings and orphans, but you nonetheless received a lot of attention as well as many years of study in the sept library and before the faces of the Seven. They taught you many things. Gradually, faith became such a part of your life that it was no different from the blood coursing through your veins.
-; qstr__You_were_born_years_| You were born years ago, in a small village. Your father was {s2}. {s3}
+qstr__You_were_born_years_|Sei nato anni fa, in un piccolo villaggio. Tuo padre era {s2}. {s3}
 ; qstr_As_a_{reg3?girl:boy}_growing_out_of_c|As a {reg3?girl:boy} growing out of childhood, you were sent to serve at the court of the new Lord Whent.  There, your first lessons were in humility, as you waited upon the knights and ladies of the household.  But from their dice games, their gossip, even the poetry of great deeds and courtly love, you quickly began to learn about the adult world of conflict and competition. You also learned from the rough games of the other children, who battered at each other with sticks in imitation of the men-at-arms and knights.
-; qstr_a_craftsmans_apprent|a craftsmans apprentice
+qstr_a_craftsmans_apprent|Apprendista di un artigiano.
 ; qstr_As_a_{reg3?girl:boy}_growing_out_of_ch|As a {reg3?girl:boy} growing out of childhood, you apprenticed with a local craftsman, from Duskendale. After years of hard work and study under your new master, he promoted you to journeyman and employed you as a fully paid craftsman for as long as you wished to stay.
 ; qstr_As_a_{reg3?girl:boy}_growing_out_of_chi|As a {reg3?girl:boy} growing out of childhood, you took to the streets, doing whatever you must to survive. Begging, thieving and working for gangs to earn your bread, you lived from day to day in this violent world, often sleeping in alleys or on rooftops, always one step ahead of the city watch and those who wished you ill.
 qstr_a_bards_apprentice|un'apprendista bardo
@@ -2104,11 +2104,11 @@ qstr_a_bards_apprentice|un'apprendista bardo
 ; qstr_Though_the_distinction_felt_sudden_to_you_somewhe|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  When you were named squire to one of Lord Whents knights, you practiced long hours with weapons, learning how to deal out hard knocks and how to take them, too.  You were instructed in your obligations to your lord, and of your duties to those who might one day be your vassals.  But in addition to learning the knightly ideal, you also learned about the less uplifting side -- old warriors' stories of ruthless power politics, of betrayals and usurpations, of men who used guile as well as valor to achieve their aims.
 qstr_a_scribe|uno scriba
 ; qstr_Though_the_distinction_felt_sudden_to_you_somewher|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You found work at Lord Whents court, writing letters for the knights and ladies, illuminating manuscripts and teaching the sons and daughters of the nobility how to read.
-; qstr_Though_the_distinction_felt_sudden_to_you_somewhere|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  You set out on your own with nothing except the lute slung over your back and your own voice. It was a poor existence, with many a hungry night when people failed to appreciate your play, but you managed to survive on your music alone. As the years went by you became adept at playing the drunken crowds in your taverns, and even better at talking anyone out of anything you wanted.
+qstr_Though_the_distinction_felt_sudden_to_you_somewhere|Anche se noti il cambiamento all'improvviso, in qualche modo divieni {reg3?una donna:un uomo}, e il mondo intero sembra cambiare intorno a te. Parti senza nulla eccetto le cose che riesci a portare con te e la tua stessa voce. La tua è un'esistenza piena di stenti, con molte notti a patire la fame, mentre la gente non apprezza come suoni, ma riesci a sopravvivere solo con la tua musica. Con gli anni hai acquisito abilità nel suonare nelle taverne alle folle ubriache, e ancora più abile nel parlare agli astanti di tutto ciò che desideri dipingere col racconto.
 qstr_an_acolyte|un accolito
 ; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you. You found yourself as an acolyte in the Citadel of Oldtown, where you studied economy, philosophy, and medicine.  But not all your lessons were learned in the lecture halls.  You may or may not have joined in with your fellows as they roamed the alleys in search of wine, women, and a good fight. However, you certainly were able to observe how a broken jaw is set, or how an angry townsman can be persuaded to set down his club and accept cash compensation for the destruction of his shop.
-; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_a|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you. Heeding the call of the open road, you travelled from village to village buying and selling what you could. It was not a rich existence, but you became a master at haggling even the most miserly elders into giving you a good price. Soon, you knew, you would be well-placed to start your own trading kingdom...
-; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_al|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you. You pursued a career as a smith, crafting items of function and beauty out of simple metal. As time wore on you became a master of your trade, and fine work started to fetch fine prices. With food in your belly and logs on your fire, you could take pride in your work and your growing reputation.
+qstr_Though_the_distinction_felt_sudden_to_you_somewhere_a|Anche se noti il cambiamento all'improvviso, in qualche modo sei {reg3?diventata una donna:diventato un uomo}, e il mondo intero sembra cambiare intorno a te. Ascoltando il richiamo alla libertà, viaggi di villaggio in villaggio comprando e vendendo quello che puoi. Non è un'esistenza ricca, ma diventi abile nel contrattare, anche con i vecchi più avari, ottenendo buoni prezzi. Presto, lo senti, potresti iniziare a creare il tuo impero commerciale...
+qstr_Though_the_distinction_felt_sudden_to_you_somewhere_al|Anche se noti il cambiamento all'improvviso, in qualche modo sei {reg3?diventata una donna:diventato un uomo}, e il mondo intero sembra cambiare intorno a te. Hai abbracciato la carriera del fabbro. Crei oggetti utili e belli da vedere da del semplice metallo. Con il passare del tempo diventi abile nel tuo campo, e il buon lavoro inizia a dare i suoi buoni frutti. Con la pancia piena e ceppi nel tuo camino, puoi nutrire orgoglio per il tuo lavoro e per la tua crescente reputazione.
 ; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_alo|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  Dissatisfied with common men's desperate scrabble for coin, you took to Lord Whents own forests and decided to help yourself to its bounty, laws be damned. You hunted stags, boars and aurochs and sold the precious meat under the table. You cut down trees right under the guardsmens noses and turned them into firewood that warmed many freezing homes during winter. All for a few silvers, of course.
 ; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_alon|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you.  You packed your few belongings and went out into the world to spread the the message of the Seven-Pointed Star. You preached to anyone who would listen, and impressed many with the passion of your sermons. Though you had taken a vow to remain in poverty through your itinerant years, you never lacked for food, drink or shelter; the hospitality of the peasantry was always generous to a rising {s13} of the Seven.
 ; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_along|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, relying upon your quick thinking and even quicker reflexes to get you through each day. Dissatisfied with a simple life of laboring for coin, you took to your local streets intent on helping yourself to what you needed in order to survive.  You shun the standard laws of man and have chosen to live by whatever rules allow you to avoid the headsman's block.
@@ -2117,29 +2117,29 @@ qstr_a_farmer|un agricoltore
 ; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_along_t|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and with that change came understanding that the strong have the right to take from the weak. You became part of a band of outlaws and grew adept at the art of ambush. You learned how to wield, with some facility, whatever weapon your prey bequeathed to you. When times were good, you caroused and feasted like a king. When pickings were slim, you lived off the land or perfomed quick raids on small villages. You prided yourself on your adaptability and capacity for violence.
 qstr_a_horse_trainer|un addestratore di cavalli
 ; qstr_Though_the_distinction_felt_sudden_to_you_somewhere_along_th|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You found work as a horse trainer, at Lord Whents court, taking care of the great destriers of the lords, knights and ladies, shooing the plowhorses of the farmers and training the coursers stabled in the great stable.
-; qstr_Only_you_know_exactly_what_caused_yo|Only you know exactly what caused you to give up your old life and become an adventurer. However, you know you cannot go back. There's nothing to go back to. Whatever home you may have had is gone now, and you must face the fact that you're out in the world, alone to fend for yourself...
+qstr_Only_you_know_exactly_what_caused_yo|Solo tu sai esattamente cosa ti ha spinto a cambiare vita e diventare una persona dedita all'avventura. Comunque, sai di non poter tornare indietro. Non troverai niente di meglio se tornerai. Qualunque cosa avessi, adesso non c'è più, e devi affrontare il fatto che sei fuori, nel vastissimo mondo in balia di te stesso...
 ; qstr_Only_you_know_exactly_what_caused_you|Only you know exactly what caused you to give up your old life and become an adventurer. Regardless, the intense faith burning in your soul would not let you find peace in any single place. There were others in the world, souls to be washed in the light of God. Now you preach wherever you go, seeking to bring salvation and revelation to the masses, be they faithful or demon worshippers. They will all know the glory of the Seven by the time you're done...
 ; qstr_As_war_begins_to_tear|As war begins to tear the land apart and many march off to war the desire to join them becomes ever pressing.  As a {s13} of honor you feel duty bound to join the armies of your home and protect the region you call home.
 qstr_a_a_bard|un bardo
 qstr_a_blacksmith|un fabbro
-; qstr_{s1}^^_You_started_to_|{s1}^^ You started to learn about the world almost as soon as you could walk and talk.
-; qstr_{s1}^^_Then_as_a_youn|{s1}^^ Then, as a young adult, life changed as it always does.
+qstr_{s1}^^_You_started_to_|{s10}^^  Hai cominciato a conoscere il mondo da quando hai imparato a camminare e parlare.
+qstr_{s1}^^_Then_as_a_youn|{s11}^^  Quindi, crescendo, la vita di sempre è cambiata
 qstr_{s1}.|{s1}.
 qstr_{s1}{s3}|{s1}{s3}
 ; qstr_^{s1}^^_As_a_{s3}_{s2|^{s1}^^ As a {s3} {s2} you {s4}
 ; qstr_The_woman_was_clearly_|The woman was clearly mad! All she did was spit on it!
 ; qstr_The_woman_was_clearly_a|The woman was clearly an amateur! All she did was make you drink mud!
-; qstr_You_have_severe_diar|You have severe diarrhea.
-; qstr_{s1}^^_You_started_to_l|{s1}^^ You started to learn about the world almost as soon as you could walk and talk. You spent your early life as {s2}. {s3}
-; qstr_{s1}^^_But_soon_everyt|{s1}^^ But soon everything changed and you decided to strike out on your own as an adventurer. {s3}
+qstr_You_have_severe_diar|Hai una forte diarrea.
+qstr_{s1}^^_You_started_to_l|{s1}^^  Hai cominciato a conoscere il mondo da quando hai imparato a camminare e parlare. Hai passato la tua giovane eta a {s2}. {s3}
+qstr_{s1}^^_But_soon_everyt|{s1}^^ Ma presto le cose cambiano ancora, e decidi di mettere in gioco la tua vita verso l'avventura. {s3}
 ; qstr_He_served_Old_Lord_W|He served Old Lord Whent, as a sworn sword, never improving his own, or his familys, lot in life.
-; qstr_Your_father_and_your|Your father and your family travelled from place to place, selling wool, cloth and tin.
+qstr_Your_father_and_your|Tuo padre e la tua famiglia viaggiate di paese in paese, vendendo lana, vestiti e tinture.
 ; qstr_He_served_Old_Lord_Wh|He served Old Lord Whent as a guardsman, a boring and predictable life.
 ; qstr_Your_family_lived_in|Your family lived in the woods, doing the odd job for the local lord, and even dabbling in some poaching from time to time.
 ; qstr_He_spent_his_nights_|He spent his nights in taverns, singing of Jonquil and Florian, deftly playing his lute.
 ; qstr_Living_a_hard_life_y|Living a hard life, your father spent most of his time avoiding the local lords men, never improving your familys lot in life.
 ; qstr_The_son_of_a_landles|The son of a landless knight himself, your father served a minor lord as a septon, spending his nights getting drunk and whoring.
-; qstr__You_were_born_years_a| You were born years ago. Your father was {s2}. {s3}
+qstr__You_were_born_years_a|Sei nato anni fa. Tuo padre era {s2}. {s3}
 ; qstr_As_a_{s12}_growing_out_of_chi|As a {s12} growing out of childhood, you attached yourself to a troupe of wandering entertainers, going from town to town setting up mummer's shows. It was a life of hard work, selling, begging and stealing your living from the villagers who flocked to watch your antics. Over time you became a performer well capable of attracting a crowd.
 ; qstr_As_a_{s12}_growing_out_of_chil|As a {s12} growing out of childhood, you spent much of your life at the court of the new Lord Whent, inserting yourself into the tightly-knit circles of nobility.  With the years you became more and more involved with the politics and intrigue demanded of a high-born {s13}.  You could not afford to remain a stranger to backstabbing and gossip, even if you wanted to.
 ; qstr_You_signed_on_with_a|You signed on with a sellsword company and travelled far from your home. The life you found was rough and ready, marching to the beat of strange drums and learning unusual ways of fighting. There were men who taught you how to wield any weapon you desired, and plenty of battles to hone your skills. You were one of the charmed few who survived through every campaign in which you marched.
@@ -2162,162 +2162,162 @@ qstr_{s1}{s3}|{s1}{s3}
 ; qstr_Magister_Illyrio_task|Magister Illyrio tasked you with seeking out his acquintance in Meereen. Seek out Bayle Neres in Volantis to board a ship heading for Slaver's Bay, then talk to Belandra Kheranes in Meereen.
 qstr_You_ve_lost_5_streng|Hai perso 5 di forza.
 ; qstr_But_who_did_this?!|But who did this?!
-; qstr_The_young_bard_prefe|The young bard preferred to flee rather than duel with you!
+qstr_The_young_bard_prefe|Il giovane bardo ha preferito fuggire piuttosto che duellare con te!
 ; qstr_You_roasted_the_onio|You roasted the onions over an open fire, they were very tasty.
-; qstr_Your_stomach_grumble|Your stomach grumbles.
+qstr_Your_stomach_grumble|Il tuo stomaco brontola.
 ; qstr_You_roasted_the_turn|You roasted the turnips over an open fire, they were very tasty.
 ; qstr_You_roasted_the_radd|You roasted the raddishes over an open fire, they were very tasty.
-; qstr_You_managed_to_catch|You managed to catch a fat fish, and smoked it over an open fire.
-; qstr_The_fish_got_away!|The fish got away!
+qstr_You_managed_to_catch|Riesci a prendere un grosso pesce, e lo affumichi al fuoco.
+qstr_The_fish_got_away!|Il pesce è scappato!
 ; qstr_You_re_soaked_and_sh|You're soaked and shivering, and all you managed to do was scrabe your knuckles on a rock. It'll be a long while before you're dry again.
 ; qstr_The_line_broke!.|The line broke!.
-; qstr_Using_your_mighty_ha|Using your mighty hands, you managed to catch five tasty fish!
-; qstr_All_you_got_was_a_ro|All you got was a rock!
-; qstr_The_farmers_family_w|The farmers family was paid.
+qstr_Using_your_mighty_ha|Usando le tue possenti mani, riesci a catturare cinque bei  pesci!
+qstr_All_you_got_was_a_ro|Tutto quello che ottenni è una roccia!
+qstr_The_farmers_family_w|La famiglia degli agricoltori è stata pagata.
 ; qstr_It_is_common_knowledge|It is common knowledge that the crane is a symbol of the Warrior. Your men are impressed by your worldy knowledge, and grateful that the Gods are with them.
-; qstr_The_mushrooms_were_reall|The mushrooms were really tasty. But now you have diarrhea and you feel awful.
-; qstr_The_child_s_eyes_foll|The child's eyes follow you sadly.
+qstr_The_mushrooms_were_reall|I funghi erano davvero buoni. Ma ora hai la diarrea e stai molto male.
+qstr_The_child_s_eyes_foll|Gli occhi del bambino ti seguono tristemente.
 ; qstr_The_people_of_Volanti|The people of Volantis hear of your piousness.
 ; qstr_Blood_and_death_everyw|Blood and death everywhere. The priests do not resist and you take possession of their gold.
 ; qstr_The_brothers_bless_yo|The brothers bless you, and you continue on your way.
 ; qstr_The_septon_bless_you_|The septon bless you, and you continue on your way .
-; qstr_The_sheep_were_devou|The sheep were devoured on the spot.
+qstr_The_sheep_were_devou|Le pecore furono divorate sul posto.
 ; qstr_With_the_blood_of_the|With the blood of the mummers covering your weapon, you welcome the easy victory.
 ; qstr_Your_soldiers_get_a_kic|Your soldiers get a kick out of harassing the helpless mummers.
-; qstr_The_widow_is_gratefu|The widow is grateful.
-; qstr_It_was_a_magnificent|It was a magnificent funeral.
-; qstr_You_fried_the_eggs_o|You fried the eggs on a rock, they were very tasty!
-; qstr_When_you_cracked_the|When you cracked them open, they were filled with worms!
-; qstr_When_you_cracked_them|When you cracked them open, you realised they weren't geese eggs. They were snake eggs!
+qstr_The_widow_is_gratefu|La vedova ti è grata.
+qstr_It_was_a_magnificent|E' stato un magnifico funerale.
+qstr_You_fried_the_eggs_o|Cuoci le uova su una roccia, sono molto buone!
+qstr_When_you_cracked_the|Quando le apri, ti accorgi che sono piene di vermi!
+qstr_When_you_cracked_them|Quando spacchi le uova,  ti rendi conto che non sono uova di oche. Sono uova di serpente!
 qstr_A_wise_decision!|Una saggia decisione!
 qstr_A_stupid_decision!|Una decisione stupida!
-; qstr_When_you_crached_ope|When you crached open the eggs, they turned out to be very old. A rotten smell follows you for hours.
-; qstr_The_apples_were_very|The apples were very tasty!
-; qstr_The_berries_were_ver|The berries were very tasty!
-; qstr_The_berries_were_very|The berries were very tasty! But you feel weak, and there's blood in your urine!
-; qstr_You_were_so_focused_|You were so focused on the berries, you tripped over a rock and hurt your hand!
-; qstr_The_berries_tasted_h|The berries tasted horribly! And now you have stomach cramps!
-; qstr_The_nest_was_empty!|The nest was empty!
-; qstr_Your_retinue_thoroug|Your retinue thoroughly enjoyed the feast.
-; qstr_Your_men_sing_songs_|Your men sing songs of your greatness!
+qstr_When_you_crached_ope|Quando hai rotto le uova, scopri che sono molto vecchie. La puzza di uova marce ti segiurà per ore.
+qstr_The_apples_were_very|Le mele erano molto gustose!
+qstr_The_berries_were_ver|Le bacche erano molto buone!
+qstr_The_berries_were_very|Le bacche erano molto buone! Ma ti senti debole, e c'è sangue nelle urine!
+qstr_You_were_so_focused_|Ti distrai mentre raccogli le bacche, inciampi su una roccia e ti ferisci la mano!
+qstr_The_berries_tasted_h|Le bacche hanno un sapore disgustoso! ed ora hai i crampi allo stomaco!
+qstr_The_nest_was_empty!|Il nido era vuoto!
+qstr_Your_retinue_thoroug|Il tuo seguito ha apprezzato molto la festa.
+qstr_Your_men_sing_songs_|I tuoi uomini cantano canzoni per elogiare la vostra grandezza!
 ; qstr_The_preparations_are|The preparations are called off.
 ; qstr_The_cook_served_gril|The cook served grilled snake, with a fiery mustard sauce and spun sugar bowls, filled with custard. It was delicious!
-; qstr_Your_courtier_hands_|Your courtier hands you your dinner. It consists of a loaf of bread, and half an apple.
+qstr_Your_courtier_hands_|Il tuo cortigiano vi porge la cena. che consiste in una pagnotta e metà mela.
 ; qstr_The_cook_served_roas|The cook served roasted goat on a bed of sliced onions, washed down with pale green Volantene liquor. It was delicious!
-; qstr_Your_courtier_hands_y|Your courtier hands you your dinner. It consists of half an onion.
+qstr_Your_courtier_hands_y|Il vostro cortigiano vi porge la cena. Che consiste in mezza cipolla.
 ; qstr_The_cook_served_hone|The cook served honeyed lamb, fragrant with crushed mint, with a side of small green figs and honeyed locusts. It was delicious!
 ; qstr_Your_courtier_hands_yo|Your courtier hands you your dinner. It consists of a pickled turnip.
-; qstr_You_managed_to_pierc|You managed to pierce the stags heart!
-; qstr_You_missed_and_the_s|You missed, and the stag got away!
-; qstr_You_missed!|You missed!
-; qstr_You_missed_and_the_b|You missed, and the bear mauled your leg!
-; qstr_You_managed_to_pierce|You managed to pierce the eye of the bear!
-; qstr_You_missed_and_the_bo|You missed, and the boar tried to maul you, but you got away!
-; qstr_You_managed_to_strik|You managed to strike the great beast between the eyes!
+qstr_You_managed_to_pierc|Sei riuscito a trafiggere il cervo al cuore!
+qstr_You_missed_and_the_s|L'hai mancato, e il cervo se la cava!
+qstr_You_missed!|L'hai mancato!
+qstr_You_missed_and_the_b|L'hai mancato, e l'orso sbrana la tua gamba!
+qstr_You_managed_to_pierce|Sei riuscito a perforare l'occhio dell'orso!
+qstr_You_missed_and_the_bo|L'hai mancato, il cinghiale tenta di caricarti, ma riesci a fuggire!
+qstr_You_managed_to_strik|Sei riuscito a colpire l'enorme bestia in mezzo agli occhi!
 qstr_You_ve_gained_1_agil|Hai guadagnato 1 di agilità.
 ; qstr_You_feel_a_serene_ca|You feel a serene calm come over you.
-; qstr_The_local_peasantry_|The local peasantry are duly impressed.
+qstr_The_local_peasantry_|I locali paesanti sono realmente impressionati.
 ; qstr_You_can_t_help_but_f|You can't help but feel a certain dread - The Stranger is the aspect of death.
 ; qstr_The_people_of_King_s|The people of King's Landing are duly impressed.
-; qstr_The_peasants_are_dul|The peasants are duly impressed.
-; qstr_Your_eyes_start_to_h|Your eyes start to hurt.
+qstr_The_peasants_are_dul|I paesanti sono realmente impressionati.
+qstr_Your_eyes_start_to_h|I tuoi occhi iniziano a farti male.
 ; qstr_You_couldn_t_resist_|You couldn't resist the temptation, and the screams of the young girl echoes in the night.
 ; qstr_You_re_met_with_a_ro|You're met with a roaring cheer!
 ; qstr_This_sept_is_cold!_A|This sept is cold! And my knees hurt!
-; qstr_The_crew_is_horrifie|The crew is horrified! A kraken!
+qstr_The_crew_is_horrifie|L'equipaggio è inorridito! Un kraken!
 ; qstr_The_shape_soon_disap|The shape soon disappears.
-; qstr_One_of_the_fish_hit_|One of the fish hit you in the head!
-; qstr_You_managed_to_dodge|You managed to dodge the fish!
-; qstr_It_s_hard_work_but_r|It's hard work, but rewarding!
+qstr_One_of_the_fish_hit_|Uno dei pesci ti colpitisce in testa!
+qstr_You_managed_to_dodge|Sei riuscito a schivare il pesce!
+qstr_It_s_hard_work_but_r|È un lavoro duro, ma gratificante!
 ; qstr_You_slipped_on_the_p|You slipped on the planks, and hurt your knees!
 ; qstr_Your_crew_is_too_dru|Your crew is too drunk to care about some cat.
-; qstr_The_crew_is_close_to|The crew is close to mutiny!
-; qstr_The_crew_is_still_mu|The crew is still muttering.
-; qstr_The_crew_look_reliev|The crew look relieved.
-; qstr_Everyone_knows_the_s|Everyone knows the shark is a harbinger of death!
-; qstr_The_scorpion_was_cru|The scorpion was crushed!
-; qstr_The_scorpion_ignores|The scorpion ignores you, and continues it's journey across a rock.
-; qstr_The_scorpion_dodged_|The scorpion dodged your mighty boot! But then it crawled into a hole.
-; qstr_The_scorpion_stung_y|The scorpion stung you! But it appears to be a harmless kind of scorpion.
-; qstr_The_snake_was_crushe|The snake was crushed beneath your boot.
-; qstr_The_snake_didn_t_bit|The snake didn't bite you, but you showed yourself to be a coward.
-; qstr_The_snake_evaded_you|The snake evaded your boot and bit you! You feel weak.
-; qstr_The_snake_evaded_your|The snake evaded your boot and bit you! But it appears to be a harmless kind of snake.
-; qstr_The_snake_evaded_your_|The snake evaded your boot and bit you! You feel a bit weak.
-; qstr_You_ve_shown_yoursel|You've shown yourself to be a coward!
-; qstr_You_showed_yourself_|You showed yourself to be a man without fear!
+qstr_The_crew_is_close_to|L'equipaggio è vicino all'ammutinamento!
+qstr_The_crew_is_still_mu|L'equipaggio sta borbottando.
+qstr_The_crew_look_reliev|L'equipaggio cerca sollievo.
+qstr_Everyone_knows_the_s|Tutti sanno che lo squalo è presagio di morte!
+qstr_The_scorpion_was_cru|Lo scorpione è stato schiacciato!
+qstr_The_scorpion_ignores|Lo scorpione ti ignora, e continua la sua corsa attraverso una roccia.
+qstr_The_scorpion_dodged_|Lo scorpione ha schivato il tuo pesante stivale! E striscia in un buco.
+qstr_The_scorpion_stung_y|Lo scorpione ti ha punto! Ma sembra essere una specie innocua.
+qstr_The_snake_was_crushe|Il serpente è rimasto schiacciato sotto il tuo stivale.
+qstr_The_snake_didn_t_bit|Il serpente non ti ha morso, ma ha mostrato che siete un codardo.
+qstr_The_snake_evaded_you|Il serpente evita il tuo stivale e ti morde! Ti senti debole.
+qstr_The_snake_evaded_your|Il serpente evita il tuo stivale e ti morde! Ma sembra essere una specie innocua.
+qstr_The_snake_evaded_your_|Il serpente evita il tuo stivale e ti morde! Ti senti un pò debole.
+qstr_You_ve_shown_yoursel|Hai dimostrato di essere un codardo!
+qstr_You_showed_yourself_|Hai dimostrato di essere un uomo senza paura!
 ; qstr_But_what_does_it_mea|But what does it mean!
-; qstr_Victory_will_be_mine|Victory will be mine!
-; qstr_Delicious_indeed!|Delicious indeed!
-; qstr_Delicious!|Delicious!
+qstr_Victory_will_be_mine|La vittoria sarà mia!
+qstr_Delicious_indeed!|Davvero delizioso!
+qstr_Delicious!|Delizionso!
 qstr_Your_stomach_grumbles|Il tuo stomaco brontola!
-; qstr_Refreshing!|Refreshing!
+qstr_Refreshing!|Rinfrescante!
 ; qstr_You_re_so_thirsty!|You're so thirsty!
 qstr_It_was_empty!|Era vuoto!
 ; qstr_Time_to_look_for_ano|Time to look for another rock.
-; qstr_You_re_filled_with_a|You're filled with ambition!
-; qstr_A_depressing_song_in|A depressing song indeed.
+qstr_You_re_filled_with_a|siete pieno di ambizione!
+qstr_A_depressing_song_in|Una canzone davvero deprimente.
 ; qstr_Praise_the_watchers_|Praise the watchers on the Wall!
-; qstr_A_joyous_song!|A joyous song!
-; qstr_A_song_for_children!|A song for children!
+qstr_A_joyous_song!|Una canzone gioiosa!
+qstr_A_song_for_children!|Una canzone per bambini!
 ; qstr_I_d_almost_forgotten|I'd almost forgotten what it sounded like...
 ; qstr_I_wonder_what_happen|I wonder what happened to the Night's King...
-; qstr_They_both_fled_the_v|They both fled the village for the woods, and have been declared outlaws.
-; qstr_The_fanatic_shouts_a|The fanatic shouts at you, cursing your heathen mind!
-; qstr_Your_courtiers_are_h|Your courtiers are horrified at your angered look.
-; qstr_Your_courtiers_are_i|Your courtiers are in awe of your patience.
-; qstr_Your_courtiers_are_ho|Your courtiers are horrified at your angered look!
-; qstr_Your_courtiers_are_in|Your courtiers are in awe of your patience!
+qstr_They_both_fled_the_v|Entrambi sono fuggiti dal paese per i boschi, e sono stati dichiarati fuorilegge.
+qstr_The_fanatic_shouts_a|Il fanatico vi grida contro, maledicendo la vostra mente pagana!
+qstr_Your_courtiers_are_h|I vostri cortigiani sono inorriditi dal vostro sguardo irritato.
+qstr_Your_courtiers_are_i|I vostri cortigiani sono in soggezione per la vostra pazienza!
+qstr_Your_courtiers_are_ho|I vostri cortigiani sono inorriditi dal vostro sguardo irritato.
+qstr_Your_courtiers_are_in|I vostri cortigiani sono in soggezione per la vostra pazienza!
 ; qstr_The_old_man_starts_t|The old man starts to furiously pleasure himself. What a fool you are.
 ; qstr_The_old_woman_starts|The old woman starts to furiously pleasure herself. What a fool you are.
-; qstr_The_man_has_tears_in|The man has tears in his eyes.
+qstr_The_man_has_tears_in|L'uomo ha le lacrime agli occhi.
 ; qstr_Foolish_child!|Foolish child!
 ; qstr_A_faint__plop__was_h|A faint 'plop' was heard when the child hit the ground...
 ; qstr_Foolish_children!|Foolish children!
 ; qstr_That_ll_teach_them_t|That'll teach them the proper way of the world!
-; qstr_Your_courtiers_have_|Your courtiers have a worried look in their eyes.
-; qstr_Your_courtiers_can_s|Your courtiers can sleep soundly again.
-; qstr_Your_courtiers_are_hor|Your courtiers are horrified. The peasants will starve!
-; qstr_Your_courtiers_are_horr|Your courtiers are horrified. People will think you're mad!
-; qstr_Your_courtiers_roll_|Your courtiers roll their eyes. It will have no effect!
-; qstr_Your_courtiers_are_horri|Your courtiers are horrified, but the peasants will love you.
-; qstr_Both_nobles_and_peas|Both nobles and peasants rejoice at the news!
+qstr_Your_courtiers_have_|I vostri cortigiani hanno uno sguardo preoccupato.
+qstr_Your_courtiers_can_s|I vostri cortigiani possono dormire sonni tranquilli.
+qstr_Your_courtiers_are_hor|I vostri cortigiani sono inorriditi. I contadini moriranno di fame!
+qstr_Your_courtiers_are_horr|I vostri cortigiani sono inorriditi. La gente penserà che siete pazzo!
+qstr_Your_courtiers_roll_|I vostri cortigiani alzano gli occhi. Non avrà alcun effetto!
+qstr_Your_courtiers_are_horri|I vostri cortigiani sono inorriditi, ma i contadini vi ameranno.
+qstr_Both_nobles_and_peas|Sia i nobili che i paesani si rallegrano della notizia!
 ; qstr_Your_courtiers_are_horrif|Your courtiers are horrified. This is a sign of madness!
-; qstr_The_peasants_are_out|The peasants are outraged!
-; qstr_Your_courtiers_are_horrifi|Your courtiers are horrified. The nobles are outraged!
-; qstr_Peasant_and_noble_al|Peasant and noble alike is outraged!
-; qstr_Your_courtiers_are_ind|Your courtiers are indifferent, but the townspeople are outraged!
-; qstr_The_nobles_are_outra|The nobles are outraged!
-; qstr_The_peasants_rejoice|The peasants rejoice!
-; qstr_The_nobles_rejoice!|The nobles rejoice!
-; qstr_Noble_and_peasant_al|Noble and peasant alike rejoice!
+qstr_The_peasants_are_out|I paesani sono indignati!
+qstr_Your_courtiers_are_horrifi|I vostri cortigiani sono inorriditi. I nobili sono indignati!
+qstr_Peasant_and_noble_al|Paesani e nobili sono indignati!
+qstr_Your_courtiers_are_ind|I vostri cortigiani sono indifferenti, ma i cittadini sono indignati!
+qstr_The_nobles_are_outra|I nobili sono indignati!
+qstr_The_peasants_rejoice|I paesani gioiscono!
+qstr_The_nobles_rejoice!|I nobili gioiscono!
+qstr_Noble_and_peasant_al|Nobili e paesani gioiscono!
 ; qstr_No_one_seems_to_care|No one seems to care.
 ; qstr_Lord_Nestor_Royce_ac|Lord Nestor Royce, acting on behalf of his liege, Robert Arryn, has tasked you with exterminating the mountain clans. Seek out Ser Albar Royce, he should be at The Bloody Gate.
 ; qstr_Return_to_Lord_Nesto|Return to Lord Nestor Royce and claim your reward.
-; qstr_Item_added_to_player|Item added to player inventory.
+qstr_Item_added_to_player|Oggetto aggiunto all'inventario del personaggio
 qstr_{s9}_asked_you_to_fi|{s9} ti ha chiesto di trovare {reg1} {s14} e portarglieli.
-; qstr_{s9}_asked_you_to_fin|{s9} asked you to find {reg1} casks of wine and bring them to him.
+qstr_{s9}_asked_you_to_fin|{s9} ti ha chiesto di trovare {reg1} casse di vino e portargliele.
 ; qstr_{s9}_asked_you_to_de|{s9} asked you to deal with some Usurpers.
 ; qstr_{s9}_of_{s4}_asked_y|{s9} of {s4} asked you to hunt down the elite troops which challenge his rule.
-; qstr_{s9}_asked_you_to_take_|{s9} asked you to take a Love Letter to {s13}.
-; qstr_Merchant_{s9}_of_{s4}|Merchant {s9} of {s4} asked you to hunt down the cheese rustlers in the vicinity of the town.
+qstr_{s9}_asked_you_to_take_|{s9} ti ha chiesto di recapitare una lettera d'amore a {s13}.
+qstr_Merchant_{s9}_of_{s4}|Il mercante {s9} di {s4} ti ha chiesto di scacciare i ladri di formaggio che si aggirano nelle vicinanze della città.
 ; qstr_{s9}_asked_you_to_dea|{s9} asked you to deal with the barflies at {s3}.
 ; qstr_Oh_and_these_fellows|Oh, and these fellows fight dirty. Take this.
-; qstr_The_Village_Elder_of|The Village Elder of {s4} asked you to hunt down the smugglers fleeing his village. He said that all three groups are heading towards {s3}.
-; qstr_Escort_the_scholars_|Escort the scholars to the town of {s8}.
-; qstr_Elder_of_{s4}_asked_|Elder of {s4} asked you to pay the ransom of a villager kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the woman back to {s4}.
-; qstr_The_Village_Elder_of_|The Village Elder of {s9} asked you to find a girl named {s4}. She is currently believed to be at {s3}.
-; qstr_The_elder_of_the_villag|The elder of the village of {s3} asked you to bring them {reg5} bales of lumber.
+qstr_The_Village_Elder_of|L'anziano del villaggio di {s4} ti ha chiesto di riagguantare i contrabbandieri fuggiti dal villaggio. Ha detto che tutti e tre i gruppi si stanno dirigendo verso {s3}.
+qstr_Escort_the_scholars_|Scorta gli studiosi alla città di {s8}.
+qstr_Elder_of_{s4}_asked_|L'anziano del villaggio di {s4} ti ha chiesto di pagare il riscatto di un abitante rapito dai banditi. Devi incontrare i banditi vicino {s3} e pagare la quota del riscatto. Dopodichè dovrai portare la donna a {s4}.
+qstr_The_Village_Elder_of_|{s9} ti ha chiesto di dare la trovare una ragazza di nome {s4}. Attualmente crede che si trovi a {s3}.
+qstr_The_elder_of_the_villag|L'anziano del villaggio di {s3} ti ha chiesto di portare loro {reg5} pacchi di legname.
 ; qstr_{s1}_is_holding_a_we|{s1} is holding a wedding.
 qstr_Cannot_leave_now.|Non puoi andartene adesso.
 ; qstr_^A_wedding_is_taking|^A wedding is taking place here. People are singing and laughing... until they catch sight of you. The wedding party confronts you angrily.
 ; qstr_Try_as_you_might_you_c|Try as you might, you could not defeat the wedding party. They go back to their feast, laughing and joking, and leave you to lick your wounds.
 ; qstr_^A_wedding_is_taking_|^A wedding is taking place here. People are singing and laughing... until they catch sight of you. The mood of the crowd quickly turns sour, and the men charge at you, wielding clubs and daggers.
-; qstr_Merchant_{s9}_of_{s4}_|Merchant {s9} of {s4} asked you to hunt down the grain thieves in the vicinity of the town.
+qstr_Merchant_{s9}_of_{s4}_|Il mercante {s9} di {s4} ti ha chiesto di dare la caccia ai ladri di grano nelle vicinanze della città.
 ; qstr_Escort_the_septons_t|Escort the septons to the town of {s8}.
-; qstr_The_Village_Elder_of_{|The Village Elder of {s4} asked you to pay the ransom of a villager kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the woman back to {s4}.
-; qstr_You_ve_received_a_gi|You've received a gift.
-; qstr_Defeated___continue.|Defeated - continue.
+qstr_The_Village_Elder_of_{|L'anziano del villaggio di {s4} ti ha chiesto di pagare il riscatto di un abitante rapito dai banditi. Devi incontrare i banditi vicino {s3} e pagare la quota del riscatto. Dopodichè dovrai portare la donna a {s4}.
+qstr_You_ve_received_a_gi|Hai ricevuto un regalo.
+qstr_Defeated___continue.|Sconfitta - continua.
 ; qstr_Head_to_Duskendale_t|Head to Duskendale to search for the horn.
 ; qstr_Perhaps_someone_in_M|Perhaps someone in Myr will reward you for dispatching a notorious pirate.
 ; qstr_Return_to_Tyrosh|Return to Tyrosh
@@ -2391,8 +2391,8 @@ qstr_A_clay_pot_filled_with_|Un'ampolla di terracotta piena di altofuoco, una so
 ; qstr_Go_to_Fairmarket_and|Go to Fairmarket and talk to the Elder Brother.
 ; qstr_Return_to_the_castle_|Return to the castle later, and talk to the Tattered Prince.
 ; qstr_Return_to_the_tavern_|Return to the tavern and search for Phario Forel.
-; qstr_A_ruler_should_be_ge|A ruler should be generous, not miserly!
-; qstr_You_gain_2_right_to_|You gain 2 right to rule!
+qstr_A_ruler_should_be_ge|Un sovrano dovrebbe essere generoso, non avaro!
+qstr_You_gain_2_right_to_|Guadagni 2 diritto a governare.
 ; qstr_Septon_Garibald_told|Septon Garibald told you of a farmer in need of help. You can find him in the tavern.
 ; qstr_The_merchant_gave_yo|The merchant gave you a heavy bag of silver, enough to start your own career as a sellsword, merchant or outlaw, or begin the long and arduous journey towards lordship. You can strike out on your own, or search the town of Weeping Tower for people who might have need of your services.
 ; qstr_Ser_Clifford_Gower_t|Ser Clifford Gower, the captain of the guards, needs someone to deliver a letter. You can find him in the castle hall.
@@ -2405,124 +2405,124 @@ qstr_A_clay_pot_filled_with_|Un'ampolla di terracotta piena di altofuoco, una so
 ; qstr_The_men_in_the_cages|The men in the cages scream something fiercely though.
 ; qstr_The_men_of_the_Storm|The men of the Stormlands disagree.
 ; qstr_The_man_in_the_sack_|The man in the sack scream something fiercely though.
-; qstr_The_old_man_looks_pl|The old man looks pleased.
-; qstr_The_men_of_the_villa|The men of the village disagree.
-; qstr_And_a_tasty_boar_it_|And a tasty boar it was!
-; qstr_A_fine_meal_and_an_e|A fine meal, and an exquisite wine!
-; qstr_Your_weapon_broke.|Your weapon broke.
-; qstr_Hah!_Your_weapon_bro|Hah! Your weapon broke. This can not be repaired until the end of the battle
-; qstr_You_broke_your_lance|You broke your lance!
-; qstr_You_broke_your_spear|You broke your spear!
+qstr_The_old_man_looks_pl|ll vecchio sembra contento.
+qstr_The_men_of_the_villa|Gli uomini del villaggio non sono d'accordo.
+qstr_And_a_tasty_boar_it_|E un gustoso cinghiale!
+qstr_A_fine_meal_and_an_e|Un ottimo pasto, e del vino squisito!
+qstr_Your_weapon_broke.|La tua arma si è rotta.
+qstr_Hah!_Your_weapon_bro|Ha! La tua arma è rotta. Non potra essere riparata fino alla fine della battaglia
+qstr_You_broke_your_lance|La tua lancia si è spezzatata!
+qstr_You_broke_your_spear|La tua lancia si è spezzatata!
 ; qstr_Your_{s20}_is_too_cr|Your {s20} is too crapy to fall apart!
 ; qstr_Your_{s20}_cracks!|Your {s20} cracks!
 ; qstr_Your_{s20}_falls_apa|Your {s20} falls apart!
-; qstr_Your_spear_broke!|Your spear broke!
+qstr_Your_spear_broke!|La tua lancia si è spezzatata!
 ; qstr_A_round_steel_shield_c|A round steel shield, carried by men trained at Winterfell.
 ; qstr_Lances_are_likely_to|Lances are likely to break on impact.^You should always carry a secondary weapon.
 ; qstr_Spears_are_likely_to|Spears are likely to crack, splinter and break in combat.^You should always carry a secondary weapon.
 ; qstr_This_area_of_Braavos|This area of Braavos can best be described as the very core of the city.^^ You can almost see the strings that are being pulled from here, the coin and wealth that comes and goes at seemingly endless rates. Though all the Free Cities have their own banks, the Iron Bank is richer and more powerful than all the rest combined, though one would not immediatly think so when observing the keyholders and justiciars, all of whom are dressed in drab coats of brown and grey. Here you can buy the land that is cultivated all along the western shores of northern Essos, the area known as the Braavosian Coastlands, and benefit from the ones working hard, while also acquiring a steady income to fund whatever endeavors you wish. Of course you might not have the coin required to do so, but the servants of Iron Bank are known to have some spare change, and will gladly lend you whatever you require, as long as the loan is repayed. Those who default on their promises meet a grizzly fate, and the people of Braavos have a saying 'The Iron Bank will have its due'.
 ; qstr_There_are_currently_|There are currently {reg2} acres of land available for cultivation to provide them with  food and other goods. You own {reg3} acres of land in this town. You currently owe the moneylenders of {s1} {reg4} coins. The interest rate is 20% and the contract period amounts  to 2 weeks. If you dont manage to pay off your debt until the deadline, the interest is raised to 40%. Buying an existing acre costs {reg9} denars, while it sells for {reg10} denars. Building a new one requires {reg11} denars. The rent paid to landowners currently accumulates to {reg13} coins per acre every 2 weeks and has to be collected in the town. Land wont be rented if a town is already well supplied.
-; qstr_You_can_t_sell_0_acr|You can't sell 0 acres of land.
-; qstr_You_can_t_buy_0_acre|You can't buy 0 acres of land.
-; qstr_You_can_t_borrow_0_d|You can't borrow 0 denars.
-; qstr_You_can_t_pay_back_0|You can't pay back 0 denars.
+qstr_You_can_t_sell_0_acr|Non puoi vendere 0 acri di terra.
+qstr_You_can_t_buy_0_acre|Non puoi comprare 0 acri di terra.
+qstr_You_can_t_borrow_0_d|Si puoi prendere in prestito 0 denari.
+qstr_You_can_t_pay_back_0|Non puoi rimborsare 0 denari.
 ; qstr_There_are_currently_{|There are currently {reg2} acres of land available for cultivation to provide the people of Braavos with  grain, corn, olives and other goods. You own {reg3} acres of land spread out across the Braavosian Coastlands. You currently owe the Iron Bank {reg4} coins. The interest rate is 20% and the contract period amounts  to 2 weeks. If you dont manage to pay off your debt until the deadline, the interest is raised to 40%. Buying an existing acre costs {reg9} coins, while it sells for {reg10} coins. Building a new one requires {reg11} coins. The rent paid to landowners currently accumulates to {reg13} coins per acre every 2 weeks and is delivered to the servants of the Iron Bank, for safekeeping in the vaults. You can collect your rents by visiting the bank. Land won't be rented if the people of Braavos are already well supplied.
-; qstr_You_ve_lost_15_one_h|You've lost 15 one-handed weapon proficiency.
-; qstr_You_ve_gained_5_one_|You've gained 5 one-handed weapon proficiency.
-; qstr_You_ve_lost_5_one_ha|You've lost 5 one-handed weapon proficiency.
-; qstr_You_ve_lost_20_one_h|You've lost 20 one-handed weapon proficiency.
-; qstr_You_ve_gained_10_one|You've gained 10 one-handed weapon proficiency.
-; qstr_You_ve_lost_2_one_ha|You've lost 2 one-handed weapon proficiency.
-; qstr_You_ve_lost_10_one_h|You've lost 10 one-handed weapon proficiency.
+qstr_You_ve_lost_15_one_h|Hai perso 15 punti in competenza armi ad una mano.
+qstr_You_ve_gained_5_one_|Hai guadagnato 5 punti in competenza armi ad una mano.
+qstr_You_ve_lost_5_one_ha|Hai perso 5 punti in competenza armi ad una mano.
+qstr_You_ve_lost_20_one_h|Hai perso 20 punti in competenza armi ad una mano.
+qstr_You_ve_gained_10_one|Hai guadagnato 10 punti in competenza armi ad una mano.
+qstr_You_ve_lost_2_one_ha|Hai perso 2 punti in competenza armi ad una mano.
+qstr_You_ve_lost_10_one_h|Hai perso 10 punti in competenza armi ad una mano.
 ; qstr_You_missed_the_deadli|You missed the deadline to pay back your debts to the Iron Bank. They now grow at an interest of 50%.
 ; qstr_Your_debt_to_the_Iro|Your debt to the Iron Bank is now so staggering that they have given up on ever getting their coin back. But they have other ways of getting their due...
-; qstr_You_ve_been_knocked_unconscious!|You've been knocked unconscious!
+qstr_You_ve_been_knocked_unconscious!|Hai perso i sensi!
 ; qstr_You_have_defeated_Se|You have defeated Ser Raymun Templeton.
 ; qstr_Return_to_Ser_Alyn_T|Return to Ser Alyn Tollett.
-; qstr_Receive_your_reward.|Receive your reward.
-; qstr_You_ve_gained_35_ren|You've gained 35 renown.
-; qstr_You_ve_gained_2_agil|You've gained 2 agility.
+qstr_Receive_your_reward.|Ricevi la tua ricompensa.
+qstr_You_ve_gained_35_ren|Hai guadagnato 35 punti fama.
+qstr_You_ve_gained_2_agil|Hai guadagnato 2 punti agilità.
 ; qstr_You_have_beaten_the_t|You have beaten the twins!
 ; qstr_Delicious!_The_cook_|Delicious! The cook has seasoned it with pepper!
-; qstr_Delicious!_This_cook|Delicious! This cook knows what he's doing!
-; qstr_You_can_t_afford_tha|You can't afford that.
+qstr_Delicious!_This_cook|Delizioso! Questo cuoco sa quello che fa!
+qstr_You_can_t_afford_tha|Non posso permettermelo.
 ; qstr_This_does_nothing:|This does nothing:
-; qstr_We_re_not_afraid_of_y|We're not afraid of you. Time to bust some heads!
-; qstr_{playername}_when_we_|{playername}, when we started our long walk, few people had the courage to support me. And fewer still would be willing to put their lives at risk for my cause. But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and there were times I came close to losing all hope. But with the help of the gods, we prevailed. It is now time for me to leave your company and take what's rightfully mine. From now on, I will carry out the great responsibility of ruling {s3}. There still lie many challenges ahead and I count on your help in overcoming those. And of course, you will always remain as my foremost vassal.
+qstr_We_re_not_afraid_of_y|Non ci dispiace per voi. È tempo di spaccare un po' di teste!
+qstr_{playername}_when_we_|{playername}, quando abbiamo cominciato il nostro lungo cammino, poche persone avevano il coraggio di aiutarmi. E ancor meno avevano il coraggio di mettere le loro vite a rischio per la mia causa. Non hanno però esitato un attimo a gettarsi nella mischia contro i miei nemici. Siamo andati avanti insieme, e c'erano tempi nei quali stavo per perdere ogni speranza. Ma con l'aiuto di Dio, siamo riusciti a prevalere. Ora per me è il momento di lasciare la vostra Compagnia e di prendere ciò che è mio di diritto. D'ora in poi, sopporterò la grande responsabilità di governare {s3}. Ci sono ancora molte sfide dinnanzi a noi e conto sul vostro aiuto per superarle. Certamente, rimarrete sempre il mio primo vassallo.
 ; qstr_{s1}__embassy_|{s1} (embassy)
-; qstr___{reg1}_coins_per_n| ({reg1} coins per night)
-; qstr_Moreover_you_earn_{re|Moreover, you earn {reg8} coins from the clever bets you placed on yourself...
-; qstr_^Buying_{s4}_here_and|^Buying {s4} here and selling it at {s5} would bring a profit of {reg6} coins per item.{s3}
+qstr___{reg1}_coins_per_n| ({reg1} denari per notte)
+qstr_Moreover_you_earn_{re|In più, guadagni {reg8} denari dalle scommesse piazzate sulla tua stessa persona...
+qstr_^Buying_{s4}_here_and|^Comprando {s4} qui e vendendo questo a {s5} dovresti avere un profitto di {reg6} denari per oggetto.{s3}
 ; qstr_You_stumble_and_fall!|You stumble and fall!
 ; qstr_Light_spears_are_lik|Light spears are likely to crack, splinter and break in combat.^You should always carry a secondary weapon.
-; qstr__You_start_performin| You start performing these hard peasantry basic work.
-; qstr_You_lose_10_renown.|You lose 10 renown.
-; qstr__You_ve_been_carried| You've been carried off as prisoner.
-; qstr__The_village_is_being| The village is being raided. You are no longer needed in the field.
-; qstr__The_village_is_being_| The village is being infested by bandits. You are no longer needed in the field.
-; qstr_You_improve_your_ren|You improve your renown with this village.
-; qstr_Alas_you_don_t_impro|Alas, you don't improve your renown with this village.
-; qstr_Working_in_the_field|Working in the fields is hard work, but you've gained {reg1} xp and receive {s1}. {s2}.
-; qstr_You_keep_working_har|You keep working hard for this village...
-; qstr_Your_strenuous_villa|Your strenuous village work ends.
-; qstr_You_begin_working_in|You begin working in the fields.
-; qstr_Working_in_the_fields|Working in the fields is for the peasants!
-; qstr_You_ve_been_carried_|You've been carried off as prisoner.
-; qstr_The_village_is_being|The village is being raided. You are no longer needed in the field.
-; qstr_The_village_is_being_|The village is being infested by bandits. You are no longer needed in the field.
-; qstr_You_improve_your_rel|You improve your relations with the village.
-; qstr_Alas_you_don_t_improv|Alas, you don't improve your relations with the village.
-; qstr_Working_in_the_fields_|Working in the fields is hard work, but you've gained {reg1} experience and receive {s1}. {s2}.
-; qstr_You_keep_working_hard|You keep working hard for the village...
-; qstr__Like_farmer_you_los| Like farmer, you lose renown and reputation.
-; qstr__You_ve_been_carried_| You've been carried off as prisoner. You stop your work.
-; qstr__The_village_is_being_r| The village is being raided. You stop your work.
-; qstr__The_village_is_being_i| The village is being infested by bandits. You stop your work.
-; qstr__You_improve_your_re| You improve your renown with this village
-; qstr__Alas_you_don_t_impr| Alas, you don't improve your renown with this village
+qstr__You_start_performin|Inizi aiutanto i contadini a fare i lavori più pesanti.
+qstr_You_lose_10_renown.|Hai perso 10 punti fama.
+qstr__You_ve_been_carried|Sei stato portato via come prigioniero.
+qstr__The_village_is_being|Il villaggio è stato saccheggiato. Non c'è più bisogno di te nei campi.
+qstr__The_village_is_being_|Il villaggio è infestato dai banditi. Non c'è più bisogno di te nei campi.
+qstr_You_improve_your_ren|Hai aumentato la tua relazione con il villaggio.
+qstr_Alas_you_don_t_impro|Aimhè, non sei riuscito ad aumentare la relazione con il villaggio.
+qstr_Working_in_the_field|Lavorare nei campi è faticoso, ma hai guadagnato {reg1}  punti esperienza e ricevi {s1}. {s2}.
+qstr_You_keep_working_har|Continui a lavorare sodo per il villaggio...
+qstr_Your_strenuous_villa|Il tuo faticoso lavoro al villaggio è finito.
+qstr_You_begin_working_in|Stai lavorando nei campi.
+qstr_Working_in_the_fields|Solo i contadini devono lavorare i campi!
+qstr_You_ve_been_carried_|Sei stato portato via come prigioniero.
+qstr_The_village_is_being|Il villaggio è stato saccheggiato. Non c'è più bisogno di te nei campi.
+qstr_The_village_is_being_|Il villaggio è infestato dai banditi. Non c'è più bisogno di te nei campi.
+qstr_You_improve_your_rel|Hai aumentato la tua relazione con il villaggio.
+qstr_Alas_you_don_t_improv|Aimhè, non sei riuscito ad aumentare la relazione con il villaggio.
+qstr_Working_in_the_fields_|Lavorare nei campi è faticoso, ma hai guadagnato {reg1}  punti esperienza e ricevi {s1}. {s2}.
+qstr_You_keep_working_hard|Continui a lavorare sodo per il villaggio.
+qstr__Like_farmer_you_los|Come contadino, perdi fama e reputazione.
+qstr__You_ve_been_carried_|Sei stato portato via come prigioniero. Smetti di lavorare.
+qstr__The_village_is_being_r|Il villaggio è infestato dai banditi. Smetti di lavorare.
+qstr__The_village_is_being_i|Il villaggio è infestato dai banditi. Smetti di lavorare.
+qstr__You_improve_your_re|Hai aumentato la tua relazione con il villaggio.
+qstr__Alas_you_don_t_impr|Aimhè, non sei riuscito ad aumentare la relazione con il villaggio.
 ; qstr_Here_are_the_results|Here are the results of your hard work: You exhaust yourself, You gain {reg1} xps, you receive some {s1}. {s2}. Peasant life is hard, but you feel good.
-; qstr_You_start_working_in|You start working in the field, alongside the other peasants.
-; qstr_Working_in_the_field_|Working in the field is for the filthy peasants!
-; qstr_The_village_is_being_r|The village is being raided. You stop working in the field.
-; qstr_The_village_is_being_i|The village is being infested by bandits. You stop working in the field.
-; qstr__You_improve_your_rel| You improve your relations with the village.
-; qstr__Alas_you_don_t_impro| Alas, you don't improve your renown with the village.
-; qstr_You_ve_finished_work|You've finished working for the village, and have exhausted yourself, but you've gained {reg1} experience, you receive {s1}. {s2}.
-; qstr_You_keep_working_for|You keep working for the village...
-; qstr__Alas_you_don_t_improv| Alas, you don't improve your relations with the village.
-; qstr_You_ve_finished_worki|You've finished working for the village, and have exhausted yourself, but you've gained {reg1} experience and you receive {s1}. {s2}.
-; qstr_Part_of_your_food_was|Part of your food was distributed.
+qstr_You_start_working_in|Inizi a lavorare nei campi, a fianco dei contadini.
+qstr_Working_in_the_field_|Solo gli sporchi contadini lavorano nei campi!
+qstr_The_village_is_being_r|Il villaggio è stato saccheggiato. Smetti di lavorare nei campi.
+qstr_The_village_is_being_i|Il villaggio è infestato dai banditi. Smetti di lavorare nei campi.
+qstr__You_improve_your_rel|Hai aumentato la tua relazione con il villaggio.
+qstr__Alas_you_don_t_impro|Aimhè, non sei riuscito ad aumentare la relazione con il villaggio.
+qstr_You_ve_finished_work|Hai finito di lavorare al villaggio, e sei esausto, ma hai guadagnato {reg1}  punti esperienza e ricevi {s1}. {s2}.
+qstr_You_keep_working_for|Continui a lavorare al villaggio...
+qstr__Alas_you_don_t_improv|Aimhè, non sei riuscito ad aumentare la relazione con il villaggio.
+qstr_You_ve_finished_worki|Hai finito di lavorare al villaggio, e sei esausto, ma hai guadagnato {reg1}  punti esperienza e ricevi {s1}. {s2}.
+qstr_Part_of_your_food_was|Parte del tuo cibo è stata distribuita.
 ; qstr_You_managed_to_catch_|You managed to catch a fat fish, and the fish had another fish inside it! You smoked both over an open fire.
 ; qstr_The_line_broke!|The line broke!
 ; qstr__When_you_give_him_ar| When you give him armor and food, he suddenly appear as a mighty warrior.
 ; qstr__The_priest_bless_you_| The priest bless you and you continue on your way.
 ; qstr_The_septon_bless_you_a|The septon bless you, and you continue on your way.
-; qstr_{s10}|{s10}
-; qstr_A_jubilant_young_maid|A jubilant young maiden gift you a fine looking courser.
-; qstr_After_two_hours_the_|After two hours the bandits return with some loot and the elders head...
-; qstr_The_ruler_of_{s3}_app|The ruler of {s3} applauds your valiant victory, and gift you a massive two-handed axe.
-; qstr_A_young_maiden_from_|A young maiden from {s3} gift you a fine sword.
-; qstr_A_young_noble_from_{|A young noble from {s3} gift you a fine curved sword.
-; qstr_A_wealthy_merchant_f|A wealthy merchant from {s3} gift you a fine destrier.
-; qstr_A_jubilant_merchant_g|A jubilant merchant gift you a fine looking courser.
-; qstr_A_shy_young_maiden_f|A shy young maiden from {s3} gift you a fine looking palfrey.
-; qstr_The_ruler_of_{s3}_gift_yo|The ruler of {s3} gift you a fine palfrey.
+qstr_{s10}|{s10}
+qstr_A_jubilant_young_maid|Una esultante fanciulla ti ha regalato uno splendido corsiero.
+qstr_After_two_hours_the_|Dopo due ore i banditi ritornano con un buon bottino e la testa dell'anziano del villaggio...
+qstr_The_ruler_of_{s3}_app|Il sovrano di {s3} si congratura pe la tua valorosa vittoria, e ti ha regalato una maestosa ascia a due mani.
+qstr_A_young_maiden_from_|una giovane fanciulla di {s3} ti ha regalato una stupenda spada.
+qstr_A_young_noble_from_{|Un giovane nobile di {s3} ti ha regalato un'eccelsa spada curva.
+qstr_A_wealthy_merchant_f|Un ricco mercante di {s3} ti ha regalato un megnifico destriero.
+qstr_A_jubilant_merchant_g|Un esultante giovane mercante ti ha regalato un magnifico corsiero.
+qstr_A_shy_young_maiden_f|Una timida fanciulla di {s3} ti ha regalato un magnifico palafreno.
+qstr_The_ruler_of_{s3}_gift_yo|Il sovrano di {s3} ti ha regalato un magnifico palafreno.
 ; qstr_The_merchant_gave_you|The merchant gave you a heavy bag of silver, enough to start your own career as a sellsword, merchant or outlaw, or begin the long and arduous journey towards lordship. You can strike out on your own, or search the town of Weeping Tower for people who might have need of your services. Talk to septon Garibald in the castle hall of Weeping Tower to learn more.
 ; qstr_A_lady_of_{s3}_applau|A lady of {s3} applauds your victory, and gift you a fine bow, carved from the branches of a weirwood.
-; qstr_One_of_the_nobles_of_|One of the nobles of {s3} gift you a fine bow, decorated by a master craftsman.
+qstr_One_of_the_nobles_of_|Uno dei nobili di {s3} ti ha regalato un pregevole arco, decorato da un maestro artigiano.
 ; qstr_The_ruler_of_{s3}_gift_you|The ruler of {s3} gift you a fine bow, crafted from the bones of a long dead dragon.
-; qstr_The_ruler_of_{s3}_gift_you_|The ruler of {s3} gift you a fine bow, decorated by a master craftsman.
-; qstr_The_nobles_and_merchan|The nobles and merchants of {s3} gift you a fine sword, crafted by a master weaponsmith.
-; qstr_A_young_maiden_from_a|A young maiden from a noble house gift you a fine sword, crafted by the best weaponsmith in {s3}.
-; qstr_A_young_nobleman_gif|A young nobleman gift you a fine curved sword, crafted by the best blacksmith in {s3}.
-; qstr_A_young_knight_gift_y|A young knight gift you sword, finely wrought and decorated with silver.
-; qstr_The_ruler_of_{s3}_gift_you_a|The ruler of {s3} gift you a fine destrier, the best one in his stables.
+qstr_The_ruler_of_{s3}_gift_you_|Il sovrano di {s3} ti ha regalato un pregevole arco, decorato da un maestro artigiano.
+qstr_The_nobles_and_merchan|I nobili e i mercanti di {s3} ti hanno regalato una stupenda spada, forgiata da un maestro armaiolo.
+qstr_A_young_maiden_from_a|Una giovane fanciulla di nobili origini ti ha regalato una stupenda spada, forgiata dal migliore armaiolo di {s3}.
+qstr_A_young_nobleman_gif|Un giovane nobile ti ha regalato un'eccelsa spada curva, forgiata dal migliore fabbro di {s3}.
+qstr_A_young_knight_gift_y|Un giovane cavaliere ti ha regalato la sua spada, finemente battuta e decorata in argento.
+qstr_The_ruler_of_{s3}_gift_you_a|Il sovrano di {s3} ti ha regalato uno stupendo destriero, il migliore della sua scuderia.
 ; qstr_The_local_septon_gift|The local septon gift you a fine valyrian dagger, wrought in dragonflame.
-; qstr_A_jubilant_young_maide|A jubilant young maiden gift you a fine looking courser, well-trained and fast.
-; qstr_A_jubilant_young_mer|A jubilant young merchant gift you a fine looking courser.
-; qstr_The_ruler_of_{s3}_gift_you_a_|The ruler of {s3} gift you a fine palfrey, the best one in his stables.
-; qstr_The_leading_merchant|The leading merchant of {s3} gift you a heavy bag of silver, as a reward for your valiant victory.
-; qstr_One_of_the_constable|One of the constables of {s3} gift you a small bag of silver, with his thanks. Apparently, he won a lot of silver betting on you.
-; qstr_A_distant_cousin_of_|A distant cousin of the ruler of {s3} gift you a small bag of silver.
-; qstr_The_ruler_of_{s3}_gift_you_a_h|The ruler of {s3} gift you a heavy bag of silver, as a reward for your valiant victory in the melee.
+qstr_A_jubilant_young_maide|Una esultante fanciulla ti ha regalato uno stupendol corsiero, ben addestrato e molto veloce.
+qstr_A_jubilant_young_mer|Un esultante giovane mercante ti ha regalato uno stupendo corsiero.
+qstr_The_ruler_of_{s3}_gift_you_a_|Il sovrano di {s3} ti ha regalato uno stupendo palafreno, il migliore della sua scuderia.
+qstr_The_leading_merchant|Il gran mercante di {s3} ti ha regalato una grossa borsa di monete, come ricompensa per la tua valorosa vittoria.
+qstr_One_of_the_constable|Uno dei conestabili di {s3} ti ha regalato una piccola borsa di monete, porgendoti i suoi ringraziamenti. A quanto pare, ha vinto molto scommettendo su di voi.
+qstr_A_distant_cousin_of_|Un lontano cugino del sovrano di {s3} ti ha regalato una piccola borsa di monete.
+qstr_The_ruler_of_{s3}_gift_you_a_h|Il sovrano di {s3} ti ha regalato una grossa borsa di monete, come ricompensa per la tua valorosa vittoria.
 ; qstr_The_people_of_The_We|The people of The Weeping Tower are duly impressed.

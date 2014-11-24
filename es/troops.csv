@@ -542,8 +542,8 @@ trp_sarranid_n_yerliyya1|Hombre de armas de élite tormenta
 trp_sarranid_n_yerliyya1_pl|Hombres de armas de élite tormenta
 trp_sarranid_n_timariot1|Arquero tormenta de tiro largo
 trp_sarranid_n_timariot1_pl|Arquero tormenta de tiro largo
-; trp_stormlands_halberdier|Stormlands Halberdier
-; trp_stormlands_halberdier_pl|Stormlands Halberdiers
+trp_stormlands_halberdier|Alabardero de las Tierras de las Tormentas
+trp_stormlands_halberdier_pl|Alabardero de las Tierras de las Tormentas
 trp_sarranid_n_garip1|Sargento tormenta
 trp_sarranid_n_garip1_pl|Sargentos tormenta
 trp_stormlands_troop_1|Arquero veterano tormenta de tiro largo
@@ -564,8 +564,8 @@ trp_sarranid_n_jebelus2|Arquero norteño
 trp_sarranid_n_jebelus2_pl|Arqueros norteños
 trp_sarranid_n_yerliyya2|Piquero de élite norteño
 trp_sarranid_n_yerliyya2_pl|Piqueros de élite norteños
-; trp_northern_spearman|Northern Spearman
-; trp_northern_spearman_pl|Northern Spearmen
+trp_northern_spearman|Lancero norteño
+trp_northern_spearman_pl|Lancero norteño
 trp_sarranid_n_timariot2|Arquero veterano norteño
 trp_sarranid_n_timariot2_pl|Arqueros veteranos norteños
 trp_sarranid_n_garip2|Sargento norteño
@@ -658,8 +658,8 @@ trp_sarranid_n_timariot10|Ballestero veterano del dominio
 trp_sarranid_n_timariot10_pl|Ballesteros veteranos del dominio
 trp_sarranid_n_garip10|Archero de élite del dominio
 trp_sarranid_n_garip10_pl|Archeros de élite del dominio
-; trp_reach_squire|Reach Squire
-; trp_reach_squire_pl|Reach Squires
+trp_reach_squire|Escudero del Dominio
+trp_reach_squire_pl|Escuderos de El Dominio
 trp_reach_troop_1|Ballestero de élite del dominio
 trp_reach_troop_1_pl|Ballesteros de élite del dominio
 trp_sarranid_n_yeniceri10|Caballero del dominio
@@ -1192,266 +1192,266 @@ trp_crannogmen|Lacustre
 trp_crannogmen_pl|Lacustres
 trp_brienne|Brienne de Tarth
 trp_brienne_pl|Brienne de Tarth
-; trp_emmon_cuy|Ser Emmon Cuy
-; trp_emmon_cuy_pl|Ser Emmon Cuy
-; trp_robar_royce|Ser Robar Royce
-; trp_robar_royce_pl|Ser Robar Royce
-; trp_parmen_crane|Ser Parmen Crane
-; trp_parmen_crane_pl|Ser Parmen Crane
-; trp_cortnay_penrose|Ser Cortnay Penrose
-; trp_cortnay_penrose_pl|Ser Cortnay Penrose
-; trp_rolland_storm|Ser Rolland Storm
-; trp_rolland_storm_pl|Ser Rolland Storm
-; trp_mark_mullendore|Ser Mark Mullendore
-; trp_mark_mullendore_pl|Ser Mark Mullendore
-; trp_bonifer_hasty|Ser Bonifer the Good
-; trp_bonifer_hasty_pl|Ser Bonifer the Good
-; trp_dermot_rainwood|Ser Dermot of the Rainwood
-; trp_dermot_rainwood_pl|Ser Dermot of the Rainwood
-; trp_timon_scrapesword|Ser Timon the Scrapesword
-; trp_timon_scrapesword_pl|Ser Timon the Scrapesword
-; trp_alyn_estermont|Ser Alyn Estermont
-; trp_alyn_estermont_pl|Ser Alyn Estermont
-; trp_herbert_bolling|Ser Herbert Bolling
-; trp_herbert_bolling_pl|Ser Herbert Bolling
-; trp_shadrick|Ser Shadrich of the Shady Glen
-; trp_shadrick_pl|Ser Shadrich of the Shady Glen
-; trp_alesander_staedmon|Lord Alesander Staedmon
-; trp_alesander_staedmon_pl|Lord Alesander Staedmon
-; trp_aemon_estermont|Ser Aemon Estermont
-; trp_aemon_estermont_pl|Ser Aemon Estermont
-; trp_gunthor_estermont|Ser Gunthor Estermont
-; trp_gunthor_estermont_pl|Ser Gunthor Estermont
-; trp_dacey_mormont|Dacey Mormont
-; trp_dacey_mormont_pl|Dacey Mormont
-; trp_robin_flint|Robin Flint
-; trp_robin_flint_pl|Robin Flint
-; trp_perwyn_frey|Ser Perwyn Frey
-; trp_perwyn_frey_pl|Ser Perwyn Frey
-; trp_lucas_blackwood|Lucas Blackwood
-; trp_lucas_blackwood_pl|Lucas Blackwood
-; trp_olyvar_frey|Olyvar Frey
-; trp_olyvar_frey_pl|Olyvar Frey
-; trp_owen_norrey|Owen Norrey
-; trp_owen_norrey_pl|Owen Norrey
-; trp_ronnel_stout|Ronnel Stout
-; trp_ronnel_stout_pl|Ronnel Stout
-; trp_kyle_condon|Ser Kyle Condon
-; trp_kyle_condon_pl|Ser Kyle Condon
-; trp_steelshanks_walton|Steelshanks Walton
-; trp_steelshanks_walton_pl|Steelshanks Walton
-; trp_donnel_locke|Ser Donnel Locke
-; trp_donnel_locke_pl|Ser Donnel Locke
-; trp_samwell_stone|Ser Samwell Stone
-; trp_samwell_stone_pl|Ser Samwell Stone
-; trp_damon_shett|Ser Damon Shett
-; trp_damon_shett_pl|Ser Damon Shett
-; trp_uthor_tollett|Ser Uthor Tollett
-; trp_uthor_tollett_pl|Ser Uthor Tollett
-; trp_aenys_frey|Ser Aenys Frey
-; trp_aenys_frey_pl|Ser Aenys Frey
-; trp_rhaegar_frey|Ser Rhaegar Frey
-; trp_rhaegar_frey_pl|Ser Rhaegar Frey
-; trp_jared_frey|Ser Jared Frey
-; trp_jared_frey_pl|Ser Jared Frey
-; trp_hosteen_frey|Ser Hosteen Frey
-; trp_hosteen_frey_pl|Ser Hosteen Frey
-; trp_symond_frey|Ser Symond Frey
-; trp_symond_frey_pl|Ser Symond Frey
-; trp_jammos_frey|Ser Jammos Frey
-; trp_jammos_frey_pl|Ser Jammos Frey
-; trp_walder_rivers|Ser Walder Rivers
-; trp_walder_rivers_pl|Ser Walder Rivers
-; trp_andrey_charlton|Ser Andrey Charlton
-; trp_andrey_charlton_pl|Ser Andrey Charlton
-; trp_garse_goodbrook|Ser Garse Goodbrook
-; trp_garse_goodbrook_pl|Ser Garse Goodbrook
-; trp_lymond_goodbrook|Lord Lymond Goodbrook
-; trp_lymond_goodbrook_pl|Lord Lymond Goodbrook
-; trp_leslyn_haigh|Ser Leslyn Haigh
-; trp_leslyn_haigh_pl|Ser Leslyn Haigh
-; trp_halmon_paege|Ser Halmon Paege
-; trp_halmon_paege_pl|Ser Halmon Paege
-; trp_robert_paege|Ser Robert Bolling
-; trp_robert_paege_pl|Ser Robert Bolling
-; trp_damon_paege|Damon Paege
-; trp_damon_paege_pl|Damon Paege
-; trp_lycias_vypren|Lord Lycias Vypren
-; trp_lycias_vypren_pl|Lord Lycias Vypren
-; trp_daemon_sand|Ser Daemon Sand
-; trp_daemon_sand_pl|Ser Daemon Sand
-; trp_perros_blackmont|Perros Blackmont
-; trp_perros_blackmont_pl|Perros Blackmont
-; trp_obara_sand|Obara Sand
-; trp_obara_sand_pl|Obara Sand
-; trp_garibald_shells|Ser Garibald Shells
-; trp_garibald_shells_pl|Ser Garibald Shells
-; trp_joss_hood|Ser Joss Hood
-; trp_joss_hood_pl|Ser Joss Hood
-; trp_andrey_dalt|Ser Andrey Dalt
-; trp_andrey_dalt_pl|Ser Andrey Dalt
-; trp_myles_manwoody|Ser Myles Manwoody
-; trp_myles_manwoody_pl|Ser Myles Manwoody
-; trp_dickon_manwoody|Ser Dickon Manwoody
-; trp_dickon_manwoody_pl|Ser Dickon Manwoody
-; trp_gerald_gower|Ser Gerald Gower
-; trp_gerald_gower_pl|Ser Gerald Gower
-; trp_triston_of_tally_hill|Ser Triston of Tally Hill
-; trp_triston_of_tally_hill_pl|Ser Triston of Tally Hill
-; trp_omer_blackberry|Omer Blackberry
-; trp_omer_blackberry_pl|Omer Blackberry
-; trp_narbert_grandison|Ser Narbert Grandison
-; trp_narbert_grandison_pl|Ser Narbert Grandison
-; trp_benethon_scales|Ser Benethon Scales
-; trp_benethon_scales_pl|Ser Benethon Scales
-; trp_patrek_kings_mountain|Ser Patrek of King's Mountain
-; trp_patrek_kings_mountain_pl|Ser Patrek of King's Mountain
-; trp_dorden_the_dour|Ser Dorden the Dour
-; trp_dorden_the_dour_pl|Ser Dorden the Dour
-; trp_harys_cobb|Ser Harys Cobb
-; trp_harys_cobb_pl|Ser Harys Cobb
-; trp_ormund_wylde|Ser Ormund Wylde
-; trp_ormund_wylde_pl|Ser Ormund Wylde
-; trp_humfrey_clifton|Ser Humfrey Clifton
-; trp_humfrey_clifton_pl|Ser Humfrey Clifton
-; trp_willam_foxglove|Ser Willam Foxglove
-; trp_willam_foxglove_pl|Ser Willam Foxglove
-; trp_corliss_penny|Ser Corliss Penny
-; trp_corliss_penny_pl|Ser Corliss Penny
-; trp_malegorn_of_redpool|Ser Malegorn of Redpool
-; trp_malegorn_of_redpool_pl|Ser Malegorn of Redpool
-; trp_lambert_whitewater|Ser Lambert Whitewater
-; trp_lambert_whitewater_pl|Ser Lambert Whitewater
-; trp_perkin_follard|Ser Perkin Follard
-; trp_perkin_follard_pl|Ser Perkin Follard
-; trp_brus_buckler|Ser Brus Buckler
-; trp_brus_buckler_pl|Ser Brus Buckler
-; trp_richard_horpe|Ser Richard Horpe
-; trp_richard_horpe_pl|Ser Richard Horpe
-; trp_godry_farring|Ser Godry Farring
-; trp_godry_farring_pl|Ser Godry Farring
-; trp_robin_peasebury|Lord Robin Peasebury
-; trp_robin_peasebury_pl|Lord Robin Peasebury
-; trp_clayton_suggs|Ser Clayton Suggs
-; trp_clayton_suggs_pl|Ser Clayton Suggs
-; trp_morosh|Morosh the Myrman
-; trp_morosh_pl|Morosh the Myrman
-; trp_meizo_mahr|Meizo Mahr
-; trp_meizo_mahr_pl|Meizo Mahr
-; trp_khorane_sathmantes|Khorane Sathmantes
-; trp_khorane_sathmantes_pl|Khorane Sathmantes
-; trp_hookface_will|Hookface Will
-; trp_hookface_will_pl|Hookface Will
-; trp_hal_the_hog|Hal the Hog
-; trp_hal_the_hog_pl|Hal the Hog
-; trp_dale_seaworth|Dale Seaworth
-; trp_dale_seaworth_pl|Dale Seaworth
-; trp_allard_seaworth|Allard Seaworth
-; trp_allard_seaworth_pl|Allard Seaworth
-; trp_maric_seaworth|Maric Seaworth
-; trp_maric_seaworth_pl|Maric Seaworth
-; trp_matthos_seaworth|Matthos Seaworth
-; trp_matthos_seaworth_pl|Matthos Seaworth
-; trp_lyseni_pirate|Lyseni Pirate
-; trp_lyseni_pirate_pl|Lyseni Pirates
-; trp_lambert_turnberry|Ser Lambert Turnberry
-; trp_lambert_turnberry_pl|Ser Lambert Turnberry
-; trp_josmyn_peckledon|Josmyn Peckledon
-; trp_josmyn_peckledon_pl|Josmyn Peckledon
-; trp_jon_bettley|Ser Jon Bettley
-; trp_jon_bettley_pl|Ser Jon Bettley
-; trp_kennos_of_kayce|Ser Kennos of Kayce
-; trp_kennos_of_kayce_pl|Ser Kennos of Kayce
-; trp_lymond_vikary|Ser Lymond Vikary
-; trp_lymond_vikary_pl|Ser Lymond Vikary
-; trp_manfryd_yew|Ser Manfryd Yew
-; trp_manfryd_yew_pl|Ser Manfryd Yew
-; trp_tybolt_hetherspoon|Ser Tybolt Hetherspoon
-; trp_tybolt_hetherspoon_pl|Ser Tybolt Hetherspoon
-; trp_illifer_the_penniless|Ser Illifer the Penniless
-; trp_illifer_the_penniless_pl|Ser Illifer the Penniless
-; trp_creighton_longbough|Ser Creighton Longbough
-; trp_creighton_longbough_pl|Ser Creighton Longbough
-; trp_harwyn_plumm|Ser Harwyn Plumm
-; trp_harwyn_plumm_pl|Ser Harwyn Plumm
-; trp_ben_bushy|Big Ben Bushy
-; trp_ben_bushy_pl|Big Ben Bushy
-; trp_hyle_hunt|Ser Hyle Hunt
-; trp_hyle_hunt_pl|Ser Hyle Hunt
-; trp_alyn_hunt|Ser Alyn Hunt
-; trp_alyn_hunt_pl|Ser Alyn Hunt
-; trp_edmund_ambrose|Ser Edmund Ambrose
-; trp_edmund_ambrose_pl|Ser Edmund Ambrose
-; trp_richard_farrow|Ser Richard Farrow
-; trp_richard_farrow_pl|Ser Richard Farrow
-; trp_will_the_stork|Will the Stork
-; trp_will_the_stork_pl|Will the Stork
-; trp_hugh_beesbury|Ser Hugh Beesbury
-; trp_hugh_beesbury_pl|Ser Hugh Beesbury
-; trp_raymond_nayland|Ser Raymond Nayland
-; trp_raymond_nayland_pl|Ser Raymond Nayland
-; trp_harry_sawyer|Ser Harry Sawyer
-; trp_harry_sawyer_pl|Ser Harry Sawyer
-; trp_owen_inchfield|Ser Owen Inchfield
-; trp_owen_inchfield_pl|Ser Owen Inchfield
-; trp_robin_potter|Ser Robin Potter
-; trp_robin_potter_pl|Ser Robin Potter
-; trp_willam_wythers|Ser Willam Wythers
-; trp_willam_wythers_pl|Ser Willam Wythers
-; trp_portifer_woodwright|Ser Portifer Woodwright
-; trp_portifer_woodwright_pl|Ser Portifer Woodwright
-; trp_lucantine_woodwright|Ser Lucantine Woodwright
-; trp_lucantine_woodwright_pl|Ser Lucantine Woodwright
-; trp_garse_flowers|Garse Flowers
-; trp_garse_flowers_pl|Garse Flowers
-; trp_garrett_flowers|Garrett Flowers
-; trp_garrett_flowers_pl|Garrett Flowers
-; trp_tanton_fossoway|Ser Tanton Fossoway
-; trp_tanton_fossoway_pl|Ser Tanton Fossoway
-; trp_edwyd_fossoway|Ser Edwyd Fossoway
-; trp_edwyd_fossoway_pl|Ser Edwyd Fossoway
-; trp_dagmer_cleftjaw|Dagmer Cleftjaw
-; trp_dagmer_cleftjaw_pl|Dagmer Cleftjaw
-; trp_bluetooth|Bluetooth
-; trp_bluetooth_pl|Bluetooth
-; trp_uller|Uller
-; trp_uller_pl|Uller
-; trp_skyte|Skyte
-; trp_skyte_pl|Skyte
+trp_emmon_cuy|Ser Emmon Cuy
+trp_emmon_cuy_pl|Ser Emmon Cuy
+trp_robar_royce|Ser Robar Royce
+trp_robar_royce_pl|Ser Robar Royce
+trp_parmen_crane|Ser Parmen Crane
+trp_parmen_crane_pl|Ser Parmen Crane
+trp_cortnay_penrose|Ser Cortnay Penrose
+trp_cortnay_penrose_pl|Ser Cortnay Penrose
+trp_rolland_storm|Ser Rolland Tormenta
+trp_rolland_storm_pl|Ser Rolland Tormenta
+trp_mark_mullendore|Ser Mark Mullendore
+trp_mark_mullendore_pl|Ser Mark Mullendore
+trp_bonifer_hasty|Ser Bonifer el Bueno
+trp_bonifer_hasty_pl|Ser Bonifer el Bueno
+trp_dermot_rainwood|Ser Dermot de La Selva
+trp_dermot_rainwood_pl|Ser Dermot de La Selva
+trp_timon_scrapesword|Ser Timon Rascaespadas
+trp_timon_scrapesword_pl|Ser Timon Rascaespadas
+trp_alyn_estermont|Ser Alyn Estermont
+trp_alyn_estermont_pl|Ser Alyn Estermont
+trp_herbert_bolling|Ser Herbert Bolling
+trp_herbert_bolling_pl|Ser Herbert Bolling
+trp_shadrick|Ser Shadrich del Valle Umbrío
+trp_shadrick_pl|Ser Shadrich del Valle Umbrío
+trp_alesander_staedmon|Lord Alesander Staedmon
+trp_alesander_staedmon_pl|Lord Alesander Staedmon
+trp_aemon_estermont|Ser Aemon Estermont
+trp_aemon_estermont_pl|Ser Aemon Estermont
+trp_gunthor_estermont|Ser Gunthor Estermont
+trp_gunthor_estermont_pl|Ser Gunthor Estermont
+trp_dacey_mormont|Dacey Mormont
+trp_dacey_mormont_pl|Dacey Mormont
+trp_robin_flint|Robin Flint
+trp_robin_flint_pl|Robin Flint
+trp_perwyn_frey|Ser Perwyn Frey
+trp_perwyn_frey_pl|Ser Perwyn Frey
+trp_lucas_blackwood|Lucas Blackwood
+trp_lucas_blackwood_pl|Lucas Blackwood
+trp_olyvar_frey|Olyvar Frey
+trp_olyvar_frey_pl|Olyvar Frey
+trp_owen_norrey|Owen Norrey
+trp_owen_norrey_pl|Owen Norrey
+trp_ronnel_stout|Ronnel Stout
+trp_ronnel_stout_pl|Ronnel Stout
+trp_kyle_condon|Ser Kyle Condon
+trp_kyle_condon_pl|Ser Kyle Condon
+trp_steelshanks_walton|Walton Patas de Acero
+trp_steelshanks_walton_pl|Walton Patas de Acero
+trp_donnel_locke|Ser Donnel Locke
+trp_donnel_locke_pl|Ser Donnel Locke
+trp_samwell_stone|Ser Samwell Piedra
+trp_samwell_stone_pl|Ser Samwell Piedra
+trp_damon_shett|Ser Damon Shett
+trp_damon_shett_pl|Ser Damon Shett
+trp_uthor_tollett|Ser Uthor Tollett
+trp_uthor_tollett_pl|Ser Uthor Tollett
+trp_aenys_frey|Ser Aenys Frey
+trp_aenys_frey_pl|Ser Aenys Frey
+trp_rhaegar_frey|Ser Rhaegar Frey
+trp_rhaegar_frey_pl|Ser Rhaegar Frey
+trp_jared_frey|Ser Jared Frey
+trp_jared_frey_pl|Ser Jared Frey
+trp_hosteen_frey|Ser Hosteen Frey
+trp_hosteen_frey_pl|Ser Hosteen Frey
+trp_symond_frey|Ser Symond Frey
+trp_symond_frey_pl|Ser Symond Frey
+trp_jammos_frey|Ser Jammos Frey
+trp_jammos_frey_pl|Ser Jammos Frey
+trp_walder_rivers|Ser Walder Ríos
+trp_walder_rivers_pl|Ser Walder Ríos
+trp_andrey_charlton|Ser Andrey Charlton
+trp_andrey_charlton_pl|Ser Andrey Charlton
+trp_garse_goodbrook|Ser Garse Goodbrook
+trp_garse_goodbrook_pl|Ser Garse Goodbrook
+trp_lymond_goodbrook|Lord Lymond Goodbrook
+trp_lymond_goodbrook_pl|Lord Lymond Goodbrook
+trp_leslyn_haigh|Ser Leslyn Haigh
+trp_leslyn_haigh_pl|Ser Leslyn Haigh
+trp_halmon_paege|Ser Halmon Paege
+trp_halmon_paege_pl|Ser Halmon Paege
+trp_robert_paege|Ser Robert Bolling
+trp_robert_paege_pl|Ser Robert Bolling
+trp_damon_paege|Damon Paege
+trp_damon_paege_pl|Damon Paege
+trp_lycias_vypren|Lord Lycias Vypren
+trp_lycias_vypren_pl|Lord Lycias Vypren
+trp_daemon_sand|Ser Daemon Arena
+trp_daemon_sand_pl|Ser Daemon Arena
+trp_perros_blackmont|Perros Blackmont
+trp_perros_blackmont_pl|Perros Blackmont
+trp_obara_sand|Obara Arena
+trp_obara_sand_pl|Obara Arena
+trp_garibald_shells|Ser Garibald Shells
+trp_garibald_shells_pl|Ser Garibald Shells
+trp_joss_hood|Ser Joss Hood
+trp_joss_hood_pl|Ser Joss Hood
+trp_andrey_dalt|Ser Andrey Dalt
+trp_andrey_dalt_pl|Ser Andrey Dalt
+trp_myles_manwoody|Ser Myles Manwoody
+trp_myles_manwoody_pl|Ser Myles Manwoody
+trp_dickon_manwoody|Ser Dickon Manwoody
+trp_dickon_manwoody_pl|Ser Dickon Manwoody
+trp_gerald_gower|Ser Gerald Gower
+trp_gerald_gower_pl|Ser Gerald Gower
+trp_triston_of_tally_hill|Ser Triston de Colina Cuenta
+trp_triston_of_tally_hill_pl|Ser Triston de Colina Cuenta
+trp_omer_blackberry|Omer Blackberry
+trp_omer_blackberry_pl|Omer Blackberry
+trp_narbert_grandison|Ser Narbert Grandison
+trp_narbert_grandison_pl|Ser Narbert Grandison
+trp_benethon_scales|Ser Benethon Scales
+trp_benethon_scales_pl|Ser Benethon Scales
+trp_patrek_kings_mountain|Ser Patrek de la Montaña del Rey
+trp_patrek_kings_mountain_pl|Ser Patrek de la Montaña del Rey
+trp_dorden_the_dour|Ser Dorden el Adusto
+trp_dorden_the_dour_pl|Ser Dorden el Adusto
+trp_harys_cobb|Ser Harys Cobb
+trp_harys_cobb_pl|Ser Harys Cobb
+trp_ormund_wylde|Ser Ormund Wylde
+trp_ormund_wylde_pl|Ser Ormund Wylde
+trp_humfrey_clifton|Ser Humfrey Clifton
+trp_humfrey_clifton_pl|Ser Humfrey Clifton
+trp_willam_foxglove|Ser Willam Foxglove
+trp_willam_foxglove_pl|Ser Willam Foxglove
+trp_corliss_penny|Ser Corliss Penny
+trp_corliss_penny_pl|Ser Corliss Penny
+trp_malegorn_of_redpool|Ser Malegorn de Lagorrojo
+trp_malegorn_of_redpool_pl|Ser Malegorn de Lagorrojo
+trp_lambert_whitewater|Ser Lambert Whitewater
+trp_lambert_whitewater_pl|Ser Lambert Whitewater
+trp_perkin_follard|Ser Perkin Follard
+trp_perkin_follard_pl|Ser Perkin Follard
+trp_brus_buckler|Ser Brus Buckler
+trp_brus_buckler_pl|Ser Brus Buckler
+trp_richard_horpe|Ser Richard Horpe
+trp_richard_horpe_pl|Ser Richard Horpe
+trp_godry_farring|Ser Godry Farring
+trp_godry_farring_pl|Ser Godry Farring
+trp_robin_peasebury|Lord Robin Peasebury
+trp_robin_peasebury_pl|Lord Robin Peasebury
+trp_clayton_suggs|Ser Clayton Suggs
+trp_clayton_suggs_pl|Ser Clayton Suggs
+trp_morosh|Morosh de Myr
+trp_morosh_pl|Morosh de Myr
+trp_meizo_mahr|Meizo Mahr
+trp_meizo_mahr_pl|Meizo Mahr
+trp_khorane_sathmantes|Khorane Sathmantes
+trp_khorane_sathmantes_pl|Khorane Sathmantes
+trp_hookface_will|Will Caragarfio
+trp_hookface_will_pl|Will Caragarfio
+trp_hal_the_hog|Hal el Verraco
+trp_hal_the_hog_pl|Hal el Verraco
+trp_dale_seaworth|Dale Seaworth
+trp_dale_seaworth_pl|Dale Seaworth
+trp_allard_seaworth|Allard Seaworth
+trp_allard_seaworth_pl|Allard Seaworth
+trp_maric_seaworth|Maric Seaworth
+trp_maric_seaworth_pl|Maric Seaworth
+trp_matthos_seaworth|Matthos Seaworth
+trp_matthos_seaworth_pl|Matthos Seaworth
+trp_lyseni_pirate|Pirata lysení
+trp_lyseni_pirate_pl|Pirata lysení
+trp_lambert_turnberry|Ser Lambert Turnberry
+trp_lambert_turnberry_pl|Ser Lambert Turnberry
+trp_josmyn_peckledon|Josmyn Peckledon
+trp_josmyn_peckledon_pl|Josmyn Peckledon
+trp_jon_bettley|Ser Jon Bettley
+trp_jon_bettley_pl|Ser Jon Bettley
+trp_kennos_of_kayce|Ser Kennos de Kayce
+trp_kennos_of_kayce_pl|Ser Kennos de Kayce
+trp_lymond_vikary|Ser Lymond Vikary
+trp_lymond_vikary_pl|Ser Lymond Vikary
+trp_manfryd_yew|Ser Manfryd Yew
+trp_manfryd_yew_pl|Ser Manfryd Yew
+trp_tybolt_hetherspoon|Ser Tybolt Hetherspoon
+trp_tybolt_hetherspoon_pl|Ser Tybolt Hetherspoon
+trp_illifer_the_penniless|Ser Illifer el Paupérrimo
+trp_illifer_the_penniless_pl|Ser Illifer el Paupérrimo
+trp_creighton_longbough|Ser Creighton Longbough
+trp_creighton_longbough_pl|Ser Creighton Longbough
+trp_harwyn_plumm|Ser Harwyn Plumm
+trp_harwyn_plumm_pl|Ser Harwyn Plumm
+trp_ben_bushy|Ben Bushy el Grandullón
+trp_ben_bushy_pl|Ben Bushy el Grandullón
+trp_hyle_hunt|Ser Hyle Hunt
+trp_hyle_hunt_pl|Ser Hyle Hunt
+trp_alyn_hunt|Ser Alyn Hunt
+trp_alyn_hunt_pl|Ser Alyn Hunt
+trp_edmund_ambrose|Ser Edmund Ambrose
+trp_edmund_ambrose_pl|Ser Edmund Ambrose
+trp_richard_farrow|Ser Richard Farrow
+trp_richard_farrow_pl|Ser Richard Farrow
+trp_will_the_stork|Will el Cigüeña
+trp_will_the_stork_pl|Will el Cigüeña
+trp_hugh_beesbury|Ser Hugh Beesbury
+trp_hugh_beesbury_pl|Ser Hugh Beesbury
+trp_raymond_nayland|Ser Raymond Nayland
+trp_raymond_nayland_pl|Ser Raymond Nayland
+trp_harry_sawyer|Ser Harry Sawyer
+trp_harry_sawyer_pl|Ser Harry Sawyer
+trp_owen_inchfield|Ser Owen Inchfield
+trp_owen_inchfield_pl|Ser Owen Inchfield
+trp_robin_potter|Ser Robin Potter
+trp_robin_potter_pl|Ser Robin Potter
+trp_willam_wythers|Ser Willam Wythers
+trp_willam_wythers_pl|Ser Willam Wythers
+trp_portifer_woodwright|Ser Portifer Woodwright
+trp_portifer_woodwright_pl|Ser Portifer Woodwright
+trp_lucantine_woodwright|Ser Lucantine Woodwright
+trp_lucantine_woodwright_pl|Ser Lucantine Woodwright
+trp_garse_flowers|Garse Flores
+trp_garse_flowers_pl|Garse Flores
+trp_garrett_flowers|Garrett Flores
+trp_garrett_flowers_pl|Garrett Flores
+trp_tanton_fossoway|Ser Tanton Fossoway
+trp_tanton_fossoway_pl|Ser Tanton Fossoway
+trp_edwyd_fossoway|Ser Edwyd Fossoway
+trp_edwyd_fossoway_pl|Ser Edwyd Fossoway
+trp_dagmer_cleftjaw|Dagmer Barbarrota
+trp_dagmer_cleftjaw_pl|Dagmer Barbarrota
+trp_bluetooth|Dienteazul
+trp_bluetooth_pl|Dienteazul
+trp_uller|Uller
+trp_uller_pl|Uller
+trp_skyte|Skyte
+trp_skyte_pl|Skyte
 trp_qarl|Qarl la criada
 trp_qarl_pl|Qarl la criada
-; trp_roggon_rustbeard|Roggon Rustbeard
-; trp_roggon_rustbeard_pl|Roggon Rustbeard
-; trp_grimtongue|Grimtongue
-; trp_grimtongue_pl|Grimtongue
-; trp_rolfe_the_dwarf|Rolfe the Dwarf
-; trp_rolfe_the_dwarf_pl|Rolfe the Dwarf
-; trp_lorren_longaxe|Lorren Longaxe
-; trp_lorren_longaxe_pl|Lorren Longaxe
-; trp_rook|Rook
-; trp_rook_pl|Rook
-; trp_fingers|Fingers
-; trp_fingers_pl|Fingers
-; trp_eerl_hawlaw|Eerl Harlaw
-; trp_eerl_hawlaw_pl|Eerl Harlaw
-; trp_cromm|Cromm
-; trp_cromm_pl|Cromm
-; trp_hagen_the_horn|Hagen the Horn
-; trp_hagen_the_horn_pl|Hagen the Horn
-; trp_quenton_greyjoy|Quenton Greyjoy
-; trp_quenton_greyjoy_pl|Quenton Greyjoy
-; trp_dagon_greyjoy|Dagon Greyjoy
-; trp_dagon_greyjoy_pl|Dagon Greyjoy
-; trp_red_ralf|Red Ralf Stonehouse
-; trp_red_ralf_pl|Red Ralf Stonehouse
-; trp_ralf_the_limper|Ralf the Limper
-; trp_ralf_the_limper_pl|Ralf the Limper
-; trp_nute_the_barber|Nute the Barber
-; trp_nute_the_barber_pl|Nute the Barber
-; trp_wulf_one_ear|Wulf One-Ear
-; trp_wulf_one_ear_pl|Wulf One-Ear
-; trp_ragnor_pyke|Ragnor Pyke
-; trp_ragnor_pyke_pl|Ragnor Pyke
+trp_roggon_rustbeard|Roggon Barbaoxidada
+trp_roggon_rustbeard_pl|Roggon Barbaoxidada
+trp_grimtongue|Lengua Sombría
+trp_grimtongue_pl|Lengua Sombría
+trp_rolfe_the_dwarf|Rolfe el Enano
+trp_rolfe_the_dwarf_pl|Rolfe el Enano
+trp_lorren_longaxe|Lorren Hachalarga
+trp_lorren_longaxe_pl|Lorren Hachalarga
+trp_rook|Grajo
+trp_rook_pl|Grajo
+trp_fingers|Dedos
+trp_fingers_pl|Dedos
+trp_eerl_hawlaw|Eerl Harlaw
+trp_eerl_hawlaw_pl|Eerl Harlaw
+trp_cromm|Cromm
+trp_cromm_pl|Cromm
+trp_hagen_the_horn|Hagen el Cuerno
+trp_hagen_the_horn_pl|Hagen el Cuerno
+trp_quenton_greyjoy|Quenton Greyjoy
+trp_quenton_greyjoy_pl|Quenton Greyjoy
+trp_dagon_greyjoy|Dagon Greyjoy
+trp_dagon_greyjoy_pl|Dagon Greyjoy
+trp_red_ralf|Ralf Stonehouse el Rojo
+trp_red_ralf_pl|Ralf Stonehouse el Rojo
+trp_ralf_the_limper|Ralf el Cojo
+trp_ralf_the_limper_pl|Ralf el Cojo
+trp_nute_the_barber|Nute el Barbero
+trp_nute_the_barber_pl|Nute el Barbero
+trp_wulf_one_ear|Wulf Una Oreja
+trp_wulf_one_ear_pl|Wulf Una Oreja
+trp_ragnor_pyke|Ragnor Pyke
+trp_ragnor_pyke_pl|Ragnor Pyke
 trp_event_young_noblemen|Ser Patrek del Valle Umbrío
 trp_event_young_noblemen_pl|Ser Patrek del Valle Umbrío
 trp_event_bandits|Bandido
@@ -1492,108 +1492,108 @@ trp_wildling_wight|Espectro
 trp_wildling_wight_pl|Espectros
 trp_unsullied|Inmaculado
 trp_unsullied_pl|Inmaculados
-; trp_white_harbor_knight|White Harbor Knight
-; trp_white_harbor_knight_pl|White Harbor Knight
-; trp_rill_lances|Rill Lancer
-; trp_rill_lances_pl|Rill Lances
-; trp_clan_champion|Clan Champion
-; trp_clan_champion_pl|Clan Champions
-; trp_raventree_archer|Raventree Hall Archer
-; trp_raventree_archer_pl|Raventree Hall Archers
-; trp_stone_hedge_knight|Stone Hedge Knight
-; trp_stone_hedge_knight_pl|Stone Hedge Knights
-; trp_crossing_spearman|Crossing Man-at-Arms
-; trp_crossing_spearman_pl|Crossing Men-at-Arms
-; trp_sarsfield_archer|Mounted Sarsfield Archer
-; trp_sarsfield_archer_pl|Mounted Sarsfield Archers
-; trp_banefort_two_hander|Banefort Two-Hander
-; trp_banefort_two_hander_pl|Banefort Two-Handers
-; trp_casterly_rock_man_at_arms|Casterly Rock Man-at-Arms
-; trp_casterly_rock_man_at_arms_pl|Casterly Rock Men-at-Arms
-; trp_lannisport_spearman|Lannisport Spearman
-; trp_lannisport_spearman_pl|Lannisport Spearmen
-; trp_runestone_squire|Runestone Squire
-; trp_runestone_squire_pl|Runestone Squires
-; trp_longbow_hall_archer|Longbow Hall Archer
-; trp_longbow_hall_archer_pl|Longbow Hall Archers
-; trp_marcher_longbowman|Marcher Longbowman
-; trp_marcher_longbowman_pl|Marcher Longbowmen
-; trp_stonehelm_knight|Stonehelm Knight
-; trp_stonehelm_knight_pl|Stonehelm Knights
-; trp_oldtown_knight|Oldtown Knight
-; trp_oldtown_knight_pl|Oldtown Knights
-; trp_sailor|Sailor
-; trp_sailor_pl|Sailors
-; trp_skyreach_skirmisher|Skyreach Skirmisher
-; trp_skyreach_skirmisher_pl|Skyreach Skirmishers
-; trp_driftmark_spearman|Driftmark Spearman
-; trp_driftmark_spearman_pl|Driftmark Spearmen
-; trp_bright_banner_lancer|Bright Banner Lancer
-; trp_bright_banner_lancer_pl|Bright Banner Lancer
-; trp_bright_banner_archer|Bright Banner Archer
-; trp_bright_banner_archer_pl|Bright Banner Archer
-; trp_bright_banner_infantry|Bright Banner Man-at-Arms
-; trp_bright_banner_infantry_pl|Bright Banner Men-at-Arms
-; trp_iron_shields_infantry|Iron Shields Man-at-Arms
-; trp_iron_shields_infantry_pl|Iron Shields Men-at-Arms
-; trp_gallant_men_infantry|Gallant Men Man-at-Arms
-; trp_gallant_men_infantry_pl|Gallant Men Men-at-Arms
-; trp_gallant_men_archer|Gallant Men Archer
-; trp_gallant_men_archer_pl|Gallant Men Archers
-; trp_maidens_men_knight|Maidens Men Knight
-; trp_maidens_men_knight_pl|Maidens Men Knights
-; trp_maidens_men_archer|Maidens Men Archer
-; trp_maidens_men_archer_pl|Maidens Men Archers
-; trp_ragged_standard_pikemen|Ragged Standard Pikeman
-; trp_ragged_standard_pikemen_pl|Ragged Standard Pikemen
-; trp_ragged_standard_dothraki|Ragged Standard Dothraki Warrior
-; trp_ragged_standard_dothraki_pl|Ragged Standard Dothraki Warrior
-; trp_long_lances_lancer|Long Lances Lancer
-; trp_long_lances_lancer_pl|Long Lances Lancer
-; trp_company_of_the_cat_infantry|Company of the Cat Man-at-Arms
-; trp_company_of_the_cat_infantry_pl|Company of the Cat Men-at-Arms
-; trp_windblown_caggo|Caggo
-; trp_windblown_caggo_pl|Caggo
-; trp_windblown_denzo|Denzo D'han
-; trp_windblown_denzo_pl|Denzo D'han
-; trp_windblown_dick|Dick Straw
-; trp_windblown_dick_pl|Dick Straw
-; trp_windblown_will|Will of the Woods
-; trp_windblown_will_pl|Will of the Woods
-; trp_windblown_infantry|Windblown Man-at-Arms
-; trp_windblown_infantry_pl|Windblown Men-at-Arms
-; trp_windblown_lancer|Windblown Lancer
-; trp_windblown_lancer_pl|Windblown Lancers
-; trp_windblown_archer|Windblown Archer
-; trp_windblown_archer_pl|Windblown Archers
-; trp_golden_company_knight|Golden Company Knight
-; trp_golden_company_knight_pl|Golden Company Knights
-; trp_golden_company_squire|Golden Company Squire
-; trp_golden_company_squire_pl|Golden Company Squires
-; trp_golden_company_archer|Golden Company Archer
-; trp_golden_company_archer_pl|Golden Company Archer
-; trp_golden_company_man_at_arms|Golden Company Man-at-Arms
-; trp_golden_company_man_at_arms_pl|Golden Company Men-at-Arms
-; trp_lance_knight|Sellsword Knight
-; trp_lance_knight_pl|Sellsword Knights
-; trp_lance_squire|Sellsword Squire
-; trp_lance_squire_pl|Sellsword Squires
-; trp_lance_man_at_arms|Sellsword Man-at-Arms
-; trp_lance_man_at_arms_pl|Sellsword Men-at-Arms
-; trp_lance_spearman|Sellsword Spearman
-; trp_lance_spearman_pl|Sellsword Spearmen
-; trp_lance_archer|Sellsword Archer
-; trp_lance_archer_pl|Sellsword Archers
-; trp_lance_skirmisher|Sellsword Skirmisher
-; trp_lance_skirmisher_pl|Sellsword Skirmishers
-; trp_lance_crossbowman|Sellsword Crossbowman
-; trp_lance_crossbowman_pl|Sellsword Crossbowmen
-; trp_lance_longbowman|Sellsword Longbowman
-; trp_lance_longbowman_pl|Sellsword Longbowmen
-; trp_lance_lancer|Sellsword Lancer
-; trp_lance_lancer_pl|Sellsword Lancers
-; trp_lance_halberdier|Sellsword Halberdier
-; trp_lance_halberdier_pl|Sellsword Halberdiers
+trp_white_harbor_knight|Caballero de Puerto Blanco
+trp_white_harbor_knight_pl|Caballero de Puerto Blanco
+trp_rill_lances|Lancero de Los Riachuelos
+trp_rill_lances_pl|Lancero de Los Riachuelos
+trp_clan_champion|Campeón del Clan
+trp_clan_champion_pl|Campeón del Clan
+trp_raventree_archer|Arquero de Árbol de Cuervos
+trp_raventree_archer_pl|Arquero de Árbol de Cuervos
+trp_stone_hedge_knight|Caballero de Seto de Piedra
+trp_stone_hedge_knight_pl|Caballero de Seto de Piedra
+trp_crossing_spearman|Hombre de armas de Los Gemelos
+trp_crossing_spearman_pl|Hombre de armas de Los Gemelos
+trp_sarsfield_archer|Arquero a caballo de Sarsfield 
+trp_sarsfield_archer_pl|Arquero a caballo de Sarsfield 
+trp_banefort_two_hander|Mandoblero de Banefort 
+trp_banefort_two_hander_pl|Mandoblero de Banefort 
+trp_casterly_rock_man_at_arms|Hombre de armas de Roca Casterly
+trp_casterly_rock_man_at_arms_pl|Hombre de armas de Roca Casterly
+trp_lannisport_spearman|Lancero de Lannisport
+trp_lannisport_spearman_pl|Lancero de Lannisport
+trp_runestone_squire|Escudero de Piedra de las Runas
+trp_runestone_squire_pl|Escudero de Piedra de las Runas
+trp_longbow_hall_archer|Arquero de Arcolargo
+trp_longbow_hall_archer_pl|Arquero de Arcolargo
+trp_marcher_longbowman|Explorador de Arcolargo
+trp_marcher_longbowman_pl|Explorador de Arcolargo
+trp_stonehelm_knight|Caballero de Timón de Piedra
+trp_stonehelm_knight_pl|Caballero de Timón de Piedra
+trp_oldtown_knight|Caballero de Antigua
+trp_oldtown_knight_pl|Caballero de Antigua
+trp_sailor|Marinero
+trp_sailor_pl|Marineros
+trp_skyreach_skirmisher|Escaramuzador de Dominio del Cielo
+trp_skyreach_skirmisher_pl|Escaramuzador de Dominio del Cielo
+trp_driftmark_spearman|Lancero de Mercaderiva
+trp_driftmark_spearman_pl|Lancero de Mercaderiva
+trp_bright_banner_lancer|Lancero de los Banderas Luminosas
+trp_bright_banner_lancer_pl|Lancero de los Banderas Luminosas
+trp_bright_banner_archer|Arquero de los Banderas Luminosas
+trp_bright_banner_archer_pl|Arquero de los Banderas Luminosas
+trp_bright_banner_infantry|Hombre de armas de los Banderas Luminosas
+trp_bright_banner_infantry_pl|Hombre de armas de los Banderas Luminosas
+trp_iron_shields_infantry|Hombre de armas de los Escudos de Hierro
+trp_iron_shields_infantry_pl|Hombre de armas de los Escudos de Hierro
+trp_gallant_men_infantry|Hombre de armas de los Hombres Galantes
+trp_gallant_men_infantry_pl|Hombre de armas de los Hombres Galantes
+trp_gallant_men_archer|Arqueros de los Hombres Galantes
+trp_gallant_men_archer_pl|Hombre de armas de los Hombres Galantes
+trp_maidens_men_knight|Caballeros de los Hombres de la Doncella
+trp_maidens_men_knight_pl|Caballeros de los Hombres de la Doncella
+trp_maidens_men_archer|Arquero de los Hombres de la Doncella
+trp_maidens_men_archer_pl|Arquero de los Hombres de la Doncella
+trp_ragged_standard_pikemen|Piquero de los Estandartes Andrajosos
+trp_ragged_standard_pikemen_pl|Piquero de los Estandartes Andrajosos
+trp_ragged_standard_dothraki|Guerrero Dothraki de los Estandartes Andrajosos
+trp_ragged_standard_dothraki_pl|Guerrero Dothraki de los Estandartes Andrajosos
+trp_long_lances_lancer|Lancero de los Lanzas Largas
+trp_long_lances_lancer_pl|Lancero de los Lanzas Largas
+trp_company_of_the_cat_infantry|Hombre de armas de la Compañía del Gato
+trp_company_of_the_cat_infantry_pl|Hombres de armas de la Compañía del Gato
+trp_windblown_caggo|Daggo Matamuertos
+trp_windblown_caggo_pl|Daggo Matamuertos
+trp_windblown_denzo|Denzo D'han
+trp_windblown_denzo_pl|Denzo D'han
+trp_windblown_dick|Dick Heno
+trp_windblown_dick_pl|Dick Heno
+trp_windblown_will|Will de los Bosques
+trp_windblown_will_pl|Will de los Bosques
+trp_windblown_infantry|Hombre de armas de los Hijos del Viento
+trp_windblown_infantry_pl|Hombre de armas de los Hijos del Viento
+trp_windblown_lancer|Lancero de los Hijos del Viento
+trp_windblown_lancer_pl|Lancero de los Hijos del Viento
+trp_windblown_archer|Arquero de los Hijos del Viento
+trp_windblown_archer_pl|Arquero de los Hijos del Viento
+trp_golden_company_knight|Caballero de la Compañía Dorada
+trp_golden_company_knight_pl|Caballero de la Compañía Dorada
+trp_golden_company_squire|Escudero de la Compañía Dorada
+trp_golden_company_squire_pl|Escudero de la Compañía Dorada
+trp_golden_company_archer|Arquero de la Compañía Dorada
+trp_golden_company_archer_pl|Arquero de la Compañía Dorada
+trp_golden_company_man_at_arms|Hombre de armas de la Compañía Dorada
+trp_golden_company_man_at_arms_pl|Hombre de armas de la Compañía Dorada
+trp_lance_knight|Caballero Mercenario
+trp_lance_knight_pl|Caballero mercenario
+trp_lance_squire|Escudero mercenario
+trp_lance_squire_pl|Escudero mercenario
+trp_lance_man_at_arms|Hombre de armas mercenario
+trp_lance_man_at_arms_pl|Hombre de armas mercenario
+trp_lance_spearman|Piquero mercenario
+trp_lance_spearman_pl|Piquero mercenario
+trp_lance_archer|Arquero mercenario
+trp_lance_archer_pl|Arquero mercenario
+trp_lance_skirmisher|Escaramuzador mercenario
+trp_lance_skirmisher_pl|Escaramuzador mercenario
+trp_lance_crossbowman|Ballestero mercenario
+trp_lance_crossbowman_pl|Ballestero mercenario
+trp_lance_longbowman|Arquero mercenario de tiro largo
+trp_lance_longbowman_pl|Arqueros mercenarios de tiro largo
+trp_lance_lancer|Lancero mercenario
+trp_lance_lancer_pl|Lancero mercenario
+trp_lance_halberdier|Alabardero mercenario
+trp_lance_halberdier_pl|Alabarderos mercenarios
 trp_bandit_n_black_khergit_horseman|Jinete negro khergita
 trp_bandit_n_black_khergit_horseman_pl|Jinetes negros khergitas
 trp_bandit_n_manhunter|Cazahombres
@@ -1952,24 +1952,24 @@ trp_dranton26|Ser Hosman Norcross
 trp_dranton26_pl|Ser Hosman Norcross
 trp_dranton27|Ser Rhodry Arena
 trp_dranton27_pl|Ser Rhodry Arena
-; trp_dranton28|Ser Dunaver Westbrook
-; trp_dranton28_pl|Ser Dunaver Westbrook
+trp_dranton28|Ser Dunaver Westbrook
+trp_dranton28_pl|Ser Dunaver Westbrook
 trp_dranton29|Ser Samwell Spicer
 trp_dranton29_pl|Ser Samwell Spicer
 trp_dranton30|Ser Manfryd Yew
 trp_dranton30_pl|Ser Manfryd Yew
-; trp_dranton31|Ser Lambert Vikary
-; trp_dranton31_pl|Ser Lambert Vikary
-; trp_dranton32|Ser Rhys Risley
-; trp_dranton32_pl|Ser Rhys Risley
-; trp_dranton33|Ser Alyn of Ramsford
-; trp_dranton33_pl|Ser Alyn of Ramsford
-; trp_dranton34|Ser Garibald of Fieldstone
-; trp_dranton34_pl|Ser Garibald of Fieldstone
+trp_dranton31|Ser Lambert Vikary
+trp_dranton31_pl|Ser Lambert Vikary
+trp_dranton32|Ser Rhys Risley
+trp_dranton32_pl|Ser Rhys Risley
+trp_dranton33|Ser Alyn de Vado de los Carneros
+trp_dranton33_pl|Ser Alyn de Vado de los Carneros
+trp_dranton34|Ser Garibald de Pedregal
+trp_dranton34_pl|Ser Garibald de Pedregal
 trp_dranton35|Ser Marlon Manderly
 trp_dranton35_pl|Ser Marlon Manderly
-; trp_dranton36|Ser Ossifer Dunn
-; trp_dranton36_pl|Ser Ossifer Dunn
+trp_dranton36|Ser Ossifer Dunn
+trp_dranton36_pl|Ser Ossifer Dunn
 trp_dranton37|Grel el Dothraki
 trp_dranton37_pl|Grelel Dothraki
 trp_dranton38|Gawyn Mares
@@ -1984,46 +1984,46 @@ trp_dranton42|Edderion Nieve
 trp_dranton42_pl|Edderion Nieve
 trp_dranton43|Patrek Ríos
 trp_dranton43_pl|Patrek Ríos
-; trp_dranton44|Ser Armond Beesbury
-; trp_dranton44_pl|Ser Armond Beesbury
-; trp_dranton45|Clarence Snow
-; trp_dranton45_pl|Clarence Snow
+trp_dranton44|Ser Armond Beesbury
+trp_dranton44_pl|Ser Armond Beesbury
+trp_dranton45|Clarence Nieve
+trp_dranton45_pl|Clarence Nieve
 trp_dranton46|Alyn de Puerto Blanco
 trp_dranton46_pl|Alyn de Puerto Blanco
 trp_dranton47|Fearless Ithoke
 trp_dranton47_pl|Fearless Ithoke
 trp_dranton48|Ser Luco de Pentos
 trp_dranton48_pl|Ser Luco de Pentos
-; trp_dranton49|Ser Eustace Norcross
-; trp_dranton49_pl|Ser Eustace Norcross
+trp_dranton49|Ser Eustace Norcross
+trp_dranton49_pl|Ser Eustace Norcross
 trp_dranton50|Palanqo de Volantis
 trp_dranton50_pl|Palanqo de Volantes
-; trp_dranton51|Ser Tybolt Chester
-; trp_dranton51_pl|Ser Tybolt Chester
+trp_dranton51|Ser Tybolt Chester
+trp_dranton51_pl|Ser Tybolt Chester
 trp_dranton52|Vamarko de los Rhoyne
 trp_dranton52_pl|Vamarko de los Rhoyne
 trp_dranton53|Ser Janos Flores
 trp_dranton53_pl|Ser Janos Flores
-; trp_dranton54|Ser Harlan Fossoway
-; trp_dranton54_pl|Ser Harlan Fossoway
+trp_dranton54|Ser Harlan Fossoway
+trp_dranton54_pl|Ser Harlan Fossoway
 trp_dranton55|Ser Eldron Webber
 trp_dranton55_pl|Ser Eldron Webber
-; trp_dranton56|Ser Duncan Rowan
-; trp_dranton56_pl|Ser Duncan Rowan
-; trp_dranton57|Ser Theodore Tyrell
-; trp_dranton57_pl|Ser Theodore Tyrell
-; trp_dranton58|Humfrey Durwell
-; trp_dranton58_pl|Humfrey Durwell
-; trp_dranton59|Ser Leo Tyrell
-; trp_dranton59_pl|Ser Leo Tyrell
-; trp_dranton60|Ser Halbert Hightower
-; trp_dranton60_pl|Ser Halbert Hightower
+trp_dranton56|Ser Duncan Rowan
+trp_dranton56_pl|Ser Duncan Rowan
+trp_dranton57|Ser Theodore Tyrell
+trp_dranton57_pl|Ser Theodore Tyrell
+trp_dranton58|Humfrey Durwell
+trp_dranton58_pl|Humfrey Durwell
+trp_dranton59|Ser Leo Tyrell
+trp_dranton59_pl|Ser Leo Tyrell
+trp_dranton60|Ser Halbert Hightower
+trp_dranton60_pl|Ser Halbert Hightower
 trp_dranton61|Ser Loren de Kayce
 trp_dranton61_pl|Ser Loren de Kayce
 trp_dranton62|Ser Andrew Plumm
 trp_dranton62_pl|Ser Andrew Plumm
-; trp_dranton63|Ser Gerold Redfort
-; trp_dranton63_pl|Ser Gerold Redfort
+trp_dranton63|Ser Gerold Redfort
+trp_dranton63_pl|Ser Gerold Redfort
 trp_dranton64|Ser Tytos Frey
 trp_dranton64_pl|Ser Tytos Frey
 trp_tutorial_trainer|Instructor Ladislaus
@@ -2062,8 +2062,8 @@ trp_ransom_broker_9|Tremond el Comisionista de Rescates
 trp_ransom_broker_9_pl|Tremond el Comisionista deRescates
 trp_ransom_broker_10|Manfred el Comisionista de Rescates
 trp_ransom_broker_10_pl|Manfred el Comisionista deRescates
-; trp_tavern_traveler_1|Alyn the Wanderer
-; trp_tavern_traveler_1_pl|Alyn the Wanderer
+trp_tavern_traveler_1|Alyn el Vagabundo
+trp_tavern_traveler_1_pl|Alyn el Vagabundo
 trp_tavern_traveler_2|Barth el Viajero
 trp_tavern_traveler_2_pl|Barth el Viajero
 trp_tavern_traveler_3|Bellegere el Viajero
@@ -2094,8 +2094,8 @@ trp_tavern_minstrel_3|Torgo el Bardo
 trp_tavern_minstrel_3_pl|Torgo el Bardo
 trp_tavern_minstrel_4|Walder el Bardo
 trp_tavern_minstrel_4_pl|Walder el Bardo
-; trp_tavern_minstrel_5|Manfred the Bard
-; trp_tavern_minstrel_5_pl|Manfred the Bard
+trp_tavern_minstrel_5|Manfred el Bardo
+trp_tavern_minstrel_5_pl|Manfred el Bardo
 trp_septon_1|Septón Raynard
 trp_septon_1_pl|Septón Raynard
 trp_septon_2|Septón Luceon
@@ -2460,8 +2460,8 @@ trp_nw_daeron|Daeron
 trp_nw_daeron_pl|Daeron
 trp_nw_janos_slynt|Lord Janos Slynt
 trp_nw_janos_slynt_pl|Lord Janos Slynt
-; trp_nw_mullin|Maester Mullin
-; trp_nw_mullin_pl|Maester Mullin
+trp_nw_mullin|Maestre Mullin
+trp_nw_mullin_pl|Maestre Mullin
 trp_nw_tom_barleycorn|Tom Barleycorn
 trp_nw_tom_barleycorn_pl|Tom Barleycorn
 trp_nw_luke|Luke de Aldealarga
@@ -2576,8 +2576,8 @@ trp_improved_clansman_3|Jinete de los clanes
 trp_improved_clansman_3_pl|Jinete de los clanes
 trp_improved_clansman_4|Hachero de los clanes
 trp_improved_clansman_4_pl|Hacheros de los clanes
-; trp_scholars|Nobleman
-; trp_scholars_pl|Noblemen
+trp_scholars|Noble
+trp_scholars_pl|Noble
 trp_odin_npc_1|Arquero proscrito
 trp_odin_npc_1_pl|Arqueros proscritos
 trp_odin_npc_2|Arquero proscrito
@@ -2676,34 +2676,34 @@ trp_odin_cave_quest_npc_1|Moredo Tendyris
 trp_odin_cave_quest_npc_1_pl|Moredo Tendyris
 trp_odin_cave_quest_npc_2|Moredo Tendyris
 trp_odin_cave_quest_npc_2_pl|Moredo Tendyris
-; trp_clifford_gower|Ser Clifford Gower
-; trp_clifford_gower_pl|Ser Clifford Gower
-; trp_ninestars_castellan|Ser Alyn Tollett
-; trp_ninestars_castellan_pl|Ser Alyn Tollett
-; trp_addam_grafton|Ser Addam Grafton
-; trp_addam_grafton_pl|Ser Addam Grafton
-; trp_jeffory_gaunt|Ser Jeffory Gaunt
-; trp_jeffory_gaunt_pl|Ser Jeffory Gaunt
-; trp_josmyn_gaunt|Ser Josmyn Gaunt
-; trp_josmyn_gaunt_pl|Ser Josmyn Gaunt
-; trp_manfred_rollingford|Ser Manfred Rollingford
-; trp_manfred_rollingford_pl|Ser Manfred Rollingford
-; trp_omer_chyttering|Ser Omer Chyttering
-; trp_omer_chyttering_pl|Ser Omer Chyttering
-; trp_ninestars_guardsman_1|Guardsman
-; trp_ninestars_guardsman_1_pl|Guardsmen
-; trp_ninestars_guardsman_2|Guardsman
-; trp_ninestars_guardsman_2_pl|Guardsmen
-; trp_raymun_templeton_trial|Ser Raymun Templeton
-; trp_raymun_templeton_trial_pl|Ser Raymun Templeton
-; trp_emrick_templeton|Ser Emrick Templeton
-; trp_emrick_templeton_pl|Ser Emrick Templeton
-; trp_arreck_templeton|Ser Arreck Templeton
-; trp_arreck_templeton_pl|Ser Arreck Templeton
-; trp_ninestars_castellan_prison|Ser Alyn Tollett
-; trp_ninestars_castellan_prison_pl|Ser Alyn Tollett
-; trp_ninestars_castellan_chambers|Ser Alyn Tollett
-; trp_ninestars_castellan_chambers_pl|Ser Alyn Tollett
+trp_clifford_gower|Ser Clifford Gower
+trp_clifford_gower_pl|Ser Clifford Gower
+trp_ninestars_castellan|Ser Alyn Tollett
+trp_ninestars_castellan_pl|Ser Alyn Tollett
+trp_addam_grafton|Ser Addam Grafton
+trp_addam_grafton_pl|Ser Addam Grafton
+trp_jeffory_gaunt|Ser Jeffory Gaunt
+trp_jeffory_gaunt_pl|Ser Jeffory Gaunt
+trp_josmyn_gaunt|Ser Josmyn Gaunt
+trp_josmyn_gaunt_pl|Ser Josmyn Gaunt
+trp_manfred_rollingford|Ser Manfred Rollingford
+trp_manfred_rollingford_pl|Ser Manfred Rollingford
+trp_omer_chyttering|Ser Omer Chyttering
+trp_omer_chyttering_pl|Ser Omer Chyttering
+trp_ninestars_guardsman_1|Guardia
+trp_ninestars_guardsman_1_pl|Guardia
+trp_ninestars_guardsman_2|Guardia
+trp_ninestars_guardsman_2_pl|Guardia
+trp_raymun_templeton_trial|Ser Raymun Templeton
+trp_raymun_templeton_trial_pl|Ser Raymun Templeton
+trp_emrick_templeton|Ser Emrick Templeton
+trp_emrick_templeton_pl|Ser Emrick Templeton
+trp_arreck_templeton|Ser Arreck Templeton
+trp_arreck_templeton_pl|Ser Arreck Templeton
+trp_ninestars_castellan_prison|Ser Alyn Tollett
+trp_ninestars_castellan_prison_pl|Ser Alyn Tollett
+trp_ninestars_castellan_chambers|Ser Alyn Tollett
+trp_ninestars_castellan_chambers_pl|Ser Alyn Tollett
 trp_terror_npc_1|Septón Garibald
 trp_terror_npc_1_pl|Septón Garibald
 trp_terror_npc_2|Amo Tom
@@ -3016,12 +3016,12 @@ trp_unsullied_20|Inmaculado
 trp_unsullied_20_pl|Inmaculado
 trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin
 trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin
-; trp_npc1|Ser Bennis of Hollow Hill
-; trp_npc1_pl|Ser Bennis of Hollow Hill
+trp_npc1|Ser Bennis de Colina Hueca
+trp_npc1_pl|Ser Bennis de Colina Hueca
 trp_npc2|Maron
 trp_npc2_pl|Maron
-; trp_npc3|Alyn
-; trp_npc3_pl|Alyn
+trp_npc3|Alyn
+trp_npc3_pl|Alyn
 trp_npc4|Graznon zo Paton
 trp_npc4_pl|Graznon zo Paton
 trp_npc5|Ser Felton Flores
@@ -3034,26 +3034,26 @@ trp_npc8|Halbert Crowshead
 trp_npc8_pl|Halbert Crowshead
 trp_npc9|Kanosos el Impetuoso
 trp_npc9_pl|Kanosos el Impetuoso
-; trp_npc10|Mavros Sand
-; trp_npc10_pl|Mavros Sand
+trp_npc10|Mavros Arena
+trp_npc10_pl|Mavros Arena
 trp_npc11|Garrett Longley
 trp_npc11_pl|Garrett Longley
 trp_npc12|Maestre Brynden
 trp_npc12_pl|Maestre Brynden
-; trp_npc13|Ser Roger Osgrey
-; trp_npc13_pl|Ser Roger Osgrey
+trp_npc13|Ser Roger Osgrey
+trp_npc13_pl|Ser Roger Osgrey
 trp_npc14|Drollo
 trp_npc14_pl|Drollo
 trp_npc15|Arratos Entarion
 trp_npc15_pl|Arratos Entarion
-; trp_npc16|Ser Clavis Lyber
-; trp_npc16_pl|Ser Clavis Lyber
+trp_npc16|Ser Clavis Lyber
+trp_npc16_pl|Ser Clavis Lyber
 trp_npc17|Serol Lynaqo
 trp_npc17_pl|Serol Lynaqo
 trp_npc18|Gyrnir Pyke
 trp_npc18_pl|Gyrnir Pyke
-; trp_npc19|Saathos
-; trp_npc19_pl|Saathos
+trp_npc19|Saathos
+trp_npc19_pl|Saathos
 trp_npc20|Bilaquo Mentarios
 trp_npc20_pl|Bilaquo Mentarios
 trp_npc21|Berengar Parren
@@ -3068,24 +3068,24 @@ trp_npc25|Carver
 trp_npc25_pl|Carver
 trp_npc26|Caul
 trp_npc26_pl|Caul
-; trp_npc27|Ser Medrick Waterman
-; trp_npc27_pl|Ser Medrick Waterman
-; trp_npc28|Ser Lucamore the Grim
-; trp_npc28_pl|Ser Lucamore the Grim
-; trp_npc29|Lotharo Gendymis
-; trp_npc29_pl|Lotharo Gendymis
-; trp_npc30|Addam Blackwood
-; trp_npc30_pl|Addam Blackwood
-; trp_npc31|Ser Otho Bracken
-; trp_npc31_pl|Ser Otho Bracken
-; trp_npc32|Oronno Paenrakos
-; trp_npc32_pl|Oronno Paenrakos
-; trp_npc33|Gylo Rhegan
-; trp_npc33_pl|Gylo Rhegan
-; trp_npc34|Bloodbeard
-; trp_npc34_pl|Bloodbeard
-; trp_npc35|The Tattered Prince
-; trp_npc35_pl|The Tattered Prince
+trp_npc27|Ser Medrick Waterman
+trp_npc27_pl|Ser Medrick Waterman
+trp_npc28|Ser Lucamore el Sombrío
+trp_npc28_pl|Ser Lucamore el Sombrío
+trp_npc29|Lotharo Gendymis
+trp_npc29_pl|Lotharo Gendymis
+trp_npc30|Addam Blackwood
+trp_npc30_pl|Addam Blackwood
+trp_npc31|Ser Otho Bracken
+trp_npc31_pl|Ser Otho Bracken
+trp_npc32|Oronno Paenrakos
+trp_npc32_pl|Oronno Paenrakos
+trp_npc33|Gylo Rhegan
+trp_npc33_pl|Gylo Rhegan
+trp_npc34|Barbasangre
+trp_npc34_pl|Barbasangre
+trp_npc35|El Príncipe Desharrapado
+trp_npc35_pl|El Príncipe Desharrapado
 trp_kingdom_1_lord|Rey Renly Baratheon
 trp_kingdom_1_lord_pl|Rey Renly Baratheon
 trp_kingdom_2_lord|Rey Robb Stark
@@ -3094,8 +3094,8 @@ trp_kingdom_3_lord|Lord Nestor Royce
 trp_kingdom_3_lord_pl|Lord Nestor Royce
 trp_kingdom_4_lord|Señor del Mar Ferrago Antaryon
 trp_kingdom_4_lord_pl|Señor del Mar Ferrago Antaryon
-; trp_kingdom_5_lord|Archon Sharako Mortello
-; trp_kingdom_5_lord_pl|Archon Sharako Mortello
+trp_kingdom_5_lord|Arconte Sharako Mortello
+trp_kingdom_5_lord_pl|Arconte Sharako Mortello
 trp_kingdom_6_lord|Príncipe Oberyn Martell
 trp_kingdom_6_lord_pl|Príncipe Oberyn Martell
 trp_kingdom_8_lord|Rey Stannis Baratheon
@@ -3106,20 +3106,20 @@ trp_kingdom_10_lord|Lord Mace Tyrell
 trp_kingdom_10_lord_pl|Lord Mace Tyrell
 trp_kingdom_11_lord|Rey Balon Greyjoy
 trp_kingdom_11_lord_pl|Rey Balon Greyjoy
-; trp_kingdom_12_lord|Prince Morello
-; trp_kingdom_12_lord_pl|Prince Morello
-; trp_kingdom_13_lord|Archon Bessaro Omosethes
-; trp_kingdom_13_lord_pl|Archon Bessaro Omosethes
-; trp_kingdom_14_lord|Archon Coloqo Elemos
-; trp_kingdom_14_lord_pl|Archon Coloqo Elemos
-; trp_kingdom_15_lord|Archon Lotho Saskos
-; trp_kingdom_15_lord_pl|Archon Lotho Saskos
+trp_kingdom_12_lord|Príncipe Morello
+trp_kingdom_12_lord_pl|Príncipe Morello
+trp_kingdom_13_lord|Arconte Bessaro Omosethes
+trp_kingdom_13_lord_pl|Arconte Bessaro Omosethes
+trp_kingdom_14_lord|Arconte Coloqo Elemos
+trp_kingdom_14_lord_pl|Arconte Coloqo Elemos
+trp_kingdom_15_lord|Arconte Lotho Saskos
+trp_kingdom_15_lord_pl|Arconte Lotho Saskos
 trp_kingdom_16_lord|Triarca Malaquo Maegyr
 trp_kingdom_16_lord_pl|Triarca Malaquo Maegyr
-; trp_kingdom_17_lord|High Magister Caltos Tavellen
-; trp_kingdom_17_lord_pl|High Magister Caltos Tavellen
-; trp_kingdom_18_lord|Archon Marro Balar
-; trp_kingdom_18_lord_pl|Archon Marro Balar
+trp_kingdom_17_lord|Magíster Caltos Tavellen
+trp_kingdom_17_lord_pl|Magíster Caltos Tavellen
+trp_kingdom_18_lord|Arconte Marro Balar
+trp_kingdom_18_lord_pl|Arconte Marro Balar
 trp_kingdom_19_lord|Lord Triston Sunderland
 trp_kingdom_19_lord_pl|Lord Triston Sunderland
 trp_kingdom_20_lord|Rey Aegon Targaryen
@@ -3170,10 +3170,10 @@ trp_knight_2_5|Lord Medger Cerwyn
 trp_knight_2_5_pl|Lord Medger Cerwyn
 trp_knight_2_6|Ser Wylis Manderly
 trp_knight_2_6_pl|Ser Wylis Manderly
-; trp_knight_2_7|Galbart Glover
-; trp_knight_2_7_pl|Galbart Glover
-; trp_knight_2_8|Ser Helman Tallhart
-; trp_knight_2_8_pl|Ser Helman Tallhart
+trp_knight_2_7|Galbart Glover
+trp_knight_2_7_pl|Galbart Glover
+trp_knight_2_8|Ser Helman Tallhart
+trp_knight_2_8_pl|Ser Helman Tallhart
 trp_knight_2_9|Lord Rodrik Ryswell
 trp_knight_2_9_pl|Lord Rodrik Ryswell
 trp_knight_2_10|Vickian Flint
@@ -3188,8 +3188,8 @@ trp_knight_2_14|Harrion Karstark
 trp_knight_2_14_pl|Harrion Karstark
 trp_knight_2_15|Ser Wendel Manderly
 trp_knight_2_15_pl|Ser Wendel Manderly
-; trp_knight_2_18|Roger Ryswell
-; trp_knight_2_18_pl|Roger Ryswell
+trp_knight_2_18|Roger Ryswell
+trp_knight_2_18_pl|Roger Ryswell
 trp_knight_2_21|Leobald Tallhart
 trp_knight_2_21_pl|Leobald Tallhart
 trp_knight_2_22|Benfred Tallhart
@@ -3208,8 +3208,8 @@ trp_knight_3_4|Ser Lyn Corbray
 trp_knight_3_4_pl|Ser Lyn Corbray
 trp_knight_3_5|Lord Gilwood Hunter
 trp_knight_3_5_pl|Lord Gilwood Hunter
-; trp_knight_3_6|Ser Eustace Hunter
-; trp_knight_3_6_pl|Ser Eustace Hunter
+trp_knight_3_6|Ser Eustace Hunter
+trp_knight_3_6_pl|Ser Eustace Hunter
 trp_knight_3_7|Ser Morton Waynwood
 trp_knight_3_7_pl|Ser Morton Waynwood
 trp_knight_3_8|Ser Donnel Waynwood
@@ -3238,28 +3238,28 @@ trp_knight_3_25|Anya Waynwood
 trp_knight_3_25_pl|Anya Waynwood
 trp_knight_4_1|Primera Espada Qarro Volentin
 trp_knight_4_1_pl|Primera Espada Qarro Volentin
-; trp_knight_4_2|Admiral Torone Otherys
-; trp_knight_4_2_pl|Admiral Torone Otherys
+trp_knight_4_2|Almirante Torone Otherys
+trp_knight_4_2_pl|Almirante Torone Otherys
 trp_knight_4_3|Pranelis Otharys
 trp_knight_4_3_pl|Pranelis Otharys
 trp_knight_4_4|Tormo Fregar
 trp_knight_4_4_pl|Tormo Fregar
-; trp_knight_4_5|Denyo Antaryon
-; trp_knight_4_5_pl|Denyo Antaryon
-; trp_knight_4_6|Tybio Antaryon
-; trp_knight_4_6_pl|Tybio Antaryon
-; trp_knight_4_7|Lotharo Erosenes
-; trp_knight_4_7_pl|Lotharo Erosenes
-; trp_knight_4_8|Donalo Prestayn
-; trp_knight_4_8_pl|Donalo Prestayn
-; trp_knight_4_9|Tenesio Prestayn
-; trp_knight_4_9_pl|Tenesio Prestayn
-; trp_knight_4_10|Idario Prestayn
-; trp_knight_4_10_pl|Idario Prestayn
-; trp_knight_4_11|Elanzo Erosenes
-; trp_knight_4_11_pl|Elanzo Erosenes
-; trp_knight_4_12|Moredo Fregar
-; trp_knight_4_12_pl|Moredo Fregar
+trp_knight_4_5|Denyo Antaryon
+trp_knight_4_5_pl|Denyo Antaryon
+trp_knight_4_6|Tybio Antaryon
+trp_knight_4_6_pl|Tybio Antaryon
+trp_knight_4_7|Lotharo Erosenes
+trp_knight_4_7_pl|Lotharo Erosenes
+trp_knight_4_8|Donalo Prestayn
+trp_knight_4_8_pl|Donalo Prestayn
+trp_knight_4_9|Tenesio Prestayn
+trp_knight_4_9_pl|Tenesio Prestayn
+trp_knight_4_10|Idario Prestayn
+trp_knight_4_10_pl|Idario Prestayn
+trp_knight_4_11|Elanzo Erosenes
+trp_knight_4_11_pl|Elanzo Erosenes
+trp_knight_4_12|Moredo Fregar
+trp_knight_4_12_pl|Moredo Fregar
 trp_knight_5_1|Ser Stevron Frey
 trp_knight_5_1_pl|Ser Stevron Frey
 trp_knight_5_2|Ser Walder Frey
@@ -3288,16 +3288,16 @@ trp_knight_5_14|Lord Karyl Vance
 trp_knight_5_14_pl|Lord Karyl Vance
 trp_knight_5_15|Ser Patrek Mallister
 trp_knight_5_15_pl|Ser Patrek Mallister
-; trp_knight_5_16|Ser Edmure Tully
-; trp_knight_5_16_pl|Ser Edmure Tully
-; trp_knight_qohor_1|Craghas Tendiras
-; trp_knight_qohor_1_pl|Craghas Tendiras
-; trp_knight_qohor_2|Qhoran Rhegan
-; trp_knight_qohor_2_pl|Qhoran Rhegan
-; trp_knight_qohor_3|Roro Ohoros
-; trp_knight_qohor_3_pl|Roro Ohoros
-; trp_knight_qohor_4|Mero Ohoros
-; trp_knight_qohor_4_pl|Mero Ohoros
+trp_knight_5_16|Ser Edmure Tully
+trp_knight_5_16_pl|Ser Edmure Tully
+trp_knight_qohor_1|Craghas Tendiras
+trp_knight_qohor_1_pl|Craghas Tendiras
+trp_knight_qohor_2|Qhoran Rhegan
+trp_knight_qohor_2_pl|Qhoran Rhegan
+trp_knight_qohor_3|Roro Ohoros
+trp_knight_qohor_3_pl|Roro Ohoros
+trp_knight_qohor_4|Mero Ohoros
+trp_knight_qohor_4_pl|Mero Ohoros
 trp_knight_6_2|Ser Deziel Dalt
 trp_knight_6_2_pl|Ser Deziel Dalt
 trp_knight_6_3|Lord Franklyn Fowler
@@ -3320,8 +3320,8 @@ trp_knight_6_11|Ser Gerold Dayne
 trp_knight_6_11_pl|Ser Gerold Dayne
 trp_knight_6_12|Ser Dagos Manwoody
 trp_knight_6_12_pl|Ser Dagos Manwoody
-; trp_knight_6_13|Ser Mors Manwoody
-; trp_knight_6_13_pl|Ser Mors Manwoody
+trp_knight_6_13|Ser Mors Manwoody
+trp_knight_6_13_pl|Ser Mors Manwoody
 trp_knight_6_14|Ser Symon Santagar
 trp_knight_6_14_pl|Ser Symon Santagar
 trp_knight_6_15|Ser Gulian Qorgyle
@@ -3352,8 +3352,8 @@ trp_knight_8_12|Ser Andrew Estermont
 trp_knight_8_12_pl|Ser Andrew Estermont
 trp_knight_8_13|Ser Lomas Estermont
 trp_knight_8_13_pl|Ser Lomas Estermont
-; trp_knight_8_14|Salladhor Saan
-; trp_knight_8_14_pl|Salladhor Saan
+trp_knight_8_14|Salladhor Saan
+trp_knight_8_14_pl|Salladhor Saan
 trp_knight_9_1|Lord Renfred Rykker
 trp_knight_9_1_pl|Lord Renfred Rykker
 trp_knight_9_2|Ser Stafford Lannister
@@ -3512,58 +3512,58 @@ trp_knight_11_14|Ser Harras Harlaw
 trp_knight_11_14_pl|Ser Harras Harlaw
 trp_knight_11_15|Theon Greyjoy
 trp_knight_11_15_pl|Theon Greyjoy
-; trp_knight_12_1|Ordello Estatis
-; trp_knight_12_1_pl|Ordello Estatis
-; trp_knight_12_2|Vaario Sontho
-; trp_knight_12_2_pl|Vaario Sontho
-; trp_knight_12_3|Moreo Moesia
-; trp_knight_12_3_pl|Moreo Moesia
-; trp_knight_12_4|Yollo Moesia
-; trp_knight_12_4_pl|Yollo Moesia
-; trp_knight_12_5|Tregar Moesia
-; trp_knight_12_5_pl|Tregar Moesia
-; trp_knight_12_6|Terro Sontho
-; trp_knight_12_6_pl|Terro Sontho
+trp_knight_12_1|Ordello Estatis
+trp_knight_12_1_pl|Ordello Estatis
+trp_knight_12_2|Vaario Sontho
+trp_knight_12_2_pl|Vaario Sontho
+trp_knight_12_3|Moreo Moesia
+trp_knight_12_3_pl|Moreo Moesia
+trp_knight_12_4|Yollo Moesia
+trp_knight_12_4_pl|Yollo Moesia
+trp_knight_12_5|Tregar Moesia
+trp_knight_12_5_pl|Tregar Moesia
+trp_knight_12_6|Terro Sontho
+trp_knight_12_6_pl|Terro Sontho
 trp_knight_12_7|Elan Sontho
 trp_knight_12_7_pl|Elan Sontho
-; trp_knight_12_8|Ferrego Estatis
-; trp_knight_12_8_pl|Ferrego Estatis
-; trp_knight_12_9|Elanzo Estatis
-; trp_knight_12_9_pl|Elanzo Estatis
+trp_knight_12_8|Ferrego Estatis
+trp_knight_12_8_pl|Ferrego Estatis
+trp_knight_12_9|Elanzo Estatis
+trp_knight_12_9_pl|Elanzo Estatis
 trp_knight_13_1|Magister Belicho Staegone
 trp_knight_13_1_pl|Magister Belicho Staegone
-; trp_knight_13_2|Magister Methyso Qhaedarene
-; trp_knight_13_2_pl|Magister Methyso Qhaedarene
-; trp_knight_13_3|Magister Moreo Ryndoon
-; trp_knight_13_3_pl|Magister Moreo Ryndoon
-; trp_knight_13_4|Qavo Ryndoon
-; trp_knight_13_4_pl|Qavo Ryndoon
+trp_knight_13_2|Magíster Methyso Qhaedarene
+trp_knight_13_2_pl|Magíster Methyso Qhaedarene
+trp_knight_13_3|Magíster Moreo Ryndoon
+trp_knight_13_3_pl|Magíster Moreo Ryndoon
+trp_knight_13_4|Qavo Ryndoon
+trp_knight_13_4_pl|Qavo Ryndoon
 trp_knight_13_5|Alequo Qhaedarene
 trp_knight_13_5_pl|Alequo Qhaedarene
 trp_knight_14_1|Parquello Vaelaros
 trp_knight_14_1_pl|Parquello Vaelaros
-; trp_knight_14_2|Nyessos Drahar
-; trp_knight_14_2_pl|Nyessos Drahar
-; trp_knight_14_3|Talezo Alayris
-; trp_knight_14_3_pl|Talezo Alayris
-; trp_knight_14_4|Lotharo Alayris
-; trp_knight_14_4_pl|Lotharo Alayris
-; trp_knight_14_5|Craghas Alayris
-; trp_knight_14_5_pl|Craghas Alayris
-; trp_knight_14_6|Racallio Drahar
-; trp_knight_14_6_pl|Racallio Drahar
-; trp_knight_15_1|Colloquo Pasnak
-; trp_knight_15_1_pl|Colloquo Pasnak
+trp_knight_14_2|Nyessos Drahar
+trp_knight_14_2_pl|Nyessos Drahar
+trp_knight_14_3|Talezo Alayris
+trp_knight_14_3_pl|Talezo Alayris
+trp_knight_14_4|Lotharo Alayris
+trp_knight_14_4_pl|Lotharo Alayris
+trp_knight_14_5|Craghas Alayris
+trp_knight_14_5_pl|Craghas Alayris
+trp_knight_14_6|Racallio Drahar
+trp_knight_14_6_pl|Racallio Drahar
+trp_knight_15_1|Colloquo Pasnak
+trp_knight_15_1_pl|Colloquo Pasnak
 trp_knight_15_2|Qogrondro Pasnak
 trp_knight_15_2_pl|Qogrondro Pasnak
 trp_knight_15_3|Taddeo Pasnak
 trp_knight_15_3_pl|Taddeo Pasnak
-; trp_knight_15_4|Sharako Isalios
-; trp_knight_15_4_pl|Sharako Isalios
-; trp_knight_15_5|Vogarro Lohar
-; trp_knight_15_5_pl|Vogarro Lohar
-; trp_knight_15_6|Galamanchos Lohar
-; trp_knight_15_6_pl|Galamanchos Lohar
+trp_knight_15_4|Sharako Isalios
+trp_knight_15_4_pl|Sharako Isalios
+trp_knight_15_5|Vogarro Lohar
+trp_knight_15_5_pl|Vogarro Lohar
+trp_knight_15_6|Galamanchos Lohar
+trp_knight_15_6_pl|Galamanchos Lohar
 trp_knight_15_7|Tychonemos Isalios
 trp_knight_15_7_pl|Tychonemos Isalios
 trp_knight_16_1|Triarca Nyessos Vhassar
@@ -3578,28 +3578,28 @@ trp_knight_16_5|Belicho Vhassar
 trp_knight_16_5_pl|Belicho Vhassar
 trp_knight_16_6|Toronno Melane
 trp_knight_16_6_pl|Toronno Melane
-; trp_knight_16_7|Votyrro Melane
-; trp_knight_16_7_pl|Votyrro Melane
-; trp_knight_17_1|Terrio Tavellen
-; trp_knight_17_1_pl|Terrio Tavellen
-; trp_knight_17_2|Mero Tavellen
-; trp_knight_17_2_pl|Mero Tavellen
+trp_knight_16_7|Votyrro Melane
+trp_knight_16_7_pl|Votyrro Melane
+trp_knight_17_1|Terrio Tavellen
+trp_knight_17_1_pl|Terrio Tavellen
+trp_knight_17_2|Mero Tavellen
+trp_knight_17_2_pl|Mero Tavellen
 trp_knight_17_3|Tycho Melas
 trp_knight_17_3_pl|Tycho Melas
-; trp_knight_17_4|Dellono Melas
-; trp_knight_17_4_pl|Dellono Melas
-; trp_knight_17_5|Ordello Kasgos
-; trp_knight_17_5_pl|Ordello Kasgos
-; trp_knight_17_6|Alios Kasgos
-; trp_knight_17_6_pl|Alios Kasgos
-; trp_knight_17_7|Tomarro Kasgos
-; trp_knight_17_7_pl|Tomarro Kasgos
-; trp_knight_18_1|Galeo Terys
-; trp_knight_18_1_pl|Galeo Terys
-; trp_knight_18_2|Morello Terys
-; trp_knight_18_2_pl|Morello Terys
-; trp_knight_18_3|Terro Dimittis
-; trp_knight_18_3_pl|Terro Dimittis
+trp_knight_17_4|Dellono Melas
+trp_knight_17_4_pl|Dellono Melas
+trp_knight_17_5|Ordello Kasgos
+trp_knight_17_5_pl|Ordello Kasgos
+trp_knight_17_6|Alios Kasgos
+trp_knight_17_6_pl|Alios Kasgos
+trp_knight_17_7|Tomarro Kasgos
+trp_knight_17_7_pl|Tomarro Kasgos
+trp_knight_18_1|Galeo Terys
+trp_knight_18_1_pl|Galeo Terys
+trp_knight_18_2|Morello Terys
+trp_knight_18_2_pl|Morello Terys
+trp_knight_18_3|Terro Dimittis
+trp_knight_18_3_pl|Terro Dimittis
 trp_knight_19_1|Lord Godric Borrell
 trp_knight_19_1_pl|Lord Godric Borrell
 trp_knight_19_2|Lord Alesandor Torrent
@@ -3680,16 +3680,16 @@ trp_knight_22_10|Ko Zollo
 trp_knight_22_10_pl|Ko Zollo
 trp_kingdom_1_pretender|Vezenkor Adarys
 trp_kingdom_1_pretender_pl|Vezenkor Adarys
-; trp_kingdom_2_pretender|Prince Laros
-; trp_kingdom_2_pretender_pl|Prince Laros
-; trp_kingdom_3_pretender|High Priestess Assadora
-; trp_kingdom_3_pretender_pl|High Priestess Assadora
-; trp_kingdom_4_pretender|Princess Shiera Saan
-; trp_kingdom_4_pretender_pl|Princess Shiera Saan
-; trp_kingdom_5_pretender|Sarella Brightflame
-; trp_kingdom_5_pretender_pl|Sarella Brightflame
-; trp_kingdom_6_pretender|Yara Half-Hoare
-; trp_kingdom_6_pretender_pl|Yara Half-Hoare
+trp_kingdom_2_pretender|Príncipe Laros
+trp_kingdom_2_pretender_pl|Príncipe Laros
+trp_kingdom_3_pretender|Suma Sacerdotisa Assadora
+trp_kingdom_3_pretender_pl|Suma Sacerdotisa Assadora
+trp_kingdom_4_pretender|Princesa Shiera Saan
+trp_kingdom_4_pretender_pl|Princesa Shiera Saan
+trp_kingdom_5_pretender|Sarella Llamabrillante
+trp_kingdom_5_pretender_pl|Sarella Llamabrillante
+trp_kingdom_6_pretender|Yara Mediorronco
+trp_kingdom_6_pretender_pl|Yara Mediorronco
 trp_knight_1_1_wife|Error - knight 1 1 wife should not appear in game
 trp_knight_1_1_wife_pl|knight 1 1 wife
 trp_kingdom_1_lady_1|Shyra Varner
@@ -3700,58 +3700,58 @@ trp_kingdom_1_lady_3|Elia Errol
 trp_kingdom_1_lady_3_pl|Elia Errol
 trp_kingdom_1_lady_4|Elina Rosby
 trp_kingdom_1_lady_4_pl|Elina Rosby
-; trp_kingdom_1_lady_5|Sarya Buckler
-; trp_kingdom_1_lady_5_pl|Sarya Buckler
-; trp_kingdom_1_lady_6|Elyanna Buckler
-; trp_kingdom_1_lady_6_pl|Elyanna Buckler
-; trp_kingdom_1_lady_7|Elanna Grandison
-; trp_kingdom_1_lady_7_pl|Elanna Grandison
-; trp_kingdom_1_lady_8|Alys Morrigen
-; trp_kingdom_1_lady_8_pl|Alys Morrigen
+trp_kingdom_1_lady_5|Sarya Buckler
+trp_kingdom_1_lady_5_pl|Sarya Buckler
+trp_kingdom_1_lady_6|Elyanna Buckler
+trp_kingdom_1_lady_6_pl|Elyanna Buckler
+trp_kingdom_1_lady_7|Elanna Grandison
+trp_kingdom_1_lady_7_pl|Elanna Grandison
+trp_kingdom_1_lady_8|Alys Morrigen
+trp_kingdom_1_lady_8_pl|Alys Morrigen
 trp_kingdom_1_lady_9|Gwynesse Morrigen
 trp_kingdom_1_lady_9_pl|Gwynesse Morrigen
 trp_kingdom_1_lady_10|Jeyne Shett
 trp_kingdom_1_lady_10_pl|Jeyne Shett
 trp_kingdom_1_lady_11|Melissa Grandison
 trp_kingdom_1_lady_11_pl|Melissa Grandison
-; trp_kingdom_1_lady_12|Reyna Grandison
-; trp_kingdom_1_lady_12_pl|Reyna Grandison
-; trp_kingdom_1_lady_13|Jeyne Qorgyle
-; trp_kingdom_1_lady_13_pl|Jeyne Qorgyle
+trp_kingdom_1_lady_12|Reyna Grandison
+trp_kingdom_1_lady_12_pl|Reyna Grandison
+trp_kingdom_1_lady_13|Jeyne Qorgyle
+trp_kingdom_1_lady_13_pl|Jeyne Qorgyle
 trp_kingdom_1_lady_14|Lanna Swann
 trp_kingdom_1_lady_14_pl|Lanna Swann
 trp_kingdom_1_lady_15|Lyessa Swann
 trp_kingdom_1_lady_15_pl|Lyessa Swann
 trp_kingdom_1_lady_16|Elys Shett
 trp_kingdom_1_lady_16_pl|Elys Shett
-; trp_kingdom_1_lady_17|Joy Connington
-; trp_kingdom_1_lady_17_pl|Joy Connington
+trp_kingdom_1_lady_17|Joy Connington
+trp_kingdom_1_lady_17_pl|Joy Connington
 trp_kingdom_1_lady_18|Rohanna Connington
 trp_kingdom_1_lady_18_pl|Rohanna Connington
-; trp_kingdom_1_lady_19|Alara Qorgyle
-; trp_kingdom_1_lady_19_pl|Alara Qorgyle
-; trp_kingdom_1_lady_20|Cassana Estermont
-; trp_kingdom_1_lady_20_pl|Cassana Estermont
-; trp_kingdom_1_lady_21|Lyra Estermont
-; trp_kingdom_1_lady_21_pl|Lyra Estermont
+trp_kingdom_1_lady_19|Alara Qorgyle
+trp_kingdom_1_lady_19_pl|Alara Qorgyle
+trp_kingdom_1_lady_20|Cassana Estermont
+trp_kingdom_1_lady_20_pl|Cassana Estermont
+trp_kingdom_1_lady_21|Lyra Estermont
+trp_kingdom_1_lady_21_pl|Lyra Estermont
 trp_kingdom_1_lady_22|Gemma Rosby
 trp_kingdom_1_lady_22_pl|Gemma Rosby
-; trp_kingdom_1_lady_23|Elysa Wylde
-; trp_kingdom_1_lady_23_pl|Elysa Wylde
-; trp_kingdom_1_lady_24|Lysa Wylde
-; trp_kingdom_1_lady_24_pl|Lysa Wylde
+trp_kingdom_1_lady_23|Elysa Wylde
+trp_kingdom_1_lady_23_pl|Elysa Wylde
+trp_kingdom_1_lady_24|Lysa Wylde
+trp_kingdom_1_lady_24_pl|Lysa Wylde
 trp_kingdom_1_lady_29|Reina Margaery Tyrell
 trp_kingdom_1_lady_29_pl|Reina Margaery Tyrell
 trp_kingdom_2_lady_1|Alyssa Karstark
 trp_kingdom_2_lady_1_pl|Alyssa Karstark
 trp_kingdom_2_lady_2|Arwyn Umber
 trp_kingdom_2_lady_2_pl|Arwyn Umber
-; trp_kingdom_2_lady_3|Arra Umber
-; trp_kingdom_2_lady_3_pl|Arra Umber
+trp_kingdom_2_lady_3|Arra Umber
+trp_kingdom_2_lady_3_pl|Arra Umber
 trp_kingdom_2_lady_4|Gisella Glover
 trp_kingdom_2_lady_4_pl|Gisella Glover
-; trp_kingdom_2_lady_5|Serena Karstark
-; trp_kingdom_2_lady_5_pl|Serena Karstark
+trp_kingdom_2_lady_5|Serena Karstark
+trp_kingdom_2_lady_5_pl|Serena Karstark
 trp_kingdom_2_lady_6|Bethany Karstark
 trp_kingdom_2_lady_6_pl|Bethany Karstark
 trp_kingdom_2_lady_7|Leona Woolfield
@@ -3762,20 +3762,20 @@ trp_kingdom_2_lady_9|Wynafryd Manderly
 trp_kingdom_2_lady_9_pl|Wynafryd Manderly
 trp_kingdom_2_lady_10|Joanna Woolfield
 trp_kingdom_2_lady_10_pl|Joanna Woolfield
-; trp_kingdom_2_lady_11|Alysanne Tallhart
-; trp_kingdom_2_lady_11_pl|Alysanne Tallhart
-; trp_kingdom_2_lady_12|Elyn Tallhart
-; trp_kingdom_2_lady_12_pl|Elyn Tallhart
+trp_kingdom_2_lady_11|Alysanne Tallhart
+trp_kingdom_2_lady_11_pl|Alysanne Tallhart
+trp_kingdom_2_lady_12|Elyn Tallhart
+trp_kingdom_2_lady_12_pl|Elyn Tallhart
 trp_kingdom_2_lady_13|Elinor Tallhart
 trp_kingdom_2_lady_13_pl|Elinor Tallhart
-; trp_kingdom_2_lady_14|Myra Tallhart
-; trp_kingdom_2_lady_14_pl|Myra Tallhart
-; trp_kingdom_2_lady_15|Elysa Condon
-; trp_kingdom_2_lady_15_pl|Elysa Condon
+trp_kingdom_2_lady_14|Myra Tallhart
+trp_kingdom_2_lady_14_pl|Myra Tallhart
+trp_kingdom_2_lady_15|Elysa Condon
+trp_kingdom_2_lady_15_pl|Elysa Condon
 trp_kingdom_2_lady_16|Barbrey Ryswell
 trp_kingdom_2_lady_16_pl|Barbrey Ryswell
-; trp_kingdom_2_lady_17|Alys Ryswell
-; trp_kingdom_2_lady_17_pl|Alys Ryswell
+trp_kingdom_2_lady_17|Alys Ryswell
+trp_kingdom_2_lady_17_pl|Alys Ryswell
 trp_kingdom_2_lady_18|Erin Ryswell
 trp_kingdom_2_lady_18_pl|Erin Ryswell
 trp_kingdom_2_lady_19|Selyse Ryswell
@@ -3784,42 +3784,42 @@ trp_kingdom_2_lady_20|Anya Mallister
 trp_kingdom_2_lady_20_pl|Anya Mallister
 trp_kingdom_2_lady_21|Barba Flint
 trp_kingdom_2_lady_21_pl|Barba Flint
-; trp_kingdom_2_lady_22|Ryssa Flint
-; trp_kingdom_2_lady_22_pl|Ryssa Flint
+trp_kingdom_2_lady_22|Ryssa Flint
+trp_kingdom_2_lady_22_pl|Ryssa Flint
 trp_kingdom_2_lady_23|Alys Flint
 trp_kingdom_2_lady_23_pl|Alys Flint
 trp_kingdom_2_lady_24|Eleanor Flint
 trp_kingdom_2_lady_24_pl|Eleanor Flint
 trp_kingdom_2_lady_25|Jocelyn Blackwood
 trp_kingdom_2_lady_25_pl|Jocelyn Blackwood
-; trp_kingdom_2_lady_26|Cassana Locke
-; trp_kingdom_2_lady_26_pl|Cassana Locke
-; trp_kingdom_2_lady_27|Gemma Locke
-; trp_kingdom_2_lady_27_pl|Gemma Locke
+trp_kingdom_2_lady_26|Cassana Locke
+trp_kingdom_2_lady_26_pl|Cassana Locke
+trp_kingdom_2_lady_27|Gemma Locke
+trp_kingdom_2_lady_27_pl|Gemma Locke
 trp_kingdom_2_lady_28|Jeyne Locke
 trp_kingdom_2_lady_28_pl|Jeyne Locke
 trp_kingdom_2_lady_33|Alys Karstark
 trp_kingdom_2_lady_33_pl|Alys Karstark
-; trp_kingdom_2_lady_34|Sybelle Locke
-; trp_kingdom_2_lady_34_pl|Sybelle Locke
+trp_kingdom_2_lady_34|Sybelle Locke
+trp_kingdom_2_lady_34_pl|Sybelle Locke
 trp_kingdom_3_lady_1|Lia Corbray
 trp_kingdom_3_lady_1_pl|Lia Corbray
-; trp_kingdom_3_lady_2|Elayne Coldwater
-; trp_kingdom_3_lady_2_pl|Elayne Coldwater
+trp_kingdom_3_lady_2|Elayne Coldwater
+trp_kingdom_3_lady_2_pl|Elayne Coldwater
 trp_kingdom_3_lady_3|Liane Coldwater
 trp_kingdom_3_lady_3_pl|Liane Coldwater
-; trp_kingdom_3_lady_4|Jyana Marbrand
-; trp_kingdom_3_lady_4_pl|Jyana Marbrand
-; trp_kingdom_3_lady_5|Alyse Belmore
-; trp_kingdom_3_lady_5_pl|Alyse Belmore
-; trp_kingdom_3_lady_6|Lyanna Belmore
-; trp_kingdom_3_lady_6_pl|Lyanna Belmore
+trp_kingdom_3_lady_4|Jyana Marbrand
+trp_kingdom_3_lady_4_pl|Jyana Marbrand
+trp_kingdom_3_lady_5|Alyse Belmore
+trp_kingdom_3_lady_5_pl|Alyse Belmore
+trp_kingdom_3_lady_6|Lyanna Belmore
+trp_kingdom_3_lady_6_pl|Lyanna Belmore
 trp_kingdom_3_lady_7|Serra Mooton
 trp_kingdom_3_lady_7_pl|Serra Mooton
 trp_kingdom_3_lady_8|Lysa Corbray
 trp_kingdom_3_lady_8_pl|Lysa Corbray
-; trp_kingdom_3_lady_9|Fiona Corbray
-; trp_kingdom_3_lady_9_pl|Fiona Corbray
+trp_kingdom_3_lady_9|Fiona Corbray
+trp_kingdom_3_lady_9_pl|Fiona Corbray
 trp_kingdom_3_lady_13|Yasha Wensington
 trp_kingdom_3_lady_13_pl|Yasha Wensington
 trp_kingdom_3_lady_14|Jeyne Lynderly
@@ -3828,62 +3828,62 @@ trp_kingdom_3_lady_15|Meralyn Lynderly
 trp_kingdom_3_lady_15_pl|Meralyn Lynderly
 trp_kingdom_3_lady_16|Meredyth Wensington
 trp_kingdom_3_lady_16_pl|Meredyth Wensington
-; trp_kingdom_3_lady_17|Ermesande Grafton
-; trp_kingdom_3_lady_17_pl|Ermesande Grafton
-; trp_kingdom_3_lady_18|Lira Grafton
-; trp_kingdom_3_lady_18_pl|Lira Grafton
-; trp_kingdom_3_lady_19|Anya Redfort
-; trp_kingdom_3_lady_19_pl|Anya Redfort
+trp_kingdom_3_lady_17|Ermesande Grafton
+trp_kingdom_3_lady_17_pl|Ermesande Grafton
+trp_kingdom_3_lady_18|Lira Grafton
+trp_kingdom_3_lady_18_pl|Lira Grafton
+trp_kingdom_3_lady_19|Anya Redfort
+trp_kingdom_3_lady_19_pl|Anya Redfort
 trp_kingdom_3_lady_20|Lysa Waxley
 trp_kingdom_3_lady_20_pl|Lysa Waxley
 trp_kingdom_3_lady_21|Shiera Redfort
 trp_kingdom_3_lady_21_pl|Shiera Redfort
-; trp_kingdom_3_lady_22|Jeyne Royce
-; trp_kingdom_3_lady_22_pl|Jeyne Royce
-; trp_kingdom_3_lady_23|Rhea Royce
-; trp_kingdom_3_lady_23_pl|Rhea Royce
+trp_kingdom_3_lady_22|Jeyne Royce
+trp_kingdom_3_lady_22_pl|Jeyne Royce
+trp_kingdom_3_lady_23|Rhea Royce
+trp_kingdom_3_lady_23_pl|Rhea Royce
 trp_kingdom_3_lady_24|Anabel Brax
 trp_kingdom_3_lady_24_pl|Anabel Brax
 trp_kingdom_3_lady_25|Pia Redfort
 trp_kingdom_3_lady_25_pl|Pia Redfort
 trp_kingdom_3_lady_26|Rhea Redfort
 trp_kingdom_3_lady_26_pl|Rhea Redfort
-; trp_kingdom_4_lady_1|Alia Prestayn
-; trp_kingdom_4_lady_1_pl|Alia Prestayn
+trp_kingdom_4_lady_1|Alia Prestayn
+trp_kingdom_4_lady_1_pl|Alia Prestayn
 trp_kingdom_4_lady_2|Alala Volentin
 trp_kingdom_4_lady_2_pl|Alala Volentin
 trp_kingdom_4_lady_3|Lyta Volentin
 trp_kingdom_4_lady_3_pl|Lyta Volentin
-; trp_kingdom_4_lady_4|Bellegere Ormollen
-; trp_kingdom_4_lady_4_pl|Bellegere Ormollen
-; trp_kingdom_4_lady_5|Tyanna Fregar
-; trp_kingdom_4_lady_5_pl|Tyanna Fregar
-; trp_kingdom_4_lady_6|Brea Fregar
-; trp_kingdom_4_lady_6_pl|Brea Fregar
-; trp_kingdom_4_lady_7|Daena of Norvos
-; trp_kingdom_4_lady_7_pl|Daena of Norvos
-; trp_kingdom_4_lady_8|Betharios Otherys
-; trp_kingdom_4_lady_8_pl|Betharios Otherys
-; trp_kingdom_4_lady_9|Meralyn Otherys
-; trp_kingdom_4_lady_9_pl|Meralyn Otherys
-; trp_kingdom_4_lady_10|Talea Otherys
-; trp_kingdom_4_lady_10_pl|Talea Otherys
-; trp_kingdom_4_lady_11|Trianna of Volantis
-; trp_kingdom_4_lady_11_pl|Trianna of Volantis
-; trp_kingdom_4_lady_12|Hermea Antaryon
-; trp_kingdom_4_lady_12_pl|Hermea Antaryon
-; trp_kingdom_4_lady_13|Doreah Antaryon
-; trp_kingdom_4_lady_13_pl|Doreah Antaryon
-; trp_kingdom_4_lady_14|Bellegere Antaryon
-; trp_kingdom_4_lady_14_pl|Bellegere Antaryon
-; trp_kingdom_4_lady_15|Tenesia Antaryon
-; trp_kingdom_4_lady_15_pl|Tenesia Antaryon
-; trp_kingdom_5_lady_3|Naerys Piper
-; trp_kingdom_5_lady_3_pl|Naerys Piper
+trp_kingdom_4_lady_4|Bellegere Ormollen
+trp_kingdom_4_lady_4_pl|Bellegere Ormollen
+trp_kingdom_4_lady_5|Tyanna Fregar
+trp_kingdom_4_lady_5_pl|Tyanna Fregar
+trp_kingdom_4_lady_6|Brea Fregar
+trp_kingdom_4_lady_6_pl|Brea Fregar
+trp_kingdom_4_lady_7|Daena de Norvos
+trp_kingdom_4_lady_7_pl|Daena de Norvos
+trp_kingdom_4_lady_8|Betharios Otherys
+trp_kingdom_4_lady_8_pl|Betharios Otherys
+trp_kingdom_4_lady_9|Meralyn Otherys
+trp_kingdom_4_lady_9_pl|Meralyn Otherys
+trp_kingdom_4_lady_10|Talea Otherys
+trp_kingdom_4_lady_10_pl|Talea Otherys
+trp_kingdom_4_lady_11|Trianna de Volantis
+trp_kingdom_4_lady_11_pl|Trianna de Volantis
+trp_kingdom_4_lady_12|Hermea Antaryon
+trp_kingdom_4_lady_12_pl|Hermea Antaryon
+trp_kingdom_4_lady_13|Doreah Antaryon
+trp_kingdom_4_lady_13_pl|Doreah Antaryon
+trp_kingdom_4_lady_14|Bellegere Antaryon
+trp_kingdom_4_lady_14_pl|Bellegere Antaryon
+trp_kingdom_4_lady_15|Tenesia Antaryon
+trp_kingdom_4_lady_15_pl|Tenesia Antaryon
+trp_kingdom_5_lady_3|Naerys Piper
+trp_kingdom_5_lady_3_pl|Naerys Piper
 trp_kingdom_5_lady_4|Reah Mallister
 trp_kingdom_5_lady_4_pl|Reah Mallister
-; trp_kingdom_5_lady_5|Ysilla Mallister
-; trp_kingdom_5_lady_5_pl|Ysilla Mallister
+trp_kingdom_5_lady_5|Ysilla Mallister
+trp_kingdom_5_lady_5_pl|Ysilla Mallister
 trp_kingdom_5_lady_6|Mina Serrett
 trp_kingdom_5_lady_6_pl|Mina Serrett
 trp_kingdom_5_lady_7|Bethany Serrett
@@ -3894,22 +3894,22 @@ trp_kingdom_5_lady_9|Selyse Bracken
 trp_kingdom_5_lady_9_pl|Selyse Bracken
 trp_kingdom_5_lady_10|Barba Bracken
 trp_kingdom_5_lady_10_pl|Barba Bracken
-; trp_kingdom_5_lady_11|Daena Velaryon
-; trp_kingdom_5_lady_11_pl|Daena Velaryon
+trp_kingdom_5_lady_11|Daena Velaryon
+trp_kingdom_5_lady_11_pl|Daena Velaryon
 trp_kingdom_5_lady_12|Mya Smallwood
 trp_kingdom_5_lady_12_pl|Mya Smallwood
-; trp_kingdom_5_lady_13|Amarei Smallwood
-; trp_kingdom_5_lady_13_pl|Amarei Smallwood
-; trp_kingdom_5_lady_14|Ashara Grandison
-; trp_kingdom_5_lady_14_pl|Ashara Grandison
-; trp_kingdom_5_lady_15|Barbrey Piper
-; trp_kingdom_5_lady_15_pl|Barbrey Piper
-; trp_kingdom_5_lady_16|Delena Piper
-; trp_kingdom_5_lady_16_pl|Delena Piper
-; trp_kingdom_5_lady_17|Ellyn Piper
-; trp_kingdom_5_lady_17_pl|Ellyn Piper
-; trp_kingdom_5_lady_18|Eleanor Terrick
-; trp_kingdom_5_lady_18_pl|Eleanor Terrick
+trp_kingdom_5_lady_13|Amarei Smallwood
+trp_kingdom_5_lady_13_pl|Amarei Smallwood
+trp_kingdom_5_lady_14|Ashara Grandison
+trp_kingdom_5_lady_14_pl|Ashara Grandison
+trp_kingdom_5_lady_15|Barbrey Piper
+trp_kingdom_5_lady_15_pl|Barbrey Piper
+trp_kingdom_5_lady_16|Delena Piper
+trp_kingdom_5_lady_16_pl|Delena Piper
+trp_kingdom_5_lady_17|Ellyn Piper
+trp_kingdom_5_lady_17_pl|Ellyn Piper
+trp_kingdom_5_lady_18|Eleanor Terrick
+trp_kingdom_5_lady_18_pl|Eleanor Terrick
 trp_kingdom_5_lady_19|Elia Mooton
 trp_kingdom_5_lady_19_pl|Elia Mooton
 trp_kingdom_5_lady_32|Bella Banefort
@@ -3918,32 +3918,32 @@ trp_kingdom_5_lady_33|Bethany Blackwood
 trp_kingdom_5_lady_33_pl|Bethany Blackwood
 trp_kingdom_5_lady_34|Elayne Lychester
 trp_kingdom_5_lady_34_pl|Elayne Lychester
-; trp_kingdom_5_lady_35|Minissa Haigh
-; trp_kingdom_5_lady_35_pl|Minissa Haigh
-; trp_kingdom_5_lady_36|Jocelyn Hunter
-; trp_kingdom_5_lady_36_pl|Jocelyn Hunter
+trp_kingdom_5_lady_35|Minissa Haigh
+trp_kingdom_5_lady_35_pl|Minissa Haigh
+trp_kingdom_5_lady_36|Jocelyn Hunter
+trp_kingdom_5_lady_36_pl|Jocelyn Hunter
 trp_kingdom_5_lady_37|Roslin Frey
 trp_kingdom_5_lady_37_pl|Roslin Frey
-; trp_kingdom_5_lady_38|Walda Frey
-; trp_kingdom_5_lady_38_pl|Walda Frey
-; trp_kingdom_5_lady_39|Arwyn Frey
-; trp_kingdom_5_lady_39_pl|Arwyn Frey
-; trp_kingdom_5_lady_40|Shirei Frey
-; trp_kingdom_5_lady_40_pl|Shirei Frey
-; trp_kingdom_5_lady_41|Tyta Frey
-; trp_kingdom_5_lady_41_pl|Tyta Frey
-; trp_kingdom_5_lady_42|Jeyne Rivers
-; trp_kingdom_5_lady_42_pl|Jeyne Rivers
-; trp_kingdom_5_lady_43|Mellara Rivers
-; trp_kingdom_5_lady_43_pl|Mellara Rivers
-; trp_kingdom_qohor_lady_1|Mellario of Braavos
-; trp_kingdom_qohor_lady_1_pl|Mellario of Braavos
-; trp_kingdom_qohor_lady_2|Bellegere Tendiras
-; trp_kingdom_qohor_lady_2_pl|Bellegere Tendiras
-; trp_kingdom_qohor_lady_3|Taena Tendiras
-; trp_kingdom_qohor_lady_3_pl|Taena Tendiras
-; trp_kingdom_qohor_lady_4|Shiera Tendiras
-; trp_kingdom_qohor_lady_4_pl|Shiera Tendiras
+trp_kingdom_5_lady_38|Walda Frey
+trp_kingdom_5_lady_38_pl|Walda Frey
+trp_kingdom_5_lady_39|Arwyn Frey
+trp_kingdom_5_lady_39_pl|Arwyn Frey
+trp_kingdom_5_lady_40|Shirei Frey
+trp_kingdom_5_lady_40_pl|Shirei Frey
+trp_kingdom_5_lady_41|Tyta Frey
+trp_kingdom_5_lady_41_pl|Tyta Frey
+trp_kingdom_5_lady_42|Jeyne Ríos
+trp_kingdom_5_lady_42_pl|Jeyne Ríos
+trp_kingdom_5_lady_43|Mellara Ríos
+trp_kingdom_5_lady_43_pl|Mellara Ríos
+trp_kingdom_qohor_lady_1|Mellario de Braavos
+trp_kingdom_qohor_lady_1_pl|Mellario de Braavos
+trp_kingdom_qohor_lady_2|Bellegere Tendiras
+trp_kingdom_qohor_lady_2_pl|Bellegere Tendiras
+trp_kingdom_qohor_lady_3|Taena Tendiras
+trp_kingdom_qohor_lady_3_pl|Taena Tendiras
+trp_kingdom_qohor_lady_4|Shiera Tendiras
+trp_kingdom_qohor_lady_4_pl|Shiera Tendiras
 trp_kingdom_6_lady_1|Rayma Yronwood
 trp_kingdom_6_lady_1_pl|Rayma Yronwood
 trp_kingdom_6_lady_2|Aderyn Fowler
@@ -3952,46 +3952,46 @@ trp_kingdom_6_lady_3|Jeyne Fowler
 trp_kingdom_6_lady_3_pl|Jeyne Fowler
 trp_kingdom_6_lady_4|Jennelyn Fowler
 trp_kingdom_6_lady_4_pl|Jennelyn Fowler
-; trp_kingdom_6_lady_5|Gwyneth Yronwood
-; trp_kingdom_6_lady_5_pl|Gwyneth Yronwood
-; trp_kingdom_6_lady_6|Ashara Gargalen
-; trp_kingdom_6_lady_6_pl|Ashara Gargalen
-; trp_kingdom_6_lady_7|Elia Gargalen
-; trp_kingdom_6_lady_7_pl|Elia Gargalen
-; trp_kingdom_6_lady_8|Myriah Gargalen
-; trp_kingdom_6_lady_8_pl|Myriah Gargalen
+trp_kingdom_6_lady_5|Gwyneth Yronwood
+trp_kingdom_6_lady_5_pl|Gwyneth Yronwood
+trp_kingdom_6_lady_6|Ashara Gargalen
+trp_kingdom_6_lady_6_pl|Ashara Gargalen
+trp_kingdom_6_lady_7|Elia Gargalen
+trp_kingdom_6_lady_7_pl|Elia Gargalen
+trp_kingdom_6_lady_8|Myriah Gargalen
+trp_kingdom_6_lady_8_pl|Myriah Gargalen
 trp_kingdom_6_lady_9|Ysilla Qorgyle
 trp_kingdom_6_lady_9_pl|Ysilla Qorgyle
-; trp_kingdom_6_lady_10|Ynys Yronwood
-; trp_kingdom_6_lady_10_pl|Ynys Yronwood
-; trp_kingdom_6_lady_11|Delonne Yronwood
-; trp_kingdom_6_lady_11_pl|Delonne Yronwood
-; trp_kingdom_6_lady_12|Gwyneth Yronwood
-; trp_kingdom_6_lady_12_pl|Gwyneth Yronwood
+trp_kingdom_6_lady_10|Ynys Yronwood
+trp_kingdom_6_lady_10_pl|Ynys Yronwood
+trp_kingdom_6_lady_11|Delonne Yronwood
+trp_kingdom_6_lady_11_pl|Delonne Yronwood
+trp_kingdom_6_lady_12|Gwyneth Yronwood
+trp_kingdom_6_lady_12_pl|Gwyneth Yronwood
 trp_kingdom_6_lady_13|Minisa Dayne
 trp_kingdom_6_lady_13_pl|Minisa Dayne
-; trp_kingdom_6_lady_14|Tyanna Uller
-; trp_kingdom_6_lady_14_pl|Tyanna Uller
-; trp_kingdom_6_lady_15|Jeyne Uller
-; trp_kingdom_6_lady_15_pl|Jeyne Uller
+trp_kingdom_6_lady_14|Tyanna Uller
+trp_kingdom_6_lady_14_pl|Tyanna Uller
+trp_kingdom_6_lady_15|Jeyne Uller
+trp_kingdom_6_lady_15_pl|Jeyne Uller
 trp_kingdom_6_lady_16|Cenerys Uller
 trp_kingdom_6_lady_16_pl|Cenerys Uller
 trp_kingdom_6_lady_17|Safiya Uller
 trp_kingdom_6_lady_17_pl|Safiya Uller
-; trp_kingdom_6_lady_20|Lyanna Elwood
-; trp_kingdom_6_lady_20_pl|Lyanna Elwood
-; trp_kingdom_6_lady_21|Liane Santagar
-; trp_kingdom_6_lady_21_pl|Liane Santagar
-; trp_kingdom_6_lady_22|Loreza Santagar
-; trp_kingdom_6_lady_22_pl|Loreza Santagar
-; trp_kingdom_6_lady_23|Marya Santagar
-; trp_kingdom_6_lady_23_pl|Marya Santagar
+trp_kingdom_6_lady_20|Lyanna Elwood
+trp_kingdom_6_lady_20_pl|Lyanna Elwood
+trp_kingdom_6_lady_21|Liane Santagar
+trp_kingdom_6_lady_21_pl|Liane Santagar
+trp_kingdom_6_lady_22|Loreza Santagar
+trp_kingdom_6_lady_22_pl|Loreza Santagar
+trp_kingdom_6_lady_23|Marya Santagar
+trp_kingdom_6_lady_23_pl|Marya Santagar
 trp_kingdom_6_lady_24|Olwyn Crane
 trp_kingdom_6_lady_24_pl|Olwyn Crane
-; trp_kingdom_6_lady_25|Myriah Wyl
-; trp_kingdom_6_lady_25_pl|Myriah Wyl
-; trp_kingdom_6_lady_26|Daena Massey
-; trp_kingdom_6_lady_26_pl|Daena Massey
+trp_kingdom_6_lady_25|Myriah Wyl
+trp_kingdom_6_lady_25_pl|Myriah Wyl
+trp_kingdom_6_lady_26|Daena Massey
+trp_kingdom_6_lady_26_pl|Daena Massey
 trp_kingdom_6_lady_33|Ellaria Sand
 trp_kingdom_6_lady_33_pl|Ellaria Sand
 trp_kingdom_6_lady_34|Elia Sand
@@ -4002,52 +4002,52 @@ trp_kingdom_8_lady_1|Serana Massey
 trp_kingdom_8_lady_1_pl|Serana Massey
 trp_kingdom_8_lady_2|Daena Velaryon
 trp_kingdom_8_lady_2_pl|Daena Velaryon
-; trp_kingdom_8_lady_3|Naerys Velaryon
-; trp_kingdom_8_lady_3_pl|Naerys Velaryon
+trp_kingdom_8_lady_3|Naerys Velaryon
+trp_kingdom_8_lady_3_pl|Naerys Velaryon
 trp_kingdom_8_lady_8|Leane Frey
 trp_kingdom_8_lady_8_pl|Leane Frey
-; trp_kingdom_8_lady_9|Mina Estermont
-; trp_kingdom_8_lady_9_pl|Mina Estermont
-; trp_kingdom_8_lady_10|Olenna Estermont
-; trp_kingdom_8_lady_10_pl|Olenna Estermont
+trp_kingdom_8_lady_9|Mina Estermont
+trp_kingdom_8_lady_9_pl|Mina Estermont
+trp_kingdom_8_lady_10|Olenna Estermont
+trp_kingdom_8_lady_10_pl|Olenna Estermont
 trp_kingdom_8_lady_14|Marya
 trp_kingdom_8_lady_14_pl|Marya
 trp_kingdom_8_lady_18|Reina Selyse Florent
 trp_kingdom_8_lady_18_pl|Reina Selyse Florent
-; trp_kingdom_8_lady_19|Delaera Velaryon
-; trp_kingdom_8_lady_19_pl|Delaera Velaryon
-; trp_kingdom_8_lady_20|Jaelana Celtigar
-; trp_kingdom_8_lady_20_pl|Jaelana Celtigar
-; trp_kingdom_8_lady_21|Baerys Celtigar
-; trp_kingdom_8_lady_21_pl|Baerys Celtigar
+trp_kingdom_8_lady_19|Delaera Velaryon
+trp_kingdom_8_lady_19_pl|Delaera Velaryon
+trp_kingdom_8_lady_20|Jaelana Celtigar
+trp_kingdom_8_lady_20_pl|Jaelana Celtigar
+trp_kingdom_8_lady_21|Baerys Celtigar
+trp_kingdom_8_lady_21_pl|Baerys Celtigar
 trp_kingdom_9_lady_1|Abby Rosby
 trp_kingdom_9_lady_1_pl|Abby Rosby
-; trp_kingdom_9_lady_2|Alysanne Rykker
-; trp_kingdom_9_lady_2_pl|Alysanne Rykker
+trp_kingdom_9_lady_2|Alysanne Rykker
+trp_kingdom_9_lady_2_pl|Alysanne Rykker
 trp_kingdom_9_lady_3|Alyse Rosby
 trp_kingdom_9_lady_3_pl|Alyse Rosby
-; trp_kingdom_9_lady_4|Senelle Crakehall
-; trp_kingdom_9_lady_4_pl|Senelle Crakehall
+trp_kingdom_9_lady_4|Senelle Crakehall
+trp_kingdom_9_lady_4_pl|Senelle Crakehall
 trp_kingdom_9_lady_5|Ellen Crakehall
 trp_kingdom_9_lady_5_pl|Ellen Crakehall
-; trp_kingdom_9_lady_6|Tysanne Lefford
-; trp_kingdom_9_lady_6_pl|Tysanne Lefford
+trp_kingdom_9_lady_6|Tysanne Lefford
+trp_kingdom_9_lady_6_pl|Tysanne Lefford
 trp_kingdom_9_lady_7|Dorna Swyft
 trp_kingdom_9_lady_7_pl|Dorna Swyft
 trp_kingdom_9_lady_8|Rosamund Kenning
 trp_kingdom_9_lady_8_pl|Rosamund Kenning
-; trp_kingdom_9_lady_9|Walda Brax
-; trp_kingdom_9_lady_9_pl|Walda Brax
+trp_kingdom_9_lady_9|Walda Brax
+trp_kingdom_9_lady_9_pl|Walda Brax
 trp_kingdom_9_lady_10|Gemma Brax
 trp_kingdom_9_lady_10_pl|Gemma Brax
-; trp_kingdom_9_lady_11|Leona Stackspear
-; trp_kingdom_9_lady_11_pl|Leona Stackspear
-; trp_kingdom_9_lady_12|Lyessa Lefford
-; trp_kingdom_9_lady_12_pl|Lyessa Lefford
+trp_kingdom_9_lady_11|Leona Stackspear
+trp_kingdom_9_lady_11_pl|Leona Stackspear
+trp_kingdom_9_lady_12|Lyessa Lefford
+trp_kingdom_9_lady_12_pl|Lyessa Lefford
 trp_kingdom_9_lady_13|Selyse Lefford
 trp_kingdom_9_lady_13_pl|Selyse Lefford
-; trp_kingdom_9_lady_14|Marya Lefford
-; trp_kingdom_9_lady_14_pl|Marya Lefford
+trp_kingdom_9_lady_14|Marya Lefford
+trp_kingdom_9_lady_14_pl|Marya Lefford
 trp_kingdom_9_lady_15|Sybell Spicer
 trp_kingdom_9_lady_15_pl|Sybell Spicer
 trp_kingdom_9_lady_16|Meredyth Westerling
@@ -4058,16 +4058,16 @@ trp_kingdom_9_lady_18|Mylenda Westerling
 trp_kingdom_9_lady_18_pl|Mylenda Westerling
 trp_kingdom_9_lady_19|Sybell Buckwell
 trp_kingdom_9_lady_19_pl|Sybell Buckwell
-; trp_kingdom_9_lady_20|Joanna Kenning
-; trp_kingdom_9_lady_20_pl|Joanna Kenning
-; trp_kingdom_9_lady_21|Tyanna Serrett
-; trp_kingdom_9_lady_21_pl|Tyanna Serrett
+trp_kingdom_9_lady_20|Joanna Kenning
+trp_kingdom_9_lady_20_pl|Joanna Kenning
+trp_kingdom_9_lady_21|Tyanna Serrett
+trp_kingdom_9_lady_21_pl|Tyanna Serrett
 trp_kingdom_9_lady_22|Lyenne Serrett
 trp_kingdom_9_lady_22_pl|Lyenne Serrett
 trp_kingdom_9_lady_23|Joy Buckwell
 trp_kingdom_9_lady_23_pl|Joy Buckwell
-; trp_kingdom_9_lady_24|Shiera Plumm
-; trp_kingdom_9_lady_24_pl|Shiera Plumm
+trp_kingdom_9_lady_24|Shiera Plumm
+trp_kingdom_9_lady_24_pl|Shiera Plumm
 trp_kingdom_9_lady_25|Elayne Plumm
 trp_kingdom_9_lady_25_pl|Elayne Plumm
 trp_kingdom_9_lady_26|Elinor Plumm
@@ -4078,8 +4078,8 @@ trp_kingdom_9_lady_28|Jorelle Farman
 trp_kingdom_9_lady_28_pl|Jorelle Farman
 trp_kingdom_9_lady_29|Jyanna Stackspear
 trp_kingdom_9_lady_29_pl|Jyanna Stackspear
-; trp_kingdom_9_lady_30|Shiera Stackspear
-; trp_kingdom_9_lady_30_pl|Shiera Stackspear
+trp_kingdom_9_lady_30|Shiera Stackspear
+trp_kingdom_9_lady_30_pl|Shiera Stackspear
 trp_kingdom_9_lady_31|Elayne Westerling
 trp_kingdom_9_lady_31_pl|Elayne Westerling
 trp_kingdom_9_lady_32|Alayne Ruttiger
@@ -4088,40 +4088,40 @@ trp_kingdom_9_lady_33|Mya Ruttiger
 trp_kingdom_9_lady_33_pl|Mya Ruttiger
 trp_kingdom_9_lady_34|Jeyne Jast
 trp_kingdom_9_lady_34_pl|Jeyne Jast
-; trp_kingdom_9_lady_35|Leona Greenfield
-; trp_kingdom_9_lady_35_pl|Leona Greenfield
+trp_kingdom_9_lady_35|Leona Greenfield
+trp_kingdom_9_lady_35_pl|Leona Greenfield
 trp_kingdom_9_lady_36|Norene Greenfield
 trp_kingdom_9_lady_36_pl|Norene Greenfield
-; trp_kingdom_9_lady_37|Janei Lannister
-; trp_kingdom_9_lady_37_pl|Janei Lannister
-; trp_kingdom_9_lady_38|Jeyne Broom
-; trp_kingdom_9_lady_38_pl|Jeyne Broom
-; trp_kingdom_9_lady_39|Cerenna Lannister
-; trp_kingdom_9_lady_39_pl|Cerenna Lannister
-; trp_kingdom_9_lady_40|Myrielle Lannister
-; trp_kingdom_9_lady_40_pl|Myrielle Lannister
-; trp_kingdom_9_lady_41|Falyse Stokeworth
-; trp_kingdom_9_lady_41_pl|Falyse Stokeworth
+trp_kingdom_9_lady_37|Janei Lannister
+trp_kingdom_9_lady_37_pl|Janei Lannister
+trp_kingdom_9_lady_38|Jeyne Broom
+trp_kingdom_9_lady_38_pl|Jeyne Broom
+trp_kingdom_9_lady_39|Cerenna Lannister
+trp_kingdom_9_lady_39_pl|Cerenna Lannister
+trp_kingdom_9_lady_40|Myrielle Lannister
+trp_kingdom_9_lady_40_pl|Myrielle Lannister
+trp_kingdom_9_lady_41|Falyse Stokeworth
+trp_kingdom_9_lady_41_pl|Falyse Stokeworth
 trp_kingdom_10_lady_1|Mya Redwyne
 trp_kingdom_10_lady_1_pl|Mya Redwyne
 trp_kingdom_10_lady_2|Desmera Redwyne
 trp_kingdom_10_lady_2_pl|Desmera Redwyne
 trp_kingdom_10_lady_3|Ellyn Jast
 trp_kingdom_10_lady_3_pl|Ellyn Jast
-; trp_kingdom_10_lady_4|Darlessa Cuy
-; trp_kingdom_10_lady_4_pl|Darlessa Cuy
+trp_kingdom_10_lady_4|Darlessa Cuy
+trp_kingdom_10_lady_4_pl|Darlessa Cuy
 trp_kingdom_10_lady_5|Bethany Redwyne
 trp_kingdom_10_lady_5_pl|Bethany Redwyne
 trp_kingdom_10_lady_6|Mina Rowan
 trp_kingdom_10_lady_6_pl|Mina Rowan
-; trp_kingdom_10_lady_7|Alerie Hightower
-; trp_kingdom_10_lady_7_pl|Alerie Hightower
-; trp_kingdom_10_lady_8|Denyse Hightower
-; trp_kingdom_10_lady_8_pl|Denyse Hightower
+trp_kingdom_10_lady_7|Alerie Hightower
+trp_kingdom_10_lady_7_pl|Alerie Hightower
+trp_kingdom_10_lady_8|Denyse Hightower
+trp_kingdom_10_lady_8_pl|Denyse Hightower
 trp_kingdom_10_lady_9|Dalla Rowan
 trp_kingdom_10_lady_9_pl|Dalla Rowan
-; trp_kingdom_10_lady_10|Rhea Mullendore
-; trp_kingdom_10_lady_10_pl|Rhea Mullendore
+trp_kingdom_10_lady_10|Rhea Mullendore
+trp_kingdom_10_lady_10_pl|Rhea Mullendore
 trp_kingdom_10_lady_11|Jeyne Mullendore
 trp_kingdom_10_lady_11_pl|Jeyne Mullendore
 trp_kingdom_10_lady_12|Melessa Florent
@@ -4130,8 +4130,8 @@ trp_kingdom_10_lady_13|Talla Tarly
 trp_kingdom_10_lady_13_pl|Talla Tarly
 trp_kingdom_10_lady_14|Shireen Fossoway
 trp_kingdom_10_lady_14_pl|Shireen Fossoway
-; trp_kingdom_10_lady_15|Alerie Fossoway
-; trp_kingdom_10_lady_15_pl|Alerie Fossoway
+trp_kingdom_10_lady_15|Alerie Fossoway
+trp_kingdom_10_lady_15_pl|Alerie Fossoway
 trp_kingdom_10_lady_16|Brienne Fell
 trp_kingdom_10_lady_16_pl|Brienne Fell
 trp_kingdom_10_lady_17|Taena de Myr
@@ -4174,156 +4174,156 @@ trp_kingdom_11_lady_5|Ella Drumm
 trp_kingdom_11_lady_5_pl|Ella Drumm
 trp_kingdom_11_lady_6|Tarya Blacktyde
 trp_kingdom_11_lady_6_pl|Tarya Blacktyde
-; trp_kingdom_11_lady_7|Lysa Botley
-; trp_kingdom_11_lady_7_pl|Lysa Botley
+trp_kingdom_11_lady_7|Lysa Botley
+trp_kingdom_11_lady_7_pl|Lysa Botley
 trp_kingdom_11_lady_8|Harra Botley
 trp_kingdom_11_lady_8_pl|Harra Botley
 trp_kingdom_11_lady_9|Hostella Botley
 trp_kingdom_11_lady_9_pl|Hostella Botley
-; trp_kingdom_11_lady_10|Joelle Sparr
-; trp_kingdom_11_lady_10_pl|Joelle Sparr
-; trp_kingdom_11_lady_11|Alysanne Goodbrother
-; trp_kingdom_11_lady_11_pl|Alysanne Goodbrother
-; trp_kingdom_11_lady_12|Jeyne Goodbrother
-; trp_kingdom_11_lady_12_pl|Jeyne Goodbrother
-; trp_kingdom_11_lady_13|Sarya Volmark
-; trp_kingdom_11_lady_13_pl|Sarya Volmark
-; trp_kingdom_11_lady_14|Morissa Wynch
-; trp_kingdom_11_lady_14_pl|Morissa Wynch
-; trp_kingdom_11_lady_15|Gwynesse Wynch
-; trp_kingdom_11_lady_15_pl|Gwynesse Wynch
-; trp_kingdom_12_lady_1|Tyanna of Norvos
-; trp_kingdom_12_lady_1_pl|Tyanna of Norvos
-; trp_kingdom_12_lady_2|Laena Estatis
-; trp_kingdom_12_lady_2_pl|Laena Estatis
-; trp_kingdom_12_lady_3|Rhaena Estatis
-; trp_kingdom_12_lady_3_pl|Rhaena Estatis
-; trp_kingdom_12_lady_4|Jeyne of Oldtown
-; trp_kingdom_12_lady_4_pl|Jeyne of Oldtown
-; trp_kingdom_12_lady_5|Serra Sontho
-; trp_kingdom_12_lady_5_pl|Serra Sontho
-; trp_kingdom_12_lady_6|Talisa Sontho
-; trp_kingdom_12_lady_6_pl|Talisa Sontho
-; trp_kingdom_12_lady_7|Shiera Sontho
-; trp_kingdom_12_lady_7_pl|Shiera Sontho
-; trp_kingdom_12_lady_8|Trianna Sontho
-; trp_kingdom_12_lady_8_pl|Trianna Sontho
-; trp_kingdom_12_lady_9|Lerra Sontho
-; trp_kingdom_12_lady_9_pl|Lerra Sontho
-; trp_kingdom_12_lady_10|Marinna Sontho
-; trp_kingdom_12_lady_10_pl|Marinna Sontho
-; trp_kingdom_13_lady_1|Bellegere Maegyr
-; trp_kingdom_13_lady_1_pl|Bellegere Maegyr
-; trp_kingdom_13_lady_2|Serelle Staegone
-; trp_kingdom_13_lady_2_pl|Serelle Staegone
-; trp_kingdom_13_lady_3|Sarella Maegyr
-; trp_kingdom_13_lady_3_pl|Sarella Maegyr
-; trp_kingdom_13_lady_4|Siana Qhaedarene
-; trp_kingdom_13_lady_4_pl|Siana Qhaedarene
-; trp_kingdom_13_lady_5|Sarya Qhaedarene
-; trp_kingdom_13_lady_5_pl|Sarya Qhaedarene
-; trp_kingdom_13_lady_6|Mellario of Qohor
-; trp_kingdom_13_lady_6_pl|Mellario of Qohor
-; trp_kingdom_13_lady_7|Lyria Ryndoon
-; trp_kingdom_13_lady_7_pl|Lyria Ryndoon
-; trp_kingdom_13_lady_8|Tyanna Ryndoon
-; trp_kingdom_13_lady_8_pl|Tyanna Ryndoon
-; trp_kingdom_13_lady_9|Alya Ryndoon
-; trp_kingdom_13_lady_9_pl|Alya Ryndoon
-; trp_kingdom_13_lady_10|Lyessa Ryndoon
-; trp_kingdom_13_lady_10_pl|Lyessa Ryndoon
-; trp_kingdom_14_lady_1|Belaria of Norvos
-; trp_kingdom_14_lady_1_pl|Belaria of Norvos
+trp_kingdom_11_lady_10|Joelle Sparr
+trp_kingdom_11_lady_10_pl|Joelle Sparr
+trp_kingdom_11_lady_11|Alysanne Goodbrother
+trp_kingdom_11_lady_11_pl|Alysanne Goodbrother
+trp_kingdom_11_lady_12|Jeyne Goodbrother
+trp_kingdom_11_lady_12_pl|Jeyne Goodbrother
+trp_kingdom_11_lady_13|Sarya Volmark
+trp_kingdom_11_lady_13_pl|Sarya Volmark
+trp_kingdom_11_lady_14|Morissa Wynch
+trp_kingdom_11_lady_14_pl|Morissa Wynch
+trp_kingdom_11_lady_15|Gwynesse Wynch
+trp_kingdom_11_lady_15_pl|Gwynesse Wynch
+trp_kingdom_12_lady_1|Tyanna de Norvos
+trp_kingdom_12_lady_1_pl|Tyanna de Norvos
+trp_kingdom_12_lady_2|Laena Estatis
+trp_kingdom_12_lady_2_pl|Laena Estatis
+trp_kingdom_12_lady_3|Rhaena Estatis
+trp_kingdom_12_lady_3_pl|Rhaena Estatis
+trp_kingdom_12_lady_4|Jeyne de Antigua
+trp_kingdom_12_lady_4_pl|Jeyne de Antigua
+trp_kingdom_12_lady_5|Serra Sontho
+trp_kingdom_12_lady_5_pl|Serra Sontho
+trp_kingdom_12_lady_6|Talisa Sontho
+trp_kingdom_12_lady_6_pl|Talisa Sontho
+trp_kingdom_12_lady_7|Shiera Sontho
+trp_kingdom_12_lady_7_pl|Shiera Sontho
+trp_kingdom_12_lady_8|Trianna Sontho
+trp_kingdom_12_lady_8_pl|Trianna Sontho
+trp_kingdom_12_lady_9|Lerra Sontho
+trp_kingdom_12_lady_9_pl|Lerra Sontho
+trp_kingdom_12_lady_10|Marinna Sontho
+trp_kingdom_12_lady_10_pl|Marinna Sontho
+trp_kingdom_13_lady_1|Bellegere Maegyr
+trp_kingdom_13_lady_1_pl|Bellegere Maegyr
+trp_kingdom_13_lady_2|Serelle Staegone
+trp_kingdom_13_lady_2_pl|Serelle Staegone
+trp_kingdom_13_lady_3|Sarella Maegyr
+trp_kingdom_13_lady_3_pl|Sarella Maegyr
+trp_kingdom_13_lady_4|Siana Qhaedarene
+trp_kingdom_13_lady_4_pl|Siana Qhaedarene
+trp_kingdom_13_lady_5|Sarya Qhaedarene
+trp_kingdom_13_lady_5_pl|Sarya Qhaedarene
+trp_kingdom_13_lady_6|Mellario de Qohor
+trp_kingdom_13_lady_6_pl|Mellario de Qohor
+trp_kingdom_13_lady_7|Lyria Ryndoon
+trp_kingdom_13_lady_7_pl|Lyria Ryndoon
+trp_kingdom_13_lady_8|Tyanna Ryndoon
+trp_kingdom_13_lady_8_pl|Tyanna Ryndoon
+trp_kingdom_13_lady_9|Alya Ryndoon
+trp_kingdom_13_lady_9_pl|Alya Ryndoon
+trp_kingdom_13_lady_10|Lyessa Ryndoon
+trp_kingdom_13_lady_10_pl|Lyessa Ryndoon
+trp_kingdom_14_lady_1|Belaria de Norvos
+trp_kingdom_14_lady_1_pl|Belaria de Norvos
 trp_kingdom_14_lady_2|Shyma Vaelaros
 trp_kingdom_14_lady_2_pl|Shyma Vaelaros
 trp_kingdom_14_lady_3|Lymeria Star-Gaze
 trp_kingdom_14_lady_3_pl|Lymeria Star-Gaze
-; trp_kingdom_14_lady_4|Aelia Drahar
-; trp_kingdom_14_lady_4_pl|Aelia Drahar
-; trp_kingdom_14_lady_5|Aelie Drahar
-; trp_kingdom_14_lady_5_pl|Aelie Drahar
-; trp_kingdom_14_lady_6|Tyanna Drahar
-; trp_kingdom_14_lady_6_pl|Tyanna Drahar
-; trp_kingdom_14_lady_7|Seraria of Pentos
-; trp_kingdom_14_lady_7_pl|Seraria of Pentos
-; trp_kingdom_14_lady_8|Voleria Alayris
-; trp_kingdom_14_lady_8_pl|Voleria Alayris
+trp_kingdom_14_lady_4|Aelia Drahar
+trp_kingdom_14_lady_4_pl|Aelia Drahar
+trp_kingdom_14_lady_5|Aelie Drahar
+trp_kingdom_14_lady_5_pl|Aelie Drahar
+trp_kingdom_14_lady_6|Tyanna Drahar
+trp_kingdom_14_lady_6_pl|Tyanna Drahar
+trp_kingdom_14_lady_7|Seraria de Pentos
+trp_kingdom_14_lady_7_pl|Seraria de Pentos
+trp_kingdom_14_lady_8|Voleria Alayris
+trp_kingdom_14_lady_8_pl|Voleria Alayris
 trp_kingdom_14_lady_9|Doreana Alayris
 trp_kingdom_14_lady_9_pl|Doreana Alayris
-; trp_kingdom_15_lady_1|Galazza of Yunkai
-; trp_kingdom_15_lady_1_pl|Galazza of Yunkai
-; trp_kingdom_15_lady_2|Serelle Lohar
-; trp_kingdom_15_lady_2_pl|Serelle Lohar
-; trp_kingdom_15_lady_3|Lyria Lohar
-; trp_kingdom_15_lady_3_pl|Lyria Lohar
-; trp_kingdom_15_lady_4|Melessa of Yunkai
-; trp_kingdom_15_lady_4_pl|Melessa of Yunkai
+trp_kingdom_15_lady_1|Galazza de Yunkai
+trp_kingdom_15_lady_1_pl|Galazza de Yunkai
+trp_kingdom_15_lady_2|Serelle Lohar
+trp_kingdom_15_lady_2_pl|Serelle Lohar
+trp_kingdom_15_lady_3|Lyria Lohar
+trp_kingdom_15_lady_3_pl|Lyria Lohar
+trp_kingdom_15_lady_4|Melessa de Yunkai
+trp_kingdom_15_lady_4_pl|Melessa de Yunkai
 trp_kingdom_15_lady_5|Sera Pasnak
 trp_kingdom_15_lady_5_pl|Sera Pasnak
 trp_kingdom_15_lady_6|Saleria Pasnak
 trp_kingdom_15_lady_6_pl|Saleria Pasnak
 trp_kingdom_15_lady_7|Rhylla Pasnak
 trp_kingdom_15_lady_7_pl|Rhylla Pasnak
-; trp_kingdom_15_lady_8|Naerys Pasnak
-; trp_kingdom_15_lady_8_pl|Naerys Pasnak
-; trp_kingdom_15_lady_9|Daenys Pasnak
-; trp_kingdom_15_lady_9_pl|Daenys Pasnak
-; trp_kingdom_15_lady_10|Jyanna Olasos
-; trp_kingdom_15_lady_10_pl|Jyanna Olasos
+trp_kingdom_15_lady_8|Naerys Pasnak
+trp_kingdom_15_lady_8_pl|Naerys Pasnak
+trp_kingdom_15_lady_9|Daenys Pasnak
+trp_kingdom_15_lady_9_pl|Daenys Pasnak
+trp_kingdom_15_lady_10|Jyanna Olasos
+trp_kingdom_15_lady_10_pl|Jyanna Olasos
 trp_kingdom_15_lady_11|Ylleria Isalios
 trp_kingdom_15_lady_11_pl|Ylleria Isalios
-; trp_kingdom_15_lady_12|Shiera Isalios
-; trp_kingdom_15_lady_12_pl|Shiera Isalios
-; trp_kingdom_15_lady_13|Tyronna Isalios
-; trp_kingdom_15_lady_13_pl|Tyronna Isalios
-; trp_kingdom_16_lady_1|Daenys of Pentos
-; trp_kingdom_16_lady_1_pl|Daenys of Pentos
-; trp_kingdom_16_lady_2|Healena Vhassar
-; trp_kingdom_16_lady_2_pl|Healena Vhassar
-; trp_kingdom_16_lady_3|Saria Vhassar
-; trp_kingdom_16_lady_3_pl|Saria Vhassar
-; trp_kingdom_16_lady_4|Talisa of Lys
-; trp_kingdom_16_lady_4_pl|Talisa of Lys
-; trp_kingdom_16_lady_5|Trianna Paenymion
-; trp_kingdom_16_lady_5_pl|Trianna Paenymion
-; trp_kingdom_16_lady_6|Vorenna Paenymion
-; trp_kingdom_16_lady_6_pl|Vorenna Paenymion
+trp_kingdom_15_lady_12|Shiera Isalios
+trp_kingdom_15_lady_12_pl|Shiera Isalios
+trp_kingdom_15_lady_13|Tyronna Isalios
+trp_kingdom_15_lady_13_pl|Tyronna Isalios
+trp_kingdom_16_lady_1|Daenys de Pentos
+trp_kingdom_16_lady_1_pl|Daenys de Pentos
+trp_kingdom_16_lady_2|Healena Vhassar
+trp_kingdom_16_lady_2_pl|Healena Vhassar
+trp_kingdom_16_lady_3|Saria Vhassar
+trp_kingdom_16_lady_3_pl|Saria Vhassar
+trp_kingdom_16_lady_4|Talisa de Lys
+trp_kingdom_16_lady_4_pl|Talisa de Lys
+trp_kingdom_16_lady_5|Trianna Paenymion
+trp_kingdom_16_lady_5_pl|Trianna Paenymion
+trp_kingdom_16_lady_6|Vorenna Paenymion
+trp_kingdom_16_lady_6_pl|Vorenna Paenymion
 trp_kingdom_16_lady_7|Alya de Sarnor
 trp_kingdom_16_lady_7_pl|Alya de Sarnor
-; trp_kingdom_16_lady_8|Melessa Melane
-; trp_kingdom_16_lady_8_pl|Melessa Melane
+trp_kingdom_16_lady_8|Melessa Melane
+trp_kingdom_16_lady_8_pl|Melessa Melane
 trp_kingdom_16_lady_9|Trianna Melane
 trp_kingdom_16_lady_9_pl|Trianna Melane
-; trp_kingdom_17_lady_1|Xarina of Qarth
-; trp_kingdom_17_lady_1_pl|Xarina of Qarth
-; trp_kingdom_17_lady_2|Valaena Tavellen
-; trp_kingdom_17_lady_2_pl|Valaena Tavellen
+trp_kingdom_17_lady_1|Xarina de Qarth
+trp_kingdom_17_lady_1_pl|Xarina de Qarth
+trp_kingdom_17_lady_2|Valaena Tavellen
+trp_kingdom_17_lady_2_pl|Valaena Tavellen
 trp_kingdom_17_lady_3|Rayma de las Colinas
 trp_kingdom_17_lady_3_pl|Rayma de las Colinas
-; trp_kingdom_17_lady_4|Tyanna Melas
-; trp_kingdom_17_lady_4_pl|Tyanna Melas
+trp_kingdom_17_lady_4|Tyanna Melas
+trp_kingdom_17_lady_4_pl|Tyanna Melas
 trp_kingdom_17_lady_5|Belia Melas
 trp_kingdom_17_lady_5_pl|Belia Melas
-; trp_kingdom_17_lady_6|Trianna Melas
-; trp_kingdom_17_lady_6_pl|Trianna Melas
-; trp_kingdom_17_lady_7|Betharios Melas
-; trp_kingdom_17_lady_7_pl|Betharios Melas
-; trp_kingdom_17_lady_8|Bellegere Melas
-; trp_kingdom_17_lady_8_pl|Bellegere Melas
+trp_kingdom_17_lady_6|Trianna Melas
+trp_kingdom_17_lady_6_pl|Trianna Melas
+trp_kingdom_17_lady_7|Betharios Melas
+trp_kingdom_17_lady_7_pl|Betharios Melas
+trp_kingdom_17_lady_8|Bellegere Melas
+trp_kingdom_17_lady_8_pl|Bellegere Melas
 trp_kingdom_17_lady_9|Mellario Melas
 trp_kingdom_17_lady_9_pl|Mellario Melas
-; trp_kingdom_17_lady_10|Pannya Melas
-; trp_kingdom_17_lady_10_pl|Pannya Melas
+trp_kingdom_17_lady_10|Pannya Melas
+trp_kingdom_17_lady_10_pl|Pannya Melas
 trp_kingdom_17_lady_11|Haeria Melas
 trp_kingdom_17_lady_11_pl|Haeria Melas
-; trp_kingdom_17_lady_12|Naenys Melas
-; trp_kingdom_17_lady_12_pl|Naenys Melas
-; trp_kingdom_17_lady_13|Umma the Bald
-; trp_kingdom_17_lady_13_pl|Umma the Bald
-; trp_kingdom_18_lady_1|Mellario of Myr
-; trp_kingdom_18_lady_1_pl|Mellario of Myr
-; trp_kingdom_18_lady_2|Doreah Terys
-; trp_kingdom_18_lady_2_pl|Doreah Terys
+trp_kingdom_17_lady_12|Naenys Melas
+trp_kingdom_17_lady_12_pl|Naenys Melas
+trp_kingdom_17_lady_13|Umma la Calva
+trp_kingdom_17_lady_13_pl|Umma la Calva
+trp_kingdom_18_lady_1|Mellario de Myr
+trp_kingdom_18_lady_1_pl|Mellario de Myr
+trp_kingdom_18_lady_2|Doreah Terys
+trp_kingdom_18_lady_2_pl|Doreah Terys
 trp_kingdom_19_lady_1|Iseult Blacktyde
 trp_kingdom_19_lady_1_pl|Iseult Blacktyde
 trp_kingdom_19_lady_2|Gisella Tollett
@@ -4758,7 +4758,7 @@ trp_town_40_mayor|Maestro del Gremio Elmo
 trp_town_41_mayor|Maestro del Gremio Cindar
 trp_town_42_mayor|Maestro del Gremio Podrick el Loco
 trp_town_44_mayor|Maestro del Gremio Mago el Dothraki
-; trp_town_45_mayor|Guild Master Alequo
+trp_town_45_mayor|Maestro del Gremio Alequo
 trp_town_46_mayor|Maestro del Gremio Toho
 trp_town_47_mayor|Maestro del Gremio Voa el Bello
 trp_town_48_mayor|Maestro del Gremio Maegin el Exiliado
@@ -4972,7 +4972,7 @@ trp_village_204_elder|Anciano de la aldea
 trp_village_205_elder|Anciano de la aldea
 trp_village_206_elder|Anciano de la aldea
 trp_village_207_elder|Anciano de la aldea
-; trp_village_208_elder|Village Elder
+trp_village_208_elder|Anciano de la aldea
 trp_merchants_end|fin de mercaderes
 trp_merchants_end_pl|fin de mercaderes
 trp_local_merchant|Mercader local
@@ -4997,8 +4997,8 @@ trp_nurse_for_lady|Doncella
 trp_nurse_for_lady_pl|Doncellas
 trp_temporary_minister|Ministro
 trp_temporary_minister_pl|Ministros
-; trp_runaway_girl|Bride-to-be
-; trp_runaway_girl_pl|Bride-to-be
+trp_runaway_girl|Prometida
+trp_runaway_girl_pl|Prometida
 trp_tough|Ciudad Resistente
 trp_tough_pl|Ciudades resistentes
 trp_tough2|Ciudad resistente
@@ -5165,18 +5165,18 @@ trp_slave_sarranid|Sarranid Slave
 trp_slave_sarranid_pl|Sarranid Slaves
 trp_skill_hunter|Cazador
 trp_skill_hunter_pl|Cazadores
-; trp_skill_scout|Scout
-; trp_skill_scout_pl|Scout
-; trp_skill_surgeon|Barber
-; trp_skill_surgeon_pl|Barber
+trp_skill_scout|Explorador
+trp_skill_scout_pl|Explorador
+trp_skill_surgeon|Barbero
+trp_skill_surgeon_pl|Barbero
 trp_skill_monk|Hermano mendicante
 trp_skill_monk_pl|Hermanos mendicantes
-; trp_skill_merchant|Merchant
-; trp_skill_merchant_pl|Merchant
-; trp_skill_priest|Maester
-; trp_skill_priest_pl|Maester
-; trp_skill_bishop|Septon
-; trp_skill_bishop_pl|Septon
+trp_skill_merchant|Mercader
+trp_skill_merchant_pl|Mercader
+trp_skill_priest|Maestre
+trp_skill_priest_pl|Maestre
+trp_skill_bishop|Septón
+trp_skill_bishop_pl|Septón
 trp_skill_end|fin
 trp_skill_end_pl|fin
 trp_sea_captain|Capitán pirata

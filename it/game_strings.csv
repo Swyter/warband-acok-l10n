@@ -427,16 +427,16 @@ str_npc22_intro|Cosa state guardando? Mi lasciate soffrire da solo!
 str_npc23_intro|Benvenuto, straniero. Benvunuto alla taverna! Ora pensa solo a ubriacarti,heh!
 str_npc24_intro|Eh, che cosa?
 str_npc25_intro|La carne è cosi bella, così bella da strappare, la pelle da lacerare, tagliarla a striscie, intrecciarla, sono così belle da intrecciare le strisce, così belle, così rosse le gocce che cadono...
-; str_npc26_intro|What do you want?
+str_npc26_intro|Che cosa volete?
 ; str_npc27_intro|Just a minute, I'm pondering the mysteries of life!
 ; str_npc28_intro|Greetings, traveller. Have a drink on me.
 ; str_npc29_intro|Greeting, traveller. Sit down, listen to my story.
 ; str_npc30_intro|Hello there, traveller. Have a seat.
 ; str_npc31_intro|May the Maiden watch over you, traveller.
 ; str_npc32_intro|Gelti aohe nadinas. Skoroso jemele broza?
-; str_npc33_intro|...Yes?...
-; str_npc34_intro|What? What do you want, eh?
-; str_npc35_intro|Yes?
+str_npc33_intro|...Sì?...
+str_npc34_intro|Cosa? Che cosa volete, eh?
+str_npc35_intro|Sì?
 ; str_npc1_intro_response_1|Well met, Ser Bennis. What is an anointed knight doing in a filthy tavern such as this?
 str_npc2_intro_response_1|Cosa vi è successo?
 str_npc3_intro_response_1|Buona giornata.
@@ -463,15 +463,15 @@ str_npc23_intro_response_1|Grazie, mia signora. Mi puoi dire qualcosa di te?
 str_npc24_intro_response_1|Niente, davvero. Chi sei?
 str_npc25_intro_response_1|Come stai?
 str_npc26_intro_response_1|Chi sei?
-; str_npc27_intro_response_1|Eh, what?
+str_npc27_intro_response_1|Eh, cosa?
 ; str_npc28_intro_response_1|Thank you. May I know who I am drinking with?
-; str_npc29_intro_response_1|Very well.
-; str_npc30_intro_response_1|Who are you?
-; str_npc31_intro_response_1|Thank you, stranger. Who are you?
-; str_npc32_intro_response_1|Excuse me?
-; str_npc33_intro_response_1|Excuse me, stranger, who are you?
-; str_npc34_intro_response_1|Who are you?
-; str_npc35_intro_response_1|Who are you?
+str_npc29_intro_response_1|Molto bene.
+str_npc30_intro_response_1|Chi siete?
+str_npc31_intro_response_1|grazie, straniero, Chi siete?
+str_npc32_intro_response_1|Mi scusi?
+str_npc33_intro_response_1|Perdonatemi, straniero, chi siete?
+str_npc34_intro_response_1|Chi siete?
+str_npc35_intro_response_1|Chi siete?
 str_npc1_intro_response_2|Vi auguro una buona giornata, Ser.
 str_npc2_intro_response_2|Ho cose migliori da fare.
 str_npc3_intro_response_2|Andate via, ragazzo. Ho da fare.
@@ -496,17 +496,17 @@ str_npc21_intro_response_2|Immagino infatti dovreste pregarlo lo straniero, vist
 str_npc22_intro_response_2|Mi dispiace, non ti disturberò ancora.
 str_npc23_intro_response_2|Penso che siate solo un ubriacone.
 str_npc24_intro_response_2|Non importa.
-; str_npc25_intro_response_2|Right...
-; str_npc26_intro_response_2|Nothing.
+str_npc25_intro_response_2|Giusto...
+str_npc26_intro_response_2|Nulla.
 ; str_npc27_intro_response_2|Nevermind then.
-; str_npc28_intro_response_2|No thank you.
-; str_npc29_intro_response_2|No.
+str_npc28_intro_response_2|No grazie.
+str_npc29_intro_response_2|No.
 ; str_npc30_intro_response_2|I'd rather not.
-; str_npc31_intro_response_2|Right...
-; str_npc32_intro_response_2|Goodbye.
-; str_npc33_intro_response_2|Nevermind.
-; str_npc34_intro_response_2|Nevermind.
-; str_npc35_intro_response_2|Nevermind.
+str_npc31_intro_response_2|Giusto...
+str_npc32_intro_response_2|Arrivederci.
+str_npc33_intro_response_2|Non importa.
+str_npc34_intro_response_2|Non importa.
+str_npc35_intro_response_2|Non importa.
 str_npc1_backstory_a|Beh, è una lunga storia...
 str_npc2_backstory_a|È una storia tragica, signore.
 ; str_npc3_backstory_a|You look like a man of war, do you by any chance need a young squire?
@@ -584,7 +584,7 @@ str_npc3_backstory_c|Posso prendemi cura del vostro cavallo, tenere pulita la vo
 ; str_npc5_backstory_c|Things continued much as they had once lady Lysa returned, though I confess I would have liked to beat that son of hers. A weak coward if I ever saw one, which is not what lord Jon deserved. Anyway, recently a singer joined the household, a petty and sallow creature called Marillion. Sadly, however, the lady Lysa is very fond of him. When he tried to rape my maiden daughter, I beat him bloody with my own fists. And for that lady Lysa banished me! Not the singer, me! I had no choice but to send my family to live with my lord father in the Reach, and hit the road in search of work.
 ; str_npc6_backstory_c|I am an able fighter, though nothing out of the extraordinary, but I do find myself better than most men with a bow and arrow. I am also a seasoned scout, having ridden with the outriders of the Stormcrows for some time.
 ; str_npc7_backstory_c|I have served as a sworn sword to lord Royce Coldwater, of Coldwater, and lord Damon Marbrand, the Lord of Ashemark. I served under his son Ser Addam Marbrand in the field, though we did not see much action. I have distinguised myself in tourneys, but since the outbreak of war, my loyalties have been called into question, my father being a trueborn son of lord Walder, and I was honorably discharged. So, as you can see, I am no mere hedge knight.
-; str_npc8_backstory_c|...
+str_npc8_backstory_c|...
 ; str_npc9_backstory_c|But my father did not care, and had me banished from his household. I imagine he'd thought I'd leave meekly, hah! I killed my father that day, thrusting my dagger through his windpipe! Then I fleed. The Westerosi claims that no one is as cursed as the kinslayer. I'm inclined to agree. My stepmother has sent men to bring me back to a grizzly fate.
 ; str_npc10_backstory_c|Perhaps we should play a game of cyvasse one day.
 ; str_npc11_backstory_c|Truth be told, I don't think my winnings will last that much longer, whores are expensive!
@@ -602,7 +602,7 @@ str_npc3_backstory_c|Posso prendemi cura del vostro cavallo, tenere pulita la vo
 ; str_npc23_backstory_c|Ahh, I need to get out and fight myself! Been itching to hit something other than a man.
 ; str_npc24_backstory_c|It was no way for brave Roddy to live, being an outcast, forced to live like a common sellsword! I'm glad you came along!
 ; str_npc25_backstory_c|Who are you, who are these people? Why are my hands always red?!
-; str_npc26_backstory_c|...
+str_npc26_backstory_c|...
 ; str_npc27_backstory_c|Used to be house Waterman held sway over much of the Lonely Hills, but that glorious past is, well, in the past.
 ; str_npc28_backstory_c|Still, I'd dare say the Bright Banners have proven braver than most. True, we fled from Khal Temmo when he attacked Qohor, but anyone in their right mind would have done so. We also broke Volantene power on the Rhoyne during the Century of Blood.
 ; str_npc29_backstory_c|Maelys was beheaded by Barristan Selmy on the island of Bloodstone, and our men fled. The Westerosi slaughtered any man who didn't run fast enough. I found myself with a motley crew of men, hiding in a cave, and to protect ourselves we formed into a band. Soon, we started charging merchants, passing through the Stepstones, a fee to protect them against pirates, and thus the Iron Shields were formed.
@@ -673,7 +673,7 @@ str_npc23_backstory_response_1|Niente affatto, mia signora.
 str_npc24_backstory_response_1|Ho grande bisogno di una guardia al mio seguito!
 str_npc25_backstory_response_1|Riesci a reggere una spada?
 str_npc26_backstory_response_1|Cosa vi convincerebbe a seguirmi?
-; str_npc27_backstory_response_1|Would you like to join me?
+str_npc27_backstory_response_1|Vorreste unirvi a me?
 ; str_npc28_backstory_response_1|Are the Bright Banners for hire?
 ; str_npc29_backstory_response_1|Are the Iron Shields for hire?
 ; str_npc30_backstory_response_1|Are the Gallant Men for hire?
@@ -707,16 +707,16 @@ str_npc22_backstory_response_2|Buon giorno a voi, mio signore.
 str_npc23_backstory_response_2|Spiacente non potevo portare una donna in pericolo, mia signora.
 str_npc24_backstory_response_2|Non adesso.
 str_npc25_backstory_response_2|Non importa.
-; str_npc26_backstory_response_2|Right...
-; str_npc27_backstory_response_2|I must beg my leave.
-; str_npc28_backstory_response_2|Goodbye.
-; str_npc29_backstory_response_2|Goodbye.
-; str_npc30_backstory_response_2|Goodbye.
-; str_npc31_backstory_response_2|Goodbye.
-; str_npc32_backstory_response_2|Goodbye.
-; str_npc33_backstory_response_2|Goodbye.
-; str_npc34_backstory_response_2|Goodbye.
-; str_npc35_backstory_response_2|Goodbye.
+str_npc26_backstory_response_2|Giusto...
+str_npc27_backstory_response_2|Devo andare.
+str_npc28_backstory_response_2|Arrivederci.
+str_npc29_backstory_response_2|Arrivederci.
+str_npc30_backstory_response_2|Arrivederci.
+str_npc31_backstory_response_2|Arrivederci.
+str_npc32_backstory_response_2|Arrivederci.
+str_npc33_backstory_response_2|Arrivederci.
+str_npc34_backstory_response_2|Arrivederci.
+str_npc35_backstory_response_2|Arrivederci.
 ; str_npc1_signup|Gladly! Perhaps I'll finally get out of this horrid business of protecting upstart merchants and their fat wives!
 str_npc2_signup|Beh... Vi confesso che io non sono un guerriero di professione.
 str_npc3_signup|Fate? Vi sono molto grato signore!
@@ -805,7 +805,7 @@ str_npc15_signup_response_1|Mi sta bene. Sono lieto di accogliervi nella mia Com
 str_npc16_signup_response_1|Sembra che voi sarete un bene prezioso in battaglia, benvenuto alla mia compagnia.
 str_npc17_signup_response_1|È possibile scrivere su tutte le mie famose battaglie e conquiste!
 str_npc18_signup_response_1|Prepara la roba, ragazzo, è giunto il momento per te di lasciare queste terre.
-; str_npc19_signup_response_1|Very good.
+str_npc19_signup_response_1|Molto bene.
 str_npc20_signup_response_1|Sì, lo faranno, ovviamente...
 ; str_npc21_signup_response_1|Well then, let's be on our way.
 str_npc22_signup_response_1|Questo è lo spirito giusto!
@@ -813,8 +813,8 @@ str_npc23_signup_response_1|Giusto!
 str_npc24_signup_response_1|Giusto!
 ; str_npc25_signup_response_1|Erh, yeah, let me think about it...
 ; str_npc26_signup_response_1|Seems a fair request.
-; str_npc27_signup_response_1|Erh, right.
-; str_npc28_signup_response_1|That is reasonable.
+str_npc27_signup_response_1|Eeh, giusto.
+str_npc28_signup_response_1|Mi sembra ragionevole.
 ; str_npc29_signup_response_1|Good, I need well-armed men.
 ; str_npc30_signup_response_1|Good, I need brave men.
 ; str_npc31_signup_response_1|Good, I need devout men.
@@ -847,16 +847,16 @@ str_npc22_signup_response_2|Temo che non sia possibile in questo momento.
 str_npc23_signup_response_2|Temo di aver cambiato idea, voi non potete viaggiare con me.
 str_npc24_signup_response_2|Temo di aver cambiato idea, non ho bisogno di una guardia del corpo.
 str_npc25_signup_response_2|Non bisogno di voi in questo momento...
-; str_npc26_signup_response_2|I've changed my mind.
-; str_npc27_signup_response_2|I'm afraid I've changed my mind.
-; str_npc28_signup_response_2|I may not need you right this moment...
-; str_npc29_signup_response_2|I may not need you right this moment...
-; str_npc30_signup_response_2|I may not need you right this moment...
-; str_npc31_signup_response_2|I may not need you right this moment...
-; str_npc32_signup_response_2|I may not need you right this moment...
-; str_npc33_signup_response_2|I may not need you right this moment...
-; str_npc34_signup_response_2|I may not need you right this moment...
-; str_npc35_signup_response_2|I may not need you right this moment...
+str_npc26_signup_response_2|Ho cambiato idea.
+str_npc27_signup_response_2|Sono spiacente ma ho cambiato idea.
+str_npc28_signup_response_2|Non ho bisogno di voi al momento...
+str_npc29_signup_response_2|Non ho bisogno di voi al momento...
+str_npc30_signup_response_2|Non ho bisogno di voi al momento...
+str_npc31_signup_response_2|Non ho bisogno di voi al momento...
+str_npc32_signup_response_2|Non ho bisogno di voi al momento...
+str_npc33_signup_response_2|Non ho bisogno di voi al momento...
+str_npc34_signup_response_2|Non ho bisogno di voi al momento...
+str_npc35_signup_response_2|Non ho bisogno di voi al momento...
 str_npc1_payment|Abbastanza bene. Prima di lasciavi però, c'è la piccola questione del mio pagamento. Credo monete {reg3} monete siano sufficenti.
 str_npc4_payment|Eccellente. Prima di partire, sareste così gentile da prestarmi {reg3} denari? Devo riavere un cimelio di famiglia da un usuraio qui a {s20}, e vorrei prenderlo prima di andare.
 ; str_npc5_payment|Thank you. Now, to seal off our agreement, I ask for {reg3} silver coins from you. Knights might be true to their lord, no matter what, but they'll be ever more true if they can afford to feed themselves.
@@ -885,12 +885,12 @@ str_npc14_payment|Ah, un'ultima cosa. Volevo chiedervi un pagamento iniziale di 
 ; str_npc34_payment|I shall require {reg3} coins as a starting fee, {playername}. How is it shared between me, the officers and the men, you ask? None of your bloody business.
 ; str_npc35_payment|For {reg3} coins, the Windblown will fight for you.
 ; str_npc1_payment_response|Very well, here's {reg3} coins. Now, pack your backs, we'll be leaving soon.
-; str_npc4_payment_response|Certainly. Here's {reg3} coins.
+str_npc4_payment_response|Certamente. Ecco {reg3} denari.
 ; str_npc5_payment_response|Hah, very true. Here is {reg3} coins.
 str_npc7_payment_response|Sì, sì, certo, solo una formalità, una stupida tradizione.
 ; str_npc8_payment_response|Oh, I am no pauper, Halbert. Here's {reg3} coins for you.
-; str_npc9_payment_response|Very well, here's {reg3} coins.
-; str_npc10_payment_response|Of course. Here, {reg3} coins.
+str_npc9_payment_response|Benissimo, ecco {reg3} denari.
+str_npc10_payment_response|Certamente. Ecco {reg3} denari.
 ; str_npc11_payment_response|Very well, here's {reg3} coins. Make yourself ready. We leave soon.
 ; str_npc13_payment_response|Of course, here's {reg3} coins. Get ready to leave soon.
 ; str_npc14_payment_response|All right, here's {reg3} coins. You are most welcome in our company.
@@ -1048,15 +1048,15 @@ str_npc23_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe in
 str_npc24_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei gia tagliato la gola da tempo.
 str_npc25_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei gia tagliato la gola da tempo.
 str_npc26_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei gia tagliato la gola da tempo.
-; str_npc27_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc28_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc29_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc30_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc31_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc32_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc33_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc34_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc35_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
+str_npc27_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei già tagliato la gola da tempo.
+str_npc28_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei già tagliato la gola da tempo.
+str_npc29_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei già tagliato la gola da tempo.
+str_npc30_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei già tagliato la gola da tempo.
+str_npc31_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei già tagliato la gola da tempo.
+str_npc32_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei già tagliato la gola da tempo.
+str_npc33_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei già tagliato la gola da tempo.
+str_npc34_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei già tagliato la gola da tempo.
+str_npc35_personalityclash2_speech|Capitano, devo dirle che qualcuno dovrebbe insegnare a {s11} le buone maniere. Se non fosse stato per il mio autocontrollo, gli avrei già tagliato la gola da tempo.
 str_npc1_personalityclash2_speech_b|Il modo in cui fischietta allegramente mentre lo fa mi dà i brividi. Non è un nobile lavoro.
 str_npc2_personalityclash2_speech_b|Il nemico ci stava facendo pressione, e lui disse: 'Fatti da parte, mercante, questo è un lavoro da cavaliere.' La prossima volta mi farò da parte, e gli permetterò di prendersi una lancia nello stomaco.
 str_npc3_personalityclash2_speech_b|Alla fine della battaglia, mi sono messo a cercare tra i cadaveri qualche oggetto di valore. Non avevo raccolto che pochi oggetti quando {s11} mi arrivò alle spalle e me li strappò dalle mani dicendo che essendo stata lei ad uccidere quei nemici aveva il diritto di possedere i loro averi. Comandante, nella foga del combattimento, io non posso ricordarmi di aver ucciso questo o quel nemico. Se {s11} me lo avesse semplicemente chiesto le avrei lasciato tutto senza problemi.
@@ -1188,15 +1188,15 @@ str_npc16_retirement_speech|Ho vissuto bei momenti in questa Compagnia, e ho tro
 ; str_npc24_retirement_speech|Ah, {playername}, I'm afraid I've gotten too old for this kind of life. I think I'll return to Chelsted, and live out my days.
 ; str_npc25_retirement_speech|Look, {playername}, an apple! REND THE FLESH, REND, REND, REND, spill the blood!
 str_npc26_retirement_speech|Ho finito.
-; str_npc27_retirement_speech|I'm done.
-; str_npc28_retirement_speech|I'm done.
-; str_npc29_retirement_speech|I'm done.
-; str_npc30_retirement_speech|I'm done.
-; str_npc31_retirement_speech|I'm done.
-; str_npc32_retirement_speech|I'm done.
-; str_npc33_retirement_speech|I'm done.
-; str_npc34_retirement_speech|I'm done.
-; str_npc35_retirement_speech|I'm done.
+str_npc27_retirement_speech|Ho finito.
+str_npc28_retirement_speech|Ho finito.
+str_npc29_retirement_speech|Ho finito.
+str_npc30_retirement_speech|Ho finito.
+str_npc31_retirement_speech|Ho finito.
+str_npc32_retirement_speech|Ho finito.
+str_npc33_retirement_speech|Ho finito.
+str_npc34_retirement_speech|Ho finito.
+str_npc35_retirement_speech|Ho finito.
 str_npc1_rehire_speech|Comandante, è bello rivedervi. So che abbiamo avuto le nostre divergenze in passato, ma per dire la verità, sono stati i giorni migliori che abbia mai vissuto. E ho avuto qualche problema a trovare un lavoro. Se lo vorrete, sarò felice di combattere ancora sotto il vostro vessillo.
 str_npc2_rehire_speech|{Signore/Signora}! È bello rivedervi. Ma lo confesso... Vi stavo cercando. Come vi ho detto ho comprato molte merci, e le ho portate in lungo e in largo per il regno, ma forse non lo sapete, sono stato attaccato da una banda di corsari, fuori Volantis, e ho perso tutto. Penso di essere destinato a lottare per il mio patrimonio. Ho sentito che avete raccolto fortuna. Quindi ditemi, {playername}, vorreste riavermi con voi?
 str_npc3_rehire_speech|Beh, salute {signore/signora}! è bello rivedervi. Ho paura di non essermela cavata molto bene da quando ci siamo separati. La famiglia di mia madre, su cui contavo, non mi ha dato nessun aiuto per la mia impresa di commercio. Non ho ricevuto niente, se non qualche ramanzina da mia zia su come ho rovinato il mio matrimonio con prospettive di assunzione da parte di una Compagnia di mercenari. Forse rendo meglio nella guerra che nel commercio, condividere un pasto dietro un fuoco con rozzi combattenti è più adatto a me che bere vino con la borghesia di Oldtown. {playername}, vi devo chiedere... Vorreste che tornassi al vostro servizio?
@@ -1390,7 +1390,7 @@ str_npc15_honorific|{playername}!
 str_npc16_honorific|{playername}!
 str_npc17_honorific|{playername}!
 str_npc18_honorific|{playername}!
-; str_npc19_honorific|{playername}!
+str_npc19_honorific|{playername}!
 str_npc20_honorific|{playername}!
 str_npc21_honorific|{playername}!
 str_npc22_honorific|{playername}!
@@ -1398,15 +1398,15 @@ str_npc23_honorific|{playername}!
 str_npc24_honorific|{playername}!
 str_npc25_honorific|{playername}!
 str_npc26_honorific|{playername}!
-; str_npc27_honorific|{playername}!
-; str_npc28_honorific|{playername}!
-; str_npc29_honorific|{playername}!
-; str_npc30_honorific|{playername}!
-; str_npc31_honorific|{playername}!
-; str_npc32_honorific|{playername}!
-; str_npc33_honorific|{playername}!
-; str_npc34_honorific|{playername}!
-; str_npc35_honorific|{playername}!
+str_npc27_honorific|{playername}!
+str_npc28_honorific|{playername}!
+str_npc29_honorific|{playername}!
+str_npc30_honorific|{playername}!
+str_npc31_honorific|{playername}!
+str_npc32_honorific|{playername}!
+str_npc33_honorific|{playername}!
+str_npc34_honorific|{playername}!
+str_npc35_honorific|{playername}!
 ; str_npc1_kingsupport_1|That's a great idea, {playername}. All these merchants and archons and magisters who rule now, with their prisons and gibbets and scaffolds, the whippings and brandings and hangings for any man who might be driven by the crying of his children to steal a loaf of bread, or maybe a horse -- This realm deserves something better.
 str_npc2_kingsupport_1|Bene {playername}, vi offro il mio sostegno. Penso che darete a questo mondo il tipo di governo illuminato di cui da tanto tempo ha bisogno.
 str_npc3_kingsupport_1|Beh, mio signore... Io mi preoccuperei per voi stesso... Le nostre cronache ci dicono che il potere tende a corrompere. Ma alla fine, mi conforta la misericordia e il giudizio che avete dimostrato come Comandante di questa Compagnia.
@@ -1538,15 +1538,15 @@ str_npc23_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
 str_npc24_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
 str_npc25_kingsupport_2b|Magari un'altra volta...
 str_npc26_kingsupport_2b|Magari un'altra volta...
-; str_npc27_kingsupport_2b|I can't always be a just and fair man.
-; str_npc28_kingsupport_2b|I can't always be a just and fair man.
-; str_npc29_kingsupport_2b|I can't always be a just and fair man.
-; str_npc30_kingsupport_2b|I can't always be a just and fair man.
-; str_npc31_kingsupport_2b|I can't always be a just and fair man.
-; str_npc32_kingsupport_2b|I can't always be a just and fair man.
-; str_npc33_kingsupport_2b|I can't always be a just and fair man.
-; str_npc34_kingsupport_2b|I can't always be a just and fair man.
-; str_npc35_kingsupport_2b|I can't always be a just and fair man.
+str_npc27_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
+str_npc28_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
+str_npc29_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
+str_npc30_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
+str_npc31_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
+str_npc32_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
+str_npc33_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
+str_npc34_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
+str_npc35_kingsupport_2b|Non posso essere sempre un uomo giusto ed equo.
 ; str_npc1_kingsupport_3|If I could go about this land for a few weeks, telling the common folk that you were going to amnesty their murderous kinfolk like the kings of old -- well, they would start talking of you as the rightful king, and that would pave your way to the throne. Shall I do that, {playername}?
 ; str_npc2_kingsupport_3|If you like, {playername}, I can take a few weeks to visit the guildhalls and manses where I have contacts, and explain to them that, in you, they will have a {king/ruler} who will check the rapacious nobles, who, with their tariffs and taxes, would strangle commerce for the sake of a few extra gold coins to spend on their roasted peacocks and ridiculous tourneys. What do you say to that {playername}?
 str_npc3_kingsupport_3|Se voi vi prenderete un tale impegno {signore/signora}, credo aiuterebbe molti nobili di questa terra in tempi del genere. Se il vostro scopo è quello di ripristinare il vecchio sistema di Calradia, voi sarete il {re/sovrano} più legittimo a riuscirci. Lasciatemi un paio di settimane, {signore/signora}, e io dirò in giro che voi intendete ripristinare gli antichi diritti.
@@ -1694,7 +1694,7 @@ str_npc8_woman_to_woman|Chiedo scusa, {playername}. Vorrei farvi le mie congratu
 str_npc16_woman_to_woman|Ehi comandante... se posso dire la mia, vi siete fatta un buon nome da queste parti. Sospetto però che se foste stata un uomo, un re vi avrebbe già donato un feudo a quest'ora. Ma noi donne ci aspettiamo un trattamento simile. Gli uomini trovano ogni scusa per non ricompensarci del nostro lavoro, quindi se abbiamo in testa di ottenere un po' di terra da qualche parte, tutto quello che dovremmo fare è allungare la mano e prendercela. Così gira il mondo, in ogni caso.
 ; str_npc18_woman_to_woman|How harsh can this world be. Your kindness is beyond any borders, and for that alone you should be rewarded. But those pigs -- pardon me, 'men' -- rule with an iron fist and a tight rope, and have women hanged on a whim.
 str_npc19_woman_to_woman|...
-; str_npc23_woman_to_woman|Oy, {playername}, if you don't mind me saying, you've made quite a name for yourself in these parts. I suspect that if you were a man, a king would have offered you a fief by now. But we ladies should come to expect things like that. Men will find any excuse not to reward us for our work, so if we take a fancy to a bit of land somewhere, maybe we should just reach out and take it. That's the way I look at the world, anyway.
+str_npc23_woman_to_woman|Ehi {playername}, se posso dire la mia, vi siete fatta un buon nome da queste parti. Sospetto però che se foste stata un uomo, un re vi avrebbe già donato un feudo a quest'ora. Ma noi donne ci aspettiamo un trattamento simile. Gli uomini trovano ogni scusa per non ricompensarci del nostro lavoro, quindi se abbiamo in testa di ottenere un po' di terra da qualche parte, tutto quello che dovremmo fare è allungare la mano e prendercela. Così gira il mondo, in ogni caso.
 ; str_npc27_woman_to_woman|Come on, you can do it. If you just write enough dialogues, you might be rewarded.
 ; str_npc32_woman_to_woman|Come on, you can do it. If you just write enough dialogues, you might be rewarded.
 ; str_npc35_woman_to_woman|Come on, you can do it. If you just write enough dialogues, you might be rewarded.
@@ -2238,7 +2238,7 @@ str_sarranid_rebellion_pretender_story_2|Quando il Sultano Ayzar morì, agli emi
 ; str_westerlands_rebellion_pretender_story_2|My mother told me how he fell for a fair maid in service to the archon, and how they married in secrecy, thus making any child of their union trueborn and rightful heirs to the Iron Throne!
 ; str_reach_rebellion_pretender_story_2|When Sultan Ayzar died, it seemed to the emirs of the realm only natural that I should succeed him as ruler, thus avoiding any danger of civil war. They insisted, however, that I should marry one of his generals, the Emir Baybak. The emirs then lined up to give us the oath of allegiance together -- to Baybak as Commander of the Armies, and to me as Mother of the Realm. For the brief time that we ruled, our realm prospered.
 ; str_ironborn_rebellion_pretender_story_2|Harren the Red rebelled against the dragon kings in the year the conqueror died, and took back his fathers castle. But even the line of Hoare could not stand against the dragons, and Harren met his demise in the end. But not before getting a son on a salt wife!
-; str_pentos_rebellion_pretender_story_2|a.
+str_pentos_rebellion_pretender_story_2|a.
 ; str_tyrosh_rebellion_pretender_story_2|In the time of the Ninepenny Kings, my grandsire conquered Tyrosh with the help of the other members of the Band of Nine. That brute, Maelys the Monstrous, ended the rest of the Bands ambitions in the Stepstones, when he let some savage knight cut off his head, though I hear that descendants of the Ebon Prince still roam the world, and that Salladhor Saan continued his fathers ways when old Samarro died. But my grandfather kept his throne! Tyrosh could have conquered the rest of the Free Cities, if only the nobles of Tyrosh had not been jealous of my familys obvious greatness.
 ; str_myr_rebellion_pretender_story_2|The Ebon Prince was away, valiantly slaying knights, and there was no one to defend our subjects, no one to keep the Myrmen from taking our slaves for themselves! My father grew up in Qohor, living like a beggar, always pleading with the qohori for help, never getting any. He died a pitiful man, twisted with hate and revenge.
 ; str_lys_rebellion_pretender_story_2|Daemon Targaryen made the Stepstones a unified kingdom with fire and blood, but it was the men and women of our line who kept it from falling completely apart upon his death. Saathos Saan defended Gallows Grey against a myrish fleet, and my father smashed the Tyroshi fleet when it lay at anchor, burning their admiral as he lay sleeping inside a great war galley. My great-grandmother even ruled Lys for a while, as a renowned courtesan!
@@ -4261,8 +4261,8 @@ str_dplmc_your_s11_s10|Il tuo {s11}, {s10}
 ; str_dplmc_reg6my_reg7spouse|{reg6?M:m}y {reg7?love:{husband/wife}}
 str_dplmc_refuse_support_s43_named_s4|Sostenere un {s43} come {s4}?  Non credo.
 ; str_dplmc_comment_you_enfiefed_a_commoner_supportive|I understand that you have given {s51} to {s54}.  Others may find this controversial, but I believe that {s54} will be an able governor, and that {reg4?she:he} will not let you down.
-; str_dplmc_sirmadame|my {lord/lady}
-; str_dplmc_sirmadam|my {lord/lady}
+str_dplmc_sirmadame|mi{o signore/a signora}
+str_dplmc_sirmadam|mi{o signore/a signora}
 str_dplmc_my_lordlady|mi{o signore/a signora}
 str_dplmc_your_highness|vostra altezza
 str_dplmc_grandfather|nonno
