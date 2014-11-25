@@ -1009,10 +1009,10 @@ qstr_bodyguard|guardia del corpo
 ; qstr_{s1}:_cavalry_format|{s1}: cavalry formation disassembled.
 ; qstr_{s1}:_formation_disa|{s1}: formation disassembled.
 ; qstr_Cavalry_formation_di|Cavalry formation disassembled.
-; qstr_You_have_been_enlist|You have been enlisted!
-; qstr_You_have_left_your_c|You have left your commander!
-; qstr_You_have_been_grante|You have been granted leave!
-; qstr_You_have_rejoined_yo|You have rejoined your commander!
+qstr_You_have_been_enlist|Sei stato arruolato!
+qstr_You_have_left_your_c|Hai lasciato il tuo comandante!
+qstr_You_have_been_grante|Ti è stato concesso il congedo!
+qstr_You_have_rejoined_yo|Ti sei ricongiunto al tuo comandante!
 qstr_{s3}_{s2}|{s3}, {s2}
 ; qstr_The_equipment_of_a_{|The equipment of a {s1}: {s2}is assigned to you.
 ; qstr_The_equipment_of_a_{s|The equipment of a {s1}: {s2}is taken from you.
@@ -1129,7 +1129,7 @@ qstr_Back_to_the_beginnin|Indietro fino all'inizio...
 qstr_View_next_segment...|Guarda la prossima parte...
 qstr_^No_food:___{reg7}|^Niente cibo:  -{reg7}
 qstr_^Wage_debt:___{reg6}|^Debito dai salari:  -{reg6}
-; qstr_Current_force_morale|Current force morale is {reg5}.^Current force morale modifiers are:^^Base morale:  +50^Party size: {s2}{reg1}^Leadership: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^Recent events: {s7}{reg4}^TOTAL:  {reg5}^^Morale value to change: {s8}{reg8}^Prospective party morale: {reg10}^^^
+qstr_Current_force_morale|Il livello del Morale della Compagnia è {reg5}.^Modificatori del Morale della Compagnia:^^Morale base +50^Dimensione della Compagnia: {s2}{reg1}^Leadership: {s3}{reg2}^Varietà di cibo: {s4}{reg3}{s5}{s6}^Eventi recenti: {s7}{reg4}^TOTALE:  {reg5}^^Cambiamento del morale: {s8}{reg8}^Prospettiva morale compagnia: {reg10}^^^
 qstr_{s1}Extra_morale_for|{s1}Morale extra per {s9} truppe : {reg6}^
 qstr_Appoint_next_marshal|Nominare il prossimo Comandante in capo
 qstr_Award_{s12}_as_fief|Ottieni {s12} come feudo
@@ -1142,7 +1142,7 @@ qstr_Your_estates_are:_{s|I tuoi possedimenti sono: {s8}.^{s9}
 qstr_Current_party_size_l|L'attuale limite di dimensione della Compagnia è {reg5}.^Gli attuali modificatori della dimensione della Compagnia sono:^^Dimensione di base:  +30^Comando: {s2}{reg1}^Carisma: {s3}{reg2}^Fama: {s4}{reg3}^^Lord: {s5}^Castelli: {s6}^Comandante d'armata: {s7}^Re: {s8}^TOTALE:  {reg5}
 qstr_Your_relation_with_t|Il tuo rapporto con le fazioni è:^{s2}
 qstr_You_can_recruit_your|Puoi reclutare i tuoi prigionieri per la tua compagnia ora.
-; qstr_You_need_to_wait_{re|You need to wait {reg1} {reg2?hours:hour} to recruit your prisoners.
+qstr_You_need_to_wait_{re|È necessario attendere {reg1} {reg2ore:?ora} per reclutare i prigionieri.
 qstr_Return_to_your_forti|Ritorna alle tue fortificazioni.
 qstr_Spend_{reg5}_hours_e|Spendi {reg5} ore a trincerare il tuo accampamento.
 qstr__You_have_returned_t|Sei tornato alla tua postazione fortificata.
@@ -1163,7 +1163,7 @@ qstr_{s4}^^The_troops_you|{s4}^^Le truppe che hai selezionato sono pronte ad uni
 qstr_{s4}^^Your_captains_|{s4}^^I tuoi capitani si occuperanno delle assegnazioni delle truppe.
 qstr_{s4}^^Your_orders_ha|{s4}^^ I tuoi ordini sono stati inviati ai tuoi capitani.
 qstr_{s4}^^There_is_no_ta|{s4}^^Non non c'è nessun piano tattico in atto.
-; qstr_All_your_troops_are_|All your troops are already assigned to fight in the battle.
+qstr_All_your_troops_are_|Tutte le tue truppe sono state selezionate per partecipare alla battaglia.
 qstr_You_were_victorious!|Hai vinto!
 qstr_Battle_was_lost._You|La battaglia è stata vinta dal nemico. Le tue forze sono state completamente schiacciate.
 qstr_Your_companions_carr|I tuoi compagni ti trascinano via dalla battaglia.
@@ -1187,8 +1187,8 @@ qstr_{s9}_wants_you_to_fo|{s9} ti vuole perché tu segua la sua armata fino a nu
 qstr_{s8}_of_{s9}|{s8} del {s9}
 qstr_liege|signore
 ; qstr_former_liege|former liege
-; qstr_affiliate|affiliate
-; qstr_former_companion|former companion
+qstr_affiliate|affiliato
+qstr_former_companion|Ex compagno
 qstr_marshall|comandante in capo
 qstr_vassal|vassallo
 qstr__Your_own_banner_fli| Il tuo stesso stendardo sventola sopra il cancello del castello.
@@ -1220,10 +1220,10 @@ qstr__You_remember_that_t| Ricordi che questo villaggio e le terre circostanti a
 qstr__You_remember_that_th|Ti ricordi che questo villaggio e le terre circostanti appartengono a {s7}.
 qstr__These_lands_belong_| Queste terre non appartengono a nessuno.
 qstr__The_village_is_infe| Il villaggio è attaccato da {reg8} {s35}.
-; qstr__The_peasants_hired_| The peasants hired mercenaries and are rebelling against you.
+qstr__The_peasants_hired_|I contadini hanno assunto dei mercenari e si ribellano contro di voi.
 qstr__The_village_has_bee| Il villaggio è stato depredato. Una manciata di anime disperse come te passano tra le case bruciate.
 qstr__The_village_is_bein| Il villaggio è stato razziato.
-; qstr_You_and_your_men_per|You and your men persuaded {reg1} villagers to join you.
+qstr_You_and_your_men_per|Tu e i tuoi uomini persuadete {reg1} abitanti del villaggio ad unirsi a voi.
 ; qstr_When_the_villagers_s|When the villagers see you and your men approach, they take off as quick as they can. It was fast enough to escape you.
 qstr_You_have_no_room_lef|Non hai più posti liberi nella tua compagnia.
 qstr_No_one_here_seems_to|Nessuno sembra interessato ad unirsi alla tua Compagnia.
@@ -1247,7 +1247,7 @@ qstr__This_castle_has_no_|Questo castello non ha una guarnigione.
 qstr__The_banner_of_your_|Lo stendardo del tuo {s11} {s7} è sopra i cancelli della città.
 qstr__This_town_has_no_ga|Questa città non ha una guarnigione.
 qstr__You_have_successful| Hai avuto successo nell'infiltrarti.
-; qstr_{s13}_A_melee_will_b|{s13} A melee will be held here soon.
+qstr_{s13}_A_melee_will_b|{s13} Un duello si svolgerà qui a breve.
 qstr___{reg1}_denars_per_| ({reg1} denari per notte)
 qstr_Moreover_you_earn_{r|In più, guadagni {reg8} denari dalle scommesse piazzate sulla tua stessa persona...
 qstr_Victory_is_yours!_Yo|La vittoria è tua! Hai vinto questo round, ma ora ti devi preparare per il prossimo.
@@ -1278,7 +1278,7 @@ qstr_positive|positivo
 qstr_negative|negativo
 qstr_{s11}^^_The_current_|{s11}^^ La guarnigione attualmente è composta da {reg5} uomini.^Le scorte di cibo bastano per {reg6} giorni.
 ; qstr_^^Additional_the_fol|^^Additional the following parties are currently inside:^
-; qstr_{s12}_{s3}_with_{reg|{s12} {s3} with {reg1} troops.^
+qstr_{s12}_{s3}_with_{reg|{s12} {s3} con {reg1} truppe.^
 ; qstr_{playername}_^^I_alw|{playername}, ^^I always knew you were a bad egg, since the day you have pledged allegiance to my clan. ^Did you really think you could set my family against me? You've dropped your mask, you snake! You are an infliction, and I will not bear it anymore. ^Hereby, I disown and ban you from my house. I have urged my family to fight you, and I will warn Calradia lords about your infamy. ^Tremble with fear, you have a deadly enemy! ^^{s9}.
 ; qstr_{playername}^^_I_ve_|{playername},^^ I've received a letter from {s9}, telling me about your disgraceful jiggery-pokery. In the present circumstances, {s9} could not provide evidence. But unlike you, {reg1?she:he} is a distinguished member of my family; and since all these years, I never had any reason to distrust {reg1?her:him}. I take {reg1?her:him} charges for granted. ^Hopefully, you failed to breakup my family unit. Hereby I reject your pledge : you are no longer related to my house. Each membership will retaliate against you in all conscience... ^I would be ashamed to confess how you maliciously fooled me, so I will not challenge you, to not be accountable for your death to my {s11}. However I'm not used to telling {reg0?her:him} about every rat I crush in the wilderness, and someday I may find you there ! ^^{s10}
 qstr_{playername}|{playername}
@@ -1308,7 +1308,7 @@ qstr_You_have_deserted_an|Hai disertato, e ora sei ricercato!
 qstr_Breaking_camp...|Stai smantellando l'accampamento...
 ; qstr_{s5}_has_decided_to_|{s5} has decided to grant {s4} to another lord of the {s7}.
 ; qstr_A_livestock_epidemic|A livestock epidemic has killed {reg4} cattle in {s4}.
-; qstr_Riot_in_{s6}!|Riot in {s6}!
+qstr_Riot_in_{s6}!|Rivolta a {s6}!
 qstr_Your_party_is_spotte|La tua Compagnia è stata avvistata da {s1}.
 qstr_Your_soldiers_have_n|I tuoi soldati non hanno nulla da mangiare!
 qstr_Current_force_morale_|Il morale attuale della compagnia è {reg1}.
@@ -1325,7 +1325,7 @@ qstr__Your_persuasion_ski| La tua abilità di persuasione è aumentata di 1 punt
 qstr__Your_leadership_ski| La tua abilità di comando è aumentata di 1 punto.
 qstr__Your_prisoner_manag|La tua abilità di controllo prigionieri è aumentata di 1 punto.
 qstr__Your_charisma_has_i|Il tuo carisma è aumentato di 1 punto.
-; qstr__Your_looting_skill_| Your looting skill has increased by 1.
+qstr__Your_looting_skill_|La tua abilità nel saccheggio è aumentata di 1.
 qstr__Your_intelligence_h| La tua intelligenza è aumentata di 1 punto.
 qstr__Your_trade_skill_ha| La tua abilità nel commercio è aumentata di 1 punto.
 qstr__Your_weapon_master_| La tua maestria nelle armi è aumentata di 1 punto.
@@ -1333,7 +1333,7 @@ qstr__Your_engineer_skill| La tua abilità ingegneristica è aumentata di 1 punt
 qstr_You_have_finished_re|Hai finito di leggere {s1}.{s2}
 qstr_Book_Read|Libro letto
 qstr_{s1}_is_scouted.|{s1} è stato esplorato.
-; qstr_A_lord_has_defected!|A lord has defected!
+qstr_A_lord_has_defected!|Un signore ha disertato!
 ; qstr__{s1}_s_tactics_skil| {s1}'s tactics skill has increased by 1.
 ; qstr__{s1}_s_persuasion_s| {s1}'s persuasion skill has increased by 1.
 ; qstr__{s1}_s_leadership_s| {s1}'s leadership skill has increased by 1.
@@ -1344,32 +1344,32 @@ qstr_{s1}_is_scouted.|{s1} è stato esplorato.
 ; qstr__{s1}_s_trade_skill_| {s1}'s trade skill has increased by 1.
 ; qstr__{s1}_s_weapon_maste| {s1}'s weapon master skill has increased by 1.
 ; qstr__{s1}_s_engineer_ski| {s1}'s engineer skill has increased by 1.
-; qstr_{s1}_have_finished_r|{s1} have finished reading {s2}.{s3}
+qstr_{s1}_have_finished_r|{s1} ha finito di leggere {s2}.{s3}
 qstr_{reg1}_{s1}|{reg1} {s1}
 qstr_{reg1}_{s1}_and_{s0}|{reg1} {s1} and {s0}
 qstr_{reg1}_{s1}_{s0}|{reg1} {s1}, {s0}
 qstr_{s0}_has_escaped.|{s0} è fuggito.
 qstr_{s0}_hava_escaped.|{s0} è fuggito.
-; qstr_Number_of_prisoners_|Number of prisoners exceeds prisoner management limit. {s0}
+qstr_Number_of_prisoners_|Il numero di prigionieri supera il limite di gestione prigionieri. {s0}
 qstr_{s1}_has_been_elimin|{s1} è stato eliminato da un'altra compagnia.
 qstr_Your_recruiter_who_wa|Il reclutatore a cui hai incaricato il reclutamento di {reg10}  reclute da {s13} è stato ucciso!
 ; qstr_{s13}_has_been_taken|{s13} has been taken by the enemy and your recruiter who was commissioned to recruit {reg10} recruits vanished  without a trace!
 ; qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
-; qstr_A_recruiter_has_brou|A recruiter has brought {reg10} recruits to {s13}.
+qstr_A_recruiter_has_brou|Il reclutatore ha portato {reg10} reclute a {s13}.
 qstr_Distance_between_{s1|Distanza tra {s14} e {s15}: {reg0}
-; qstr_Your_caravan_has_bro|Your caravan has brought {s12} to {s13}.
+qstr_Your_caravan_has_bro|La tua carovana ha portato {s12} a {s13}.
 ; qstr_{s13}_is_unimpressed|{s13} is unimpressed by your paltry gift.
 ; qstr_The_people_of_{s13}_|The people of {s13} are unimpressed by your paltry gift.
 ; qstr_Your_caravan_has_los|Your caravan has lost it's way and gave up your mission!
 qstr_Transfer_to_{s6}|Trasferisci a {s6}
 qstr_{s6}_patrol|Pattuglia di {s6}
-; qstr_Your_messenger_reach|Your messenger reached {s13}.
+qstr_Your_messenger_reach|Il vostro messengero ha raggiunto {S13}.
 qstr_{s14}|{s14}
 ; qstr_Your_messenger_has_l|Your messenger has lost it's way and gave up your mission!
 qstr_Not_enough_money_in_|Non c'è abbastanza denaro nel tesoro migliorare le truppe.
 qstr_Your_constable_upgra|Il tuo conestabile ha promosso {reg5} {s6} a {s7} in {s8}
 qstr_Your_soldiers_patrolli|I tuoi soldati che pattugliavano {s6} si sono sciolti perché non puoi pagare gli stipendi!
-; qstr_It_is_rumoured_that_|It is rumoured that a spy has been caught in {s11}.
+qstr_It_is_rumoured_that_|Gira voce che una spia è stata catturata a {s11}.
 ; qstr_{s0}_is_grumbling_ag|{s0} is grumbling against you.  Your affiliation could be jeopardized if this continues.
 ; qstr_{s0}_is_grumbling_aga|{s0} is grumbling against you, but with {s1}'s support you remain affiliated for now.
 qstr_Your_last_fief_was_c|Il tuo ultimo feudo è stato catturato e hai perso {reg0}/{reg1} del tuo tesoro
@@ -1381,7 +1381,7 @@ qstr__Camp_defenses_have_|Le difese nel vostro campo sono state completate.
 ; qstr_You_are_not_strong_e|You are not strong enough to lift a weapon fit for your promotion!
 ; qstr_You_are_not_strong_en|You are not strong enough to hold all that weight required with promotion!.
 ; qstr_Your_arms_are_to_wea|Your arms are to weak to advance in the artillary at this moment.
-; qstr_You_require_more_hor|You require more horse riding skills to fit your next poisition!
+qstr_You_require_more_hor|Sono richieste maggiori competenze in equitazione per migliorare la vostra posizione!
 ; qstr_array_GC|array GC
 ; qstr_array_GC:_owner_acti|array GC: owner active, an array or is 0
 ; qstr_array_GC:_removing_{|array GC: removing {reg21}
@@ -1389,11 +1389,11 @@ qstr__Camp_defenses_have_|Le difese nel vostro campo sono state completate.
 qstr_Reinforcements_from_|Rinforzi da {s14}
 ; qstr_The_released_prisone|The released prisoners were not be trusted and they are preparing to attack you!
 qstr_Warning!|Attenzione!
-; qstr_The_released_prisoner|The released prisoners scattered as soon as the battle finished. You will not be seeing them again.
+qstr_The_released_prisoner|I prigionieri che hai liberato se ne vanno non appena la battaglia finisce. Non li rivedrai di nuovo.
 qstr_Notice!|Avviso!
-; qstr_The_released_prisoners|The released prisoners have remained loyal and will join your party
+qstr_The_released_prisoners|I prigionieri che hai liberato ti sono rimasti fedeli e si uniranno a voi
 ; qstr_You_have_{reg0}_days_|You have {reg0} days left till you are declared as a deserter!
-; qstr_You_have_now_been_de|You have now been declared as a deserter!
+qstr_You_have_now_been_de|Sei stato dichiarato come disertore!
 qstr_{reg65?my_Lady:my_Lo|{reg65?mia signora:mio signore}
 qstr_{reg65?My_Lady:My_Lo|{reg65?Mia signora:Mio signore}
 qstr_{reg65?madame:sir}|{reg65?signora:signore}
@@ -1412,45 +1412,45 @@ qstr_{reg1?She:He}_can_t_|{reg1?Lei:Lui} non può leggerlo.
 qstr_{reg1?She:He}_have_a|{reg1?Lei:Lui} l'ha già letto.
 qstr_{reg1?She:He}_is_rea|{reg1?Lei:Lui} lo sta leggendo.
 qstr_{reg1?She:He}_can_re|{reg1?Lei:Lui} può leggerlo.
-; qstr_Your_sovereignty_has|Your sovereignty has no specified culture
-; qstr_Your_sovereignty_cul|Your sovereignty culture is: {s11}
-; qstr_Sovereignty_culture:|Sovereignty culture: None
-; qstr_Sovereignty_culture:_|Sovereignty culture: {s11}
+qstr_Your_sovereignty_has|La tua sovranità non ha una specifica cultura
+qstr_Your_sovereignty_cul|La cultura della tua sovranità è: {s11}
+qstr_Sovereignty_culture:|Cultura della sovranità: Nessuna
+qstr_Sovereignty_culture:_|Cultura della sovranità: {s11}
 qstr_{s11}|{s11}
-; qstr_The_goverment_of_the|The goverment of the {s10} is {s4}.
-; qstr_The_upper_class_soci|The upper class society is {s5}.
-; qstr_The_people_are_{s6}.|The people are {s6}.
-; qstr_The_troops_have_{s7}|The troops have {s7}.
-; qstr_The_government_s_app|The government's approach to trade is {s0}.
-; qstr_Our_goverment_is_{s4|Our goverment is {s4}.
-; qstr_Our_people_are_{s6}.|Our people are {s6}.
-; qstr_Our_troops_have_{s7}|Our troops have {s7}.
-; qstr_Our_approach_to_trad|Our approach to trade is {s0}.
-; qstr_According__to_the_re|According  to the report of our spies
+qstr_The_goverment_of_the|Il governo di {s10} è {s4}.
+qstr_The_upper_class_soci|L'alta società è {s5}.
+qstr_The_people_are_{s6}.|Le nostre persone sono {s6}.
+qstr_The_troops_have_{s7}|Le nostre truppe hanno {s7}.
+qstr_The_government_s_app|L'approccio del governo al commercio è {s0}.
+qstr_Our_goverment_is_{s4|Il nostro governo è {s4}.
+qstr_Our_people_are_{s6}.|Le nostre persone sono {s6}.
+qstr_Our_troops_have_{s7}|Le nostre truppe hanno {s7}.
+qstr_Our_approach_to_trad|Il nostro approccio al commercio è {s0}.
+qstr_According__to_the_re|Secondo il rapporto delle nostre spie
 qstr_{s10}_{reg3}_lords_s|{s10} {reg3} lords supportano {s9}.
 ; qstr_Sorry_currently_I_ca|Sorry, currently I can't provide any information about the lord's mood, our spies haven't reported back yet.
 qstr_{s11}_and_{s12}|{s11} e {s12}
 qstr_We_are_not_at_war_wi|Non siamo in guerra con nessuno.
 qstr_We_are_at_war_with_{|Siamo in guerra con {s12}.
-; qstr_Our_sovereignty_curr|Our sovereignty currently has {reg2} soldiers
-; qstr_{s6}_garrisoned_in_{|{s6} garrisoned in {reg2} towns
-; qstr_{s6}_and_{reg2}_cast|{s6} and {reg2} castles.
+qstr_Our_sovereignty_curr|La tua sovranità conta {reg2} soldati
+qstr_{s6}_garrisoned_in_{|{s6} di guarnigione a {reg2} città
+qstr_{s6}_and_{reg2}_cast|{s6} e {reg2} castelli.
 ; qstr_{s6}_In_addition_we_|{s6} In addition we have {reg2} soldiers in the field.
-; qstr_We_currently_have_{r|We currently have {reg2} soldiers
+qstr_We_currently_have_{r|Abbiamo attualmente{reg2} soldati.
 qstr_{s6}_In_addition_you|{s6} Inoltre hai {reg2} soldati nel tuo seguito e {reg3} in pattuglie.
 ; qstr_He_fields_{reg2}_sol|He fields {reg2} soldiers.
-; qstr_We_currently_have_{re|We currently have {reg2} soldiers garrisoned in {s60}.
+qstr_We_currently_have_{re|Al momento abbiamo {reg2} soldati di guarnigione a {s60}.
 qstr_You_are_preferring_m|Preferisci unità da mischia.
 qstr_You_are_preferring_r|Preferisci unità a distanza.
-; qstr__and_the_additional_| and the additional trainers
+qstr__and_the_additional_|e un addestratore supplementare.
 ; qstr_We_currently_have_an|We currently have an income of {reg0} denars and costs of {reg1} denars from fiefs and garrions.
 ; qstr_{s6}_We_are_losing_{|{s6} We are losing {reg0} denars due to tax inefficiency. That means {reg1} percent.
 ; qstr_{s6}_Overall_this_su|{s6} Overall this sums up to {reg0} denars.
 qstr_no|no
-; qstr_{s60}_is_currently_o|{s60} is currently occupied by outlaws you should counter them as soon as possible.
-; qstr__We_are_expecting_{r| We are expecting {reg0} denars for rents
-; qstr__The_troop_wages_for| The troop wages for {reg0} troops cost us {reg1} denars.
-; qstr_{s61}_and_{reg0}_den|{s61} and {reg0} denars for tariffs
+qstr_{s60}_is_currently_o|{s60} è attualmente occupata da fuorilegge dovremmo andare a contrastarli il più presto possibile.
+qstr__We_are_expecting_{r|Ci aspettiamo {reg0} monete dagli affitti
+qstr__The_troop_wages_for|Il salario di truppe per {reg0} truppe ci costa {reg1}  monete.
+qstr_{s61}_and_{reg0}_den|{s61} e {reg0} denari dalle tariffe
 qstr_Well_{s60}.|Bene, {s60}.
 ; qstr_{s4}_{s3}._The_tax_r|{s4} {s3}. The tax rate is {s50}.{s59}{s61}. Overall this sums up to {s62} denars.
 qstr_Tax_rate_for_{s6}:_{|Livello tassazione per {s6}: {s11}
@@ -1464,18 +1464,18 @@ qstr_The_{s17}_has_the_fol|Il {s17} ha i seguenti miglioramenti: {s18}.
 ; qstr_My_friend_I_see_your|My friend, I see your reasoning. But would you really risk straining our friendship by entering into a formal partnership?
 ; qstr_Agreed!_Your_words_c|Agreed! Your words convice me as much as your blade.
 ; qstr_I_trust_you_my_famil|I trust you, my family could use your resourcefulness. Together we will spread our influence all over the world.
-; qstr_May_God_have_mercy_o|May God have mercy on our enemy souls, because we won't!
-; qstr_So_be_it._We_are_hon|So be it. We are honored to accept you into our family.
-; qstr__I_will_appreciate_y| I will appreciate you as much as a son.
-; qstr_I_accept_your_reques|I accept your request. We will support you if you support my family.
+qstr_May_God_have_mercy_o|Che Dio abbia pietà delle anime dei nostri nemici, poichè noi non ne avremo!
+qstr_So_be_it._We_are_hon|Così sia. Siamo onorati di accoglierti nella nostra famiglia.
+qstr__I_will_appreciate_y|Siete come un figlio per me.
+qstr_I_accept_your_reques|Accetto la vostra richiesta. Vi sosterremo se sosterrete la mia famiglia.
 ; qstr_Since_you_have_turne|Since you have turned out to be a worthy fellow, you should be worthy for our entire family.
-; qstr_Your_leader_is_not_e|Your leader is not even a king and I shall join you?
+qstr_Your_leader_is_not_e|Il vostro condottiero non è nemmeno un re e dovrei unirmi a voi?
 ; qstr_{s40}_I_would_never_|{s40} I would never join someone who doesn't own a town or castle.
-; qstr_{s40}_I_know_too_lit|{s40} I know too little about your leader.
-; qstr_{s40}_I_found_your_m|{s40} I found your messenger unconvincing.
-; qstr_{s40}_Next_time_I_wo|{s40} Next time I would prefer to talk to someone who doesn't act like a fool.
-; qstr_{s40}_Next_time_I_wou|{s40} Next time I would prefer to talk to someone more versed in courtly manners.
-; qstr_{s40}_I_rather_stay_|{s40} I rather stay with my current king.
+qstr_{s40}_I_know_too_lit|{s40} So troppo poco riguardo al vostrocondottiero.
+qstr_{s40}_I_found_your_m|{s40} Ho trovato il vostro messengero poco convincente.
+qstr_{s40}_Next_time_I_wo|{s40} La prossima volta preferirei parlare con qualcuno che non agisce come un pazzo.
+qstr_{s40}_Next_time_I_wou|{s40} La prossima volta preferirei parlare con qualcuno di buone maniere.
+qstr_{s40}_I_rather_stay_|{s40} preferisco restare fedele al mio re.
 qstr_{s31}_{s32}_{s34}|{s31} {s32} {s34}
 qstr_{playername}_when_we|{playername}, quando abbiamo cominciato il nostro lungo cammino, poche persone avevano il coraggio di aiutarmi. E ancor meno avevano il coraggio di mettere le loro vite a rischio per la mia causa. Non hanno però esitato un attimo a gettarsi nella mischia contro i miei nemici. Siamo andati avanti insieme, e c'erano tempi nei quali stavo per perdere ogni speranza. Ma con l'aiuto di Dio, siamo riusciti a prevalere. Ora per me è il momento di lasciare la vostra Compagnia e di prendere ciò che è mio di diritto. D'ora in poi, sopporterò la grande responsabilità di governare {s3}. Ci sono ancora molte sfide dinnanzi a noi e conto sul vostro aiuto per superarle. Certamente, rimarrete sempre il mio primo vassallo.
 qstr_Find_and_speak_with_{|Trova {s3} del {s4} e parlagli per porgere i tuoi omaggi e prestare giuramento.
@@ -1489,7 +1489,7 @@ qstr_{s9}{reg5?_and_the_l|{s9}{reg5? e il lord di {s8}.:.
 qstr_{s13}_asked_you_to_g|{s13} ti ha chiesto di procurarti {reg3} capi di bestiame e di portarglieli.
 qstr_{s9}_wants_you_to_fol|{s9} vuole che tu segua la sua armata fino ad ulteriori ordini.
 qstr_{s9}_asked_you_to_sc|{s9} ti ha chiesto di esplorare {s13}, {s14} e {s15}, e poi di fare rapporto.
-; qstr_pupil|pupil
+qstr_pupil|Pupillo
 qstr_you|voi
 qstr_You_are_challenging_|Mi avete sfidato a duello? Che buffone! Come volete, {playername}, sarà un bell'esercizio spaccarvi la testa!
 qstr_{s16}_and_{s17}|{s16} e {s17}
@@ -1529,20 +1529,20 @@ qstr_{s11}_asked_you_to_d|{s11} ti ha chiesto di consegnare un messaggio a {s13}
 qstr_You_agreed_to_challe|Sei d'accordo sullo sfidare {s13} per difendere l'onore di {s11}.
 qstr_{s5}__Persuasion_str|{s5} (Forza di persuasione: {reg5})
 qstr_Persuasion_Attempt|Tentativo di Persuasione
-; qstr_Your_current_action_|Your current action is disgraceful.
+qstr_Your_current_action_|La vostra azione è vergognosa.
 qstr_{s12}_and_{s11}|{s12} e {s11}
 qstr_You_can_find_book_me|Potete trovare un mercante di libri a {s11}.
 qstr_{s12}_{s11}|{s12}, {s11}
 qstr_You_can_find_ransom_|Potete trovare un riscattatore a {s11}.
 qstr_You_don_t_have_enoug|Non hai abbastanza monete.
-; qstr_You_don_t_have_enough|You don't have enough room.
-; qstr_Good_luck._You_get_a|Good luck. You get a {s4}{s3}.
-; qstr_Bad_luck._You_get_a_|Bad luck. You get a {s4}{s3}.
+qstr_You_don_t_have_enough|Non hai abbastanza spazio.
+qstr_Good_luck._You_get_a|Fortunato. Ottieni {s4}{s3}.
+qstr_Bad_luck._You_get_a_|Sfortunato. Ottieni {s4}{s3}.
 qstr_You_get_a_{s3}.|Ottieni {s3}.
-; qstr_I_must_admit_I_can_t|I must admit I can't afford to pay you at the moment.
+qstr_I_must_admit_I_can_t|Devo ammettere che non posso permettermi il costo del vostro ingaggio al momento.
 ; qstr_Are_you_mad?_That_s_|Are you mad? That's not going to happen!
 qstr_A_villager_from_{s7}|Un abitante di {s7} ti ha supplicato di salvare il suo villaggio dai banditi che hanno trovato rifugio lì.
-; qstr_You_chose_well_{s0}.|You chose well, {s0}. My {reg65?companions:lads} know how to keep their word and earn their pay.
+qstr_You_chose_well_{s0}.|Avete scelto bene,  {s0}. I miei {reg65?compagni:ragazzi} sanno mantenere la parola e guadagnarsi la paga.
 qstr_Well_done_{s0}._Keep|Ben fatto, {s0}. Conservate i soldi e il vino senza paura durante il viaggio, non c'è nemico in questo mondo che dobbiate temere.
 qstr_We_are_at_your_servi|Siamo al vostro servizio, {signore/signora}. Indicateci la direzione di costoro che abbisognano di una lezione, e noi faremo il resto.
 qstr_The_Guildmaster_of_{|Il Borgomastro di {s13} ti ha chiesto di occuparti dei banditi che si aggirano per queste campagne.
