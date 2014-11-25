@@ -3,7 +3,7 @@ p_town_1|Villahermana
 p_town_3|Salinas
 p_town_6|Atalaya Llorosa
 p_town_8|Puerto Gaviota
-p_town_9|Buenmercado
+p_town_9|Bonmercato
 p_town_12|Pentos
 p_town_16|Desembarco del Rey
 p_town_17|Braavos
@@ -98,7 +98,7 @@ p_castle_63|Bandallon
 p_castle_64|Roble Viejo
 p_castle_65|Sotodeoro
 p_castle_66|La Sidra
-p_castle_67|Grassfield Keep
+p_castle_67|Valdehierba
 p_castle_68|Granmesa
 p_castle_69|Hogar del Sol
 p_castle_70|Puenteamargo
@@ -139,7 +139,7 @@ p_castle_111|Escudo de Roble
 p_castle_112|Acantilados Grises
 p_castle_115|Lago Rojo
 p_castle_119|Castillo de Marea Negra
-p_castle_120|Wyk Hall
+p_castle_120|Salón Wyk
 p_castle_127|Aguasdulces
 p_castle_128|Cueva de los Cráneos
 p_castle_129|Invernalia
@@ -153,7 +153,7 @@ p_castle_136|Colmillo Dorado
 p_castle_137|Marcaderiva
 p_castle_138|Isla del oso
 p_castle_139|Stokeworth
-p_village_1|Orilla de Lobos
+p_village_1|Los Riachuelos
 p_village_2|Cabo del Rey
 p_village_3|Cuello de Dragón
 p_village_4|Ciudad de Lago
@@ -197,7 +197,7 @@ p_village_41|Aldea de Valle
 p_village_42|Newkeep
 p_village_43|Mercado El Dedo
 p_village_44|Rivera del Buitre
-p_village_45|Driftwood
+p_village_45|Derivamadera
 p_village_46|Garfio de Massey
 p_village_47|Posada La Horca
 p_village_48|Camino del Bosque
@@ -208,8 +208,8 @@ p_village_52|Bahía Zafiro
 p_village_53|Posada El Astado
 p_village_54|Atalaya de la Víbora
 p_village_55|Cabo de la Ira
-p_village_56|Elmwood
-p_village_57|La selva
+p_village_56|Alameda
+p_village_57|La Selva
 p_village_58|La Mano Cazada
 p_village_59|Monte Lánguido
 p_village_60|Playa de Verano
@@ -222,11 +222,11 @@ p_village_66|Piedrafresca
 p_village_67|Mercado Marítimo
 p_village_68|Flat Town
 p_village_69|Puerto Ryam
-p_village_70|Fellrun
+p_village_70|Talabrezo
 p_village_71|Cueva Desolada
 p_village_72|Bellamar
-p_village_73|Smithyton
-p_village_74|Falwell
+p_village_73|Forjante
+p_village_74|Puntapoza
 p_village_75|Ojo de Dioses
 p_village_76|Rivera del Hierro
 p_village_77|Algamarina
@@ -244,7 +244,7 @@ p_village_88|Langward
 p_village_89|Aldea de Lord Harroway
 p_village_90|Punta Zarpa Rota
 p_village_91|Roosterton
-p_village_92|Peckledon
+p_village_92|Picaledon
 p_village_93|Cruce de Olmos
 p_village_94|El Paso de Plata
 p_village_95|Plaza de Fuego
@@ -279,21 +279,21 @@ p_village_123|El Bosque de los Peniques
 p_village_124|Camino de la Serpiente
 p_village_125|Acantilados Marrones
 p_village_126|Bahía de Pentos
-p_village_127|Slaver's End
+p_village_127|Punto del esclavero
 p_village_128|Castillo Alto
 p_village_129|Alto Rhoyne
 p_village_130|Acantilados Blancos
 p_village_131|Bajo Nhoyne
-p_village_132|Spice Yard
-p_village_133|Limetree
+p_village_132|Villaspecias
+p_village_133|Tilar
 p_village_134|La Corriente del Ámbar
-p_village_135|Wreckstone
+p_village_135|Petrarota
 p_village_136|Chyttering
 p_village_137|Torrentenegro
 p_village_138|La Torre Sangrante
-p_village_139|Lavender Shore
+p_village_139|Costa Lavanda
 p_village_140|Mar de la Alegría
-p_village_141|Holyhall
+p_village_141|Santocastillo
 p_village_142|Cantera
 p_village_143|Colina Pino
 p_village_144|Colina Hierro
@@ -317,8 +317,8 @@ p_village_161|Valle Brandy
 p_village_162|Sherrer
 p_village_163|Camino del Río
 p_village_164|Charca Cenagosa
-p_village_165|Little Rock
-p_village_166|Marshdown
+p_village_165|Chicapiedra
+p_village_166|Manglar
 p_village_167|El Anillo del Vacío
 p_village_168|Dedomiel
 p_village_169|Puerto Duna
@@ -334,7 +334,7 @@ p_village_178|Cedro
 p_village_179|La Hija Tímida
 p_village_180|Ruinas de Sarhoy
 p_village_181|Acantilados Naranjas
-p_village_182|Pinchfire
+p_village_182|Pizcalumbre
 p_village_183|Villacauce
 p_village_184|Árbol de Especias
 p_village_185|Montaña Nyel
@@ -402,7 +402,7 @@ p_brookwater_keep|Guarida del Arroyo
 p_dragonstone_village|Pueblo pesquero
 p_haldon_bath|Baños en ruinas
 p_horror_cave|Viejo Túmulo
-p_golden_company_camp|La Compañçia Dorada
+p_golden_company_camp|La Compañía Dorada
 p_cairn_hall|Cairnhall
 p_mole_town|Villa Topo
 p_bridge_of_skulls|La Garganta

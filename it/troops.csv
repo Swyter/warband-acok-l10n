@@ -350,12 +350,12 @@ trp_nord_e_aetheling|I7 Nord Aetheling
 trp_nord_e_aetheling_pl|I7 Nord Aethelinger
 trp_nord_e_vaeringi|I7 Nord Vaeringi
 trp_nord_e_vaeringi_pl|I7 Nord Vaeringir
-trp_nord_e_extra1|I1 Pietro Nord Bondi
-trp_nord_e_extra1_pl|I1 Pietro Nord Bondir
+trp_nord_e_extra1|I1 Rebelous Nord Bondi
+trp_nord_e_extra1_pl|I1 Rebelous Nord Bondir
 trp_nord_e_extra2|I1 Avventuroso Nord Bondi
 trp_nord_e_extra2_pl|I1 Avventuroso Nord Bondir
-trp_nord_e_extra3|I1 Invidiò Nord Bondi
-trp_nord_e_extra3_pl|I1 Invidiò Nord Bondir
+trp_nord_e_extra3|I1 Begrudged Nord Bondi
+trp_nord_e_extra3_pl|I1 Begrudged Nord Bondir
 trp_nord_e_extra4|I1 Viaggio Nord Bondi
 trp_nord_e_extra4_pl|I1 Viaggio Nord Bondir
 trp_nord_e_extra5|I1 Docile Nord Bondi
@@ -427,11 +427,11 @@ trp_rhodok_r_picchiere_veterano_pl|I5 Rhodok Pichierri Veterani
 trp_rhodok_r_capitano_d_assedio|A6 Rhodok Capitano d'Assedio
 trp_rhodok_r_capitano_d_assedio_pl|A6 Rhodok Capitani d'Assedi
 trp_rhodok_r_extra1|I1 Pietro Rhodok Cittadino
-trp_rhodok_r_extra1_pl|I1 Pietro Rhodok Cittadini
+trp_rhodok_r_extra1_pl|I1 Rebelous Rhodok Cittadini
 trp_rhodok_r_extra2|I1 Avventurosi Rhodok Cittadino
 trp_rhodok_r_extra2_pl|I1 Avventurosi Rhodok Cittadini
-trp_rhodok_r_extra3|I1 Invidiò Rhodok Cittadino
-trp_rhodok_r_extra3_pl|I1 Invidiò Rhodok Cittadini
+trp_rhodok_r_extra3|I1 Begrudged Rhodok Cittadino
+trp_rhodok_r_extra3_pl|I1 Begrudged Rhodok Cittadini
 trp_rhodok_r_extra4|I1 Viaggio Rhodok Cittadino
 trp_rhodok_r_extra4_pl|I1 Viaggio Rhodok Cittadini
 trp_rhodok_r_extra5|I1 Docile Rhodok Cittadino
@@ -490,12 +490,12 @@ trp_rhodok_e_condottiero_d_assedio|A7 Rhodok Condottiero d'Assedio
 trp_rhodok_e_condottiero_d_assedio_pl|A7 Rhodok Condottieri d'Assedi
 trp_rhodok_e_condottiero|I7 Rhodok Condottiero
 trp_rhodok_e_condottiero_pl|I7 Rhodok Condottieri
-trp_rhodok_e_extra1|I1 Pietro Rhodok Cittadino
-trp_rhodok_e_extra1_pl|I1 Pietro Rhodok Cittadini
+trp_rhodok_e_extra1|I1 Rebelous Rhodok Cittadino
+trp_rhodok_e_extra1_pl|I1 Rebelous Rhodok Cittadini
 trp_rhodok_e_extra2|I1 Avventurosi Rhodok Cittadino
 trp_rhodok_e_extra2_pl|I1 Avventurosi Rhodok Cittadini
-trp_rhodok_e_extra3|I1 Invidiò Rhodok Cittadino
-trp_rhodok_e_extra3_pl|I1 Invidiò Rhodok Cittadini
+trp_rhodok_e_extra3|I1 Begrudged Rhodok Cittadino
+trp_rhodok_e_extra3_pl|I1 Begrudged Rhodok Cittadini
 trp_rhodok_e_extra4|I1 Viaggio Rhodok Cittadino
 trp_rhodok_e_extra4_pl|I1 Viaggio Rhodok Cittadini
 trp_rhodok_e_extra5|I1 Docile Rhodok Cittadino
@@ -1806,18 +1806,18 @@ trp_vaegir_town_walker_m_average|Cittadino
 trp_vaegir_town_walker_m_average_pl|Cittadini
 trp_vaegir_town_walker_f_average|Cittadina
 trp_vaegir_town_walker_f_average_pl|Cittadine
-trp_khergit_town_walker_m_average|Cittadino
-trp_khergit_town_walker_m_average_pl|Cittadini
-trp_khergit_town_walker_f_average|Cittadino
-trp_khergit_town_walker_f_average_pl|Cittadini
+trp_khergit_town_walker_m_average|Civile
+trp_khergit_town_walker_m_average_pl|Civili
+trp_khergit_town_walker_f_average|Civile
+trp_khergit_town_walker_f_average_pl|Civili
 trp_nord_town_walker_m_average|Cittadino
 trp_nord_town_walker_m_average_pl|Cittadini
 trp_nord_town_walker_f_average|Cittadina
 trp_nord_town_walker_f_average_pl|Cittadine
-trp_rhodok_town_walker_m_average|Cittadino
-trp_rhodok_town_walker_m_average_pl|Cittadino
-trp_rhodok_town_walker_f_average|Cittadino
-trp_rhodok_town_walker_f_average_pl|Cittadini
+trp_rhodok_town_walker_m_average|Civile
+trp_rhodok_town_walker_m_average_pl|Civile
+trp_rhodok_town_walker_f_average|Civile
+trp_rhodok_town_walker_f_average_pl|Civili
 trp_sarranid_town_walker_m_average|Cittadino
 trp_sarranid_town_walker_m_average_pl|Cittadini
 trp_sarranid_town_walker_f_average|Cittadina
@@ -4993,8 +4993,8 @@ trp_spy|Comune Cittadino
 trp_spy_pl|Comuni Cittadini
 trp_spy_partner|Cittadino Insospettabile
 trp_spy_partner_pl|Cittadini Insospettabili
-trp_nurse_for_lady|Nutrice
-trp_nurse_for_lady_pl|Nutrici
+trp_nurse_for_lady|Dama di compagnia
+trp_nurse_for_lady_pl|Dama di compagnia
 trp_temporary_minister|Ministro
 trp_temporary_minister_pl|Ministri
 ; trp_runaway_girl|Bride-to-be
@@ -5073,7 +5073,7 @@ trp_sarranid_footman_multiplayer|Sarranid Footman
 trp_sarranid_footman_multiplayer_pl|Sarranid footman
 trp_sarranid_mamluke_multiplayer|Sarranid Mamluke
 trp_sarranid_mamluke_multiplayer_pl|Sarranid Mamluke
-trp_nurse|Nutrici
+trp_nurse|Dama di compagnia
 trp_quick_battle_troop_1|Rodrigo de Braganca
 trp_quick_battle_troop_1_pl|Rodrigo de Braganca
 trp_quick_battle_troop_2|Usiatra
