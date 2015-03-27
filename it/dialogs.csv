@@ -997,7 +997,7 @@ dlga_minister_diplomatic_kingdoms:minister_pretalk|Sfortunatamente, non c'è nes
 dlga_minister_diplomatic_kingdoms_select:minister_diplomatic_initiative_type|{s10} del {s11}{s14}
 dlga_minister_diplomatic_kingdoms_select:minister_pretalk|Non importa.
 dlga_minister_diplomatic_initiative_type:minister_diplomatic_initiative_type_select|Quale comunicazione volete mandar{reg0?le:gli}?
-; dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.6|That our two sovereignties should enter into truce.
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.6|Che le nostre due sovranità dovrebbero porre una tregua.
 dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.7|Desidero pormi sotto la sua protezione, come suo vassallo.
 dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.8|Desidero esprimere la mia buona volontà, da un monarca a un altro.
 dlga_minister_diplomatic_initiative_type_select:minister_declare_war|Che {reg0?le:gli} dichiaro guerra.
@@ -1052,7 +1052,7 @@ dlga_companion_quitting_response:companion_quitting_yes|Va bene. Potete seguire 
 dlga_companion_quitting_response:dplmc_companion_quitting_persuasion_start|Forse posso persuadervi a cambiare idea.
 dlga_dplmc_companion_quitting_persuasion_start:dplmc_companion_quitting_persuasion_1|Molto bene, vi ascolterò fuori.
 dlga_dplmc_companion_quitting_persuasion_start:dplmc_companion_quitting_persuasion_1.1|Sto ascoltando.
-; dlga_dplmc_companion_quitting_persuasion_1:companion_quitting_persuasion|We've had some good times.  Things might not be going to your liking now, but stay with me a while longer and the situation will turn around.
+dlga_dplmc_companion_quitting_persuasion_1:companion_quitting_persuasion|Abbiamo avuto dei momenti buoni. Le cose potrebbero non andare a tuo piacimento ora, ma stai con me ancora un po' e la situazione si volterà.
 dlga_dplmc_companion_quitting_persuasion_1:dplmc_companion_quitting_persuasion_bribe|Magari {reg0} monete protrebbero convincerti a rimanere più a lungo?
 dlga_dplmc_companion_quitting_persuasion_1:companion_quitting_response|In realtà, non importa. Volevo dire qualcos'altro.
 dlga_dplmc_companion_quitting_persuasion_bribe:close_window|Hmm. Se la mettete in questo modo, penso di poter rimanere ancora un po', vedremo se le cose migliorano.
@@ -1103,8 +1103,8 @@ dlga_event_triggered:companion_rejoin_response.6|Bene, {s21}, finalmente vi ho t
 dlga_event_triggered:companion_embassy_results|Bene, {s21}, alla fine vi ho trovato. Sono tornato dalla mia missione a {s31}. Nell'insieme, direi, {s14}.
 dlga_companion_embassy_results:companion_rejoin_response|In questa lettera, {s12} si rivolge a voi come {signore/signora} di {s4}, il che implica il riconoscimento in qualità di monarca indipendente.
 dlga_companion_embassy_results:companion_rejoin_response.1|In questa lettera, {s12} si rivolge a voi semplicemente come {playername}, omettendo qualsiasi titolo. Questo non costituisce alcun riconoscimento al vostro diritto a regnare.
-; dlga_companion_embassy_results:companion_rejoin_response.2|In {reg0?her:his} letter, {s12} merely refers to you as {playername}, omitting any title. This does not constitute recognition of your right to rule. The letter implies that {reg0?she:he} is unwilling to extend recognition due to your occupation of {s0}.
-; dlga_companion_embassy_results:companion_rejoin_response.3|In this letter, {s12} addresses {reg0?her:his} response to {s0}, referring to you only as {s0}'s faithful vassal. This does not constitute recognition of your right to rule.
+dlga_companion_embassy_results:companion_rejoin_response.2|Nella sua lettera, {s12} chiaramente si riferisce a voi come {playername}, omettendo qualsiasi titolo. Questo non significa un riconoscimento al tuo diritto a regnare, La lettera implica che {reg0?ella non è disposta:egli non è disposto} ad effettuare questo riconoscimento a causa della vostra occupazione di {s0}.
+dlga_companion_embassy_results:companion_rejoin_response.3|In questa lettera, {s12} indirizza {reg0?la sua:la sua} risposta a {s0}, riferendosi a te solo come un fedele vassallo di {s0}. Questo non costituisce un riconoscimento al tuo diritto a regnare.
 dlga_companion_embassy_results:companion_rejoin_response.4|In questa lettera, {s12} si rivolge a voi semplicemente come {playername}, omettendo qualsiasi titolo. Questo non costituisce alcun riconoscimento al vostro diritto a regnare.
 dlga_companion_embassy_results:companion_rejoin_response.5|{s12} dice di non credere che onorerete i vostri obblighi di vassallo, e sospetta che la vostra offerta sia solo uno stratagemma.
 dlga_companion_embassy_results:companion_truce_confirm|{s12} dice che è dispost{reg0?a:o} a prendere in considerazione una tregua di venti giorni.
@@ -1112,7 +1112,7 @@ dlga_companion_embassy_results:companion_rejoin_response.6|{s12} dice che è dis
 dlga_companion_truce_confirm:companion_rejoin_response|Molto bene, allora la pace con il {s4} puo' considerarsi fatta.
 dlga_companion_truce_confirm:companion_rejoin_response.1|Ho cambiato idea, forse ciò non è attualmente nel nostro interesse...
 dlga_companion_embassy_results:companion_rejoin_response.7|{s12} dice che si è già impegnato a un altro sovrano.
-; dlga_companion_embassy_results:companion_rejoin_response.8|{s12} says that {reg0?she:he} does not believe that you would honor your obligations as a vassal, and suspects that your offer is just a ploy.
+dlga_companion_embassy_results:companion_rejoin_response.8|{s12} dice che {reg0?ella:egli} non crede che voi onorereste i vostri obblighi in qualità di vassallo, e sospetta che la vostra offerta sia solo uno stratagemma.
 dlga_companion_embassy_results:vassalage_offer_confirm|{s12} dice che accetta la vostra offerta di vassallaggio. Vi dà 20 giorni per andare a trovarl{reg0?a:o}, e durante questo tempo si asterrà dal fare la guerra contro di voi.
 dlga_vassalage_offer_confirm:companion_rejoin_response|Rispondete{reg0?le:gli} che accetto le sue condizioni...
 dlga_companion_rejoin_response:close_window|Bentornato, amico!
@@ -1131,11 +1131,11 @@ dlga_female_pc_marriage_vow:lord_groom_wedding_complete|Io dichiaro di prendere 
 dlga_female_pc_marriage_vow:close_window|Aspettate... Ho bisogno di pensarci.
 dlga_lord_groom_wedding_complete:close_window|Ora siamo marito e moglie. Che i festeggiamenti abbiano inizio!
 dlga_start:close_window.13|Molto bene, siete arrivato a destinazione. Non c'è altro da dire.
-; dlga_start:close_window.14|Well! Please, do not trouble yourself to rise from the ground, as I would simply have to knock you down again. I shall take your silence as an apology. Good day to you.
-; dlga_start:close_window.15|Very well. You've made your point. I retract what I said. I hope you have obtained satisfaction.
-; dlga_start:close_window.16|Hah! Not so gallant now, are we? Now trouble me no more.
-; dlga_start:close_window.17|Very well -- you have won. Let all those present today witness that you have defeated me, and I shall abandon my suit of {s10}. Are you satisfied, you heartless {bastard/bitch}?
-; dlga_start:close_window.18|Get up. Let all those present today witness that I have defeated you, and you are now bound to relinquish your suit of the {s10}. I will permit you one final visit, to make your farewells. After that, if you persist in attempting to see {reg0?her:him}, everyone shall know that you are a {man/woman} of scant honor.
+dlga_start:close_window.14|Bene! Per favore, non disturbatevi a rialzarvi da terra, altrimenti dovrei semplicemente atterrarvi di nuovo. Prenderò il vostro silenzio come una scusa. Buon giorno a voi.
+dlga_start:close_window.15|Ottimo. Avete detto la vostra. Ritratto ciò che ho detto. Spero che ne siate soddisfatto.
+dlga_start:close_window.16|Hah! Non è così galante adesso, vero? Ora non mi infastidite più.
+dlga_start:close_window.17|Molto bene - avete vinto. Che tutti i presenti oggi testimonino che mi avete sconfitto, e che io debba abbandonare le mie pretese su {s10}. Siete soddisfatto, o {bastardo / cagna} senza cuore?
+dlga_start:close_window.18|Alzatevi. Che tutti i presenti oggi testimonino che vi ho sconfitto, e voi ora siete destinato a cedere le vostre pretese su {s10}. Vi permetterò una visita finale, per rendere i vostri addii. Dopo di che, se persisterete nel tentativo di veder{reg0 la:? lo}, ognuno saprà che siete un{ uomo /a donna} di scarso onore.
 dlga_start:player_siege_castle_commander_1|Cosa volete?
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|Arrendetevi! La vostra situazione è senza speranza!
 dlga_player_siege_castle_commander_1:close_window|Niente. Adesso vado.
@@ -1201,7 +1201,7 @@ dlga_pretender_rebellion_cause_2:pretender_rebellion_cause_3|{s48}
 dlga_pretender_rebellion_cause_3:pretender_start|{s48}
 dlga_pretender_start:pretender_discuss_rebellion_1|Voglio unirmi alla vostra causa ed aiutarvi a reclamare il trono!
 dlga_pretender_start:pretender_end|Devo andare.
-; dlga_pretender_discuss_rebellion_1:pretender_discuss_rebellion_2a|Are you sure you will be up to the task, {playername}? Reclaiming my throne will be no simple matter.The {s0} of our realm have all sworn oaths of homage to {s11}. Such oaths to a usurper are of course invalid, and we can expect some of the {s0} to side with us, but it will be a very tough and challenging struggle ahead.
+dlga_pretender_discuss_rebellion_1:pretender_discuss_rebellion_2a|Sei sicuro che sarete all'altezza del compito, {playername}? Rivendicare il mio trono non sarà una cosa semplice. Il {s0} del nostro regno hanno tutti posto giuramento a {s11}. Tali giuramenti ad un usurpatore sono naturalmente invalidi, e possiamo aspettarci alcuni dei {s0} si schierino con noi, ma sarà una lotta molto dura e impegnativa a lungo andare.
 dlga_pretender_discuss_rebellion_2a:pretender_discuss_rebellion_2|{s11}
 dlga_pretender_discuss_rebellion_2:pretender_discuss_rebellion_3|Posso dare battaglia sin da subito.
 dlga_pretender_discuss_rebellion_2:pretender_end|Avete ragione. Forse, ci dovrei riflettere un po' di più.
@@ -1210,7 +1210,7 @@ dlga_pretender_discuss_rebellion_3:close_window.1|Non avete già portato avanti 
 dlga_pretender_discuss_rebellion_3:close_window.2|{playername}, avete già giurato fedeltà a {s15}. Non posso permettervi di prendere parte alla mia causa, e lasciare che i miei nemici dicano che sono un mero burattino di {s16}. No, se sarò io a prendere il trono di {s17}, devo farlo solo per la rettitudine della mia causa e l'appoggio dei miei sostenitori. Se volete aiutarmi, dovete prima liberarvi dal giuramento fatto a {s15}.
 dlga_pretender_discuss_rebellion_3:close_window.3|Siete monarca nel vostro pieno diritto, {signore/mia signora}. Se doveste tornare indietro con me, sarei solo un fantoccio nelle vostre mani.
 dlga_pretender_discuss_rebellion_3:pretender_rebellion_ready|Siete una persona capace e valida in battaglia, {playername}, e sono sicuro che con la vostra fama di comandante e la mia retta causa, i nobili e le buone persone di {s12} si uniranno in nostro supporto. Il tempo è maturo per agire! Verrò con voi, e insieme spodesteremo l'usurpatore {s11} e prenderemo il trono dalle sue mani insanguinate. Ma prima, dovete farmi il vostro giuramento e dovete accettarmi come vostro sovrano, {reg65?signora:signore}.
-; dlga_pretender_rebellion_ready:lord_give_oath_2|I am ready to pledge myself to your cause, my liege.
+dlga_pretender_rebellion_ready:lord_give_oath_2|Sono pronto ad impegnarmi per la vostra causa, mio signore.
 dlga_pretender_rebellion_ready:pretender_end|Attendiamo un altro poco.
 dlga_lord_give_conclude_2:close_window|Avanti, allora! Il nostro primo obiettivo è quello di conquistare una fortezza e persuadere gli altri lords ad unirsi a noi. Guidateci alla vittoria!
 dlga_pretender_end:close_window|Arrivederci per adesso, allora.
@@ -1267,20 +1267,20 @@ dlga_lord_start:lord_wedding_reschedule|È un piacere vedervi, {playername}. Asp
 dlga_lord_wedding_reschedule:lord_start|Non è un problema. Posso aspettare.
 dlga_lord_wedding_reschedule:lord_return_dower|Io non credo che questo matrimonio avrà luogo. Vi prego di restituirmi la dote.
 dlga_lord_return_dower:close_window|D'accordo, è nel vostro diritto, se davvero non avete fiducia nelle promesse della nostra famiglia. Tenete i vostri soldi.
-; dlga_lord_talk:immobile_lord|My lady, you should not ride into war like this.
-; dlga_immobile_lord:immobile_lord2|I have no intention of doing any such thing, {playername}, but that does not prevent me from accompanying my brave men.
-; dlga_immobile_lord2:lord_pretalk|Now that my dear husband and son are both in the grave, I can do nothing but try and avenge them.
-; dlga_lord_talk:immobile_lord.1|My lord, you look... encumbered.
-; dlga_immobile_lord:immobile_lord2.1|I understand what you're saying {playername}, but worry not. I shall not be going into battle any time soon. In my youth, I won some small acclaim in the lists, but my days of wearing armor are long gone.
-; dlga_immobile_lord2:lord_pretalk.1|I am fat, and many think that makes me weak and foolish, but I am not. I shall accompany my soldiers and encourage them to perform their very best, that we might win this war.
-; dlga_immobile_lord2:lord_pretalk.2|Lady Lysa has kept us out of the war so far, but the Waynwoods are a powerful House, with an illustrious history, and I must be seen being active and a force to be reckoned with.
-; dlga_immobile_lord2:lord_pretalk.3|The women of Dorne do not share the sentiments of the other families of Westeros, and as the head of House Blackmont, I have to take an active hand in handling the affairs of the realm and my domains.
-; dlga_immobile_lord2:lord_pretalk.4|The women of Dorne do not share the sentiments of the other families of Westeros, and as the head of House Allyrion, I have to take an active hand in handling the affairs of the realm and my domains.
-; dlga_immobile_lord2:lord_pretalk.5|The women of Dorne do not share the sentiments of the other families of Westeros, and as the head of House Toland, I have to take an active hand in handling the affairs of the realm and my domains.
-; dlga_lord_talk:immobile_lord.2|Ser Balman, you look... ill.
-; dlga_immobile_lord:immobile_lord2.2|Ah yes... I have an, erh, bad stomach. Wine helps it settle, and I've been told it's good for the digestion...
-; dlga_immobile_lord2:lord_pretalk.6|But I'm not a coward! In my youth, I won great acclaim in the jousts, and if it wasn't for this damned stomach of mine, I'd be at the front of the battlelines!
-; dlga_immobile_lord:lord_pretalk|I have no intention of doing any such thing, {playername}, but that does not prevent me from accompanying my brave men.
+dlga_lord_talk:immobile_lord|Mia signora, non dovreste entrare in una guerra come questa.
+dlga_immobile_lord:immobile_lord2|Non ho intenzione di fare una cosa del genere, {playername}, ma questo non mi impedisce di accompagnare i miei uomini coraggiosi.
+dlga_immobile_lord2:lord_pretalk|Ora che il mio caro marito e figlio sono entrambi nella tomba, non posso fare altro che cercare di vendicarli.
+dlga_lord_talk:immobile_lord.1|Mio signore, sembrate... provato.
+dlga_immobile_lord:immobile_lord2.1|Capisco ciò che dite {playername}, ma non preoccupatevi. Non mi recherò in battaglia presto. Nella mia giovinezza, ho vinto qualche piccolo acclamo nelle competizioni, ma i miei giorni in cui indossavo un' armatura sono ormai lontani.
+dlga_immobile_lord2:lord_pretalk.1|Sono grasso, e molti pensano che ciò mi renda debole e sciocco, ma non lo sono. Io accompagno i miei soldati e incoraggio a fare del loro meglio, al fine di vincere questa guerra.
+dlga_immobile_lord2:lord_pretalk.2|Lady Lysa ci ha tenuti fuori dalla guerra finora, ma i Waynwoods sono un casato potente, con una storia illustre, e devo essere visto attivo e con una forza da essere tenuta in considerazione.
+dlga_immobile_lord2:lord_pretalk.3|Le donne di Dorne non condividere i sentimenti delle altre famiglie di Westeros, e come capo della Casa Blackmont, devo prendere una mano attiva nella gestione degli affari del regno e dei miei domini.
+dlga_immobile_lord2:lord_pretalk.4|Le donne di Dorne non condividono i sentimenti delle altre famiglie di Westeros, e come capo della Casa Allyrion, devo essere attivo nella gestione degli affari del regno e dei miei domini.
+dlga_immobile_lord2:lord_pretalk.5|Le donne di Dorne non condividere i sentimenti delle altre famiglie di Westeros, e come capo della Casa Toland, devo prendere una mano attiva nella gestione degli affari del regno e dei miei domini.
+dlga_lord_talk:immobile_lord.2|Ser Balman, sembrate... malato.
+dlga_immobile_lord:immobile_lord2.2|Ah sì ... Ho un, erh, mal di stomaco. Il vino aiuta riposare, e mi è stato detto che è un bene per la digestione...
+dlga_immobile_lord2:lord_pretalk.6|Ma io non sono un vigliacco! Nella mia giovinezza, ho vinto con grande successo nei tornei, e se non fosse per questo maledetto mio stomaco, sarei di fronte le linee di battaglia!
+dlga_immobile_lord:lord_pretalk|Non ho intenzione di fare una cosa del genere, {playername}, ma questo non mi impedisce di accompagnare i miei uomini coraggiosi.
 dlga_lord_start:lord_generic_mission_completed.1|Ah! La nostra piccola trama contro {s3} ha funzionato perfettamente, {playername}. Lo sciocco ha perso uno dei {reg0?suoi:suoi} più fedeli seguaci, e noi siamo un passo più vicini al {reg0?metterla:metterlo} in ginocchio. Ecco, questa borsa contiene {reg5} denari, e vorrei che li aveste voi. Meritate ogni moneta. E, devo ricordarvelo, potrebbero essercene anche di più se avete intenzione di guadagnarne...
 dlga_lord_start:close_window|Non avete mostrato la capacità di portare a termine un semplice compito. Avevo preparato tutto. L'unica cosa di cui avevi bisogno era di sacrificare un messaggero, e noi staremmo festeggiando ora. Ma no, voi eravate troppo onorevole per farlo, vero!?
 dlga_lord_start:quest_meet_spy_in_enemy_town_completed|Mi avete portato delle nuove notizie sul compito che vi ho assegnato? Sapete che voglio dire...
@@ -1380,7 +1380,7 @@ dlga_lord_denounce_2:lord_denounce_3|Mi avete sentito. Voi sareste {s4}
 dlga_lord_denounce_2:lord_pretalk|Non importa. Dovete aver sentito male.
 dlga_lord_denounce_3:close_window|Perché dite una cosa simile? Per insultarmi così, in spregio alla nostra amicizia... Quanto è più crudele un coltello nella schiena da un ex amico, che la spada di un nemico giurato... Non so a che gioco stiate giocando, ma non voglio averci a che fare. Andatevene. Non voglio più vedervi!
 dlga_lord_denounce_3:close_window.1|Hmf. Davvero? Questa è la vostra opinione, o avete messo queste parole in bocca ad uno dei miei rivali? Non importa. Non starò al vostro gioco. Andatevene via, e portate i vostri intrighi con voi.
-; dlga_lord_denounce_3:lord_denounce_4|I will not have you shame me in public. Retract your words, or meet me on the duelling ground.
+dlga_lord_denounce_3:lord_denounce_4|Non permetterò che mi insultiate in pubblico. Ritirate le vostre parole, o incontratemi su un terreno da duello.
 dlga_lord_denounce_3:lord_denounce_4.1|È così? Beh, sentite questo: Siete una serpe, e una persona disonesta, e se non m'incontrerete sul terreno del duello, anche una persona dotata di vigliaccheria. Che ne dite di questo? Volete ritirare le vostre parole, o dobbiamo incrociare le spade?
 dlga_lord_denounce_4:lord_respond_to_insult_challenge_duel_confirm|Sarà un piacere combattere contro di voi.
 dlga_lord_denounce_4:lord_denounce_retract|Ho parlato avventatamente. Ritiro le mie parole.
@@ -1450,13 +1450,13 @@ dlga_lord_internal_politics_cur_stance_plyr_response:dplmc_lord_internal_politic
 dlga_dplmc_lord_internal_politics_plyr_request_support_1:dplmc_lord_internal_politics_plyr_request_support_1|Chi hai in mente?
 dlga_dplmc_lord_internal_politics_plyr_request_support_1:lord_pretalk|Niente... non importa.
 dlga_dplmc_lord_internal_politics_plyr_request_support_1:dplmc_lord_internal_politics_plyr_request_support_2|{s4}
-; dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk|Given our relationship, I would prefer to keep my own counsel on this matter.
+dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk|Data la nostra relazione, io preferirei mantenere il mio parere su questo tema.
 dlga_lord_internal_politics_support_same_acknowledge:lord_pretalk.3|Dati i vostri rapporti con {s4}, non credo che gradirebbe il vostro supporto.
-; dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.1|{s4} has engendered too much controversy for {reg3?her:him} to be a viable candidate right now.  I would advise {reg3?her:him} to wait a little while before seeking any further honors.
+dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.1|{s4} ha generato troppa controversia riguardo se {reg3?stessa per essere una valida candidata:stesso per essere un valido candidato} al momento. Vorrei consigliare ad {reg3?ella:Egli} di aspettare un po' di tempo prima di cercare ulteriori riconoscimenti.
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.2|Direi che {s4} è già stat{reg3?a:o} ricompensat{reg3?a:o} con feudi in modo appropriato per i suoi successi.
-; dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.3|I think {s4} would need to prove {reg3?herself:himself} further before {reg3?she:he} is eligible for that position.
-; dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.4|{s3} deserves to receive {s0} more than {s4}, I would say.
-; dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.5|I think {s4} would need to prove {reg3?herself:himself} further before {reg3?she:he} is eligible for that position.
+dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.3|Penso che {s4} avrebbe bisogno di dimostrare quanto valga prima che {reg3?ella:egli} possa meritarsi quella posizione.
+dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.4|{s3} merita di ricevere {s0} più di {s4}, direi.
+dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.5|Penso che {s4} avrebbe bisogno di dimostrare quanto valga prima che {reg3?ella:egli} possa meritarsi quella posizione.
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.6|{s1}
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.7|Hmm... Chiedete troppo, visto lo stato della relazione tra noi due.
 dlga_dplmc_lord_internal_politics_plyr_request_support_2:lord_pretalk.8|Mi dispiace. Non vorrei rovinare il mio rapporto con {s4}
@@ -1483,10 +1483,10 @@ dlga_lord_spouse_leave_faction:lord_spouse_leave_faction_2.2|Si, come sovrano {s
 dlga_lord_spouse_leave_faction_2:lord_spouse_leave_faction_husband_king|Credo che dovreste essere {s1}, {reg65?moglie mia:marito mio}!
 dlga_lord_spouse_leave_faction_2:lord_spouse_leave_faction_proclaim_queen|Io sono il legittimo sovrano del mondo
 dlga_lord_spouse_leave_faction_2:lord_pretalk|Non importa.
-; dlga_lord_spouse_leave_faction_proclaim_queen:lord_pretalk|I swore an oath to serve {s11}, and {reg0?she:he} has upheld {reg0?her:his} end of the bargain.  Let us have no more of this talk.
+dlga_lord_spouse_leave_faction_proclaim_queen:lord_pretalk|Ho giurato di servire {s11}, ed {reg0?ella:egli} ha decretato la fine del giuramento Cerchiamo di non avere più questa discussione.
 dlga_lord_spouse_leave_faction_proclaim_queen:lord_pretalk.1|Non vedo ragioni per voltare le spalle a {s11} ora.
 dlga_lord_spouse_leave_faction_husband_king:lord_pretalk|Forse un giorno, {s0}. Ma prima di proclamarmi {s1} e uscire pubblicamente allo scoperto, vorrei che uno di noi ottenesse una fortezza dove poter tener corte.
-; dlga_lord_spouse_leave_faction_proclaim_queen:lord_pretalk.2|While I do not contest your claim, {s0}, I should like for one of us to hold a fortress which could serve as our court before we declare ourselves publically.
+dlga_lord_spouse_leave_faction_proclaim_queen:lord_pretalk.2|Dal momento che non contesto il tuo reclamo, {s0}, vorrei tenere per uno di noi una fortezza che potrebbe servire come corte, prima di dichiararci pubblicamente.
 dlga_lord_spouse_leave_faction_proclaim_queen:lord_spouse_leave_faction_proclaim_queen_confirm|{s11}
 dlga_lord_spouse_leave_faction_proclaim_queen:lord_pretalk.3|{s11}
 dlga_lord_spouse_leave_faction_proclaim_queen_confirm:close_window|Sono pront{o, moglie mia/a, marito mio}. Andiamo avanti nel reclamare il nostro trono!
@@ -1524,8 +1524,8 @@ dlga_lord_recruit_3_dilemma_2:lord_recruit_3_why|{s43}
 dlga_lord_recruit_3_why:lord_pretalk|Nessuno di noi possiede neppure una fortezza. Vorreste governare il vostro regno da un nascondiglio di fuorilegge fra i boschi?
 dlga_lord_recruit_3_why:lord_recruit_3_d|Perché dovrei fornire supporto a {s44}?
 dlga_lord_recruit_3_d:lord_recruit_3_claim|{s43}
-; dlga_lord_recruit_3_d:lord_recruit_3_claim.1|If {he/she} were the ruler of the realm, {he/she} would deal with all men fairly and uphold the rights of the commons.
-; dlga_lord_recruit_3_d:lord_recruit_3_claim.2|If {he/she} were your liege, {he/she} would uphold your ancient rights as a noble of this land.
+dlga_lord_recruit_3_d:lord_recruit_3_claim.1|Se {egli/ella} fosse il sovrano del regno, dovrebbe trattare con tutti gli uomini in modo equo e difendere i diritti delle persone comuni.
+dlga_lord_recruit_3_d:lord_recruit_3_claim.2|Se [egli fosse il tuo signore/ella fosse la tua signora], dovrebbe difendere i tuoi antichi diritti in qualità di nobile di questa terra.
 ; dlga_lord_recruit_3_d:lord_recruit_3_claim.3|Because {he/she} can unify the realm and end this discord.
 ; dlga_lord_recruit_3_d:lord_recruit_3_claim.4|Because {he/she} will reward you with lands.
 dlga_lord_recruit_3_d:lord_pretalk|Non importa.
@@ -1912,7 +1912,7 @@ dlga_lord_give_oath_6:lord_give_oath_7|...e sarò al vostro fianco per lottare c
 dlga_lord_give_oath_7:lord_give_oath_8|...e sarò al vostro fianco per lottare contro i vostri nemici se avrete bisogno della mia spada.
 dlga_lord_give_oath_7:lord_give_oath_give_up|Perfavore datemi più tempo per riflettere sulla questione.
 dlga_lord_give_oath_8:lord_give_oath_9|Sosterrò i vostri proclami regali e quelli dei vostri eredi legittimi.
-; dlga_lord_give_oath_9:lord_give_oath_101|Finally, I will uphold your lawful claims and those of your legitimate heirs.
+dlga_lord_give_oath_9:lord_give_oath_101|Sosterrò i vostri proclami regali e quelli dei vostri eredi legittimi.
 dlga_lord_give_oath_9:lord_give_oath_give_up|Ho bisogno di più tempo per considerare la questione.
 ; dlga_lord_give_oath_101:lord_give_oath_102|This I swear by all the gods known to man...
 ; dlga_lord_give_oath_102:lord_give_oath_10|This I swear by all the gods known to man.
@@ -2677,11 +2677,11 @@ dlga_start:runaway_serf_talk_again_return|Stiamo tornando a {s5} {signore/signor
 dlga_runaway_serf_talk_again_return:runaway_serf_talk_again_return_2|Fatelo allora. Prima tornate, meglio sarà per voi.
 dlga_runaway_serf_talk_again_return:runaway_serf_talk_again_return_2.1|Bene. Andate.
 dlga_runaway_serf_talk_again_return_2:close_window|Sì {signore/signora}. Come volete.
-; dlga_start:runaway_serf_reconsider.1|Good day, my {lord/lady}. Don't worry. If anyone asks, we haven't seen you.
-; dlga_start:runaway_serf_talk_caught.1|Good day, {lord/lady}. We were heading back to {s5}, but I am afraid we lost our way.
+dlga_start:runaway_serf_reconsider.1|Buon giorno, {mio signore/mia signora}! Non vi preoccupate. Se qualcuno chiede, noi non l'abbiamo vista.
+dlga_start:runaway_serf_talk_caught.1|Buon giorno, {signore/signora}. Stavamo tornando a {s5}, ma ci siamo persi.
 dlga_start:runaway_serf_intro_1.1|Buon giorno a voi, {mio signore/mia signora}.
 dlga_start:runaway_serf_reconsider.2|Buona giornata {mio signore/mia signora}! Non vi preoccupate. Se qualcuno chiede, noi non l'abbiamo vista.
-; dlga_start:runaway_serf_talk_caught.2|Good day, my {lord/lady}. We were heading back to {s5}, but I am afraid we lost our way.
+dlga_start:runaway_serf_talk_caught.2|Buon giorno, {mio signore/mia signora}. Stavamo tornando a {s5}, ma ci siamo persi.
 dlga_start:runaway_serf_talk_again_return.1|Stiamo tornando a {s5} {mio signore/mia signora}.
 dlga_start:troublesome_bandits_intro_1|Sicuramente questa dev'essere per voi una giornata sfortunata. Siamo i peggiori individui che avreste potuto incontrare da queste parti...
 dlga_troublesome_bandits_intro_1:troublesome_bandits_intro_2|Heh. Per me, non siete altro che un sacco di soldi ambulante. Un mercante in {s1} mi ha offerto una bella somma per la vostra testa.
@@ -3044,8 +3044,8 @@ dlga_european_gunsmith_talk_cozur:european_gunsmith_pistols.1|Vorrei comprare un
 dlga_european_gunsmith_pistols:european_gunsmith_pistols2.1|Ah, {playername}, siete una persona molto gentile, nobile e affascinante! Queste spade vi renderanno invincibile in ogni battaglia! Posso vendervele a non meno di 10000 monete! lo so, è un crimine, ma voi avete una faccia da persona così onesta!
 dlga_european_gunsmith_pistols2:european_gunsmith_talk.4|Prendo la spada che apparteneva a Mazdhan.
 dlga_european_gunsmith_pistols2:european_gunsmith_talk.5|Prendo la spada che apparteneva a Hazrak.
-; dlga_european_gunsmith_pistols2:european_gunsmith_talk.6|I will take the sword that belonged to Zharaq.
-; dlga_european_gunsmith_pistols2:european_gunsmith_talk.7|Actually, cancel that order.
+dlga_european_gunsmith_pistols2:european_gunsmith_talk.6|Prendo la spada che apparteneva a Zharaq.
+dlga_european_gunsmith_pistols2:european_gunsmith_talk.7|Ripensandoci, lasciate stare.
 dlga_start:close_window.73|Urnet luo buzdaro tolvio belma pryjatas!
 dlga_start:close_window.74|Dorior darion udrirzi mijessis.
 dlga_start:close_window.75|Olvie hen embraro tolmiot nykelot avy ivestragon issa.
@@ -3376,7 +3376,7 @@ dlga_pj_wildfire_talk6:close_window|Mi siete stata d'aiuto.
 dlga_start:pj_wildfire_talk.2|Cosa vuoi, eh?
 dlga_pj_wildfire_talk:close_window.2|Niente, me ne vado.
 dlga_pj_wildfire_talk:pj_wildfire_talk2.2|Calma, ragazza. L'insolenza non è una virtù.
-dlga_pj_wildfire_talk2:pj_wildfire_talk3.2|Perdonatemi, {mio signore/mia signora}. Non mi ero accorta di con chi stavo parlando.
+dlga_pj_wildfire_talk2:pj_wildfire_talk3.2|Perdonatemi, {mio signore/mia signora}. Non mi ero accorta con chi stavo parlando.
 dlga_pj_wildfire_talk3:pj_wildfire_talk4|Tua madre pensa che potresti aver sentito parlare di alcuni bruti.
 ; dlga_pj_wildfire_talk4:pj_wildfire_talk5|Yes, {my lord/my lady}. They come over the Wall, Willam said, though Halbert said they sail across the Bay. Then again, what do they know. Josmond said he'd heard Ser Helmans steward talk about wildlings in the Lonely Hills, close to that old abandoned holdfast. Now, {my lord/my lady}, I'm sure you can tell me much more about these wildlings than any of those boys. Mayhaps you could tell me about them in the back of the barn?
 ; dlga_pj_wildfire_talk5:pj_wildfire_talk6.2|No. I don't lie with filthy peasants.
@@ -3813,7 +3813,7 @@ dlga_wildfire_talk:wildfire_talk2.13|E' piena di principe?
 ; dlga_wildfire_talk2:close_window|Tasty prince! The king wronged me, and now he'll pay! HE WILL PAY! The voices told me! They told me that the king was jesting about my knives! The voices... they have cold, blue, eyes...
 dlga_start:close_window.154|Principe saporito, gustosa pancetta, re pazzo! Dove sono i miei figli ?!
 dlga_start:wildfire_talk.16|Arh! Il freddo fa male! Egli ci ha legato!
-; dlga_wildfire_talk:wildfire_talk2.14|Who has bound you? What are you talking about?
+dlga_wildfire_talk:wildfire_talk2.14|Chi ti ha legato? Di cosa stai parlando?
 dlga_wildfire_talk2:close_window.1|Egli ci ha legato. Con il freddo e il sangue, egli ci ha legato alla sua volontà!
 dlga_start:close_window.155|Uccidetemi! Perfavore uccidetemi!
 dlga_start:wildfire_starter_introduce_1.5|Si?
@@ -3873,9 +3873,9 @@ dlga_start:close_window.160|Andatevene
 dlga_start:wildfire_talk.19|Sì?
 ; dlga_wildfire_talk:wildfire_talk2.15|Lady Mellario said you where looking for help?
 dlga_wildfire_talk:close_window.14|Addio.
-; dlga_wildfire_talk2:wildfire_talk3.17|Ah yes! Caravans have been disapperaing in the Pass of Hugor Hill. I suspect a band of outlaws might be using one of the caves as a hideout.
+dlga_wildfire_talk2:wildfire_talk3.17|Ah, sì! Alcune carovane sono scomparse nel Passo di Hugor Hill. Ho il sospetto che una banda di fuorilegge utilizzi una delle grotte come un nascondiglio.
 dlga_wildfire_talk3:wildfire_talk4.17|Che cosa volete che faccia?
-; dlga_wildfire_talk4:wildfire_talk5.17|Go and search for the cave, and kill any outlaws you find
+dlga_wildfire_talk4:wildfire_talk5.17|Andrate a cercare la grotta e uccidete tutti i banditi che trovate
 dlga_wildfire_talk5:wildfire_talk6.17|Hmm... Continua.
 dlga_wildfire_talk5:close_window.14|Addio.
 ; dlga_wildfire_talk6:wildfire_talk7.17|You'll need to deal with the outlaws yourself, you'll never be able to surprise them by lumbering around with half an army.
@@ -3892,13 +3892,13 @@ dlga_pj_wildfire_talk3:close_window.9|Vi ringrazio.
 dlga_start:wildfire_talk.20|Sì, {playername}?
 dlga_wildfire_talk:wildfire_talk2.16|Avete alcuni compiti per me?
 dlga_wildfire_talk:close_window.15|Addio.
-; dlga_wildfire_talk2:wildfire_talk3.18|Ah yes, I do. A close friend of mine has gone missing. He was visiting some ruined baths, north of Myr, but neither I, nor my associates, have heard from him since he set out weeks ago. He was supposed to be back by now.
+dlga_wildfire_talk2:wildfire_talk3.18|Ah, sì, venite. Un mio caro amico è scomparso. E' partito per visitare alcune terme in rovina, a nord di Myr ma, ne io, ne i miei colleghi, abbiamo più avuto sue notizie ed è partito settimane fa. Doveva già essere di ritorno.
 dlga_wildfire_talk3:wildfire_talk4.18|Cosa volete che faccia?
-; dlga_wildfire_talk4:wildfire_talk5.18|Go look for him. If he has met with an unfortunate end, I need you to return any books or scrolls he might carry, but I pray that is not the case. But find out what happened to him, {playername}!
+dlga_wildfire_talk4:wildfire_talk5.18|Andatelo a cercarei. Se per disgrazia è morto, ho bisogno che mi riportiate i libri o le pergamene aveva con sè, prego che non sia questo il caso. Scoprire cosa gli è successo, {playername}!
 dlga_wildfire_talk5:wildfire_talk6.18|Hmm...
 dlga_wildfire_talk5:close_window.15|Addio.
 dlga_wildfire_talk6:wildfire_talk7.18|Mi assicurerò che siate ben ricompensato!
-; dlga_wildfire_talk7:close_window.31|Very well, I will find this friend of yours.
+dlga_wildfire_talk7:close_window.31|Molto bene, Troverò il vostro amico.
 dlga_wildfire_talk7:close_window.32|Non mi interessa.
 dlga_start:close_window.162|Sì?
 dlga_start:pj_wildfire_talk.19|Si?
@@ -3918,16 +3918,16 @@ dlga_start:wildfire_starter_introduce_1.8|Cosa state facendo qui? Questa è prop
 dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.9|Chi è questo magister?
 dlga_wildfire_starter_introduce_2:close_window.9|Egli è uno dei Magisters di Pentos, stupido! Dovrebbe tornare presto e quando sarà tornato, vi farà rimpiangere questo sconfinamento! Ma se avete affari urgenti con lui, lo potete trovare presso il tribunale di Pentos.
 dlga_start:close_window.163|Fuori di qui!
-; dlga_start:wildfire_talk.21|Welcome, my friend. I see you just barged in, without an invitation, but welcome nonetheless. What are you doing here, if you don't mind me asking?
-; dlga_wildfire_talk:wildfire_talk2.17|I am {playername}, and I've come seeking adventure. Do you have any tasks for me?
+dlga_start:wildfire_talk.21|Benvenuto, amico mio. Vedo che avete appena fatto irruzione, senza un invito, ma comunque siete il benvenuto. Cosa ci fate qui, se non vi dispiace dirmelo?
+dlga_wildfire_talk:wildfire_talk2.17|Il mio nome è {playername}, sono un avventuriero. Avete compiti per me?
 dlga_wildfire_talk:close_window.16|Addio.
 ; dlga_wildfire_talk2:wildfire_talk3.19|Yes, {playername}, I do, I do. I need someone to brave the Smoking Sea, and set sail for far away Meereen. An... acquaintance of mine has taken up residence in the city, and I would dearly like to keep in contact with her. So what do you say, {playername}, are you man enough for such a journey?
-; dlga_wildfire_talk3:wildfire_talk4.19|I will brave this Smoking Sea and sail to Meereen!
+dlga_wildfire_talk3:wildfire_talk4.19|Mi inbarcherò nel Smoking Sea e navigherò verso Meereen!
 ; dlga_wildfire_talk4:wildfire_talk5.19|Splendid! You'll be well rewarded, I can assure you that. Once you reach Meereen, seek out Belandra Kheranes, she'll help you on your way. And just between us, if you where to bring some of your own coin with you on the journey, you might be able to make an excellent profit bringing back some spice. Now, sadly, my own ships are all away at sea, so you'll need to find your own way to Meereen.
 dlga_wildfire_talk5:wildfire_talk6.19|Dove posso trovare una nave?
-; dlga_wildfire_talk5:close_window.16|On second thought, I think I'll stay on land.
+dlga_wildfire_talk5:close_window.16|Ci ho ripensato, meglio che resti a terra.
 ; dlga_wildfire_talk6:wildfire_talk7.19|Travel to Volantis, it lies close to old Valyria, and you may be able to hire a ship there. Visit the tavern and see if you can't find Bayle Neres. He's an old rogue, not averse to travelling past Valyria. For the right price.
-; dlga_wildfire_talk7:close_window.33|Very well, I'll return once I've seen Meereen.
+dlga_wildfire_talk7:close_window.33|Molto bene, tornerò dopo aver visto Maeereen.
 dlga_wildfire_talk7:close_window.34|Non mi interessa.
 dlga_start:close_window.164|Sì?
 dlga_start:pj_wildfire_talk.21|Sono occupato, vattene!
@@ -4389,7 +4389,7 @@ dlga_olenna_master_talk:olenna_master_customize|Mia signora, perdonatemi. Come p
 ; dlga_olenna_master_customize1:olenna_master_customize2|This whole business of king-making is foolishness to the core. My oaf of a son ought to remember what happened to Criston Cole, the one they called 'Kingmaker'. What a nickname! May aswell call a murderer 'the Manslayer'. 
 ; dlga_olenna_master_customize2:olenna_master_talk|Anyhow, the egg has been laid, and there's no way to put it back in the hen. I suppose you could force it back up there, but what sort of analogy would that be.
 dlga_olenna_master_talk:close_window|Arrivederci.
-; dlga_start:close_window.237|I'm afraid I'm much too frail to continue our talks.
+dlga_start:close_window.237|Ho paura cdi essere troppo fragile per continuare queste discussioni.
 dlga_start:galyeon_introduce_1|Si?
 dlga_galyeon_introduce_1:galyeon_introduce_2|Chi siete?
 dlga_galyeon_introduce_2:close_window|Sono Galyeon, il famoso cantante!
@@ -4410,11 +4410,11 @@ dlga_norren_master_customize:norren_master_customize1|Hmph! Mi pare ovvio. Oldto
 ; dlga_norren_master_customize1:norren_master_customize2|Since time immemorial, the city has been ruled by house Hightower. The Hightowers where kings in their own right during the Age of Heroes, but later bent the knee to the Gardener kings, and have been sworn to Highgarden since. 
 ; dlga_norren_master_customize2:norren_master_talk|As the location of the Citadel, Oldtown is the foremost center of learning known to man, and as the former seat of the Faith of the Seven, the city is considered by many to be sacred.
 dlga_norren_master_talk:close_window|Arrivederci.
-; dlga_start:close_window.241|I'm afraid I'm much too busy to continue our talks.
+dlga_start:close_window.241|Mi dispiace ma sono troppo occupato per continuare la discussione.
 dlga_start:walgrave_introduce_1|Huh? Cosa? Dove mi trovo?
 dlga_walgrave_introduce_1:walgrave_introduce_2|State bene?
 ; dlga_walgrave_introduce_2:close_window|Oh my, we must tend the ravens. Where is Cressen, someone fetch him...
-; dlga_start:close_window.242|What? Who are you? I can't find my cheese!
+dlga_start:close_window.242|Cosa? chi siete voi? Non trovo il mio formaggio!
 dlga_start:theobald_introduce_1|Si?
 dlga_theobald_introduce_1:theobald_introduce_2|Salve, chi siete?
 dlga_theobald_introduce_2:theobald_master_talk|Sono Archmaester Theobald, il Siniscalco, detengo l'incarico di governante della Cittadella.
@@ -4541,7 +4541,7 @@ dlga_start:close_window.264|Cosa? Chi siete?
 dlga_start:hotho_harlaw_introduce_1|Huh? Io sono Hotho Harlaw, Voi chi siete?
 dlga_hotho_harlaw_introduce_1:hotho_harlaw_introduce_2|Sono {playername}.
 dlga_hotho_harlaw_introduce_2:close_window|Ah, sì, {playername}. Ci siamo già incontrati prima? Avete sentito parlare di mia figlia? La più bella donna di tutto il miondo!
-; dlga_start:close_window.265|You ought to sup with me and my daughter.
+dlga_start:close_window.265|Dovreste venire a cena con me e mia figlia.
 dlga_start:gwynesse_introduce_1|Huh?
 dlga_gwynesse_introduce_1:gwynesse_introduce_2|Mia signora, posso sapere chi siete?
 ; dlga_gwynesse_introduce_2:close_window|I am Gwynesse Harlaw, sister to Rodrik, and rightful heir to Harlaw! It ought to be mine, I'm the oldest!
@@ -4690,7 +4690,7 @@ dlga_sajius_master_talk:sajius_master_customize|Che cosa è successo qui?
 ; dlga_sajius_master_customize1:sajius_master_customize2|Red clouds rained down dragonglass and the black blood of demons, and to the north the ground splintered and collapsed and fell in on itself and an angry sea came rushing in.
 ; dlga_sajius_master_customize2:sajius_master_talk3|The proudest city in all the world was gone in an instant, its fabled empire vanished in a day, the Lands of the Long Summer scorched and drowned and blighted. If you want to know more, go talk to my wife Comaelle.
 dlga_sajius_master_talk3:close_window|Arrivederci.
-; dlga_start:close_window.295|Do not drink the water from these pools.
+dlga_start:close_window.295|Non bevete l'acqua di queste piscine.
 dlga_start:comaelle_introduce_1|Saluti.
 dlga_comaelle_introduce_1:comaelle_introduce_2|Siete Commaelle?
 dlga_comaelle_introduce_2:comaelle_master_talk|Sì, sono io. Volete ascoltare una storia?
@@ -4731,7 +4731,7 @@ dlga_peddler_polk_introduce_2:close_window|Sto cercando di rimettere in sesto qu
 dlga_start:close_window.301|Andatevene.
 dlga_start:beowulf_starter_introduce_1|Cosa volete?
 dlga_beowulf_starter_introduce_1:beowulf_starter_introduce_2|Sono solo di passaggio. Voi chi siete?
-; dlga_beowulf_starter_introduce_2:close_window|I am Maester Criston, I've been sent by the Citadel to look for valuable books. You look like one who does not care about higher learning, however. If you come back later, I'm sure that singer who arrived a few weeks ago can entertain you.
+dlga_beowulf_starter_introduce_2:close_window|Sono Maester Criston, Sono stato mandato qui dalla cittadella alla ricerca di libri di valore. Avete l'aria di uno che non si cura di avere un'istruzione superiore, però. Se tornate più tardi, sono sicuro che il nuovo cantante arrivato qualche settimana fa la può far divertire.
 dlga_start:close_window.302|Che cosa?
 ; dlga_start:beowulf_talk|Greetings, {my lord/my lady}. I am Samol, the wandering singer. I have played at the court of Sunspear, and in the Ragman's Harbor, at the Temple of Memory and in the brothels of Flea Bottom
 dlga_beowulf_talk:beowulf_talk2| Continuate, perfavore.
@@ -4828,8 +4828,8 @@ dlga_start:wildfire_starter_introduce_1.9|Si, come posso aiutarvi?
 dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.10|Chi comanda qui?
 ; dlga_wildfire_starter_introduce_2:close_window.10|That would be Elder Brother, but I'm afraid he's not here right now. He went to Fairmarket to enlist the help of valiant men to right the wrongs done to us.
 dlga_start:close_window.304|Scusatemi, Sono molto impegnato.
-; dlga_start:wildfire_talk.22|The Father watch over you, {brother/sister}. Have you come to help us in our time of need?
-; dlga_wildfire_talk:wildfire_talk2.18|I have. What can I help with?
+dlga_start:wildfire_talk.22|Che il Padre vegli su di voi, {fratello/sorella}. Siete venuto ad aiutarci nel momento del bisogno?
+dlga_wildfire_talk:wildfire_talk2.18|Come posso aiutarvi?
 dlga_wildfire_talk:close_window.17|Mi dispiace, no.
 ; dlga_wildfire_talk2:wildfire_talk3.20|A company of our brothers recently returned from a journey to the Starry Sept at Oldtown. Amongst the things they brought north was a relic of Baelor the Blessed himself! A ring, said to have been worn by the king when he went to Dorne, to rescue the Dragonknight from the pit of snakes! But on the road, not far from Raventree Hall, they where attacked by Aegon Bloodborn, the outlaw son of Ser Aenys Frey. I thought he'd died years ago, but brother Toman swore it was him. He stole all of the brothers supplies and goods, and the ring besides! Find him, {playername}, and bring him to justice! There's been reports of outlaws close to The High Fall, might be you'd find him there.
 dlga_wildfire_talk3:wildfire_talk4.20|Vi porterò la sua testa!
@@ -5124,15 +5124,15 @@ dlga_move_cattle_herd_quest_taken:mayor_pretalk|Splendido. Potete trovare la man
 dlga_merchant_quest_requested:mayor_pretalk|Ho paura di non potervi offrire un lavoro adesso.
 dlga_start:village_elder_deliver_cattle_thank|{Mio buon signore/Mia buona signora}. Il nostro villaggio vi è grato per il vostro aiuto. Grazie per i {reg5} capi di bestiame che ci avete portato, ora possiamo allevare la nostra mandria!
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|{Mio buon signore/Mia buona signora}, prego, C'è qualcosa che posso fare per Vostra Signoria?
-; dlga_start:close_window.313|Damn me, but you've done it, {playername}! You've wiped out all the smugglers. This village can prosper now. You certainly earned your reward. Here, take it, with my compliments.
+dlga_start:close_window.313|Chi mi venga un accidenti, ma come avete fatto, {playername}! Avete spazzato via tutti i contrabbandieri. Questo paese ora può prosperare. Vi siete certamente guadagnato la vostra ricompensa. Ecco, prendete, vela siete meritata.
 dlga_start:elder_hunt_down_smugglers_failed|{playername}. eravamo in attesa di sentire della grande battaglia tra voi e i contrabbandieri, ma non abbiamo saputo nulla. Non ditemi che ve li siete fatti scappare?
 dlga_elder_hunt_down_smugglers_failed:elder_hunt_down_smugglers_failed_1a|Perdonatemi, buonuomo, i contrabbandieri erano scivolosi come anguille.
 dlga_elder_hunt_down_smugglers_failed_1a:close_window|Hmph, questa è una scusa sfrontata per coprire un fallimento, {playername}. Adesso se mi perdonate, devo lavorare a nuove difese per il villaggio, perchè sicuramente torneranno, sicuro come l'inverno.
-; dlga_start:close_window.314|You disappoint me, {playername}. There were three groups of smugglers that I asked you to hunt down. Three! I suppose I should be grateful that they will not all return, their hearts black with vengeance for the poor villagers who sold them out. But some will return, and that will be a bloody business. Here. Take your reward, and let this business be done.
+dlga_start:close_window.314|Mi deludete, {playername}. C'erano tre gruppi di contrabbandieri che vi ho chiesto di cacciare. Tre! Immagino che dovrei esservi grato del fatto che non tutti faranno ritorno. Ma alcuni di loro ritorneranno, con sete di vendetta. Ecco, prendete la vostra ricompensa e lasciare che questo affare si concluda in questo modo.
 ; dlga_start:village_elder_hunt_down_girl_thank|Thank you so much for finding the girl and sending her back. Hopefully this will be a lesson to all the foolish girls around here. We're struggling as it is, we can't afford any more of our young ones leaving and raising a brood in a rival village. How does that benefit anyone here? You have our thanks.
 ; dlga_start:village_elder_hunt_down_girl_thank.1|Well, I see there wasn't much point in sending you after the girl. Do you realise that this village is on the verge of extinction? Every year, we have fewer and fewer children, and see our youth leave us for the town, or for other villages. You have helped that process along. Bah!
 dlga_village_elder_hunt_down_girl_thank:village_elder_talk|C'è qualcosa che posso fare per voi?
-; dlga_start:close_window.315|Hello, {playername}. We are in your debt for bringing back the farmers wife.  You are truly a friend to our village. 
+dlga_start:close_window.315|Ciao, {playername}. Siamo in debito con voi per aver riportato la moglie dell'agricoltore. Siete veramente un amico del nostro villaggio.
 dlga_start:lost_kidnapped_wife|Sfortunatamente ho smarrito la ragazza sulla via del ritorno...
 dlga_lost_kidnapped_wife:lost_kidnapped_wife_2|Oh no! Come farò a dirlo al marito?
 dlga_lost_kidnapped_wife_2:lost_kidnapped_wife_3|Mi dispiace. Non ho potuto farci niente, si è allontanata...
@@ -5223,7 +5223,7 @@ dlga_elder_hunt_smugglers:elder_hunt_smugglers_accepted|Mi occuperò di loro. Do
 dlga_elder_hunt_smugglers:elder_hunt_smugglers_rejected|Temo di non poter accettare questo genere di missione al momento.
 ; dlga_elder_hunt_smugglers_accepted:close_window|Oh, that is good news, {playername}.  I'll send a boy to tell them that a raiding party has been seen on the horizon, and it appears to be making for {s4}. That should flush them out, and no doubt they will head directly for {s3}. It will then be up to you to hunt them down. Good luck.
 dlga_elder_hunt_smugglers_rejected:close_window|Sembra che dovremo sopportare questa maledizione un po' più a lungo. Buona giornata, {playername}.
-; dlga_village_elder_tell_mission:elder_quest_scholar|My {lord/lady}! You must help! They're eating all our food! Wait, arh, let me explain. Several days ago, a party of noblemen arrived in the village. They were on their way to {s8}, when they were attacked by bandits. Their escort fled, and the noblemen themselves barely made it here.
+dlga_village_elder_tell_mission:elder_quest_scholar|Mi{o signore /a signora}! Abbiamo bisogno del vostro aiuto! Stanno mangiando tutto il nostro cibo! Aspettate, arh, lasciatemi spiegare. Alcuni giorni fa, un gruppo di nobili è arrivato al villaggio. Erano in viaggio verso {s8}, quando sono stati attaccati dai banditi. La loro scorta è fuggita, e loro steesi sono a malapena riusciti ad arrivare fino a qui.
 ; dlga_elder_quest_scholar:escort_scholars_quest_brief|And now we can't get rid of them! They refuse to leave without an escort and they're chubby fellows, my {lord/lady}. They eat, and eat, and eat. If we don't get rid of them soon, we'll all be in grave danger come winter. If you can take them to {s8}, we will be eternally grateful. But please, don't lose them along the way, for sure as a pig is a pig, they'll be back here like a shot.
 dlga_escort_scholars_quest_brief:scholar_quest_taken|Bene. Scorterò i septon.
 dlga_escort_scholars_quest_brief:escort_scholars_reject|Spiacente. Ora non posso farlo.
@@ -5258,7 +5258,7 @@ dlga_kidnapped_wife_quest_brief:kidnapped_wife_quest_taken|Va bene. Consegnerò 
 dlga_kidnapped_wife_quest_taken:close_window|Ottimo. Sapevo di potermi fidare voi. E per favore, non tentate nulla di avventato. Tenete a mente che la virtù di quella donna è più importante di qualsiasi altra cosa ...
 dlga_kidnapped_wife_quest_brief:kidnapped_wife_reject|Spiacente. Ora non ho tempo per questo.
 dlga_kidnapped_wife_reject:close_window|Sì, sì, certo. Mi dispiace di avervi disturbato con i nostri problemi.
-; dlga_start:close_window.319|Thank you so much for bringing me back!  I can't wait to see my family, my sisters and mother, even my husband!
+dlga_start:close_window.319|Grazie mille per avermi portato indietro! Non vedo l'ora di rivedere la mia famiglia, mia sorella e mia madre, anche mio marito.
 dlga_kidnapped_wife_liberated_map:kidnapped_wife_liberated_map_2a|Sì. Venite con me. Andiamo a casa.
 dlga_kidnapped_wife_liberated_map_2a:close_window|Sfortunatamente, non avete spazio nella vostra Compagnia per ospitarmi.
 dlga_kidnapped_wife_liberated_map_2a:close_window.1|Oh, veramente? Grazie tante!
@@ -5466,7 +5466,7 @@ dlga_player_castle_guard_talk:player_castle_guard_talk_2|Come va la guardia, sol
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Tutto tranquillo {s0}. Niente da segnalare.
 dlga_player_castle_guard_talk_3:close_window|Bene. Tenete gli occhi aperti, mi raccomando.
 dlga_start:close_window.320|Buongiorno, {s0}. E' sempre un onore averti qui a {s10}.
-; dlga_start:close_window.321|Mind your manners within the walls and we'll have no trouble.
+dlga_start:close_window.321|Mente le buone maniere all'interno delle mura e non avremo problemi.
 dlga_start:hall_guard_talk|Quali sono i vostri ordini, {s0}?
 dlga_start:close_window.322|Non dovremmo parlare mentre siamo di guardia, {s0}.
 dlga_hall_guard_talk:hall_guard_duty|Tornate ai vostri incarichi e fatemi sapere se qualcuno vuole vedermi.
@@ -5580,7 +5580,7 @@ dlga_upgrade_talk_5:close_window|Difenderò il mio nuovo titolo fino alla morte,
 dlga_upgrade_talk_3b:close_window|Sì, {s65}
 dlga_merchant_talk:merchant_trade_request|Mi piacerebbe vedere la vostra merce.
 ; dlga_merchant_trade_request:merchant_trade_deny|You must be joking! The crown would not take kindly to us trading with the likes of you.
-; dlga_merchant_trade_request:merchant_trade_deny.1|My wares? Sorry, I haven't the time to unload the caravan. Deadlines to keep.
+dlga_merchant_trade_request:merchant_trade_deny.1|La mie mercanzia? ​​non ho il tempo di scaricare la carovana. Ho delle scadenza da mantenere.
 dlga_merchant_trade_request:merchant_trade_completed|Certamente. Date a me e ai miei uomini il tempo di prepararvi una presentazione adeguata.
 dlga_merchant_trade_completed:merchant_trade_completed_2|Nient'altro?
 dlga_merchant_trade_completed_2:merchant_talk|Nient'altro?

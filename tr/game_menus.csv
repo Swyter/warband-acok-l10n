@@ -62,89 +62,89 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_wanderlust|Wanderlust.
 ; mno_disown|Being forced out of your home.
 ; mno_greed|Lust for money and power.
-; menu_choose_skill|{s13}
+menu_choose_skill|{s13}
 ; mno_begin_adventuring|Become an adventurer and ride to your destiny.
-; menu_past_life_explanation|{s3}
-; mno_view_next|{s5}
-; menu_morale_report|{s1}
-; menu_courtship_relations|{s1}
-; menu_lord_relations|{s1}
-; menu_companion_report|{s7}{s1}
-; menu_character_report|{s9}
-; menu_party_size_report|{s1}
-; menu_faction_relations_report|{s1}
-; menu_camp|You find a suitable place to camp.^{s15}
-; mno_camp_recruit_prisoners|Recruit some of your prisoners to your company.
-; mno_camp_manage_inventory|Manage your companions' inventory.
-; mno_camp_action|Take an action.
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report|{s1}
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+menu_camp|Kamp kurdun. Ne yapmak istiyorsun?
+mno_camp_recruit_prisoners|Tutsaklardan adam al.
+mno_camp_manage_inventory|Yoldaşların envanterine gözat.
+mno_camp_action|Bir eylem yap.
 ; mno_action_prebattle_custom_divisions|Manage Split Troop Assignments.
-; mno_camp_wait_here|Wait here for some time.
+mno_camp_wait_here|Burada bir süre bekle.
 ; mno_camp_inspect|Inspect your camp.
 ; mno_camp_entrench|{s1}
-; mno_camp_mod_opition|Mod Options.
-; mno_camp_cheat|CHEAT MENU!
-; menu_camp_cheat|Select a cheat:
-; mno_camp_cheat_find_item|Find an item...
-; menu_camp_action|Choose an action:
-; mno_action_read_book|Select a book to read.
-; mno_action_change_party_name|Change your party's name.
+mno_camp_mod_opition|Mod Ayarları
+mno_camp_cheat|HİLE MENÜSÜ!
+menu_camp_cheat|Bir hile seç:
+mno_camp_cheat_find_item|Eşya bul...
+menu_camp_action|Bir eylem yap:
+mno_action_read_book|Okumak için bir kitap seç.
+mno_action_change_party_name|Parti adını değiştir.
 ; mno_action_rename_kingdom|Rename your sovereignty.
 ; mno_jump_to_scene|debug: test scene menu
-; mno_action_modify_banner|Modify your noble banner.
+mno_action_modify_banner|Sancağını modifiye et.
 ; mno_action_modify_factions_color|Re-dye the factions.
 ; mno_action_export_import|Export or import character history.
-; mno_action_retire|Retire from adventuring.
-; mno_camp_action_4|Back to camp menu.
+mno_action_retire|Maceracılıktan emekli ol.
+mno_camp_action_4|Kamp menüsüne dön.
 ; menu_export_import_npcs|Please choose a character, then press the C key to view and export or import the chosen character history.^^You choose {reg0?{s0}:none}.
 ; mno_export_import_back|Go back
-; mno_export_import_npc1|{s0}
-; mno_export_import_npc2|{s0}
-; mno_export_import_npc3|{s0}
-; mno_export_import_npc4|{s0}
-; mno_export_import_npc5|{s0}
-; mno_export_import_npc6|{s0}
-; mno_export_import_npc7|{s0}
-; mno_export_import_npc8|{s0}
-; mno_export_import_npc9|{s0}
-; mno_export_import_npc10|{s0}
-; mno_export_import_npc11|{s0}
-; mno_export_import_npc12|{s0}
+mno_export_import_npc1|{s0}
+mno_export_import_npc2|{s0}
+mno_export_import_npc3|{s0}
+mno_export_import_npc4|{s0}
+mno_export_import_npc5|{s0}
+mno_export_import_npc6|{s0}
+mno_export_import_npc7|{s0}
+mno_export_import_npc8|{s0}
+mno_export_import_npc9|{s0}
+mno_export_import_npc10|{s0}
+mno_export_import_npc11|{s0}
+mno_export_import_npc12|{s0}
 ; mno_export_import_next|Next page
 ; menu_export_import_npcs_2|Please choose a character, then press the C key to view and export or import the chosen character history.^^You choose {reg0?{s0}:none}.
 ; mno_export_import_prev|Previous page
-; mno_export_import_npc13|{s0}
-; mno_export_import_npc14|{s0}
-; mno_export_import_npc15|{s0}
-; mno_export_import_npc16|{s0}
-; mno_export_import_npc17|{s0}
-; mno_export_import_npc18|{s0}
-; mno_export_import_npc19|{s0}
-; mno_export_import_npc20|{s0}
-; mno_export_import_npc21|{s0}
-; mno_export_import_npc22|{s0}
-; mno_export_import_npc23|{s0}
+mno_export_import_npc13|{s0}
+mno_export_import_npc14|{s0}
+mno_export_import_npc15|{s0}
+mno_export_import_npc16|{s0}
+mno_export_import_npc17|{s0}
+mno_export_import_npc18|{s0}
+mno_export_import_npc19|{s0}
+mno_export_import_npc20|{s0}
+mno_export_import_npc21|{s0}
+mno_export_import_npc22|{s0}
+mno_export_import_npc23|{s0}
 ; menu_camp_recruit_prisoners|You offer your prisoners freedom if they agree to join you as soldiers. {s18}
 ; mno_camp_recruit_prisoners_accept|Take them.
 ; mno_camp_recruit_prisoners_reject|Reject them.
 ; menu_camp_no_prisoners|You have no prisoners to recruit from.
 ; menu_camp_action_read_book|Choose a book to read:
-; mno_action_read_book_1|{s1}.
-; mno_action_read_book_2|{s1}.
-; mno_action_read_book_3|{s1}.
-; mno_action_read_book_4|{s1}.
-; mno_action_read_book_5|{s1}.
-; mno_action_read_book_6|{s1}.
-; mno_action_read_book_7|{s1}.
-; mno_action_read_book_8|{s1}.
-; mno_action_read_book_9|{s1}.
-; mno_action_read_book_10|{s1}.
-; mno_action_read_book_11|{s1}.
-; mno_action_read_book_12|{s1}.
-; mno_action_read_book_13|{s1}.
-; menu_camp_action_read_book_start|{s1}
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+mno_action_read_book_8|{s1}.
+mno_action_read_book_9|{s1}.
+mno_action_read_book_10|{s1}.
+mno_action_read_book_11|{s1}.
+mno_action_read_book_12|{s1}.
+mno_action_read_book_13|{s1}.
+menu_camp_action_read_book_start|{s1}.
 ; menu_retirement_verify|You are at day {reg0}. Your current luck is {reg1}. Are you sure you want to retire?
-; mno_retire_yes|Yes.
-; mno_retire_no|No.
+mno_retire_yes|Evet.
+mno_retire_no|Hayır.
 ; menu_end_game|The decision is made, and you resolve to give up your adventurer's life and settle down. You sell off your weapons and armour, gather up all your money, and ride off into the sunset....
 ; mno_end_game_bye|Farewell.
 ; menu_cattle_herd|You encounter a herd of cattle.
@@ -153,11 +153,11 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_cattle_kill|Slaughter some of the animals.
 ; mno_leave|Leave.
 ; menu_cattle_herd_kill|How many animals do you want to slaughter?
-; mno_cattle_kill_1|One.
-; mno_cattle_kill_2|Two.
-; mno_cattle_kill_3|Three.
-; mno_cattle_kill_4|Four.
-; mno_cattle_kill_5|Five.
+mno_cattle_kill_1|Bir.
+mno_cattle_kill_2|İki.
+mno_cattle_kill_3|Üç.
+mno_cattle_kill_4|Dört.
+mno_cattle_kill_5|Beş.
 ; menu_arena_duel_fight|You and your opponent prepare to duel.
 ; menu_simple_encounter|{s2} You have {reg10} troops fit for battle against their {reg11}. {s4}^{s15}
 ; mno_change_commander_simple_encounter|Change commander.
@@ -171,7 +171,7 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_encounter_order_attack|Order your troops to attack without you.
 ; mno_encounter_leave|Leave.
 ; mno_encounter_retreat|Pull back, leaving some soldiers behind to cover your retreat.
-; mno_encounter_surrender|Surrender.
+mno_encounter_surrender|Teslim ol.
 ; menu_encounter_retreat_confirm|As the most tactically skilled avatar of your company, ({reg2}), {reg3?you devise:{s3} devises} a plan that will allow you and your men to escape with your lives, but you'll have to leave {reg4} soldiers behind to stop the enemy from giving chase.
 ; mno_leave_behind|Go on. The sacrifice of these men will save the rest.
 ; mno_dont_leave_behind|No. We leave no one behind.
@@ -184,18 +184,18 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_order_retreat|Call your soldiers back.
 ; menu_battle_debrief|{s11}^^Your Casualties:{s8}{s10}^^Enemy Casualties:{s9}^^Kill count:{s12}
 ; menu_total_victory|You shouldn't be reading this... {s9}
-; menu_enemy_slipped_away|{s17}
-; menu_permanent_damage|{s0}
-; mno_s0|{s0}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
 ; menu_pre_join|You come across a battle between {s2} and {s1}. You decide to...
 ; mno_pre_join_help_attackers|Move in to help the {s2}. ({s21})
 ; mno_pre_join_help_defenders|Rush to the aid of the {s1}. ({s21})
 ; mno_pre_join_leave|Don't get involved.
 ; menu_join_battle|You are helping {s2} against {s1}. You have {reg10} troops fit for battle against the enemy's {reg11}. {s4}
 ; mno_change_commander_join_battle|Change commander.
-; mno_join_attack|Charge the enemy.
+mno_join_attack|Düşmana hücum et.
 ; mno_join_order_attack|Order your troops to attack with your allies while you stay back.
-; mno_join_leave|Leave.
+mno_join_leave|Ayrıl.
 ; mno_join_wounded|You are too wounded to fight.
 ; menu_join_order_attack|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
 ; menu_odin_cave|You arrive at an outlaw lair.
@@ -301,7 +301,7 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_zendar_merchant_door|Door to the merchant.
 ; mno_zendar_arena _txss _txss= _txss" "
 ; mno_zendar_arena_door|Door to the arena.
-; mno_town_1_leave _txss _txss= _txss" "
+mno_town_1_leave| 
 ; menu_salt_mine|You enter the salt mine.
 ; menu_four_ways_inn|You arrive at the Four Ways Inn.
 ; menu_test_scene|You enter the test scene.
@@ -322,15 +322,15 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_dplmc_riot_start_siege|Besiege the {reg6?town:castle} to counter the insurgency.
 ; mno_dplmc_riot_negotiate|Begin negotiations.
 ; mno_castle_start_siege|Besiege the {reg6?town:castle}.
-; mno_castle_leave|Leave.
+mno_castle_leave|Ayrıl.
 ; menu_castle_guard|You approach the gate. The men on the walls watch you closely.
 ; mno_request_shelter|Request entry to the castle.
 ; mno_request_meeting_commander|Request a meeting with someone.
-; mno_guard_leave|Leave.
+mno_guard_leave|Ayrıl.
 ; menu_castle_entry_granted|After a brief wait, the guards open the gates for you and allow your party inside.
 ; menu_castle_entry_denied|The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer.
 ; menu_castle_meeting|With whom do you want to meet?
-; mno_guard_meet_s5|{s5}.
+mno_guard_meet_s5|{s5}.
 ; mno_forget_it|Forget it.
 ; menu_castle_meeting_selected|Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you.
 ; menu_castle_besiege|You are laying siege to {s1}. {s2} {s3} {s4} ^{s15}
@@ -346,7 +346,7 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_build_siege_tower|Build a siege tower.
 ; mno_lift_siege|Abandon the siege.
 ; menu_siege_attack_meets_sally|The defenders sally out to meet your assault.
-; menu_castle_besiege_inner_battle|{s1}
+menu_castle_besiege_inner_battle|{s1}
 ; menu_construct_ladders|As the most architecturally learned avatar of your company, ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build enough scaling ladders for the assault.
 ; mno_build_ladders_cont|Do it.
 ; menu_construct_siege_tower|As the most architecturally learned avatar of your company, ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower will take {reg4} hours.
@@ -394,8 +394,8 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_siege_defender_join_battle|Join the battle.
 ; mno_siege_defender_troops_join_battle|Order your men to join the battle without you.
 ; menu_siege_join_defense|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
-; menu_enter_your_own_castle|{s10}
-; menu_village|{s10} {s12}^{s11}^{s6}{s7}
+menu_enter_your_own_castle|{s10}
+menu_village|{s10} {s12}^{s11}^{s6}{s7}
 ; mno_village_manage|Manage this village.
 ; mno_recruit_volunteers|Recruit peasants.
 ; mno_village_center|Go to the village center.
@@ -419,15 +419,15 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_village_steal_cattle|Steal cattle.
 ; mno_village_loot|Loot and burn this village.
 ; mno_forced_recruits|Attempt to forcefully recruit some villagers.
-; menu_recruit_volunteers|{s18}
+menu_recruit_volunteers|{s18}
 ; mno_continue_not_enough_gold|I don't have enough money...
 ; mno_recruit_them|Recruit them ({reg6} coins).
 ; menu_village_hunt_down_fugitive_defeated|A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
-; menu_village_infest_bandits_result|{s9}
+menu_village_infest_bandits_result|{s9}
 ; menu_village_infestation_removed|In a battle worthy of song, you and your men drive the bandits out of the village, making it safe once more. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find.
 ; mno_village_bandits_defeated_accept|Take it as your just due.
 ; mno_village_bandits_defeated_cont|Refuse, stating that they need these items more than you do.
-; menu_village_wedding_result|{s9}
+menu_village_wedding_result|{s9}
 ; menu_village_wedding_suppressed|You trample the wedding guests underfoot and establish a semblance of order. As you pick through the corpses, you find the bridegroom has been slain but there is no sign of the bride. You will have to search the village.
 ; menu_center_manage|{s19}^{reg6?^^You are currently building {s7}. The building will be completed after {reg8} day{reg9?s:}.:}
 ; mno_castle_recruit_troops|Recruit some troops.
@@ -441,13 +441,13 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_center_build_barracks|Build Barracks.
 ; menu_center_improve|{s19} As the most architecturally learned avatar of your company, ({reg2}), {reg3?you reckon:{s3} reckons} that building the {s4} will cost you {reg5} coins and will take {reg6} days.
 ; mno_dplmc_improve_cont|Go on. (Pay from treasury)
-; mno_improve_cont|Go on.
+mno_improve_cont|Devam et.
 ; mno_improve_not_enough_gold|I don't have enough money for that.
-; menu_town_bandits_failed|{s4} {s5}
+menu_town_bandits_failed|{s4}{s5}
 ; menu_town_bandits_succeeded|The bandits fall before you as wheat to a scythe! Soon you stand alone in the streets while most of your attackers lie unconscious, dead or dying. Searching the bodies, you find a purse which must have belonged to a previous victim of these brutes. Or perhaps, it was given to them by someone who wanted to arrange a suitable ending to your life.
 ; menu_village_steal_cattle_confirm|As the most skilled pilferer of your company, ({reg2}), {reg3?you reckon:{s1} reckons} that you can steal as many as {reg4} heads of village's cattle.
-; mno_village_steal_cattle_confirm|Go on.
-; menu_village_steal_cattle|{s1}
+mno_village_steal_cattle_confirm|Devam et.
+menu_village_steal_cattle|{s1}
 ; menu_village_take_food_confirm|It will be difficult to force and threaten the peasants into giving their precious supplies. You think you will need at least one hour.
 ; mno_village_take_food_confirm|Go ahead.
 ; menu_village_take_food|The villagers grudgingly bring out what they have for you.
@@ -460,8 +460,8 @@ menu_start_game_3|Senaryonu belirle:
 ; menu_village_loot_complete|On your orders your troops sack the village, pillaging everything of any value, and then put the buildings to the torch. From the coins and valuables that are found, you get your share of {reg1} coins.
 ; menu_village_loot_defeat|Fighting with courage and determination, the villagers manage to hold together and drive off your forces.
 ; menu_village_loot_continue|Do you wish to continue looting this village?
-; mno_disembark_yes|Yes.
-; mno_disembark_no|No.
+mno_disembark_yes|Evet.
+mno_disembark_no|Hayır.
 ; menu_close|Nothing.
 ; menu_town|{s10} {s14}^{s11}{s12}{s13}
 ; mno_castle_castle|Go to the Lord's hall{s1}.
@@ -573,15 +573,15 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_train_later|Put it off until later.
 ; menu_train_peasants_against_bandits_ready|You put the peasants through the basics of soldiering, discipline and obedience. You think {reg0} of them {reg1?have:has} fully grasped the training and {reg1?are:is} ready for some practice.
 ; mno_peasant_start_practice|Start the practice fight.
-; menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_training_result|{s0}
 ; menu_train_peasants_against_bandits_attack|As you get ready to continue the training, a sentry from the village runs up to you, shouting alarums. The bandits have been spotted on the horizon, riding hard for {s3}. The elder begs that you organize your newly-trained militia and face them.
 ; mno_peasants_against_bandits_attack_resist|Prepare for a fight!
-; menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_attack_result|{s9}
 ; menu_train_peasants_against_bandits_success|The bandits are broken! Those few who remain run off with their tails between their legs, terrified of the peasants and their new champion. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find to show their gratitude.
 ; menu_disembark|Do you wish to disembark?
 ; menu_ship_reembark|Do you wish to embark?
-; mno_reembark_yes|Yes.
-; mno_reembark_no|No.
+mno_reembark_yes|Evet.
+mno_reembark_no|Hayır.
 ; menu_center_reports|Town Name: {s1}^Rent Income: {reg1} denars^Tariff Income: {reg2} denars^Food Stock: for {reg3} days
 ; mno_to_price_and_productions|Show prices and productions.
 ; menu_price_and_production|Productions are:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^Price factors are:^{s2}
@@ -615,10 +615,10 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_camp_train_archery|Ranged weapon practice.
 ; mno_camp_train_mounted|Horseback practice.
 ; menu_training_ground_selection_details_melee_1|How many opponents will you go against?
-; mno_camp_train_melee_num_men_1|One.
-; mno_camp_train_melee_num_men_2|Two.
-; mno_camp_train_melee_num_men_3|Three.
-; mno_camp_train_melee_num_men_4|Four.
+mno_camp_train_melee_num_men_1|Bir.
+mno_camp_train_melee_num_men_2|İki.
+mno_camp_train_melee_num_men_3|Üç.
+mno_camp_train_melee_num_men_4|Dört.
 ; menu_training_ground_selection_details_melee_2|Choose your opponent #{reg1}:
 ; mno_training_ground_selection_details_melee_random|Choose randomly.
 ; menu_training_ground_selection_details_mounted|What kind of weapon do you want to train with?
@@ -709,10 +709,10 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_appoint_npc22|Appoint {s10}
 ; mno_appoint_default|Appoint a prominent citizen from the area...
 ; menu_minister_confirm|{s9}can be found at your court in {s12}. You should consult periodically, to avoid the accumulation of unresolved issues that may sap your authority...
-; menu_notification_court_lost|{s12}
+menu_notification_court_lost|{s12}
 ; menu_notification_player_faction_deactive|Your sovereignty no longer holds fief to any land.
 ; menu_notification_player_wedding_day|{s8} wishes to inform you that preparations for your wedding at {s10} have been complete, and that your presence is expected imminently .
-; menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_player_kingdom_holds_feast|{s11}
 ; menu_notification_center_under_siege|{s1} has been besieged by {s2} of {s3}!
 ; menu_notification_village_raided|Enemies have Laid Waste to a Fief^^{s1} has been raided by {s2} of {s3}!
 ; menu_notification_village_raid_started|Your Village is under Attack!^^{s2} of {s3} is laying waste to {s1}.
@@ -731,33 +731,33 @@ menu_start_game_3|Senaryonu belirle:
 ; menu_notification_lady_requests_visit|An elderly woman approaches your party and passes one of your men a letter, sealed in plain wax. It is addressed to you. When you break the seal, you see it is from {s15}. It reads, 'I so enjoyed your last visit. {s14} I am currently in {s10}.{s12}'
 ; mno_continue_visit_yes|Tell the woman to inform her mistress that you will come shortly
 ; mno_continue_visit_no|Tell the woman to inform her mistress that you are indisposed
-; menu_garden|{s12}
+menu_garden|{s12}
 ; mno_nurse_1|Go with the nurse
 ; mno_nurse_2|Wait by the spring
 ; menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley. This will surely be your best opportunity to attack him.
 ; menu_bar_brawl_begin|You wait until a young boy comes running down the street. '{My lord! My lord!/My Lady!}' he cries. 'The troublemakers have left the tavern and are coming this way. Be ready!'
 ; menu_debug_alert_from_s65|DEBUG ALERT: {s65}
 ; menu_auto_return_to_map|stub
-; menu_bandit_lair|{s3}
+menu_bandit_lair|{s3}
 ; mno_continue_1|Attack the hideout...
-; mno_leave_no_attack|Leave...
-; mno_leave_victory|Continue...
-; mno_leave_defeat|Continue...
+mno_leave_no_attack|Ayrıl.
+mno_leave_victory|Devam et.
+mno_leave_defeat|Devam et.
 ; menu_notification_player_faction_political_issue_resolved|After consulting with the peers of the realm, {s10} has decided to confer {s11} on {s12}.
 ; menu_notification_player_faction_political_issue_resolved_for_player|After consulting with the peers of the realm, {s10} has decided to confer {s11} on you. You may decline the honor, but it will probably mean that you will not receive other awards for a little while.{s12}
 ; mno_accept|Accept the honor
 ; mno_decline|Decline the honor
 ; menu_start_phase_3|{s16}^^Follwing a long trek through the Rainwood, you finally see the town of The Weeping Tower in the distance. You are exhausted by the time you find the inn, and go in search of a decent tavern. According to an old blind man sitting in the corner, drinking a mug of stale ale, a kraken has been seen off the coast of Dorne, and a five-headed calf has been born, killing its mother in the process, surely an omen to be taken seriously. Dismissing the old fool as crazy, you venture out onto the streets, which are still deserted. All of a sudden, you hear a sound that stands the hairs of your neck on end -- the rasp of a blade sliding from its scabbard...
-; menu_start_phase_4|{s11}
-; menu_lost_tavern_duel|{s11}
+menu_start_phase_4|{s11}
+menu_lost_tavern_duel|{s11}
 ; menu_establish_court|To establish {s4} as your court will require a small refurbishment. In particular, you will need a set of tools and a bolt of velvet. it may also take a short while for some of your followers to relocate here. Do you wish to proceed?
 ; mno_establish|Establish {s4} as your court
 ; menu_notification_relieved_as_marshal|{s4} wishes to inform you that your services as marshal are no longer required. In honor of valiant efforts on behalf of the realm over the last {reg4} days, however, {reg8?she:he} offers you a purse of {reg5} coins.
 ; menu_notification_give_liege_gift|A messenger boy, riding hard, gallops up to you. He stops and wheels his horse, which paws the ground impatiently. He hands you a package, and with that, he is gone.
-; menu_manage_loot_pool|{s10}
+menu_manage_loot_pool|{s10}
 ; mno_loot|Access the item pool.
 ; mno_auto_loot_leave_with_nothing|Pick the items which price higher than {reg1} coins and continue.
-; mno_auto_loot_leave|{s20}
+mno_auto_loot_leave|{s20}
 ; menu_auto_loot|Your companions will automatically grab items from the item pool based on their pre-selected upgrade options. Companions listed first in the party order will have first pick. Any equipment no longer needed will be placed back into the item pool. Are you sure you wish to do this?
 ; mno_No|No, I've changed my mind.
 ; mno_Yes|Yes, perform the upgrading.
@@ -766,8 +766,8 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_reworked_troop_trees|Reworked troop trees
 ; mno_expanded_troop_trees|Expanded troop trees
 ; menu_choose_options_2|Assemble all companions at the tavern of the first encountered town?^^When you assemble them, you might take a look upstairs in the tavern, since a lot of companions might be lingering in the hallway, sitting on the stairs or inspecting their rooms. If your favorite companion isn't present, you might want to quit and re-enter the tavern: sometimes they don't all fit.
-; mno_yes_npcs|Yes
-; mno_no_npcs|No
+mno_yes_npcs|Evet
+mno_no_npcs|Hayır
 ; menu_choose_options_3|Do you wish to play with the fog of war?
 ; menu_choose_options_end|Game options selection complete.
 ; menu_town_menu_cheats|CHEATS.
@@ -797,7 +797,7 @@ menu_start_game_3|Senaryonu belirle:
 ; mno_dplmc_demand_castle|Demand {s2}.
 ; mno_dplmc_go_back|Go back
 ; menu_dplmc_deny_terms|{s1} refuses your terms and is breaking off of negotiations.
-; menu_dplmc_village_riot_result|{s9}
+menu_dplmc_village_riot_result|{s9}
 ; menu_dplmc_village_riot_removed|In bloody battle you and your men slaughter the rebels and regain control over the village. But there is not much left you can control.
 ; menu_dplmc_town_riot_removed|In bloody battle you and your men slaughter the rebels and regain control over the town.
 ; menu_dplmc_riot_negotiate|You approach the angry crowd and begin negotiations. The leader of the riot demands {reg0} coins. He agrees to lay down arms if you are willing to pay.

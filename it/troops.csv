@@ -2358,8 +2358,8 @@ trp_wildfire_npc_0|Manfred
 trp_wildfire_npc_0_pl|Manfred
 trp_wildfire_npc_1|Septon Germund
 trp_wildfire_npc_1_pl|Septon Germund
-; trp_wildfire_npc_2|Frightened Woman
-; trp_wildfire_npc_2_pl|Frightened Woman
+trp_wildfire_npc_2|Donna spaventata
+trp_wildfire_npc_2_pl|Donne spaventate
 ; trp_wildfire_npc_3|Goodwife Myra
 ; trp_wildfire_npc_3_pl|Goodwife Myra
 trp_wildfire_npc_4|Jess
@@ -2488,7 +2488,7 @@ trp_sharako|Sharako
 trp_sharako_pl|Sharako
 trp_quaithe|Quaithe
 trp_quaithe_pl|Quaithe
-; trp_bloodraven|Stranger
+trp_bloodraven|Sconosciuto
 ; trp_bloodraven_pl|The Three Eyed Crow
 ; trp_rat_cook|The Rat Cook
 ; trp_rat_cook_pl|The Rat Cook
@@ -2656,10 +2656,10 @@ trp_brookwater_npc_4|Uomo d'Arme di Darke
 trp_brookwater_npc_4_pl|Uomini d'Arme di Darke
 trp_brookwater_npc_5|Arciere di Darke
 trp_brookwater_npc_5_pl|Arcieri di Darke
-; trp_brookwater_npc_6|Servant
-; trp_brookwater_npc_6_pl|Servant
-; trp_brookwater_npc_7|Maid
-; trp_brookwater_npc_7_pl|Maid
+trp_brookwater_npc_6|Servitore
+trp_brookwater_npc_6_pl|Servitori
+trp_brookwater_npc_7|Cameriera
+trp_brookwater_npc_7_pl|Cameriere
 trp_brookwater_npc_8|Ser Jeffory Darke
 trp_brookwater_npc_8_pl|Ser Jeffory Darke
 ; trp_brookwater_npc_9|Lady Wylla
@@ -3742,18 +3742,18 @@ trp_kingdom_1_lady_21_pl|Lyra Estermont
 ; trp_kingdom_1_lady_24_pl|Lysa Wylde
 ; trp_kingdom_1_lady_29|Queen Margaery Tyrell
 ; trp_kingdom_1_lady_29_pl|Queen Margaery Tyrell
-; trp_kingdom_2_lady_1|Alyssa Karstark
-; trp_kingdom_2_lady_1_pl|Alyssa Karstark
+trp_kingdom_2_lady_1|Alyssa Karstark
+trp_kingdom_2_lady_1_pl|Alyssa Karstark
 ; trp_kingdom_2_lady_2|Arwyn Umber
 ; trp_kingdom_2_lady_2_pl|Arwyn Umber
 ; trp_kingdom_2_lady_3|Arra Umber
 ; trp_kingdom_2_lady_3_pl|Arra Umber
 ; trp_kingdom_2_lady_4|Gisella Glover
 ; trp_kingdom_2_lady_4_pl|Gisella Glover
-; trp_kingdom_2_lady_5|Serena Karstark
-; trp_kingdom_2_lady_5_pl|Serena Karstark
-; trp_kingdom_2_lady_6|Bethany Karstark
-; trp_kingdom_2_lady_6_pl|Bethany Karstark
+trp_kingdom_2_lady_5|Serena Karstark
+trp_kingdom_2_lady_5_pl|Serena Karstark
+trp_kingdom_2_lady_6|Bethany Karstark
+trp_kingdom_2_lady_6_pl|Bethany Karstark
 ; trp_kingdom_2_lady_7|Leona Woolfield
 ; trp_kingdom_2_lady_7_pl|Leona Woolfield
 ; trp_kingdom_2_lady_8|Wylla Manderly

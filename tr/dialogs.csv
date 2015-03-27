@@ -150,13 +150,13 @@ dlga_ramun_introduce_6:ramun_introduce_7|Şimdi çakmaya başladın! Böyle bir 
 ; dlga_smugglers_let_go:close_window|May the gods bless you, {playername}. We will not forget your help. Here's the wine. Be careful, it's potent stuff!
 ; dlga_smugglers_let_go_a:close_window|May the gods bless you, {playername}. We will not forget your help. Here's the money.
 ; dlga_start:close_window.6|Good day, my friend. Don't worry. If anyone asks, we haven't seen you.
-; dlga_start:cheese_rustlers_intro_1|Well met. Can I help you with something? You don't want to buy some grain, by any chance?
-; dlga_cheese_rustlers_intro_1:cheese_rustlers_intro_2|I was sent to hunt down some grain thieves. You look the sort.
-; dlga_cheese_rustlers_intro_2:cheese_rustlers_intro_3|Grain? We don't need any filthy grain! Do we look like thieves to you?
-; dlga_cheese_rustlers_intro_3:cheese_rustlers_intro_4|Well, now you mention it... say, is that a burlap sack in your hand?
-; dlga_cheese_rustlers_intro_4:cheese_rustlers_intro_5|What on earth do you mean?
-; dlga_cheese_rustlers_intro_5:cheese_rustlers_intro_6|It looks quite like the burlap sacks used to transport large quantities of grain...
-; dlga_cheese_rustlers_intro_6:close_window|Damn it! Kill {him/her}! Attack!
+dlga_start:cheese_rustlers_intro_1|Merhaba. Size herhangi bir konunda yardımcı olabilir miyim? Tahıl almak istemezsiniz, değil mi?
+dlga_cheese_rustlers_intro_1:cheese_rustlers_intro_2|Birkaç tahıl hırsızı avlamak için gönderildim. Siz de eşkale uyuyorsunuz.
+dlga_cheese_rustlers_intro_2:cheese_rustlers_intro_3|Tahıl? Bizim hiçbir pis tahıla ihtiyacımız yok! Sizce biz hırsıza benziyor muyuz?
+dlga_cheese_rustlers_intro_3:cheese_rustlers_intro_4|E, şimdi söyledin... söyle, elindeki bir çuval mı?
+dlga_cheese_rustlers_intro_4:cheese_rustlers_intro_5|Ne demek istiyorsunuz?
+dlga_cheese_rustlers_intro_5:cheese_rustlers_intro_6|Aynı büyük miktarda tahıl taşımak için kullanılan çuvallara benziyor.
+dlga_cheese_rustlers_intro_6:close_window|Lanet olsun! Öldürün {o/o}nu!
 ; dlga_start:cheese_paladins_intro_1|Well met. Can I help you with something? You don't want to buy some wine, perchance?
 ; dlga_cheese_paladins_intro_1:cheese_paladins_intro_2|Wait, you're....you're sellswords? I was sent out to hunt down some common thieves...
 ; dlga_cheese_paladins_intro_2:cheese_paladins_intro_3|Ah! Well, I'm sorry to say that times are hard, with all this trouble and strife lately. It occurred to us that a small group of, let us say... experienced men, would attract far less suspicion than your typical roughnecks and layabouts. When this opportunity arose, well, to refuse would have been positively mad.
