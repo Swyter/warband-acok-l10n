@@ -1,7 +1,7 @@
 skl_trade|Trade
 skl_trade_desc|Every level of this skill reduces your trade penalty by 5%%. (Party skill)
 skl_leadership|Leadership
-skl_leadership_desc|Every point increases maximum number of troops you can command by 5, increases your party morale and reduces troop wages by 5%%. (Leader skill)
+skl_leadership_desc|Every point increases maximum number of troops you can command by 8, increases your party morale and reduces troop wages by 5%%. (Leader skill)
 skl_prisoner_management|Prisoner Management
 skl_prisoner_management_desc|Every level of this skill increases maximum number of prisoners by %d. (Leader skill)
 skl_reserved_1|Reserved Skill 1
