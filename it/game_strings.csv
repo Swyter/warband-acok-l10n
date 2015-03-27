@@ -402,7 +402,7 @@ str_bar_weary|          Stanco
 str_bar_disgruntled|     Scontento
 str_bar_miserable|  Infelice
 str_here_plus_space|qui
-; str_npc1_intro|Hello there, traveller, I am Ser Bennis of Hollow Hill.
+str_npc1_intro|Benvenuti, viaggiatore, sono Ser Bennis di Hollow Hill.
 str_npc2_intro|Salute. Sareste così gentile da farvi una bevuta con me? Mi sono rimasti cinque denari e non vorrei bere da solo.
 str_npc3_intro|Buongiorno!
 str_npc4_intro|Salve. Sono Graznon zo Paton, figlio di Grazhnak zo Paton, che era figlio di Graznon zo Paton della Casata più antica e magnifica di Paton, della maestosa città di Astapor.
@@ -414,7 +414,7 @@ str_npc9_intro|Ehi tu, sii così gentile da andare a prendere un'altra bevuta, d
 str_npc10_intro|Salve, amico. Vi interessa fare una partita a cyvasse?
 str_npc11_intro|Ehilà, {ragazzino/ragazzina}. Fatevi una bevuta con me.
 str_npc12_intro|Saluti, compagno di viaggio. Per caso, potreste offrirmi un aiuto, dalla bontà del vostro cuore?
-; str_npc13_intro|Greetings, traveller. I am Ser Roger Osgrey, a knight, and a son of Standfast.
+str_npc13_intro|Saluti a voi, viaggiatore. Sono Ser Roger Osgrey, cavaliere, e figlio di Standfast.
 str_npc14_intro|Si? Cosa desiderate?
 str_npc15_intro|Oh! Ditemi... La vostra sembra una faccia amichevole, per caso state andando fuori città in questo periodo?
 str_npc16_intro|Ehilà! Non ho potuto non notare che siete in città a capo di un esercito. State per caso cercando accompagnatori?
@@ -437,10 +437,10 @@ str_npc26_intro|Che cosa volete?
 str_npc33_intro|...Sì?...
 str_npc34_intro|Cosa? Che cosa volete, eh?
 str_npc35_intro|Sì?
-; str_npc1_intro_response_1|Well met, Ser Bennis. What is an anointed knight doing in a filthy tavern such as this?
+str_npc1_intro_response_1|Piacere mio, Ser Bennis. Cosa ci fa un cavaliere in una sporca taverna come questa?
 str_npc2_intro_response_1|Cosa vi è successo?
 str_npc3_intro_response_1|Buona giornata.
-; str_npc4_intro_response_1|I have never heard of the House of Paton.
+str_npc4_intro_response_1|Non ho mai sentito parlare della Casata dei Paton.
 str_npc5_intro_response_1|Certamente. Con chi ho il piacere di bere?
 str_npc6_intro_response_1|Potrebbe essere, chi sei?
 str_npc7_intro_response_1|Le mie scuse. Posso sapere con chi sto parlando?
@@ -449,7 +449,7 @@ str_npc9_intro_response_1|Devi avermi confuso con il locandiere, Pentoshi.
 str_npc10_intro_response_1|Mi dispiace, non ho la minima conoscenza delle regole.
 str_npc11_intro_response_1|Che succede?
 str_npc12_intro_response_1|Dipende...
-; str_npc13_intro_response_1|Well met, Ser Roger. What does a noble knight of Standfast find himself doing in a tavern such as this?
+str_npc13_intro_response_1|Piacere mio, Ser Bennis. Cosa ci fa un cavaliere in una sporca taverna come questa?
 str_npc14_intro_response_1|Vorrei passare la giornata con un viaggiatore come voi, se non avete nulla in contrario...
 str_npc15_intro_response_1|Io invece mi domando che cosa ve ne importa a voi del fatto che io sia qui?
 str_npc16_intro_response_1|Potrebbe essere. Qual è la vostra storia?
@@ -513,7 +513,7 @@ str_npc2_backstory_a|È una storia tragica, signore.
 str_npc4_backstory_a|Davvero? Beh, forse la vostra ignoranza può essere perdonata, visto il bastardo selvaggio che siete. Le nostre terre ancestrali sono molto più a est, nella baia degli schiavisti.
 str_npc5_backstory_a|E io sono Ser Felton Flowers, ex maestro d'armi di Eyrie.
 str_npc6_backstory_a|Io invece sono Martyn Snow, un bastardo nato nel Nord. Sono anche un mercenario e questo è molto più importante del fatto che sono nato.
-; str_npc7_backstory_a|You have the honor of speaking to Ser Jasper Rivers, son of Ser Stevron Frey, trueborn son of lord Walder Frey, the Lord of the Crossing.
+str_npc7_backstory_a|Avete l'onore di parlare con Ser Jasper Rivers, figlio di Ser Stevron Frey, figlio a sua volta di lord Walder Frey, Signore del Crossing.
 str_npc8_backstory_a|Ah. Bene, suona piuttosto bene. Sarò lieto di unirmi a voi. Se mi pagherete.
 str_npc9_backstory_a|Le mie più umili scuse. A volte qui è difficile riconoscere la gente in mezzo al fumo e al buio. Ancora non riesco a credere che debba alloggiare in un luogo come questo. Che orribile destino che mi ha colpito!
 ; str_npc10_backstory_a|Oh well, a shame, I find that the game keeps my mind sharp. Say, do you by any chance need a an officer in your company? I find myself without an opportunity to make use of my considerable lungs, shouting at maggots to fall back in line.
@@ -526,13 +526,13 @@ str_npc16_backstory_a|Beh, da sempre ho un debole per le cose belle, e ciò come
 ; str_npc17_backstory_a|Oh never mind me, I was just in the middle of composing a voluptous poem about the illustrious high steward of Qohor, Logon Votyris, a lowborn leech-catcher who rose to his position during the reign of the tyrant Byan Mentarios.
 str_npc18_backstory_a|Mio padre, mio fratello, l'anziano del villaggio ... Tutti! Mi stanno cercando da quando sono scappato. Ti sto dicendo, che sono innocente, non tutti i bastardi sono dei diavoli!
 ; str_npc19_backstory_a|Ah, my humble apologies, I quite forgot that not everyone speaks the exalted language of my great home.
-; str_npc20_backstory_a|What every soldier alone does, I'm looking for employment.
+str_npc20_backstory_a|Faccio quello fa ogni soldato solitario, cerco un ingaggio.
 ; str_npc21_backstory_a|Oh, I am the greatest of sinners! Descended from a great line of sinners! House Parren was once pious and just, until my dishonorable ancestor travelled to Lys with Aerion Brightflame in his exile. When Aerion died from drinking wildfire, my forefather dipped the servants in the same substance and was responsible for the great fire that destroyed the western quarter of the city.
-; str_npc22_backstory_a|It's those blasted knights... They ruined everything!
+str_npc22_backstory_a|Maledetti cavalieri... Hanno rovinato tutto!
 ; str_npc23_backstory_a|I could, I could! But I'm sure my mother would be much more informative than me. I've always been more of a fighter than a scholar, just like all the other women of my family. We're too busy fending off men to pick up anything but an axe.
 ; str_npc24_backstory_a|People call me Roddy. Or, well, people in King's Landing does. Used to be everyone in King's Landing knew my name. 'There goes Roddy' they'd say, 'bravest man in all of the city watch'. Then that vicious son of a whore, Tywin Lannister, came and sacked the city. Told Aerys he came as a friend, then turned his cloak and betrayed his king. Bah!
 ; str_npc25_backstory_a|BLOOD SO RED! SO RED! So sweet, sweet screams, pretty screams, singing screams, scream your song, sing your screams...
-; str_npc26_backstory_a|I am Caul, former chieftain of the Red Sparrows.
+str_npc26_backstory_a|Sono Caul, ex capo dei Red Sparrows.
 ; str_npc27_backstory_a|Hah, I'm just yanking your tail, ain't pondering anything. Bit drunk though. But ah, what can I do for you? People call me Ser Medrick Waterman, because, well, it's my name.
 ; str_npc28_backstory_a|I am Ser Lucamore, whom some call 'The Grim'. I'm not really all that grim though, but my men, and my enemies, believe I am, and that keeps them in line. I am also the Captain-Commander of the Bright Banners.
 ; str_npc29_backstory_a|I am Lotharo Gendymis, of Braavos, Commander of the Iron Shields. I've been all over the world, seen all of Lomas Longstriders wonders. The Triple Walls of Qarth, The Wall, the Valyrian Roads, the Great Pyramid of Ghis...
@@ -601,7 +601,7 @@ str_npc8_backstory_c|...
 ; str_npc22_backstory_c|We hired hedge knights to protect us from the mountain tribes on our way from the Bloody Gate through the mountains, and all seemed well. But one night our protectors got drunk and they raped my sister! My father charged at them with sword in hand, but he was old and was quickly cut down. The false knights fled soon after, leaving me with a defiled sister. Obviously, her worth as a marriage subject was ruined after her rape, and I've been forced to travel as a sellsword to support her.
 ; str_npc23_backstory_c|Ahh, I need to get out and fight myself! Been itching to hit something other than a man.
 ; str_npc24_backstory_c|It was no way for brave Roddy to live, being an outcast, forced to live like a common sellsword! I'm glad you came along!
-; str_npc25_backstory_c|Who are you, who are these people? Why are my hands always red?!
+str_npc25_backstory_c|Chi siete voi, chi sono queste persone? Perché le mie mani sono tutte rosse?!
 str_npc26_backstory_c|...
 ; str_npc27_backstory_c|Used to be house Waterman held sway over much of the Lonely Hills, but that glorious past is, well, in the past.
 ; str_npc28_backstory_c|Still, I'd dare say the Bright Banners have proven braver than most. True, we fled from Khal Temmo when he attacked Qohor, but anyone in their right mind would have done so. We also broke Volantene power on the Rhoyne during the Century of Blood.
@@ -667,7 +667,7 @@ str_npc16_backstory_response_1|Forse dovreste viaggiare con me per un po', Ser.
 str_npc18_backstory_response_1|E' terribile! Se ci fosse qualcosa  che potrei fare per aiutare...
 str_npc19_backstory_response_1|Sembri smarrito, potresti unirti a me.
 str_npc20_backstory_response_1|Potrei sempre usare un buon soldato.
-; str_npc21_backstory_response_1|Travel with me, I have friends who are in need of saving.
+str_npc21_backstory_response_1|Viaggiate con me, ho amici che hanno bisogno di qessere salvati.
 str_npc22_backstory_response_1|Unitevi a me, magari invertirete la vostra sfortuna.
 str_npc23_backstory_response_1|Niente affatto, mia signora.
 str_npc24_backstory_response_1|Ho grande bisogno di una guardia al mio seguito!
@@ -682,7 +682,7 @@ str_npc27_backstory_response_1|Vorreste unirvi a me?
 ; str_npc33_backstory_response_1|Are the Long Lances for hire?
 ; str_npc34_backstory_response_1|Are the Company of the Cat for hire?
 ; str_npc35_backstory_response_1|Are the Windblown for hire?
-; str_npc1_backstory_response_2|I am afraid I cannot currently take on any more men. Blessings of the Warrior to you, Ser Bennis.
+str_npc1_backstory_response_2|Temo di non poter assumere altri uomini. Che la benedizione del guerriero scenda su di voi, Ser Bennis.
 str_npc2_backstory_response_2|Buona fortuna, amico. Buona giornata.
 str_npc3_backstory_response_2|Mi dispiace ragazzo, ma no.
 str_npc4_backstory_response_2|No, non ne conosco nessuna.
@@ -771,11 +771,11 @@ str_npc16_signup_2|Io sono un cavaliere, e come tale sono il meglio che si possa
 ; str_npc17_signup_2|Perhaps we will one day sing of this day!
 ; str_npc18_signup_2|If I can stay with you, no-one would dare harm me. I'll do my best to be of help around you.
 ; str_npc19_signup_2|I can perform even the most advanced surgery, and my worldly knowledge is without match. Together, we shall make discoveries such as none have made before!
-; str_npc20_signup_2|My sturdy spear shall bring us many great victories.
-; str_npc21_signup_2|May the Warrior grant your arm strenght!
+str_npc20_signup_2|La mia robusta lancia ci garantirà molte grandi vittorie.
+str_npc21_signup_2|Che il Guerriero conceda forza al tuo braccio!
 ; str_npc22_signup_2|By the Seven, finally my fortune takes a turn for the better.
 str_npc23_signup_2|Per gli dèi, ho voglia di far oscillare la mia ascia nei campi di battaglia!
-; str_npc24_signup_2|By the Warrior! I'll never have to talk to a merchant again!
+str_npc24_signup_2|Per il Guerriero! Non dovrò mai più parlare con un mercante!
 str_npc25_signup_2|Aiutatemi a tornare a casa, perfavore {playername}!
 ; str_npc26_signup_2|I won't do everything you should ask of me, but any man try to kill you, he ends up dead himself.
 ; str_npc27_signup_2|Taverns really do get rather dreary after a while, I'll tell you that {playername}.
@@ -797,7 +797,7 @@ str_npc6_signup_response_1|Mi sembra abbastanza giusto. Mettete assieme le vostr
 str_npc8_signup_response_1|Hmm, il tempo ci dirà se ciò è stato saggio. Benvenuto nel mio seguito.
 str_npc9_signup_response_1|Suppongo di potervi aiutarte, in futuro. Per ora, ho bisogno che seguiate i miei ordini, e che non mi pugnalate alla gola.
 str_npc10_signup_response_1|Allora dovrete insegnarmi come si gioca. Temo che dovremo rimandare la nostra bevuta ad un altra occasione.
-; str_npc11_signup_response_1|Very good, I'll make sure to inform you when we're ready to continue.
+str_npc11_signup_response_1|Molto bene, farò in modo di informarvi quando saremo pronti a partire.
 str_npc12_signup_response_1|Vi do il benvenuto nella nostra Compagnia, maestro Brynden.
 str_npc13_signup_response_1|Bene. Tenetevi pronto, partiremo presto. 
 str_npc14_signup_response_1|Bene. Sono felice di avere uno come voi tra le mie fila.
@@ -811,8 +811,8 @@ str_npc20_signup_response_1|Sì, lo faranno, ovviamente...
 str_npc22_signup_response_1|Questo è lo spirito giusto!
 str_npc23_signup_response_1|Giusto!
 str_npc24_signup_response_1|Giusto!
-; str_npc25_signup_response_1|Erh, yeah, let me think about it...
-; str_npc26_signup_response_1|Seems a fair request.
+str_npc25_signup_response_1|Erh, sì, permettetemi di pensarci su...
+str_npc26_signup_response_1|Mi sembra una richiesta giusta.
 str_npc27_signup_response_1|Eeh, giusto.
 str_npc28_signup_response_1|Mi sembra ragionevole.
 ; str_npc29_signup_response_1|Good, I need well-armed men.
@@ -840,7 +840,7 @@ str_npc15_signup_response_2|Veramente, mi servono differenti tipi di specializza
 str_npc16_signup_response_2|Per essere onesti, io preferirei qualcuno che è stato un pò meno tentato di sedurre le fanciulle di highborn.
 ; str_npc17_signup_response_2|What are you rambling about? I need a decent fighter, not a pretty singer.
 ; str_npc18_signup_response_2|I'm sorry, I meant to help you here, not to drag you around the world. I can't do that.
-; str_npc19_signup_response_2|I'm afraid I have no need for a scholar.
+str_npc19_signup_response_2|Temo di non aver bisogno di uno studioso.
 str_npc20_signup_response_2|Mi dispiace ma non ho bisogno dei vostri servizi.
 str_npc21_signup_response_2|...
 str_npc22_signup_response_2|Temo che non sia possibile in questo momento.
@@ -874,7 +874,7 @@ str_npc14_payment|Ah, un'ultima cosa. Volevo chiedervi un pagamento iniziale di 
 ; str_npc21_payment|Before I can travel with you, you'll need to grant a small gift to the Faith, {reg3} silver coins should we sufficient. I'll make sure it's sent to the Great Sept in King's Landing.
 ; str_npc22_payment|There is only one problem... I needs be must sew a new banner to fly high the sigil of House Cargyll. I imagine {reg3} silver coins would suffice.
 ; str_npc24_payment|Say, I think my armor needs a proper taking care of. The blacksmith here in this town can do it for me, but it'll cost about {reg3} coins. Any chance you'd be willing to loan me the coin?
-; str_npc26_payment|{reg3} coins it is, then. And a share of any plunder, plus wine.
+str_npc26_payment|{reg3} monete, eccovi. E una parte di qualsiasi bottino, oltre al vino.
 ; str_npc27_payment|Now, while taverns lose their luster after a while, whores never do, and I owe quite a large sum to the one with the big teats over there. Could you spare {reg3} coins for me to pay her? I've heard she once hacked of a mans thumb for not paying her, and I rather like mine.
 ; str_npc28_payment|Good! The Bright Banners are yours to command, my lord. The initial payment is {reg3} coins, to be shared out between me, my officers and the men. The company is currently camped near Braavos, so we'll have to travel there and pick it up.
 ; str_npc29_payment|Very well. The Iron Shields will follow your lead, my lord. The initial payment is {reg3} coins, with one-third going to me, one-third to the officers, and the rest to be shared out between the men. The company is currently camped near the Ruins of Sar Mell, so we'll have to travel there and get the men moving.
@@ -884,25 +884,25 @@ str_npc14_payment|Ah, un'ultima cosa. Volevo chiedervi un pagamento iniziale di 
 ; str_npc33_payment|Ah, it's been a while since we were last hired, so, ah, we shall join you for nothing but a small fee. {reg3} coins, to be shared between me and the men. The company is camped on the Orange Shore, close to Volantis, so we'll have to travel there and get the men moving.
 ; str_npc34_payment|I shall require {reg3} coins as a starting fee, {playername}. How is it shared between me, the officers and the men, you ask? None of your bloody business.
 ; str_npc35_payment|For {reg3} coins, the Windblown will fight for you.
-; str_npc1_payment_response|Very well, here's {reg3} coins. Now, pack your backs, we'll be leaving soon.
+str_npc1_payment_response|Benissimo, ecco {reg3} denari. Ora, prendete la vostra roba, partiremo presto.
 str_npc4_payment_response|Certamente. Ecco {reg3} denari.
-; str_npc5_payment_response|Hah, very true. Here is {reg3} coins.
+str_npc5_payment_response|Hah, mi sembra giusto. Eccovi {reg3} monete.
 str_npc7_payment_response|Sì, sì, certo, solo una formalità, una stupida tradizione.
-; str_npc8_payment_response|Oh, I am no pauper, Halbert. Here's {reg3} coins for you.
+str_npc8_payment_response|Oh, non giaccio in povertà, Halbert. Ecco {reg3} denari per voi.
 str_npc9_payment_response|Benissimo, ecco {reg3} denari.
 str_npc10_payment_response|Certamente. Ecco {reg3} denari.
-; str_npc11_payment_response|Very well, here's {reg3} coins. Make yourself ready. We leave soon.
-; str_npc13_payment_response|Of course, here's {reg3} coins. Get ready to leave soon.
-; str_npc14_payment_response|All right, here's {reg3} coins. You are most welcome in our company.
-; str_npc15_payment_response|All right, here's {reg3} coins. Glad to have you with us.
-; str_npc16_payment_response|I'm sure he'll be ever grateful to you. Here is {reg3} coins, be ready to leave soon.
+str_npc11_payment_response|Benissimo, ecco {reg3} denari. Fatevi trovare pronto. Ce ne andremo presto.
+str_npc13_payment_response|Certo, ecco {reg3} denari. Siate pronto per partire presto.
+str_npc14_payment_response|Va bene, ecco {reg3} denari. Benvenuto nella nostra Compagnia.
+str_npc15_payment_response|Va bene, ecco {reg3} denari. Felice di avervi con noi.
+str_npc16_payment_response|Va bene, ecco {reg3} denari per voi. Preparatevi.
 ; str_npc17_payment_response|{reg3} coins? You dare! I like that, I'll be happy to oblige you.
 str_npc19_payment_response|Va bene, ecco qualche moneta.
-; str_npc20_payment_response|That seems more than fair. Here are the {reg3} coins.
+str_npc20_payment_response|Mi sembra più che giusto. Eccovi {reg3} monete.
 str_npc21_payment_response|Molto bene.
-; str_npc22_payment_response|Of course. Here are {reg3} coins. Hurry, I'll be leaving soon.
-; str_npc24_payment_response|Here are {reg3} coins. Make him hurry, I'll be leaving soon.
-; str_npc26_payment_response|Here are {reg3} coins. You better be worth it.
+str_npc22_payment_response|Naturalmente. Qui ci sono {reg3} monete. Affrettatevi, partiremo presto.
+str_npc24_payment_response|Qui ci sono {reg3} monete. Fate in fretta, partiremo presto.
+str_npc26_payment_response|Qui ci sono {reg3}  monete. Spero ne valga la pena.
 ; str_npc27_payment_response|Here are {reg3} coins. Go pay the whore.
 ; str_npc28_payment_response|Here are {reg3} coins. You and your men better be worth it.
 ; str_npc29_payment_response|Here are {reg3} coins.
@@ -1098,15 +1098,15 @@ str_npc19_personalityclash2_speech_b|...
 str_npc4_personalitymatch_speech|Perdono, {Signore/Signora}. Volevo solo esprimere il mio apprezzamento per Bilaquo. Si è comportato molto bene nell'ultima battaglia.
 str_npc5_personalitymatch_speech|Questa è stata una bella battaglia, {playername}. Jasper è un ottimo soldato, da avere al proprio fianco in combattimento.
 ; str_npc6_personalitymatch_speech|{My lord/My lady}! Sometimes I am troubled by all this bloodshed, although I know that proud lords must be humbled, and cruel men tamed, if we are to restore peace to the realm.
-; str_npc7_personalitymatch_speech|I was just talking to Ser Bennis. He may be a bit rough, but I believe that he is a faithful friend.
+str_npc7_personalitymatch_speech|Stavo parlando con Ser Bennis. Può sembrare un pò selvaggio, ma credo che sia un amico fedele.
 ; str_npc8_personalitymatch_speech|A fine battle that was, my liege. And I have to say, I admire the taunts that Martyn hurled at our enemy. They where quite witty.
 str_npc9_personalitymatch_speech|Comandante. Bilaquo se l'è cavata bene nell'ultimo combattimento. È un uomo modesto, se posso dire la mia.
 ; str_npc10_personalitymatch_speech|Ahoy, {playername}! I wish you joy of your victory! Say, Maron is not bad in a scrap, is he, for a man of his trade? Although I'm getting to be a bit of an old dog myself for this, he might yet learn a proper way of life.
 str_npc11_personalitymatch_speech|Accidenti, comandante! Una battaglia come questa fa scricchiolare le mie vecchie giunture. In ogni caso, gli abbiamo dato una bella lezione, no?
 str_npc12_personalitymatch_speech|Un affare maledetto, comandante, un affare maledetto. Sebbene certamente necessario. Maron, credo che possiate comprendere la mia condotta ambivalente in questa lotta senza fine.
 str_npc13_personalitymatch_speech|Avete onorato il vostro nome oggi, mio valoroso comandante! E anche Clavis! Mi piace. Canta le canzoni della sua gente quando va in battaglia, ha un animo artistico come il mio.
-; str_npc14_personalitymatch_speech|{playername}. It is a pleasure going into battle with men like Roger by my side.
-; str_npc15_personalitymatch_speech|{playername}. I was just having a word with Halbert after our last battle, and it strikes me that the man has got a good head on his shoulders.
+str_npc14_personalitymatch_speech|{playername}. È un piacere scendere in battaglia con uomini come Roger al mio fianco!
+str_npc15_personalitymatch_speech|{playername}. Stavo scambiando due parole con Halbert dopo l'ultima battaglia, e mi ha davvero colpito. È una persona con la testa sulle spalle.
 ; str_npc16_personalitymatch_speech|I was just having a chat with Drollo, as we picked through the bodies after our last little scrap.
 ; str_npc17_personalitymatch_speech|{playername}, while I was fighting in the frontline this battle I got finally a chance to speak to Serol. What a revelation it was to hear his story: I feel like I could write many poems about his exploits.
 ; str_npc18_personalitymatch_speech|Have I been wrong? I thought that everyone in the whole world was out there to kill me, you excluded of course, but now that I have spoken to Ser Roger, I'm not sure about that. He seems so nice and understanding.
@@ -1449,7 +1449,7 @@ str_npc4_kingsupport_2|Certamente,  {playername}. Il trucco sta nel farvi seguir
 ; str_npc5_kingsupport_2|Aye, {playername}, I would. But there is something I should say, on behalf of the men of the Reach such as myself. It would bring great joy to us, to hear from the lips of one who would be khan, that you would restore an anicent right. From the days of the old Gardener kings, the men of the Reach have enjoyed the right to bring their flocks to new pastures or to market, which necessarily involves the crossing of lands owned by the great lords of this realm.
 str_npc6_kingsupport_2|Lo vorrei. Vorrei dire a chiunque delle vostre gesta a nome dei deboli e degli indifesi, della vostra capacità di condurre gli uomini anche con poche possibilità di successo e dirgli che se diventerete {re/Regina}, ci sarà una legge e un po' di pace -- dal deserto di Dorne alle coste di Braavos, dal mare dothraki alla Barriera.
 str_npc7_kingsupport_2|Sì, {playername}, lo vorrei. Un dovere di {un Re/una Regina} è quello di tenere al sicuro le strade per il popolo, fare in modo che una donna possa andare a raccogliere la legna da ardere o attingere l'acqua senza preoccuparsi che uno schifoso fuorilegge possa avvicinarsi. Comunque, avete spaccato un bel po' di crani di banditi. Gli uomini avrebbero paura anche di incrociare lo sguardo di una donna se voi foste {Re/Regina}.
-str_npc8_kingsupport_2|Lo vorrei... Ad una condizione. Siate Re di Praven o Sargoth o dovunque vogliate, una volta c'era una regola: Se qualcuno subisce un torto da un'altra persona per le terre, il bestiame o qualsiasi cosa dovete far risolvere la questione con la spada, che sia il Cielo a decidere chi sta nel giusto.
+str_npc8_kingsupport_2|Lo vorrei... Ad una condizione. Siate Re di Westeros  o Essosd o ovunque vogliate, una volta c'era una regola: Se qualcuno subisce un torto da un'altra persona per le terre, il bestiame o qualsiasi cosa dovete far risolvere la questione con la spada, che sia il Cielo a decidere chi sta nel giusto.
 ; str_npc9_kingsupport_2|I would, {playername}, and others would too. But here's what I think -- you need to show the noble lords that you'll uphold their ancient rights. Right now, the world's a mess -- the lord owns the land, except it's the prince who owns the forest, but the city has the right to levy tax at its gates, and the commons can use the pastures on odd days, except in Qohor when it's the fifth day. Who can remember? So I say you make things simple, like it was in the days of The Freehold -- first the prince, then the lords, then everyone else.
 str_npc10_kingsupport_2|Senza dubbio, {playername}. Ma vi chiedo di prendere in considerazione un mio pensiero. Se diverrete {Re/Regina}, dovreste aprire un tribunale anche per le persone comuni, e non solamente per i nobili di sangue blu. Un uomo deve poter essere giudicato e condannato, ed avere il diritto di conferire direttamente con voi. Al momento, solo i lord hanno questo diritto, diritto, quando invece ogni uomo nel regno dovrebbe averlo.
 str_npc11_kingsupport_2|Certo che lo vorrei! Fatemi vedere le vostre mani, c'è... Aha! Voi avete il 'Marchio dei Re'. Così viene chiamato a Horn Hill. Ho sentito che a Suno viene chiamato la 'Linea dell'Imperatore', ma chiamano tutto in modo differente da quelle parti... In ogni caso, il vostro segno è molto lungo... Direi che voi siete destinato a promulgare leggi! È il vostro destino! Credo di poter recuperare un'antica profezia. Hmm, com'era...
@@ -1748,7 +1748,7 @@ str_comment_intro_noble_badtempered|Non riconosco la provenienza del vostro sten
 str_comment_intro_noble_pitiless|Vedo che portate lo stendardo di un nobile, ma non ne riconosco l'emblema. Un altro avvoltoio che ingrassa sugli avanzi della guerra, senza dubbio!
 str_comment_intro_noble_cunning|Vedo che portate lo stendardo di un nobile, ma non ne riconosco l'emblema. Comunque, vale sempre la pena di fare la conoscenza di {uomini/donne} che un giorno potranno dimostrare d'essere grandi combattenti.
 str_comment_intro_noble_sadistic|Vedo che portate lo stendardo di un nobile, ma non ne riconosco l'emblema. Forse siete {il figlio/la figlia} di un ladro di bestiame? O forse ve ne siete appropriato per voi?
-str_comment_intro_noble_goodnatured|Vedo che portate lo stendardo di un nobile, ma non ne riconosco la provenienza. Perdona la mia ignoranza, {signore/madame}! è bello fare la vostra conoscenza.
+str_comment_intro_noble_goodnatured|Vedo che portate lo stendardo di un nobile, ma non ne riconosco la provenienza. Perdonate la mia ignoranza, {signore/signora}! è bello fare la vostra conoscenza.
 str_comment_intro_noble_upstanding|Vedo che portate lo stendardo di un nobile, ma non ne riconosco la provenienza. Senza dubbio siete in questo regno per l'onore e la gloria.
 str_comment_intro_common_liege|Magari sarete di origini povere, ma io sono sempre in cerca di combattenti che guerreggino per me, se sono in grado di dimostrare di meritarsi la mia fiducia.
 str_comment_intro_common_martial|Forse non siete di stirpe nobile, ma se dimostrate di essere un {uomo/donna} di valore, sarà un piacere provare la mia forza contro di voi in un torneo, o sul campo di battaglia.
@@ -2689,17 +2689,17 @@ str_unknown_assailants|ignoti assalitori
 ; str_westerlands|Westermen
 ; str_reach|Reachmen
 ; str_ironborn|Ironborn
-; str_pentos|Pentoshi
-; str_tyrosh|Tyroshi
+str_pentos|Pentoshi
+str_tyrosh|Tyroshi
 ; str_myr|Myrmen
-; str_lys|Lyseni
-; str_volantis|Volantene
-; str_norvos|Norvoshi
-; str_lorath|Lorathi
+str_lys|Lyseni
+str_volantis|Volantene
+str_norvos|Norvoshi
+str_lorath|Lorathi
 ; str_sisters|Sistermen
-; str_targaryen|Exiles
-; str_wildlings|Wildlings
-; str_dothraki|Dothraki
+str_targaryen|Esiliato
+str_wildlings|Bruti
+str_dothraki|Dothraki
 str_bandits|banditi
 str_deserters|disertori
 str_your_followers|tuoi seguaci
@@ -3817,7 +3817,7 @@ str_merchant_and_you_call_some_townsmen_and_guards_to_get_ready_and_you_get_out_
 str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits|I pochi banditi rimasti si disperdono per gli stretti vicoli della città, solo per essere cacciati uno ad uno dai paesani arrabbiati. Consapevole che la  vittoria è stata completa e che ci si è presi cura dei feriti, tu e il mercante vi riunite a casa sua per riassumere gli eventi del giorno.
 str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits_you_wounded|Cadi a terra con quest'ultimo colpo, incapace di muoverti e cercando con fatica di non svenire. Presto i suoni dei combattimenti che riempiono la strada lasciano il posto alle acclamazioni dei concittadini e ti rendi conto con sollievo che la tua fazione questa volta ha vinto. Alla fine, mani amichevoli ti sollevano da terra e ti lasci andare ad un profondo e beato sonno. Ore dopo, ti svegli nella casa del mercante.
 str_journey_to_reyvadin|Giungi in Calradia attraversando gli altipiani Vaegir, una piattaforma esposta ai rigidi venti del nord. La terra qui è gelata per gran parte dell'anno, ma i boschi sono ricchi di animali da pelliccia, e i fiumi abbondano di pesce. Le ricchezze della terra attirano i commercianti, ma i mercanti sono come miele per i banditi. Hai intravisto occasionalmente una figura scura in groppa ad un pony arruffato, intenta a guardare il passaggio della vostra carovana da una cresta nevosa, quindi accogli con gioia la vista delle guglie di Reyvadin che riempiono la tua vista nel mezzo dell'ampia vallata del fiume Boluk.
-str_journey_to_praven|Arrivi in carovana nel cuore di Calradia. Verdi germogli di grano, orzo e avena cominciano a spuntare dal suolo scuro delle colline, e sulle prime pendici delle montagne innevate, mandrie di bovini e ovini pascolano sul prato di primavera. Di tanto in tanto riesci anche a scorgere uno dei grandi cavalli di battaglia che sono l'orgoglio della nobiltà di Swadia. La terra qui è ricca, ma anche pericolosa, come testimonia il fatto che, a volte, intravedi una fattoria bruciare in lontananza. Tu continui a tenerti alla larga dalle foreste, dove gli uomini disperati hanno trovato rifugio, ed è un sollievo quando, tra una cresta e l'altra  scorgi il grande porto di Praven e i suoi tetti dorati colpiti dagli ultimi raggi del sole al tramonto.
+str_journey_to_praven|.
 str_journey_to_jelkala|Giungi in nave, costeggiando le scogliere dove gli altipiani Rhodok incontrano il mare. Gran parte del litorale è nascosto da banchi di nebbia che serpeggiano nelle valli dei fiume, ma di tanto in tanto hai potuto scorgere la torre di guardia di un castello che sovrasta la nebbia, e in un'occasione il faro di un fuoco ardente che avvertiva della presenza di una banda nemica. Sapevi che il viaggio in mare in direzione nord sarebbe stato relativamente sicuro, come anche andando verso sud dove sareste stati protetti dal rischio d'incontrare i predoni del mare che temono le coste della terra dei Nords. Ma è comunque un sollievo per te raggiungere l'estuario del Selver, varco d'accesso al porto di Jelkala, e vedere una flotta di navi Rhodok all'ancora, le loro bandiere svolazzano nella brezza della sera.
 str_journey_to_sargoth|Hai ottenuto un passaggio su una nave commerciale, che trasportava falconi catturati negli angoli più remoti del nord per essere barattati con il lino e la lana. Siete partiti all'inizio della stagione, ma il Comandante ha calcolato che il rischio d'imbattersi in ghiaccio alla deriva e nelle tempeste invernali poteva essere giustificato dal potenziale arrivo dei pirati, che da aprile avrebbero fatto vela fuori dalle loro tane nelle isole per devastare le coste di Calradia. È stato un sollievo per te quando la tua nave è giunta in vista del delta dei fiumi Vyl e Boluk, e dopo un po' di tempo passato a remare tra correnti e paludi costiere, siete approdati alla città di Sargoth, che ospita i lontani parenti dei predoni del mare, i lords dei Nords, che qualche generazione fa si sono ritagliati un regno in questa terra ricca ma travagliata.
 str_journey_to_tulga|Giungi con una carovana, attraversando le montagne che circondano Calradia a nord e ad est, portando spezie di terre lontane per scambiarle con lana e sale. I passi erano ancora soffocati dalla neve, ed è stato difficile avanzare, ma alla fine avete superato una cresta e avete visto davanti a voi le steppe di Calradia. Su alcuni pendii l'erba sottile di primavera era già ingiallita per la calura, ma le pendici delle montagne erano ancora di un verde vivace. Greggi di pecore e pony fulvi della steppa pascolavano alla deriva tra loro come le nuvole, a testimonianza della ricchezza del Khan dei Khergit. Di volta in volta piccoli gruppi di cavalieri hanno seguito la vostra carovana da lontano, forse per valutare quanto bene avreste potuto difendere la ricchezza che trasportavate, così è stato con un certo sollievo che hai scorto le torri di Tulga innalzarsi dalla pianura.
