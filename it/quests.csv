@@ -75,13 +75,13 @@ qst_raid_caravan_to_start_war|Attacca una Carovana neutrale per provocare la gue
 qst_cause_provocation|Dai un pretesto al Regno per attaccarne un altro
 qst_rescue_prisoner|Libera o riscatta un prigioniero
 qst_destroy_bandit_lair|Distruggi il covo dei banditi
-qst_beowulf_quest|Il Corno e la collana: Parte 1
-qst_beowulf_quest1|Il Corno e la collana: Parte 2
-qst_beowulf_quest2|Il Corno e la collana: Parte 3
-qst_beowulf_quest3|Il Corno e la collana: Parte 4
-qst_beowulf_quest4|Il Corno e la collana: Parte 5
-qst_beowulf_quest5|Il Corno e la collana: Parte 6
-qst_beowulf_quest6|Il Corno e la collana: Parte 7
+; qst_beowulf_quest|The Horn and the Grimoire: Part 1
+; qst_beowulf_quest1|The Horn and the Grimoire: Part 2
+; qst_beowulf_quest2|The Horn and the Grimoire: Part 3
+; qst_beowulf_quest3|The Horn and the Grimoire: Part 4
+; qst_beowulf_quest4|The Horn and the Grimoire: Part 5
+; qst_beowulf_quest5|The Horn and the Grimoire: Part 6
+; qst_beowulf_quest6|The Horn and the Grimoire: Part 7
 qst_relic_quest|L' Anello Benedetto: Parte 1
 qst_relic_quest1|L' Anello Benedetto: Parte 2
 qst_ramsay_quest|Il Bastardo di Bolton: Parte 1
@@ -97,6 +97,17 @@ qst_starting_quest_1_5|Il Torneo a Nove Stelle: Parte 3
 qst_starting_quest_1_6|Processo per Singolar Tenzone: Parte 1
 qst_starting_quest_1_7|Processo per Singolar Tenzone: Parte 1
 qst_terror_quest_starter|Terrore nel Cairn: Parte 1
+; qst_renly_quest_1|The Crowned Stag: Part 1
+; qst_renly_quest_2|The Crowned Stag: Part 2
+; qst_renly_quest_3|The Crowned Stag: Part 3
+; qst_renly_quest_4|The Crowned Stag: Part 4
+; qst_renly_quest_5|The Crowned Stag: Part 5
+; qst_starting_quest_citadel|The Knights of the Mind: Part 1
+; qst_citadel_quest_1|Lost Knowledge: Part 1
+; qst_citadel_quest_2|Lost Knowledge: Part 2
+; qst_citadel_quest_3|Lost Knowledge: Part 3
+; qst_citadel_quest_4|Lost Knowledge: Part 4
+; qst_citadel_quest_5|Lost Knowledge: Part 5
 qst_quaithe_quest|Le rovine di Nightfort: Parte 1
 qst_quaithe_quest1|Le rovine di  Nightfort: Parte 2
 qst_quaithe_quest2|Le rovine di  Nightfort: Parte 3
@@ -127,7 +138,6 @@ qst_aegon_targaryen_quest|Maestro a metà: Parte 1
 qst_aegon_targaryen_quest1|Maestro a metà: Parte 2
 qst_dragonseed_quest|Seme dei Draghi: Parte 1
 qst_dragonseed_quest1|Seme dei Draghi: Parte 2
-qst_espada_falcata|Valar Dohaeris
 qst_wildfire_quest|Ombre nella notte: Parte 1
 qst_wildfire_quest1|Ombre nella notte: Parte 2
 qst_wildfire_quest2|Ombre nella notte: Parte 3
@@ -135,13 +145,13 @@ qst_wildfire_quest3|Ombre nella notte: Parte 4
 qst_wildfire_quest4|Ombre nella notte: Parte 5
 qst_wildfire_quest5|Ombre nella notte: Parte 6
 qst_wildfire_quest6|Ombre nella notte: Parte 7
-qst_stepstone_quest|Il principe e la regina: Parte 1
-qst_stepstone_quest1|Il principe e la regina: Parte 2
-qst_stepstone_quest2|Il principe e la regina: Parte 3
-qst_stepstone_quest3|Il principe e la regina: Parte 4
-qst_stepstone_quest4|Il principe e la regina: Parte 5
-qst_stepstone_quest5|Il principe e la regina: Parte 6
-qst_stepstone_quest6|Il principe e la regina: Parte 7
+; qst_stepstone_quest|Knights, Letters and Dragons: Part 1
+; qst_stepstone_quest1|Knights, Letters and Dragons: Part 2
+; qst_stepstone_quest2|Knights, Letters and Dragons: Part 3
+; qst_stepstone_quest3|Knights, Letters and Dragons: Part 4
+; qst_stepstone_quest4|Knights, Letters and Dragons: Part 5
+; qst_stepstone_quest5|Knights, Letters and Dragons: Part 6
+; qst_stepstone_quest6|Knights, Letters and Dragons: Part 7
 qst_clansman_quest|Bastoni e Pietre: Parte 1
 qst_clansman_quest1|Bastoni e Pietre: Parte 2
 qst_clansman_quest2|Bastoni e Pietre: Parte 3

@@ -1,7 +1,7 @@
 skl_trade|Commerce
 skl_trade_desc|Chaque niveau reduit les prix de 5%%. (Compétences communes)
 skl_leadership|Commandemant
-skl_leadership_desc|Chaque niveau augmente le nombre de troupe maximum de 5, augmente votre moral et reduit les salaires de 5%%. (Compétences dirigeant)
+; skl_leadership_desc|Every point increases maximum number of troops you can command by 8, increases your party morale and reduces troop wages by 5%%. (Leader skill)
 skl_prisoner_management|Gestion des prisonniers
 skl_prisoner_management_desc|Chaque niveau augment le nombre maximum de prisonnier %d. (Compétences dirigeant)
 skl_reserved_1|Compétence réservé 1

@@ -1,7 +1,7 @@
 skl_trade|Comerciar
 skl_trade_desc|Cada nivel de esta habilidad reduce la penalización de comercio en un 5%%. (Habilidad de grupo)
 skl_leadership|Liderar
-skl_leadership_desc|Cada punto incrementa el número máximo de tropas que podéis liderar en 5, incrementa la moral del grupo y reduce los salarios en un 5%%. (Habilidad de líder)
+; skl_leadership_desc|Every point increases maximum number of troops you can command by 8, increases your party morale and reduces troop wages by 5%%. (Leader skill)
 skl_prisoner_management|Manejar prisioneros
 skl_prisoner_management_desc|Cada nivel de esta habilidad incrementa el número máximo de prisioneros en %d. (Habilidad de líder)
 skl_reserved_1|Habilidad reservada 1

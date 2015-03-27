@@ -75,13 +75,13 @@ qst_raid_caravan_to_start_war|Attaquer une caravane pour provoquer une guerre
 qst_cause_provocation|Pousser un royaume à en attaquer un autre
 qst_rescue_prisoner|Libérer un prisonnier
 qst_destroy_bandit_lair|Détruire le repaire des bandits
-qst_beowulf_quest|La Corne et le collier: Part 1
-qst_beowulf_quest1|La Corne et le collier: Part 2
-qst_beowulf_quest2|La Corne et le collier: Part 3
-qst_beowulf_quest3|La Corne et le collier: Part 4
-qst_beowulf_quest4|La Corne et le collier: Part 5
-qst_beowulf_quest5|La Corne et le collier: Part 6
-qst_beowulf_quest6|La Corne et le collier: Partie 7
+; qst_beowulf_quest|The Horn and the Grimoire: Part 1
+; qst_beowulf_quest1|The Horn and the Grimoire: Part 2
+; qst_beowulf_quest2|The Horn and the Grimoire: Part 3
+; qst_beowulf_quest3|The Horn and the Grimoire: Part 4
+; qst_beowulf_quest4|The Horn and the Grimoire: Part 5
+; qst_beowulf_quest5|The Horn and the Grimoire: Part 6
+; qst_beowulf_quest6|The Horn and the Grimoire: Part 7
 qst_relic_quest|Le Saint Anneau: Part 1
 qst_relic_quest1|Le Saint Anneau: Part 2
 qst_ramsay_quest|Le Bâtard de Bolton: Part 1
@@ -97,6 +97,17 @@ qst_tyrion_quest1|M'entendre hurler: Part 2
 ; qst_starting_quest_1_6|Trial by Combat: Part 1
 ; qst_starting_quest_1_7|Trial by Combat: Part 1
 ; qst_terror_quest_starter|Terror in the Cairn: Part 1
+; qst_renly_quest_1|The Crowned Stag: Part 1
+; qst_renly_quest_2|The Crowned Stag: Part 2
+; qst_renly_quest_3|The Crowned Stag: Part 3
+; qst_renly_quest_4|The Crowned Stag: Part 4
+; qst_renly_quest_5|The Crowned Stag: Part 5
+; qst_starting_quest_citadel|The Knights of the Mind: Part 1
+; qst_citadel_quest_1|Lost Knowledge: Part 1
+; qst_citadel_quest_2|Lost Knowledge: Part 2
+; qst_citadel_quest_3|Lost Knowledge: Part 3
+; qst_citadel_quest_4|Lost Knowledge: Part 4
+; qst_citadel_quest_5|Lost Knowledge: Part 5
 qst_quaithe_quest|Le Nightfort: Partie 1
 qst_quaithe_quest1|Le Nightfort: Partie 2
 qst_quaithe_quest2|Le Nightfort: Partie 3
@@ -127,7 +138,6 @@ qst_aegon_targaryen_quest|Un demi-mestre: Part 1
 qst_aegon_targaryen_quest1|Un demi-mestre: Part 2
 qst_dragonseed_quest|La Semence du Dragon: Part 1
 qst_dragonseed_quest1|La Semence du Dragon: Part 2
-qst_espada_falcata|Valar Dohaeris
 qst_wildfire_quest|Ombres dans la nuit: Part 1
 qst_wildfire_quest1|Ombres dans la nuit: Part 2
 qst_wildfire_quest2|Ombres dans la nuit: Part 3
@@ -135,13 +145,13 @@ qst_wildfire_quest3|Ombres dans la nuit: Part 4
 qst_wildfire_quest4|Ombres dans la nuit: Part 5
 qst_wildfire_quest5|Ombres dans la nuit: Part 6
 qst_wildfire_quest6|Ombres dans la nuit: Partie 7
-qst_stepstone_quest|Le Prince et la Reine: Part 1
-qst_stepstone_quest1|Le Prince et la Reine: Part 2
-qst_stepstone_quest2|Le Prince et la Reine: Part 3
-qst_stepstone_quest3|Le Prince et la Reine: Part 4
-qst_stepstone_quest4|Le Prince et la Reine: Part 5
-qst_stepstone_quest5|Le Prince et la Reine: Part 6
-qst_stepstone_quest6|Le Prince et la Reine: Partie 7
+; qst_stepstone_quest|Knights, Letters and Dragons: Part 1
+; qst_stepstone_quest1|Knights, Letters and Dragons: Part 2
+; qst_stepstone_quest2|Knights, Letters and Dragons: Part 3
+; qst_stepstone_quest3|Knights, Letters and Dragons: Part 4
+; qst_stepstone_quest4|Knights, Letters and Dragons: Part 5
+; qst_stepstone_quest5|Knights, Letters and Dragons: Part 6
+; qst_stepstone_quest6|Knights, Letters and Dragons: Part 7
 qst_clansman_quest|Des Bâtons et des Pierres: Part 1
 qst_clansman_quest1|Des Bâtons et des Pierres: Part 2
 qst_clansman_quest2|Des Bâtons et des Pierres: Part 3
