@@ -215,6 +215,11 @@ str_oasis_village_alt_prosperity_80|L'activité bat son plein dans les palmeraie
 str_acres_grain|acres de champs de céréales
 str_acres_orchard|acres de vergers et de vignobles
 str_acres_oasis|acres d'oasis irriguées
+; str_goldmine|goldmines
+; str_lemons|acres of lemon orchards
+; str_plums|acres of plum orchards
+; str_dornish_wine|acres of vinyards
+; str_candles|waxmakers
 str_looms|métiers à tisser
 str_boats|bateaux
 str_head_cattle|bovins
@@ -429,14 +434,7 @@ str_npc24_intro|Eh, Quoi?
 str_npc25_intro|La chair est si douce, si facile à découper, à séparer de la peau, la peau à être déshabillée, à tresser, si agréable à tresser en lanières, si gentilles, si rouges sont les gouttes qui tombent...
 ; str_npc26_intro|What do you want?
 ; str_npc27_intro|Just a minute, I'm pondering the mysteries of life!
-; str_npc28_intro|Greetings, traveller. Have a drink on me.
-; str_npc29_intro|Greeting, traveller. Sit down, listen to my story.
-; str_npc30_intro|Hello there, traveller. Have a seat.
-; str_npc31_intro|May the Maiden watch over you, traveller.
-; str_npc32_intro|Gelti aohe nadinas. Skoroso jemele broza?
-; str_npc33_intro|...Yes?...
-; str_npc34_intro|What? What do you want, eh?
-; str_npc35_intro|Yes?
+; str_npc28_intro|What do you want, eh?
 ; str_npc1_intro_response_1|Well met, Ser Bennis. What is an anointed knight doing in a filthy tavern such as this?
 str_npc2_intro_response_1|Que vous est-il arrivé?
 str_npc3_intro_response_1|Bonjour.
@@ -464,14 +462,7 @@ str_npc24_intro_response_1|Rien, vraiment. Qui êtes-vous?
 str_npc25_intro_response_1|Que faites-vous?
 str_npc26_intro_response_1|Qui êtes-vous?
 ; str_npc27_intro_response_1|Eh, what?
-; str_npc28_intro_response_1|Thank you. May I know who I am drinking with?
-; str_npc29_intro_response_1|Very well.
-; str_npc30_intro_response_1|Who are you?
-; str_npc31_intro_response_1|Thank you, stranger. Who are you?
-; str_npc32_intro_response_1|Excuse me?
-; str_npc33_intro_response_1|Excuse me, stranger, who are you?
-; str_npc34_intro_response_1|Who are you?
-; str_npc35_intro_response_1|Who are you?
+; str_npc28_intro_response_1|Who are you?
 str_npc1_intro_response_2|Je vous souhaite de passer une bonne journée, Ser.
 str_npc2_intro_response_2|J'ai mieux à faire.
 str_npc3_intro_response_2|Foutez-moi le camp et vite. Je n'ai pas de temps à perdre à discuter.
@@ -499,14 +490,7 @@ str_npc24_intro_response_2|Passons.
 ; str_npc25_intro_response_2|Right...
 ; str_npc26_intro_response_2|Nothing.
 ; str_npc27_intro_response_2|Nevermind then.
-; str_npc28_intro_response_2|No thank you.
-; str_npc29_intro_response_2|No.
-; str_npc30_intro_response_2|I'd rather not.
-; str_npc31_intro_response_2|Right...
-; str_npc32_intro_response_2|Goodbye.
-; str_npc33_intro_response_2|Nevermind.
-; str_npc34_intro_response_2|Nevermind.
-; str_npc35_intro_response_2|Nevermind.
+; str_npc28_intro_response_2|Nothing.
 str_npc1_backstory_a|Eh bien, c'est une histoire pesante ...
 str_npc2_backstory_a|Il s'agit d'un conte tragique, asseyez-vous et écoutez.
 ; str_npc3_backstory_a|You look like a man of war, do you by any chance need a young squire?
@@ -533,15 +517,8 @@ str_npc23_backstory_a|Je peux le faire, je peux! Mais je suis sûre que ma mère
 ; str_npc24_backstory_a|People call me Roddy. Or, well, people in King's Landing does. Used to be everyone in King's Landing knew my name. 'There goes Roddy' they'd say, 'bravest man in all of the city watch'. Then that vicious son of a whore, Tywin Lannister, came and sacked the city. Told Aerys he came as a friend, then turned his cloak and betrayed his king. Bah!
 str_npc25_backstory_a|LE SANG EST SI ROUGE! SI ROUGE! Si doux, si doux et jolis, de jolis cris et de beaux hurlements, ils crient, hurlent votre chanson, des hurlements mélodieux...
 ; str_npc26_backstory_a|I am Caul, former chieftain of the Red Sparrows.
-; str_npc27_backstory_a|Hah, I'm just yanking your tail, ain't pondering anything. Bit drunk though. But ah, what can I do for you? People call me Ser Medrick Waterman, because, well, it's my name.
-; str_npc28_backstory_a|I am Ser Lucamore, whom some call 'The Grim'. I'm not really all that grim though, but my men, and my enemies, believe I am, and that keeps them in line. I am also the Captain-Commander of the Bright Banners.
-; str_npc29_backstory_a|I am Lotharo Gendymis, of Braavos, Commander of the Iron Shields. I've been all over the world, seen all of Lomas Longstriders wonders. The Triple Walls of Qarth, The Wall, the Valyrian Roads, the Great Pyramid of Ghis...
-; str_npc30_backstory_a|I am Addam Blackwood, Captain of the Gallant Men.
-; str_npc31_backstory_a|I am Ser Otho Bracken, leader of the Maiden's Men and most unworthy servant of the Seven.
-; str_npc32_backstory_a|Ah, excuse me. I forgot the savages in this part of the world does not speak the valyrian dialect of New Ghis.
-; str_npc33_backstory_a|Ah, I am, eh, Gylo Rhegan, of Lorath. Captain-General of the Long Lances. I, eh, travelled here to visit a relative.
-; str_npc34_backstory_a|I am the Commander of the Company of the Cat.
-; str_npc35_backstory_a|The men of the Windblown call me the Tattered Prince. My real name is my own.
+; str_npc27_backstory_a|Hah, I'm just yanking your tail, ain't pondering anything. Bit drunk though. But ah, what can I do for you? People call me Melly Waterman, because, well, it's my name.
+; str_npc28_backstory_a|Who's asking? Did she send you, the whore? Tell her that I'm not interested. Wandering across half the world like some sun-mad camel is what she had me doing! Bah!
 ; str_npc1_backstory_b|I competed in the great tourney at Harrenhal, ages ago, in what some call 'The Year of the False Spring'. How the armor of the knights and lords shone that day, with none brighter than the Prince of Dragonstone! Prince Rhaegar was unstoppable, but I also acquitted myself well. However, in my last joust, I accidently killed the nephew of old lord Vance. There is no greater dishonor for a knight, and every lord and lady in the realm saw me that day.
 ; str_npc2_backstory_b|I was on my way to Pentos, out of King's Landing, with a cargo of spices and peppers from Dorne. I owned my own trading vessel in those days, a beautiful galleon with a figurehead showing the Maiden. We lay in at Dragonstone for water, when I was accosted by Stannis Baratheons castellan, a Florent if I ever saw one. Those ears! Anyhow, he comes and tells me that my ship is now in the service of the king. It seems Stannis is amasing an army on Dragonstone, and in order to transport it, he needs every single ship he can get his hands on. They emptied my hulls and gave me a slip of paper promising to pay me for my losses once Stannis comes into his kingdom. Much good that'll do me now.
 ; str_npc3_backstory_b|I used to squire for Ser Halbert Stone, of Willow Tree, but he died of the bloody flux, and I know no other trade.
@@ -568,15 +545,8 @@ str_npc21_backstory_b|Quand il revint à notre château ancestral , il brûla la
 ; str_npc24_backstory_b|And what happens to the people that stayed loyal to the Targaryens? Well, we're out of a job, with our lives taken over by thieves and murderers. Bah!
 str_npc25_backstory_b|CREUSER, CREUSER, CREUSER. Aveuglément, sans réfléchir, se déplacer à travers la ville sans but comme un ver creuse dans la terre. CREUSER, CREUSER, CREUSER!
 ; str_npc26_backstory_b|My tale is my own.
-; str_npc27_backstory_b|I'm a member of house Waterman, we're from the North. My brother is sworn to lord Bolton, but second sons have nowhere to go but away. White Harbor is where most of us end up, looking for work. But the Manderlys have so many cousins themselves, they never lack for swords or grooms. So what can one do, other than travel the world.
-; str_npc28_backstory_b|Ever heard of the Bright Banners? We're one of the oldest companies still in existence. Formed right after the Doom, if you can believe that. I fancy myself a bit of a historian, and the Bright Banners have proved pivotal in many wars and battles. We've also caused quite some defeats, but who can fault us. There's an old proverb in the Free Cities 'There are brave sellswords, and old sellswords, but no brave and old sellswords'. It's the truth, and why should we hide it. Better to live another day than die with your fists full of gold.
-; str_npc29_backstory_b|Now I command the Iron Shields. I formed the company myself, after the disaster on the Stepstones. When Maelys the Monstrous and the Band of Nine took over the Disputed Lands, I was a young man, but had already travelled far. When we took Tyrosh, I considered staying behind. Goldentongue offered me the office of Commander of the City Watch, but I wanted more, and turned it down. More fool me.
-; str_npc30_backstory_b|I was the fourth son of lord Bennifer Blackwood, and I'm the uncle of the current Lord of Raventree Hall. Fourth sons are never likely to inherit, and while my older siblings joined the Faith and the Citadel, I went to Essos and fought in the Disputed Lands. But when Maelys the Monstrous pressed his claim to the Iron Throne, I joined my father and brother in bringing him down, and fought alongside the likes of Brynden Tully and Barristan Selmy.
-; str_npc31_backstory_b|When I was a young man, I suffered a fall that left me senseless for days. My mother prayed to the Maiden while I lay in bed, and finally I awoke. Clearly, it was the will of the Seven that I serve the Maiden, and spread the Faith amongst the unbelievers.
-; str_npc32_backstory_b|I am Oronno Paenrakos, of Ghis. My family originated in Old Valyria, as servants of house Qoherys. I myself command the Ragged Standards as their captain.
-; str_npc33_backstory_b|Did you hear the news from the east? Ah, Khal Drogo has, eh, died, slain by maegi. Maegi lie with demons, and, eh, their shadows are cursed. But that's not all. An, ah, calamity has descended on Astapor. A great big dragon, with three heads has burned the city!
-; str_npc34_backstory_b|Want to know more, eh? I've sacked cities and towns, raped mothers and daughters, fought battles and duels. You heard of Black Joggo? I flayed him while he was still alive!
-; str_npc35_backstory_b|I command the Windblow. Want to know more? Find a gossip, they all tell the same tale.
+; str_npc27_backstory_b|I'm a member of house Waterman, we're from the North. My brother is sworn to lord Bolton, but daughters ah... they're not supposed to run around in mail and fighting with swords. White Harbor is where most highborn ladies end up, if they don't marry. Special sort of woman who doesn't marry, and they're quite content in White Harbor. All those septas, eh?
+; str_npc28_backstory_b|All her tall tales, and for what? Nothing! My father, my sister, my brother, all gone. And now she sends another one to persuade me. Well, you can tell Tamora that she can go fuck herself. I don't care what it is this time. Gold, silver, the bejewelled member of the Father Above, I say no, no, no!
 ; str_npc1_backstory_c|I was young and out of my wits, and foolishly swore to never enter the lists of another tourney, as a penance. So I was forced to serve as a sworn knight and merchants guard, and that does not offer opportunity for glory, nor wealth.
 str_npc2_backstory_c|J'ai essayé de retourner chez moi, mais les routes sont remplies d'hors la loi, et donc, je me retrouve ici, sans argent, sans  bateau, sans équipage, avec juste un morceau de papier et nulle part où aller.
 str_npc3_backstory_c|Je peux m'occuper de votre cheval, entretenir votre armure et faire cuire votre dîner. Et j'ai une voix de tonnerre, assez forte pour annoncer votre entrée dans les tournois !
@@ -604,14 +574,7 @@ str_npc22_backstory_c|Nous avons engagé des chevaliers de renom pour nous prot�
 ; str_npc25_backstory_c|Who are you, who are these people? Why are my hands always red?!
 ; str_npc26_backstory_c|...
 ; str_npc27_backstory_c|Used to be house Waterman held sway over much of the Lonely Hills, but that glorious past is, well, in the past.
-; str_npc28_backstory_c|Still, I'd dare say the Bright Banners have proven braver than most. True, we fled from Khal Temmo when he attacked Qohor, but anyone in their right mind would have done so. We also broke Volantene power on the Rhoyne during the Century of Blood.
-; str_npc29_backstory_c|Maelys was beheaded by Barristan Selmy on the island of Bloodstone, and our men fled. The Westerosi slaughtered any man who didn't run fast enough. I found myself with a motley crew of men, hiding in a cave, and to protect ourselves we formed into a band. Soon, we started charging merchants, passing through the Stepstones, a fee to protect them against pirates, and thus the Iron Shields were formed.
-; str_npc30_backstory_c|House Blackwood is an ancient house, dating back to the time before the Andals, and we still worship the Old Gods. Have you ever been to Raventree Hall? An ancient dead weirwood stands in the courtyard, and at night hundreds of ravens come to roost. But anyhow. When the Blackfyre line was extinguished with the death of Maelys, I joined the Gallant Men as a serjeant, and through the years rose to the position of paymaster and then captain.
-; str_npc31_backstory_c|The Faith is strong in the Seven Kingdoms, but the people of Essos is yet to see the light. The Maiden's Men shall rectify this by spreading the worship of the Seven amongst the ignorant!
-; str_npc32_backstory_c|The Ragged Standards is a fine company, you can trust me on that.
-; str_npc33_backstory_c|Portents and signs are, eh, everywhere, {playername}. And now this comet in the sky. It is the end of days, I tell you.
-; str_npc34_backstory_c|No one can stand against me! Women love me, men fear me and rightly so!
-; str_npc35_backstory_c|As with my name, my tale is mine own as well.
+; str_npc28_backstory_c|Ever been attacked by a Hrakkar, {playername}? That's how I got this scar! And that's the second smallest scar I have! The smallest scar is the result of a manticore attack! Scars and dead relatives, that's what all my hard work and trekking across the world has gotten me, while she grows richer every day!
 str_npc1_backstory_later|Je suis là et cependant vous savez, je suis désespérément à la recherche de travail.
 str_npc2_backstory_later|J'ai vendu mes bottes et j'ai réussi à gagner un peu d'argent en colportant des marchandises de ville en ville, mais c'est une vie dure.
 str_npc3_backstory_later|J'ai aidé différentes gardes de villes tant que j'ai pu. Il semble que le monde entier soit en guerre.
@@ -639,14 +602,7 @@ str_npc24_backstory_later|Ah, {playername}. Avez-vous changé d'avis sur les gar
 str_npc25_backstory_later|{playername}! Faites-moi sortir d'ici! SORTEZ-MOI D'ICI!
 str_npc26_backstory_later|{playername}. Toujours en planque ici?
 ; str_npc27_backstory_later|{playername}. Still here?
-; str_npc28_backstory_later|{playername}. Looking for men?
-; str_npc29_backstory_later|{playername}. Looking for men?
-; str_npc30_backstory_later|{playername}. Looking for men?
-; str_npc31_backstory_later|{playername}. Looking for men?
-; str_npc32_backstory_later|{playername}. Looking for men?
-; str_npc33_backstory_later|{playername}. Looking for men?
-; str_npc34_backstory_later|{playername}. Looking for men?
-; str_npc35_backstory_later|{playername}. Looking for men?
+; str_npc28_backstory_later|What, {playername}?
 ; str_npc1_backstory_response_1|You seem a stout enough fellow Ser Bennis, perharps you would like to join my company?
 str_npc2_backstory_response_1|Eh bien, peut-être que je pourrais vous offrir du travail. Pouvez-vous vous battre?
 str_npc3_backstory_response_1|Eh bien, apparemment, je crois que vous pourriez m'être utile.
@@ -674,14 +630,7 @@ str_npc24_backstory_response_1|J'ai grand besoin d'un garde dans ma compagnie!
 str_npc25_backstory_response_1|Pouvez-vous tenir une épée?
 str_npc26_backstory_response_1|Que faudrait-il pour vous persuader de me servir?
 ; str_npc27_backstory_response_1|Would you like to join me?
-; str_npc28_backstory_response_1|Are the Bright Banners for hire?
-; str_npc29_backstory_response_1|Are the Iron Shields for hire?
-; str_npc30_backstory_response_1|Are the Gallant Men for hire?
-; str_npc31_backstory_response_1|Are the Maiden's Men for hire?
-; str_npc32_backstory_response_1|Are the Ragged Standard for hire?
-; str_npc33_backstory_response_1|Are the Long Lances for hire?
-; str_npc34_backstory_response_1|Are the Company of the Cat for hire?
-; str_npc35_backstory_response_1|Are the Windblown for hire?
+; str_npc28_backstory_response_1|I have no clue who this Tamora is. I'm looking for men to join my retinue.
 ; str_npc1_backstory_response_2|I am afraid I cannot currently take on any more men. Blessings of the Warrior to you, Ser Bennis.
 str_npc2_backstory_response_2|Pas de chance, l'ami. Bonne journée à vous.
 str_npc3_backstory_response_2|Je suis désolé mon garçon, mais c'est non.
@@ -709,14 +658,7 @@ str_npc24_backstory_response_2|Pas tout de suite.
 str_npc25_backstory_response_2|Passons.
 ; str_npc26_backstory_response_2|Right...
 ; str_npc27_backstory_response_2|I must beg my leave.
-; str_npc28_backstory_response_2|Goodbye.
-; str_npc29_backstory_response_2|Goodbye.
-; str_npc30_backstory_response_2|Goodbye.
-; str_npc31_backstory_response_2|Goodbye.
-; str_npc32_backstory_response_2|Goodbye.
-; str_npc33_backstory_response_2|Goodbye.
-; str_npc34_backstory_response_2|Goodbye.
-; str_npc35_backstory_response_2|Goodbye.
+; str_npc28_backstory_response_2|Right...
 str_npc1_signup|Volontiers! Peut-être que je vais enfin sortir de cette horrible compagnie de protecteurs de commerçants arrivistes avec leurs épouses aussi grasses que des truies!
 str_npc2_signup|Eh bien, je dois avouer que je ne suis pas devenu un guerrier par vocation.
 str_npc3_signup|Vous l'avez fait? Je vous en suis très reconnaissant, Ser!
@@ -744,14 +686,7 @@ str_npc24_signup|Super! Je vais prendre mon épée!
 str_npc25_signup|Je ferai tout ce que vous voulez, aussi longtemps que vous me tenez éloigné d'ici! DONNEZ-MOI UN COUPERET, POUR TRANCHER, TRANCHER, TRANCHER!
 str_npc26_signup|Le double de ce que je n'ai jamais été payé.
 ; str_npc27_signup|I would, I would! I'm so very tired of hanging around in taverns.
-; str_npc28_signup|Obviously. We're sellswords. The Bright Banners will always fight if they pay is good, and the leadership better.
-; str_npc29_signup|The Iron Shields are for hire. But the company is not cheap.
-; str_npc30_signup|The Gallant Men are for hire.
-; str_npc31_signup|We sustain our souls with prayer, but as all weak men, we too must eat, and so sell our services.
-; str_npc32_signup|The Ragged Standard is a proud company, with a long tradition. We're not cheap, so you'll have to dig deep in your coffers to hire us.
-; str_npc33_signup|The Long Lances have recently, ah, run into a bit of misfortune. So, ah, yes, we're for hire.
-; str_npc34_signup|The company is always for hire! Pay us, and we'll fight like demons. Pay us well, and we'll conquer the world. But if you don't pay us, I'll rip your throat out myself.
-; str_npc35_signup|The Windblown is a sellsword company. Sellswords often sell their swords.
+; str_npc28_signup|Oh... my apologies then. You're the first one in a while who didn't turn out to be one of her slaves in disguise. The woman is mad, I'll tell you that. But you say you're looking for men?
 ; str_npc1_signup_2|I have travelled the world for near forty years, first as a squire and later as an annointed knight, and I doubt any man have had more experience protecting merchants than I.
 str_npc2_signup_2|Mais j'apprends vite. Je suis un bon cavalier, et je connais un peu le commerce, les prix et diverses autre astuces.
 str_npc3_signup_2|Je pense que vous vous rendrez vite compte que je suis indispensable dans vos rangs.
@@ -779,14 +714,7 @@ str_npc24_signup_2|Par le Guerrier! Je n'aurai jamais du reparler à un marchand
 str_npc25_signup_2|Aidez-moi à rentrer chez moi, s'il vous plaît {playername}!
 ; str_npc26_signup_2|I won't do everything you should ask of me, but any man try to kill you, he ends up dead himself.
 ; str_npc27_signup_2|Taverns really do get rather dreary after a while, I'll tell you that {playername}.
-; str_npc28_signup_2|We do expect to be paid though. Might be we can strike up a deal, but the Bright Banners consists of a hundred fighting men, well-trained and armed, so it won't be cheap.
-; str_npc29_signup_2|The company consists of fifty men-at-arms, well-trained, well-armed and experienced.
-; str_npc30_signup_2|The company currently has a hundred men on its payroll, and you'll find none braver.
-; str_npc31_signup_2|The company consists of ten knights, most holy, and fifty archers, staunch in their devotion to the Maiden.
-; str_npc32_signup_2|The company currently has a hundred and twenty men enrolled under our banner, twenty of whom are fine dothraki warriors.
-; str_npc33_signup_2|The company currently has a hundred mounted lancers on its payroll, and, ah, they're fine bunch.
-; str_npc34_signup_2|The company fields a hundred and fifty men, the finest infantry in this part of the world.
-; str_npc35_signup_2|I have forty lancers, a hundred infantry and twenty archers on the payroll. All of them obedient and well-trained. I've made sure of that
+; str_npc28_signup_2|As you can plainly see, I'm as manly as can be. Titus Harper is my name, the rightful Lord of Blackstone. Proud name, long and and storied. My castle is in the Reach, but after Robert's Rebellion we where... forced from it. Fate has left me here with no means to survive but my skill with the bow. I'll gladly join your retinue.
 str_npc1_signup_response_1|Bien. Je vous engage.
 str_npc2_signup_response_1|Cela fera l'affaire.
 str_npc3_signup_response_1|Hum, cela fera l'affaire.
@@ -814,14 +742,7 @@ str_npc24_signup_response_1|D'accord!
 ; str_npc25_signup_response_1|Erh, yeah, let me think about it...
 ; str_npc26_signup_response_1|Seems a fair request.
 ; str_npc27_signup_response_1|Erh, right.
-; str_npc28_signup_response_1|That is reasonable.
-; str_npc29_signup_response_1|Good, I need well-armed men.
-; str_npc30_signup_response_1|Good, I need brave men.
-; str_npc31_signup_response_1|Good, I need devout men.
-; str_npc32_signup_response_1|Good, I need skilled warriors.
-; str_npc33_signup_response_1|Good, I need mounted warriors.
-; str_npc34_signup_response_1|Good, I need well-trained infantry.
-; str_npc35_signup_response_1|Good, I need well-trained men.
+; str_npc28_signup_response_1|That's the spirit!
 ; str_npc1_signup_response_2|I'd prefer not having to embarras you, Ser Bennis.
 str_npc2_signup_response_2|Je recherche des hommes ayant une certaine expérience. Bonne journée à vous.
 str_npc3_signup_response_2|Je suis désolé, je n'ai pas besoin de vous.
@@ -849,14 +770,7 @@ str_npc24_signup_response_2|J'ai bien peur d'avoir changé d'avis, Je n'ai pas b
 str_npc25_signup_response_2|Je n'ai pas besoin de vous pour le moment...
 ; str_npc26_signup_response_2|I've changed my mind.
 ; str_npc27_signup_response_2|I'm afraid I've changed my mind.
-; str_npc28_signup_response_2|I may not need you right this moment...
-; str_npc29_signup_response_2|I may not need you right this moment...
-; str_npc30_signup_response_2|I may not need you right this moment...
-; str_npc31_signup_response_2|I may not need you right this moment...
-; str_npc32_signup_response_2|I may not need you right this moment...
-; str_npc33_signup_response_2|I may not need you right this moment...
-; str_npc34_signup_response_2|I may not need you right this moment...
-; str_npc35_signup_response_2|I may not need you right this moment...
+; str_npc28_signup_response_2|I'm afraid I've changed my mind.
 str_npc1_payment|Très bien. Cependant, avant de nous quitter, j'aimerais régler un petit détail celui de ma paye. Je crois que {reg3} pièces d'argent, serait satisfaisant.
 str_npc4_payment|Excellent. Avant que nous partions, auriez-vous l'amabilité de me prêter {reg3} pièces d'argent? Je dois rembourser une dette de famille à un prêteur sur gages ici à {s20}, et je veux récupérer cet argent avant que nous ne partions.
 str_npc5_payment|Merci. Maintenant, allons sceller notre accord, je vous demande {reg3} pièces d'argent. Les chevaliers doivent fidélité à leur seigneur, quoi qui se passe, mais ils leurs seront encore plus fidèles s'ils peuvent les entretenir.
@@ -875,15 +789,8 @@ str_npc21_payment|Avant de ne partir voyager avec vous, vous devrez faire un pet
 str_npc22_payment|Il y a un problème... J'ai besoin de voir flotter au dessus du donjon de la Famille Cargyll, une nouvelle bannière. J'imagine que {reg3} pièces d'argent suffiraient.
 ; str_npc24_payment|Say, I think my armor needs a proper taking care of. The blacksmith here in this town can do it for me, but it'll cost about {reg3} coins. Any chance you'd be willing to loan me the coin?
 ; str_npc26_payment|{reg3} coins it is, then. And a share of any plunder, plus wine.
-; str_npc27_payment|Now, while taverns lose their luster after a while, whores never do, and I owe quite a large sum to the one with the big teats over there. Could you spare {reg3} coins for me to pay her? I've heard she once hacked of a mans thumb for not paying her, and I rather like mine.
-; str_npc28_payment|Good! The Bright Banners are yours to command, my lord. The initial payment is {reg3} coins, to be shared out between me, my officers and the men. The company is currently camped near Braavos, so we'll have to travel there and pick it up.
-; str_npc29_payment|Very well. The Iron Shields will follow your lead, my lord. The initial payment is {reg3} coins, with one-third going to me, one-third to the officers, and the rest to be shared out between the men. The company is currently camped near the Ruins of Sar Mell, so we'll have to travel there and get the men moving.
-; str_npc30_payment|How fortuitous that we stumbled upon each other then. I shall require an initial payment of {reg3} coins, with one-fourth going to me, one-fifth to the officers, and the rest to be shared out between the men. The men are camped near Pentos, so we'll have to travel there and pick them up.
-; str_npc31_payment|You seem a {man/woman} of great devotion, {playername}. The Maiden's Men shall follow you and root out heresy and demon worship. To supply our bodies and horses, I shall require a payment of {reg3} coins. The men are currently camped in the Hills of Andalos, where the Father first spoke to Hugor of the Hill, and thus we need to travel there to pick them up.
-; str_npc32_payment|As I said, we're not cheap. I shall require {reg3} coins to enlist with you, half of which shall go to me, one-fourth shall go to the officers, and the rest shall be shared between the men. The company is currently camped near Qohor, so we'll have to travel there and pick them up.
-; str_npc33_payment|Ah, it's been a while since we were last hired, so, ah, we shall join you for nothing but a small fee. {reg3} coins, to be shared between me and the men. The company is camped on the Orange Shore, close to Volantis, so we'll have to travel there and get the men moving.
-; str_npc34_payment|I shall require {reg3} coins as a starting fee, {playername}. How is it shared between me, the officers and the men, you ask? None of your bloody business.
-; str_npc35_payment|For {reg3} coins, the Windblown will fight for you.
+; str_npc27_payment|Now, while taverns lose their luster after a while, whores never do, and I owe quite a large sum to the one with the big... ears over there. Could you spare {reg3} coins for me to pay him? I've heard he once hacked of a mans thumb for not paying him, and I rather like mine. Now, I know what you're thinking, {reg3} coins for one whore? But it's just not him, its the wine, the roast swans, the peppered caviar, the other whore, the barrel filled with ale I broke. You get the picture, surely?
+; str_npc28_payment|Quite good. Before we leave however, there is the small matter of my payment. I believe {reg3} silver coins would be a fair amount.
 ; str_npc1_payment_response|Very well, here's {reg3} coins. Now, pack your backs, we'll be leaving soon.
 ; str_npc4_payment_response|Certainly. Here's {reg3} coins.
 ; str_npc5_payment_response|Hah, very true. Here is {reg3} coins.
@@ -904,14 +811,7 @@ str_npc21_payment_response|Très bien.
 ; str_npc24_payment_response|Here are {reg3} coins. Make him hurry, I'll be leaving soon.
 ; str_npc26_payment_response|Here are {reg3} coins. You better be worth it.
 ; str_npc27_payment_response|Here are {reg3} coins. Go pay the whore.
-; str_npc28_payment_response|Here are {reg3} coins. You and your men better be worth it.
-; str_npc29_payment_response|Here are {reg3} coins.
-; str_npc30_payment_response|Here are {reg3} coins.
-; str_npc31_payment_response|Here are {reg3} coins. You better be worth it.
-; str_npc32_payment_response|Here are {reg3} coins. Those dothraki better be worth it.
-; str_npc33_payment_response|Here are {reg3} coins. Those lances better be sharp.
-; str_npc34_payment_response|Here are {reg3} coins. Your men better be worth it.
-; str_npc35_payment_response|Here are {reg3} coins.
+; str_npc28_payment_response|Here are {reg3} coins. You better be worth it.
 str_npc1_morality_speech|Mon seigneur. Ne le prenez pas mal mais on mène une vie dure et le fait de {s21} commence à faire beaucoup. Faites-y plus attention à l'avenir, si je puis me permettre.
 str_npc2_morality_speech|J'espère que je puis me permettre, mais c'est difficile pour moi de nous voir {s21}. Peut-être que je devrais essayer de m'endurcir, mais si nous pouvions faire preuve d'un peu de pitié de temps à autres, je dormirais mieux.
 str_npc3_morality_speech|Ce n'est peut-être pas à moi de dire cela, {mon seigneur/ma dame}, mais je dois vous avouer que cela me choque de nous voir {s21}. Je conçois tout à fait que la guerre est cruelle, mais il n'est pas nécessaire de la rendre encore plus cruelle.
@@ -980,13 +880,6 @@ str_npc20_personalityclash_speech|Puis-je vous parler au sujet de {s11}? J'ai cr
 ; str_npc26_personalityclash_speech|{playername}, that northern women is a filthy harlot if ever I saw one. Worships trees and probably has a womans weak will! Why, you don't need her, not when you got brave Roddy in your guard! There once was a song about me! 'Brave and bold Roddy, rode forth from Chelsted! He was not afraid to die, oh brave Roddy! He was not at all afraid, to be killed in nasty ways! Brave, brave, brave, brave Roddy'! 
 ; str_npc27_personalityclash_speech|{playername}, that northern women is a filthy harlot if ever I saw one. Worships trees and probably has a womans weak will! Why, you don't need her, not when you got brave Roddy in your guard! There once was a song about me! 'Brave and bold Roddy, rode forth from Chelsted! He was not afraid to die, oh brave Roddy! He was not at all afraid, to be killed in nasty ways! Brave, brave, brave, brave Roddy'! 
 ; str_npc28_personalityclash_speech|{playername}, that northern women is a filthy harlot if ever I saw one. Worships trees and probably has a womans weak will! Why, you don't need her, not when you got brave Roddy in your guard! There once was a song about me! 'Brave and bold Roddy, rode forth from Chelsted! He was not afraid to die, oh brave Roddy! He was not at all afraid, to be killed in nasty ways! Brave, brave, brave, brave Roddy'! 
-; str_npc29_personalityclash_speech|{playername}, that northern women is a filthy harlot if ever I saw one. Worships trees and probably has a womans weak will! Why, you don't need her, not when you got brave Roddy in your guard! There once was a song about me! 'Brave and bold Roddy, rode forth from Chelsted! He was not afraid to die, oh brave Roddy! He was not at all afraid, to be killed in nasty ways! Brave, brave, brave, brave Roddy'! 
-; str_npc30_personalityclash_speech|{playername}, Otho Bracken is a madman. He's raving about the Seven all the time. The Brackens are all mad, but I fear Ser Otho might be the worst of them.
-; str_npc31_personalityclash_speech|{playername}, that demon spawn worships trees! Addam Blackwood is a heretic, plain and simple. In olden times, the Faith would hold their own trials, and purify any man found to be cavorting with demons.
-; str_npc32_personalityclash_speech|{playername}, that northern women is a filthy harlot if ever I saw one. Worships trees and probably has a womans weak will! Why, you don't need her, not when you got brave Roddy in your guard! There once was a song about me! 'Brave and bold Roddy, rode forth from Chelsted! He was not afraid to die, oh brave Roddy! He was not at all afraid, to be killed in nasty ways! Brave, brave, brave, brave Roddy'! 
-; str_npc33_personalityclash_speech|{playername}, that northern women is a filthy harlot if ever I saw one. Worships trees and probably has a womans weak will! Why, you don't need her, not when you got brave Roddy in your guard! There once was a song about me! 'Brave and bold Roddy, rode forth from Chelsted! He was not afraid to die, oh brave Roddy! He was not at all afraid, to be killed in nasty ways! Brave, brave, brave, brave Roddy'! 
-; str_npc34_personalityclash_speech|Bah, tatters and rags, an old weak man is what he is. 'The Tattered Prince' hah!
-; str_npc35_personalityclash_speech|{playername}, Bloodbeard vexes me. I'd gladly kill him myself, but alas, we both serve you.
 str_npc1_personalityclash_speech_b|C'est un simple bandit, tout comme moi, et qu'est-ce qui lui donne le droit de me dire ce que je dois faire.
 str_npc2_personalityclash_speech_b|Je n'ai que faire de {s11} et de sa vantardise quant aux caravanes qu'il aurait pillées ou qu'il projette de piller. C'est comme s'il n'avait aucun respect pour le commerce honnête et équitable.
 str_npc3_personalityclash_speech_b|Je sais bien qu'une armée n'est pas une garderie et que la discipline et la fermeté y sont très importantes, mais cet homme n'est cruel que pour son plaisir personnel. J'espère que vous ne voyez pas d'inconvénient à ce que je vous le dise ainsi.
@@ -1015,13 +908,6 @@ str_npc25_personalityclash_speech_b|«Il n'était pas le moins du monde effrayé
 str_npc26_personalityclash_speech_b|«Il n'était pas le moins du monde effrayé, d'être réduit en purée! Ou d'avoir les yeux crevés et ses bras cassés! Ou d'avoir ses rotules coupées et son corps brûlé, et tous ses membres arrachés et mutilés, oh brave Roddy»!
 ; str_npc27_personalityclash_speech_b|'He was not in the least bit scared, to be mashed into a pulp! Or to have his eyes gouged out and his elbows broken! To have his kneecaps split and his body burned away, and his limbs all hacked and mangled, oh brave Roddy!'
 ; str_npc28_personalityclash_speech_b|'He was not in the least bit scared, to be mashed into a pulp! Or to have his eyes gouged out and his elbows broken! To have his kneecaps split and his body burned away, and his limbs all hacked and mangled, oh brave Roddy!'
-; str_npc29_personalityclash_speech_b|'He was not in the least bit scared, to be mashed into a pulp! Or to have his eyes gouged out and his elbows broken! To have his kneecaps split and his body burned away, and his limbs all hacked and mangled, oh brave Roddy!'
-; str_npc30_personalityclash_speech_b|There's a reason we Blackwoods have always been their enemies. They stole our crown, they've tried to steal our land, and they poisoned our weirwood back before the Conquest. They're all mad, and Ser Otho the maddest of them all.
-; str_npc31_personalityclash_speech_b|Fire was the prefered method, and I say we return to those ancient ways!
-; str_npc32_personalityclash_speech_b|'He was not in the least bit scared, to be mashed into a pulp! Or to have his eyes gouged out and his elbows broken! To have his kneecaps split and his body burned away, and his limbs all hacked and mangled, oh brave Roddy!'
-; str_npc33_personalityclash_speech_b|'He was not in the least bit scared, to be mashed into a pulp! Or to have his eyes gouged out and his elbows broken! To have his kneecaps split and his body burned away, and his limbs all hacked and mangled, oh brave Roddy!'
-; str_npc34_personalityclash_speech_b|'The Tattered Bastard' I call him. Riding around on that fancy horse of his, bah!
-; str_npc35_personalityclash_speech_b|I once caught a deserter. He was not the first to take my coin and run. He told me how the food was so bad that he'd run to avoid it. I chopped off his foot and fed it to him. Should the opportunity ever arise, what I did to that man will pale beside what I'd do to Bloodbeard.
 str_npc1_personalityclash2_speech|Mon seigneur, je ne suis pas une âme sensible empreint de fantaisie, mais je n'aime pas la façon dont {s11} est allé dépouiller les ennemis blessés, là-bas. Ce n'est pas convenable!
 ; str_npc2_personalityclash2_speech|If you don't mind, I'd prefer not to be deployed anywhere near Bennis, after what he said to me during that last battle.
 str_npc3_personalityclash2_speech|{Mon seigneur/Ma dame}, depuis que j'ai rejoint votre groupe, j'ai essayé d'apprendre à vivre comme un soldat et de faire honneur au code des guerriers. S'il m'arrive de faire une erreur de temps en temps, j'espère que l'on ne m'en tiendra pas rigueur.
@@ -1050,13 +936,6 @@ str_npc25_personalityclash2_speech|Capitaine, Je dois dire que vous devriez appr
 str_npc26_personalityclash2_speech|Capitaine, Je dois dire que vous devriez apprendre à {s11} à se comporter plus dignement. Si je n'avais pas le contrôle de moi-même, je lui aurais déjà sauté à la gorge depuis longtemps.
 ; str_npc27_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
 ; str_npc28_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc29_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc30_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc31_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc32_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc33_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc34_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
-; str_npc35_personalityclash2_speech|Captain, I must say you should teach {s11} some manners. If it wasn't for my self control, I would have flown to her throat a long time ago.
 str_npc1_personalityclash2_speech_b|La façon dont il siffle gaiement comme à son habitude - me fait froid dans le dos. Ce n'est pas digne d'un noble.
 str_npc2_personalityclash2_speech_b|L'ennemi fonçait sur ​​nous, et il a dit: "Ecarte-toi, malandrin, c'est le travail d'un guerrier". La prochaine fois je le laisserai faire, il saura ce que c'est que de prendre une lance dans les tripes.
 str_npc3_personalityclash2_speech_b|Après notre dernière victoire je ramassais le butin parmi les morts, j'ai récupéré une des bourses de nos ennemis. A peine avais-je fait ça que {s11} est venu derrière moi et me l'a arraché des mains en disant que c'était lui qui avait tué ces  hommes, donc il méritait ce butin. Mon seigneur, personne ne peut affirmer dans le feu de la bataille qui a frappé qui. Si {s11} m'avait simplement dit qu'il méritait cette bourse, j'aurais été heureux de la lui donner .
@@ -1085,13 +964,6 @@ str_npc25_personalityclash2_speech_b|Après la dernière bataille, elle m'a insu
 str_npc26_personalityclash2_speech_b|Après la dernière bataille, elle m'a insulté au-delà de tout, en disant que je ferais mieux d'être un de ses serviteurs sinon j'étais un homme mort. SI je ne lui avais pas tourné le dos en me taisant, ça se serait sûrement mal terminé pour elle. Je ne peux pas garantir que je garderai toujours mon self-control à l'avenir.
 ; str_npc27_personalityclash2_speech_b|After the last battle she insulted me beyond any words, saying that I'd better be one of her servants, else I would be as good as dead. IF I hadn't turned my back on her and silenced myself, it would have surely ended bad for her. I can't guarantee that I'll have as much self control next time.
 ; str_npc28_personalityclash2_speech_b|After the last battle she insulted me beyond any words, saying that I'd better be one of her servants, else I would be as good as dead. IF I hadn't turned my back on her and silenced myself, it would have surely ended bad for her. I can't guarantee that I'll have as much self control next time.
-; str_npc29_personalityclash2_speech_b|After the last battle she insulted me beyond any words, saying that I'd better be one of her servants, else I would be as good as dead. IF I hadn't turned my back on her and silenced myself, it would have surely ended bad for her. I can't guarantee that I'll have as much self control next time.
-; str_npc30_personalityclash2_speech_b|After the last battle she insulted me beyond any words, saying that I'd better be one of her servants, else I would be as good as dead. IF I hadn't turned my back on her and silenced myself, it would have surely ended bad for her. I can't guarantee that I'll have as much self control next time.
-; str_npc31_personalityclash2_speech_b|After the last battle she insulted me beyond any words, saying that I'd better be one of her servants, else I would be as good as dead. IF I hadn't turned my back on her and silenced myself, it would have surely ended bad for her. I can't guarantee that I'll have as much self control next time.
-; str_npc32_personalityclash2_speech_b|After the last battle she insulted me beyond any words, saying that I'd better be one of her servants, else I would be as good as dead. IF I hadn't turned my back on her and silenced myself, it would have surely ended bad for her. I can't guarantee that I'll have as much self control next time.
-; str_npc33_personalityclash2_speech_b|After the last battle she insulted me beyond any words, saying that I'd better be one of her servants, else I would be as good as dead. IF I hadn't turned my back on her and silenced myself, it would have surely ended bad for her. I can't guarantee that I'll have as much self control next time.
-; str_npc34_personalityclash2_speech_b|After the last battle she insulted me beyond any words, saying that I'd better be one of her servants, else I would be as good as dead. IF I hadn't turned my back on her and silenced myself, it would have surely ended bad for her. I can't guarantee that I'll have as much self control next time.
-; str_npc35_personalityclash2_speech_b|After the last battle she insulted me beyond any words, saying that I'd better be one of her servants, else I would be as good as dead. IF I hadn't turned my back on her and silenced myself, it would have surely ended bad for her. I can't guarantee that I'll have as much self control next time.
 ; str_npc1_personalitymatch_speech|My liege. Ser Jasper back there didn't do badly in that last fight at all. He's a good man, too.
 ; str_npc2_personalitymatch_speech|Your grace. I just wanted to tell you that Saathos may be a rough sort, and possibly quite mad, and I'll venture he's a thoroughgoing rogue as well, but I'm proud to call him my companion.
 ; str_npc3_personalitymatch_speech|Hello, {my lord/my lady}! I had just wanted to tell you that Berengar is a most gallant man. Did you see him in our last battle?
@@ -1120,13 +992,6 @@ str_npc25_personalitymatch_speech|{playername}, avez-vous vu {s11}? Ah, c'est un
 str_npc26_personalitymatch_speech|{playername}, avez-vous vu {s11}? Ah, c'est un bel homme, n'est-ce pas? Beau au point de pousser une femme à ranger sa massue et prendre une robe.
 ; str_npc27_personalitymatch_speech|{playername}, have you seen {s11}? Ah, he's a handsome man, is he not? Makes a woman wish to put away the mace and pick up the gown.
 ; str_npc28_personalitymatch_speech|{playername}, have you seen {s11}? Ah, he's a handsome man, is he not? Makes a woman wish to put away the mace and pick up the gown.
-; str_npc29_personalitymatch_speech|{playername}, have you seen {s11}? Ah, he's a handsome man, is he not? Makes a woman wish to put away the mace and pick up the gown.
-; str_npc30_personalitymatch_speech|{playername}, have you seen {s11}? Ah, he's a handsome man, is he not? Makes a woman wish to put away the mace and pick up the gown.
-; str_npc31_personalitymatch_speech|{playername}, have you seen {s11}? Ah, he's a handsome man, is he not? Makes a woman wish to put away the mace and pick up the gown.
-; str_npc32_personalitymatch_speech|{playername}, have you seen {s11}? Ah, he's a handsome man, is he not? Makes a woman wish to put away the mace and pick up the gown.
-; str_npc33_personalitymatch_speech|{playername}, have you seen {s11}? Ah, he's a handsome man, is he not? Makes a woman wish to put away the mace and pick up the gown.
-; str_npc34_personalitymatch_speech|{playername}, have you seen {s11}? Ah, he's a handsome man, is he not? Makes a woman wish to put away the mace and pick up the gown.
-; str_npc35_personalitymatch_speech|{playername}, have you seen {s11}? Ah, he's a handsome man, is he not? Makes a woman wish to put away the mace and pick up the gown.
 str_npc1_personalitymatch_speech_b|Sans des âmes charitables et honnêtes comme lui pour apporter la lumière dans le monde, les chevaliers comme moi auraient bien des moments difficiles dans leur vie, je le garanti. Je suis heureux de l'avoir avec nous.
 str_npc2_personalitymatch_speech_b|Je l'ai vu combattre ces derniers temps, il peut se tenir derrière moi, j'ai une confiance absolue en lui, mais par contre, je garderai toujours une main sur ma bourse.
 str_npc3_personalitymatch_speech_b|J'avoue aussi que je trouve que c'est un compagnon exquis, un homme d'esprit et de bonnes mœurs. Bonne journée, {playername}.
@@ -1155,13 +1020,6 @@ str_npc25_personalitymatch_speech_b|Peut-être que c'est à cause de la façon d
 str_npc26_personalitymatch_speech_b|Peut-être que c'est à cause de la façon dont il parle, ou sa façon de marcher. Je vais devoir le ramener à Bear Island, il sera bien là-bas.
 ; str_npc27_personalitymatch_speech_b|Maybe it's the way he talks, or the way he walks. I'll have to bring him back to Bear Island, he'd do well there.
 ; str_npc28_personalitymatch_speech_b|Maybe it's the way he talks, or the way he walks. I'll have to bring him back to Bear Island, he'd do well there.
-; str_npc29_personalitymatch_speech_b|Maybe it's the way he talks, or the way he walks. I'll have to bring him back to Bear Island, he'd do well there.
-; str_npc30_personalitymatch_speech_b|Maybe it's the way he talks, or the way he walks. I'll have to bring him back to Bear Island, he'd do well there.
-; str_npc31_personalitymatch_speech_b|Maybe it's the way he talks, or the way he walks. I'll have to bring him back to Bear Island, he'd do well there.
-; str_npc32_personalitymatch_speech_b|Maybe it's the way he talks, or the way he walks. I'll have to bring him back to Bear Island, he'd do well there.
-; str_npc33_personalitymatch_speech_b|Maybe it's the way he talks, or the way he walks. I'll have to bring him back to Bear Island, he'd do well there.
-; str_npc34_personalitymatch_speech_b|Maybe it's the way he talks, or the way he walks. I'll have to bring him back to Bear Island, he'd do well there.
-; str_npc35_personalitymatch_speech_b|Maybe it's the way he talks, or the way he walks. I'll have to bring him back to Bear Island, he'd do well there.
 str_npc1_retirement_speech|Je suis un peu fatigué de parcourir la terre, en versant mon sang pour la cause de quelqu'un d'autre. Le butin est bon mais je pense que j'ai eu ma dose maintenant. Je vais retourner dans mon village, prendre une femme, m'installer, peut-être élever des chevaux ou trouver du travail avec le seigneur du coin.
 str_npc2_retirement_speech|Je suis un peu fatigué de la vie de guerrier. Je vais investir ma part de butin dans une cargaison de marchandises - des fourrures, des draps, du velours, des vignes de vins fins probablement - et les ramener à la Baie des Esclavagistes. Je suis sûr que la reine des dragons aimerait boire du bon vin de Westeros. Je tiens à vous remercier encore une fois de  m'avoir pris avec vous et vous souhaite la meilleure des chances.
 str_npc3_retirement_speech|Je crains de devoir vous dire que j'ai décidé que la vie de guerrier n'était plus pour moi. Je pense que je vais rejoindre la Foi et devenir septon.
@@ -1190,13 +1048,6 @@ str_npc25_retirement_speech|Regardez, {playername}, une pomme! DECHIRER LA CHAIR
 str_npc26_retirement_speech|Je n'en peux plus.
 ; str_npc27_retirement_speech|I'm done.
 ; str_npc28_retirement_speech|I'm done.
-; str_npc29_retirement_speech|I'm done.
-; str_npc30_retirement_speech|I'm done.
-; str_npc31_retirement_speech|I'm done.
-; str_npc32_retirement_speech|I'm done.
-; str_npc33_retirement_speech|I'm done.
-; str_npc34_retirement_speech|I'm done.
-; str_npc35_retirement_speech|I'm done.
 str_npc1_rehire_speech|Mon seigneur! - Il est bon de vous revoir. Je sais que nous avons eu des différents par le passé mais pour vous dire la vérité, c'était quelques-unes des meilleures journées que j'ai connu. Et, pour vous dire la vérité, j'ai eu un peu de difficulté à trouver du travail. Écoutez, si vous êtes prêt à me reprendre, je serais prêt à signer à nouveau avec votre compagnie.
 str_npc2_rehire_speech|Mon seigneur! C'est bon de vous revoir. Mais je dois avouer -- Je vous ai cherché. J'ai acheté un lot de marchandises comme je vous l'avais dit, je les ai chargés et j'ai pris le chemin jusqu'à la Baie des Esclavagistes - Vous ne le savez pas mais j'ai été attaqué par une bande de corsaires près de Volantis et j'ai tout perdu. Je suppose que je suis destiné à combattre pour ma fortune. Aussi, les gens me disent que vous vous en êtes bien sortis. Alors dites-moi, {playername}, voulez vous me reprendre?
 str_npc3_rehire_speech|Eh bien, bonjour mon seigneur! Il est bon de vous revoir. Je n'ai pas connu un sort aussi bien depuis notre séparation, je le crains. J'espérais que la famille de ma mère me donnerait un bon départ dans le commerce, mais elle n'a pas été aussi accueillante que je le pensais. Je n'ai rien reçu, sauf des reproches de mes tantes sur la façon dont j'ai ruiné mes chances de mariage en m'engageant dans une compagnie de mercenaires. Peut-être que je suis mieux adapté pour la guerre que pour le commerce, partager un repas sur un feu de camp avec des brutes que de boire du vin avec les marchands de Villevieille. {playername}, je dois vous demander -- Voulez vous me reprendre parmi vous?
@@ -1224,14 +1075,7 @@ str_npc24_rehire_speech|A l'aide, {playername}! Je suis à court de pièces!
 str_npc25_rehire_speech|A l'aide, {playername}! Où suis-je?
 str_npc26_rehire_speech|Je crois que je vais vous rejoindre à nouveau.
 ; str_npc27_rehire_speech|I guess I'll join you again.
-; str_npc28_rehire_speech|Ah, {playername}. Good to see you. Mind if I join you again?
-; str_npc29_rehire_speech|Ah, {playername}. Good to see you. Mind if I join you again?
-; str_npc30_rehire_speech|Ah, {playername}. Good to see you. Mind if I join you again?
-; str_npc31_rehire_speech|Ah, {playername}. Good to see you. Mind if I join you again?
-; str_npc32_rehire_speech|Ah, {playername}. Good to see you. Mind if I join you again?
-; str_npc33_rehire_speech|Ah, {playername}. Good to see you. Mind if I join you again?
-; str_npc34_rehire_speech|Ah, {playername}. Good to see you. Mind if I join you again?
-; str_npc35_rehire_speech|{playername}. Do you object to me rejoining you?
+; str_npc28_rehire_speech|I guess I'll join you again.
 str_npc1_home_intro|{playername}! Ce sont les ruines hantées d'Harrenhal!.
 str_npc2_home_intro|Nous approchons de Pentos. C'est là que nous étions lorsque ce démon à grandes oreilles a pris mon bateau!
 str_npc3_home_intro|Pouvez-vous sentir cela? Les citronniers, les pommes et les fleurs de crocus, c'est l'odeur de Villevieille! J'ai passé plus d'un été heureux ici quand j'étais un petit garçon, jouant dans les jardins de la famille de ma mère pendant que mon père était loin et se battait comme un mercenaire.
@@ -1259,14 +1103,7 @@ str_npc23_home_intro|Regardez {playername}! C'est Winterfell!
 str_npc25_home_intro|Regardez {playername}! J'ai vu cet endroit avant! JOUEZ AVEC LES CRÂNES!
 ; str_npc26_home_intro|{playername}, that over there is the Whispers.
 ; str_npc27_home_intro|Ah, the Dreadfort. Or, well, most people would run screaming from this place. Not go 'ah', as if they're awed by it. Though I guess you would be awed by the Dreadfort, it's big. Nasty place though.
-; str_npc28_home_intro|Look {playername}, that's Ny Sar over there.
-; str_npc29_home_intro|That's the Ruins of Sar Mell over there.
-; str_npc30_home_intro|Look {playername}! That's Stone Hedge, the seat of house Bracken.
-; str_npc31_home_intro|Look {playername}, Raventree Hall, the cursed seat of the Blackwoods!
-; str_npc32_home_intro|That's Crakehall over there.
-; str_npc33_home_intro|That's, ah, Hellholt, over there.
-; str_npc34_home_intro|Ah, the pleasure houses of Lys!
-; str_npc35_home_intro|Ah, Pentos. A great city, ruled by fat merchants.
+; str_npc28_home_intro|That's Tumbleton over there. Dreadful place. The whores are old, the wine older and the dice filled with lead.
 str_npc1_home_description|À vrai dire, les histoires de Harrenhal sont largement exagérées. Les fantômes de Harren le Noir et de ses fils qui hantent le château, comme des torches, et Dame Danelle Lothston dite "La Folle Danelle" qui envoie des chauves-souris pour lui ramener les enfants pas sages dans ses marmites, bah!
 str_npc2_home_description|Les gens disent que chez les Pentoshi, il y a un tas de traîtres raquetteurs, mais ils ont de bonnes têtes de commerçants,  d'après moi. Les gens cultivent le lin sur toute la côte, qu'en suite ils tissent. Le lin ne rivalise pas avec les soies et le velours comme tissu de luxe de Volantaine, mais il est très utile l'été ,on peut aussi l'utiliser pour les voiles des navires. Plus important encore, c'est incroyable mais le lin est un des rares biens d'Essos.
 str_npc3_home_description|Villevieille a eu des hivers secs et des étés chauds, les gens d'ici construisent de grands réservoirs pour arroser leurs cultures. Ils cultivent du raisin - le vin issu de Villevieille est célèbre -, {playername} et ceux qui peuvent se le permettre construisent des murs autour de leurs jardins où des arbres fruitiers poussent en abondance. Le soir, nous nous asseyons pour écouter de la musique et jouer aux échecs ou simplement humer l'air de la nuit.
@@ -1294,14 +1131,7 @@ str_npc24_home_description|Les gens disent que c'est là que Aemon le Chevalier-
 str_npc25_home_description|Devrai-je connaitre cet endroit, {playername}? Que faisons-nous ici?
 ; str_npc26_home_description|It's where the Kings of Crackclaw Point used to have their seat. Some of the smallfolk tell a silly story about wizards, severed heads and giant knights when they hear about the place.
 ; str_npc27_home_description|The Boltons arguably have a reputation that's worse than reality, but that Roose... and his bastard... they're not very nice people is what I'm getting at.
-; str_npc28_home_description|Ny Sar was the capital of the Rhoynar and one of the many Rhoynish cities left in ruins following the Valyrian invasion that forced many of them to flee to Dorne.
-; str_npc29_home_description|When the valyrian colonies of Volantis and Volon Therys started expanding and came into conflict with the rhoynar, the First Turtle War was fought between the city of Volon Therys and Sar Mell. Sar Mell was raided and burned, yet emerged victorious when rhoynish water wizards called up the power of the river and flooded Volon Therys. Half the city was washed away if the tales can be believed. The conflict reached its climax when three valyrian dragonlords joined their brethren and destroyed the port of Sarhoy. When news reached the rest of the rhoynar, they assembled their great army under the leadership of Garin the Great, and advanced on the valyrians.
-; str_npc30_home_description|The Blackwoods where once the kings of these valleys, but our vassals, the Brackens, rebelled against our rule and usurped our throne. My brother Hoster says that it's hard to separate myth from truth when it comes to history, but all Blackwoods know that the Brackens are unfaithful and not to be trusted.
-; str_npc31_home_description|The Brackens where once the kings of these valleys, but our vassals, the Blackwoods, rebelled against our rule and usurped our throne.
-; str_npc32_home_description|Crakehall is located on the Searoad along the Sunset Sea, south of Lannisport and north of Old Oak. The timber here is quite good for shipbuilding, the Crakehalls supply most of the wood for the fleets around these parts.
-; str_npc33_home_description|I once served under the current lord Ullers father. Eh, learned a lot about the Ullers. It was an Uller that counciled prince Rhodry on how to incite the rebellion that ended when the prince drove his spear through the Young Dragons neck.
-; str_npc34_home_description|I often come here, to quench my thirst for wine, and have as many whores as I like! The whores are lovely, but one tried to bite me once...
-; str_npc35_home_description|When I was but twenty-tree, the magisters selected me to be their new prince. The old ones blood hadn't dried yet. I refused their offer.
+; str_npc28_home_description|But that's to be expected. The people still wail over the Sack. And it's been almost two hundred years! To hear the locals tell it, 'twas only a fortnight ago that the Betrayers descended on the town with their dragons.
 str_npc1_home_description_2|Pourtant on ne peut nier que chaque famille ayant tenu le château ait connu une fin malheureuse. Les maisons Hoare, Qoherys, Strong, Harroway, Lothston sont toutes éteintes et j'ai entendu dire que Dame Whent était morte aussi. Assassinée par les Lannister quand ils ont pris le château. Oui, le château pourrait ne pas être hanté, mais c'est un endroit maléfique, {playername}...
 str_npc2_home_description_2|J'avais fait le plein de safran, de cannelle, de clous de girofle, de poivre, et d'autres épices et je possédais un coffre rempli de deniers. J'ai estimé que je réaliserai même des bénéfices si j'achetais du lin, des fourrures, du velours, du fer et de la laine ainsi que des chevaux supplémentaires pour tout transporter. Seulement, je n'avais pas prévu que ces Khergits ne font pas dans le détail avec ceux qui viennent empiéter sur leur territoire.
 str_npc3_home_description_2|Les poètes considèrent que Villevieille est la plus belle ville du monde et je pense que pour une fois ils n'exagère pas. Comment pourraient-ils faire autrement avec la Citadelle, l'Etoile des Sept et la Haute Tour en face d'eux!
@@ -1329,14 +1159,7 @@ str_npc23_home_description_2|Rodrik était le roi du Nord qui a provoqué en due
 str_npc25_home_description_2|Qui suis-je!
 ; str_npc26_home_description_2|But the Whispers are not named after whispering heads. The sound comes from the sea flooding the caves beneath the cliffs.
 ; str_npc27_home_description_2|Roose always kept tidings from reaching the Starks, but the houses closer to the Dreadfort heard the stories. But what could we do, rebel against our overlords?
-; str_npc28_home_description_2|Today the ruins of Nymeria's palace, their warrior queen, is all that remains of the original city, but lately the Norvoshi have begun to re-colonize the area. Even calls their new colony Ny Sar. Heh, as if those ramshackle houses can ever compare with the splendor of Nymerias city.
-; str_npc29_home_description_2|At Volon Therys, Garin found himself facing a hundred thousand foes and three dragons, but his men prevailed, and the water wizards brought down the dragons. Rather than face Garin in the field, the Volantenes retreated back behind their Black Walls and appealed to the Valyrian Freehold for help. And the dragons came. Not three, as Garin had faced at Volon Therys, but three hundred or more, if the tales that have come down to us can be believed. The rhoynar burned, and all their cities were destroyed.
-; str_npc30_home_description_2|Our feud with them have been going for a thousand years, we've fought over princesses, over land, over honor and over treasure, but one day, we Blackwoods will have our revenge.
-; str_npc31_home_description_2|They're vile demon worshippers, a drop of poison in the holy well of the Riverlands. Our feud with them have been going for a thousand years, we've fought over princesses, over land, over honor and over treasure, but one day, we Brackens will have our revenge..
-; str_npc32_home_description_2|The castle is named after the founder of the house, Crake the Boar Killer. Guess he killed a boar.
-; str_npc33_home_description_2|According to local tales, ah, the Hellholt is named after an event in which the Ullers invited their rivals to the castle, locked them within and then burned them to death.
-; str_npc34_home_description_2|I beat her bloody with mine own two hands, and passed her around the company! She'll not bite another man, she got no teeth left, heh!
-; str_npc35_home_description_2|I served with many different companies, before I founded the Windblown. Ah, Pentos. Men call me a rogue, tattered and twisted, greedy and cruel, but all I want is Pentos.
+; str_npc28_home_description_2|Sure, the Sack was horrible, but it's been a generations since the last person lived who could remember it, so I say they'd ought to get over it!
 str_npc1_home_recap|Je suis né dans un petit hameau proche de Summerhall, {playername}
 str_npc2_home_recap|Je suis né à Sombreval, {playername}, une paire d'années avant que la terrible crise des affaires. Toute ma famille était partie lorsque seigneur Darklyn s'est rebellé sinon je ne serai pas ici aujourd'hui. Dites-moi ce que vous reprochez au seigneur Tywin, mais si vous comptez le défier, il vaut mieux vous faire accompagner d'une armée.
 str_npc3_home_recap|J'avais l'habitude de vivre dans la maison de mon père à Villevieille, mais j'ai passé une grande partie de mon enfance à nager dans les rivières et la mer.
@@ -1364,14 +1187,6 @@ str_npc23_home_recap|Je suppose que je peux vous le dire à nouveau.
 str_npc25_home_recap|Si douce est la chair, si doux est l'enfant. À tailler, à manger, les bandelettes si rouges...
 ; str_npc26_home_recap|None of your business.
 ; str_npc27_home_recap|I was born in a small holdfast in the Lonely Hills.
-; str_npc28_home_recap|I'm from the Vale originally, born close to Gulltown.
-; str_npc29_home_recap|I was born in Braavos, third son of one of the leading merchants.
-; str_npc30_home_recap|I was born in Raventree Hall, the fourth son of Bennifer Blackwood.
-; str_npc31_home_recap|I was born in Stone Hedge.
-; str_npc32_home_recap|My noble family originated in Old Valyria.
-; str_npc33_home_recap|I was born in Lys, but I've never called it home.
-; str_npc34_home_recap|None of your business.
-; str_npc35_home_recap|I was born in Pentos.
 str_npc1_honorific|{playername}!
 str_npc2_honorific|{playername}!
 str_npc3_honorific|{playername}!
@@ -1400,13 +1215,6 @@ str_npc25_honorific|{playername}!
 str_npc26_honorific|{playername}!
 ; str_npc27_honorific|{playername}!
 ; str_npc28_honorific|{playername}!
-; str_npc29_honorific|{playername}!
-; str_npc30_honorific|{playername}!
-; str_npc31_honorific|{playername}!
-; str_npc32_honorific|{playername}!
-; str_npc33_honorific|{playername}!
-; str_npc34_honorific|{playername}!
-; str_npc35_honorific|{playername}!
 ; str_npc1_kingsupport_1|That's a great idea, {playername}. All these merchants and archons and magisters who rule now, with their prisons and gibbets and scaffolds, the whippings and brandings and hangings for any man who might be driven by the crying of his children to steal a loaf of bread, or maybe a horse -- This realm deserves something better.
 str_npc2_kingsupport_1|Bien {playername} -- Je vous soutiens. Je pense que vous donnez à ce monde des lois bien pensées qu'il aurait fallu lui appliquer depuis longtemps.
 str_npc3_kingsupport_1|Bien mon seigneur -- Je m'inquiéte pour vous. Nous savons tous que le pouvoir tend à se laisser corrompre. Mais en fin de compte, je suis réconforté par la miséricorde et le jugement que vous montrez jusqu'à ce jour.
@@ -1435,13 +1243,6 @@ str_npc25_kingsupport_1|Comment m'avez-vous trouvé?
 str_npc26_kingsupport_1|Je m'en fiche.
 ; str_npc27_kingsupport_1|You've always been just. I think you'd make a fair ruler.
 ; str_npc28_kingsupport_1|You've always been just. I think you'd make a fair ruler.
-; str_npc29_kingsupport_1|You've always been just. I think you'd make a fair ruler.
-; str_npc30_kingsupport_1|You've always been just. I think you'd make a fair ruler.
-; str_npc31_kingsupport_1|You've always been just. I think you'd make a fair ruler.
-; str_npc32_kingsupport_1|You've always been just. I think you'd make a fair ruler.
-; str_npc33_kingsupport_1|You've always been just. I think you'd make a fair ruler.
-; str_npc34_kingsupport_1|You've always been just. I think you'd make a fair ruler.
-; str_npc35_kingsupport_1|You've always been just. I think you'd make a fair ruler.
 str_npc1_kingsupport_2|Oui, sûrement, {playername}. Mais laissez-moi vous dire ce qui pourrait amener d'autres personnes à soutenir votre cause - en particulier des chevaliers. Ils nous ont dit que dans les temps anciens, du temps des Andals, ceux qui ont pris le trône promulguaient une grande amnistie pour tous, sauf pour les prisonniers cruels enfermés dans leurs donjons, rendant la liberté aux hommes qui le souhaitent, donnant aux gens une deuxième chance pour leur permettre de réaliser quelque chose par eux-mêmes - comme vous l'avez fait pour moi, {playername}.
 str_npc2_kingsupport_2|La plupart des seigneurs de cette terre - et bien, pour être bref, disons simplement qu'ils n'ont jamais tenues une pièce de monnaie gagnée hors des taxes ou de pillage. Vous, en revanche, avez une certaine expérience des affaires et du commerce, vous savez la valeur de l'argent, vous avez pris des risques pour gagner de l'argent en veillant à ce que les hommes ne meurent pas de faim à Pentos alors qu'il y a une surabondance de grains dans Braavos, par exemple... Si vous le souhaitez, {playername}, je pense que je pourrais trouver un certain soutien à votre cause parmi les marchands et les petites gens de ce royaume.
 str_npc3_kingsupport_2|Oui, mon seigneur. Mais je pense que ce serait utile d'annoncer un grand tournoi une fois que votre royaume sera sécurisé.
@@ -1470,13 +1271,6 @@ str_npc25_kingsupport_2|Calmez-vous...
 str_npc26_kingsupport_2|Au diable les rois, et au diable vos ambitions.
 ; str_npc27_kingsupport_2|You're really serious, are you? Well, I guess you won't be too bad, so yes, I'd support you.
 ; str_npc28_kingsupport_2|You're really serious, are you? Well, I guess you won't be too bad, so yes, I'd support you.
-; str_npc29_kingsupport_2|You're really serious, are you? Well, I guess you won't be too bad, so yes, I'd support you.
-; str_npc30_kingsupport_2|You're really serious, are you? Well, I guess you won't be too bad, so yes, I'd support you.
-; str_npc31_kingsupport_2|You're really serious, are you? Well, I guess you won't be too bad, so yes, I'd support you.
-; str_npc32_kingsupport_2|You're really serious, are you? Well, I guess you won't be too bad, so yes, I'd support you.
-; str_npc33_kingsupport_2|You're really serious, are you? Well, I guess you won't be too bad, so yes, I'd support you.
-; str_npc34_kingsupport_2|You're really serious, are you? Well, I guess you won't be too bad, so yes, I'd support you.
-; str_npc35_kingsupport_2|You're really serious, are you? Well, I guess you won't be too bad, so yes, I'd support you.
 str_npc1_kingsupport_2a|S'il vous plait, on y va...
 str_npc2_kingsupport_2a|S'il vous plait, continuez...
 str_npc3_kingsupport_2a|S'il vous plait, continuez...
@@ -1505,13 +1299,6 @@ str_npc25_kingsupport_2a|Oui, bien...
 str_npc26_kingsupport_2a|Oui, bien...
 ; str_npc27_kingsupport_2a|I agree, as king I could really do something about the injustice of the world.
 ; str_npc28_kingsupport_2a|I agree, as king I could really do something about the injustice of the world.
-; str_npc29_kingsupport_2a|I agree, as king I could really do something about the injustice of the world.
-; str_npc30_kingsupport_2a|I agree, as king I could really do something about the injustice of the world.
-; str_npc31_kingsupport_2a|I agree, as king I could really do something about the injustice of the world.
-; str_npc32_kingsupport_2a|I agree, as king I could really do something about the injustice of the world.
-; str_npc33_kingsupport_2a|I agree, as king I could really do something about the injustice of the world.
-; str_npc34_kingsupport_2a|I agree, as king I could really do something about the injustice of the world.
-; str_npc35_kingsupport_2a|I agree, as king I could really do something about the injustice of the world.
 str_npc1_kingsupport_2b|Bien. Nous avons vu comment cela s'est terminé...\t\t\t\t\t\t\t\t\t
 str_npc2_kingsupport_2b|Je ne demande pas leur soutien parce que je pense qu'ils profiteraient de la situation.\t\t\t\t\t\t\t\t
 str_npc3_kingsupport_2b|Je n'ai pas l'intention de m'entraver avec ces choses là.\t\t\t\t\t\t\t\t\t
@@ -1540,13 +1327,6 @@ str_npc25_kingsupport_2b|Peut-être une autre fois...
 str_npc26_kingsupport_2b|Peut-être une autre fois...
 ; str_npc27_kingsupport_2b|I can't always be a just and fair man.
 ; str_npc28_kingsupport_2b|I can't always be a just and fair man.
-; str_npc29_kingsupport_2b|I can't always be a just and fair man.
-; str_npc30_kingsupport_2b|I can't always be a just and fair man.
-; str_npc31_kingsupport_2b|I can't always be a just and fair man.
-; str_npc32_kingsupport_2b|I can't always be a just and fair man.
-; str_npc33_kingsupport_2b|I can't always be a just and fair man.
-; str_npc34_kingsupport_2b|I can't always be a just and fair man.
-; str_npc35_kingsupport_2b|I can't always be a just and fair man.
 ; str_npc1_kingsupport_3|If I could go about this land for a few weeks, telling the common folk that you were going to amnesty their murderous kinfolk like the kings of old -- well, they would start talking of you as the rightful king, and that would pave your way to the throne. Shall I do that, {playername}?
 str_npc2_kingsupport_3|Oui, {Playername}. Je peux prendre quelques semaines pour visiter les Maîtres de Guilde et les presbytères où j'ai des contacts et leur expliquer qu'en vous, ils trouveront {le roi/le dirigeant} qui maîtrisera la noblesse, composée de rapaces, qui avec leurs droits de douane et leurs impôts étranglent le commerce pour quelques pièces d'or supplémentaires,  qu'ils dépensent en festins et tournois ridicules. Qu'en pensez-vous {playername}?
 str_npc3_kingsupport_3|Si vous deviez faire une telle promesse, {playername}, je pense que cela aiderait beaucoup les seigneurs de ce pays à surmonter les réticences qu'ils pourraient avoir. Rien n'est meilleur pour rapprocher les personnes et les nobles que de participer à un bon tournoi.
@@ -1575,13 +1355,6 @@ str_npc25_kingsupport_3|Enfin, {playername}, nous sommes entièrement d'accord. 
 ; str_npc26_kingsupport_3|Guess I'l go though.
 ; str_npc27_kingsupport_3|Finally, {playername}, we whole hearthily agree. If you'd give me a few weeks, I could spread the story once you'll ascend to the throne, justice will spread across the land.
 ; str_npc28_kingsupport_3|Finally, {playername}, we whole hearthily agree. If you'd give me a few weeks, I could spread the story once you'll ascend to the throne, justice will spread across the land.
-; str_npc29_kingsupport_3|Finally, {playername}, we whole hearthily agree. If you'd give me a few weeks, I could spread the story once you'll ascend to the throne, justice will spread across the land.
-; str_npc30_kingsupport_3|Finally, {playername}, we whole hearthily agree. If you'd give me a few weeks, I could spread the story once you'll ascend to the throne, justice will spread across the land.
-; str_npc31_kingsupport_3|Finally, {playername}, we whole hearthily agree. If you'd give me a few weeks, I could spread the story once you'll ascend to the throne, justice will spread across the land.
-; str_npc32_kingsupport_3|Finally, {playername}, we whole hearthily agree. If you'd give me a few weeks, I could spread the story once you'll ascend to the throne, justice will spread across the land.
-; str_npc33_kingsupport_3|Finally, {playername}, we whole hearthily agree. If you'd give me a few weeks, I could spread the story once you'll ascend to the throne, justice will spread across the land.
-; str_npc34_kingsupport_3|Finally, {playername}, we whole hearthily agree. If you'd give me a few weeks, I could spread the story once you'll ascend to the throne, justice will spread across the land.
-; str_npc35_kingsupport_3|Finally, {playername}, we whole hearthily agree. If you'd give me a few weeks, I could spread the story once you'll ascend to the throne, justice will spread across the land.
 str_npc1_kingsupport_objection|{playername}, avez-vous autorisé Maron à aller dire aux commerçants qu'ils ont des droits sur le marché, et la forêt? Je désapprouve ça. Encouragez-le, et il va mettre en place des potences dans chaque village de ce pays, et il y aura un pauvre chevalier comme moi qui se balancera parce qu'il pensait qu'il pouvait draguer une jeune fille, juste pour s'amuser.
 ; str_npc2_kingsupport_objection|Um, {playername}. Ser Bennis has ridden off to tell the lords of this land that you'll let them settle their quarrels by force and violence. You know they rarely actually fight each other, right? Most of the time, it's the traders and travellers on the roads between their castles that get clobbered in their petty disputes. Any excuse to shake down a caravan, they'll take. I really hope that he misunderstood you, {playername}.
 str_npc3_kingsupport_objection|{playername} - Graznon a déclenché une sorte d'expédition, il affirme que vous avez donné votre accord. Il dit qu'il va se rendre dans chaque village de ce pays, pour dire à ces pauvres villageois qu'une fois que vous serez devenu{/e} {roi/reine}, vous avez l'intention d'asservir vos ennemis. Ser, je sais que Graznon est un sauvage ignorant, mais je suis sur qu'asservir vos adversaires nous conduirait directement au chaos. Il doit y avoir une place pour la sensibilité dans votre royaume.
@@ -1610,13 +1383,6 @@ str_npc25_kingsupport_objection|Capitaine, cela ne me dérange pas de voir des b
 str_npc26_kingsupport_objection|Capitaine, cela ne me dérange pas de voir des bandits pendus sur la place publique mais d'après Deshavi il faudrait punir des villages entiers pour venger quelques individus. S'ils étaient nobles je pourrais comprendre, mais ce sont des gens ordinaires comme vous et moi? S'il vous plaît dites-moi que vous n'allez pas valider sa méthode, détrompez-moi, vous n'allez pas l'envoyé sur cette terrible mission.
 ; str_npc27_kingsupport_objection|{Sir/My lady}, I don't like it that you send someone out to promote your writings. I wanted to do that.
 ; str_npc28_kingsupport_objection|{Sir/My lady}, I don't like it that you send someone out to promote your writings. I wanted to do that.
-; str_npc29_kingsupport_objection|{Sir/My lady}, I don't like it that you send someone out to promote your writings. I wanted to do that.
-; str_npc30_kingsupport_objection|{Sir/My lady}, I don't like it that you send someone out to promote your writings. I wanted to do that.
-; str_npc31_kingsupport_objection|{Sir/My lady}, I don't like it that you send someone out to promote your writings. I wanted to do that.
-; str_npc32_kingsupport_objection|{Sir/My lady}, I don't like it that you send someone out to promote your writings. I wanted to do that.
-; str_npc33_kingsupport_objection|{Sir/My lady}, I don't like it that you send someone out to promote your writings. I wanted to do that.
-; str_npc34_kingsupport_objection|{Sir/My lady}, I don't like it that you send someone out to promote your writings. I wanted to do that.
-; str_npc35_kingsupport_objection|{Sir/My lady}, I don't like it that you send someone out to promote your writings. I wanted to do that.
 str_npc1_intel_mission|Eh bien, {playername}, comme par hasard, j'ai quelques cousins ​​à Stonehelm, et contrairement à d'autres membres de ma famille, nous sommes toujours en contact. Ils s'occupent de chevaux --- J'ai même eu l'occasion de leur en fournir il y a quelques temps -  ils leur arrivent de collecter quelques potins autour des châteaux et des grandes salles des seigneurs. Je pourrais aller là-bas pendant quelques jours et vous dire ce que j'y ai découvert.
 str_npc2_intel_mission|{playername}! Si vous êtes intéressé par les événements qui se passent dans {s18}, je peux encore prendre contact avec mes anciens partenaires commerciaux de {s17}. Ils sont généralement bien informés sur les événements politiques.
 str_npc3_intel_mission|Capitaine, je ne peux pas retourner chez mon père à Vieilleville, mais je peux encore prendre contact avec ma sœur. Elle saura ce qui se passe au sein des grandes maisons marchandes et nous en dira peut-être plus sur l'état du {s18}.
@@ -1644,14 +1410,7 @@ str_npc23_intel_mission|Nous n'étions pas beaucoup instruits dans ma maison, ma
 str_npc25_intel_mission|J'ai laissé mes outils dans Weeping Town! Oh, et ma cave! Qu'est-ce qui va arriver à tous les enfants maintenant! ÉVENTREZ! Permettez-moi de sauver ce que je peux, et je serai sûr de revenir avec des informations! Si doux, le sang, il brille, il brille, IL BRILLE!
 ; str_npc26_intel_mission|I once knew an old mason in Tumbleton. Used to be he was gossipy as a woman. I can go visit him.
 ; str_npc27_intel_mission|If I visit {s17}, I bet I'll learn something about {s18}. Got a few cousins in the city, and one of them knows one of the servants inside the New Castle.
-; str_npc28_intel_mission|If I visit {s17}, I can probably learn some tidbits about {s18}. I know an old blacksmith in the city, he gossips like you wouldn't believe. You only need to let me go for a few days.
-; str_npc29_intel_mission|I can visit my family in {s17}, hear what the know of the dealings of {s18}. You only need to let me go for a few days.
-; str_npc30_intel_mission|If I visit {s17}, I bet I'll learn something about {s18}. You only need to let me go for a few days.
-; str_npc31_intel_mission|If I visit {s17}, I bet I'll learn something about {s18}. You only need to let me go for a few days.
-; str_npc32_intel_mission|I have family in {s17}, and I know some of the local nobles. If you give me a couple of days, I can go there and learn everything about {s18}.
-; str_npc33_intel_mission|If I visit the moneylenders of {s17}, I bet I'll learn something about {s18}. Ah, I'll be back quickly, my horse is quite, eh, fast.
-; str_npc34_intel_mission|It's been a while since I saw {s17}. Can't have the whores forgetting me.
-; str_npc35_intel_mission|In {s17} lies an inn, called the Merchant's House. The inkeeper knows everything about {s18}, and he owes me many favors. If you give me a couple of days, I can go there.
+; str_npc28_intel_mission|If I visit {s17}, I bet I'll learn something about {s18}. Got a few cousins in the city, and one of them knows one of the servants inside the town keep.
 ; str_npc1_fief_acceptance|You'd make me lord of {s17}, {playername}? Well, that would be the kindest thing that anyone has ever done for me in a long time. Heh. I'll make the most of it, you can count on that. I have to say, though, I'm not sure how the other lords of this realm will react, when they find old Ser Bennis of Hollow Hill in their revered company. I can't say I look forward to seeing their reaction.
 str_npc2_fief_acceptance|{s17} comme fief? Eh bien, j'ai toujours pensé en termes d'achat et de vente de biens, mais jamais en termes de gouverner quoi que ce soit. Mais maintenant que vous le dites, je parie que je pourrais faire de cet endroit une bonne source de revenus. Je vous remercie, {mon seigneur/ma dame} - c'est très gentil ce que vous avez fait pour moi.
 ; str_npc3_fief_acceptance|{My lord/My lady}, it is most generous of you to offer me {s17}. I would be pleased to hold it. Surely, a tourney would be in place, to celebrate!
@@ -1679,14 +1438,7 @@ str_npc24_fief_acceptance|Roderick le Brave, le seigneur de {s17}. J'aime ça!
 str_npc25_fief_acceptance|Quoi? Où suis-je?
 str_npc26_fief_acceptance|Très bien, je serai le seigneur de {s17}.
 ; str_npc27_fief_acceptance|You want to give {s17} to me? Thank you! I'll take good care of it.
-; str_npc28_fief_acceptance|You want to give {s17} to me? Ah, what a blessing. No old and brave sellswords, remember? Now I can grow old, without having to be brave.
-; str_npc29_fief_acceptance|I will hold {s17} in your name, my liege.
-; str_npc30_fief_acceptance|You want to give {s17} to me? Thank you! I'll take good care of it.
-; str_npc31_fief_acceptance|You want to give {s17} to me? I'll take good care of it and make sure the light of the Seven is spread across the land.
-; str_npc32_fief_acceptance|You want to give {s17} to me? Thank you! I'll take good care of it and make sure the peasants remain obedient.
-; str_npc33_fief_acceptance|I will, ah, hold {s17}, in your name. Eh, just, ah, let me worry about collecting the taxes.
-; str_npc34_fief_acceptance|I'll take {s17} and hold it against all enemies. Ah, I can picture it now, me surrounded by women, an axe in hand to judge the peasants justly!
-; str_npc35_fief_acceptance|Very well, I shall be the Prince of {s17}.
+; str_npc28_fief_acceptance|You want to give {s17} to me? Thank you! I'll take good care of it.
 str_npc3_woman_to_woman|Madame, si cela ne vous dérange pas laissez-moi vous dire - je pense que maintenant vous avez prouvé que vous êtes  l'une des plus grandes guerrières de ce royaume. Pourtant, étrangement, aucun roi n'a émis le souhait de vous offrir un fief. Peut-être parce que vous êtes une femme. Peu importe - Personnellement, je crois que vous êtes digne de prendre place parmi les grands seigneurs de ce royaume, même si vous devez vous battre deux fois plus longtemps et deux fois plus durement pour recevoir votre dû!
 str_npc7_woman_to_woman|Capitaine. Si vous me permettez de dire ce que je pense, vous avez lutté longtemps et durement contre la racaille du royaume, et les avez battus, vous avez fait de cette terre un endroit meilleur. Vous êtes digne de posséder votre propre fief - et je suppose que si vous n'étiez pas une femme, un roi vous en aurait depuis longtemps offert un. C'est la tradition pour les hommes de cette terre désolée: ils nous envoient en première ligne dans les batailles pour prendre les coups de l'ennemi, mais quand il s'agit de partager du butin, ils attendent que nous nous dirigions vers l'arrière.
 str_npc8_woman_to_woman|Excusez-moi, {playername}. Je tiens à vous féliciter - il semble que vous soyez sur le point de vous faire une renommée  comme guerrier à craindre.
@@ -1696,8 +1448,7 @@ str_npc18_woman_to_woman|Comment ce monde peut-il être aussi dur. Votre gentill
 str_npc19_woman_to_woman|...
 ; str_npc23_woman_to_woman|Oy, {playername}, if you don't mind me saying, you've made quite a name for yourself in these parts. I suspect that if you were a man, a king would have offered you a fief by now. But we ladies should come to expect things like that. Men will find any excuse not to reward us for our work, so if we take a fancy to a bit of land somewhere, maybe we should just reach out and take it. That's the way I look at the world, anyway.
 ; str_npc27_woman_to_woman|Come on, you can do it. If you just write enough dialogues, you might be rewarded.
-; str_npc32_woman_to_woman|Come on, you can do it. If you just write enough dialogues, you might be rewarded.
-; str_npc35_woman_to_woman|Come on, you can do it. If you just write enough dialogues, you might be rewarded.
+; str_npc28_woman_to_woman|Come on, you can do it. If you just write enough dialogues, you might be rewarded.
 str_npc1_turn_against|Je suis désolé que nous nous rencontrions de cette façon, {playername}. Il n'est pas question que je vous doive ma réussite dans la vie. Vous devez penser que je suis un ingrat. Cependant, chacun doit suivre son destin - n'est-ce pas?
 str_npc2_turn_against|C'est un jour bien triste. Je n'aurais jamais pensé que je pourrais rencontrer mon ancien bienfaiteur sur un champ de bataille. Même si je triomphe, cela se fera sans aucune joie.
 str_npc3_turn_against|Oh {playername} - quelle tournure tragique nos vies ont prise! Je ne peux qu'espérer que les aléas de la guerre qui ont fait de nous des ennemis, nous permettront un jour de devenir amis.
@@ -1726,13 +1477,6 @@ str_npc25_turn_against|DECHIRER LA CHAIR, TAILLER LA FACE!
 str_npc26_turn_against|Je suppose que je vais devoir vous tuer maintenant.
 ; str_npc27_turn_against|{playername}! I thought better of you. Now we face each other, and you will feel the wrath I intend to loosen upon all my enemies. But maybe... maybe one day we might discover that this has all been a big misunderstanding. I hope we will laugh at our foolishness by then.
 ; str_npc28_turn_against|{playername}! I thought better of you. Now we face each other, and you will feel the wrath I intend to loosen upon all my enemies. But maybe... maybe one day we might discover that this has all been a big misunderstanding. I hope we will laugh at our foolishness by then.
-; str_npc29_turn_against|{playername}! I thought better of you. Now we face each other, and you will feel the wrath I intend to loosen upon all my enemies. But maybe... maybe one day we might discover that this has all been a big misunderstanding. I hope we will laugh at our foolishness by then.
-; str_npc30_turn_against|{playername}! I thought better of you. Now we face each other, and you will feel the wrath I intend to loosen upon all my enemies. But maybe... maybe one day we might discover that this has all been a big misunderstanding. I hope we will laugh at our foolishness by then.
-; str_npc31_turn_against|{playername}! I thought better of you. Now we face each other, and you will feel the wrath I intend to loosen upon all my enemies. But maybe... maybe one day we might discover that this has all been a big misunderstanding. I hope we will laugh at our foolishness by then.
-; str_npc32_turn_against|{playername}! I thought better of you. Now we face each other, and you will feel the wrath I intend to loosen upon all my enemies. But maybe... maybe one day we might discover that this has all been a big misunderstanding. I hope we will laugh at our foolishness by then.
-; str_npc33_turn_against|{playername}! I thought better of you. Now we face each other, and you will feel the wrath I intend to loosen upon all my enemies. But maybe... maybe one day we might discover that this has all been a big misunderstanding. I hope we will laugh at our foolishness by then.
-; str_npc34_turn_against|{playername}! I thought better of you. Now we face each other, and you will feel the wrath I intend to loosen upon all my enemies. But maybe... maybe one day we might discover that this has all been a big misunderstanding. I hope we will laugh at our foolishness by then.
-; str_npc35_turn_against|{playername}! I thought better of you. Now we face each other, and you will feel the wrath I intend to loosen upon all my enemies. But maybe... maybe one day we might discover that this has all been a big misunderstanding. I hope we will laugh at our foolishness by then.
 str_comment_intro_liege_affiliated|On me dit que vous vous êtes engagés aux côtés d'un des prétendants au trône qui conteste mon droit à régner sur cette terre. Mais nous pouvons encore discuter de tout cela.
 str_comment_intro_famous_liege|Votre renommée prend de plus en plus d'importance! Peut-être qu'il est temps pour vous d'aller rechercher une suzerain digne de votre courage.
 str_comment_intro_famous_martial|Votre renommée devient de plus en plus importante! Nous allons pouvoir tester notre bravoure réciproque dans un tournoi, ou sur un champ de bataille!
@@ -2200,7 +1944,7 @@ str_swadian_rebellion_pretender_intro|Je suis Vezenkor Adarys, le dirigeant de T
 str_vaegir_rebellion_pretender_intro|Je suis Valdym. Connu sous le sobriquet du 'Bâtard.' Je suis un prince Vaegirs, en fait je suis leur grand prince, et bien sur le cousin de Yaroglek.
 str_khergit_rebellion_pretender_intro|Je suis Dustum Khan, fils de Janakir Khan, et le Khan légitime des Khergits.
 str_nord_rebellion_pretender_intro|Je suis Lethwin, dit le Puit-de-Science, fils d'Hakrim l'Ancien, qui devrait régner en tant que roi des Nords.
-str_rhodok_rebellion_pretender_intro|Je suis le seigneur Kastor, roi légitime des Rhodoks, et je les libèrerai du joug de la tyrannie.
+; str_qohor_rebellion_pretender_intro|I am Sallos Far-Seeker, son of Moredo the Old, who was Archon of Qohor.
 str_sarranid_rebellion_pretender_intro|Je m'appelle Arwa, ou la Perlée, mère et reine légitime des Sarranids.
 ; str_dragonstone_rebellion_pretender_intro|I am Arwa, whom they call the Pearled One, Mother of the Sarranids and their rightful Queen.
 ; str_westerlands_rebellion_pretender_intro|I am Sarella, whom they call Brightflame, heir to dragons and the rightful Queen of the Seven Kingdoms.
@@ -2208,15 +1952,16 @@ str_sarranid_rebellion_pretender_intro|Je m'appelle Arwa, ou la Perlée, mère e
 ; str_ironborn_rebellion_pretender_intro|I am Yara Half-Hoare, whom they call the Red, Mother of Axes and the rightful Queen of the Iron Islands.
 ; str_pentos_rebellion_pretender_intro|I am Arwa, whom they call the Pearled One, Mother of the Sarranids and their rightful Queen.
 ; str_tyrosh_rebellion_pretender_intro|I am Vezenkor Adarys, the true ruler of Tyrosh, and the grandson of Alaquo Goldentongue.
-; str_myr_rebellion_pretender_intro|I am Prince Laros. Some call me the Bastard Prince, and I laugh in their face, then I cut their filthy tongue out!
-; str_lys_rebellion_pretender_intro|I am Sarrela Saan, princess of the Narrow Sea and firstborn child of Sammaro Saan.
+; str_myr_rebellion_pretender_intro|I am Xhobar. Some call me the Bastard, and I laugh in their face, then I cut their filthy tongue out! Others call me Greymantle, and those I reward with gold and favors!
+; str_lys_rebellion_pretender_intro|I am Lysandro Rogare, the Splendid, the rightful First Magister of Lys, and the man who will free them from tyranny.
 ; str_volantis_rebellion_pretender_intro|I am Vezenkor Adarys, the true ruler of Tyrosh.
 ; str_norvos_rebellion_pretender_intro|I am the most revered, holy and benevolent High Priestess of Norvos, leader of the Band of Bearded Brothers and Guardian of Noom, Narrah and Nyel.
+; str_lorath_rebellion_pretender_intro|I am Qarlon, most holy of men, descended from Hugor of the Hill himself.
 str_swadian_rebellion_pretender_story_1|Pendant le règne de mon grand-père, Alequo Adarys, le Goldentongue, Tyrosh était une puissance sur laquelle il fallait compter! Nous avons réussi à tenir au calme la majeure partie des terres qui étaient en litige, et fait la guerre contre les Westerosi. Pourtant, ces lâches ont propagé la rébellion contre mon grand-père, mettant fin à l'âge d'or de Tyrosh la plus glorieuse cité jamais vue!
 str_vaegir_rebellion_pretender_story_1|Mon père est mort quand j'étais jeune, me laissant sous la protection de son frère, le régent Burelek. Mais plutôt que de se contenter de tenir le trône jusqu'à ce que je sois arrivé en âge de gouverner, cet usurpateur utilisa son nouveau pouvoir pour accuser ma mère d'adultère, et prétendre que je n'étais pas le fils de mon père. Elle a été exécutée pour trahison, et j'ai été déclaré bâtard.
 str_khergit_rebellion_pretender_story_1|Sanjar Khan et moi sommes frères, fils de l'ancien Janakir Khan, bien que de différentes mères. En fait, j'étais le plus jeune frère, tous ceux qui connaissaient le vieux Khan pourraient témoigner que tout au long de la vie de mon père, j'ai été son favori, il me chargeait de régler des problèmes liés au gouvernement. Sanjar s'occupait d'organiser des chasses et des fêtes pour gagner l'affection du plus disgracieux des commandants de mon père.
 str_nord_rebellion_pretender_story_1|On m'appelle le Far-Seeker parce que j'ai parcouru de grandes distances, pour faire honneur aux coutumes Nordiques, à la recherche de la connaissance. Avant d'arriver à l'âge adulte, mon père m'a envoyé à l'étranger pour étudier dans les tribunaux et les universités des pays d'outremer. Si les Nordiques se revendiquent les héritiers de l'empire, ils doivent agir en connaissance de cause, et doivent connaître le droit et les écrits, et ne pas se contenter simplement de combattre, de piller, et boire.
-str_rhodok_rebellion_pretender_story_1|Les Rhodoks sont un peuple libre, et non pas esclaves de tout monarque héréditaire. Le doge doit être choisi parmi l'un des principaux familles nobles de la terre, par un conseil désigné par le sort des patriciens des villes de Jelkala, Veluca, et Yalen. Le conseil se réunit sur ​​un terrain avant Jelkala, et aucun homme n'est autorisé à apparaître dans les bras lors de leurs délibérations, sous peine de mort.
+; str_qohor_rebellion_pretender_story_1|I am called the Far-Seeker because I have travelled great distances, even by the standards of the qohoriks, in search of knowledge. Before I came of age, my father sent me abroad on a tour of study at the courts and libraries in the cities of Tyrosh, Myr  and Volantis. If the qohoriks are to call themselves the wisest, bravest and most powerful of all men, then they must act the part, and know something of law and letters, and not call themselves content merely to gather riches, slaves, and drink.
 str_sarranid_rebellion_pretender_story_1|Je suis né dans un pays lointain, dans une famille humble, j'ai été esclave, dès que je suis devenue une jeune fille - mais il n'y a pas de honte à cela, les mères de plusieurs de nos rois étaient des esclaves. Le vieux Sultan, Ayzar, m'a repéré sur un marché et a été frappé par ma beauté. Je suis entré dans sa maison, et là, il a également appris à respecter mon intelligence. En vieillissant, il m'a permis de gouverner à sa place. J'ai d'abord fait prospérer les affaires du palais, et plus tard ceux du royaume.
 ; str_dragonstone_rebellion_pretender_story_1|I was born in a faraway land, to a humble family, and made a slave when I was but a girl -- but there is no shame in that, for the mothers of many of our kings were slaves. The old Sultan, Ayzar, spotted me in the markets and was struck by my beauty. I entered his household, and there he also learned to respect my intelligence. As he grew older, he allowed me to govern in his stead. First I managed the affairs of the palace, and later those of the realm.
 ; str_westerlands_rebellion_pretender_story_1|I was born here in Lys, the daughter of the famed courtesan 'The Bright Flame' and a merchant prince. My mother told me stories of my ancestors from the moment I was old enough to understand. My great-grandfather was Aerion Targaryen, whom they also called 'Brightflame'. My mother told me how he was the most valiant and noble knight the world ever saw, a prince such as only comes around once a thousand years.
@@ -2224,15 +1969,16 @@ str_sarranid_rebellion_pretender_story_1|Je suis né dans un pays lointain, dans
 ; str_ironborn_rebellion_pretender_story_1|I was born on the island of the Lonely Light, the westernmost of the Iron Islands, a place of wonders, where the men swim in the sea wearing the skin of seals, and where every woman is trained with axe and shield. Our line descends from Harren the Red, the son of Harren Hoare who burned at Harrenhal.
 ; str_pentos_rebellion_pretender_story_1|I was born in a faraway land, to a humble family, and made a slave when I was but a girl -- but there is no shame in that, for the mothers of many of our kings were slaves. The old Sultan, Ayzar, spotted me in the markets and was struck by my beauty. I entered his household, and there he also learned to respect my intelligence. As he grew older, he allowed me to govern in his stead. First I managed the affairs of the palace, and later those of the realm.
 ; str_tyrosh_rebellion_pretender_story_1|During the reign of my grandfather, Alequo Adarys, Tyrosh was a power to be reckoned with! We held sway of much of the Disputed Lands, and waged war against the Westerosi. Yet those cowardly magisters rose in rebellion against my grandsire, ending the most glorious age Tyrosh has ever witnessed!
-; str_myr_rebellion_pretender_story_1|My father was Prince Oros, and my grandfather was the Ebon Prince! We once ruled extensive swaths of land in the area men call the Disputed Lands, and many nobles did us homage. We where the justiciars of the Triarchy of Myr, Lys and Tyrosh once, and when the Volantenes where driven from the Disputed Lands, my ancestors sounded the first charge. But when the Westerosi dragon king put an end to Maelys Blackfyre and the Band of Nines amibition on the Stepstones, our lands where lost to us! The Myrmen came down upon our ancestral holdings and put them to the torch.
-; str_lys_rebellion_pretender_story_1|My father was a great admiral, leader of the fleet that captured Tyrosh, second only to Maelys Blackfyre. But when Maelys lost his heads to Barristan Selmys sword, my father lost his chance at reclaiming our birthright... the Stepstones! My brother Salladhor might be content playing the flamboyant pirate, and styling himself Prince of the Narrow Sea, but we should be kings and queens once again!
+; str_myr_rebellion_pretender_story_1|My father was a great man, and my grandfather was the Ebon Prince! We where driven from Sweet Lotus Vale and lost our seat of Ebonhead many years ago, but my ancestors reclaimed our glories and we once ruled extensive swaths of land in the area men call the Disputed Lands, and many nobles did us homage. But when the Westerosi dragon king put an end to Maelys Blackfyre and the Band of Nines amibition on the Stepstones, our lands where lost to us! The Myrmen came down upon our ancestral holdings and put them to the torch.
+; str_lys_rebellion_pretender_story_1|The Lyseni are a free people, and not slaves to any hereditary prince. The First Magister must be chosen from one of the leading noble families of the city, by a council drawn by lot from the old families. The council meets on a field before Lys, and no man is allowed to appear in arms during their deliberations, on pain of death.
 ; str_volantis_rebellion_pretender_story_1|I was born in a faraway land, to a humble family, and made a slave when I was but a girl -- but there is no shame in that, for the mothers of many of our kings were slaves. The old Sultan, Ayzar, spotted me in the markets and was struck by my beauty. I entered his household, and there he also learned to respect my intelligence. As he grew older, he allowed me to govern in his stead. First I managed the affairs of the palace, and later those of the realm.
 ; str_norvos_rebellion_pretender_story_1|I was born in a faraway land, further even than the Bone Mountains, the Plains of the Jogos Nhai and the Cannibal Sands, to a humble family, and made a slave when I was but a girl -- but there is no shame in that. The old High Priest, Marello, spotted me in the markets and was struck by my beauty. I entered his household, and his bed, and there he also learned to respect my intelligence. As he grew older, he allowed me to govern in his stead. First I managed the affairs of his mansion, and later those of the faith.
+; str_lorath_rebellion_pretender_story_1|My father was descended from Qarlon the Great, who was King of All Andals. A soothsayer out of Qohor told him so herself. Qarlon was himself descended from Hugor of the Hill and his fair maiden, and thus we have a drop of the divine running in our veins.
 ; str_swadian_rebellion_pretender_story_2|In the time of the Ninepenny Kings, my grandsire conquered Tyrosh with the help of the other members of the Band of Nine. That brute, Maelys the Monstrous, ended the rest of the Bands ambitions in the Stepstones, when he let some savage knight cut off his head, though I hear that descendants of the Ebon Prince still roam the world. But my grandfather kept his throne! Tyrosh could have conquered the rest of the Free Cities, if only the nobles of Tyrosh had not been jealous of my familys obvious greatness.
 str_vaegir_rebellion_pretender_story_2|Je suis passée clandestinement à l'étranger avec l'aide d'un serviteur fidèle, mais maintenant je suis âgé et je suis décidé à récupérer mon bien légitime. Burelek est mort peu après son acte de perfidie - le jugement du ciel, sans aucun doute. Son fils Yaroglek se fait appeler grand-prince, mais sa revendication est entachée, il n'est qu'un usurpateur comme son père, et je le renverser de son trône.
 str_khergit_rebellion_pretender_story_2|Selon la coutume Khergit, quand un homme meurt, ses troupeaux sont répartis entre tous ses fils. C'est comme ça dans le khanate. Quand j'ai entendu parler de la mort de mon père, j'étais loin d'ici en train d'inspecter nos frontières, mais je me suis précipité à Tulga, prêt à donner à Sanjar son dû et partager le khanate avec lui. Mais quand je suis arrivé, j'ai vu qu'il était parti voir ses partisans à la cour, pour se faire proclamer comme étant le seul khan.
 str_nord_rebellion_pretender_story_2|Mon père est mort avant la fin de mes études, alors je me suis précipité chez moi pour réclamer son trône, mais mon bateau a été détruit par une tempête. Un des proches de mon père, Ragnar, saisit cette opportunité pour répandre la rumeur que j'étais morts à l'étranger. Il a provoqué le rassemblement de ses partisans pour se faire proclamer konung, et pendant ces dernières années en a profité pour consolider son pouvoir.
-str_rhodok_rebellion_pretender_story_2|Au cours de la dernière sélection, il n'y avait que deux candidats, moi-même, et le Seigneur Graveth. Alors que le conseil délibérait, Graveth est apparu, épée à la main, en leur disant qu'un raid était sur ​​le point d'être lancé - ce qui était vrai, d'ailleurs - et s'il n'était pas élu doge, il les laisserait à leur sort.
+; str_qohor_rebellion_pretender_story_2|My father died however before I completed my course of study, and as I hurried home to claim his position my ship was wrecked by a storm. One of the magisters, Coloqo, seized this opportunity and spread rumors that I had died abroad. He summoned a gathering of his supporters to have himself proclaimed Archon, and has taken the past few years to consolidate his power.
 str_sarranid_rebellion_pretender_story_2|Quand le Sultan Ayzar mort, il semblait naturel pour les émirs du royaume que je devrais lui succéder en tant que dirigeant, évitant ainsi tout danger de guerre civile. Ils ont insisté, cependant, je devais épouser un de ses généraux, l'émir Baybak. Tous les émirs se sont alors alignés pour nous donner le serment d'allégeance - à Baybak comme chef des armées, et à moi en tant que Mère du Royaume. Pendant le peu de temps que nous l'avons dirigé, notre royaume fut prospère.
 ; str_dragonstone_rebellion_pretender_story_2|When Sultan Ayzar died, it seemed to the emirs of the realm only natural that I should succeed him as ruler, thus avoiding any danger of civil war. They insisted, however, that I should marry one of his generals, the Emir Baybak. The emirs then lined up to give us the oath of allegiance together -- to Baybak as Commander of the Armies, and to me as Mother of the Realm. For the brief time that we ruled, our realm prospered.
 ; str_westerlands_rebellion_pretender_story_2|My mother told me how he fell for a fair maid in service to the archon, and how they married in secrecy, thus making any child of their union trueborn and rightful heirs to the Iron Throne!
@@ -2241,14 +1987,15 @@ str_sarranid_rebellion_pretender_story_2|Quand le Sultan Ayzar mort, il semblait
 ; str_pentos_rebellion_pretender_story_2|a.
 ; str_tyrosh_rebellion_pretender_story_2|In the time of the Ninepenny Kings, my grandsire conquered Tyrosh with the help of the other members of the Band of Nine. That brute, Maelys the Monstrous, ended the rest of the Bands ambitions in the Stepstones, when he let some savage knight cut off his head, though I hear that descendants of the Ebon Prince still roam the world, and that Salladhor Saan continued his fathers ways when old Samarro died. But my grandfather kept his throne! Tyrosh could have conquered the rest of the Free Cities, if only the nobles of Tyrosh had not been jealous of my familys obvious greatness.
 ; str_myr_rebellion_pretender_story_2|The Ebon Prince was away, valiantly slaying knights, and there was no one to defend our subjects, no one to keep the Myrmen from taking our slaves for themselves! My father grew up in Qohor, living like a beggar, always pleading with the qohori for help, never getting any. He died a pitiful man, twisted with hate and revenge.
-; str_lys_rebellion_pretender_story_2|Daemon Targaryen made the Stepstones a unified kingdom with fire and blood, but it was the men and women of our line who kept it from falling completely apart upon his death. Saathos Saan defended Gallows Grey against a myrish fleet, and my father smashed the Tyroshi fleet when it lay at anchor, burning their admiral as he lay sleeping inside a great war galley. My great-grandmother even ruled Lys for a while, as a renowned courtesan!
+; str_lys_rebellion_pretender_story_2|During the last selection, there were but two candidates, myself, and Lotho Saskos. While the council was deliberating, Lotho appeared, sword in hand, telling them that a raiding party from the Basilisk Isles was about to descend on the field of deliberation -- which was true, by the way -- and if he were not elected Prince, not First Magister, then he would leave them to their fate.
 ; str_volantis_rebellion_pretender_story_2|When Sultan Ayzar died, it seemed to the emirs of the realm only natural that I should succeed him as ruler, thus avoiding any danger of civil war. They insisted, however, that I should marry one of his generals, the Emir Baybak. The emirs then lined up to give us the oath of allegiance together -- to Baybak as Commander of the Armies, and to me as Mother of the Realm. For the brief time that we ruled, our realm prospered.
-; str_norvos_rebellion_pretender_story_2|When Marello died, it seemed to the common folk of Norvos only natural that I should succeed him as High Priestess. The former High Magister, however, thought differently. He had me stripped of my titles, and clothes, and forced me to walk out through the gates with nothing but my shoes. He was a vile man, and his successor is no different. I once saw them talking together, and when they turned towards me, their eyes glowed red, and I could sense a great dark evil coming from them, surely a sign that they're both demons!
+; str_norvos_rebellion_pretender_story_2|When Marello died, it seemed to the common folk of the Lower City only natural that I should succeed him as High Priestess. The other priests, however, thought differently. They had me stripped of my titles, and clothes, and forced me to walk out through the gates with nothing but my shoes, but only after I had been made to service a bear. They are vile men, and they have chosen the vilest of them all as their new High Priest. I once saw him talking with a qohori, and when they turned towards me, their eyes glowed red, and I could sense a great dark evil coming from them, surely a sign that they're both demons!
+; str_lorath_rebellion_pretender_story_2|It was Qarlons dream to unite the holy lands of Andalos under one king, and rule from his great seat at Lorassyons Maze. He came very close, but the valyrians came on their dragons, and not a child, woman, man or beast survived the Scourging of Lorath.
 str_swadian_rebellion_pretender_story_3|Ils ont exécuté Goldentongue, et envoyé le reste de ma famille en exil. Mon père, mes frères, mes sœurs et moi-même, nous avons dû rejoindre une modeste société de mercenaires épéistes, travaillant comme simple commis! Je n'en dirai pas plus. Mon père a rejoint les dieux, mes frères sont répartis à travers le monde, mais moi, je vais suivre mon destin, je vais conquérir Tyrosh.
 str_vaegir_rebellion_pretender_story_3|Tant que mes droits ne seront pas rétablis au su et au vu de tous les Vaegirs, je porterai le surnom de , "bâtard", il me rappellera quel est mon devoir.
 str_khergit_rebellion_pretender_story_3|Mon frère pense que les Khergits respecte seulement la force: un leader qui prend ce qu'il veut, quand il le veut. Mais je pense qu'il a mal interprété l'esprit de notre peuple, -- Nous admirons un chef déterminé, mais plus encore s'il est juste, et nous savons que l'homme qui ne respecte pas les droits de son propre frère ne saura pas respecter les droits de ses disciples .
 str_nord_rebellion_pretender_story_3|Donc je reste en exil - sauf que maintenant je ne cherche pas à me laisser guider par la sagesse dans des terres lointaines, mais je cherche des guerriers qui accepteront de m'accompagner jusqu'aux terres Nordiques afin que je puisse retrouver mon trône. Si Ragnar doute de ma capacité à gouverner, alors qu'il me le dise en face, que nos regards se croisent au dessus des bords de nos boucliers. Un guerrier peut être instruit, un érudit peut devenir un guerrier, et à mon avis, celui qui sait combiner les deux est apte à être konung!
-str_rhodok_rebellion_pretender_story_3|Eh bien, Graveth a battu les Swadians, et pour cela, en tant que Rhodok, je lui en suis reconnaissant. Quand je serai doge, je mettrai la couronne de la victoire sur sa tête. Mais après je séparerai sa tête de ses épaules, par ses actions, il a prouvé qu'il était un traître à la confédération Rhodok et à ses coutumes sacrées.
+; str_qohor_rebellion_pretender_story_3|So I remain in exile -- except now I am not looking for sages to tutor me in the wisdom of faraway lands, but warriors, to come with me back to the land of my family and regain my fathers position. If Coloqo doubts my ability to rule Qohor, then let him say so face to face, as we stare at each other over the altar of the Great Goat. For a warrior can be a scholar, and a scholar a warrior, and to my mind, only one who combines the two is fit to be Archon!
 str_sarranid_rebellion_pretender_story_3|Mais hélas, Baybak lui-même fut rapidement tué dans une escarmouche avec les Khergits. Si à ce moment là, j'avais été au courant de sa mort, j'aurais pu me préparer à toute possibilité de trahison. Mais hélas, le neveu perfide de mon mari Hakim est venu à cheval avec ses hommes, encore couverts de la poussière du champ de bataille, et m'a conduit dans le palais de Swordpoint et s'est auto proclamé sultan. Voilà, - je vais rassembler ma propre armée, et lui retourner la politesse.
 ; str_dragonstone_rebellion_pretender_story_3|But alas, Baybak himself was soon killed in a skirmish with the Khergits. Had I known of his death in time, I would have been able to prepare myself against any possibility of betrayal. But alas, my husband's treacherous nephew Hakim came riding with his men, still covered with the dust of the battlefield, and drove me from the palace at swordpoint and proclaimed himself sultan. So be it -- I shall gather an army of my own, and return him the favor.
 ; str_westerlands_rebellion_pretender_story_3|But alas, brave Aerion was killed by a pyromancer soon after, a man jealous of my great-grandfathers obvious greatness. My great-grandmother was a young girl, and my grandfather an infant, they had no way of pressing their claim! But the Seven Kingdoms are embroiled in war, and the time is ripe to reclaim my birthright!
@@ -2257,14 +2004,15 @@ str_sarranid_rebellion_pretender_story_3|Mais hélas, Baybak lui-même fut rapid
 ; str_pentos_rebellion_pretender_story_3|But alas, Baybak himself was soon killed in a skirmish with the Khergits. Had I known of his death in time, I would have been able to prepare myself against any possibility of betrayal. But alas, my husband's treacherous nephew Hakim came riding with his men, still covered with the dust of the battlefield, and drove me from the palace at swordpoint and proclaimed himself sultan. So be it -- I shall gather an army of my own, and return him the favor.
 ; str_tyrosh_rebellion_pretender_story_3|They executed Goldentongue, and sent the rest of my family into exile. My father, my siblings, even myself, we had to join a measly sellsword company, working as lowly clerks! But no longer I say. My father has joined the Gods, my brothers are spread out across the world, yet I will have what is mine, I will have Tyrosh.
 ; str_myr_rebellion_pretender_story_3|No such fate for me, I say! I will have my revenge, I will regain our holdings, I will see our conquerors humbled, their daughters made my concubines, their sons sold to brothels, their mothers made slaves! I will have Myr!
-; str_lys_rebellion_pretender_story_3|But alas, Salladhor is content with picking off the occasional Lyseni galley, and I even hear he's hired himself out to Stannis Baratheon, in that mad bid to win the throne... Bah, I say! Let the woman do the mans work then! I'll conquer the Stepstones myself, and pronounce a new Kingdom of the Narrow Sea!
+; str_lys_rebellion_pretender_story_3|Well, Lotho defeated the pirates, and for that, I am grateful. When I am First Magister, I will myself place the wreath of victory on his head. But after that I will have it separated from his shoulders, for by his actions he has shown himself a traitor to the ancient customs of Lys and its sacred traditions.
 ; str_volantis_rebellion_pretender_story_3|But alas, Salladhor is content with picking off the occasional Lyseni galley, and I even hear he's hired himself out to Stannis Baratheon, in that mad bid to win the throne... Bah, I say! Let the woman do the mans work then! 
-; str_norvos_rebellion_pretender_story_3|They would have to be, not to notice my obvious holiness! But exiled I was, and here I am. The common folk loved me, and the gods of Norvos chose me as Marellos successor, why else would he have taken me into his bed? I must regain my former titles, that I might appease the gods, and to do that, I need to gain control of Norvos!
+; str_norvos_rebellion_pretender_story_3|They would have to be, not to notice my obvious holiness! But exiled I was, and here I am. The common folk loved me, and the deities of Norvos chose me as Marellos successor, why else would he have taken me into his bed? I must regain my former titles, that I might serve Great Norvos, and to do that, I need to gain control of the city!
+; str_lorath_rebellion_pretender_story_3|But I shall finish his work. One day, men will name me Qarlon the Greatest, for I intend to conquer all the lands of Andalos, starting with Lorath!
 str_swadian_rebellion_monarch_response_1|Vezenkor Adarys, hein? Depuis des années, cette famille est une épine pour Tyrosh. Alequo Adarys a eu beau diriger Tyrosh comme un tyran, il n'en était pas moins un général désastreux, et un homme politique encore pire. Rapidement les Lyseni conquièrent la ville, alors qu'il promenait ses esclaves et se servait de la trésorerie pour acheter des marchandises exotiques de Qarth. Son fils était encore plus fou, il s'est fait tuer par des esclaves en fuite d'après ce que l'on m'a dit, il ne valait pas mieux.
 str_vaegir_rebellion_monarch_response_1|Si Valdym était venu à moi en paix, je lui aurais donné des titres et des honneurs, et il serait devenu le plus grand de mes vassaux. Mais comme il a pris le parti de la guerre, je veux le voir le nez contre terre devant moi, enchaîné et qu'il me reconnaisse comme légitime souverain, puis lui couper la langue afin qu'il ne puisse pas se rétracter.
 str_khergit_rebellion_monarch_response_1|Mon frère Doustom vous a peut-être parlé de son désir de fractionner le khanate, comme s'il s'agissait d'un troupeau de moutons. Permettez-moi de vous dire quelque chose. Depuis que les Khergits se sont établis sur cette terre, la mort de chaque khan a eu le même résultat - la terre a été divisée, les fils du khan se sont fait la guerre, et c'est le plus fort qui a tout remporté comme d'habitude. J'ai simplement eu la clairvoyance de court-circuiter la guerre civile par anticipation.
 str_nord_rebellion_monarch_response_1|Lethwin ''Far-Seeker'"? Lethwin Inkfingers, c'est mieux comme ça. Peut-être connaissez-vous l'expression, «Malheur à la terre qui a donné naissance à konung. Malheureux sera le pays dont konung fut étudiant. Vous voulez que les Nordiques soient gouvernés par un jeune homme imberbe, dont les mains ne portent aucune callosités laissées par la poignée d'une épée, et qui n'a jamais résisté à un mur de bouclier? Si Lethwin avait été konung, ses lieutenants riraient de lui ouvertement!
-str_rhodok_rebellion_monarch_response_1|Sans nul doute, Seigneur Kastor vous a dit que je souillais le costume sacré des Rhodok en conseillant les praticiens de l'élection d'un doge. Eh bien, laissez-moi vous dire quelque chose. Les patriciens des villes font des discours de palabres sur nos anciennes libertés, mais choisissent leur doge en fonction des dernières promesses du noble venu dans leur villa pour siroter un vin fin tout en leur promettant d'oublier leurs impôts impayés.
+; str_qohor_rebellion_monarch_response_1|Sallos 'Far-Seeker'? Sallos the Weak, is more like it. Perhaps you have heard the expression, 'Unhappy is the city whose ruler is a child.' Unhappy too is the city whose ruler is a student. You want the qohoriks to be ruled by a beardless youth, whose hand bears no callouses left by a sword's grip, who has never shed his blood in the inner chambers of the Black Goat? If Sallos were archon, the other Free Cities would laugh at us!
 str_sarranid_rebellion_monarch_response_1|Nos sages ont convenu depuis longtemps que il y a un principe primordial dans la politique. Les hommes doivent accepter l'autorité du dirigeant, car la tyrannie est meilleure que la guerre civile. C'est pour cette raison que j'ai accepté l'autorité de Baybak et Arwa, à qui j'ai donné mon serment en tant que codirigeants.
 ; str_dragonstone_rebellion_monarch_response_1|Our scholars have long agreed that there is one overriding principle in politics. Men should accept the authority of the ruler, because tyranny is better than civil war. It was for that reason that I accepted the authority of both Baybak and Arwa, to whom I gave my oath as co-rulers.
 ; str_westerlands_rebellion_monarch_response_1|A long lost descendant of Aerion Brightflame hiding in Lys? Yes, I know of her and her family. Aerys often talked of having them kidnapped, that he might give them the same death that befell Aerion the Monstrous.
@@ -2272,15 +2020,16 @@ str_sarranid_rebellion_monarch_response_1|Nos sages ont convenu depuis longtemps
 ; str_ironborn_rebellion_monarch_response_1|Half-Hoare? Bah! A man may name himself a descendant of Harren the Black, and what of it? I rule the Iron Islands!
 ; str_pentos_rebellion_monarch_response_1|Our scholars have long agreed that there is one overriding principle in politics. Men should accept the authority of the ruler, because tyranny is better than civil war. It was for that reason that I accepted the authority of both Baybak and Arwa, to whom I gave my oath as co-rulers.
 ; str_tyrosh_rebellion_monarch_response_1|Vezenkor Adarys, eh? That family has been a thorn in the side of Tyrosh for years. Alequo Adarys may have ruled Tyrosh as a tyrant, but he was a disastrous general, and an even worse politician. Nearly had the Lyseni conquer the city, while he frolicked with his slaves and used the treasury to buy exotic goods from Qarth. His son was an even bigger fool, got himself killed by some runaway slaves I heard, and his son can't have been any better.
-; str_myr_rebellion_monarch_response_1|Prince Laros, eh? I seem to remember there being a small principality close to Myr once, little more than a few hovels and an old watchtower left over from the time of the dragonlords. Is this prince the ruler of that dismal realm? Hah!
-; str_lys_rebellion_monarch_response_1|Were any member of Saans family to come to me in peace, I would laden them with titles and honours, and welcome them back as lean and loyal citizens of Lys. But as Shiera Saan comes in war, I will drag her before me in chains and make her acknowledge me as rightful sovereign, then cut her tongue from her mouth so that she cannot recant, and we never have to hear of this foolishness too many men has called 'The Kingdom of the Narrow Sea' again.
+; str_myr_rebellion_monarch_response_1|Xhobar, eh? I seem to remember there being a small estate close to Myr once, little more than a few hovels and an old watchtower left over from the time of the dragonlords. Is this man the ruler of that dismal realm? Hah!
+; str_lys_rebellion_monarch_response_1|No doubt Lysandro told you that I defiled the hallowed Lyseni custom by interfering with the families' election of a First Magister. Well, let me tell you something. The old families of Lys make longwinded speeches about our ancient liberties, but then choose as their liege whichever noble last sat in their villa and sipped a fine wine and promised to overlook their unpaid taxes.
 ; str_volantis_rebellion_monarch_response_1|Our scholars have long agreed that there is one overriding principle in politics. Men should accept the authority of the ruler, because tyranny is better than civil war. It was for that reason that I accepted the authority of both Baybak and Arwa, to whom I gave my oath as co-rulers.
-; str_norvos_rebellion_monarch_response_1|Assadora? That mad whore? She must be ancient by now, a withered old crone, her cunt dusty as those Cannibal Sands she where always rawing about. Gods now what Marello were thinking, taking her into his bed. I once saw her screaming and shouting about demons while cutting herself, and pointing at me and my predecessor like we where infectious lepers...
+; str_norvos_rebellion_monarch_response_1|Bathi? That mad whore? She must be ancient by now, a withered old crone, her cunt dusty as those Cannibal Sands she where always rawing about. Gods now what Marello were thinking, taking her into his bed. I once saw her screaming and shouting about demons while cutting herself, and pointing at me and an old friend like we where infectious lepers...
+; str_lorath_rebellion_monarch_response_1|Qarlon? Who is Qarlon, one might ask? I know of no pretender with such a name. Qarlon the Great once ruled the islands, but that was a thousand years ago, and more. Lorath is a freehold, we shall suffer no more kings, not even ones as great as Qarlon.
 str_swadian_rebellion_monarch_response_2|Ceux qui réclament le retour de la famille Adarys ne doivent pas oublier ce qui les porta au pouvoir. La bande des Neuf. Ou, pour être plus précis, Maelys le Monstre et la Société d'Or. C'est lui qui détenait le véritable pouvoir derrière Alequo Adarys, et les Blackfyres sont tous partis. Il vaut mieux que nous nous dirigions nous-même plutôt que que nous nous retrouvions esclaves de certains marchands de chèvre, soumis à leurs caprices.
 str_vaegir_rebellion_monarch_response_2|Peu importe que mon père ait ou non tout fait pour sécuriser son trône, cela n'a pas d'importance. J'ai été déshérité, et cela définitivement. Si tous les vieilles revendications devait être remise à jour, si l'héritage de chaque homme devait être remis en question à tout moment, alors ce serait la fin de l'institution de la royauté, et nous vivrions dans un état de guerre civile permanente.
 str_khergit_rebellion_monarch_response_2|Doustom ferait un bon évaluateur de troupeaux, ou un bon conciliateur de conflits fonciers. Mais pouvez-vous imaginer un homme comme khan? Nous serions rapidement mis hors de de notre terre par nos voisins, et serions à nouveau confrontés à la famine d'antan et au froid glacial de la steppe.
 str_nord_rebellion_monarch_response_2|Le Vieux Hakrim peut avoir eu des idées de fantaisie sur la façon de disposer de son royaume, mais ce n'est pas seulement le sang royal qui fait un Konung Nordique. Je suis devenu konung par acclamation de mes fidèles, et parce que je suis de fait le plus fort. Je suis le plus sanguinaire, et malheur à tout homme sur cette terre qui dit le contraire.
-str_rhodok_rebellion_monarch_response_2|La seule liberté qui les concerne, c'est la liberté de pouvoir s'engraisser. Pendant ce temps, mes hommes dorment dans la steppe, et mangent du pain sec et du poisson salé, et scrutent l'horizon pour brûler des villages, et verse leur sang pour maintenir les routes caravanières sécurisées. Voici ma pensée - si jamais je rencontre un marchand blessé qui boite à cause d'une flèche Khergit ou d'un coup d'épée Swadian, alors je dirai, "Voici un homme dont le conseil est bon à prendre.
+; str_qohor_rebellion_monarch_response_2|Old Moredo may have had fancy ideas about how to dispose of Qohor, but it is not just blood that makes an Archon of Qohor. I am archon by acclamation of the people, and by right of being the strongest. That counts for more than blood, and woe to any man in this land who says otherwise.
 str_sarranid_rebellion_monarch_response_2|Cependant, vous devez savoir que Arwa n'a pas été choisie comme partenaire de Baybak à cause de sa sagesse ou de son amour pour la justice. Non, elle a été choisie parce qu'elle était une sorcière, qui pourrait transformer les hommes comme Ayzar et Baybak en fous balbutiant. Peu importe - je resterai fidèle à mon serment, et respecterai son usurpation, jusqu'à l'heure où sa marionnette lui sera enlevée par la mort. Maintenant, elle doit me respecter.
 ; str_dragonstone_rebellion_monarch_response_2|You should know, however, that Arwa was not chosen as Baybak's partner because of her wisdom or love of justice. No, she was chosen because she was a witch, who could transform men like Ayzar and Baybak into stammering fools. No matter -- I was true to my oath, and respected her usurpation, until the very hour that it was invalidated by the death of her puppet. Now she must respect mine.
 ; str_westerlands_rebellion_monarch_response_2|An opportunity never arose, and the matter was of little import. The girl has no dragon blood, she's the descendant of whores and sellswords. Half the girls in Lys has silver hair and indigo eyes, that does not make them Targaryens.
@@ -2288,10 +2037,11 @@ str_sarranid_rebellion_monarch_response_2|Cependant, vous devez savoir que Arwa 
 ; str_ironborn_rebellion_monarch_response_2|My brother Euron might see fit to mingle with the descendants of salt wifes, brutes and thralls, but if anyone call themselves Hoare and intend to usurp my rightful seat, I will split them from head to toe with mine own blade.
 ; str_pentos_rebellion_monarch_response_2|You should know, however, that Arwa was not chosen as Baybak's partner because of her wisdom or love of justice. No, she was chosen because she was a witch, who could transform men like Ayzar and Baybak into stammering fools. No matter -- I was true to my oath, and respected her usurpation, until the very hour that it was invalidated by the death of her puppet. Now she must respect mine.
 ; str_tyrosh_rebellion_monarch_response_2|Those who clamor for the return of the Adarys family should remember what brought them into power. The Band of Nine. Or, to be more precise, Maelys the Monstrous and the Golden Company. He was the real power behind Alequo Adarys, and the Blackfyres are all gone. Better we rule ourselves than be slaves to some upjumped goat merchants and their whims.
-; str_myr_rebellion_monarch_response_2|The Band of Nine was a bunch of brutes, smelly goatherds, bastards and upjumped sellswords. When the Westerosi ended their ambitions, the world did not shudder with loss. I say to this prince, flee back to Qohor and trouble us no more. Myr is a free city, and we will not subject ourselves to a conqueror ever again.
-; str_lys_rebellion_monarch_response_2|If every old claim were to be brought up anew, if every man's inheritance could be called into question at any time, then it would be the end of order, and we would live in a state of constant civil war.
+; str_myr_rebellion_monarch_response_2|The Band of Nine was a bunch of brutes, old women, bastards and upjumped sellswords. When Barristan Selmy put an end to the last of the Blackfyres, he ended their ambitions and the world did not shudder with loss. I say to this man, flee back to Qohor and trouble us no more. Myr is a free city, and we will not subject ourselves to a conqueror ever again.
+; str_lys_rebellion_monarch_response_2|The only liberty that concerns them is their liberty to grow fat. Meanwhile, my men sleep out in the hills, and eat dry bread and salt fish, and scan the horizon for burning villages, and shed our blood to keep the caravan routes open. Here's an idea -- if I ever meet a merchant who limps from a Dothraki arrow-wound or a Volantene sword-stroke, then I'll say, 'Here's a man whose counsel is worth taking.'
 ; str_volantis_rebellion_monarch_response_2|You should know, however, that Arwa was not chosen as Baybak's partner because of her wisdom or love of justice. No, she was chosen because she was a witch, who could transform men like Ayzar and Baybak into stammering fools. No matter -- I was true to my oath, and respected her usurpation, until the very hour that it was invalidated by the death of her puppet. Now she must respect mine.
-; str_norvos_rebellion_monarch_response_2|No, Great Norvos was well rid of her, a decision the High Magister and the council of priests arrived at together. The bitch is mad, she's a whore, a former slave and not fit to enter out fair city.
+; str_norvos_rebellion_monarch_response_2|No, Great Norvos was well rid of her, a decision the magisters and the council of priests arrived at together. The bitch is mad, she's a whore, a former slave and not fit to enter out fair city.
+; str_lorath_rebellion_monarch_response_2|No, we shall continue as before. The princes will appease the gods, the magisters will rule the city, and all shall be well.
 str_courtship_comment_conventional_generic|a l'air de très bonne famille
 str_courtship_comment_adventurous_generic|semble assez décent
 str_courtship_comment_otherworldly_generic|est plus poli et attentionné
@@ -2314,7 +2064,7 @@ str_kingdom_1_adjective|Stormlanders
 str_kingdom_2_adjective|Nordiques
 str_kingdom_3_adjective|Valemen
 str_kingdom_4_adjective|Braavosi
-str_kingdom_5_adjective|Riverlanders
+; str_kingdom_5_adjective|Qohori
 str_kingdom_6_adjective|Dorniens
 str_kingdom_8_adjective|Crownlanders
 str_kingdom_9_adjective|Westerlanders
@@ -2970,27 +2720,27 @@ str_you_serve_another_realm_i_dont_see_s4_granting_reg4herhis_blessing_to_our_un
 ; str_madame_my_heart_currently_belongs_to_s4|My heart currently belongs to {s4}.
 str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_shall_give_your_proposal_consideration|{Mon seigneur/Madame}, vous avez beaucoup d'esprit, et beaucoup de courage et vous êtes à la fois de bonne prestance et de bonne intelligente. Je vais réfléchir à votre proposition.
 str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_would_be_most_honored_were_you_to_become_my_wife|{Mon seigneur/Madame}, vous avez beaucoup d'esprit, vous êtes {courageux/courageuse} et vous êtes à la fois {beau, élégant et intelligent/belle, élégante et intelligente}. Je serais très honoré de vous prendre pour {mari/femme}.
-str_ah__kais_and_layali__such_a_sad_tale_many_a_time_has_it_been_recounted_for_my_family_by_the_wandering_poets_who_come_to_our_home_and_it_has_never_failed_to_bring_tears_to_our_eyes|Ah... "Kais et Layali"... Quelle triste histoire ! Elle a maintes fois été contée dans ma famille par les troubadours qui passaient chez nous, et elle nous a toujours tiré des larmes.
-str_kais_and_layali_three_hundred_stanzas_of_pathetic_sniveling_if_you_ask_me_if_kais_wanted_to_escape_heartbreak_he_should_have_learned_to_live_within_his_station_and_not_yearn_for_what_he_cannot_have|Kais et Layali" ? Ce ne sont que trois cents strophes de pleurnicheries, si vous voulez mon avis. Kais n'aurait jamais eu le cœur brisé s'il avait accepté sa condition au lieu de convoiter ce qu'il ne pouvait pas avoir.
-str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|Kais et Layali" ? On n'aurait jamais dû écrire un poème aussi triste ! Si Kais et Layali avaient vraiment été faits l'un pour l'autre, leur amour aurait surmonté tous les obstacles !
-str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|Ah, "Kais et Layali" ! Un peu vieillot, mais plutôt touchant.
-str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|La saga de "Helgered et Kara" ? Quelle belle époque que celle de nos ancêtres ! Les femmes comme Kara pouvaient s'aventurer dans le monde comme les hommes, se faire un nom sans se languir dans l'ombre de leur mari.
-str_ah_the_saga_of_helgered_and_kara_now_there_was_a_lady_who_knew_what_she_wanted_and_was_not_afraid_to_obtain_it|Ah, la saga de "Helgered et Kara" ! Voilà une femme qui savait ce qu'elle voulait, prête à tout pour l'obtenir.
-str_the_saga_of_helgered_and_kara_a_terrible_tale__but_it_speaks_of_a_very_great_love_if_she_were_willing_to_make_war_on_her_own_family|La saga de "Helgered et Kara" ? Quelle terrible histoire ! Mais elle évoque un très grand amour pour lequel l'héroïne était prête à faire la guerre à sa propre famille.
-str_the_saga_of_helgered_and_kara_as_i_recall_kara_valued_her_own_base_passions_over_duty_to_her_family_that_she_made_war_on_her_own_father_i_have_no_time_for_a_poem_which_praises_such_a_woman|La saga de "Helgered et Kara" ? Si je m'en souviens bien, Kara fait passer ses passions avant son devoir envers sa famille et fait la guerre à son propre père. Je n'ai pas de temps à perdre avec un poème qui fait l'éloge d'une telle femme !
-str_the_saga_of_helgered_and_kara_how_could_a_woman_don_armor_and_carry_a_sword_how_could_a_man_love_so_ungentle_a_creature|La saga de "Helgered et Kara" ? Comment une femme pourrait revêtir une armure et porter une épée! Comment un homme pourrait aimer une créature sans douceur!
-str_a_conversation_in_the_garden_i_cannot_understand_the_lady_in_that_poem_if_she_loves_the_man_why_does_she_tease_him_so|Une Conversation dans le Jardin"? Je ne peux comprendre la dame dans ce poème. Si elle aime l'homme, pourquoi elle le taquine?
-str_a_conversation_in_the_garden_let_us_see__it_is_morally_unedifying_it_exalts_deception_it_ends_with_a_maiden_surrendering_to_her_base_passions_and_yet_i_cannot_help_but_find_it_charming_perhaps_because_it_tells_us_that_love_need_not_be_tragic_to_be_memorable|Une Conversation dans le Jardin"? Voyons -- il est moralement édifiante, il exalte la tromperie, il se termine par une vierge qui s'abandonne à ses pulsions... Et pourtant je ne peux pas m'empêcher de le trouver charmant, peut-être parce que cela nous dit que l'amour n'a pas besoin d'être tragique pour être mémorable.
-str_a_conversation_in_the_garden_now_that_is_a_tale_every_lady_should_know_by_heart_to_learn_the_subtleties_of_the_politics_she_must_practice|Une Conversation dans le Jardin"? C'est un conte que chaque femme devrait connaître par cœur, pour apprendre les subtilités de la politique, qu'elle doivent pratiquer!
-str_a_conversation_in_the_garden_it_is_droll_i_suppose__although_there_is_nothing_there_that_truly_stirs_my_soul|Une Conversation dans le Jardin"? C'est drôle, je suppose - mais il n'y a rien qui suscite vraiment mon âme.
+; str_ah__kais_and_layali__such_a_sad_tale_many_a_time_has_it_been_recounted_for_my_family_by_the_wandering_poets_who_come_to_our_home_and_it_has_never_failed_to_bring_tears_to_our_eyes|Ah -- 'The Rains of Castamere' -- such a sad tale. Many a time has it been recounted for my family by the wandering poets who come to our home, and it has never failed to bring tears to our eyes.
+; str_kais_and_layali_three_hundred_stanzas_of_pathetic_sniveling_if_you_ask_me_if_kais_wanted_to_escape_heartbreak_he_should_have_learned_to_live_within_his_station_and_not_yearn_for_what_he_cannot_have|'The Rains of Castamere'? A hundred stanzas of pathetic sniveling, if you ask me. If we had to have a poem, song or ballad for every house that's ever been defeated, we'd all be singing from dawn 'till dusk
+; str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|'The Rains of Castamere'? No one should ever have written such a sad song! If it was the destiny of Ellyn Reyne and Lord Tarbeck to be together, then their love should have conquered all obstacles!
+; str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|Ah, 'The Rains of Castamere.' A very martial song, but moving, in its way.
+; str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|The saga of 'Florian and Jonquil'? Such happy times in which our ancestors lived! Women like Jonquil could venture out into the world like men, win a name for themselves, and not linger in their husbands' shadow.
+; str_ah_the_saga_of_helgered_and_kara_now_there_was_a_lady_who_knew_what_she_wanted_and_was_not_afraid_to_obtain_it|Ah, the saga of 'Florian and Jonquil'. Now there was a lady who knew what she wanted, and was not afraid to obtain it.
+; str_the_saga_of_helgered_and_kara_a_terrible_tale__but_it_speaks_of_a_very_great_love_if_she_were_willing_to_make_war_on_her_own_family|The saga of 'Florian and Jonquil'? A terrible tale - but it speaks of a very great love, if she were willing to make war on her own family.
+; str_the_saga_of_helgered_and_kara_as_i_recall_kara_valued_her_own_base_passions_over_duty_to_her_family_that_she_made_war_on_her_own_father_i_have_no_time_for_a_poem_which_praises_such_a_woman|The saga of 'Florian and Jonquil'? As I recall, Jonquil valued her own base passions over duty to her family that she made war on her own father. I have no time for a poem which praises such a woman!
+; str_the_saga_of_helgered_and_kara_how_could_a_woman_don_armor_and_carry_a_sword_how_could_a_man_love_so_ungentle_a_creature|The saga of 'Florian and Jonquil'? How could a woman don armor and carry a sword! How could a man love so ungentle a creature!
+; str_a_conversation_in_the_garden_i_cannot_understand_the_lady_in_that_poem_if_she_loves_the_man_why_does_she_tease_him_so|'The Bear and the Maiden Fair'? I cannot understand the lady in that poem. If she loves the man, why does she tease him so?
+; str_a_conversation_in_the_garden_let_us_see__it_is_morally_unedifying_it_exalts_deception_it_ends_with_a_maiden_surrendering_to_her_base_passions_and_yet_i_cannot_help_but_find_it_charming_perhaps_because_it_tells_us_that_love_need_not_be_tragic_to_be_memorable|'The Bear and the Maiden Fair'? Let us see -- it is morally unedifying, it exalts deception, it ends with a maiden surrendering to her base passions... And yet I cannot help but find it charming, perhaps because it tells us that love need not be tragic to be memorable.
+; str_a_conversation_in_the_garden_now_that_is_a_tale_every_lady_should_know_by_heart_to_learn_the_subtleties_of_the_politics_she_must_practice|'The Bear and the Maiden Fair'? Now that is a tale every lady should know by heart, to learn the subtleties of the politics she must practice!
+; str_a_conversation_in_the_garden_it_is_droll_i_suppose__although_there_is_nothing_there_that_truly_stirs_my_soul|'The Bear and the Maiden Fair'? It is droll, I suppose -- although there is nothing there that truly stirs my soul.
 str_storming_the_fortress_of_love_ah_yes_the_lady_sits_within_doing_nothing_while_the_man_is_the_one_who_strives_and_achieves_i_have_enough_of_that_in_my_daily_life_why_listen_to_poems_about_it|A l'assaut de la Forteresse de l'Amour"? Ah, oui. La dame est assis et ne fait rien, tandis que l'homme est celui qui cherche et réalise. Cela ressemble assez à la vie quotidienne. Pourquoi écouter des poèmes à ce sujet?
 str_storming_the_fortress_of_love_ah_yes_an_uplifting_tribute_to_the_separate_virtues_of_man_and_woman|A l'assaut de la Forteresse de l'Amour"? Ah, oui. Un hommage inspirant les vertus distinctes de l'homme et de la femme.
 str_storming_the_fortress_of_love_ah_yes_but_although_it_is_a_fine_tale_of_virtues_it_speaks_nothing_of_passion|A l'assaut de la Forteresse de l'Amour"? Ah, oui. Mais bien que ce soit une belle histoire de vertus, elle ne parle pas de passion!
 str_storming_the_fortress_of_love_ah_a_sermon_dressed_up_as_a_love_poem_if_you_ask_me|À l'assaut de la Forteresse de l'Amour" ? Ah... Voilà un sermon déguisé en poème d'amour, si vous voulez mon avis.
-str_a_hearts_desire_ah_such_a_beautiful_account_of_the_perfect_perfect_love_to_love_like_that_must_be_to_truly_know_rapture|Les désirs du cœur" ? Ah, très belle ode au parfait amour ! Aimer ainsi doit être un ravissement !
-str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_should_endeavor_to_win_her__and_not_dress_up_his_desire_with_a_pretense_of_piety|Les désirs du cœur" ? Idiot, si vous voulez mon avis. Si le poète désire une femme, qu'il s'efforce de la conquérir... et non de dissimuler son désir sous un semblant de piété !
-str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|Les désirs du cœur" ? Hum, voilà une exploration intéressante de l'amour terrestre et divin. Cela évoque la quête spirituelle dans laquelle l'homme puise le meilleur de lui-même, mais je me demande si le poète n'a pas confondu son désir d'élévation avec ses passions les plus primaires.
-str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|Les désirs du cœur" ? Oh, oui... c'est très digne et philosophique. Mais je n'ai guère envie d'écouter un barde jouer du luth pendant trois heures !
+; str_a_hearts_desire_ah_such_a_beautiful_account_of_the_perfect_perfect_love_to_love_like_that_must_be_to_truly_know_rapture|'A Maidens Desire'? Ah, such a beautiful account of the perfect, perfect love! To love like that must be to truly know rapture!
+; str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_should_endeavor_to_win_her__and_not_dress_up_his_desire_with_a_pretense_of_piety|'A Maidens Desire'? Silly, if you ask me. If the poet desires a lady, then he should endeavor to win her -- and not dress up his desire with a pretense of piety!
+; str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|'A Maidens Desire'? Hmm -- it is an interesting exploration of earthly and divine love. It does speak of the spiritual quest which brings out the best in man, but I wonder if the poet has not confused his yearning for higher things with his baser passions.
+; str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|'A Maidens Desire'? Oh, yes -- it is very worthy and philosophical. But if I am to listen to a bard strum a lute for three hours, I personally prefer there to be a bit of a story.
 str_reg3_units_of_s4_for_reg5_guests_and_retinue|{reg3} unités de {s4} pour {reg5} invités et leurs gens
 str_reg3_units_of_spice_of_reg5_to_be_consumed|{reg3} unités d'épices de {reg5} à consommer
 str_reg3_units_of_oil_of_reg5_to_be_consumed|{reg3} unités d'huile de {reg5} à consommer
@@ -3361,7 +3111,7 @@ str_track_down_s7_and_defeat_him_defusing_calls_for_war_within_the_s11|Trouvez {
 str_track_down_the_s9_who_attacked_travellers_near_s8_then_report_back_to_the_town|Éliminez les {s9} qui ont attaqué les voyageurs près de {s8}.
 str_do_you_wish_to_award_it_to_one_of_your_vassals|Voulez-vous l'attribuer à l'un de vos vassaux ?
 str_who_do_you_wish_to_give_it_to|Ã qui souhaitez vous l'attribuer ?
-str_sire_my_lady_we_have_taken_s1_s2|{Sire/Ma Dame}, nous avons pris {s1}. {s2}
+; str_sire_my_lady_we_have_taken_s1_s2|{My lord/My lady}, we have taken {s1}. {s2}
 str_s12i_want_to_have_s1_for_myself|{s12}Je désire me réserver {s1}. {s2}
 str_fiefs_s0|(fiefs : {s0})
 str_production_setting_buy_from_market|Nous achetons des matières premières au marché.
@@ -3635,10 +3385,10 @@ str_faction_king_title_16|{s0}
 str_faction_king_title_17|{s0}
 str_name_kingdom_text|Quel sera le nom de votre royaume?
 str_default_kingdom_name|Choisir un nom
-str_lord_defects_ordinary|Trahison d'un seigneur^^{s1} a renoncé à son allégeance envers le {s3}, et a rejoint le {s2}
-str_lord_defects_player|Trahison d'un seigneur^^{s1} a renoncé à son allégeance envers le {s3}. Il veut rejoindre votre royaume. Vous pouvez le recevoir à votre cour pour qu'{reg4?elle:il} prête serment .
-str_lord_defects_player_faction|Trahison d'un seigneur^^{s1} a renoncé à son allégeance envers le {s3}. Il veut rejoindre votre royaume. Vous pouvez le recevoir à votre cour pour qu'{reg4?elle:il} prête serment.
-str_lord_indicted_player_faction|Sur l'ordre du {s6}, le {s4} du {s5} a été accusé de trahison et dépossédé de ses titres et biens. Il a fui pour sauver sa vie et veut rejoindre votre royaume. Vous pouvez le recevoir à votre cour pour qu'{reg4?elle:il} vous prête serment d'allégeance.
+; str_lord_defects_ordinary|Lord Defects^^{s1} has renounced {his/her} allegiance to {s3}, and joined {s2}
+; str_lord_defects_player|Lord Defects^^{s1} has renounced {his/her} allegiance to the {s3}. {reg4?She:He} has tentatively joined your kingdom. You may go to your court to receive a pledge, if you wish.
+; str_lord_defects_player_faction|Lord Defects^^{s1} has renounced {his/her} allegiance to the {s3}. {reg4?She:He} has tentatively joined your kingdom. You may go to your court to receive a pledge, if you wish.
+; str_lord_indicted_player_faction|By order of {s6}, {s4} of the {s5} has been indicted for treason. {He/She} has been stripped of all {his/her} properties, and has fled for {his/her} life. {He/She} wishes to join your kingdom. You may find {him/her} in your court to receive {reg4?her:his} allegiance, if you wish it.
 str_lord_indicted_dialog_approach|Salutations, {Mon seigneur/Ma Dame}. Vous savez sans doute ce qu'il m'est arrivé à cause du {s10}. Vous avez la réputation de quelqu'un qui traite bien ses vassaux, et je serais honoré de vous jurer fidélité.
 str_lord_indicted_dialog_approach_yes|Et je serai honoré que vous le fassiez.
 str_lord_indicted_dialog_approach_no|Pardonnez-moi, mais je n'ai pas besoin de vous.
@@ -4077,7 +3827,7 @@ str_key_left_control|control Gauche
 str_key_right_control|control Droit
 str_key_left_alt|alt gauche
 str_key_right_alt|alt droit
-; str_bandit_name_10|Red Willis
+; str_bandit_name_10|Ser Cortnay Penrose
 ; str_bandit_name_11|Manfred Lonmouth
 ; str_bandit_name_12|Black Jack Cobbler
 ; str_bandit_name_13|Alyn of the Kingswood

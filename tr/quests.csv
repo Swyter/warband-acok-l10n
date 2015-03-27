@@ -75,13 +75,13 @@ qst_raid_caravan_to_start_war|Bağımsız bir kervana saldırıp savaş sebebi y
 qst_cause_provocation|Bir krallığı diğerine saldırması için kışkırt
 qst_rescue_prisoner|Bir mahkumu fidyeyle ya da fidyesiz kurtar
 qst_destroy_bandit_lair|Haydut Sığınağını Yok Et
-qst_beowulf_quest|Boru ve Kolye: Bölüm 1
-qst_beowulf_quest1|Boru ve Kolye: Bölüm 2
-qst_beowulf_quest2|Boru ve Kolye: Bölüm 3
-qst_beowulf_quest3|Boru ve Kolye: Bölüm 4
-qst_beowulf_quest4|Boru ve Kolye: Bölüm 5
-qst_beowulf_quest5|Boru ve Kolye: Bölüm 6
-qst_beowulf_quest6|Boru ve Kolye: Bölüm 7
+; qst_beowulf_quest|The Horn and the Grimoire: Part 1
+; qst_beowulf_quest1|The Horn and the Grimoire: Part 2
+; qst_beowulf_quest2|The Horn and the Grimoire: Part 3
+; qst_beowulf_quest3|The Horn and the Grimoire: Part 4
+; qst_beowulf_quest4|The Horn and the Grimoire: Part 5
+; qst_beowulf_quest5|The Horn and the Grimoire: Part 6
+; qst_beowulf_quest6|The Horn and the Grimoire: Part 7
 qst_relic_quest|Kutsal Yüzük: Bölüm 1
 qst_relic_quest1|Kutsal Yüzük: Bölüm 2
 qst_ramsay_quest|Bolton'un Piçi: Bölüm 1
@@ -97,6 +97,17 @@ qst_tyrion_quest1|Kükrediğimi Duy: Bölüm 2
 ; qst_starting_quest_1_6|Trial by Combat: Part 1
 ; qst_starting_quest_1_7|Trial by Combat: Part 1
 ; qst_terror_quest_starter|Terror in the Cairn: Part 1
+; qst_renly_quest_1|The Crowned Stag: Part 1
+; qst_renly_quest_2|The Crowned Stag: Part 2
+; qst_renly_quest_3|The Crowned Stag: Part 3
+; qst_renly_quest_4|The Crowned Stag: Part 4
+; qst_renly_quest_5|The Crowned Stag: Part 5
+; qst_starting_quest_citadel|The Knights of the Mind: Part 1
+; qst_citadel_quest_1|Lost Knowledge: Part 1
+; qst_citadel_quest_2|Lost Knowledge: Part 2
+; qst_citadel_quest_3|Lost Knowledge: Part 3
+; qst_citadel_quest_4|Lost Knowledge: Part 4
+; qst_citadel_quest_5|Lost Knowledge: Part 5
 qst_quaithe_quest|Nightfort: Bölüm 1
 qst_quaithe_quest1|Kükrediğimi Duy: Bölüm 2
 qst_quaithe_quest2|Kükrediğimi Duy: Bölüm 3
@@ -127,7 +138,6 @@ qst_aegon_targaryen_quest|Yarı Üstad: Bölüm 1
 qst_aegon_targaryen_quest1|Yarı Üstad: Bölüm 2
 qst_dragonseed_quest|Ejderhaların Tohumu: Bölüm 1
 qst_dragonseed_quest1|Ejderhaların Tohumu: Bölüm 2
-qst_espada_falcata|Valar Dohaeris
 qst_wildfire_quest|Gecenin Gölgeleri: Bölüm 1
 qst_wildfire_quest1|Gecenin Gölgeleri: Bölüm 2
 qst_wildfire_quest2|Gecenin Gölgeleri: Bölüm 3
@@ -135,13 +145,13 @@ qst_wildfire_quest3|Gecenin Gölgeleri: Bölüm 4
 qst_wildfire_quest4|Gecenin Gölgeleri: Bölüm 5
 qst_wildfire_quest5|Gecenin Gölgeleri: Bölüm 6
 qst_wildfire_quest6|Gecenin Gölgeleri: Bölüm 7
-qst_stepstone_quest|Prens ve Kraliçe: Bölüm 1
-qst_stepstone_quest1|Prens ve Kraliçe: Bölüm 2
-qst_stepstone_quest2|Prens ve Kraliçe: Bölüm 3
-qst_stepstone_quest3|Prens ve Kraliçe: Bölüm 4
-qst_stepstone_quest4|Prens ve Kraliçe: Bölüm 5
-qst_stepstone_quest5|Prens ve Kraliçe: Bölüm 6
-qst_stepstone_quest6|Prens ve Kraliçe: Bölüm 7
+; qst_stepstone_quest|Knights, Letters and Dragons: Part 1
+; qst_stepstone_quest1|Knights, Letters and Dragons: Part 2
+; qst_stepstone_quest2|Knights, Letters and Dragons: Part 3
+; qst_stepstone_quest3|Knights, Letters and Dragons: Part 4
+; qst_stepstone_quest4|Knights, Letters and Dragons: Part 5
+; qst_stepstone_quest5|Knights, Letters and Dragons: Part 6
+; qst_stepstone_quest6|Knights, Letters and Dragons: Part 7
 qst_clansman_quest|Taş ve Sopalar: Bölüm 1
 qst_clansman_quest1|Taş ve Sopalar: Bölüm 2
 qst_clansman_quest2|Taş ve Sopalar: Bölüm 3

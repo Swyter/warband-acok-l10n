@@ -1,7 +1,7 @@
 p_zendar|Zendar
 p_town_1|Villahermana
 p_town_3|Salinas
-p_town_6|Atalaya Llorosa
+; p_town_6|The Weeping Town
 p_town_8|Puerto Gaviota
 p_town_9|Bonmercato
 p_town_12|Pentos
@@ -18,14 +18,14 @@ p_town_27|Kayce
 p_town_30|Vado Ceniza
 p_town_31|Puerto Blanco
 p_town_32|Antigua
-p_town_33|Pyke
+; p_town_33|Lord Harroway's Town
 p_town_34|Puerto Noble
-p_town_35|Roble de Hierro
-p_town_36|Ruinas de Ghoyan Drohe
+; p_town_35|Tumbleton
+; p_town_36|Rhyos
 p_town_38|Lorath
 p_town_40|Lys
 p_town_41|Fuerte Túmulo
-p_town_42|Ladera
+; p_town_42|Goldengrove
 p_town_44|Qohor
 p_town_45|Myr
 p_town_46|Tyrosh
@@ -34,7 +34,9 @@ p_town_48|Volon Therys
 p_town_49|Valysar
 p_town_50|Selhorys
 p_town_51|Norvos
-p_town_52|Ruinas de Ny Sar
+; p_town_52|Mhysa Faer
+; p_town_53|Draconys
+; p_town_54|Aquos Dhaen
 p_castle_1|Rapsodia
 p_castle_2|Dedos de Pedernal
 p_castle_3|Puertabronce
@@ -96,7 +98,7 @@ p_castle_60|Tres Torres
 p_castle_61|Tierras Altas
 p_castle_63|Bandallon
 p_castle_64|Roble Viejo
-p_castle_65|Sotodeoro
+; p_castle_65|Rook's Rest
 p_castle_66|La Sidra
 p_castle_67|Valdehierba
 p_castle_68|Granmesa
@@ -108,7 +110,7 @@ p_castle_73|Diez Torres
 p_castle_74|Ruinas de Iksa Naron
 p_castle_75|Último Refugio
 p_castle_76|Abismo del Torturador
-p_castle_77|Puño de las Hijas
+; p_castle_77|Blackwall
 p_castle_78|Cuerno de los Siete
 p_castle_79|Daggerstop
 p_castle_80|Dominio del Cielo
@@ -127,7 +129,7 @@ p_castle_93|Ermita Alta
 p_castle_95|Cuernomartillo
 p_castle_96|Jardín Gris
 p_castle_99|Wyl
-p_castle_100|Descanso de Caminantes
+; p_castle_100|Ironoaks
 p_castle_104|Castroferro
 p_castle_105|Aguasclaras
 p_castle_106|Hogar
@@ -141,7 +143,7 @@ p_castle_115|Lago Rojo
 p_castle_119|Castillo de Marea Negra
 p_castle_120|Salón Wyk
 p_castle_127|Aguasdulces
-p_castle_128|Cueva de los Cráneos
+; p_castle_128|Aysel Keep
 p_castle_129|Invernalia
 p_castle_130|Bastión de Tormentas
 p_castle_131|Ciudadela de Torrhen
@@ -153,26 +155,29 @@ p_castle_136|Colmillo Dorado
 p_castle_137|Marcaderiva
 p_castle_138|Isla del oso
 p_castle_139|Stokeworth
+; p_castle_140|Pyke
+; p_castle_141|Grey Gallows
+; p_castle_142|Eryas
 p_village_1|Los Riachuelos
-p_village_2|Cabo del Rey
+; p_village_2|Coldwolf
 p_village_3|Cuello de Dragón
-p_village_4|Ciudad de Lago
+; p_village_4|Prawn Bay
 p_village_5|Fin del Mundo
 p_village_6|Perdición de Rebeldes
 p_village_7|Paraje de Bolton
 p_village_8|Lanza del Norte
-p_village_9|Puerta del Carnero
+; p_village_9|Oldwall
 p_village_10|El Bloqueo
-p_village_11|Pueblo Blanco
+; p_village_11|Brightfog
 p_village_12|Woolfield
 p_village_13|Picamercado
 p_village_14|Aldea de Crofter
-p_village_15|Overton
+; p_village_15|Wildeland
 p_village_16|Descanso de Walton
 p_village_17|Árbol de Centinela
 p_village_18|Normercado
 p_village_19|Goldgrass
-p_village_20|Forrester Hall
+; p_village_20|Ironrath
 p_village_21|Cebo de Kraken
 p_village_22|Whitehill
 p_village_23|Forca Verde
@@ -184,89 +189,89 @@ p_village_28|Alto Corazón
 p_village_29|Molino Nidorraton
 p_village_30|Vado de los Carneros
 p_village_31|Elk Wood
-p_village_32|El Pantano
+; p_village_32|Orshore
 p_village_33|Torre Gaviota
 p_village_34|Nido de Cangrejos
 p_village_35|Soto Gris
-p_village_36|Halcón de Gallinero
-p_village_37|Marcaígnea
-p_village_38|Bahía Guijarro
-p_village_39|Refugio de Gorriones
+; p_village_36|Dorbarrow
+; p_village_37|Easthedge
+; p_village_38|The Old Barrow
+; p_village_39|Greywall
 p_village_40|Monton
 p_village_41|Aldea de Valle
 p_village_42|Newkeep
 p_village_43|Mercado El Dedo
-p_village_44|Rivera del Buitre
+; p_village_44|Merlings Cliff
 p_village_45|Derivamadera
 p_village_46|Garfio de Massey
-p_village_47|Posada La Horca
+; p_village_47|Highlock
 p_village_48|Camino del Bosque
 p_village_49|Campoverde
-p_village_50|Paso de las Tormentas
-p_village_51|Rompetormentas
+; p_village_50|Kingsway
+; p_village_51|Crickhollow
 p_village_52|Bahía Zafiro
 p_village_53|Posada El Astado
-p_village_54|Atalaya de la Víbora
-p_village_55|Cabo de la Ira
+; p_village_54|Slayne
+; p_village_55|Stonebridge
 p_village_56|Alameda
-p_village_57|La Selva
+; p_village_57|Kellington
 p_village_58|La Mano Cazada
-p_village_59|Monte Lánguido
+; p_village_59|Dellhollow
 p_village_60|Playa de Verano
 p_village_61|Puente Verde
 p_village_62|Bosquepinto
-p_village_63|Locura de Nymeria
-p_village_64|Puente Rojo
+; p_village_63|Blackmarrow
+; p_village_64|The Farthest Reef
 p_village_65|Dunas rojas
 p_village_66|Piedrafresca
 p_village_67|Mercado Marítimo
-p_village_68|Flat Town
+; p_village_68|Greywynne
 p_village_69|Puerto Ryam
-p_village_70|Talabrezo
+; p_village_70|Waystone
 p_village_71|Cueva Desolada
 p_village_72|Bellamar
-p_village_73|Forjante
+; p_village_73|Bittersweet
 p_village_74|Puntapoza
 p_village_75|Ojo de Dioses
-p_village_76|Rivera del Hierro
-p_village_77|Algamarina
-p_village_78|Paso Alto
+; p_village_76|Landwick
+; p_village_77|Bluegold
+; p_village_78|Windbarrow
 p_village_79|Chelsted
 p_village_80|Rollingford
-p_village_81|Ashton
+; p_village_81|Tumblers Hall
 p_village_82|Cascadas Bravas
 p_village_83|Bosque de Bronce
-p_village_84|El Paso Dorado
+; p_village_84|Westden
 p_village_85|Estrecho Dorado
 p_village_86|Cueva Dorada
 p_village_87|Forca Roja
 p_village_88|Langward
-p_village_89|Aldea de Lord Harroway
+; p_village_89|Teagueton
 p_village_90|Punta Zarpa Rota
 p_village_91|Roosterton
 p_village_92|Picaledon
 p_village_93|Cruce de Olmos
-p_village_94|El Paso de Plata
+; p_village_94|Aldbridge
 p_village_95|Plaza de Fuego
 p_village_96|Villadorada
-p_village_97|Colinahueca
+; p_village_97|Westwall Way
 p_village_98|Colina Corazón
 p_village_99|Viñeral
 p_village_100|Remendón
 p_village_101|Ivy Hall
 p_village_102|Vinomiel
-p_village_103|Hammerhal
+; p_village_103|Hornrock
 p_village_104|Donnelwood
 p_village_105|Puerto del Ocaso
 p_village_106|Sotomiel
 p_village_107|Castillo de las Tierras Bajas
 p_village_108|Dosk
-p_village_109|Ciudad de Mander
+; p_village_109|Fairview
 p_village_110|Rivera de los Mejillones
 p_village_111|Castillo Azul
 p_village_112|El Dominio Dorniense
 p_village_113|Montefrío
-p_village_114|Appleton
+; p_village_114|Fayford
 p_village_115|Monte Carbón
 p_village_116|Cuna de Nagga
 p_village_117|Punta Piel de Foca
@@ -275,91 +280,96 @@ p_village_119|Torreón de Harlaw
 p_village_120|Monteorca
 p_village_121|Fosa
 p_village_122|Torre del Resplandor
-p_village_123|El Bosque de los Peniques
-p_village_124|Camino de la Serpiente
-p_village_125|Acantilados Marrones
-p_village_126|Bahía de Pentos
-p_village_127|Punto del esclavero
+; p_village_123|The Tree of Crowns
+; p_village_124|Journey's End
+; p_village_125|Barrowness
+; p_village_126|Wildewater
+; p_village_127|Redash
 p_village_128|Castillo Alto
-p_village_129|Alto Rhoyne
-p_village_130|Acantilados Blancos
-p_village_131|Bajo Nhoyne
+; p_village_129|Ester Marrow
+; p_village_130|Brywyne
+; p_village_131|Redbarrow
 p_village_132|Villaspecias
-p_village_133|Tilar
+; p_village_133|Estwynd
 p_village_134|La Corriente del Ámbar
 p_village_135|Petrarota
 p_village_136|Chyttering
 p_village_137|Torrentenegro
-p_village_138|La Torre Sangrante
-p_village_139|Costa Lavanda
+; p_village_138|Redstone
+; p_village_139|Ironstone
 p_village_140|Mar de la Alegría
 p_village_141|Santocastillo
 p_village_142|Cantera
-p_village_143|Colina Pino
-p_village_144|Colina Hierro
-p_village_145|Costa Profunda
-p_village_146|Salón de Hugor
-p_village_147|Lago de la avaricia
-p_village_148|Yarda de aceite
-p_village_149|Mercado Brick
-p_village_150|Cordón de dama
-p_village_151|Mercado Velvet
+; p_village_143|Linden
+; p_village_144|Uthmoor
+; p_village_145|Erimere
+; p_village_146|Valburn Hill
+; p_village_147|Janash
+; p_village_148|Erifort
+; p_village_149|Sunrise Way
+; p_village_150|Prybrook
+; p_village_151|Raylyn
 p_village_152|Valle de Narrah
-p_village_153|Mercado Bronce
-p_village_154|Pequeño Rhoyne
+; p_village_153|Velvet Haven
+; p_village_154|Lorness
 p_village_155|Baelors Feet
-p_village_156|Puerto Vidriagón
+; p_village_156|The Mazemakers Tomb
 p_village_157|Estermont
-p_village_158|Mercado Marfil
+; p_village_158|Whitemist
 p_village_159|Amberly
 p_village_160|Los Susurros
 p_village_161|Valle Brandy
 p_village_162|Sherrer
 p_village_163|Camino del Río
 p_village_164|Charca Cenagosa
-p_village_165|Chicapiedra
+; p_village_165|The Lovely Crag
 p_village_166|Manglar
-p_village_167|El Anillo del Vacío
+; p_village_167|Eastholt
 p_village_168|Dedomiel
 p_village_169|Puerto Duna
 p_village_170|Hermana Dulce
 p_village_171|Laberinto de Uthero
 p_village_172|Lago Uva
-p_village_173|Mar de los Escalofríos
+; p_village_173|The Shivering Sea
 p_village_174|Colinas de Terciopelo
-p_village_175|Alto Nhoyne
-p_village_176|Erregs Hall
+; p_village_175|Aldwell
+; p_village_176|Lostmoor
 p_village_177|La Costa Naranja
 p_village_178|Cedro
-p_village_179|La Hija Tímida
+; p_village_179|Rose's Hollow
 p_village_180|Ruinas de Sarhoy
-p_village_181|Acantilados Naranjas
+; p_village_181|Dunstonbury
 p_village_182|Pizcalumbre
-p_village_183|Villacauce
-p_village_184|Árbol de Especias
+; p_village_183|Shadowton
+; p_village_184|Marbleray
 p_village_185|Montaña Nyel
 p_village_186|Colinas Noom
-p_village_187|Guarida de Osos
+; p_village_187|Wildelight
 p_village_188|Roca de la Horca
 p_village_189|Colina Tortuga
-p_village_190|Pantano Profundo
-p_village_191|Arroyo Plateado
-p_village_192|Aldea Cereza Blanca
+; p_village_190|Waydale
+; p_village_191|Mallowmere
+; p_village_192|Rayhaven
 p_village_193|Cod Town
 p_village_194|Timberton
 p_village_195|Monte Plowman
 p_village_196|Pennytree
 p_village_197|Verdibaya
 p_village_198|Punta Zarpa Rota
-p_village_199|Cerrahía
+; p_village_199|Mallowcliff
 p_village_200|Torreón Picodecuervo
 p_village_201|Pedregal
 p_village_202|Altozano de los Corderos
 p_village_203|Camponeblinos
 p_village_204|Puercaloma
-p_village_205|Dorafonte
+; p_village_205|Coldriver
 p_village_206|Estañotero
 p_village_207|Corcrest
+; p_village_208|Lorassyon
+; p_village_209|Glassmont
+; p_village_210|Baywind
+; p_village_211|Aelhaven
+; p_village_212|Shadowwick
 p_salt_mine|Mina de sal
 p_four_ways_inn|Posada Cuatro Caminos
 p_test_scene|escena de prueba
@@ -371,9 +381,169 @@ p_training_ground_2|Campo de Entrenamiento
 p_training_ground_3|Campo de Entrenamiento
 p_training_ground_4|Campo de Entrenamiento
 p_training_ground_5|Campo de Entrenamiento
-p_lighthouse_1|Puerto
+; p_volcano_rocks_1|volcano rocks dragonstone
+; p_volcano_rocks_2|volcano rocks valyria 1
+; p_volcano_rocks_3|volcano rocks valyria 2
+; p_volcano_rocks_4|volcano rocks valyria 3
+; p_volcano_rocks_5|volcano rocks valyria 4
+; p_volcano_rocks_6|volcano rocks valyria 5
+; p_port_1|Port of King's Landing
+; p_port_2|Port of Duskendale
+; p_port_3|Natural Harbor
+; p_port_4|Natural Harbor
+; p_port_5|Natural Harbor
+; p_port_6|Natural Harbor
+; p_port_7|Port of Driftmark
+; p_port_8|Natural Harbor
+; p_port_9|Natural Harbor
+; p_port_10|Natural Harbor
+; p_port_11|Natural Harbor
+; p_port_12|Natural Harbor
+; p_port_13|Natural Harbor
+; p_port_14|Natural Harbor
+; p_port_15|Port of Tyrosh
+; p_port_16|Natural Harbor
+; p_port_17|Natural Harbor
+; p_port_18|Port of Lys
+; p_port_19|Natural Harbor
+; p_port_20|Natural Harbor
+; p_port_21|Port of Braavos
+; p_port_22|Port of Lorath
+; p_port_23|Port of Myr
+; p_port_24|Natural Harbor
+; p_port_25|Port of Sisterton
+; p_port_26|Natural Harbor
+; p_port_27|Natural Harbor
+; p_port_28|Natural Harbor
+; p_port_29|Natural Harbor
+; p_port_30|Natural Harbor
+; p_port_31|Port of Lordsport
+; p_port_32|Natural Harbor
+; p_port_33|Natural Harbor
+; p_port_34|Natural Harbor
+; p_port_35|Natural Harbor
+; p_port_36|Natural Harbor
+; p_port_37|Natural Harbor
+; p_port_38|Port of The Arbor
+; p_port_39|Port of Gulltown
+; p_port_40|Natural Harbor
+; p_port_41|Natural Harbor
+; p_port_42|Natural Harbor
+; p_port_43|Port of White Harbor
+; p_port_44|Natural Harbor
+; p_port_45|Natural Harbor
+; p_port_46|Natural Harbor
+; p_port_47|Natural Harbor
+; p_port_48|Port of Lannisport
+; p_port_49|Natural Harbor
+; p_port_50|Port of Oldtown
+; p_port_51|Port of Sunspear
+; p_port_52|Port of Volantis
+; p_port_53|Natural Harbor
+; p_port_54|Natural Harbor
+; p_port_55|Port of Pentos
+; p_port_56|Natural Harbor
+; p_port_57|Natural Harbor
+; p_port_58|Natural Harbor
+; p_port_59|Natural Harbor
+; p_port_60|Natural Harbor
+; p_port_61|Natural Harbor
+; p_port_62|Port of the Weeping Town
+; p_port_63|Natural Harbor
+; p_port_64|Port of Saltpans
+; p_port_65|Port of Maidenpool
+; p_port_66|Port of Aquos Dhaen
+; p_port_67|Natural Harbor
+; p_battlemap_barrow_1|Barrow
+; p_battlemap_barrow_2|Barrow
+; p_battlemap_barrow_3|Barrow
+; p_battlemap_barrow_4|Barrow
+; p_battlemap_barrow_5|Barrow
+; p_battlemap_weirwood_north_1|Weirwood
+; p_battlemap_weirwood_north_2|Weirwood
+; p_battlemap_weirwood_north_3|Weirwood
+; p_battlemap_weirwood_north_4|Weirwood
+; p_battlemap_weirwood_north_5|Weirwood
+; p_battlemap_weirwood_north_6|Weirwood
+; p_battlemap_westerlands_mine_1|Silver Mine
+; p_battlemap_westerlands_mine_2|Silver Mine
+; p_battlemap_westerlands_mine_3|Gold Mine
+; p_battlemap_westerlands_mine_4|Gold Mine
+; p_battlemap_westerlands_mine_5|Gold Mine
+; p_battlemap_lumber_camp_north_1|Lumber Camp
+; p_battlemap_lumber_camp_north_2|Lumber Camp
+; p_battlemap_lumber_camp_north_3|Lumber Camp
+; p_battlemap_lumber_camp_north_4|Lumber Camp
+; p_battlemap_lumber_camp_north_5|Lumber Camp
+; p_battlemap_farmland_reach_1|Farmland
+; p_battlemap_farmland_reach_2|Farmland
+; p_battlemap_farmland_reach_3|Farmland
+; p_battlemap_farmland_reach_4|Farmland
+; p_battlemap_farmland_reach_5|Farmland
+; p_battlemap_farmland_reach_6|Farmland
+; p_battlemap_farmland_reach_7|Farmland
+; p_battlemap_farmland_reach_8|Farmland
+; p_battlemap_orchard_essos_1|Orchard
+; p_battlemap_orchard_essos_2|Orchard
+; p_battlemap_orchard_essos_3|Orchard
+; p_battlemap_orchard_essos_4|Orchard
+; p_battlemap_orchard_essos_5|Orchard
+; p_battlemap_orchard_essos_6|Orchard
+; p_battlemap_orchard_essos_7|Orchard
+; p_battlemap_ruined_fort_1|Ruined Fort
+; p_battlemap_ruined_fort_2|Ruined Fort
+; p_battlemap_ruined_fort_3|Ruined Fort
+; p_battlemap_ruined_fort_4|Ruined Fort
+; p_battlemap_rhoynar_ruins_1|Rhoynar Ruins
+; p_battlemap_rhoynar_ruins_2|Rhoynar Ruins
+; p_battlemap_rhoynar_ruins_3|Rhoynar Ruins
+; p_battlemap_poleboat_1|Greenblood Rafts
+; p_battlemap_poleboat_2|Greenblood Rafts
+; p_battlemap_poleboat_3|Greenblood Rafts
+; p_battlemap_old_mill_1|Old Mill
+; p_battlemap_old_mill_2|Old Mill
+; p_battlemap_old_mill_3|Old Mill
+; p_battlemap_old_mill_4|Old Mill
+; p_battlemap_old_mill_5|Old Mill
+; p_battlemap_old_mill_6|Old Mill
+; p_battlemap_old_mill_7|Old Mill
+; p_battlemap_old_mill_8|Old Mill
+; p_battlemap_old_mill_9|Old Mill
+; p_battlemap_forest_bog_1|Forest Bog
+; p_battlemap_forest_bog_2|Forest Bog
+; p_battlemap_forest_bog_3|Forest Bog
+; p_battlemap_forest_bog_4|Forest Bog
+; p_battlemap_forest_bog_5|Forest Bog
+; p_battlemap_forest_bog_6|Forest Bog
+; p_battlemap_forest_bog_7|Forest Bog
+; p_battlemap_forest_bog_8|Forest Bog
+; p_battlemap_forest_bog_9|Forest Bog
+; p_battlemap_forest_bog_10|Forest Bog
+; p_battlemap_forest_bog_11|Forest Bog
+; p_battlemap_forest_bog_12|Forest Bog
+; p_battlemap_forest_bog_13|Forest Bog
+; p_battlemap_forest_bog_14|Forest Bog
+; p_battlemap_abandoned_village_1|Abandoned Village
+; p_battlemap_abandoned_village_2|Abandoned Village
+; p_battlemap_abandoned_village_3|Abandoned Village
+; p_battlemap_abandoned_village_4|Abandoned Village
+; p_battlemap_abandoned_village_5|Abandoned Village
+; p_battlemap_abandoned_village_6|Abandoned Village
+; p_battlemap_dothraki_sea_1|Abandoned Camp
+; p_battlemap_dothraki_sea_2|Abandoned Camp
+; p_battlemap_dothraki_sea_3|Abandoned Camp
+; p_battlemap_dothraki_sea_4|Abandoned Camp
+; p_battlemap_dothraki_sea_5|Abandoned Camp
+; p_battlemap_dothraki_sea_6|Abandoned Camp
+; p_battlemap_dothraki_sea_7|Abandoned Camp
+; p_battlemap_dothraki_sea_8|Abandoned Camp
 p_rodgars_hut|Cabaña de Rodgar
 p_relic_septry|Septo
+; p_citadel_septry|Septry
+; p_citadel_holdings|Holdfast
+; p_citadel_barrow|Barrow
+; p_renly_quest_shore|The Beach
+; p_renly_quest_rainwood|The Rainwood
 p_isle_of_faces|Isla de los Rostros
 p_saltpans_isles|Isla Tranquila
 p_summerhall|Ruinas de Refugio Estival
@@ -387,6 +557,7 @@ p_tower_of_joy|Torre de la Alegría
 p_naggas_hill|Colina de Nagga
 p_harrentown|Los Restos de Harrentown
 p_bloodstone|Piedrasangre
+; p_bloodstone_haunt|Pirate Haunt
 p_illyrios_manse|Mansión de Illyrio
 p_donation_septry|Septo
 p_castle_black|Castillo Negro
@@ -410,21 +581,13 @@ p_wall_tunnel|Túnel
 p_water_gardens|Los Jardínes del Agua
 p_nightfort|El Fuerte de la Noche
 p_ninestars_1|Nuevestrellas
-p_sellsword_camp_bright_banners|Los Banderas Luminosas
-p_sellsword_camp_iron_shields|Los Escudos de Hierro
-p_sellsword_camp_gallant_men|Los Hombres Galantes
-p_sellsword_camp_maidens_men|Los Hombres de la Doncella
-p_sellsword_camp_ragged_standard|Los Estandartes Andrajosos
-p_sellsword_camp_long_lances|Las Lanzas Largas
-p_sellsword_camp_company_of_the_cat|La Compañía del Gato
-p_sellsword_camp_windblown|Los Hijos del Viento
 p_looter_spawn_point|reaparición de saqueadores
-p_steppe_bandit_spawn_point|las estepas
-p_taiga_bandit_spawn_point|la tundra
+; p_steppe_bandit_spawn_point|dothraki spawnpoint
+; p_taiga_bandit_spawn_point|wildling spawnpoint
 p_forest_bandit_spawn_point|bosques
 p_mountain_bandit_spawn_point|tierras altas
-p_sea_raider_spawn_point_1|la costa
-p_sea_raider_spawn_point_2|la costa
+; p_sea_raider_spawn_point_1|ironborn spawnpoint
+; p_sea_raider_spawn_point_2|ironborn spawnpoint
 p_ship_raider_spawn_point_1|reaparición de piratas
 p_slaver_bandit_spawn_point|reaparición de esclavistas
 p_escaped_slaves_spawn_point|reaparición de esclavos
@@ -436,4 +599,4 @@ p_elite_raiders_spawn_point|reaparición de salteadores elite
 p_elite_wildlings_spawn_point|reaparición de salvajes de elite
 p_elite_dothraki_spawn_point|reaparición de dothraki de elite
 p_crannogmen|lacustres
-p_desert_bandit_spawn_point|los desiertos
+; p_desert_bandit_spawn_point|sandoutlaw spawnpoint
