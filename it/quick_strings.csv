@@ -254,7 +254,7 @@ qstr_a_steppe_child|un bambino delle steppe
 qstr_a_street_urchin|un teppista di strada
 qstr_a_shop_assistant|un assistente in un negozio.
 qstr_a_craftsman_s_appren|un apprendista di un artigiano
-qstr_a_page_at_a_nobleman|come paggio alla corte di un nobile
+qstr_a_page_at_a_nobleman|un paggio alla corte di un nobile
 qstr_a_game_poacher|un bracconiere
 qstr_a_smith|un fabbro
 qstr_a_goods_peddler|un venditore ambulante
@@ -2625,7 +2625,7 @@ qstr_The_people_of_The_We|Le persone di Weeping Tower sono rimaste impressionate
 ; qstr_Lord_Elwood_Meadows_|Lord Elwood Meadows has renounced his allegiance to The Reach, and joined Dragonstone
 ; qstr_Lord_Alester_Florent|Lord Alester Florent has renounced his allegiance to The Reach, and joined Dragonstone
 ; qstr_Ser_Jon_Fossoway_has|Ser Jon Fossoway has renounced his allegiance to The Reach, and joined Dragonstone
-; qstr_{s4}_has_been_awarded|{s4} has been awarded to {s5} of {s7}.
+qstr_{s4}_has_been_awarded|{s4} è stato assegnato a {s5} di {s7}.
 ; qstr_You_stepped_out_of_t|You stepped out of the way, avoiding the branch.
 ; qstr_The_branch_hits_you_|The branch hits you in the head.
 ; qstr_You_regained_your_ba|You regained your balance.

@@ -106,12 +106,12 @@ itm_book_surgery_reference|Sur la Citadelle et la Chirurgie
 itm_book_surgery_reference_pl|Sur la Citadelle et la chirurgie
 itm_book_trade_ledger|Grand livre des Marchands 
 itm_book_trade_ledger_pl|Grands Livres des marchands
-; itm_trade_spice|Jar of Spices
-; itm_trade_spice_pl|Jar of Spices
-; itm_trade_salt|Bag of Salt
-; itm_trade_salt_pl|Bag of Salt
-; itm_trade_oil|Jar of Oil
-; itm_trade_oil_pl|Jar of Oil
+itm_trade_spice|Jarre d'épices
+itm_trade_spice_pl|Jarre d'épices
+itm_trade_salt|Sac de sel 
+itm_trade_salt_pl|Sac de sel
+itm_trade_oil|Jarre d'huile 
+itm_trade_oil_pl|Jarre d'huile
 itm_trade_pottery|poterie
 itm_trade_pottery_pl|poterie
 itm_trade_raw_flax|Lot de lin
@@ -124,10 +124,10 @@ itm_trade_wool_cloth|Etoffe de laine
 itm_trade_wool_cloth_pl|Etoffe de laine
 itm_trade_raw_silk|Soie grège
 itm_trade_raw_silk_pl|Soie grège
-; itm_trade_raw_dyes|Bowl of Dyes
-; itm_trade_raw_dyes_pl|Bowl of Dyes
-; itm_trade_velvet|Velvet Bundle
-; itm_trade_velvet_pl|Velvet Bundle
+itm_trade_raw_dyes|Bol de teintures
+itm_trade_raw_dyes_pl|Bol de teintures
+itm_trade_velvet|Paquet de velour
+itm_trade_velvet_pl|Paquet de velour
 ; itm_trade_iron|Iron Bar
 ; itm_trade_iron_pl|Iron Bar
 itm_trade_tools|outils

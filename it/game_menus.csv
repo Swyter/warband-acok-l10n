@@ -1,6 +1,6 @@
-menu_start_game_options|Mentre passeggi per le strade della tua città natale ti giunge la notizia che Re Robert è stato incornato a morte da un cinghiale. Il pescivendolo dice che Eddard Stark, Primo Cavaliere del Re, tento di usurpare il trono, ma venne fermato dai suoi consiglieri e Re Joffrey prese il posto del padre.\nTuttavia, pochi giorni dopo, uno stanco viaggiatore arriva con più notizie. Dopo l'arresto di Lord Stark, i signori del nord si preparano per una marcia verso sud per sconfiggere i Lannister e liberare il loro sovrano.\nLord Stark, cogliendo impreparato l'esercito di Jaime, impegnato nell'assedio di Delta delle Acque, prende prigioniero lo Sterminatore di Re.\nBisogna prendere una decisone rapida, decidi di partire portando con te solo l'essenziale e vendendo quelle poche cose inutili, di poco valore, al locandiere. Finalmente avverti il controllo del tuo destino, grandi imprese ti attendono.
+menu_start_game_options|Mentre passeggi per le strade della tua città natale ti giunge la notizia che Re Robert è stato incornato a morte da un cinghiale. Il pescivendolo dice che Eddard Stark, Primo Cavaliere del Re, tentò di usurpare il trono, ma venne fermato dai suoi consiglieri e Re Joffrey prese il posto del padre.\nTuttavia, pochi giorni dopo, uno stanco viaggiatore arriva con più notizie. Dopo l'arresto di Eddad Stark, i signori del Nord si preparano per una marcia verso sud per sconfiggere i Lannister e liberare il loro sovrano.\nLord Robb Stark, cogliendo impreparato l'esercito di Jaime, impegnato nell'assedio di Delta delle Acque, prende prigioniero lo Sterminatore di Re.\nBisogna prendere una decisine rapida, decidi di partire portando con te solo l'essenziale e vendendo quelle poche cose inutili, di poco valore, al locandiere. Finalmente avverti il controllo del tuo destino, grandi imprese ti attendono.
 mno_choose_options|Continua...
-; mno_start_mod|Quick Character (for mod testing)
+mno_start_mod|Quick Character (per testare mod)
 mno_go_back|Indietro
 mno_continue|Continua...
 menu_start_game_3|Scegli lo scenario:
@@ -288,7 +288,7 @@ menu_isle_of_faces|Sei arrivato a Isle of Faces.
 menu_rodgars_hut|Sei arrivato a Rodgars Hut.
 menu_naggas_hill|Sei arrivato a Nagga's Hill.
 menu_tower_of_joy|Sei arrivato alla Torre di Joy.
-; menu_bloodstone|You arrive at Bloodstone, the former stronghold of the long forgotten Kingdom of the Stepstones and the Narrow Sea.
+menu_bloodstone|Giungi a Bloodstone, l'antica roccaforte del dimenticato Regno delle Stepstones e del Narrow Sea.
 menu_harrentown|Sei arrivato alle rovine di Harrentown.
 menu_illyrios_manse|Sei arrivato alla canonica di Illyrio Mopatis.
 menu_water_gardens|Sei arrivato a Water Gardens.
@@ -298,8 +298,8 @@ menu_water_gardens|Sei arrivato a Water Gardens.
 ; menu_special_room_renly_quest_pitch|The Pitch Market in Gulltown is named for the many merchants peddling the substance they derive from the trees scattered across the Vale. While a plethora of other merchants also sell their items in the Pitch Market, it has always been known as the main market for the substance, going as far back as before the Andals invaded. Pitch is used for caulking ships, and the royal fleet have had a long standing contract with the merchants of Gulltown, providing pitch at a reduced rate, in return for protection when the merchant caravans sail through the Stepstones.
 ; menu_special_room_painted_table|The Chamber of the Painted Table, located on the top floor of the Stone Drum in Dragonstone, is a large room, with old pillars of valyrian masonry, made before the Doom. The chamber holds a large table, carved and painted in the form of a detailed map of Westeros. Here, Aegon the Conqueror planned his invasion of Westeros along with his sisters, Visenya and Rhaenys.
 ; menu_special_room_coppersmiths_wynd|Coppersmith's Wynd is a street going through one of the moderately wealthy parts of King's Landing. The street originally housed the Guild of Coppersmiths, but they have long ago disappeared and visitors can now find a plethora of bookshops, spice dealers, scribes, goldsmiths and minor noble houses on the street.
-; mno_enter1|Visit Malkos Bookstore.
-; mno_enter2|Visit Malkos Bookstore.
+mno_enter1|Visita Malkos Bookstore.
+mno_enter2|Visita Malkos Bookstore.
 ; menu_special_room_iron_throne_room|The Great Hall is the throne room of the king of the Seven Kingdoms. The Iron Throne sits on a raised iron dais with high and narrow steps. A long carpet stretches from the throne to the Hall's great oak-and-bronze doors. The Hall itself is cavernous, and can sit a thousand people. It is oriented north to south, with high, narrow windows on the eastern and western walls. Skulls of the Targaryen dragons once adorned the walls, but Robert Baratheon had them taken down at the beginning of his reign.
 ; menu_special_room_citadel|The Citadel is where the maesters convene, study, and train new members, and it is also the residence of the archmaesters. The Seneschal's Court is a great hall with stone floors and high, arched, windows. It's where the maesters convene with laymen, where acolytes gather and where the Gatekeeper controls access to the Seneschal, who is tasked with the government of the Citadel. The Archives, another section of the Citadel, contains the greatest collection of books, scrolls and ledgers in the known world, and is where many maesters spend decades of their life writing and compiling new works of knowledge.
 ; mno_enter_citadel_1|Visit the Seneschal's Court.
@@ -357,7 +357,7 @@ menu_castle_black|Sei arrivato a Castello Nero, la roccaforte dei Guardiani dell
 ; menu_battlemap_orchard_essos|Essos contains thousands of villages, but in between these lie leagues and leagues of farmland and orchards. The peasants and slaves of the continent toil their lives away, working for magisters and merchant-princes they'll never meet, and always looking over the horizon for signs of the dothraki hordes.
 ; menu_battlemap_ruined_fort|Across Essos lies many abandoned forts, remnants of valyrian traders and explorers, who sought to control the continent. Before the Doom, thousands of towns and forts where spread across the land, but many where abandoned when the dothraki came out of the east.
 ; menu_battlemap_rhoynar_ruins|The rhoynar where a culture of river-faring people who dwelt on the banks of the immense river running through Essos, the Rhoyne. When the rhoynar came into contact with the city of Volantis, they fought many wars against them, and in the end Volantis sent to Valyria for aid. The valyrian lords came on their dragons in their hundreds, and burned the rhoynish armies. Afterwards, they descended on the great cities of the rhoynar and burned those too, leaving nothing but ruins.
-; menu_nightfort|You arrive at the Nightfort.
+menu_nightfort|Giungi a Nightfort.
 menu_castle_black2|Sei arrivato a Castello Nero.
 menu_castle_black3|Sei arrivato a Castello Nero.
 menu_castle_black4|Sei arrivato a Castello Nero.
@@ -447,7 +447,7 @@ menu_castle_attack_walls_with_allies_simulate|{s4}^^Le tue perdite: {s8}^^Le per
 menu_castle_taken_by_friends|Niente da vedere qui.
 menu_castle_taken|{s3} è stato conquistato dalle tue truppe, ed ora tu hai il pieno controllo {reg2?della città:del castello}. Il bottino derivato dal saccheggio è di {reg3} denari. {reg1? Puoi posizionare delle truppe qui per difenderti contro i nemici che potrebbero provare a riconquistare. Inoltre, devi scegliere adesso se vuoi tenere {reg2?la città:il castello} per te stesso o darlo ad un vassallo fedele...:}
 mno_dplmc_spoils_yourself|Saccheggiala e tieni il bottino tutto per te.
-; mno_dplmc_spoils_accompanying_vassals|Plunder it and share the spoils between the vassals accompanying you and yourself.
+mno_dplmc_spoils_accompanying_vassals|Saccheggialo e condividi il bottino tra i vassalli che ti hanno accompagnato e te stesso.
 mno_dplmc_spoils_all_vassals|Saccheggiala e condividi il bottino equamente tra tuoi vassalli e te stesso.
 menu_castle_taken_2|{s3} è stato conquistato dalle tue truppe, ed ora tu hai il pieno controllo del castello. È tempo di dare notizia a {s9} della tua vittoria. {s5}
 mno_castle_taken_claim|Chiedi che {s3} ti venga assegnato.
@@ -821,7 +821,7 @@ menu_notification_player_kingdom_holds_feast|{s11}
 menu_notification_center_under_siege|{s1} è assediato da {s2} di {s3}!
 menu_notification_village_raided|Nemici hanno saccheggiato un tuo feudo^^{s1} è stato depredato da {s2} del {s3}!
 menu_notification_village_raid_started|Un tuo villaggio è sotto attacco!^^{s2} del {s3} sta saccheggiando {s1}.
-menu_notification_one_faction_left|Calradia è stata conquistata da un unico regno^^{s1} ha sconfitto tutti i rivali e rimane il solo regno.
+menu_notification_one_faction_left|Wetseros è stato conquistata da un unico regno^^{s1} ha sconfitto tutti i rivali e rimane il solo regno.
 menu_notification_oath_renounced_faction_defeated|La tua vecchia fazione è stata sconfitta^^Hai vinto la battaglia contro {s1}! Questo pone fine alla tua lotta cominciata quando rinunciasti al tuo giuramento di fedeltà...
 menu_notification_center_lost|Una proprietà è stata persa^^Hai perso {s1} al {s2}.
 menu_notification_troop_left_players_faction|Tradimento!^^{s1}ha lasciato il {s2} e si è unito al {s3}.

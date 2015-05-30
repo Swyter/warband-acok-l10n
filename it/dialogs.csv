@@ -44,7 +44,7 @@ dlga_start:fighter_combat_try_again.1|Hey, è stato uno scontro valido. Mi avete
 dlga_start:fighter_talk.2|Molto bene. Avete imparato come attaccare da qualunque direzione vogliate. Se lo desiderate possiamo provare di nuovo o passare ad un altro esercizio.
 dlga_start:archer_challenge_2|Non male. Non male veramente! Sembra che abbiate afferrato le basi del tiro con l'arco. Ora, provate a fare lo stesso con la balestra. Prendete la balestra e i dardi là sopra e colpite quei tre bersagli. La balestra è molto facile da usare rispetto all'arco, ma richiede più tempo per essere ricaricata.
 dlga_start:archer_challenge_2.1|Bene. Non avete avuto difficoltà nemmeno usando la balestra. Adesso imparerete ad usare le armi da lancio. Raccogliete i giavellotti che vedete laggiù e provate a colpire quei tre bersagli.
-dlga_start:ranged_end|Bene, con questo avete ricevuto le istruzioni di base per usare tutte e tre le armi a distanza. Il resto verrà con la pratica. Allenatevi ogni giorno, e col tempo potreste superare i tiratori di tutta Calradia.
+dlga_start:ranged_end|Bene, con questo avete ricevuto le istruzioni di base per usare tutte e tre le armi a distanza. Il resto verrà con la pratica. Allenatevi ogni giorno, e col tempo potreste superare i tiratori di tutta Westeros.
 dlga_ranged_end:close_window|Ora potete andare a parlare con i combattenti di mischia o con il maestro dei cavalieri, se non l'avete già fatto. Anche loro possono farvi migliorare su alcune importanti abilità.
 dlga_start:archer_talk|Buongiorno, giovane. Trascorro il mio tempo ad insegnare tutto sulle armi da tiro a chiunque voglia imparare. Se avete bisogno di un tutore, fatemelo sapere e v'insegnerò come usare l'arco, la balestra e il giavelotto.
 dlga_archer_talk:archer_challenge|Si, mostratemi come usare le armi da lancio.
@@ -667,14 +667,14 @@ dlga_dplmc_constable_recruit:dplmc_constable_pretalk|Abbiamo bisogno del tesoro 
 dlga_dplmc_constable_recruit:dplmc_constable_pretalk.1|Hai gia raggiunto la quantità massima di {reg0?4:2} Reclutatori in quest{reg0?a città:o castello}.
 dlga_dplmc_constable_recruit:dplmc_constable_recruit_select|Se lo desiderate, invierò qualcuno a visitare i villaggi per reclutare la popolazione da unire alle vostre forze. Dopo aver raccolto la quantità che avrete ordinato il reclutatore tornerebbe in quest{reg0?a città:o castello} e aggiungerebbe le reclute alla guarnigione. C'è un limite per i reclutatori simultanei, 2 per i castelli e 4 per le città. Che tipo di reclute desiderate arruolare?
 dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_amount|{s11}.
-; dlga_dplmc_constable_recruit_amount:dplmc_constable_recruit_amount_select|You have to pay 50 coins for each recruit and 100 coins for the recruiter. I will take the money from the treasury. How many recruits are you willing to pay for?
+dlga_dplmc_constable_recruit_amount:dplmc_constable_recruit_amount_select|Dovrai pagare 50 monete per ogni recluta e 100 monete per il reclutatore. Prenderò il denaro dalla tesoreria. Per quante reclute avete intenzione di pagare?
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask|5.
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.1|10.
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.2|20.
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.3|30.
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.4|40.
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.5|50.
-; dlga_dplmc_constable_recruit_confirm_ask:dplmc_constable_recruit_confirm|Do you really want to recruit {s6} {s11} soldiers?
+dlga_dplmc_constable_recruit_confirm_ask:dplmc_constable_recruit_confirm|Volete davvero reclutare {s6} soldati {s11}?
 dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk|Sì.
 dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk.1|No.
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_pretalk|Nessuno.
@@ -1874,7 +1874,7 @@ dlga_lord_tell_objective:lord_pretalk.4|Stiamo reclutando nuovi soldati da {s1}.
 dlga_lord_tell_objective:lord_pretalk.5|Stiamo osservando il nemico nei pressi di {s1}. {s14}{s15}
 dlga_lord_tell_objective:lord_pretalk.6|Stiamo Razziando il villaggio di {s1}. {s14}{s15}
 dlga_lord_tell_objective:lord_pretalk.7|Ci stiamo ritirando a {s1}. {s14}{s15}
-; dlga_lord_tell_objective:lord_pretalk.8|We are besieging {s1}.
+dlga_lord_tell_objective:lord_pretalk.8|Stiamo assediando {s1}.
 dlga_lord_tell_objective:lord_pretalk.9|Stiamo combattendo contro {s1}. {s14}{s15}
 dlga_lord_tell_objective:lord_pretalk.10|Sto controllando l'avanzata di {s1}. {s14}{s15}
 dlga_lord_tell_objective:lord_pretalk.11|Stiamo accompagnando {s1}. {s14}{s15}
@@ -2194,7 +2194,7 @@ dlga_lord_leave:close_window.3|Sì, sì. Arrivederci.
 dlga_lord_leave:close_window.4|C'incontreremo ancora.
 dlga_member_chat:lady_journey_1|Vi state godendo il viaggio, {s65}?
 dlga_lady_journey_1:close_window|Sta andando abbastanza bene, {playername}. Grazie per l'interessamento.
-; dlga_start:spouse_talk|Yes?
+dlga_start:spouse_talk|Si?
 dlga_spouse_talk:minister_issues|Poichè siete il mio primo ministro, desidero parlare di affari di stato.
 dlga_spouse_talk:spouse_cancel_political_quest|Abbandoniamo il nostro piano di {s10}.
 dlga_spouse_cancel_political_quest:spouse_cancel_political_quest_confirm|Siete sicuro di non voler dar corso a quest'idea?
@@ -2337,8 +2337,8 @@ dlga_lady_talk:lady_tournament_dedication_reaction|{reg65?Mia signora:Mio signor
 dlga_lady_tournament_dedication_reaction:lady_pretalk|{s9}
 dlga_lady_profess_admiration:close_window|{s11} Sarei molto felice se potessimo incontrarci nuovamente.
 dlga_lady_profess_admiration:lady_pretalk|Ah... Siete troppo gentile... Peccato, si è fatto piuttosto tardi, non è vero? Devo proprio andare.
-; dlga_lady_talk:lady_recite_poetry|Do you like music, my {reg65?lady:lord}?
-; dlga_lady_recite_poetry:lady_recite_poetry|That would depend on the song. Did you intend to recite a verse?
+dlga_lady_talk:lady_recite_poetry|Vi piace la musica, {reg65?mia signora:mio signore}?
+dlga_lady_recite_poetry:lady_recite_poetry|Dipende dalla canzone. Intendete recitarmi dei versi?
 dlga_lady_recite_poetry:lady_recite_poetry_response|'E tu chi sei,disse il signore orgoglioso,'
 dlga_lady_recite_poetry:lady_recite_poetry_response.1|'C'era un orso, Un orso, UN ORSO!'
 dlga_lady_recite_poetry:lady_recite_poetry_response.2|Voi siete il primo e l'ultimo/l'esterno e l'interno...
@@ -2890,7 +2890,7 @@ dlga_choose_custom_location:close_window.1|{s1}
 dlga_start:minstrel_1|Salute a voi, {nobile signore/nobile signora}.
 dlga_minstrel_1:minstrel_job_description|Che cosa fate?
 dlga_minstrel_1:minstrel_courtship_questions|Ho qualche domanda sul corteggiamento.
-; dlga_minstrel_1:minstrel_courtship_poem|Can you teach me any songs?
+dlga_minstrel_1:minstrel_courtship_poem|Potete insegnarmi qualche canzone?
 ; dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach|I can teach you the song, 'The Storming of the Castle of Love.' It is short enough to be easily learned. It is an allegoric poem, replete with symbols and metaphor. It describes how a brave prince from the Stormlands wins the heart of his lady by learning the virtues of chivalry, becoming a true and noble knight. Its theme -- that the role of a woman is to inspire but also civilize a man -- is appreciated by some noble ladies, but not all.
 ; dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.1|I can teach you the song, 'The Maidens Desire.' It is a lyrical poem, which can be interpreted either erotically or spiritually. The lover realizes the majesty of the Seven by gazing upon the body of his beloved. I believe that it appeals to women of a certain romantic temperament, but you risk scandalizing or boring others.
 ; dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.2|I can teach you the tragic ballad of the Rains of Castamere. It's a fairly recent song, commisioned by Lord Tywin Lannister after his victory over the rebellious lords Reyne and Tarbeck. They denounced their allegiance to the old Lord Paramount of the Westerlands, Tytos Lannister, but his son and heir Ser Tywin soon had them regretting their pride.
@@ -3789,7 +3789,7 @@ dlga_pj_wildfire_talk:morcant_creditos.3|Posso saperne di più su di voi?
 ; dlga_morcant_creditos:close_window.3|Ah, {playername}, there is much and more to know, but none left to tell my story. Egg is long gone...
 dlga_pj_wildfire_talk:close_window.9|Non importa.
 ; dlga_start:wildfire_talk.15|Yes? Who are you?
-; dlga_wildfire_talk:wildfire_talk2.14|Maester Aemon sent me, with news from Castle Black.
+dlga_wildfire_talk:wildfire_talk2.14|Maestro Aemon mi ha inviato, con delle notizie dal Castello Nero.
 ; dlga_wildfire_talk2:wildfire_talk3.17|Well, out with it then. I'm not some pampered knight, I feel no need to waste time with idle yammering.
 ; dlga_wildfire_talk3:wildfire_talk4.13|The wildlings are approaching the wall. We stopped them in Mole Town.
 ; dlga_wildfire_talk4:wildfire_talk5.13|Well then, I guess we're saved for another day, eh? I don't see why Aemon couldn't send a raven with these news. Why are you here? Ah, I see. He wants me to send my men to Castle Black, to defend it against the attack? Just because that fool, Bowen Marsh, had to gallavant off to defend against an obvious diversion! Fine! Tell Aemon I'll send as many men as I can spare, I'll even send Emmett with them. The lads worth three experienced rangers.
@@ -3984,7 +3984,7 @@ dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.8|Posso avere l'o
 dlga_wildfire_talk5:close_window.14|Addio.
 ; dlga_wildfire_talk6:wildfire_talk7.25|You'll need to deal with the outlaws yourself, you'll never be able to surprise them by lumbering around with half an army.
 ; dlga_wildfire_talk7:close_window.30|Very well, I will take care of the outlaws.
-; dlga_wildfire_talk7:close_window.31|I am not interested.
+dlga_wildfire_talk7:close_window.31|Non sono interessato.
 ; dlga_wildfire_talk:close_window.21|Farewell.
 ; dlga_start:close_window.168|Yes?
 dlga_start:pj_wildfire_talk.18|Sì, {playername}?
