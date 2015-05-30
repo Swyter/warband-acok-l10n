@@ -1,0 +1,186 @@
+qst_deliver_message|Doruč zprávu {s13}
+qst_deliver_message_to_enemy_lord|Doruč zprávu {s13}
+qst_raise_troops|Vicvyč {reg1} {s14}
+qst_escort_lady|Doprovoď {s13} do {s14}
+qst_deal_with_bandits_at_lords_village|Zachraň vesnici {s15} před bandity
+qst_collect_taxes|Vyber daně z {s3}
+qst_hunt_down_fugitive|Zabij {s4}
+qst_kill_local_merchant|Zabij místního obchodníka v {s3}
+qst_bring_back_runaway_serfs|Přiveď zpět uprchlé rolníky
+qst_follow_spy|Následuj zvěda na dohodnuté místo
+qst_capture_enemy_hero|Zajmi lorda z {s13}
+qst_lend_companion|Propůjč svého společníka {s3} {s9} 
+qst_collect_debt|Vyber dluh {s3} patřící {s9}
+qst_incriminate_loyal_commander|Obviň věrného velitele z {s13}, {s16}
+qst_meet_spy_in_enemy_town|Sejdi se se zvědem v {s13}
+qst_capture_prisoners|Přiveď {reg1} {s3} věznů
+qst_deliver_love_letter|Dones zprávu {s13}
+qst_lend_surgeon|Propůjč svého chirurga {s3} {s1}
+qst_follow_army|Následuj armádu {s9}
+qst_report_to_army|Hlas se maršálovy {s13}
+qst_deliver_cattle_to_army|Přiveď {reg3} kusů dobytka {s13}
+qst_join_siege_with_army|Přidej se k obléhání {s14}
+qst_screen_army|Zálohy armády {s13}
+qst_scout_waypoints|Prozkoumej {s13}, {s14} a {s15}
+qst_rescue_lord_by_replace|Osvoboď {s13} z {s14}
+qst_deliver_message_to_prisoner_lord|Dones zprávu {s13} v {s14}
+qst_duel_for_lady|Vyzvat {s13} na rozsouzení boje.
+qst_duel_courtship_rival|Vyzvat {s13} na rozsouzení boje (dobrovolné).
+qst_duel_avenge_insult|Vyzvat {s13} na rozsouzení boje.
+qst_move_cattle_herd|Přesuň stádo do {s13}
+qst_escort_merchant_caravan|Doprovoď karavanu do {s8}
+qst_deliver_wine|Doruč {reg5} jednotek {s6} do {s4}
+qst_troublesome_bandits|Zabij problémové bandity
+qst_kidnapped_girl|Osvoboď dívku ze zajetí banditů
+qst_persuade_lords_to_make_peace|Zajisti, aby se dva lordi přestali stavět proti mírové dohodě
+qst_deal_with_looters|Vypořádej se se zloději
+qst_deal_with_night_bandits|Vypořádej se s nočními bandity
+qst_cheese_rustlers|Zabij zloděje obilí
+qst_cheese_rustlers_text|{s9} z {s4} tě požádal, aby jsi zabil zloděje obílí v okolí města.
+qst_cheese_paladins|Zabij zloděje vína.
+qst_cheese_paladins_text|{s9} z {s4} tě požádal, aby jsi zabil zloděje vína v okolí města.
+qst_bar_brawl|Vyčisti město
+qst_bar_brawl_text|{s9} z {s4} tě požádal, aby jsi se vypořádat s opilci v hospodě.
+qst_deliver_grain|Přines obilí do {s3}
+qst_deliver_cattle|Doruč {reg5} kusů dobytka do {s3}
+qst_train_peasants_against_bandits|Vycvič sedláky {s13} proti banditům
+qst_escort_scholars|Doprovoď šlechtice do {s8}
+qst_escort_scholars_text|Doprovoď šlechtice do města {s8}.
+qst_hunt_down_smugglers|Zabij pašeráky
+qst_hunt_down_smugglers_text|{s9} tě požádal, aby ses vypořádal s pašeráky. Tvrdí, že všechny skupiny cestují směrem na {s3}.
+qst_hunt_down_girl|Zabij {s4}
+qst_hunt_down_girl_text|{s9} tě požádal, aby jsi zabil dívku jménem {s4}. Měla by být v {s3}.
+qst_deliver_lumber|Přines dříví do {s3}
+qst_deliver_lumber_text|Stařešina vesnice {s3} tě požádal, abys jim přinesl {reg5} fůr dříví.
+qst_kidnapped_wife|Osvoboď ženu od banditů.
+qst_kidnapped_wife_text|Vesnický stařešina {s4} tě žádá o zaplacení výkupného jedné z farmářských žen. Bandity potkáš poblíž {s3} a zaplatíš jim výkupné. Potom dívku přivedeš zpět do vesnice {s4}.
+qst_eliminate_bandits_infesting_village|Zachraň vesnici {s7} před bandity
+qst_visit_lady|Navštiv paní
+qst_formal_marriage_proposal|Oficiální nabídka manželství
+qst_obtain_liege_blessing|Oficiální nabídka manželství
+qst_wed_betrothed|Vezmi si svou snoubenku
+qst_wed_betrothed_female|Vezmi si svého snoubence
+qst_join_faction|Složit přísahu cti {s1}
+qst_rebel_against_kingdom|Pomoz {s13} získat trůn {s14}.
+qst_consult_with_minister|Poraď se s ministrem
+qst_organize_feast|Uspořádej hostinu
+qst_resolve_dispute|Vyřešit spor
+qst_offer_gift|Obstarej dar
+qst_denounce_lord|Vypovědět lorda
+qst_intrigue_against_lord|Intrikovat proti lordu
+qst_track_down_bandits|Vystopuj bandity
+qst_track_down_provocateurs|Vystopovat provokatéry
+qst_retaliate_for_border_incident|Odveta za pohraniční incident
+qst_raid_caravan_to_start_war|Zaútoč na karavanu pro vyprovokování války
+qst_cause_provocation|Vyprovokovat království k útoku na jiné
+qst_rescue_prisoner|Osvoboď vězně
+qst_destroy_bandit_lair|Znič doupě banditů
+qst_beowulf_quest|Roh a grimoár: Část 1
+qst_beowulf_quest1|Roh a grimoár: Část 2
+qst_beowulf_quest2|Roh a grimoár: Část 3
+qst_beowulf_quest3|Roh a grimoár: Část 4
+qst_beowulf_quest4|Roh a grimoár: Část 5
+qst_beowulf_quest5|Roh a grimoár: Část 6
+qst_beowulf_quest6|Roh a grimoár: Část 7
+qst_relic_quest|Požehnaný prsten: Část 1
+qst_relic_quest1|Požehnaný prsten: Část 2
+qst_ramsay_quest|Bastard Boltnů: Část 1
+qst_ramsay_quest1|Bastard Boltnů: Část 2
+qst_ramsay_quest2|Bastard Boltnů: Část 3
+qst_tyrion_quest|Slyš můj řev: Část 1
+qst_tyrion_quest1|Slyš můj řev: Část 2
+qst_starting_quest_1_1|Nový začátek: Část 1
+qst_starting_quest_1_2|Nový začátek: Část 2
+qst_starting_quest_1_3|Cesta k Devíti hvězdám: Část 1
+qst_starting_quest_1_4|Cesta k Devíti hvězdám: Část 2
+qst_starting_quest_1_5|Cesta k Devíti hvězdám: Část 3
+qst_starting_quest_1_6|Rozsouzení bojem: Část 1
+qst_starting_quest_1_7|Rozsouzení bojem: Část 2
+qst_terror_quest_starter|Hrůza v mohyle: Část 1
+qst_renly_quest_1|Korunovaný jelen: Část 1
+qst_renly_quest_2|Korunovaný jelen: Část 2
+qst_renly_quest_3|Korunovaný jelen: Část 3
+qst_renly_quest_4|Korunovaný jelen: Část 4
+qst_renly_quest_5|Korunovaný jelen: Část 5
+qst_starting_quest_citadel|Rytíři mysli: Část 1
+qst_citadel_quest_1|Ztracené znalosti: Část 1
+qst_citadel_quest_2|Ztracené znalosti: Část 2
+qst_citadel_quest_3|Ztracené znalosti: Část 3
+qst_citadel_quest_4|Ztracené znalosti: Část 4
+qst_citadel_quest_5|Ztracené znalosti: Část 5
+qst_quaithe_quest|Noční pevnost: Část 1
+qst_quaithe_quest1|Noční pevnost: Část 2
+qst_quaithe_quest2|Noční pevnost: Část 3
+qst_quaithe_quest3|Noční pevnost: Část 4
+qst_quaithe_quest4|Noční pevnost: Část 5
+qst_return_to_illyrio|Pán síra: Část 1
+qst_return_to_illyrio2|Pán síra: Část 2
+qst_gueren_quest|Noční hlídka: Část 1
+qst_gueren_quest1|Noční hlídka: Část 2
+qst_odin_cave_quest|Ztracená karavana: Část 1
+qst_odin_cave_quest1|Ztracená karavana: Část 2
+qst_barrow_quest|Hrobky Andalů: Část 1
+qst_barrow_quest1|Hrobky Andalů: Část 2
+qst_terror_quest|Hrůza v mohyle: Část 2
+qst_terror_quest1|Hrůza v mohyle: Část 3
+qst_nw_main_quest_first_quest|Krev na sněhu: Část 1
+qst_nw_main_quest_first_quest1|Krev na sněhu: Část 2
+qst_nw_main_quest_second_quest|Drsná řeč: Část 1
+qst_nw_main_quest_second_quest1|Drsná řeč: Část 2
+qst_nw_main_quest_third_quest|Most kostí: Část 1
+qst_nw_main_quest_third_quest1|Most kostí: Část 2
+qst_nw_main_quest_third_quest2|Most kostí: Část 3
+qst_nw_main_quest_fourth_quest|Blížící se bouře: Část 1
+qst_nw_main_quest_fifth_quest|Bitva o Černý hrad: Část 1
+qst_nw_main_quest_fifth_quest2|Bitva o Černý hrad: Část 2
+qst_nw_main_quest_fifth_quest1|Bitva o Černý hrad: Část 3
+qst_aegon_targaryen_quest|Poloviční mistr: Část 1
+qst_aegon_targaryen_quest1|Poloviční mistr: Část 2
+qst_dragonseed_quest|Potomci draků: Část 1
+qst_dragonseed_quest1|Potomci draků: Část 2
+qst_wildfire_quest|Noční stín: Část 1
+qst_wildfire_quest1|Noční stín: Část 2
+qst_wildfire_quest2|Noční stín: Část 3
+qst_wildfire_quest3|Noční stín: Část 4
+qst_wildfire_quest4|Noční stín: Část 5
+qst_wildfire_quest5|Noční stín: Část 6
+qst_wildfire_quest6|Noční stín: Část 7
+qst_stepstone_quest|Rytíři, písemnosti a draci: Část 1
+qst_stepstone_quest1|Rytíři, písemnosti a draci: Část 2
+qst_stepstone_quest2|Rytíři, písemnosti a draci: Část 3
+qst_stepstone_quest3|Rytíři, písemnosti a draci: Část 4
+qst_stepstone_quest4|Rytíři, písemnosti a draci: Část 5
+qst_stepstone_quest5|Rytíři, písemnosti a draci: Část 6
+qst_stepstone_quest6|Rytíři, písemnosti a draci: Část 7
+qst_clansman_quest|Klacky a kamení: Část 1
+qst_clansman_quest1|Klacky a kamení: Část 2
+qst_clansman_quest2|Klacky a kamení: Část 3
+qst_clansman_quest3|Klacky a kamení: Část 4
+qst_clansman_quest4|Klacky a kamení: Část 5
+qst_clansman_quest5|Klacky a kamení: Část 6
+qst_clansman_quest6|Klacky a kamení: Část 7
+qst_varys_quest|Přítel za mořem: Část 1
+qst_varys_quest1|Přítel za mořem: Část 2
+qst_varys_quest2|Přítel za mořem: Část 3
+qst_varys_quest3|Přítel za mořem: Část 4
+qst_varys_quest4|Přítel za mořem: Část 5
+qst_varys_quest5|Přítel za mořem: Část 6
+qst_varys_quest6|Oheň a krev: Část 1
+qst_varys_quest7|Oheň a krev: Část 2
+qst_collect_men|Sežeň pět mužů
+qst_learn_where_merchant_brother_is|Zjistit kde jsou drženi rukojmí.
+qst_save_relative_of_merchant|Zaútoč na doupě banditů
+qst_save_town_from_bandits|Zachraň město před bandity
+qst_deal_with_forest_bandit|Vypořádej se s vůdcem lesních banditů
+qst_deal_with_taiga_bandit|Vypořádej se s vůdcem banditů z taigy
+qst_deal_with_steppe_bandit|Vypořádej se s vůdcem stepních banditů
+qst_deal_with_sea_raider|Vypořádej se s vůdcem mořských nájezdníků
+qst_deal_with_mountain_bandit|Vypořádej se s vůdcem horských banditů
+qst_deal_with_desert_bandit|Vypořádej se s vůdcem poštních banditů
+qst_freelancer_enlisted|Narukovat do družiny {s13}
+qst_freelancer_vacation|Narukovat: Na odchodu
+qst_freelancer_captured|Narukovat: Zajat
+qst_freelancer_revolt|Narukovat: Vzbouřen
+qst_freelancer_end|Konec úkolu Svobodných mečů
+qst_floris_active_tournament|Zúčastnit se turnaje v {s13}
+qst_quests_end|Konec úkolu

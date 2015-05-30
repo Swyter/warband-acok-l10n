@@ -1,0 +1,84 @@
+skl_trade|Obchodník
+skl_trade_desc|Každý bod této dovednosti snižuje postih při obchodu o 5%%. (Skupinová dovednost)
+skl_leadership|Velení
+skl_leadership_desc|Každý bod zvyšuje maximální počet jednotek, kterým můžeš velet o 8, zvyšuje morálku družiny a snižuje žold o 5%%. (Velitelská dovednost)
+skl_prisoner_management|Vězeňská správa
+skl_prisoner_management_desc|Každý bod této dovednosti zvyšuje maximální počet vězňů o %d. (Velitelská dovednost)
+skl_reserved_1|Rezervovaná dovednost 1
+skl_reserved_1_desc|Rezervovaná dovednost.
+skl_reserved_2|Rezervovaná dovednost 2
+skl_reserved_2_desc|Rezervovaná dovednost.
+skl_reserved_3|Rezervovaná dovednost 3
+skl_reserved_3_desc|Rezervovaná dovednost.
+skl_reserved_4|Rezervovaná dovednost 4
+skl_reserved_4_desc|Rezervovaná dovednost.
+skl_persuasion|Přesvědčování
+skl_persuasion_desc|Tato dovednost ti pomáhá přesvědčit ostatní, aby přijali tvůj pohled na věc. Také snižuje minimální hodnotu vztahu potřebnou, aby udělali, oč je žádáš. (Osobní dovednost)
+skl_engineer|Inženýrství
+skl_engineer_desc|Tato dovednost ti umožňuje budovat obléhací stroje a budovy ve Tvých lénech efektivněji. (Skupinová dovednost)
+skl_first_aid|První pomoc
+skl_first_aid_desc|Vyléčí hrdinům 5%% životů ztracených během boje za každý bod dovednosti. (Skupinová dovednost)
+skl_surgery|Chirurgie
+skl_surgery_desc|Každý bod této dovednosti přidává 4%% šance, že smrtelně zraněný voják bude pouze zraněn, nikoliv zabit. (Skupinová dovednost)
+skl_wound_treatment|Ranhojičství
+skl_wound_treatment_desc|Zvyšuje rychlost léčení skupiny o 20%% za každý bod dovednosti. (Skupinová dovednost)
+skl_inventory_management|Správa inventáře
+skl_inventory_management_desc|Zvyšuje kapacitu inventáře o +6 za každý bod dovednosti. (Velitelská dovednost)
+skl_spotting|Průzkum
+skl_spotting_desc|Dohledová vzdálenost družiny je zvýšena o 10%% za každý bod dovednosti. (Skupinová dovednost)
+skl_pathfinding|Hledání cest
+skl_pathfinding_desc|Rychlost pohybu družiny je zvýšena o 3%% za každý bod dovednosti. (Skupinová dovednost)
+skl_tactics|Taktika
+skl_tactics_desc|Každé dva body dovednosti zvyšují počáteční výhodu v bitvě o 1. (Skupinová dovednost)
+skl_tracking|Stopování
+skl_tracking_desc|Stopy budou více informativní a přesné. (Skupinová dovednost)
+skl_trainer|Cvičitel
+skl_trainer_desc|Každý hrdina s touto dovedností přidá každý den zkušenosti všem ostatním členům družiny, jejichž úroveň je nižší. Předaná zkušenost činí: {0,4,10,16,23,30,38,46,55,65,80}. (Osobní dovednost)
+skl_reserved_5|Rezervovaná dovednost 5
+skl_reserved_5_desc|Rezervovaná dovednost.
+skl_reserved_6|Rezervovaná dovednost 6
+skl_reserved_6_desc|Rezervovaná dovednost.
+skl_reserved_7|Rezervovaná dovednost 7
+skl_reserved_7_desc|Rezervovaná dovednost.
+skl_foraging|Shánění jídla
+skl_foraging_desc|Umožňuje družině sehnat 5 jednotek jídla za každý bod dovednosti (tábory, obléhání, nájezdy) a zvyšuje rozsah hledání potravy. Maximální úroveň: 10. (Skupinová dovednost)
+skl_looting|Rabování
+skl_looting_desc|Tato dovednost zvyšuje získanou kořist o 10%% za každý bod. (Skupinová dovednost)
+skl_horse_archery|Jízdní lukostřelba
+skl_horse_archery_desc|Snižuje postih zranění a přesnosti pro střelbu a vrh z koňského sedla. (Osobní dovednost)
+skl_riding|Jezdectví
+skl_riding_desc|Umožňuje Ti osedlat náročnější koně a zvyšuje Tvou jezdeckou rychlost a obratnost. (Osobní dovednost)
+skl_athletics|Atletika
+skl_athletics_desc|Zvyšuje Tvou běžeckou rychlost a snižuje šanci, že upadneš. (Osobní dovednost)
+skl_shield|Štít
+skl_shield_desc|Snižuje poškození Tvého štítu (8%% za každý bod) a zvyšuje rychlost a schopnost krytí. (Osobní dovednost)
+skl_weapon_master|Mistr zbraní
+skl_weapon_master_desc|Usnadňuje učení se zacházení se zbraněmi a zvyšuje limit jejich dovedností. Limity jsou: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Osobní dovednost)
+skl_reserved_9|Rezervovaná dovednost 9
+skl_reserved_9_desc|Rezervovaná dovednost.
+skl_reserved_10|Rezervovaná dovednost 10
+skl_reserved_10_desc|Rezervovaná dovednost.
+skl_reserved_11|Rezervovaná dovednost 11
+skl_reserved_11_desc|Rezervovaná dovednost.
+skl_reserved_12|Rezervovaná dovednost 12
+skl_reserved_12_desc|Rezervovaná dovednost.
+skl_reserved_13|Rezervovaná dovednost 13
+skl_reserved_13_desc|Rezervovaná dovednost.
+skl_power_draw|Lukostřelba
+skl_power_draw_desc|Umožňuje Ti používat silnější loky a kuše. Každý bod (až do 4 + požadavek luku) zvyšuje působené zranění o 14%%. (Osobní dovednost)
+skl_power_throw|Vrhání
+skl_power_throw_desc|Každý bod zvyšuje zranění vržených zbraní o 10%%. (Osobní dovednost)
+skl_power_strike|Síla úderu
+skl_power_strike_desc|Každý bod zvyšuje působené zranění v boji zblízka o 8%%. (Osobní dovednost)
+skl_ironflesh|Železná kůže
+skl_ironflesh_desc|Každý bod zvyšuje množství životů o +2. (Osobní dovednost)
+skl_reserved_14|Rezervovaná dovednost 14
+skl_reserved_14_desc|Rezervovaná dovednost.
+skl_reserved_15|Rezervovaná dovednost 15
+skl_reserved_15_desc|Rezervovaná dovednost.
+skl_reserved_16|Rezervovaná dovednost 16
+skl_reserved_16_desc|Rezervovaná dovednost.
+skl_reserved_17|Rezervovaná dovednost 17
+skl_reserved_17_desc|Rezervovaná dovednost.
+skl_reserved_18|Rezervovaná dovednost 18
+skl_reserved_18_desc|Rezervovaná dovednost.
