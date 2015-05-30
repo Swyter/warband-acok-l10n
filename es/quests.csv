@@ -75,13 +75,13 @@ qst_raid_caravan_to_start_war|Atacad caravanas neutrales para provocar la guerra
 qst_cause_provocation|Organizad una provocación contra un Reino para que ataque a otro
 qst_rescue_prisoner|Rescata o libera un prisionero
 qst_destroy_bandit_lair|Destruid la guarida de los bandidos
-; qst_beowulf_quest|The Horn and the Grimoire: Part 1
-; qst_beowulf_quest1|The Horn and the Grimoire: Part 2
-; qst_beowulf_quest2|The Horn and the Grimoire: Part 3
-; qst_beowulf_quest3|The Horn and the Grimoire: Part 4
-; qst_beowulf_quest4|The Horn and the Grimoire: Part 5
-; qst_beowulf_quest5|The Horn and the Grimoire: Part 6
-; qst_beowulf_quest6|The Horn and the Grimoire: Part 7
+qst_beowulf_quest|El Cuerno y el Grimorio: Parte 1
+qst_beowulf_quest1|El Cuerno y el Grimorio: Parte 2
+qst_beowulf_quest2|El Cuerno y el Grimorio: Parte 3
+qst_beowulf_quest3|El Cuerno y el Grimorio: Parte 4
+qst_beowulf_quest4|El Cuerno y el Grimorio: Parte 5
+qst_beowulf_quest5|El Cuerno y el Grimorio: Parte 6
+qst_beowulf_quest6|El Cuerno y el Grimorio: Parte 7
 qst_relic_quest|El Anillo Sagrado: Parte 1
 qst_relic_quest1|El Anillo Sagrado: Parte 2
 qst_ramsay_quest|El Bastardo de Bolton: Parte 1
@@ -97,17 +97,17 @@ qst_starting_quest_1_5|El torneo en Nuevestrellas: Parte 3
 qst_starting_quest_1_6|Juicio por Combate: Parte 1
 qst_starting_quest_1_7|Juicio por Combate: Parte 1
 qst_terror_quest_starter|Terror en Hito: Parte 1
-; qst_renly_quest_1|The Crowned Stag: Part 1
-; qst_renly_quest_2|The Crowned Stag: Part 2
-; qst_renly_quest_3|The Crowned Stag: Part 3
-; qst_renly_quest_4|The Crowned Stag: Part 4
-; qst_renly_quest_5|The Crowned Stag: Part 5
-; qst_starting_quest_citadel|The Knights of the Mind: Part 1
-; qst_citadel_quest_1|Lost Knowledge: Part 1
-; qst_citadel_quest_2|Lost Knowledge: Part 2
-; qst_citadel_quest_3|Lost Knowledge: Part 3
-; qst_citadel_quest_4|Lost Knowledge: Part 4
-; qst_citadel_quest_5|Lost Knowledge: Part 5
+qst_renly_quest_1|El Ciervo Coronado: Parte 1
+qst_renly_quest_2|El Ciervo Coronado: Parte 2
+qst_renly_quest_3|El Ciervo Coronado: Parte 3
+qst_renly_quest_4|El Ciervo Coronado: Parte 4
+qst_renly_quest_5|El Ciervo Coronado: Parte 5
+qst_starting_quest_citadel|Los Caballeros de la Mente: Parte 1
+qst_citadel_quest_1|Conocimiento Perdido: Parte 1
+qst_citadel_quest_2|Conocimiento Perdido: Parte 2
+qst_citadel_quest_3|Conocimiento Perdido: Parte 3
+qst_citadel_quest_4|Conocimiento Perdido: Parte 4
+qst_citadel_quest_5|Conocimiento Perdido: Parte 5
 qst_quaithe_quest|El Fuerte de la Noche: Parte 1
 qst_quaithe_quest1|El Fuerte de la Noche: Parte 2
 qst_quaithe_quest2|El Fuerte de la Noche: Parte 3
@@ -145,13 +145,13 @@ qst_wildfire_quest3|Sombras en la Noche: Parte 4
 qst_wildfire_quest4|Sombras en la Noche: Parte 5
 qst_wildfire_quest5|Sombras en la Noche: Parte 6
 qst_wildfire_quest6|Sombras en la noche: Parte 7
-; qst_stepstone_quest|Knights, Letters and Dragons: Part 1
-; qst_stepstone_quest1|Knights, Letters and Dragons: Part 2
-; qst_stepstone_quest2|Knights, Letters and Dragons: Part 3
-; qst_stepstone_quest3|Knights, Letters and Dragons: Part 4
-; qst_stepstone_quest4|Knights, Letters and Dragons: Part 5
-; qst_stepstone_quest5|Knights, Letters and Dragons: Part 6
-; qst_stepstone_quest6|Knights, Letters and Dragons: Part 7
+qst_stepstone_quest|Caballeros, Cartas y Dragones: Parte 1
+qst_stepstone_quest1|Caballeros, Cartas y Dragones: Parte 2
+qst_stepstone_quest2|Caballeros, Cartas y Dragones: Parte 3
+qst_stepstone_quest3|Caballeros, Cartas y Dragones: Parte 4
+qst_stepstone_quest4|Caballeros, Cartas y Dragones: Parte 5
+qst_stepstone_quest5|Caballeros, Cartas y Dragones: Parte 6
+qst_stepstone_quest6|Caballeros, Cartas y Dragones: Parte 7
 qst_clansman_quest|Palos y Piedras: Parte 1
 qst_clansman_quest1|Palos y Piedras: Parte 2
 qst_clansman_quest2|Palos y Piedras: Parte 3

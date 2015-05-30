@@ -32,7 +32,7 @@ skl_tactics|Tattica
 skl_tactics_desc|Ogni due punti di questa abilità incrementano il vantaggio iniziale in battaglia di 1. (Abilità di Gruppo)
 skl_tracking|Seguire Tracce
 skl_tracking_desc|Le orme sul terreno forniscono più informazioni. (Abilità di Gruppo)
-skl_trainer|Addestratori
+skl_trainer|Addestratore
 skl_trainer_desc|Ogni giorno, tutti gli eroi con questa abilità trasmettono esperienza ai membri della Compagnia di livello inferiore. L'esperienza guadagnata ha questa progressione: {0,4,10,16,23,30,38,46,55,65,80}. (Abilità Personale)
 skl_reserved_5|Abilità riservata 5
 skl_reserved_5_desc|Questa è un'abilità riservata.

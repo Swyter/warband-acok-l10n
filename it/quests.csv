@@ -145,13 +145,13 @@ qst_wildfire_quest3|Ombre nella notte: Parte 4
 qst_wildfire_quest4|Ombre nella notte: Parte 5
 qst_wildfire_quest5|Ombre nella notte: Parte 6
 qst_wildfire_quest6|Ombre nella notte: Parte 7
-; qst_stepstone_quest|Knights, Letters and Dragons: Part 1
-; qst_stepstone_quest1|Knights, Letters and Dragons: Part 2
-; qst_stepstone_quest2|Knights, Letters and Dragons: Part 3
-; qst_stepstone_quest3|Knights, Letters and Dragons: Part 4
-; qst_stepstone_quest4|Knights, Letters and Dragons: Part 5
-; qst_stepstone_quest5|Knights, Letters and Dragons: Part 6
-; qst_stepstone_quest6|Knights, Letters and Dragons: Part 7
+qst_stepstone_quest|Cavalieri, Lettere e Draghi: Parte 1
+qst_stepstone_quest1|Cavalieri, Lettere e Draghi: Parte 2
+qst_stepstone_quest2|Cavalieri, Lettere e Draghi: Parte 3
+qst_stepstone_quest3|Cavalieri, Lettere e Draghi: Parte 4
+qst_stepstone_quest4|Cavalieri, Lettere e Draghi: Parte 5
+qst_stepstone_quest5|Cavalieri, Lettere e Draghi: Parte 6
+qst_stepstone_quest6|Cavalieri, Lettere e Draghi: Parte 7
 qst_clansman_quest|Bastoni e Pietre: Parte 1
 qst_clansman_quest1|Bastoni e Pietre: Parte 2
 qst_clansman_quest2|Bastoni e Pietre: Parte 3

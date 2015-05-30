@@ -1,7 +1,7 @@
 skl_trade|Commerce
 skl_trade_desc|Chaque niveau reduit les prix de 5%%. (Compétences communes)
 skl_leadership|Commandemant
-; skl_leadership_desc|Every point increases maximum number of troops you can command by 8, increases your party morale and reduces troop wages by 5%%. (Leader skill)
+skl_leadership_desc|Chaque point augmente le nombre maximal de troupes que vous pouvez commander par 8, augmente le moral des troupes et réduit le salaires des troupes de 5 %%.(compétence de dirigeant)
 skl_prisoner_management|Gestion des prisonniers
 skl_prisoner_management_desc|Chaque niveau augment le nombre maximum de prisonnier %d. (Compétences dirigeant)
 skl_reserved_1|Compétence réservé 1
@@ -49,7 +49,7 @@ skl_horse_archery_desc|Reduit les penalites de dommages et de precisions pour l'
 skl_riding|Equitation
 skl_riding_desc|Permet de monter des chevaux plus difficiles et augmente la vitesse et la maniabilite de ceux-ci. (Compétences personnelles)
 skl_athletics|Forme physique
-; skl_athletics_desc|Improves your running speed and decreases the chance you'll stumble. (Personal skill)
+skl_athletics_desc|Améliore votre vitesse de course et diminue la chance que vous trébuchiez. (Compétence personnelle)
 skl_shield|Bouclier
 skl_shield_desc|Reduit les dommages aux boucliers de 8%% par niveau et augmente la couverture et la vitesse de ceux-ci. (Compétences personnelles)
 skl_weapon_master|Maitre d'armes

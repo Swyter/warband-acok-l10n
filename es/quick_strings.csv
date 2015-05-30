@@ -258,7 +258,7 @@ qstr_a_page_at_a_nobleman|un page en la corte de un noble
 qstr_a_game_poacher|un cazador furtivo
 qstr_a_smith|un herrero
 qstr_a_goods_peddler|un vendedor ambulante
-qstr_a_university_student|un estudiante de universidad
+qstr_a_university_student|un estudiante de La Ciudadela
 qstr_a_troubadour|un trovador
 qstr_a_squire|un escudero
 qstr_a_lady_in_waiting|una dama casadera
@@ -2526,114 +2526,114 @@ qstr_One_of_the_constable|Uno de los guardias de {s3} os regala una pequeña bol
 qstr_A_distant_cousin_of_|El primo lejano del señor de {s3} os recompensa con una pequeña bolsa de plata.
 qstr_The_ruler_of_{s3}_gift_you_a_h|El comercienta jefe de {s3} os regala una pesada bolsa de plata, como recompensa por su valiente victoria en la refriega.
 qstr_The_people_of_The_We|Los habitantes de Atalaya Llorosa son debidamente impresionados.
-; qstr_The_merchant_gave_you_|The merchant gave you a heavy bag of silver, enough to start your own career as a sellsword, merchant or outlaw, or begin the long and arduous journey towards lordship. You can strike out on your own, or search the town for people who might have need of your services. Talk to septon Garibald in the castle hall of The Weeping Tower to learn more.
-; qstr_A_sturdy_shield_usua|A sturdy shield, usually used by the Unsullied.
-; qstr_Perhaps_the_time_has|Perhaps the time has come to teach the dornish a lesson.
-; qstr_The_townspeople_of_t|The townspeople of the Weeping Town are duly grateful.
-; qstr_Perhaps_the_time_has_|Perhaps the time has come to teach the dornish another lesson.
-; qstr_What_to_do_with_all_|What to do with all the extra limbs though.
-; qstr_They_re_as_bad_as_th|They're as bad as the dornish!
-; qstr_But_who_won?!|But who won?!
-; qstr_As_long_as_no_one_pr|As long as no one pranks me.
-; qstr_Nothing_is_better_th|Nothing is better than the smell of newly plowed fields.
-; qstr_Nothing_better_than_|Nothing better than a new loaf.
-; qstr_But_why_do_they_eat_|But why do they eat them? Surely they where the avatars of the Seven!
-; qstr_That_elephant_surely|That elephant surely did not like the water.
-; qstr_Some_of_the_smallfol|Some of the smallfolk are duly impressed, but those knights and lords who worship the Seven less so.
-; qstr_The_people_of_the_We|The people of the Weeping Town are duly impressed.
-; qstr_The_merchant_gave_you_a|The merchant gave you a heavy bag of silver, enough to start your own career as a sellsword, merchant or outlaw, or begin the long and arduous journey towards lordship. You can strike out on your own, or search the town for people who might have need of your services. Talk to septon Garibald in the castle hall of the Weeping Town to learn more.
-; qstr_You_receive_Illyrios|You receive Illyrios letter.
-; qstr_Talk_to_Skahaz_mo_Ka|Talk to Skahaz mo Kandaq.
-; qstr_Skahaz_mo_Kandaq_tas|Skahaz mo Kandaq tasked you with clearing the haunt of pirates on Bloodstone.
-; qstr_Find_and_defeat_the_|Find and defeat the pirates.
-; qstr_You_have_beaten_the_p|You have beaten the pirates!
-; qstr_Seek_out_Korales_Ker|Seek out Korales Kermanthes in Myr.
-; qstr_Perhaps_someone_in_My|Perhaps someone in Myr will reward you for dispatching the pirates.
-; qstr_Magister_Illyrio_has_|Magister Illyrio has asked you to deliver a message to his friend Rugen. You can probably find him in the Black Cells of the Red Keep.
-; qstr_Bring_the_chest_back|Bring the chest back to Magister Illyrio.
-; qstr_Return_to_Rugen_in_t|Return to Rugen in the Black Cells of the Red Keep.
-; qstr_Find_Rugen_in_the_ta|Find Rugen in the tavern.
-; qstr_Rugen_reads_the_lett|Rugen reads the letter.
-; qstr_Travel_to_the_Thirst|Travel to the Thirsty Goat in Sunspear.
-; qstr_Rugen_hands_you_a_se|Rugen hands you a sealed letter.
-; qstr_You_hand_the_letter_to_|You hand the letter to Septon Allard, who proceeds to read it.
-; qstr_Septon_Allard_hands_|Septon Allard hands you a sealed letter.
-; qstr_Talk_to_Maester_Cale|Talk to Maester Caleotte, who should be at court, in Sunspear.
-; qstr_You_hand_the_letter_to_M|You hand the letter to Maester Caleotte, who proceeds to read it.
-; qstr_Perhaps_someone_in_T|Perhaps someone in Tyrosh will reward you for dispatching the pirates.
-; qstr_You_have_beaten_the_o|You have beaten the outlaws.
-; qstr_You_have_slain_the_o|You have slain the outlaws. Over in the corner, you spot an old helmet, covered in dust and cobwebs.
-; qstr_The_outlaws_lies_dea|The outlaws lies dead at your feet. The band must have held Haldon captive! Search for Haldon in the ruined houses.
-; qstr_A_mill_increases_vill|A mill increases village prosperity by 20%.
-; qstr_A_school_increases_t|A school increases the loyality of the villagers to you by +7 every month.
-; qstr_A_Training_Yard|A Training Yard
-; qstr_A_training_yard_help|A training yard helps to train better troops.
-; qstr_The_cook_served_roast|The cook served roasted goat on a bed of sliced onions, washed down with pale green volantene liquor. It was delicious!
-; qstr__{s1}_and_his_compan| {s1} and his company has been hired by {playername} to fight for {s2}.
-; qstr_{s1}_and_his_company|{s1} and his company has been hired by {playername} to fight for {s2}.
-; qstr__You_have_also_impro| You have also improved your relations with the villagers.
-; qstr__Alas_you_don_t_improve| Alas, you don't improve your relations with the villagers.
-; qstr_You_ve_finished_workin|You've finished working for the village, and have exhausted yourself, but you've gained {reg1} experience and you've received {s1}. {s2}
-; qstr_You_keep_working_in_|You keep working in the fields...
-; qstr_Your_strenuous_field|Your strenuous field work ends.
-; qstr__bard| bard
-; qstr_You_ve_been_carried_o|You've been carried off as prisoner. You stop your work.
-; qstr__You_have_also_improv| You have also improved your relation with the villagers.
-; qstr__Alas_you_don_t_improve_| Alas, you don't improve your relation with the villagers.
-; qstr_Escort_the_nobles_to|Escort the nobles to the town of {s8}.
-; qstr_Go_to_the_Pass_of_Hug|Go to the Pass of Hugor Hill, close to Wildelight, and deal with any outlaws you find.
-; qstr_Septon_Garibald_aske|Septon Garibald asked you to deliver a letter to archmaester Harodon at the Citadel in Oldtown.
-; qstr_Added_money_for_your|Added money for your old horse
-; qstr_Septon_Garibald_hand|Septon Garibald hands you the letter he wants you to deliver to archmaester Harodon.
-; qstr_A_great_tome_contain|A great tome containing the names of all those who have donated towards the development of A Clash of Kings.^A quick search yields the names:^ James Gunderson, Robb Frisch,^Craig Robinson
-; qstr_James_Gunderson^Robb|James Gunderson^Robb Frisch^Craig Robinson
-; qstr_Septon_Garibald_told_|Septon Garibald told you of a farmer in need of help. You can find him in the tavern of The Weeping Town.
-; qstr_Ser_Clifford_Gower_th|Ser Clifford Gower, the captain of the guards, needs someone to deliver a letter. You can find him in the castle hall of The Weeping Town.
-; qstr_Archmaester_Harodon_|Archmaester Harodon told you to visit Coppersmith's Wynd in King's Landing and talk to Malko.
-; qstr_Visit_the_Sept_in_th|Visit the Sept in the north-western part of the Vale.
-; qstr_Visit_the_Septry_in_|Visit the Septry in the north-western part of the Vale.
-; qstr_Visit_the_holdings_o|Visit the holdings of Ser Elston, to the east of the septry.
-; qstr_Ser_Elston_told_you_|Ser Elston told you maester Cadwyn changed after visiting the nearby barrow. Perhaps you can find the book there.
-; qstr_Archmaester_Castos_t|Archmaester Castos told you to visit Coppersmith's Wynd in King's Landing and talk to Malko.
-; qstr_Rugen_hands_you_the_|Rugen hands you the letter
-; qstr_Ser_Arwood_Frey_claime|Ser Arwood Frey claimed Vargo Hoat stole the horn. Last you heard, he was serving the Lannisters, and should be back at Harrenhal. But if the Starks have taken the castle, it seems unlikely that he's still there. You should bring at least 50 men with you, Vargo Hoat is known to be unpredictable.
-; qstr_As_you_take_the_horn_|As you take the horn, you notice something scribbled on it. You can only make out the words 'YGG... GREY KING... TREE'.
-; qstr_Visit_Ser_Myles_at_C|Visit Ser Myles at Coldwater Burn.
-; qstr_Samol_has_tasked_you_wi|Samol has tasked you with finding his horn and book. Visit Rodgar in the North.
-; qstr_You_ve_found_the_horn|You've found the horn and the book. Return to Samol and claim your reward.
-; qstr_You_have_defeated_the|You have defeated the crazed cultist.
-; qstr_Return_to_Malko.|Return to Malko.
-; qstr_Visit_the_red_priest|Visit the red priestess, Melisandre. You can find her lighting fires on the shores of the island of Dragonstone.
-; qstr_Talk_to_Ser_Davos_Se|Talk to Ser Davos Seaworth.
-; qstr_Ser_Davos_proposed_a|Ser Davos proposed a plan where you start a fire in the Rainwood, the wood close to Storm's End. Once that is done, his eldest son Dale will ferry Melisandre into the watery passage beneath Storm's End. You'll need 20 vases of Oil to set the Rainwood on fire.
-; qstr_Ser_Davos_proposed_a_|Ser Davos proposed a plan where you start a fire in the Rainwood, the wood close to Storm's End. Once that is done, his eldest son Dale will ferry Melisandre into the watery passage beneath Storm's End. You'll need 1 Jar of Oil, 1 Flax Bundle, 1 Bag of Raw Wool and 1 Linen Bundle to set the Rainwood on fire.
-; qstr_Return_to_King_Stann|Return to King Stannis Baratheon.
-; qstr_Await_the_results_of|Await the results of Melisandres mission to Storm's End.
-; qstr_{s1}_is_the_new_King|{s1} is the new King of the {s2}!!!
-; qstr_Ser_Davos_proposed_a_p|Ser Davos proposed a plan where you start a fire in the Rainwood, the wood close to Storm's End. Once that is done, his eldest son Dale will ferry Melisandre into the watery passage beneath Storm's End while the defenders attention are elsewhere. You'll need 1 Jar of Oil and 1 Barrel of Pitch to set the Rainwood on fire. Barrels of Pitch can be bought in Gulltown.
-; qstr_Lord_Sebastion_Errol|Lord Sebastion Errol has renounced his allegiance to The Stormlands, and joined Dragonstone
-; qstr_Lord_Ralph_Buckler_h|Lord Ralph Buckler has renounced his allegiance to The Stormlands, and joined Dragonstone
-; qstr_Lord_Hugh_Grandison_|Lord Hugh Grandison has renounced his allegiance to The Stormlands, and joined Dragonstone
-; qstr_Lord_Philip_Fell_has|Lord Philip Fell has renounced his allegiance to The Stormlands, and joined Dragonstone
-; qstr_Ser_Ronnet_Conningto|Ser Ronnet Connington has renounced his allegiance to The Stormlands, and joined Dragonstone
-; qstr_Lord_Eldon_Estermont|Lord Eldon Estermont has renounced his allegiance to The Stormlands, and joined Dragonstone
-; qstr_Ser_Donnel_Swann_has|Ser Donnel Swann has renounced his allegiance to The Stormlands, and joined Dragonstone
-; qstr_Lord_Gulian_Swann_ha|Lord Gulian Swann has renounced his allegiance to The Stormlands, and joined Dragonstone
-; qstr_Return_to_Stannis_Ba|Return to Stannis Baratheon.
-; qstr_Lord_Martyn_Mullendo|Lord Martyn Mullendore has renounced his allegiance to The Reach, and joined Dragonstone
-; qstr_Ser_Bryan_Fossoway_h|Ser Bryan Fossoway has renounced his allegiance to The Reach, and joined Dragonstone
-; qstr_Lord_Elwood_Meadows_|Lord Elwood Meadows has renounced his allegiance to The Reach, and joined Dragonstone
-; qstr_Lord_Alester_Florent|Lord Alester Florent has renounced his allegiance to The Reach, and joined Dragonstone
-; qstr_Ser_Jon_Fossoway_has|Ser Jon Fossoway has renounced his allegiance to The Reach, and joined Dragonstone
-; qstr_{s4}_has_been_awarded|{s4} has been awarded to {s5} of {s7}.
-; qstr_You_stepped_out_of_t|You stepped out of the way, avoiding the branch.
-; qstr_The_branch_hits_you_|The branch hits you in the head.
-; qstr_You_regained_your_ba|You regained your balance.
-; qstr_You_fall_over_into_t|You fall over, into the puddle.
-; qstr_You_fall_over_and_hu|You fall over, and hurt your head.
-; qstr_You_avoided_the_stag|You avoided the stag.
-; qstr_You_got_hit_by_the_s|You got hit by the stag.
-; qstr_Ser_Davos_proposed_a_pl|Ser Davos proposed a plan where you start a fire in the Rainwood, the wood close to Storm's End. Once that is done, his eldest son Dale will ferry Melisandre into the watery passage beneath Storm's End while the defenders attention are elsewhere. You'll need 1 Jar of Oil and 10 Barrels of Pitch to set the Rainwood on fire. Barrels of Pitch can be bought in Gulltown.
-; qstr_James_Gunderson^Crai|James Gunderson^Craig Robinson^D3500^Burnout888^Bioshokarr^Comrade135^Ben Cook^Dorin21
-; qstr_When_you_give_him_ar|When you give him armor and food, he suddenly appear as a mighty warrior.
-; qstr_King_Tywin_Lannister|King Tywin Lannister
+qstr_The_merchant_gave_you_|El comerciante le dio una pesada bolsa de plata, lo suficiente como para comenzar su propia carrera como mercenario, comerciante o forajido, e iniciar el largo y arduo camino hacia la nobleza. Puede actuar por su cuenta, o buscar en alguna aldea a personas que podrían necesitar de sus servicios. Habla con el Septon Garibald en el salón del castillo de Atalaya Llorosa para saber más.
+qstr_A_sturdy_shield_usua|Un escudo robusto, normalmente utilizado por los Inmaculados.
+qstr_Perhaps_the_time_has|Tal vez ha llegado el momento de enseñar al dorniense una lección..
+qstr_The_townspeople_of_t|La gente del pueblo de Atalaya Llorosa están agradecidos.
+qstr_Perhaps_the_time_has_|Tal vez ha llegado el momento de enseñar al dorniense otra lección.
+qstr_What_to_do_with_all_|¿Qué hacer con los miembros adicionales?
+qstr_They_re_as_bad_as_th|¡Son tan malos como el dorniense!
+qstr_But_who_won?!|Pero, ¡¿quién ganó?!
+qstr_As_long_as_no_one_pr|Mientras nadie se mofe de mí.
+qstr_Nothing_is_better_th|Nada es mejor que el olor de los campos recién arados.
+qstr_Nothing_better_than_|Nada es mejor que una hogaza de pan recién hecho.
+qstr_But_why_do_they_eat_|Pero ¿por qué es lo que comen ellos? ¡Seguramente fueron los avatares de los Siete!
+qstr_That_elephant_surely|A ese elefante seguramente no le gustaba el agua.
+qstr_Some_of_the_smallfol|Una parte del pueblo llano está impresionado, pero esos caballeros y señores que adoran a los Siete lo están menos.
+qstr_The_people_of_the_We|Los habitantes de Atalaya Llorosa están bastante impresionados.
+qstr_The_merchant_gave_you_a|El comerciante le dio una pesada bolsa de plata, lo suficiente como para comenzar su propia carrera como mercenario, comerciante o forajido, e iniciar el largo y arduo camino hacia la nobleza. Puede actuar por su cuenta, o buscar en alguna aldea a personas que podrían necesitar de sus servicios. Habla con el Septon Garibald en el salón del castillo de Atalaya Llorosa para saber más.
+qstr_You_receive_Illyrios|Recibiste una carte de Illyrio.
+qstr_Talk_to_Skahaz_mo_Ka|Hable con Skahaz mo Kandaq.
+qstr_Skahaz_mo_Kandaq_tas|Skahaz mo Kandaq te encarga despejar la guarida de los piratas en Piedra Sangrienta.
+qstr_Find_and_defeat_the_|Encuentra y acaba con los piratas.
+qstr_You_have_beaten_the_p|¡Has vencido a los piratas!
+qstr_Seek_out_Korales_Ker|Buscar a Korales Kermanthes en Myr.
+qstr_Perhaps_someone_in_My|Tal vez alguien en Myr te recompensará por despachar a los piratas.
+qstr_Magister_Illyrio_has_|El Magíster Illyrio os ha pedido que entreguéis un mensaje a su amigo Rugen. Probablemente podréis encontrarlo en las Celdas Negras de la Fortaleza Roja.
+qstr_Bring_the_chest_back|Traer de regreso el cofre al Magíster Illyrio.
+qstr_Return_to_Rugen_in_t|Regresar a Rugen a las Celdas Negras de la Fortaleza Roja.
+qstr_Find_Rugen_in_the_ta|Encontrad a Rugen en la taberna.
+qstr_Rugen_reads_the_lett|Rugen lee la carta.
+qstr_Travel_to_the_Thirst|Viajar a la Cabra Sedienta en Lanza del Sol.
+qstr_Rugen_hands_you_a_se|Rugen os entrega una carta sellada.
+qstr_You_hand_the_letter_to_|Entregáis la carta al Septón Allard, quien comienza a leerla.
+qstr_Septon_Allard_hands_|Septón Allard os entrega una carta sellada.
+qstr_Talk_to_Maester_Cale|Hablad con el Maestre Caleotte, que debería encontrarse en su corte, en Lanza del Sol.
+qstr_You_hand_the_letter_to_M|Entregáis la carta al Maestre Caleotte, quien comienza a leerla.
+qstr_Perhaps_someone_in_T|Tal vez alguien en Myr te recompensará por despachar a los piratas.
+qstr_You_have_beaten_the_o|¡Has vencido a los forajidos!
+qstr_You_have_slain_the_o|Habéis dado muerte a los forajidos. En un rincón oscuro, distinguís un yelmo antiguo, cubierto de polvo y telarañas.
+qstr_The_outlaws_lies_dea|Los forajidos yacen muertos a vuestros pies. ¡La banda ha debido tener capturado a Haldon! Buscadle entre las ruinas.
+qstr_A_mill_increases_vill|Un molino incrementa la prosperidad de la aldea en un 20%.
+qstr_A_school_increases_t|Una escuela incrementa la lealtad de los campesinos +7 por mes.
+qstr_A_Training_Yard|Un Campo de Entrenamiento.
+qstr_A_training_yard_help|Los campos de entrenamiento ayudan a entrenar mejores tropas.
+qstr_The_cook_served_roast|El cocinero sirvió cabrito asado sobre una cama de cebollas en rodajas, regados con licor pálido verde de Volantis. ¡Estaba delicioso!
+qstr__{s1}_and_his_compan|{s1} y su compañía han sido contratados por {playername} para luchar por {s2}.
+qstr_{s1}_and_his_company|{s1} y su compañía han sido contratados por {playername} para luchar por {s2}.
+qstr__You_have_also_impro|Mejoráis vuestra relación con los aldeanos.
+qstr__Alas_you_don_t_improve|Por desgracia, no mejoráis vuestra relación con los aldeanos.
+qstr_You_ve_finished_workin|Has terminado tu trabajo en la aldea y estás agotado, pero ganáis {reg1} experiencia y recibís {s1}. {s2}.
+qstr_You_keep_working_in_|Seguís trabajando en los campos...
+qstr_Your_strenuous_field|Tu extenuante trabajo en los campos llega a su fin.
+qstr__bard|bardo
+qstr_You_ve_been_carried_o|Has sido tomado prisionero. Dejas de hacer tu trabajo.
+qstr__You_have_also_improv|Mejoráis vuestra relación con los aldeanos.
+qstr__Alas_you_don_t_improve_|Por desgracia, no mejoráis vuestra relación con los aldeanos.
+qstr_Escort_the_nobles_to|Escoltar a los nobles a la ciudad de {s8}.
+qstr_Go_to_the_Pass_of_Hug|Acudid al Paso de Hugor de la Colina, cerca de Wildelight, y encargaos de todos los proscritos que encontréis.
+qstr_Septon_Garibald_aske|El Septón Garibald te pregunta si puedes entregar una carta al Archimaestre Harodon en la Ciudadela en Antigua.
+qstr_Added_money_for_your|Os lleváis un dinero adicional por tu viejo caballo.
+qstr_Septon_Garibald_hand|El Septón Garibald os entrega la carta que debéis entregar al Archimaestre Harodon.
+qstr_A_great_tome_contain|Un gran tomo que contiene los nombres de todos los que han realizado donaciones para el desarrollo de A Clash of Kings ^ Una búsqueda rápida da los nombres: ^ James Gunderson, Robb Frisch, ^ Craig Robinson
+qstr_James_Gunderson^Robb|James Gunderson^Robb Frisch^Craig Robinson
+qstr_Septon_Garibald_told_|El Septon Garibald te habla de un agricultor que necesita ayuda. Lo puedes encontrar en la taberna de Atalaya Llorosa.
+qstr_Ser_Clifford_Gower_th|Ser Clifford Gower, el capitán de la guardia, necesita a alguien para entregar una carta. Lo puedes encontrar en la sala del castillo de Atalaya Llorosa.
+qstr_Archmaester_Harodon_|El Archimaestre Harodon te dice que visites la Calle de los Hojalateros en Desembarco del Rey y hables con Malko.
+qstr_Visit_the_Sept_in_th|Visitar el Septo en la parte noroccidental de El Valle.
+qstr_Visit_the_Septry_in_|Visitar el Septo en la parte noroccidental de El Valle.
+qstr_Visit_the_holdings_o|Visitar los aposentos de Ser Elston, al este del septo.
+qstr_Ser_Elston_told_you_|Ser Elston te dice que el maestre Cadwyn cambió después de visitar el túmulo cercano. Tal vez puedas encontrar el libro allí.
+qstr_Archmaester_Castos_t|El Archimaestre Castos te dice que visites la Calle de los Hojalateros en Desembarco del Rey y hables con Malko.
+qstr_Rugen_hands_you_the_|Rugen os entrega la carta.
+qstr_Ser_Arwood_Frey_claime|Ser Arwood Frey afirma que Vargo Hoat robó el cuerno. Lo último que habéis oído de él es que sirve a los Lannister y que debería estar de vuelta en Harrenhal. Pero si los Stark han tomado el castillo, es poco probable que siga allí. Deberíais llevar con vos al menos a 50 hombres, pues Vargo Hoat es conocido por ser impredecible.
+qstr_As_you_take_the_horn_|Al coger el cuerno, notáis algo inscrito en él. Sólo podéis distinguir las palabras 'YRR... REY GRIS... ÁRBOL'.
+qstr_Visit_Ser_Myles_at_C|Visitad a Ser Myles en Comezón de Aguasfrías.
+qstr_Samol_has_tasked_you_wi|Samol os ha encargado encontrar su cuerno y su libro. Visitad a Rodgar en el Norte.
+qstr_You_ve_found_the_horn|Habéis encontrado el cuerno y el libro. Volved con Samol y reclamad vuestra recompensa.
+qstr_You_have_defeated_the|Habéis derrotado al fanático enloquecido.
+qstr_Return_to_Malko.|Volver con Malko.
+qstr_Visit_the_red_priest|Visita a la sacerdotisa roja, Melisandre. Podéis encontrarla encendiendo fuegos en las costas de la isla de Rocadragón.
+qstr_Talk_to_Ser_Davos_Se|Habla con Ser Davos Seaworth.
+qstr_Ser_Davos_proposed_a|Ser Davos os propuso un plan donde vos iniciaréis un incendio en La Selva, el bosque cerca de Bastión de Tormentas. Una vez hecho esto, su hijo mayor, Dale, llevará a Melisandre en bote por una caverna marina bajo Bastión de Tormentas. Necesitaréis 20 jarrones de aceite para incendiar La Selva.
+qstr_Ser_Davos_proposed_a_|Ser Davos os propuso un plan donde vos iniciaréis un incendio en La Selva, el bosque cerca de Bastión de Tormentas. Una vez hecho esto, su hijo mayor, Dale, llevará a Melisandre en bote por una caverna marina bajo Bastión de Tormentas. Necesitaréis 1 jarrón de aceite, 1 paquete de lino, 1 bolsa de lana en bruto y 1 paquete de lino para incendiar La Selva.
+qstr_Return_to_King_Stann|Regresar con el Rey Stannis Baratheon.
+qstr_Await_the_results_of|Esperar los resultados de la misión de Melisandre en Bastión de Tormentas.
+qstr_{s1}_is_the_new_King|¡¡¡{s1} es el nuevo Rey de {s2}!!!
+qstr_Ser_Davos_proposed_a_p|Ser Davos os propuso un plan donde vos iniciaréis un incendio en La Selva, el bosque cerca de Bastión de Tormentas. Una vez hecho esto, su hijo mayor, Dale, llevará a Melisandre en bote por una caverna marina bajo Bastión de Tormentas. Necesitaréis 1 jarrón de aceite y 1 barril de brea para incendiar La Selva.
+qstr_Lord_Sebastion_Errol|Lord Sebastion Errol ha renunciado a su vasallaje a las Tierras de las Tormentas, y se ha unido a Rocadragón.
+qstr_Lord_Ralph_Buckler_h|Lord Ralph Buckler ha renunciado a su vasallaje a las Tierras de las Tormentas, y se ha unido a Rocadragón.
+qstr_Lord_Hugh_Grandison_|Lord Hugh Grandison ha renunciado a su vasallaje a las Tierras de las Tormentas, y se ha unido a Rocadragón.
+qstr_Lord_Philip_Fell_has|Lord Philip Fell ha renunciado a su vasallaje a las Tierras de las Tormentas, y se ha unido a Rocadragón.
+qstr_Ser_Ronnet_Conningto|Ser Ronnet Connington ha renunciado a su vasallaje a las Tierras de las Tormentas, y se ha unido a Rocadragón.
+qstr_Lord_Eldon_Estermont|Lord Eldon Estermont ha renunciado a su vasallaje a las Tierras de las Tormentas, y se ha unido a Rocadragón.
+qstr_Ser_Donnel_Swann_has|Ser Donnel Swan ha renunciado a su vasallaje a las Tierras de las Tormentas, y se ha unido a Rocadragón.
+qstr_Lord_Gulian_Swann_ha|Lord Gulian Swann ha renunciado a su vasallaje a las Tierras de las Tormentas, y se ha unido a Rocadragón.
+qstr_Return_to_Stannis_Ba|Regresar con Stannis Baratheon.
+qstr_Lord_Martyn_Mullendo|Lord Martyn Mullendore ha renunciado a su vasallaje hacia El Dominio, y se ha unido a Rocadragón.
+qstr_Ser_Bryan_Fossoway_h|Ser Bryan Fossoway ha renunciado a su vasallaje hacia El Dominio, y se ha unido a Rocadragón.
+qstr_Lord_Elwood_Meadows_|Lord Elwood Meadows ha renunciado a su vasallaje hacia El Dominio, y se ha unido a Rocadragón.
+qstr_Lord_Alester_Florent|Lord Alester FLorent ha renunciado a su vasallaje hacia El Dominio, y se ha unido a Rocadragón.
+qstr_Ser_Jon_Fossoway_has|Ser Jon Fossoway ha renunciado a su vasallaje hacia El Dominio, y se ha unido a Rocadragón.
+qstr_{s4}_has_been_awarded|{s4} ha sido concedido a {s5} de {s7}.
+qstr_You_stepped_out_of_t|Diste un brinco fuera del camino, esquivando la rama.
+qstr_The_branch_hits_you_|La rama te golpea en la cabeza.
+qstr_You_regained_your_ba|Recuperas el equilibrio.
+qstr_You_fall_over_into_t|Caiste de nuevo, en el charco.
+qstr_You_fall_over_and_hu|Caiste de nuevo y te lastimaste la cabeza.
+qstr_You_avoided_the_stag|Esquivaste al ciervo.
+qstr_You_got_hit_by_the_s|Fuiste golpeado por el ciervo.
+qstr_Ser_Davos_proposed_a_pl|Ser Davos os propuso un plan donde vos iniciaréis un incendio en La Selva, el bosque cerca de Bastión de Tormentas. Una vez hecho esto, su hijo mayor, Dale, llevará a Melisandre en bote por una caverna marina bajo Bastión de Tormentas. Necesitaréis 1 jarrón de aceite y 10 barriles de brea para incendiar La Selva. Podéis comprar los barriles de brea en Puerto Gaviota.
+qstr_James_Gunderson^Crai|James Gunderson^Craig Robinson^D3500^Burnout888^Bioshokarr^Comrade135^Ben Cook^Dorin21
+qstr_When_you_give_him_ar|Cuando le entregáis armadura y comida, de repente parece un poderoso guerrero.
+qstr_King_Tywin_Lannister|Rey Tywin Lannister
