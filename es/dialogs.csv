@@ -4026,13 +4026,13 @@ dlga_start:close_window.170|¡Fuera de aquí!
 dlga_start:wildfire_talk.28|Bienvenido, amigo mío. Veo aparecéis repentinamente, sin invitación, pero es bienvenido de todos modos. ¿Qué está haciendo aquí, si no le importa que le pregunte?
 dlga_wildfire_talk:wildfire_talk2.24|Soy {playername}, y he venido en busca de aventuras. ¿Tiene alguna tarea para mí?
 dlga_wildfire_talk:close_window.23|Despedirse.
-dlga_wildfire_talk2:wildfire_talk3.28|Sí,  {playername}, lo hago, lo hago. Necesito a alguien que se enfrente al Mar Humeante, y navegue muy lejos hasta Meereen. Un... conocida mío ha establecido su residencia en la ciudad, me encantaría seguir en contacto con ella y para ello voy a necesitar a alguien para entregar esta carta. ¿Qué me responde,  {playername}? ¿Es lo suficientemente hombre para un viaje así?
+dlga_wildfire_talk2:wildfire_talk3.28|Sí,  {playername}, por supuesto. Necesito a alguien que se enfrente al Mar Humeante, y navegue muy lejos hasta Meereen. Un... conocida mío ha establecido su residencia en la ciudad, me encantaría seguir en contacto con ella y para ello voy a necesitar a alguien para entregar esta carta. ¿Qué me respondéis,  {playername}? ¿Sois vos lo suficientemente hombre para un viaje así?
 dlga_wildfire_talk3:wildfire_talk4.24|¡Desafiaré al Mar Humeante y navegaré hasta Meeren!
 dlga_wildfire_talk3:close_window.1|Me temo que no puedo llevarla ahora mismo.
-dlga_wildfire_talk4:wildfire_talk5.24|¡Espléndido! Será bien recompensado, se lo puedo asegurar. Una vez llegue a Meereen, busque a Belandra Kheranes, ella le ayudará en su camino. Y entre nosotros, si lleva suficientes venados de plata para el viaje, puede que consiga un excelente beneficio al traer de vuelta algunas especias. Ahora, por desgracia, todos mis barcos están en en alta mar, por lo que tendrá que encontrar su propio camino a Meereen.
+dlga_wildfire_talk4:wildfire_talk5.24|¡Espléndido! Seréis bien recompensado, os lo puedo asegurar. Una vez lleguéis a Meereen, buscad a Belandra Kheranes, ella os ayudará en vuestro camino. Y entre nosotros, si lleváis suficientes venados de plata para el viaje, puede que consigáis un excelente beneficio al traer de vuelta algunas especias. Ahora, por desgracia, todos mis barcos están en en alta mar, por lo que tendréis que encontrar vuestro propio camino a Meereen.
 dlga_wildfire_talk5:wildfire_talk6.28|¿Dónde puedo encontrar un barco?
 dlga_wildfire_talk5:close_window.16|Pensándolo mejor, me quedaré en tierra.
-dlga_wildfire_talk6:wildfire_talk7.27|Viaje hasta Volantis y puede que logre contratar un barco allí. Visite la taberna y puede que sea capaz de encontrar a Bayle Neres. Es un viejo pícaro, que no será reacio a viajar más allá de Valyria. Por el precio adecuado, por supuesto.
+dlga_wildfire_talk6:wildfire_talk7.27|Viajad hasta Volantis y puede que logréis contratar un barco allí. Visitad la taberna y puede que seáis capaz de encontrar a Bayle Neres. Es un viejo pícaro, que no será reacio a viajar más allá de Valyria. Por el precio adecuado, por supuesto.
 dlga_wildfire_talk7:close_window.34|Muy bien, voy a volver una vez que he visto Meereen.
 dlga_wildfire_talk7:close_window.35|No estoy interesado.
 dlga_start:close_window.171|¿Sí?
@@ -4081,7 +4081,7 @@ dlga_wildfire_espada:wildfire_espada2.1|¡Maravilloso, {playername}! ¿Encontras
 dlga_wildfire_espada2:new_one_wildfire.1|Gracias, magíster.
 dlga_new_one_wildfire:close_window.1|No es nada, ¡nada!
 dlga_start:mercenary_tavern_talk|¿Necesitáis mercenarios? {reg3?Yo y {reg4?{reg3} de mis compañeros:uno de mis compañeros} estamos:Estoy} buscando un líder. Nos uniremos a vos por {reg5} venados de plata.
-dlga_start:mercenary_after_recruited|¿Qué ordenes tenéis?
+dlga_start:mercenary_after_recruited|¿Qué órdenes tenéis?
 dlga_mercenary_after_recruited:mercenary_after_recruited_2|Preparaos. Salimos al alba.
 dlga_mercenary_after_recruited:mercenary_after_recruited_2.1|Tomaos vuestro tiempo. Nos quedaremos en esta ciudad durante un tiempo.
 dlga_mercenary_after_recruited_2:close_window|Sí, {señor/señora}. Estaremos listos cuando nos lo indiquéis.
@@ -4536,7 +4536,7 @@ dlga_marwyn_introduce_2:marwyn_master_talk.1|Mi nombre es Orwyle, el actual... B
 dlga_marwyn_master_talk:marwyn_master_customize.1|¿Podéis contarme algo sobre los Archivos?  
 dlga_marwyn_master_customize:marwyn_master_customize1.1|Por supuesto que puedo. Contienen libros.
 dlga_marwyn_master_customize1:marwyn_master_customize2.1|Muchos libros. Y acólitos. 
-dlga_marwyn_master_customize2:marwyn_master_talk.1|Demasiados libros, a decir verdad. Toma este.
+dlga_marwyn_master_customize2:marwyn_master_talk.1|Demasiados libros, a decir verdad. Tomad este.
 dlga_start:close_window.252|Es hora de que me vaya. Los acólitos probablemente están teniendo... relaciones en los armarios otra vez.
 dlga_start:leyton_introduce_1|¿Sí?
 dlga_leyton_introduce_1:leyton_introduce_2|Mi señor, ¿podría tener el honor de saber más de vos?
@@ -4863,7 +4863,7 @@ dlga_start:pj_beowulf_talk.2|¿Qué queréis, eh?
 dlga_pj_beowulf_talk:pj_beowulf_talk2.2|¿Habéis estado alguna vez en Harrenhal?
 dlga_pj_beowulf_talk2:pj_beowulf_talk3.2|Sí... ¿qué queréis? ¿queréis el libro? ¡Tomadlo! ¡No he dejado de tener pesadillas desde que lo saqué de la tierra! ¡Pensaba que era de oro pero no es más que un hueso viejo! Pero las pesadillas... sombras moviéndose a través del bosque... atacando una colina... hay un oso enorme, muerto hace mucho tiempo, ojos azules y frío... 
 dlga_pj_beowulf_talk3:pj_beowulf_talk4|Dadme el libro Y el cuerno. 
-dlga_pj_beowulf_talk3:close_window|Ahora mismo no puedo llevarlo.
+dlga_pj_beowulf_talk3:close_window|No puedo llevarlo ahora mismo.
 dlga_pj_beowulf_talk4:pj_beowulf_talk5|¡Ya no tengo el cuerno! ¡Ni siquiera lo saqué de Harrenhal! ¡Esa cabra me lo quitó! ¡Él y sus Titiriteros Sangrientos, bah! ¡No tenían derecho! ¡Yo estaba allí bajo bandera de paz, para rescatar a mi primo!
 dlga_pj_beowulf_talk5:pj_beowulf_talk6.2|Sí, es muy triste. ¿Dónde puedo encontrar a... esa cabra?
 dlga_pj_beowulf_talk5:pj_beowulf_talk7|Decidme dónde está el cuerno. ¡Ahora!
@@ -4906,10 +4906,10 @@ dlga_start:wildfire_starter_introduce_1.9|Sí, ¿puedo ayudaros?
 dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.10|¿Quién sois?
 dlga_wildfire_starter_introduce_2:close_window.9|Sería el Hermano Mayor, pero me temo que no está aquí ahora. Se fue a Buenmercado a buscar la ayuda de hombres valerosos.
 dlga_start:close_window.311|Disculpadme, estoy muy ocupado.
-dlga_start:wildfire_talk.29|El Padre Celestial vela por usted, {brother/sister}. ¿Has venido a ayudarnos en tiempos de necesidad?
-dlga_wildfire_talk:wildfire_talk2.25|Lo tengo. ¿En qué puedo ayudar?
+dlga_start:wildfire_talk.29|El Padre Celestial vela por vos, {brother/sister}. ¿Habéis venido a ayudarnos en estos tiempos de necesidad?
+dlga_wildfire_talk:wildfire_talk2.25|Por supuesto. ¿En qué puedo ayudar?
 dlga_wildfire_talk:close_window.24|Lo siento, no.
-dlga_wildfire_talk2:wildfire_talk3.29|Una compañía de nuestros hermanos acaba de regresar de un viaje del Septo Estrellado a Antigua. Entre las cosas que trajeron al Norte, ¡había una reliquia del mismísimo Baelor el Santo!. Un anillo, que según dicen, fue usado por el Rey cuando fue a Dorne a rescatar a su primo, Aemon el Caballero Dragón, que estaba encerrado en una jaula sobre un foso lleno de víboras. Pero en el camino, no muy lejos de Árbol de Cuervos, fueron atacados por Aegon el Sangriento, el primogénito bandolero de Ser Aenys Frey. Lo creía muerto años atrás, pero el hermano Toman juró que era él. Junto a los suministros y a los bienes de los hermanos también robó el anillo. ¡Encuentrelo, {playername}, y llévalo ante la justicia! Ha habido informes que mencionan grupos de bandidos cerca de Caída Alta, a lo mejor puedes encontrarlo allí.
+dlga_wildfire_talk2:wildfire_talk3.29|Una compañía de nuestros hermanos acaba de regresar de un viaje del Septo Estrellado a Antigua. Entre las cosas que trajeron al Norte, ¡había una reliquia del mismísimo Baelor el Santo!. Un anillo, que según dicen, fue usado por el Rey cuando fue a Dorne a rescatar a su primo, Aemon el Caballero Dragón, que estaba encerrado en una jaula sobre un foso lleno de víboras. Pero en el camino, no muy lejos de Árbol de Cuervos, fueron atacados por Aegon el Sangriento, el primogénito bandolero de Ser Aenys Frey. Lo creía muerto años atrás, pero el hermano Toman juró que era él. Junto a los suministros y a los bienes de los hermanos también robó el anillo. ¡Debéis encontrarlo y llevadlo ante la justicia, {playername}! Hemos recibido informes que mencionan actividad de grupos de bandidos cerca de Caída Alta, a lo mejor podéis encontrarlo allí.
 dlga_wildfire_talk3:wildfire_talk4.25|¡Le traeré su cabeza!
 dlga_wildfire_talk4:close_window|También puede que haya buscado refugio con sus parientes en Los Gemelos. Con la guerra asolando el país, un proscrito escondido en el castillo de sus abuelos podría pasar fácilmente desapercibido.
 dlga_wildfire_talk7:close_window.36|No estoy interesado.
@@ -5513,11 +5513,11 @@ dlga_prisoner_chat_noble_keep:close_window.1|¡Yo confío en que serás tan comp
 dlga_prisoner_chat:prisoner_chat_commoner|¡Oye, tú!
 dlga_prisoner_chat_commoner:prisoner_chat_menu|¿Quién, yo?
 dlga_prisoner_chat_menu:prisoner_chat_offer|No pareces tan inútil como el resto de los prisioneros.
-dlga_prisoner_chat_offer:prisoner_chat_reaction|Escucha, tienes una ultima oportunidad para redimirte. Olvida tus anteriores fidelidades y júrame lealtad a mí, obedece todas mis ordenes y serás recompensado con paga, alimento y equipo. Si no lo haces... Bueno digamos que los accidentes ocurren y nadie echara en falta a un prisionero de guerra.
+dlga_prisoner_chat_offer:prisoner_chat_reaction|Escucha, tienes una última oportunidad para redimirte. Olvida tus anteriores fidelidades y júrame lealtad a mí, obedece todas mis órdenes y serás recompensado con paga, alimento y equipo. Si no lo haces... Bueno, digamos que los accidentes ocurren y nadie echará en falta a un prisionero de guerra.
 dlga_prisoner_chat_reaction:prisoner_chat_accept1|¡Gracias por vuestra misericordia, mi {lord/lady}! ¡Juro por la tumba de mi madre, que yo le serviré!
 dlga_prisoner_chat_reaction:prisoner_chat_refuse|¡Si tuviera una espada, me gustaría mostrarte lo que pienso de tu oferta! Piérdete, no estoy interesado.
 dlga_prisoner_chat_refuse:prisoner_chat_menu|Ya veo...
-dlga_prisoner_chat_accept1:prisoner_chat_accept2|¡Si desobedeces una sola de mis ordenes, serás severamente disciplinado!
+dlga_prisoner_chat_accept1:prisoner_chat_accept2|¡Si desobedeces una sola de mis órdenes serás severamente castigado!
 dlga_prisoner_chat_accept1:prisoner_chat_accept2.1|En mi campamento, todos los hombres son tratados como iguales, pero espero su total obediencia.
 dlga_prisoner_chat_accept2:prisoner_chat_accept3|Obedeceré vuestros deseos, mi {lord/lady}. ¡Lo juro!
 dlga_prisoner_chat_accept3:close_window|¡Oh! Al parecer no tengo suficiente espacio para que te puedas unir a mi grupo. Volveré en cuanto lo tenga.
