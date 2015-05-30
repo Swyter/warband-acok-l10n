@@ -5307,9 +5307,9 @@ dlga_escort_scholars_quest_brief:scholar_quest_taken|Escoltare a los Nobles.
 dlga_escort_scholars_quest_brief:escort_scholars_reject|Lo siento. No puedo hacerlo ahora mismo
 dlga_scholar_quest_taken:close_window|Gracias, mi amigo. Os deseamos la velocidad de un zorro.
 dlga_escort_scholars_reject:close_window|Sí, sí, por supuesto. Lo siento si os he molestado con nuestros problemas.
-dlga_start:close_window.323|Podemos cubrir el resto del camino nosotros solos. Tiene nuestro agradecimiento.
-dlga_start:close_window.324|Bueno, casi hemos llegado a {s21}. Podemos cubrir el resto del camino nosotros solos. Aquí tiene su pago... {reg14} venados de plata. Gracias por escoltarnos. Ah, y nos hemos percatado de que ha tenido que aguantar mucho durante este viaje, ¡ha sido uno de esos viajes de los que se debería escribir unos versos! ¡Por favor, aceptad este libro, que perteneció a un famoso maestre como una recompensa adicional!. Ahora, creo que la posada está abierta. ¡Adiós y que el Padre Celestial os bendiga!
-dlga_start:close_window.325|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tiene su pago... {reg14} venados de plata. También teníamos un regalo para usted, una muestra de nuestro aprecio, pero parece que no puede cargar nada mas. ¡No se preocupe por ello! Gracias por escoltarnos. ¡Buena suerte y que el Guerrero de fuerza a vuestros brazos!
+dlga_start:close_window.323|Podemos terminar el trayecto solos. Tenéis nuestro agradecimiento.
+dlga_start:close_window.324|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tenéis vuestro pago... {reg14} venados de plata. Gracias por escoltarnos. Ah, y nos hemos percatado de que habéis tenido que aguantar mucho durante este viaje, ¡ha sido uno de esos viajes de los que se deberían escribir unos versos! ¡Por favor, aceptad este libro, que perteneció a un famoso maestre como una muestra de gratitud! ¡Adiós y que el Padre Celestial os bendiga!
+dlga_start:close_window.325|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tenéis vuestro pago... {reg14} venados de plata. También teníamos un regalo para vos, como muestra de nuestro aprecio, pero parece que no podéis cargar nada mas. ¡No os preocupéis! Gracias por escoltarnos. ¡Buena suerte y que el Guerrero de fuerza a vuestros brazos!
 dlga_start:scholars_intro_1|Saludos. Debéis ser nuestra escolta, ¿Verdad?
 dlga_scholars_intro_1:scholars_intro_2|Sí. Me llamo {playername}. Os llevaré hasta {s1}.
 dlga_scholars_intro_2:escort_scholars_talk|Bueno, está bien saber que no viajaremos solos. ¿Qué queréis que hagamos ahora?
@@ -5492,35 +5492,35 @@ dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.1|Dejadme ver. Habéis traído 
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.2|Bueno, bueno, habéis capturado {reg0} bandidos. Cada uno vale 30 monedas, así que os daré {reg1} por todos.
 dlga_sell_prisoner_outlaws:close_window|Supongo que eso es todo, entonces.
 dlga_prisoner_chat:close_window|NO TEXT
-dlga_prisoner_chat_noble:prisoner_chat_treason|¡Sus infames acciones han demostrado que sois un falso caballero!
-dlga_prisoner_chat_treason:prisoner_chat_treason_plead|Gregor Clegane, usted ha cometido terribles crímenes contra el pueblo llano de las Tierras de los Ríos, por el que ahora va a ser juzgado. ¿Cómo se declara?
-dlga_prisoner_chat_treason_plead:prisoner_chat_treason_choose|¿Para que crees que es un caballero, {boy/girl}? ¿Crees que es solo para tener el favor de las damas y verte bien en una placa de oro? ¡Al diablo con eso! ¡Mato porque puedo! ¡Señores, señoras, príncipes, campesinos, no hay diferencia!
-dlga_prisoner_chat_treason_choose:prisoner_chat_treason_not_guilty|Soy un {man/woman} de honor. !Le perdonaré la vida en este día!
-dlga_prisoner_chat_treason_not_guilty:close_window|Por supuesto que lo harás, {boy/girl}. ¡Corre de vuelta a tu madre, como la puta que eres!
-dlga_prisoner_chat_treason_choose:prisoner_chat_treason_guilty|No merece que mi indulgencia. Debe pagar por sus crímenes con la vida.
-dlga_prisoner_chat_treason_guilty:prisoner_chat_treason_final_words|En el nombre de Robb, de la Casa Stark, el primero de su nombre, rey en el Norte y del Tridente, le condeno a muerte. ¿Tiene unas ultimas palabras que decir?
+dlga_prisoner_chat_noble:prisoner_chat_treason|¡Vuestras infames acciones han demostrado que sois un falso caballero!
+dlga_prisoner_chat_treason:prisoner_chat_treason_plead|Gregor Clegane, habéis cometido terribles crímenes contra el pueblo llano de las Tierras de los Ríos, por el que ahora seréis juzgado. ¿Cómo os declaráis?
+dlga_prisoner_chat_treason_plead:prisoner_chat_treason_choose|¿Para que te crees que sirve ser un caballero, {boy/girl}? ¿Crees que es solo para tener el favor de las damas y verte bien en una placa de oro? ¡Al diablo con eso! ¡Mato porque puedo! ¡Señores, señoras, príncipes, campesinos, no hay diferencia!
+dlga_prisoner_chat_treason_choose:prisoner_chat_treason_not_guilty|Soy un {man/woman} de honor. ¡Os perdono la vida!
+dlga_prisoner_chat_treason_not_guilty:close_window|Por supuesto que lo harás, {boy/girl}. ¡Corre a los brazos de tu madre, como la puta que eres!
+dlga_prisoner_chat_treason_choose:prisoner_chat_treason_guilty|No merecéis mi indulgencia. Debéis pagar por vuestros crímenes con la vida.
+dlga_prisoner_chat_treason_guilty:prisoner_chat_treason_final_words|En el nombre de Robb, de la Casa Stark, el primero de su nombre, rey en el Norte y del Tridente, os condeno a muerte. ¿Tenéis unas ultimas palabras que decir?
 dlga_prisoner_chat_treason_final_words:prisoner_chat_treason_execute|Escupo sobre ti y los tuyos, {boy/girl}.
 dlga_prisoner_chat_treason_execute:close_window|(El prisionero intentó quitarse los grilletes, desesperado por liberarse y escapar, pero fue en vano. Le cortaste la garganta con un cuchillo y miraste, satisfecho, como su cuerpo se desplomaba en el suelo.)
 dlga_prisoner_chat:prisoner_chat_lord|¡{s1}!
 dlga_prisoner_chat_lord:prisoner_chat_noble|¿Si, {s1}?
 dlga_prisoner_chat_noble:prisoner_chat_noble_prerelease|Eres libre de irte.
-dlga_prisoner_chat_noble:prisoner_chat_noble_prekeep|Permanecerás siendo mi prisionero.
+dlga_prisoner_chat_noble:prisoner_chat_noble_prekeep|Permanecerás como mi prisionero.
 dlga_prisoner_chat_noble_prerelease:prisoner_chat_noble_release|A pesar de lo que puedas haber oído, soy un {man/woman} de honor. Eres libre de irte.
-dlga_prisoner_chat_noble_release:close_window|¡No olvidaré este acto de caballerosidad!
+dlga_prisoner_chat_noble_release:close_window|¡No olvidaré vuestro acto de caballerosidad!
 dlga_prisoner_chat_noble_prekeep:prisoner_chat_noble_keep|Comprenderás que te mantenga cautivo hasta que tu familia pueda compensar mis cuantiosos gastos y esfuerzos por mantenerte alimentado y seguro.
-dlga_prisoner_chat_noble_keep:close_window|¡Realmente, esto es indigno de usted! ¡Pensaba que erais un {man/woman} de honor!
+dlga_prisoner_chat_noble_keep:close_window|¡Realmente, esto es indigno de vos! ¡Pensaba que erais un {man/woman} de honor!
 dlga_prisoner_chat_noble_keep:close_window.1|¡Yo confío en que serás tan comprensivo cuando te persiga como el perro callejero que eres!
 dlga_prisoner_chat:prisoner_chat_commoner|¡Oye, tú!
 dlga_prisoner_chat_commoner:prisoner_chat_menu|¿Quién, yo?
 dlga_prisoner_chat_menu:prisoner_chat_offer|No pareces tan inútil como el resto de los prisioneros.
 dlga_prisoner_chat_offer:prisoner_chat_reaction|Escucha, tienes una ultima oportunidad para redimirte. Olvida tus anteriores fidelidades y júrame lealtad a mí, obedece todas mis ordenes y serás recompensado con paga, alimento y equipo. Si no lo haces... Bueno digamos que los accidentes ocurren y nadie echara en falta a un prisionero de guerra.
-dlga_prisoner_chat_reaction:prisoner_chat_accept1|¡Gracias por su misericordia, mi {lord/lady}! ¡Juro por la tumba de mi madre, que yo le serviré!
+dlga_prisoner_chat_reaction:prisoner_chat_accept1|¡Gracias por vuestra misericordia, mi {lord/lady}! ¡Juro por la tumba de mi madre, que yo le serviré!
 dlga_prisoner_chat_reaction:prisoner_chat_refuse|¡Si tuviera una espada, me gustaría mostrarte lo que pienso de tu oferta! Piérdete, no estoy interesado.
-dlga_prisoner_chat_refuse:prisoner_chat_menu|Ya veo....
-dlga_prisoner_chat_accept1:prisoner_chat_accept2|¡Si desobedeces una sola de mis ordenes, serás disciplinado de forma severa!
-dlga_prisoner_chat_accept1:prisoner_chat_accept2.1|En mi campamento, todos los hombres son tratados como iguales, pero espero su obediencia.
-dlga_prisoner_chat_accept2:prisoner_chat_accept3|Obedeceré sus deseos, mi {lord/lady}. ¡Lo juro!
-dlga_prisoner_chat_accept3:close_window|¡Oh! Al parecer no dispongo de suficiente espacio para que te pueda unir a mi grupo. Volveré en cuanto lo tenga.
+dlga_prisoner_chat_refuse:prisoner_chat_menu|Ya veo...
+dlga_prisoner_chat_accept1:prisoner_chat_accept2|¡Si desobedeces una sola de mis ordenes, serás severamente disciplinado!
+dlga_prisoner_chat_accept1:prisoner_chat_accept2.1|En mi campamento, todos los hombres son tratados como iguales, pero espero su total obediencia.
+dlga_prisoner_chat_accept2:prisoner_chat_accept3|Obedeceré vuestros deseos, mi {lord/lady}. ¡Lo juro!
+dlga_prisoner_chat_accept3:close_window|¡Oh! Al parecer no tengo suficiente espacio para que te puedas unir a mi grupo. Volveré en cuanto lo tenga.
 dlga_prisoner_chat_accept3:close_window.1|Excelente. Ahora ve a prepararte, nos quedan duros combates por delante.
 dlga_prisoner_chat_menu:prisoner_chat_release|Como el ser miserable que eres, no puedo dejar de sentir pena por ti.
 dlga_prisoner_chat_release:prisoner_chat_release2|Hoy me siento magnánimo. ¡Vete, antes de que cambie de opinión!
