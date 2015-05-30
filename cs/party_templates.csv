@@ -1,0 +1,135 @@
+pt_none|nikdo
+pt_rescued_prisoners|Osvobození vězni
+pt_enemy|Nepřítel
+pt_hero_party|Hrdinova družina
+pt_village_defenders|Vesničtí obránci
+pt_village_defenders_r|Vesničtí obránci
+pt_village_defenders_e|Vesničtí obránci
+pt_cattle_herd|Stádo skotu
+pt_nemesis|Nájemné meče
+pt_nemesis2|Nájemné meče
+pt_looters|Zloději
+pt_manhunters|Lovci lidí
+pt_forest_bandits|Lesní bandité
+pt_taiga_bandits|Divocí
+pt_steppe_bandits|Dothračtí nájezdníci
+; pt_sea_raiders|Lyseni Pirates
+pt_mountain_bandits|Horští bandité
+pt_desert_bandits|Psanci
+pt_looters_r|Zloději
+pt_manhunters_r|Lovci lidí
+pt_forest_bandits_r|Lesní bandité
+pt_taiga_bandits_r|Bandité z tundry
+pt_steppe_bandits_r|Stepní bandité
+pt_sea_raiders_r|Mořští nájezdníci
+pt_mountain_bandits_r|Horští bandité
+pt_desert_bandits_r|Pouštní bandité
+pt_looters_e|Zloději
+pt_manhunters_e|Čestní rytíři
+pt_forest_bandits_e|Lesní bandité
+pt_taiga_bandits_e|Divocí
+pt_steppe_bandits_e|Dothračtí nájezdníci
+pt_sea_raiders_e|Piráti
+pt_mountain_bandits_e|Horští bandité
+pt_desert_bandits_e|Psanci
+pt_deserters|Zlomení muži
+pt_slaver|Otrokáři
+pt_escaped_slaves|Utečení otroci
+; pt_clansmen|Clansmen
+pt_raiders|Nájezdníci
+pt_outlaws|Psanci
+pt_rhoyne_outlaws|Rhoynští psanci
+; pt_crannogmen|Crannogmen
+pt_elite_raiders|Loupeživý rytíři
+pt_elite_wildlings|Divocí
+pt_elite_dothraki|Dothračtí nájezdníci
+; pt_beowulf_warband|The Brave Companions
+; pt_wildfire_wights|Wights
+pt_new_template|Bastard Boltnů
+; pt_arrians|The Outlaw of the Crossing
+pt_clansman_quest|Synové mlhy
+pt_cheese_rustlers|Lovci obylí
+pt_cheese_paladins|Lovci vína
+pt_scholars|Šlechtici
+pt_bandits_awaiting_ransom2|Bandité očekávající výkupné
+pt_smugglers|Pašeráci
+pt_kidnapped_wife|Millerova žena
+pt_merchant_caravan|Obchodní karavana
+pt_troublesome_bandits|Problémoví psanci
+pt_bandits_awaiting_ransom|Psanci očekávající výkupné
+pt_merchant_caravan_r|Obchodní karavana
+pt_troublesome_bandits_r|Problémoví bandité
+pt_bandits_awaiting_ransom_r|Bandité očekávající výkupné
+pt_merchant_caravan_e|Obchodní karavana
+pt_troublesome_bandits_e|Problémoví psanci
+pt_bandits_awaiting_ransom_e|Psanci očekávající výkupné
+pt_kidnapped_girl|Unesená dívka
+pt_village_farmers|Vesničtí farmáři
+pt_spy_partners|Všední cestovatelé
+pt_runaway_serfs|Uprchlí farmáři
+pt_village_farmers_r|Vesničtí farmáři
+pt_spy_partners_r|Všední cestovatelé
+pt_runaway_serfs_r|Uprchlí rolníci
+pt_village_farmers_e|Vesničtí farmáři
+pt_spy_partners_e|Všední cestovatelé
+pt_runaway_serfs_e|Uprchlí farmáři
+pt_spy|Měšťan
+; pt_sacrificed_messenger|Sacrificed Messenger
+; pt_forager_party|Foraging Party
+pt_scout_party|Zvědi
+pt_patrol_party|Hlídka
+pt_messenger_party|Poslíček
+pt_raider_party|Nájezdníci
+pt_raider_captives|Zajatí nájezdníci
+pt_kingdom_caravan_party|Karavana
+pt_raider_captives_r|Zajatí nájezdníci
+pt_kingdom_caravan_party_r|Karavana
+pt_raider_captives_e|Zajatí nájezdníci
+pt_kingdom_caravan_party_e|Karavana
+; pt_prisoner_train_party|Prisoner Train
+pt_sea_traders|Obchodní loď
+pt_sea_traders_r|Obchodní loď
+pt_sea_traders_e|Obchodní loď
+pt_ship|Loď
+; pt_default_prisoners|Default Prisoners
+; pt_default_prisoners_r|Default Prisoners
+; pt_default_prisoners_e|Default Prisoners
+; pt_routed_warriors|Routed Enemies
+pt_center_reinforcements|Posily
+pt_center_reinforcements_r|Posily
+pt_center_reinforcements_e|Posily
+pt_kingdom_hero_party|Válečná družina
+pt_steppe_bandit_lair|Doupě stepních banditů
+pt_taiga_bandit_lair|Doupě banditů z tundry
+pt_desert_bandit_lair|Doupě pouštních banditů
+pt_forest_bandit_lair|Doupě lesních banditů
+pt_mountain_bandit_lair|Skrýš horských banditů
+pt_sea_raider_lair|Přístav mořských nájezdníků
+pt_looter_lair|Skrýš únosců
+pt_leaded_looters|Skupina zlodějů
+pt_steppe_bandit_lair_r|Doupě stepních banditů
+pt_taiga_bandit_lair_r|Doupě banditů z tundry
+pt_desert_bandit_lair_r|Doupě pouštních banditů
+pt_forest_bandit_lair_r|Doupě lesních banditů
+pt_mountain_bandit_lair_r|Skrýš horských banditů
+pt_sea_raider_lair_r|Přístav mořských nájezdíků
+pt_looter_lair_r|Skrýš únosců
+pt_leaded_looters_r|Skupina zlodějů
+pt_steppe_bandit_lair_e|Doupě Dothraků
+pt_taiga_bandit_lair_e|Doupě divokých
+pt_desert_bandit_lair_e|Doupě psanců
+pt_forest_bandit_lair_e|Tábor lesních banditů
+pt_mountain_bandit_lair_e|Skrýš horských banditů
+pt_sea_raider_lair_e|Přistav pirátů
+pt_looter_lair_e|Skrýš únosců
+pt_leaded_looters_e|Skupina zlodějů
+pt_dplmc_spouse|Tvá žena
+pt_dplmc_gift_caravan|Tvá karavana
+pt_dplmc_gift_caravan_r|Tvá karavana
+pt_dplmc_gift_caravan_e|Tvá karavana
+pt_dplmc_recruiter|Verbíř
+pt_entrench|Zákop
+pt_reinforcements|Posily
+pt_sea_raiders_ships|Lysenští piráti
+pt_sea_raiders_ships_r|Lysenští piráti
+pt_sea_raiders_ships_e|Lysenští piráti

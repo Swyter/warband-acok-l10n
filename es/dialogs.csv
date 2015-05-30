@@ -3982,7 +3982,7 @@ dlga_wildfire_talk3:wildfire_talk4.22|¿Qué quiere que haga?
 dlga_wildfire_talk4:wildfire_talk5.22|Vaya y busque la cueva, y mate a cualquier forajido que encuentre.
 dlga_wildfire_talk5:wildfire_talk6.26|Mmm... sigamos.
 dlga_wildfire_talk5:close_window.14|Nada.
-dlga_wildfire_talk6:wildfire_talk7.25|Tendrá que hacer frente a los forajidos solo, nunca sería capaz de sorprenderlos moviendo un pesado ejército alrededor.
+dlga_wildfire_talk6:wildfire_talk7.25|Tendréis que hacer frente a los forajidos en solitario, nunca seriáis capaz de sorprenderlos teniendo que mover un pesado ejército alrededor.
 dlga_wildfire_talk7:close_window.30|Muy bien, yo me haré cargo de los forajidos.
 dlga_wildfire_talk7:close_window.31|No me interesa.
 dlga_wildfire_talk:close_window.21|Despedirse.
@@ -3995,7 +3995,7 @@ dlga_pj_wildfire_talk:morcant_creditos.10|¿Qué podéis contarme sobre el Paso 
 dlga_morcant_creditos:close_window.10|No hay mucho que contar en realidad. El paso toma su nombre de Hugor de la Colina, evidentemente. Todo lo que véis en estas tierras recibe su nombre de alguna figura religiosa de los Ándalos.
 dlga_pj_wildfire_talk:close_window.18|Nada.
 dlga_start:wildfire_talk.27|¿Sí, {playername}?
-dlga_wildfire_talk:wildfire_talk2.23|¿Tiene alguna otra tarea para mi?
+dlga_wildfire_talk:wildfire_talk2.23|¿Tenéis alguna otra tarea para mi?
 dlga_wildfire_talk:close_window.22|Despedirse.
 dlga_wildfire_talk2:wildfire_talk3.27|Ah sí, por supuesto. Un buen amigo mío ha desaparecido. Estaba visitando las ruinas de unos baños, al norte de Myr, pero ni yo, ni mis compañeros, hemos sabido nada de él desde que salió hace semanas. Se suponía que ya debería estar de vuelta...
 dlga_wildfire_talk3:wildfire_talk4.23|¿Qué queréis de mi?
