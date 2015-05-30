@@ -3997,9 +3997,9 @@ dlga_pj_wildfire_talk:close_window.18|Nada.
 dlga_start:wildfire_talk.27|¿Sí, {playername}?
 dlga_wildfire_talk:wildfire_talk2.23|¿Tiene alguna otra tarea para mi?
 dlga_wildfire_talk:close_window.22|Despedirse.
-dlga_wildfire_talk2:wildfire_talk3.27|Ah sí, la tengo. Un buen amigo mío ha desaparecido. Estaba visitando las ruinas de unos baños, al norte de Myr, pero ni yo, ni mis compañeros, hemos sabido nada de él desde que salió hace semanas. Se suponía que ya debería estar de vuelta.
-dlga_wildfire_talk3:wildfire_talk4.23|¿Qué quiere de mi?
-dlga_wildfire_talk4:wildfire_talk5.23|Vaya a buscarlo. Si lamentablemente se ha reunido con la muerte, recupere cualquier libro o pergamino que pudiese llevar, pero rezo por que no sea así. ¡Necesito saber qué le ha pasado, {playername}!
+dlga_wildfire_talk2:wildfire_talk3.27|Ah sí, por supuesto. Un buen amigo mío ha desaparecido. Estaba visitando las ruinas de unos baños, al norte de Myr, pero ni yo, ni mis compañeros, hemos sabido nada de él desde que salió hace semanas. Se suponía que ya debería estar de vuelta...
+dlga_wildfire_talk3:wildfire_talk4.23|¿Qué queréis de mi?
+dlga_wildfire_talk4:wildfire_talk5.23|Id a buscarlo. Si lamentablemente se ha reunido con la muerte, recuperad cualquier libro o pergamino que pudiese llevar, aunque rezo por que no sea necesario. ¡Necesito saber qué le ha pasado, {playername}!
 dlga_wildfire_talk5:wildfire_talk6.27|Mmm...
 dlga_wildfire_talk5:close_window.15|Adiós.
 dlga_wildfire_talk6:wildfire_talk7.26|¡Me aseguraré de que seáis bien recompensado!
@@ -4023,7 +4023,7 @@ dlga_start:wildfire_starter_introduce_1.8|Sí, ¿puedo ayudaros?
 dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.9|¿Quién manda aquí?
 dlga_wildfire_starter_introduce_2:close_window.8|¡Es uno de los Magíster de Pentos, idiota! ¡Pronto regresará y cuando vuelva os arrepentiréis de haberos colado aquí!. Pero si tenéis negocios que tratar con él, podéis encontrarle en la corte de Pentos.
 dlga_start:close_window.170|¡Fuera de aquí!
-dlga_start:wildfire_talk.28|Bienvenido, amigo mío. Veo aparecéis repentinamente, sin invitación, pero es bienvenido de todos modos. ¿Qué está haciendo aquí, si no le importa que le pregunte?
+dlga_start:wildfire_talk.28|Bienvenido, amigo mío. Veo aparecéis repentinamente, sin invitación, pero sois bienvenido de todos modos. ¿Qué estáis haciendo aquí, si no os importa que os pregunte?
 dlga_wildfire_talk:wildfire_talk2.24|Soy {playername}, y he venido en busca de aventuras. ¿Tiene alguna tarea para mí?
 dlga_wildfire_talk:close_window.23|Despedirse.
 dlga_wildfire_talk2:wildfire_talk3.28|Sí,  {playername}, por supuesto. Necesito a alguien que se enfrente al Mar Humeante, y navegue muy lejos hasta Meereen. Un... conocida mío ha establecido su residencia en la ciudad, me encantaría seguir en contacto con ella y para ello voy a necesitar a alguien para entregar esta carta. ¿Qué me respondéis,  {playername}? ¿Sois vos lo suficientemente hombre para un viaje así?
