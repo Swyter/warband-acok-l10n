@@ -3958,9 +3958,9 @@ dlga_wildfire_talk:close_window.20|Despedirse.
 dlga_wildfire_talk2:wildfire_talk3.25|“El Padre alzó la mano a los cielos y sacó siete estrellas y las depositó de una en una en la frente de Hugor de la Colina para ponerle una corona resplandeciente.”
 dlga_wildfire_talk3:wildfire_talk4.21|¿Eh?
 dlga_wildfire_talk4:wildfire_talk5.21|¡Es de la Estrella de Siete Puntas salvaje ignorante! Manojo de tonterías de Poniente, pero consiguieron la corona correctamente. Por supuesto, no está hecho por un dios... 
-dlga_wildfire_talk5:wildfire_talk6.25|Hmm... sigamos.
+dlga_wildfire_talk5:wildfire_talk6.25|Mmm... sigamos.
 dlga_wildfire_talk5:close_window.13|Pensándolo mejor, creo que me quedaré en tierra.
-dlga_wildfire_talk6:wildfire_talk7.24|Los ándalos forjaron muchos bellos tesoros de oro y cobre. Tengo todas las razones para creer que uno de ellos podría ser enterrado en un viejo túmulo, cerca de las ruinas de Iksa Calo. ¡Necesito tesoros ándalos para mi próxima obra de teatro! Se supone que el túmulo que está embrujado por espíritus y los fantasmas de los reyes ándalos, pero es, obviamente, sólo rumores de locos.
+dlga_wildfire_talk6:wildfire_talk7.24|Los ándalos forjaron muchos bellos tesoros de oro y cobre. Tengo todas las razones para creer que uno de ellos podría estar enterrado en un viejo túmulo, cerca de las ruinas de Iksa Calo. ¡Necesito tesoros ándalos para mi próxima obra de teatro! Se supone que el túmulo está embrujado por espíritus y fantasmas de los reyes ándalos, pero eso, obviamente, son sólo rumores de locos.
 dlga_wildfire_talk7:close_window.28|Muy bien, encontraré vuestro tesoro ándalo.
 dlga_wildfire_talk7:close_window.29|No me interesa.
 dlga_start:close_window.166|¿Sí?
@@ -3976,10 +3976,10 @@ dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.8|¿Quién es ese
 dlga_wildfire_starter_introduce_2:close_window.7|No... pero tal vez podáis ganaros mi favor ayudando a un amigo muy querido. Encontrad a Moredo Tendyris y hablad con él. Seguramente esté en la taberna, le encanta la música.
 dlga_start:close_window.167|¡Fuera!
 dlga_start:wildfire_talk.26|¿Sí?
-dlga_wildfire_talk:wildfire_talk2.22|Lady Mellario dijo que estaba buscando ayuda.
-dlga_wildfire_talk2:wildfire_talk3.26|¡Ah, sí! Varias caravanas han desaparecido en el Paso de la Colina de Hugor. Sospecho que una banda de forajidos podría estar utilizando una de las cuevas como escondite.
-dlga_wildfire_talk3:wildfire_talk4.22|¿Qué quiere que haga?
-dlga_wildfire_talk4:wildfire_talk5.22|Vaya y busque la cueva, y mate a cualquier forajido que encuentre.
+dlga_wildfire_talk:wildfire_talk2.22|Lady Mellario dijo que estabáis buscando ayuda.
+dlga_wildfire_talk2:wildfire_talk3.26|¡Ah, sí! Varias caravanas han desaparecido en el Paso de la Colina de Hugor. Sospecho que una banda de forajidos podría estar utilizando una de las cuevas como escondite...
+dlga_wildfire_talk3:wildfire_talk4.22|¿Qué queréis que haga?
+dlga_wildfire_talk4:wildfire_talk5.22|Id y buscad la cueva, y matad a cualquier forajido que encontréis.
 dlga_wildfire_talk5:wildfire_talk6.26|Mmm... sigamos.
 dlga_wildfire_talk5:close_window.14|Nada.
 dlga_wildfire_talk6:wildfire_talk7.25|Tendréis que hacer frente a los forajidos en solitario, nunca seriáis capaz de sorprenderlos teniendo que mover un pesado ejército alrededor.
