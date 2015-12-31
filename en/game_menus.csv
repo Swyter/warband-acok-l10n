@@ -195,8 +195,8 @@ menu_join_battle|You are helping {s2} against {s1}. You have {reg10} troops fit 
 mno_change_commander_join_battle|Change commander.
 mno_join_attack|Charge the enemy.
 mno_join_order_attack|Order your troops to attack with your allies while you stay back.
-mno_join_leave|Leave.
 mno_join_wounded|You are too wounded to fight.
+mno_join_leave|Leave.
 menu_join_order_attack|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
 menu_odin_cave|You arrive at an outlaw lair.
 mno_enter|Enter the lair.
@@ -209,11 +209,31 @@ menu_mole_town|You arrive at the outskirts of Mole Town.
 menu_bridge_of_skulls|You arrive at the Bridge of Skulls.
 menu_wall_tunnel|You arrive at the storerooms.
 menu_dragonmont|You arrive at the Sunken Ruins.
-menu_sorrows|You arrive at the Sorrows.
+menu_sorrows|You arrive at the ruins of the Sorrows.
+menu_vultures_roost|You arrive at the ruins of Vulture's Roost.
+menu_derring_downs|You arrive at the caves of Derring Downs.
+menu_harroway|You arrive at Lord Harroway's Town.
+menu_tumbledown_tower|You arrive at Tumbledown Tower.
+menu_wendish_town|You arrive at Wendish Town.
+menu_pendrick_hills|You arrive at Pendrick Hills.
+menu_old_stone_bridge|You arrive at Old Stone Bridge Inn.
+menu_howling_hill|You arrive at the Howling Hill.
+menu_barrow|You arrive at an old barrow.
+menu_weirwood|You arrive at the site of an old weirwood.
+menu_tarbeck_hall|You arrive at the ruins of Tarbeck Hall.
+menu_castamere|You arrive at the ruins of Castamere.
+menu_haunted_tower|You arrive at the ruins of the Blind Lord's Haunted Tower.
+menu_queenscrown|You arrive at the ruins of Queenscrown.
+menu_morne|You arrive at the ruins of Morne.
+menu_hellgate_hall|You arrive at the ruins of Hellgate Hall.
+menu_nightfort|You arrive at the ruins of the Nightfort.
+menu_shandystone|You arrive at the ruins of Shandystone.
+menu_maze|You arrive at the ruins of the Great Maze.
+menu_inn_crossroads|You arrive at the Crossroads Inn.
+menu_inn_kneeling_man|You arrive at the Inn of the Kneeling Man.
 menu_cairn_hall|You arrive at Cairnhall.
-menu_oldstones|You arrive at Oldstones.
+menu_oldstones|You arrive at the ruins of Oldstones.
 menu_port_1|King's Landing is extremely populous, but rather unsightly and dirty compared to other cities, especially due to the poorer smallfolks tendency to build shanty settlements outside the city. The harbor itself is very large, and sellswords, thieves and deserters can often be found on the docks.
-mno_choice_1_1|Recruit 5 Gold Cloak Deserters (250 coins).
 mno_choice_1_2|Leave.
 menu_port_2|Duskendale lies off the coast of Blackwater Bay. Before the Conquest, it was, along with Maidenpool, the principal port on the eastern side of Westeros, but King's Landing has long since replaced it. South of the town is a rocky headland that shelters the harbor from the storms of the narrow sea and north of it rise chalk cliffs. A road runs beside the shore between the grey-green sea and low limestone hills. Fishing villages dot the road for miles.
 menu_port_3|The natural harbor close to Rook's Rest is grey cliffs, many of them scorched and blackened, a testimony to the dragonfire that scoured the area when the dragons Sunfyre and Meleys fought in the skies above Rook's Rest during the Dance of the Dragons.
@@ -222,7 +242,7 @@ menu_port_5|Claw Isle is the northernmost of the isles that are scattered around
 menu_port_6|The volcanic isle of Dragonstone contains many coves and natural harbors, perfect for anchoring galleons and smaller vessels. However, the island is often hit by summer storms raging from across the Narrow Sea, crashing the ships anchored there against the cliffs and rocks of the volcanic mountainside, as happened to the Targaryen fleet during Robert's Rebellion.
 menu_port_7|The port of Driftmark is the principal harbor for the ships anchoring at the island of Driftmark. During the reign of Lord Corlys Velaryon, the Sea Snake, the many ports of the island became the central shipping point for all commerce on the eastern shore of Westeros, eclipsing even King's Landing for a time.
 menu_port_8|Sharp Point is where many Andal invaders landed and the chief amongst them was Togarion Bar Emmon, known as Togarion the Terrible, who crowned his brother-in-law as King of Massey's Hook and went to war against the Storm King.
-menu_port_9|The island of Tarth is said to be very beautiful, with its mountains and waterfalls, its high meadows and shadowed vales. It is called the Sapphire Isle, for the striking blue seas in which it sits, and was once ruled by the Evenstar kings, who held dominion over the seas. The men and women of Tarth tell stories of the True Knight, Ser Galladon of Morne, and chivalry is held in high regard on the island. The knights of Tarth often congregate at the many natural harbors, hoping to find hire as sellswords on some of the many ships who pass by on their way to King's Landing and Gulltown.
+menu_port_9|The island of Tarth is said to be very beautiful, with its mountains and waterfalls, its high meadows and shadowed vales. It is called the Sapphire Isle, for the striking blue seas in which it sits, and was once ruled by the Evenstar kings, who held dominion over the seas. The men and women of Tarth tell stories of the True Knight, Ser Galladon of Morne, and chivalry is held in high regard on the island.
 menu_port_10|The castle of Griffin's Roost lies surrounded by red stone cliffs on three sides, which descend into the stormy waters of Shipbreaker Bay. The land-facing approach is a long natural ridge called the Griffin's Throat, which descend unto a beach that provides excellent anchorage.
 menu_port_11|Greenstone is a small island to the east of the Rainwood. The Estermonts have a long tradition of sailing the seas, and the island was not conquered until Erich Durrandon, known as the Sailmaker, built a fleet to contest their dominion of the waves. The island contains no port, but there are plenty of coves.
 menu_port_12|As with the other islands making up the Stepstones, Bloodstone contains many hidden coves and beaches sheltered from the storms that blow across the Narrow Seas.
@@ -234,13 +254,12 @@ menu_port_17|The island of the Lovely Crag lies to the west of Lys, and is where
 menu_port_18|The port of Lys lies in a bay, surrounded by high cliffs where palms gently sway in the breeze. Reckoned the most beautiful city in the world, as well as the one with the most pleasant climate, the city was originally founded by valyrian dragonlords who wished for a retreat from the fires of the Freehold. The dragonlords oft slept with their concubines on the island, which has led to a strong valyrian streak in the native population.
 menu_port_19|The island of Wreckstone lies to the west of Lys, and like many islands in the area contain a plethora of caves and coves, excellent for ships to anchor in safely. First, however, they have to brave the many reefs and rocks that form a ring around the island. Many ships do not make it, giving the island its name.
 menu_port_20|The island of the Farthest Reef is surrounded by many reefs, giving the island its name, that break up the waves. The shores of the island are quiet, and provide excellent anchorage for ships travelling to or from Slaver's Bay.
-menu_port_21|Braavos is served by two main harbors. The Purple Harbor, in the north, is used by locals only, while the Ragman's Harbor in the west is where foreign ships are moored. All ships have to submit to inspection by the Sealord's customs officers at the Chequy Port. Scattered throughout the city are small wharves and landings for the fishermen and ferries. Sellswords are a rarity in Braavos, but axemen from the island of Ibben can sometimes be found selling their services in the taverns.
+menu_port_21|Braavos is served by two main harbors. The Purple Harbor, in the north, is used by locals only, while the Ragman's Harbor in the west is where foreign ships are moored. All ships have to submit to inspection by the Sealord's customs officers at the Chequy Port. Scattered throughout the city are small wharves and landings for the fishermen and ferries.
 menu_port_22|The port of Lorath, also known as the Port of Mazes, lies in Lorath Bay, a place of tranquil but cold waters. The lorathi ply the Shivering Sea, trading with their colony of Morosh and the island of Ibben.
-menu_port_23|The origins of Myr are murky and shrouded in legend, but none can dispute that the city contain an excellent harbor. In it, travellers can buy everything their hearts desire, even the famed sellsword crossbowmen of Myr, who often sell their services on the docks.
+menu_port_23|The origins of Myr are murky and shrouded in legend, but none can dispute that the city contain an excellent harbor. In it, travellers can buy everything their hearts desire..
 menu_port_24|Like all the islands making up the chain of islands known as the Three Sisters, Littlesister contains many coves and natural harbors, perfect for pirates and smugglers looking for a place to hide.
 menu_port_25|Like all the islands making up the chain of islands known as the Three Sisters, Sweetsister contains many coves and natural harbors, perfect for pirates and smugglers looking for a place to hide.
 menu_port_26|Like all the islands making up the chain of islands known as the Three Sisters, Longsister contains many coves and natural harbors, perfect for pirates and smugglers looking for a place to hide.
-menu_port_27|Bear Island lies within the Bay of Ice, north of Deepwood Motte and south of the Frozen Shore. The island contains no man-made ports, but the protruding cliffs and rocks provide excellent anchorage for smaller vessels and longships. Sailors are told to take care though, as the large bears inhabiting the island are no strangers to extending their diet by preying on unwary foreigners.
 menu_port_28|Like all the islands that make up the home of the ironborn, Blacktyde contains many natural harbors, coves and inlets, making for excellent anchorage.
 menu_port_29|Like all the islands that make up the home of the ironborn, Orkmont contains many natural harbors, coves and inlets, making for excellent anchorage.
 menu_port_30|Like all the islands that make up the home of the ironborn, Harlaw contains many natural harbors, coves and inlets, making for excellent anchorage.
@@ -248,11 +267,10 @@ menu_port_31|Lordsport provides safe anchor for those who wish to reach the cast
 menu_port_32|Like all the islands that make up the home of the ironborn, Saltcliffe contains many natural harbors, coves and inlets, making for excellent anchorage.
 menu_port_33|Like all the islands that make up the home of the ironborn, Old Wyk contains many natural harbors, coves and inlets, making for excellent anchorage.
 menu_port_34|Like all the islands that make up the home of the ironborn, Great Wyk contains many natural harbors, coves and inlets, making for excellent anchorage.
-menu_port_35|Like all the islands that make up the home of the ironborn, Nagga's Craddle contains many natural harbors, coves and inlets, making for excellent anchorage.
 menu_port_36|The island of Fair Isle used to be the seat of of power of the Farman Kings. The lords of the island has always been the first defense against ironborn looking to raid the Westerlands, and the isle contains many natural harbors and coves where longships aplenty are anchored.
 menu_port_37|The Shield Islands where given to their current inhabitans by the greatest of the Gardener kings, Garth the Goldenhand, after he drove the ironborn back into the sea. The islands provide excellent coverage from storms, and the men of the islands are adept at fighting in longships against reavers and pirates.
 menu_port_38|The port town of Ryamsport is located on the Arbor, in close vicinity to the castle. The harbor is busy, with ships from all over the world plying their trade in the waters around the island, looking to buy the famed Arbor wines.
-menu_port_39|Gulltown is one of the principal ports of the Seven Kingdoms, and was the first town conquered by the Andal invaders. The lords and smallfolk of the city hold chivalry in high regard, and knights can often be found at the harbor, selling their services.
+menu_port_39|Gulltown is one of the principal ports of the Seven Kingdoms, and was the first town conquered by the Andal invaders.
 menu_port_40|Old Anchor is located east of Ironoaks, where the river flows into the Narrow Sea. During the Andal invasions, thousands of would-be conquerors landed at what would one day become Old Anchor, giving the location its name.
 menu_port_41|The Fingers are narrow peninsulas of the northeastern Vale of Arryn which extend out into the Narrow Sea and the Shivering Sea. Gull Point is windswept, treeless, bare and stony, but it is also where the first Andal invaders landed, and there are thousands of beaches and coves that provide excellent coverage from the storms ravaging the Narrow Sea.
 menu_port_42|The Fingers are narrow peninsulas of the northeastern Vale of Arryn which extend out into the Narrow Sea and the Shivering Sea. Upcliff, an old castle by the sea, is where the reputed sorceress Ursula Upcliff held her husbands as thralls and declared herself bride of the Merling King. The area around Upcliff is perfect for longships seeking a safe place to weather the storms of the sea, and a major route for travellers out of White Harbor.
@@ -268,26 +286,29 @@ menu_port_51|While no more than a town by the standards of the Free Cities, Suns
 menu_port_52|The city of Volantis sits on a very deep harbor. The volantenes claim that the hundred isles of Braavos could be dropped into the harbor and disappear. Volantis spreads across the mouth of the Rhoyne and across the hills and marshes on both sides of the river, and it is the principal port in the south of Essos. Thousands of ships pass through each year, and many sellswords, whores, thieves and sorcerers sell their services at the docks.
 menu_port_53|The Disputed Lands contain many coves, natural harbors and long tranquil beaches, perfect for all kinds of ships looking to anchor in order to trade, invade, or simply rest.
 menu_port_54|The Sea of Myrth is a large sea that is situated along the western coast of Essos. To the north lies the Flatlands, to the south the Disputed Lands and to the west, the Narrow Sea. The area is well-known for its white beaches and blue waters, perfect for anchorage.
-menu_port_55|The port of Pentos lies on the Bay of Pentos off the Narrow Sea, with the Flatlands plains and Velvet Hills to the east. Spicelords dominate the city, and ships ply the waters around the city fishing for mackerel and tuna. Due to the easy access across the Flatlands, dothraki warrior can often be found in the city, selling their swords to the highest bidder.
+menu_port_55|The port of Pentos lies on the Bay of Pentos off the Narrow Sea, with the Flatlands plains and Velvet Hills to the east. Spicelords dominate the city, and ships ply the waters around the city fishing for mackerel and tuna.
 menu_port_56|Braavos sprawls across a hundred islands in a vast lagoon, and the nearby mainland is mostly marshland, that nonetheless provide an opportunity for ships to transport travellers to and from the city, while making it impossible for an army to lay siege to the city.
 menu_port_57|The Shivering Sea is a frigid sea that begins beyond the Wall and extends east along the northern coast of Essos. The coastline is filled with jutting cliffs and protruding rocks, making it difficult to land and make anchorage, though there are also many excellent natural harbors.
 menu_port_58|The Disputed Lands contain many coves, natural harbors and long tranquil beaches, perfect for all kinds of ships looking to anchor in order to trade, invade, or simply rest.
 menu_port_59|The Sea of Myrth is a large sea that is situated along the western coast of Essos. To the north lies the Flatlands, to the south the Disputed Lands and to the west, the Narrow Sea. The area is well-known for its white beaches and blue waters, perfect for anchorage.
 menu_port_60|Lorassyon is located on the opposite side of the largest of three islands surrounded by storm seas. The island is insignificant, except for the many fishing and whaling vessels that call there from time to time.
 menu_port_61|Along the western coast of the Seven Kingdoms lie the Sunset Sea. Villages dot the coastline, many of them having sprouted up around coves and natural harbors that provide shelter from storms.
-menu_port_62|The Weeping Town is no true city nor much of a town, but it is the closest the Stormlands have to a port town. Ships seldom land there, but some few fishing vessels can be found, mostly docking to sell their catch of cod and shrimp. The town lies close to the Rainwood, and sellswords from the deep forest can sometimes be found at the harbor selling their services.
-menu_port_63|The Kingswood is a large forest that lies across the Blackwater Rush from King's Landing, and although a few smallfolk live in the forest, it's mostly used as the kings private hunting ground. The shores are filled with steep cliffs and ships often wreck themselves when they try to land. A few natural harbors do exist however, and the famed archers of the Kingswood can sometimes be hired at these locations.
+menu_port_62|The Weeping Town is no true city nor much of a town, but it is the closest the Stormlands have to a port town. Ships seldom land there, but some few fishing vessels can be found, mostly docking to sell their catch of cod and shrimp.
+menu_port_63|The Kingswood is a large forest that lies across the Blackwater Rush from King's Landing, and although a few smallfolk live in the forest, it is mostly used as the kings private hunting ground. The shores are filled with steep cliffs and ships often wreck themselves when they try to land. A few natural harbors do exist however.
 menu_port_64|Saltpans has never been an important trading port but ships do call there from time to time, and the salt shipped out is widely sought after by merchants from Essos.
 menu_port_65|Maidenpool was once one of the principal ports on the eastern side of Westeros, only surpassed by Duskendale. However, it has been steadily declining through the years, with King's Landing and Gulltown having long ago eclipsed the port in importance.
 menu_port_66|The port of Aquos Dhaen lies in the Borderlands, the region fought over by Volantis and Lys for hundreds of years. Never one of the self-governed cities of Essos, Aquos Dhaen was ruled by a governor appointed by the Freehold of Valyria before the Doom.
 menu_port_67|As with the other islands making up the Stepstones, Grey Gallows contains many hidden coves and beaches sheltered from the storms that blow across the Narrow Seas.
+menu_port_68|Bear Island is a remote island within the Bay of Ice, south of the Frozen Shore. The island contains old gnarled oaks, tall pines and plenty of bears. Aside from a few crofters, the inhabitants of the island live along the coasts and fish the seas.
+menu_port_69|Pebble is an island in the Bite, north of the Fingers. The island is rocky and barren.
+menu_port_70|The Paps is an island to the northeast of the Fingers in the narrow sea. Named after two large, stony hills on the island, the island is rocky and barren.
 menu_nunns_deep|You arrive at Nunn's Deep.
-menu_summerhall|You arrive at the Ruins of Summerhall.
+menu_summerhall|You arrive at the ruins of Summerhall.
 menu_saltpans_isles|You arrive at the Quiet Isle.
 menu_isle_of_faces|You arrive at the Isle of Faces.
 menu_rodgars_hut|You arrive at Rodgars Hut.
 menu_naggas_hill|You arrive at Nagga's Hill.
-menu_tower_of_joy|You arrive at the Tower of Joy.
+menu_tower_of_joy|You arrive at the ruins of the Tower of Joy.
 menu_bloodstone|You arrive at Bloodstone, the former stronghold of the long forgotten Kingdom of the Stepstones and the Narrow Sea.
 menu_harrentown|You arrive at the remains of Harrentown.
 menu_illyrios_manse|You arrive at the manse of Illyrio Mopatis.
@@ -295,15 +316,25 @@ menu_water_gardens|You arrive at the Water Gardens.
 menu_black_cells_1|The dungeon of the Red Keep has four levels. On the upper level are cells with high narrow windows where common criminals are confined together. The second level has smaller, personal cells without windows for highborn captives. Torches in the halls cast light through the bars. The third level cells, the 'black cells', are smaller still, and have doors of wood so that no light enters them. These are reserved for the most vile and dangerous prisoners. The lowest level is used for torture. It is supposedly safer to go through the fourth level of the dungeons in darkness, because there are things one would not wish to see.
 menu_black_cells_2|The dungeon of the Red Keep has four levels. On the upper level are cells with high narrow windows where common criminals are confined together. The second level has smaller, personal cells without windows for highborn captives. Torches in the halls cast light through the bars. The third level cells, the 'black cells', are smaller still, and have doors of wood so that no light enters them. These are reserved for the most vile and dangerous prisoners. The lowest level is used for torture. It is supposedly safer to go through the fourth level of the dungeons in darkness, because there are things one would not wish to see.
 menu_thirsty_goat|The Thirsty Goat is an unsavory winesink, located in the outskirts of Sunspear in the area known as the Shadow City. The place is dark, damp and smells like rotten meat, vinegar and vomit, and is almost completely deserted.
-menu_special_room_renly_quest_pitch|The Pitch Market in Gulltown is named for the many merchants peddling the substance they derive from the trees scattered across the Vale. While a plethora of other merchants also sell their items in the Pitch Market, it has always been known as the main market for the substance, going as far back as before the Andals invaded. Pitch is used for caulking ships, and the royal fleet have had a long standing contract with the merchants of Gulltown, providing pitch at a reduced rate, in return for protection when the merchant caravans sail through the Stepstones.
-menu_special_room_painted_table|The Chamber of the Painted Table, located on the top floor of the Stone Drum in Dragonstone, is a large room, with old pillars of valyrian masonry, made before the Doom. The chamber holds a large table, carved and painted in the form of a detailed map of Westeros. Here, Aegon the Conqueror planned his invasion of Westeros along with his sisters, Visenya and Rhaenys.
+menu_special_room_dragon_dungeon|The dark cellars of the Red Keep in King's Landing is used for storage. Originally built by Maegor the Cruel, the cellars have been used for storage of treasures, wine and food for hundreds of years. With the ascension of Robert Baratheon, the cellars also came to contain the remains of the Targaryen dragons.
+menu_special_room_iron_bank|Though all the Free Cities have their own banks, the Iron Bank is richer and more powerful than all the others combined and has a fearsome reputation. Located close to the Sealord's Palace, the bank is built of marble and granite. The doors are huge, made of bronze, and flanked by valyrian sphinxes.
 menu_special_room_coppersmiths_wynd|Coppersmith's Wynd is a street going through one of the moderately wealthy parts of King's Landing. The street originally housed the Guild of Coppersmiths, but they have long ago disappeared and visitors can now find a plethora of bookshops, spice dealers, scribes, goldsmiths and minor noble houses on the street.
 mno_enter1|Visit Malkos Bookstore.
 mno_enter2|Visit Malkos Bookstore.
 menu_special_room_iron_throne_room|The Great Hall is the throne room of the king of the Seven Kingdoms. The Iron Throne sits on a raised iron dais with high and narrow steps. A long carpet stretches from the throne to the Hall's great oak-and-bronze doors. The Hall itself is cavernous, and can sit a thousand people. It is oriented north to south, with high, narrow windows on the eastern and western walls. Skulls of the Targaryen dragons once adorned the walls, but Robert Baratheon had them taken down at the beginning of his reign.
+menu_special_room_umber_kitchen|The kitchens of Last Hearth are located at the base of one of the great towers. The front is dirty, and a large hog is rutting around in the dirt for scraps.
+menu_special_room_qohor_blacksmith|Elos Mott's shop is a large building located close to the center of the city. The double doors leading into the store are made of bronze and ironwood, and decorated with a scene depicting the Doom of Valyria. The doors are flanked by two identical obsidian statues of a man with the head of a goat.
+mno_enter3|Enter the shop.
+menu_special_room_tower_of_the_hand|The Tower of the Hand is part of the Red Keep in King's Landing. Finished by Maegor the Cruel, the first occupant was Lord Edwell Celtigar, and the tower has since been the seat of the King's Hand. When Maegor finished the construction of the castle, he put every mason, who had worked on the castle, to death and there are still rumours that the secret passageways he tried to protect even lead into the Tower of the Hand.
+menu_special_recruit_white_harbor_1_5|Fishfoot Yard is a cobbled square in White Harbor located just inside the Seal Gate with a fountain at its center. The square is named for some dead lord, but no one ever calls it anything but Fishfoot Yard. A stone merman rises from the fountain's waters, twenty feet tall from tail to crown. The square is where knights and squires from the surrounding holdfasts gather to offer their services to the lords of the North.
+mno_recruit|Recruit White Harbor Knights.
+menu_special_room_dawn_room|The Tower of the Palestone Sword houses the ancestral sword of House Dayne, Dawn, when it is not bestowed upon a member of the House.
 menu_special_room_citadel|The Citadel is where the maesters convene, study, and train new members, and it is also the residence of the archmaesters. The Seneschal's Court is a great hall with stone floors and high, arched, windows. It's where the maesters convene with laymen, where acolytes gather and where the Gatekeeper controls access to the Seneschal, who is tasked with the government of the Citadel. The Archives, another section of the Citadel, contains the greatest collection of books, scrolls and ledgers in the known world, and is where many maesters spend decades of their life writing and compiling new works of knowledge.
 mno_enter_citadel_1|Visit the Seneschal's Court.
 mno_enter_citadel_2|Visit the Archives.
+mno_enter_citadel_3|Visit the Alchemist's Bend.
+menu_special_room_lannisport_bookstore|The Illuminated Lioness is a large building located close to the center of Lannisport, adjacent to a small fountain decorated with leaping fish, sporting the manes of a lion. The air around the shop is thick with the smell of ink, leather and paper, and outside, scribes are busy copying testaments and documents for the wealthier citizens.
+mno_enter_1|Enter the store.
 menu_ninestars_1|You arrive at Ninestars, the seat of House Templeton. You spot craftsmen setting up the tourney field, farmers bringing in supplies for the lords and ladies, young knights and squires practicing in the fields, riding at rings and bludgeoning each other with blunt swords and maces. Outside the walls, merchants have set up pavilions and tents, selling everything from apple pies and large chunks of cheese, to finely crafted tourney helmets, swords and large jugs of ale.
 menu_ninestars_2|Leaving the castle, you notice a great spectacle down by one of the pavilions. A man-at-arms, a young squire and a knight, with a surcoat showing seven black stripes and nine stars, are beating a young man, while a young woman looks on, a horrified look on her face. Moving nearer, she runs to your side, asking for your help. It seems the knight fondled her, and the young man, her betrothed, protested. That is when the knight hit him in the face with a steel gauntlet, and the man-at-arms started kicking him. Suddenly, the squire turns around and yank the woman away, taking hold of her hand, and breaking her wrist. You decide to...
 mno_choice_10_1|Hit the squire and attack the knight and his man-at-arms!
@@ -338,26 +369,9 @@ menu_ninestars_trial_success_2|Setting out, you make good speed towards the safe
 menu_bloodstone_haunt|Nearing the camp of the pirates, you can soon see the shapes of tents huddling around the abandoned ruins of a long-destroyed castle. You notice that the earth around you is oddly barren, almost as if it's been scorched by fire hot enough to eradicate all signs of life and melt the uppermost layer to a hard crust.
 menu_ninestars_15|In the stands surrounding the tourney grounds, knights, nobles, ladies, farmers and merchants are gathered. A septon is summoned to deplore the Father above to give strenght to the righteous and judge the men about to fight justly. A herald blows a trumpet, the signal to fight, and you tighten your grip on the horse.
 menu_castle_black|You arrive at Castle Black, the main stronghold of the Night's Watch.
-menu_renly_quest_shore|You approach the small beach at the foot of the Dragonmont. In the distance, you see a lone, tall, figure, dressed in red. A great fire burns a few feet from her.
-menu_renly_quest_rainwood|You enter the outskirts of the Rainwood. In the far distance, you can make out the huge tower at the center of Storm's End. From the distance, it looks like a huge spiked fist thrusting towards the sky in defiance.
-mno_rainwood_fire|Start a fire.
 menu_citadel_septry|You arrive at a lonely septry, in the most remote part of the Vale, where the waters of the Neck dissipate. The countryside is barren and windswept, and only a few poor peasants make their home here, close to the mountains.
 menu_citadel_holdings|You arrive at an old holdfast, the seat of Ser Elston. The structure is ancient, perched on the top of a looming hill, overlooking a minor village. The villagers eye you sullenly as you pass by, many of them looking oddly alike, until you realise that many of them are probably related. The air is somehow thick, and in the distance you can almost make out an old forest, the trees tall and gnarled, reaching for the sky.
 menu_citadel_barrow|Your journey to the barrow was harrowing. The ground in the area is squishy, watery and smells rotten. Vapors seep from the trees, many of them fallen over or moulding, and wildlife is almost non-existant, except for a few rats scurrying across your path. The barrow rises ahead of you, a cluster of stones on top of a hill, though much of the area is submerged in water. The air is putrid, filled with miasmas and all kinds of foul smells, and thick, somehow thick.
-menu_battlemap_dothraki_sea|Old and abandoned camps are scattered across Essos, where the 'Great Grass Sea', as the dothraki call it, or 'The Haunted Lands' as it is known amongst the inhabitants of the Free Cities, meet the area controlled by Qohor and Volantis. Ever since the Century of Blood, when the dothraki came out of the east to plunder and rape, the grass plains have been slowly extending westwards, as cities and towns have been burned by the khals, and farmland has been abandoned.
-menu_battlemap_forest_bog|Bogs and mires are spread across the world, in the forests that separates the holdings of various lords and magisters. Many of them contain the remnants of long dead men, soldiers from the armies who have marched across the land since time immemorial.
-menu_battlemap_abandoned_village|Abandoned villages are plentiful in the Riverlands. The region has been a battlefield time and time again, before the conquest and after. Robert's Rebellion left a new wake of broken homes and farmsteads in its wake, and the smallfolk of the region are yet to reclaim all the farmable land.
-menu_battlemap_poleboat|The Greenblood is the main river of Dorne, and is the home of the Orphans of the Greenblood, descendants of the rhoynar who refused to change their ways to fit in with the rest of the dornish. They ply their trade in poleboats along the river, dreaming of the day they can return to Essos and the Mother Rhoyne.
-menu_battlemap_old_mill|Old mills are scattered across Westeros, the remnants of old villages and hamlets, long forgotten and abandoned.
-menu_battlemap_barrow|The barrowlands is a region in the North of wide, hilly plains covered with barrows, the ancient graves of the First Men. The largest hill, Great Barrow in Barrowton, is said to contain the grave of the First King of the First Men and a curse was supposedly placed on the Great Barrow, weakening and making corpselike any living man who dared to equal the First King. The smallfolk of the barrowlands shun the barrows, believing them the haunts of wights and revenants.
-menu_battlemap_weirwood_north|Lonely weirwoods are scattered across the North, with a few also remaining in the south, often having stood there for thousands of years. Weirwoods are sacred to the followers of the old gods, and many have faces carved into their trunks. In the North, weirwoods are used to bear witness to important ceremonies, and according to the maesters, they where also used as a place of human sacrifice in ages past.
-menu_battlemap_mine_westerlands|The Westerlands are not the largest, most populous, or most fertile part of the Seven Kingdoms, but it is the richest. Full of hills and crags, the land is dotted with mines from which pour gold and silver in astonishing quantities.
-menu_battlemap_lumber_camp_north|Lumber camps are scattered all across the North, wherever forests are plenty. Foresters and crofters often live nearby, making a living from working in the woods. In the Dawn Age, massive forests covered Westeros, and a man could walk from the Stormlands to the North without ever stepping into sunlight. But the First Men came with bronze and fire and destroyed many of the great forests. In this age, many towns and cities have to import timber, both for fire and crafting, making the lumber trade a profitable enterprise for those lords who control the remaining woodland.
-menu_battlemap_farmland_reach|The Reach contains thousands of villages, but in between these lie leagues and leagues of farmland. The peasants toil their lives away, working for great lords they'll never meet, and looking towards winter with dread. Rightly famed for its fertility, the Reach is known throughout the world for the apples, grapes, olives and many kinds of wheat farmed in what some call the 'Breadbasket of Westeros'.
-menu_battlemap_orchard_essos|Essos contains thousands of villages, but in between these lie leagues and leagues of farmland and orchards. The peasants and slaves of the continent toil their lives away, working for magisters and merchant-princes they'll never meet, and always looking over the horizon for signs of the dothraki hordes.
-menu_battlemap_ruined_fort|Across Essos lies many abandoned forts, remnants of valyrian traders and explorers, who sought to control the continent. Before the Doom, thousands of towns and forts where spread across the land, but many where abandoned when the dothraki came out of the east.
-menu_battlemap_rhoynar_ruins|The rhoynar where a culture of river-faring people who dwelt on the banks of the immense river running through Essos, the Rhoyne. When the rhoynar came into contact with the city of Volantis, they fought many wars against them, and in the end Volantis sent to Valyria for aid. The valyrian lords came on their dragons in their hundreds, and burned the rhoynish armies. Afterwards, they descended on the great cities of the rhoynar and burned those too, leaving nothing but ruins.
-menu_nightfort|You arrive at the Nightfort.
 menu_castle_black2|You arrive at Castle Black.
 menu_castle_black3|You arrive at Castle Black.
 menu_castle_black4|You arrive at Castle Black.
@@ -374,7 +388,6 @@ menu_yunkai_ship_2|As the ship sails on, you notice how the northern horizon bec
 menu_yunkai_ship_3|Sailing onwards, the ship soon leaves the Smoking Sea behind, and the mood of the crew lightens. As the ship passes the Isle of Cedars, a monkey somehow manages to climb onboard, and the crew takes this as an omen. Apparently, a monkey aboard signals the favor of R'hllor. The effect of their cheering startles the monkey, and the morale of the crew is raised even further when it throws its excrement at the captain.
 menu_yunkai|As the ship sails into the harbor of Yunkai, you notice a strong smell wafting off the city. It carries the usual smells of a great many people living together, sweat, smoke and shit, but with the additional scent of spices mixed in. As you step off the ship, you're quickly carried to the town square by the throng of people heading that same way.
 menu_yunkai_town_square|Having seen Yunkai, you ponder what to do next.
-mno_enter3|Join a caravan to Meereen.
 menu_way_to_meereen|Heading onwards through the scorched canyons and flat hills that make up the greater part of Slaver's Bay, you finally see Meereen in the distance, the Great Pyramid towering above the city.
 menu_meereen_town_square|Having seen Meereen, you ponder what to do next.
 mno_enter4|Return to Volantis.
@@ -455,13 +468,22 @@ mno_castle_taken_claim_2|Request that {s3} be awarded to your {wife/husband}.
 mno_castle_taken_no_claim|Ask no rewards.
 menu_requested_castle_granted_to_player|You receive a message from your liege, {s3}.^^ {reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to you, with all due incomes and titles, to hold in {reg4?her:his} name for as long as you maintain your oath of homage.
 menu_dk_invasion_start_warning|Word has reached you that invaders have landed in the Stormlands. According to a man standing close by, who recounts one of the numerous rumors spreading across the land, they're half man, half beast. The man is shaking with fright as he describes their evil eyes, their black and golden armor, their helmets adorned with dragons, griffins and skulls. Supposively, they're the remnants of the men who have gone into exile in Essos over the years, twisted by greed, lust, loss and madness into wild beasts intent on setting the world afire.
-menu_dothraki_invasion|Word has reached you that an invading dothraki horde has laid siege to the fair city of Selhorys. According to a stranger standing close by, it is the khalasar of Khal Pono, who styles himself ruler of the Khizra. Noticing your look of bewilderment, the man explains that Khizra means 'Marsh' in dothraki and that the dothraki hordes who have made their territory east of Volantis have often claimed rulership of the marshes surrounding the Painted Mountains.
+menu_dothraki_invasion|Word has reached you that an invading dothraki horde has made the ancient ruins of Ar Noy their capital. According to a stranger standing close by, it is the khalasar of Khal Pono, who styles himself ruler of the Qevir. Noticing your look of bewilderment, the man explains that Qevir means 'Forest' in dothraki and that the dothraki hordes who have made their territory south of Qohor have often claimed rulership of the plains surrounding the Forest of Qohor.
 menu_wildling_invasion|'Dire news, my lord!', shouts an old man standing a few feet from you. 'In the black of night, wildlings assaulted Last Hearth, and took the castle! The Wall has fallen, and savages roam free!' The man is clearly frightened and walks away muttering curses and something about giants and grumpkins.
-menu_renly_quest_turncloak|Word is spreading across the land. A shadow entered the chambers of Renly Baratheon, a shadow with the form of a man. If not for the valor of the Rainbow Guard, Renly would now be dead. The would-be king did not escape unharmed though, but took multiple wounds and rumors are spreading that he has been left bedridden and unable to take charge of his army.
-menu_renly_quest_turncloak_2|Following the attempt on Renly Baratheons life, uncertainty has gripped the hearts of the storm lords. If Stannis has magic and shadowbinders at his command, then perhaps his cause is the one a wise man should support. Consequently, many of those who first joined Renly has turned their cloaks, proclaiming for Stannis instead. The Stormlands are now divided, and a bloody conflict is sure to follow, as brother fights brother.
-menu_renly_quest_turncloak_3|Chaos has engulfed the Stormlands, and the cause of Renly Baratheon has lost much of its luster to the many lords who supported his cause with enthusiasm at the start. The men of the Reach, many of whom hold no love for the Baratheons, have themselves become divided in their loyalties. Though the Tyrells continue to support Renly Baratheon due to their ties of blood and friendship, many of the lesser lords of the realm do not feel they have the same obligation and have started wavering in their support of the Baratheon pretender.
 menu_dk_invasion_start_warning_dorne_joins|News has reached you that the dornish lords march to the aid of the pretender, the one who calls himself Aegon the Sixth. A woman standing close by recounts the rumor, something she picked up in a tavern not far from your location. Soon, the rumor is confirmed when a raven is intercepted, proclaiming Doran Martells support for his supposed nephew and urging all the loyal and true lords of Westeros to join the cause of the true heir to the Iron Throne.
 menu_conquest_kings_landing_dragonstone|The forces of Stannis Baratheon have taken the capital city of King's Landing. Stannis now sits the Iron Throne, and the bastards Joffrey, Tommen and Myrcella have all been executed, as traitors and usurpers, along with their mother, Cersei Lannister. With the royal bastards dead, Tywin Lannister have quickly made peace with the northmen and proclaimed himself king, intending to restore the might of the long gone Kingdom of the Rock.
+menu_conquest_wyk_hall_by_player|Your forces have taken Wyk Hall, the former seat of House Drumm. Within the walls, deep in the cellars, is a locked door, behind which is kept the ancestral valyrian sword of House Drumm. The sword came into the possession of Hilmar Drumm when he outwitted an armored knight of the Westerlands with nothing but his wits and a wooden cudgel. He was thereafter known as Hilmar the Cunning. You decide to...
+mno_take_sword|Take the sword.
+mno_leave_sword|Leave the sword.
+menu_conquest_oldtown_by_player|Your forces have taken Oldtown, the former seat of House Hightower. Within the deep cellars of the tower from which the Hightowers take their name, is a door. Forged from the same mysterious substance as the rest of the foundations of the Hightower, it's black and smooth. Behind it is kept the valyrian sword, Vigilance. You decide to...
+menu_conquest_tumbleton_by_player|Your forces have taken Tumbleton. The site of a brutal battle during the Dance of the Dragons, where the town was completely ruined, the inhabitants are poor compared to the rest of the Reach. But one treasure in the keep at the center of the town is beyond compare. The ancestral valyrian sword of the now extinct House Roxton is kept deep within the chambers of the former lord. Wielded by 'Bold' Jon Roxton during the Dance, he used it to cut down the pretender Hugh Hammer, before himself falling before Hughs angry retainers. You decide to...
+menu_conquest_lys_by_player|Your forces have taken Lys, one of the Free Cities. As your men start to plunder the city, you come across the open doors of the Rogare Bank. During the Lyseni Spring, the Rogare Bank rivaled the Iron Bank of Braavos, but following the fall of Lysaro Rogare, the family lost much of their influence. Lysaros son, Moredo, led an army against Lys and wielded the valyrian sword, Truth, during his campaign. Deep within the vaults of the bank, the sword is still kept for the members of the family who embark on campaign. You decide to...
+menu_conquest_starfall_by_player|Your forces have taken Starfall, the former seat of House Dayne. Within the walls, in the Tower of the Palestone Sword, lies the ancestral great sword, Dawn. Forged from a fallen star, the sword has only been bestowed upon those members of House Dayne that where deemed worthy, and who where given the moniker 'The Sword of the Morning'. You decide to...
+menu_conquest_casterly_rock_by_player|Your forces have taken Casterly Rock, the former seat of House Lannister. Within the walls, in the vaults deep beneath the Rock, lies a fortune in gold, though not as much as you expected. The Lannisters have clearly seen fit to hide the greater part of their fortune. You decide to...
+mno_take_gold|Take the gold for yourself.
+mno_leave_gold|Distribute the gold between your men.
+menu_conquest_lannisport_by_player|Your forces have taken Lannisport, the greatest city of the Westerlands. The merchants, and especially the goldsmiths, are renowned far and wide for their wealth. It seems a great many of them escaped by ship during the siege, but the houses of the city still contain a fortune in coin and gold. You decide to...
+menu_conquest_riverrun_westerlands|The forces of the Westerlands have taken the castle of Riverrun. The conquest of the castle has caused disunity amongst the riverlords, with the Freys of the Crossing having renounced their allegiance to Robb Stark, turning their cloaks and joining Tywin Lannister.
 menu_conquest_kings_landing_stormlands|The forces of Renly Baratheon have taken the capital city of King's Landing. Renly now sits the Iron Throne, and the bastards Joffrey, Tommen and Myrcella have all been executed, as traitors and usurpers, along with their mother, Cersei Lannister. With the royal bastards dead, Tywin Lannister have quickly made peace with the northmen and proclaimed himself king, intending to restore the might of the long gone Kingdom of the Rock.
 menu_conquest_kings_landing_reach|The forces of the Reach have taken the capital city of King's Landing. Renly Baratheon now sits the Iron Throne, and the bastards Joffrey, Tommen and Myrcella have all been executed, as traitors and usurpers, along with their mother, Cersei Lannister. With the royal bastards dead, Tywin Lannister have quickly made peace with the northmen and proclaimed himself king, intending to restore the might of the long gone Kingdom of the Rock.
 menu_dk_stannis_start_warning|A nearby man is whispering to his wife. Edging closer, you overhear part of their conversation. From what you can make out, it appears Stannis Baratheon has laid claim to the throne. When you confront the peasant, he confirms your suspicions, declaring Stannis an ungodly man, working with demons from beyond the edge of the world and plotting to tear down the Sept of Baelor.
@@ -539,7 +561,7 @@ mno_improve_cont|Go on.
 mno_improve_not_enough_gold|I don't have enough money for that.
 menu_town_bandits_failed|{s4} {s5}
 menu_town_bandits_succeeded|The bandits fall before you as wheat to a scythe! Soon you stand alone in the streets while most of your attackers lie unconscious, dead or dying. Searching the bodies, you find a purse which must have belonged to a previous victim of these brutes. Or perhaps, it was given to them by someone who wanted to arrange a suitable ending to your life.
-menu_village_steal_cattle_confirm|As the most skilled pilferer of your company, ({reg2}), {reg3?you reckon:{s1} reckons} that you can steal as many as {reg4} heads of village's cattle.
+menu_village_steal_cattle_confirm|As the most skilled pilferer of your company, ({reg2}), {reg3?you reckon:{s1} reckons} that you can steal as many as {reg4} heads of cattle.
 mno_village_steal_cattle_confirm|Go on.
 menu_village_steal_cattle|{s1}
 menu_village_take_food_confirm|It will be difficult to force and threaten the peasants into giving their precious supplies. You think you will need at least one hour.
@@ -587,43 +609,22 @@ mno_dplmc_castle_give_troops|Give troops to the garrison (cannot remove)
 mno_castle_wait|Wait here for some time{s1}.
 mno_dplmc_guild_master_meeting|Meet the Guild Master.
 mno_dplmc_guild_master_meeting_denied|You have not met the Guild Master yet.
-mno_town_bank|Visit the Iron Bank of Braavos.
-mno_recruit_nobles|Recruit volunteers.
-mno_recruit_sellswords_braavos|Recruit sellswords.
-mno_recruit_sellswords_lorath|Recruit sellswords.
-mno_recruit_sellswords_pentos|Recruit sellswords.
-mno_recruit_sellswords_norvos|Recruit sellswords.
-mno_recruit_sellswords_qohor|Recruit sellswords.
-mno_recruit_sellswords_myr|Recruit sellswords.
-mno_recruit_sellswords_tyrosh|Recruit sellswords.
-mno_recruit_sellswords_lys|Recruit sellswords.
-mno_recruit_sellswords_volantis|Recruit sellswords.
-mno_special_room_painted_table|Visit the Chamber of the Painted Table.
-mno_special_room_renly_quest_pitch|Visit the Pitch Market.
-mno_special_room_coppersmiths_wynd|Visit Coppersmiths Wynd.
+mno_recruit_nobles|Recruit sellswords.
+mno_special_recruit_white_harbor_1|Visit Fishfoot Yard.
+mno_special_room_dragon_dungeon|Visit the Cellars.
+mno_special_room_iron_bank|Visit the Iron Bank.
+mno_special_room_coppersmiths_wynd_1|Visit Coppersmiths Wynd.
+mno_special_room_coppersmiths_wynd_2|Visit Coppersmiths Wynd.
 mno_special_room_iron_throne_room|Visit the Great Hall.
+mno_special_room_tower_of_the_hand|Visit the Tower of the Hand.
+mno_special_room_dawn_room|Visit the Tower of the Palestone Sword.
+mno_special_room_qohor_blacksmith|Visit Elos Mott's shop.
+mno_special_room_umber_kitchen|Visit the kitchens.
 mno_special_room_citadel|Visit the Citadel.
+mno_special_room_lannisport_bookstore|Visit the Illuminated Lioness.
 mno_black_cells_1|Enter the Black Cells of the Red Keep.
 mno_black_cells_2|Enter the Black Cells of the Red Keep.
 mno_thirsty_goat|Visit the Thirsty Goat.
-mno_recruit_white_harbor_town|Visit Fishfoot Yard.
-mno_recruit_barrowton_town|Visit Roddy's Street.
-mno_recruit_deepwood_motte_town|Visit the Sheepfold.
-mno_recruit_raventree_hall_town|Visit the Godswood.
-mno_recruit_stone_hedge_town|Visit the Village.
-mno_recruit_crossing_town|Visit the Toll House.
-mno_recruit_sarsfield_town|Visit the Clinking Coin Inn.
-mno_recruit_banefort_town|Visit the Woods of the Hooded Man.
-mno_recruit_casterly_rock_town|Visit the Barracks.
-mno_recruit_lannisport_town|Visit the Harbor.
-mno_recruit_runestone_town|Visit the Tourney Grounds.
-mno_recruit_longbow_hall_town|Visit the Hunters Gate.
-mno_recruit_nightsong_town|Visit the Marching Field.
-mno_recruit_stonehelm_town|Visit the Ten Bells.
-mno_recruit_oldtown_town|Visit the Thieve's Market.
-mno_recruit_arbor_town|Visit Stonecrab Cay.
-mno_recruit_skyreach_town|Visit the Hawk Gate.
-mno_recruit_driftmark_town|Visit the Ruins of Spicetown.
 mno_town_leave|Leave...
 mno_town_leave_door|Leave Area.
 menu_cannot_enter_court|There is a feast in progress in the lord's hall, but you are not of sufficient status to be invited inside. Perhaps increasing your renown would win you admittance -- or you might also try distinguishing yourself at the melee while the feast is in progress...
@@ -775,13 +776,13 @@ menu_question_peace_offer|You Receive a Peace Offer^^{s1} offers you a peace agr
 mno_peace_offer_accept|Accept
 mno_dplmc_peace_offer_terms|Dictate the peace terms
 mno_peace_offer_reject|Reject
-menu_notification_truce_expired|Truce Has Expired^^The truce between {s1} and {s2} has expired.
+menu_notification_truce_expired|The truce between {s1} and {s2} has expired.
 menu_notification_feast_quest_expired|{s10}
-menu_notification_sortie_possible|Enemy Sighted: Enemies have been sighted outside the walls of {s4}, and {s5} and others are preparing for a sortie. You may join them if you wish.
-menu_notification_casus_belli_expired|Sovereignty Fails to Respond^^Envoys of {s2} have caused discord in the realm of {s1}, and {s3} as a result has suffered a loss of face...^
-menu_notification_lord_defects|Defection: {s4} has abandoned {s5} and joined {s7}, taking {reg4?her:his} fiefs with {reg4?her:him}
-menu_notification_treason_indictment|Treason Indictment^^{s9}
-menu_notification_border_incident|Border incident^^Word reaches you that {s9}. Though you don't know whether or not the rumors are true, you do know one thing -- this seemingly minor incident has raised passions among {s4}, making it easier for them to go to war against {s3}, if they want it...
+menu_notification_sortie_possible|Enemies have been sighted outside the walls of {s4}, and {s5} and others are preparing for a sortie. You may join them if you wish.
+menu_notification_casus_belli_expired|Envoys of {s2} have caused discord in the realm of {s1}, and {s3} as a result has suffered a loss of face...^
+menu_notification_lord_defects|{s4} has abandoned {s5} and joined {s7}, taking {reg4?her:his} fiefs with {reg4?her:him}
+menu_notification_treason_indictment|{s9}
+menu_notification_border_incident|Word reaches you that {s9}. Though you don't know whether or not the rumors are true, you do know one thing -- this seemingly minor incident has raised passions among {s4}, making it easier for them to go to war against {s3}, if they want it...
 menu_notification_player_faction_active|You now possess land in your name and are not the subject of another noble. This makes you a ruler in your own right, with your court temporarily located at {s12}. However, the other sovereigns will at first consider you a threat, for if any upstart warlord can grab a throne, then their own legitimacy is called into question.^^You may find it desirable at this time to pledge yourself to an existing kingdom. If you want to continue as a sovereign ruler, then your first priority should be to establish an independent right to rule. You can establish your right to rule through several means -- marrying into a high-born family, recruiting new lords, governing your lands, treating with other rulers, or dispatching your companions on missions.^^At any rate, your first step should be to appoint a chief minister from among your companions, to handle affairs of state. Different companions have different capabilities.^You may appoint new ministers from time to time. You may also change the location of your court, by speaking to the minister.
 mno_appoint_spouse|Appoint your {reg0?wife:husband}, {s10}...
 mno_dplmc_appoint_spouse_plus_1|Appoint your {reg0?wife:husband}, {s10}...
@@ -816,23 +817,23 @@ mno_appoint_default|Appoint a prominent citizen from the area...
 menu_minister_confirm|{s9}can be found at your court in {s12}. You should consult periodically, to avoid the accumulation of unresolved issues that may sap your authority...
 menu_notification_court_lost|{s12}
 menu_notification_player_faction_deactive|Your sovereignty no longer holds fief to any land.
-menu_notification_player_wedding_day|{s8} wishes to inform you that preparations for your wedding at {s10} have been complete, and that your presence is expected imminently .
+menu_notification_player_wedding_day|{s8} wishes to inform you that preparations for your wedding at {s10} have been complete, and that your presence is expected imminently.
 menu_notification_player_kingdom_holds_feast|{s11}
 menu_notification_center_under_siege|{s1} has been besieged by {s2} of {s3}!
-menu_notification_village_raided|Enemies have Laid Waste to a Fief^^{s1} has been raided by {s2} of {s3}!
-menu_notification_village_raid_started|Your Village is under Attack!^^{s2} of {s3} is laying waste to {s1}.
-menu_notification_one_faction_left|Calradia Conquered by One Kingdom^^{s1} has defeated all rivals and stands as the sole kingdom.
-menu_notification_oath_renounced_faction_defeated|Your Old Faction was Defeated^^You won the battle against {s1}! This ends your struggle which started after you renounced your oath to them.
-menu_notification_center_lost|An Estate was Lost^^You have lost {s1} to {s2}.
-menu_notification_troop_left_players_faction|Betrayal!^^{s1} has left {s2} and joined {s3}.
-menu_notification_troop_joined_players_faction|Good news!^^ {s1} has left {s2} and joined {s3}.
-menu_notification_war_declared|Declaration of War^^{s1} has declared war against {s2}!
-menu_notification_peace_declared|Peace Agreement^^{s1} and {s2} have made peace!^{s57}
+menu_notification_village_raided|{s1} has been raided by {s2} of {s3}!
+menu_notification_village_raid_started|Your village is under attack! {s2} of {s3} is laying waste to {s1}.
+menu_notification_one_faction_left|{s1} has defeated all rivals and stands as the sole kingdom.
+menu_notification_oath_renounced_faction_defeated|You won the battle against {s1}! This ends your struggle which started after you renounced your oath to them.
+menu_notification_center_lost|You have lost {s1} to {s2}.
+menu_notification_troop_left_players_faction|Betrayal! {s1} has left {s2} and joined {s3}.
+menu_notification_troop_joined_players_faction|Good news! {s1} has left {s2} and joined {s3}.
+menu_notification_war_declared|{s1} has declared war against {s2}!
+menu_notification_peace_declared|{s1} and {s2} have made peace!^{s57}
 menu_notification_faction_defeated|An independent faction has ceased to exist.
 menu_notification_kingdom_restoration|{s10} have renounced their allegiance to {s12} and declared themselves the rulers of {s11}.
-menu_notification_rebels_switched_to_faction|Rebellion Success^^ Your rebellion is victorious! Your faction now has the sole claim to the title of {s11}, with {s12} as the single ruler.
+menu_notification_rebels_switched_to_faction|Your rebellion is victorious! Your faction now has the sole claim to the title of {s11}, with {s12} as the single ruler.
 menu_notification_player_should_consult|{reg0?Your minister:{s11}} send word that there are problems brewing in the realm which, if left untreated, could sap your authority. You should consult with {reg4?her:him} at your earliest convenience
-menu_notification_player_feast_in_progress|Feast in Preparation^^Your {wife/husband} has started preparations for a feast in your hall in {s11}
+menu_notification_player_feast_in_progress|Your {wife/husband} has started preparations for a feast in your hall in {s11}
 menu_notification_lady_requests_visit|An elderly woman approaches your party and passes one of your men a letter, sealed in plain wax. It is addressed to you. When you break the seal, you see it is from {s15}. It reads, 'I so enjoyed your last visit. {s14} I am currently in {s10}.{s12}'
 mno_continue_visit_yes|Tell the woman to inform her mistress that you will come shortly
 mno_continue_visit_no|Tell the woman to inform her mistress that you are indisposed
@@ -876,11 +877,11 @@ mno_no_npcs|No
 menu_choose_options_3|Do you wish to play with the fog of war?
 menu_choose_options_end|Game options selection complete.
 menu_town_menu_cheats|CHEATS.
-menu_dplmc_notification_alliance_declared|Alliance Agreement^^{s1} and {s2} have formed an alliance!^{s57}
+menu_dplmc_notification_alliance_declared|{s1} and {s2} have formed an alliance!^{s57}
 mno_dplmc_continue|Continue...
-menu_dplmc_notification_defensive_declared|Defensive Pact^^{s1} and {s2} have agreed to a defensive pact!^{s57}
-menu_dplmc_notification_trade_declared|Trade Agreement^^{s1} and {s2} have signed a trade agreement!^{s57}
-menu_dplmc_notification_nonaggression_declared|Non-aggression Treaty^^{s1} and {s2} have concluded a non-aggression treaty!^{s57}
+menu_dplmc_notification_defensive_declared|{s1} and {s2} have agreed to a defensive pact!^{s57}
+menu_dplmc_notification_trade_declared|{s1} and {s2} have signed a trade agreement!^{s57}
+menu_dplmc_notification_nonaggression_declared|{s1} and {s2} have concluded a non-aggression treaty!^{s57}
 menu_dplmc_question_alliance_offer|You Receive an Alliance Offer^^{s1} wants to form an alliance with you. What is your answer?
 mno_dplmc_alliance_offer_accept|Accept
 mno_dplmc_alliance_offer_reject|Reject
@@ -890,12 +891,12 @@ mno_dplmc_defensive_offer_reject|Reject
 menu_dplmc_question_trade_offer|You Receive a Pact Offer^^{s1} offers you a trade pact. What is your answer?
 mno_dplmc_trade_offer_accept|Accept
 mno_dplmc_trade_offer_reject|Reject
-menu_dplmc_question_nonaggression_offer|You Receive a Pact Offer^^{s1} offers you a non-aggression treaty. What is your answer?
+menu_dplmc_question_nonaggression_offer|{s1} offers you a non-aggression treaty. What is your answer?
 mno_dplmc_nonaggression_offer_accept|Accept
 mno_dplmc_nonaggression_offer_reject|Reject
-menu_dplmc_notification_alliance_expired|Alliance Has Expired^^The alliance between {s1} and {s2} has expired and was degraded to a defensive pact.
-menu_dplmc_notification_defensive_expired|Defensive Pact Has Expired^^The defensive pact between {s1} and {s2} has expired and was degraded to a trade agreement.
-menu_dplmc_notification_trade_expired|Trade Agreement Has Expired^^The trade agreement between {s1} and {s2} has expired and was degraded to a non-aggression treaty.
+menu_dplmc_notification_alliance_expired|The alliance between {s1} and {s2} has expired and was degraded to a defensive pact.
+menu_dplmc_notification_defensive_expired|The defensive pact between {s1} and {s2} has expired and was degraded to a trade agreement.
+menu_dplmc_notification_trade_expired|The trade agreement between {s1} and {s2} has expired and was degraded to a non-aggression treaty.
 menu_dplmc_dictate_terms|Dictate your peace terms.
 mno_dplmc_demand_4000|Demand 4000 coins
 mno_dplmc_demand_8000|Demand 8000 coins
@@ -965,141 +966,137 @@ mno_prev|go to the previous lines
 mno_next|go to the next lines
 mno_close|close
 menu_entrenched_camp|  Your fortifications are complete.    
-menu_event_01_juicio|Two farmers, one very tall and lanky, the other low and stocky, were presented to you, to discuss the ownership of a calf. Apparently their fields were bordering and the tall farmer had a bull that impregnated a cow belonging to the other farmer.The stocky farmer said the calf was his because it was his cow giving birth. The tall farmer claimed the calf to be his, being the offspring of his best bull, or at least financial compensation.
-mno_choice_01_1n|The owner of the cow is right. The calf is yours, just like the cow is.
+menu_event_01_juicio|Two farmers, one very tall and lanky, the other low and stocky, were presented to you, to discuss the ownership of a calf. Apparently their fields were bordering and the tall farmer had a bull that impregnated a cow belonging to the other farmer.The stocky farmer said the calf was his because it was his cow giving birth. The tall farmer claimed the calf to be his, being the offspring of his best bull..
+mno_choice_01_1n|The owner of the cow is right. The calf is his, just like the cow is.
 mno_choice_01_2n|The owner of the bull is right. The bull is his and the calf too.
 mno_choice_01_3n|The owner of the cow will keep the calf, and offer financial compensation to the owner of the bull.
-mno_choice_01_4n|Neither is right. I'll stick with the calf and beef!
-mno_choice_01_5n|Neither is right. Kill the calf and distribute its meat to the two farmers!
+mno_choice_01_4n|Neither is right. I'll keep the calf, the cow and the bull.
+mno_choice_01_5n|Neither is right. Kill the calf and distribute its meat to the two farmers.
 menu_event_02_juicio|'My liege, we captured the attacker! This is the man who attacked one of your messengers, who is now lying seriously injured', says on of your men. This doesn't show us in the best of light, the messenger was under your protection. But the attacker has an interesting story, and his wish was to tell it to you before he was executed.^^'My liege! I would have never thought of attacking your messenger but... that man wished to sleep with my young daughter for the night. Of course his offer was refused! However he never accepted the answer, entered my house with his three friends, and robbed my dear daughter of her virtue, laughing that you, my lord, will never believe a farmers word. I tried what I could think of, and I regret that I seriously injured him while he was under your personal protection, but a father must protect his only child! Please be reasonable to your humble servant!'
-mno_choice_02_1n|The messenger was under my protection. You and your family will be executed at dawn, all your belongings confiscated!
-mno_choice_02_2n|The messenger is important, but I will be reasonable with you: Your family will not be punished, it is only you who will hang.
-mno_choice_02_3n|While the messenger is important, I would have done the same. You can go, the king has spoken!
-mno_choice_02_4n|What? Throw the messenger out on the streets, how dare he abuse the peasantry!
+mno_choice_02_1n|Execute the farmer, and his entire family.
+mno_choice_02_2n|Hang the farmer, but leave his family be.
+mno_choice_02_3n|The messenger deserved his fate. The farmer is free to go.
 menu_event_03_juicio|You summon two men to decide their fate. One is a knight, while the other is a man-at-arms sworn to the same knight. It seems what happened is that the knight didn't have enough gold to pay his man, so the man-at-arms took the knights daughter to his own bed and had his way with her.
-mno_choice_03_1n|Geld the man-at-arms, he violated the knights honor.
-mno_choice_03_2n|Punish the knight, he failed in his duty.
-mno_choice_03_3n|Ask to see the daughter, and when she is brought forth, you decide it was punishment enough that the man-at-arms had to sleep with her.
-mno_choice_03_4n|Compensate the knight for this crime, out of your own coffers, and pay the man-at-arms the coin due to him. Then hang him. It will cost 2000 coins.
+mno_choice_03_1n|Geld the man-at-arms.
+mno_choice_03_2n|Punish the knight.
+mno_choice_03_4n|Pay the man-at-arms the coin due to him. Then hang him. It will cost 200 coins.
 menu_event_04_juicio|One of your sworn men approaches you. He states that among the men, there is much dissatiafaction. Pertaining that you are too placid and that there is too little gold and honour to be won under your service.
 mno_choice_04_1n|Distribute 1000 coins amongst the men.
 mno_choice_04_2n|Tell your men to be quiet.
-mno_choice_04_3n|Kill the man who approached you and state there shall be no more talk of sedition.
+mno_choice_04_3n|Have the man who approached you whipped, and state there shall be no more talk of sedition.
 mno_choice_04_4n|Promise to make amends soon.
-menu_event_05_juicio|After having feasted your lords repeatedly for the last four months, it appears your tunic no longer slips over your head. You have begun wearing open chest tunics and generally snacking on delicious fruits from the east. Dinner is, of course, a spiced pig, drowned in butter, and roasted to perfection. A local maester, however, feels you have reached some sort of tipping point, and has suggested fresh air and a general course of exercise, and a limited diet.
+menu_event_05_juicio|After having feasted your lords repeatedly for the last four months, it appears your tunic no longer slips over your head. You have begun wearing open chest tunics and generally snacking on delicious fruits from Volantis. Dinner is, of course, a spiced pig, drowned in butter, and roasted to perfection. A local maester, however, feels you have reached some sort of tipping point, and has suggested fresh air, a general course of exercise, and a limited diet.
 mno_choice_05_1n|Eat more food and get rid of the maester.
-mno_choice_05_2n|Go on a pilgrimage to the nearest public bath house, to regain your figure. It will cost 300 coins.
-mno_choice_05_3n|Existing entirely on bowls of beans and lentils, you develop a foul temper, but at least you're no longer fat.
+mno_choice_05_2n|Work out every morning.
+mno_choice_05_3n|Eat healthier, to the detriment of your temper.
 menu_event_06_juicio|Your lover tarries with a youth of soft skin and white curls that have an almost valyrian style to them. Indeed your lover even calls him a young Aegon, it is rumoured. Whilst it is okay for you to practise your love-making amongst the local women, for your lover to taint your relationship in such a manner is...
 mno_choice_06_1n|Fine.
 mno_choice_06_2n|Horrible! Have the youth seized and gelded!
 mno_choice_06_3n|Move in an old nurse, to keep an eye on your lover.
-menu_event_07_juicio|The crop this year has whithered miserably under the sun. As the first snow has fallen, there are many who fear the long months of winter as starvation looms. What should we do, my liege?
-mno_choice_07_1n|I cannot spare any grain as I have to feed my household. Besides... there are feasts to be had.
-mno_choice_07_2n|Distribute some wagons of grain to my people, it is the most I can spare.
-mno_choice_07_3n|Spend 5000 coins on grain from the Summer Islands!
-mno_choice_07_4n|Let them starve! Serves them right for not tending to their crops carefully enough!
-menu_event_08_juicio|One of your vassals approach you, stating he has an illegitimate son who wishes to join your bodyguard. You agree to meet the boy as it would be unseemly to flat out reject a noble. When you meet the boy, however it is clear that he is rather homely and certainly not a man of war. Faced with this plump, smiling young man you...
+menu_event_07_juicio|The crop this year has whithered miserably under the sun. As the first snow has fallen, there are many who fear the long months of winter as starvation looms. You decide to...
+mno_choice_07_1n|Keep feasting.
+mno_choice_07_2n|Distribute some wagons of grain to the people..
+mno_choice_07_3n|Spend 5000 coins on grain imported from the east.
+mno_choice_07_4n|Let the people starve.
+menu_event_08_juicio|One of your vassals approach you, stating he has an illegitimate son who wishes to join your bodyguard. You agree to meet the boy as it would be unseemly to flat out reject a noble. When you meet the boy, however it is clear that he is rather homely and certainly not a man of war. Faced with this plump, smiling, young man you...
 mno_choice_08_1n|Allow him to join your bodyguard.
 mno_choice_08_2n|Ask for a payment of 500 coins to grease the deal.
 mno_choice_08_3n|Refuse outright.
-menu_event_09_juicio|Two men, each with their own proposal, come before you on the same day. One is a young lisping scholar called Mycah who proposes the building of more libraries and a fund to be set aside to buy and maintain books of knowledge. Although his case is eloquent, the delivery is less so.Another man comes forward. A hulking great bearded warrior of a man who makes Mycah visibly wince in his shadow, he suggests the funds be better allocated in purchasing weapons, horses and shields, things that can be used today and are not merely fantasies.
-mno_choice_09_1n|Choose Mycah, stating that a wise ruler has need of books far more than the sword. It will cost 3000 coins
-mno_choice_09_2n|Choose the warrior, stating that books have no place in this age of war. It will cost 3000 coins
-mno_choice_09_3n|State a country needs both men of knowledge and men of war, and that you will provide enough coin for everyone! It will cost 6000 coins
+menu_event_09_juicio|Two men, each with their own proposal, come before you on the same day. One is a young lisping scholar who proposes the building of more libraries and a fund to be set aside to buy and maintain books of knowledge. Although his case is eloquent, the delivery is less so.The other man comes forward. A hulking great bearded warrior of a man who makes the scholar visibly wince in his shadow, he suggests the funds be better allocated in purchasing weapons, horses and shields, things that can be used today and are not merely fantasies.
+mno_choice_09_1n|Choose the scholars proposal. A wise ruler has need of books far more than the sword. It will cost 3000 coins
+mno_choice_09_2n|Choose the warrior. Books have no place in this age of war. It will cost 3000 coins
+mno_choice_09_3n|A realm needs men of both knowledge and war. It will cost 6000 coins
 mno_choice_9_4n|Ignore them.
-menu_event_10_juicio|A searing flash is seen across the night sky. There is much talk of omens the next day. Amongst the people of {s1} there is a general consensus that some act of sacrifice must be made or surely the Gods will unleash their wrath upon the land. The practice of the wickerman suddenely gains impetus, as it is near harvest time. You find a young maiden, freshly flowered, and she is treated as a living goddess until just before harvest...
+menu_event_10_juicio|A searing flash is seen across the night sky. There is much talk of omens the next day. Amongst the people of {s1} there is a general consensus that some act of sacrifice must be made or surely the gods will unleash their wrath upon the land. The practice of the wickerman suddenely gains impetus, as it is near harvest time. You find a young maiden, freshly flowered, and she is treated as a living goddess until just before harvest, when you decide to...
 mno_choice_10_1n|Order the girl burned inside a wickerman of straw.
-mno_choice_10_2n|You refuse to enact such a barbaric practice and you send the girl away from the town to safety.
+mno_choice_10_2n|Banish the girl from your land.
 mno_choice_10_3n|Ignore the whole affair.
 menu_event_11_juicio|The sound of a galloping horse pierces the cold morning, and you run outside to find a scout. He tells you a strange ship carrying men who speak a strange language has been shipwrecked at the nearest coast. What do you do?
-mno_choice_11_1n|Immediately send a warband to investigate and search for valuables. If there are any survivors, kill them.
-mno_choice_11_2n|Immediately send a warband to investigate and search for valuables.
+mno_choice_11_1n|Send a few men to investigate and search for valuables. If there are any survivors, kill them.
+mno_choice_11_2n|Send a few men to investigate and search for valuables.
 mno_choice_11_3n|Do nothing.
-menu_event_12_juicio|The runner arrives at the courtroom, and after you allow it, starts to tell dire news. 'My liege, a village is in great danger! The populace has some kind of strange sickness, they can hardly move, they sweat blood, and vomit! And the local wise-woman has no cure for it. The lord of the village doesn't let anyone out for the moment, and is waiting on your orders!'
-mno_choice_12_1n|Dire news indeed! The quarantine should stay, but I will send aid!
-mno_choice_12_2n|Dire news indeed! The quarantine should stay, and we will examine the survivors when the epicemic is over!
-menu_event_13_juicio|The servants approach you: My lord, the childbirth is not going well! We tried everything we could, but it seems that the young lady is simply not suited for the ordeal. All that is left is to pray.
-mno_choice_13_1n|Everybody, kneel down and start praying!
-mno_choice_13_2n|Hah! You servants are good for nothing! Guards, bring me the wise woman from the village, NOW!.
-menu_event_14_juicio|One day, a loyal warrior comes to you with a strange request. 'My lord, I am in a bind! I spent all my money on proper equipment and troops, so that I can serve you well. However, my daughter is about to marry, and I cannot give a proper dowry to the husband'.
-mno_choice_14_1n|Give the man 1000 coins.
-mno_choice_14_2n|Everyone should plan ahead. I will grant you 500 coins, but this is the last time.
-mno_choice_14_3n|No, you should have saved up the coin!
-menu_event_15_juicio|One day, your servant arrives at your court, he seems very enthusiastic! 'My lord, I have splendid news! There is a hermit from the Red Mountains in the nearby village now, and he is willing to give us a piece of blessed Baelors hair! I cannot believe that our lands has the opportunity to gain such a famous relic!'
-mno_choice_15_1n|Baelors hair is everywhere! I have no need for fake relics!
-mno_choice_15_2n|Our lands shall be blessed indeed.
-menu_event_16_juicio|You were having a feast with your companions when a messenger from the guild masters came before you. 'My liege, there is a situation developing in the town and we need your council.' You stepped outside, but took your mighty weapon with you.^^There is a great deal of rumble among the crowd, but when you appear, silence falls over the audience. An ancient man bows to you and ask permission to speak, which you give, and  he says: 'My liege, here is a case worthy of your wisdom. There are two women who claim to be the mother of this child.^You say to the crowd 'Let their faces be known'. Two women show up, one in plain clothes and another in rags. You say 'If neither agree, the child will be cut in half' You direct your guards to cut the child in half and give one half to each of the women.Then the woman in rags scream and says 'No please my great king, let the other women have the child. You stare at her and say: 'Your are the rightful mother and this child belongs to you'. The woman in rags fall down sobbing with joy, and when your men ask you what to do with the other claimaint, you tell them:
-mno_choice_16_1n|Imprison her in the darkest dungeon.
-mno_choice_16_2n|Hang her.
-mno_choice_16_3n|Give her and the crowd a speech about honesty and honor, and let her live.
-menu_event_17_juicio|Your advisor, streaked with dirt and sunburned, arrives after inspecting the harvest. 'My liege, the harvest is poor this year. If you do not reduce taxes there will be nothing to feed the smallfolk this winter.'
-mno_choice_17_1n|And if I reduce taxes I will have to release men from their oaths, and our enemies would overrun us. Better a empty gut than a cut throat.
-mno_choice_17_2n|Then reduce the tax. It will cost 2000 coins
-menu_event_18_juicio|A peasant from a nearby village comes to you as a supplicant. He breathlessly reports that armed men have raided your holdings, carrying off women, cattle and grain. He is spattered with blood and stinks of burned thatch.
-mno_choice_18_1n|Gather my men! We'll avenge this insult! It will cost 300 coins.
-mno_choice_18_2n|There is nothing to be done here. Away with you, mongrel!
-mno_choice_18_3n|There will be war. You have done well to report this to me.
-mno_choice_18_4n|How can I be sure it wasn't a band of outlaws or madmen? There is little I can do for you.
-menu_event_19_juicio|A whore is accused of witchcraft, after several men-at-arms, sworn to your vassal, reported pain while relieving themselves. Your vassal backs their claim, and you suspect he might have the same complaint but know better than to air it publicly.
-mno_choice_19_1n|Banish the whore, exiling her to the forest.
-mno_choice_19_2n|Have the whore secretly executed.
-mno_choice_19_3n|Witches! Where there's one, there's many! Kill the witch and ensure the sanctity of your holdings by killing anyone else accused of witchcraft!
-menu_event_20_juicio|A holy man comes upon you, and tells you that most of the inhabitants of one of your villages, where he was preaching his odd religion, has taken up arms and attacked him and his followers. The cause, he says, was that he wanted the villagers to eat dirt.
-mno_choice_20_1n|This man is obviously insane.
-mno_choice_20_2n|This man is right! They should eat dirt!
-mno_choice_20_3|We should all eat dirt!
+menu_event_12_juicio|The runner arrives at the courtroom, and after you allow it, starts to tell dire news. 'My liege, a village is in great danger! The populace has some kind of strange sickness, they can hardly move, they sweat blood, and vomit! And the local wise-woman has no cure for it. The elder of the village isn't letting anyone out for the moment, and is waiting on your orders!' You decide to...
+mno_choice_12_1n|Keep the village quarantined.
+mno_choice_12_2n|Keep the village quarantined, and order everyone who tries to leave killed.
+menu_event_13_juicio|A young lady has taken to her bed, heavy with child. After a few hours, a servant approaches you. 'My lord' he says 'The childbirth is not going well! We tried everything we could, but it seems that the young lady is simply not suited for the ordeal. All that is left is to pray.' You decide to...
+mno_choice_13_1n|Order everyone to kneel down and start praying!
+mno_choice_13_2n|Ignore the whole thing.
+menu_event_14_juicio|One day, a loyal warrior comes to you with a strange request. 'My lord, I am in a bind! I spent all my money on proper equipment and food, so that I can serve you well. However, my daughter is about to marry, and I cannot give a proper dowry to the husband'. You decide to...
+mno_choice_14_1n|Give the man 500 coins.
+mno_choice_14_2n|Give the man 200 coins.
+mno_choice_14_3n|Ignore him.
+menu_event_15_juicio|One day, a farmer arrives at your court. He seems very enthusiastic. 'My lord, I have splendid news! There is a hermit from the Red Mountains in the nearby village now, and he is willing to give us a piece of blessed Baelors hair! I cannot believe that our lands has the opportunity to gain such a famous relic!' You decide to...
+mno_choice_15_1n|Ignore him. Baelor must have been hairy indeed, with all these relics.
+mno_choice_15_2n|Buy the hair for 200 coins.
+menu_event_16_juicio|A farmer comes before you with an old and rotten head in a burlap sack. He claims it was a grumkin he found living in a well on his farm, and that he slew the beast himself. Inspecting the head, it seems clear that this was no grumkin, but rather an ugly looking dwarf. You decide to...
+mno_choice_16_1n|Imprison him in the darkest dungeon.
+mno_choice_16_2n|Hang him.
+mno_choice_16_3n|Ignore the farmer.
+menu_event_17_juicio|Your advisor, streaked with dirt and sunburned, arrives after inspecting the harvest. 'My liege, the harvest is poor this year. If you do not reduce taxes there will be nothing to feed the smallfolk this winter.' You decide to...
+mno_choice_17_1n|Do nothing.
+mno_choice_17_2n|Reduce the taxes. It will cost 2000 coins
+menu_event_18_juicio|A peasant from a nearby village comes to you as a supplicant. He tells you, that while working the field, his plow brought up an old, but still beautiful, bronze goblet. As it is your land, he wanted to bring it to you straight away.
+mno_choice_18_1n|Pay the man 300 coins as a reward.
+mno_choice_18_3n|Dismiss him and keep the goblet.
+mno_choice_18_4n|Tell the farmer he can keep it.
+menu_event_19_juicio|A whore is accused of witchcraft, after several men-at-arms, sworn to one of your vassals, reported pain while relieving themselves. Your vassal backs their claim, and you suspect he might have the same complaint but know better than to air it publicly. You decide to...
+mno_choice_19_1n|Banish the whore.
+mno_choice_19_2n|Have the whore executed.
+mno_choice_19_3n|Kill the witch and ensure the sanctity of your holdings by killing anyone else accused of witchcraft!
+menu_event_20_juicio|A holy man comes upon you, and tells you that most of the inhabitants of one of your villages, where he was preaching his odd religion, has taken up arms and attacked him and his followers. The cause, he says, was that he wanted the villagers to eat dirt. You decide to...
+mno_choice_20_1n|Ignore him.
+mno_choice_20_2n|Agree with him. They should eat dirt!
+mno_choice_20_3|Agree with him. We should all eat dirt!
 mno_choice_20_4n|Ignore him.
-menu_event_21_juicio|Your peasants are every bit as vain and arrogant as the lords of this land.A dispute over something as idiotic as a dead chicken has caused a small war between two hamlets. A peasant has come to seek your help against the other villagers. He says the village will pay you.
+menu_event_21_juicio|Your peasants are every bit as vain and arrogant as the lords of this land.A dispute over something as idiotic as a dead chicken has caused a small war between two hamlets. A peasant has come to seek your help against the other villagers. He says the villagers will pay you. You decide to...
 mno_choice_21_1n|Agree to help.
 mno_choice_21_2n|Imprison the man, and declare his property forfeit and the lands given over to the other village.
 mno_choice_21_3n|Seize the lands for yourself and exile the peasant.
-menu_event_22_juicio|A woman from a nearby village comes to you claiming that one of your men, who has died recently, was her husband. She asks for assistance to take care of her deceased husbands child.
-mno_choice_22_1n|Give her some coin and send for a wetnurse. It will cost 500 coins.
+menu_event_22_juicio|A woman from a nearby village comes to you claiming that one of your men, who has died recently, was her husband. She asks for assistance to take care of her deceased husbands child. You decide to...
+mno_choice_22_1n|Give her 100 coins.
 mno_choice_22_2n|Ignore her.
-menu_event_23_juicio|Your lover approaches you with a request, 'My liege, would it not show your great mercy and honor if you where to provide for those who have suffered while serving under you? We have dozens of maimed, lame and aged soldiers begging for coin in the streets, and many families who have lost fathers and husbands in your battles. We need to reward and protect your loyal supporters or else men might be hesitant in the future to be in your retinue.'
-mno_choice_23_1n|Bah! Let the orphans and the beggars rot.
-mno_choice_23_2n|Send those outcasts my regards, but I regret there is nothing I can do for them.
-mno_choice_23_3n|I agree, we should support our veterans and their families. It will cost 2000 coins.
-mno_choice_23_4n|This is a tragedy! Immediately open my coffers and make it an official policy that all families shall receive support from their liege. It will cost 5000 coins.
-menu_event_24_juicio|A seemingly straightforward case is brought before you: Yesterday, the accused man broke into the victims house and removed large amounts of wealth. Many people saw him and the missing items were discovered in his house. But the victim was a influential supporter of the previous lord, had actually served as a councillor and was known to be of doubtful loyalties, while the accused was one of your most vocal supporters and had donated much money to your cause.
-mno_choice_24_1n|Ignoring the evidence, you settle in your mans favor, saying he was acting on your orders.
-mno_choice_24_2n|The evidence is clear, the accused is found guilty and has his hands cut off for theft!
-mno_choice_24_3n|You claim both parties are in the wrong, exiling them and confiscating all material pertaining to the case.
-menu_event_01|A singer composed a song about your noble deeds.
-mno_choice_01_1|Excellent!
+menu_event_23_juicio|Your lover approaches you with a request, 'My liege, would it not show your great mercy and honor if you where to provide for those who have suffered while serving under you? We have dozens of maimed, lame and aged soldiers begging for coin in the streets, and many families who have lost fathers and husbands in your battles. We need to reward and protect your loyal supporters or else men might be hesitant in the future to be in your retinue.' You decide to...
+mno_choice_23_1n|Ignore your lover.
+mno_choice_23_3n|Send them alms. It will cost 2000 coins.
+mno_choice_23_4n|Build a hospice for your loyal followers. It will cost 5000 coins.
+menu_event_24_juicio|A seemingly straightforward case is brought before you: Yesterday, the accused man broke into the victims house and removed large amounts of wealth. Many people saw him and the missing items were discovered in his house. But the victim was an influential supporter of the previous lord, had actually served as a councillor and was known to be of doubtful loyalties, while the accused was one of your most vocal supporters and had donated much money to your cause. You decide to...
+mno_choice_24_1n|Ignore the evidence and free the accused.
+mno_choice_24_2n|Have the accused mans hands cut off.
+mno_choice_24_3n|Exile both parties and claim their properties.
+menu_event_01|A singer has composed a song about your noble deeds. You decide to...
+mno_choice_01_1|Proclaim it excellent!
 mno_choice_01_2|Reward him with 200 coins.
-mno_choice_01_3|Noble deeds? A song? What a fool!
-menu_event_02|Tales of your deeds spread through the countryside. Everywhere you go, your procession is surrounded by beggars.
+mno_choice_01_3|Ignore him.
+menu_event_02|Tales of your deeds spread through the countryside. Everywhere you go, your procession is surrounded by beggars. You decide to...
 mno_choice_02_1|Donate 1000 coins to the local alms fund.
 mno_choice_02_2|Ignore them.
-menu_event_03|A young bard spreads rumors about your mother. Accusations of working in the world's oldest profession are the most delicate ones.
+menu_event_03|A young bard spreads rumors about your mother. Accusations of working in the world's oldest profession are the most delicate ones. You decide to...
 mno_choice_03_1|Challenge him to a duel.
 mno_choice_03_2|Ignore him.
-menu_event_04|You encounter a beggar and his daughter on the road. They look hungry.
+menu_event_04|You encounter a beggar and his daughter on the road. They look hungry. You decide to...
 mno_choice_04_1|Give them 200 coins.
 mno_choice_04_2|Ignore them.
-menu_event_05|A local bard is spreading false rumors about you. While most of the stories are just pure nonsense, sooner or later people will believe those stories.
-mno_choice_05_1|Let him speak what he wants. Every man has his rights.
+menu_event_05|A local bard is spreading false rumors about you. While most of the stories are just pure nonsense, sooner or later people will believe them. You decide to...
+mno_choice_05_1|Have him beaten by a group of peasants.
 mno_choice_05_2|Pay a local scribe 300 coins to spread positive rumors.
 mno_choice_05_5|Ignore him.
-menu_event_06|A mob of angry {s1} dwellers are complaining about corrupt tax collectors. They demand justice. The situation is getting worse by the minute. It looks like a riot is about to begin unless you do something.
+menu_event_06|A mob of angry {s1} dwellers are complaining about corrupt tax collectors. They demand justice. The situation is getting worse by the minute. It looks like a riot is about to begin unless you do something. You decide to...
 mno_choice_06_1|Begin an investigation and give the peasants 2000 coins.
-mno_choice_06_2|Order the town guards to prevent the mob from spreading and turning into a riot.
+mno_choice_06_2|Order the town guards to prevent the mob turning to rioting.
 mno_choice_06_3|Ignore them.
-menu_event_07|A single rider, looking poor and unarmed, approaches your party. Intercepted by your men he presents himself as a singer from {s1} and requests your permission to compose an ode about your magnificency and generosity. Your men exchange glances and then look at you waiting for an answer. You...
+menu_event_07|A single rider, looking poor and unarmed, approaches your party. Intercepted by your men he presents himself as a singer from {s1} and requests your permission to compose an ode about your magnificency and generosity. Your men exchange glances and then look at you waiting for an answer. You decide to...
 mno_choice_07_1|Grant permission to the singer and pay him 500 coins.
 mno_choice_07_2|Grant permission to the singer and pay him 100 coins.
 mno_choice_07_3|Allow the singer to compose the ode but offer him no payment.
 mno_choice_07_4|Ignore him.
-menu_event_08|You spot a single man riding hard towards your party. With a gesture of your hand, your men run to meet him. Intercepted by your men he presents himself as an emissary from one of the small villages in your hamlet and without delay informs you that an influential man has died {s2} and that his family requests that you agree to declare an official day of mourning in his honor. You...
+menu_event_08|You spot a single man riding hard towards your party. With a gesture of your hand, your men run to meet him. Intercepted by your men he presents himself as an emissary from one of the small villages in your hamlet and without delay informs you that an influential man has died {s2} and that his family requests that you agree to declare an official day of mourning in his honor. You decide to...
 mno_choice_08_1|Agree to the request and donate 500 coins to the widow.
 mno_choice_08_2|Refuse the request.
-menu_event_09|You are travelling through the forest and you suddenly spot a wild hare, trapped in a snare. What do you do?
+menu_event_09|You are travelling through the forest and you suddenly spot a wild hare, trapped in a snare. You decide to...
 mno_choice_09_1|Free the animal.
 mno_choice_09_2|Clench the snare and kill the hare!
 mno_choice_09_3|Ignore it.
-menu_event_10|You are travelling through the forest and you spot a peasant tied up a tree, probably by a bandit. What do you do?
+menu_event_10|You are travelling through the forest and you spot a peasant tied to a tree, probably by a bandit. You decide to...
 menu_law_event_1|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
 mno_choice_10_5|Outlaw heresy.
 mno_choice_10_6|Do nothing.
@@ -1107,10 +1104,10 @@ menu_law_event_2|You have decided to bring order to your holdings, by introducin
 menu_law_event_3|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
 menu_law_event_4|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
 menu_law_event_5|You have decided to bring order to your holdings, by introducing a new law. After consulting your courtiers, you decide to...
-menu_crusader_kings_event_1|You're resting on a bench in a small village. Sitting near the village center, you overhear the many conversations people are having. The gossip, the rumours, the anger and the happiness. There are so many interesting things going on in the world!
-menu_crusader_kings_event_2|You're resting on a bench in a small village. Sitting near the village center, you notice a travelling singer. Sitting down beside you on the bench, he offers to sing you a song, for free!
+menu_crusader_kings_event_1|You're resting on a bench in a small village. Sitting near the village center, you overhear the many conversations people are having. The gossip, the rumours, the anger and the happiness. There are so many interesting things going on in the world! You decide to...
+menu_crusader_kings_event_2|You're resting on a bench in a small village. Sitting near the village center, you notice a travelling singer. Sitting down beside you on the bench, he offers to sing you a song, for free! You decide to...
 menu_crusader_kings_event_3|Two minor nobles from one of your villages fought against each other with swords. You decide to...
-menu_crusader_kings_event_4|A religious fanatic held a service in one of your villages as you were passing by. After the sermon, he rushed to meet you, shouting for your opinion on the aspects of the Seven...
+menu_crusader_kings_event_4|A religious fanatic held a service in one of your villages as you were passing by. After the sermon, he rushed to meet you, shouting for your opinion on the aspects of the Seven. You decide to...
 menu_crusader_kings_event_5|You are conversing with a minor noble, when you hear a loud scream somewhere behind you! Going to investigate, you discover a septon and a farm girl engaged in carnal pleasures, oblivious to the world. When you politely cough, they turn in your direction, and seem to remember where they are. You decide to...
 menu_crusader_kings_event_6|During dinner, one of your courtiers drank too much wine. When you tried to steady him, and help him to his bed, he threw up on your shoes! You decide to...
 menu_crusader_kings_event_7|As you stop for a while, you notice an old man sitting on a rock. Approaching him, he promises to teach you magic from Old Valyria, if only you'll strip naked. You decide to...
@@ -1128,7 +1125,7 @@ menu_desert_event_4|You kick a rock, and underneath is a blue and green viper. Y
 menu_desert_event_5|You kick a rock, and underneath is a black viper. You recognise it as the kind called Long-Nosed Death by the smallfolk! The snake hiss at you, getting ready to strike! You decide to...
 menu_desert_event_6|You kick a rock, and underneath is a brown viper. You recognise it as the kind called Trinket Snake by the smallfolk! The snake hiss at you, getting ready to strike! You decide to...
 menu_desert_event_7|You wake up from a brief nap to find a large spider on your left boot! You decide to...
-menu_desert_event_8|A vulture is seen flying overhead, carrying a large rat in its claws. Suddenly, the vulture is attacked by an eagle! This must surely be an omen, but how to interpret it...
+menu_desert_event_8|A vulture is seen flying overhead, carrying a large rat in its claws. Suddenly, the vulture is attacked by an eagle! This must surely be an omen, but how to interpret it. You decide to
 menu_desert_event_9|You decide to rest for a while, in the shade of a great palm tree. Dates are strewn on the ground, sweet and delicious. You decide to...
 menu_desert_event_10|You decide to rest for a while, in the shade of a great cactus. The cactus bears a strange fruit. You decide to...
 menu_desert_event_11|You decide to rest for a while, in the shade of a great rock. A clear stream can be heard bubbling beneath the rock. You decide to...
@@ -1138,27 +1135,28 @@ menu_agility_event_2|You're travelling through a forest, when you slip in a pudd
 menu_agility_event_3|You're travelling through a forest, when you stumble over a rock. You decide to...
 menu_agility_event_4|You're travelling through a forest. Pushing aside a branch, a bird flies out and startle you, causing you to lose your balance. You decide to...
 menu_agility_event_5|You're travelling through a forest. Suddenly, you notice a galloping sound in the distance. A stag is charging at you! You decide to...
-menu_food_event_1|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some tasty wild onions.
-menu_food_event_2|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some tasty wild turnips.
-menu_food_event_3|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some tasty wild raddishes.
-menu_food_event_4|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
-menu_food_event_5|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
-menu_food_event_6|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
-menu_food_event_7|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
-menu_food_event_8|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line!
-menu_food_event_9|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some wild geese eggs.
-menu_food_event_10|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some wild geese eggs.
-menu_food_event_11|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some wild geese eggs.
-menu_food_event_12|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. Rummaging through the woods, you suddenly spot a large bear!
-menu_food_event_13|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Climbing a tree in the search for eggs, you spot a large nest.
-menu_food_event_14|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Climbing a tree in the search for eggs, you spot a large nest.
-menu_food_event_15|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild apple tree.
-menu_food_event_16|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
-menu_food_event_17|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
-menu_food_event_18|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
-menu_food_event_19|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
-menu_food_event_20|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush.
+menu_food_event_1|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some tasty wild onions. You decide to...
+menu_food_event_2|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some tasty wild turnips. You decide to...
+menu_food_event_3|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some tasty wild raddishes. You decide to...
+menu_food_event_4|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line! You decide to...
+menu_food_event_5|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line! You decide to...
+menu_food_event_6|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line! You decide to...
+menu_food_event_7|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line! You decide to...
+menu_food_event_8|You feel a bit peckish, and decide to settle down for a while, to fish in the nearby lake. You start to doze off, when suddenly, something yanks on the fishing line! You decide to...
+menu_food_event_9|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some wild geese eggs. You decide to...
+menu_food_event_10|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some wild geese eggs. You decide to...
+menu_food_event_11|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. You find, what appears to be, some wild geese eggs. You decide to...
+menu_food_event_12|You feel a bit peckish, and decide to go hunt for some food in the undergrowth of the nearby woods. Rummaging through the woods, you suddenly spot a large bear! You decide to...
+menu_food_event_13|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Climbing a tree in the search for eggs, you spot a large nest. You decide to...
+menu_food_event_14|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Climbing a tree in the search for eggs, you spot a large nest. You decide to...
+menu_food_event_15|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild apple tree. You decide to...
+menu_food_event_16|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush. You decide to...
+menu_food_event_17|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush. You decide to...
+menu_food_event_18|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush. You decide to...
+menu_food_event_19|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush. You decide to...
+menu_food_event_20|You feel a bit peckish, and decide to go hunt for some food in the nearby woods. Walking through the undergrowth, whistling a merry tune, you spot what appears to be some sort of wild berry bush. You decide to...
 menu_coronation_event_1|As the newly enthroned ruler of a sovereign realm, many men and women come seeking your favour. Goldsmiths, master armorers and all other sorts of craftsmen flock to your court, and you're soon overwhelmed with requests for work or lucrative contracts. The goldsmiths, and armorers in particular, are persistent in their praise of your rule, and how you should have a crown suitable for your noble head. You decide to...
+mno_choice_1_1|Request an expensive crowned helmet. (7000 coins)
 mno_choice_1_3|Request a cheap crowned helmet. (2500 coins)
 mno_choice_1_4|Ignore the smiths.
 menu_coronation_event_2|As the goldsmiths and armorers leave your court to return to their work, you notice one man loitering in a corner. When everyone has left, he introduces himself to you as Racallio of Qohor, a renowned armorer. He offers to forge you a magnificent tourney helmet, suitable for a champion such as yourself. You decide to...
@@ -1184,242 +1182,209 @@ menu_sea_travel_event_5|The crew is a superstitious bunch, and you forgot to bri
 menu_sea_travel_event_6|The crew is a superstitious bunch, and you forgot to have the ship sprinkled with wine before you left port! The men are muttering about bad luck, and eye you insolently. You decide to...
 menu_sea_travel_event_7|The crew is a superstitious bunch, and when a gull flies into the topmast, they take it as an omen! But they're not quite sure what the omen means. You decide to tell them that...
 menu_sea_travel_event_8|The crew is a superstitious bunch, and when one of them catch a shark, eating a smaller shark, they take it as an omen! But they're not quite sure what the omen means. You decide to tell them that...
-menu_the_seven_event_1|The seasons pass, and the day has come again. It's the Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men.
-menu_the_seven_event_2|The seasons pass, and the day has come again. It's the Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
-menu_the_seven_event_3|The seasons pass, and the day has come again. It's the Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
-menu_the_seven_event_4|The seasons pass, and the day has come again. It's the Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later there'll be a great feast, during which the local septon prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches.
-menu_the_seven_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
-menu_stormlands_event_1|The thriving port and market known as the Weeping Town takes its name from the copious amount of tears shed when the slain body of the Young Dragon, Daeron I, was returned to the kingdom after his murder in Dorne.Every year, the Guild of Carpenters host a great feast to commemorate the slain king, and the townsfolk look forward to the day every year. Mummers from all over the realm journey to the Weeping Town to reenact the foul murder of the brave young king, and whores, jugglers, wine sellers and even the odd alchemist can be found making a spectacle.
-menu_stormlands_event_2|In ancient days, before the dragons, the Storm Kings oft warred with the petty kings of Dorne.Durran the Young, called the Butcher Boy, dammed the river Slayne with dead dornishmen after defeating the Wyls and Yronwoods in battle. The dornish had been ravaging the marches, and every year the women of Stonehelm and the surrounding villages celebrate their deliverance by turning the river red, using the colored clay found in abundance throughout the domains of the Swanns. Later, in the evening, they'll feast.
-menu_stormlands_event_3|When Aegon the Conquerer tried to extend his rule to Dorne, he was beaten back time and time again. In the first attempt, Orys, the founder of House Baratheon, was captured by the Wyl of Wyl, called the Widow-Lover, and had his right hand struck off.Orys chance at vengeance came years later, when during the reign of Aenys I, he captured the son of the Widow-Lover, and took his hands and feet. Since then, it has been a tradition amongst the stormlanders to chop of the limbs of captured rivals, especially in the Dornish Marches.
-menu_stormlands_event_4|During the Dance of the Dragons, the Lord of Storm's End, Borros Baratheon, declared for the Blacks. At the end of the war, he led a great host of stormlanders against the remaining forces of the Greens, sure of his victory.He was defeated by the riverlands, led by young Kermit Tully and the even younger Benjicot Blackwood. The riverlanders tell of how Lord Kermit slew the Lord of Storm's End, but to this day the stormlanders claim that Lord Borros was killed by a poisoned arrow shot by the sister of Ben Blackwood, the one men called Black Aly.
-menu_stormlands_event_5|During the reign of Aegon V, Lord Lyonel Baratheon crowned himself as a new Storm King and renounced his allegiance to the Iron Throne.Aegons son, Prince Duncan, had broken a betrothal with Lord Lyonels daughter, and according to the stories the Lord of Storm's Ends wroth was terrible to behold. The dispute was only settled when Duncan the Tall of the Kingsguard defeated Lord Lyonel in trial by combat. To this day, the boys of the Stormlands will play fighting games, pretending to be the two combatants, as the two where considered the finest fighters the Stormlands have ever known.
-menu_stormlands_event_6|The storms are gaining strenght! The Stormlands are widely known for the savage storms beating against the cliffs of Shipbreaker's Bay, making sea travel a hazardous endeavor at best.To appease the storms, the septons of the Stormlands often hold special prayer days, invocating the Father to ease the passage of the winds. The stormlanders calls these days 'Ember Days', as the septons fires are often snuffed out by the storms, leaving only embers.
-menu_stormlands_event_7|The Stormlands are well known for their massive warhorses. As you sit down to rest on a fallen log, you notice a merchant travelling towards you. He offers to sell you one of the famous destriers, for the standard price of 500 coins.
-menu_stormlands_event_8|The Stormlands are well known for their finely crafted war hammers. As you sit down to rest on a large, smooth, stone, you notice a lonely knight travelling towards you. He offers to sell you one of his own war hammers for the reasonable price of 300 coins.
-menu_stormlands_event_9|When Argilac the Arrogant, last of the Storm Kings and last of the male line of House Durrandon, was slain in combat by Orys Baratheon, the guards of Storm's End delivered his maiden daughter, Argella to Orys, bound in chains and naked. Orys took pity on the princess, and covered her in his own cloak, taking her as his bride. He decreed that the guards should be punished for eternity, locking them in cages overlooking Shipbreaker's Bay, there to stand eternal vigil for House Baratheon, loyal until they where nothing but bone. The tradition has endured, and each year thieves, murders and rapists are locked in cages and hung from the rocks protruding over the bay.
-menu_stormlands_event_10|A kinslayer has been caught! The man set fire to the house where his father and mother slept soundly, but the villagers caught him, and have decided on an unusual punishment. He is to be sewn into a burlap sack along with a large amount of hungry rats, then hung from a tree. There he will hang until the rats have eaten him and the Stranger has claimed him. A local maester informs you that the method of punishment is not new, and that the records of one of the Storm Kings, Arrec Durrandon, reign show that he was fond of sewing ironborn into sacks and filling them with hungry vermin. According to legend, the ironborn treated him the same way when he was caught in a battle by the God's Eye, but not before they'd taken his eyes and his tongue.
-menu_north_event_1|Winter is coming! The summer snows are getting stronger, and autumn is approaching. Now is the time to start buying supplies, and getting ready for winter. How much do you wish to spend on grain this month?
-menu_north_event_2|The seasons pass, and the day has come again. It's the Feast of the Raven, during which those who worship the Old Gods all gather around the weirwoods and light great fires.Later, there'll be a feast, during which old grizzled warriors compete against each other in wrestling matches, with the winner being given a weirwood crown, and usually a bag of silver.
-menu_north_event_3|The seasons pass, and the day has come again. It's the Feast of the Watch, during which every man, woman and child in the north celebrate the Night's Watch by dressing all in black.Later, there'll be a feast, during which old grizzled warriors tells tales of Raymund Redbeard, Joramun and the brothers Gendel and Gorne, usually followed by songs and plenty of ale, wine and mead.
-menu_north_event_4|'May your winters be short and your summers bountiful' says an old beggar you meet on the road.Recognizing the usual greeting extended to people from the far north, you reward the beggar with...
-menu_north_event_5|Coming across a small village, you notice a large weirwood in the village center. Sauntering over, you notice entrails hanging from the bone-white branches, the blood fresh and dripping. An old man, obviously the most prosperous in the village by the looks of his clothes, offers to tell you why entrails are hanging from the tree. It seems to be an old tradition, dating back to when pirates would sail up the White Knife and take the northmen slaves, and be allowed to do so because of the old age and infirmity of King Edrick Stark, the one they called Snowbeard. But one winter, when the cold wind came howling down from the Wall and the pirates and slavers huddled around their hovels and fires at the mouth of the White Knife, the new King in the North, Brandon Stark, called Ice-Eyes, came down upon them with fire and sword. He freed the slaves, and gave over the slavers to their care. The freed northmen gutted the slavers and pirates, and hung their entrails from a weirwood. According to the old man, tradition has it that the village was founded by one of the freed slaves, and each year they celebrate by hanging pig intestines from their own weirwood.
-menu_north_event_6|The harvest is in, and all across the North, and the Trident, nobles and ladies gather to celebrate by holding a feast. The harvest feast is an annual chance to visit distant relatives, scheme with other lords, court young maidens, dance a merry jig, gorge yourself on fine food and drink yourself into oblivion. You decide to...
+menu_the_seven_event_1|The seasons pass, and the day has come again. It's the Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men. You decide to...
+menu_the_seven_event_2|The seasons pass, and the day has come again. It's the Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own. You decide to...
+menu_the_seven_event_3|The seasons pass, and the day has come again. It's the Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests. You decide to...
+menu_the_seven_event_4|The seasons pass, and the day has come again. It's the Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later there'll be a great feast, during which the local septon prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches. You decide to...
+menu_the_seven_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord. You decide to...
+menu_stormlands_event_1|The thriving port and market known as the Weeping Town takes its name from the copious amount of tears shed when the slain body of the Young Dragon, Daeron I, was returned to the kingdom after his murder in Dorne.Every year, the Guild of Carpenters host a great feast to commemorate the slain king, and the townsfolk look forward to the day every year. Mummers from all over the realm journey to the Weeping Town to reenact the foul murder of the brave young king, and whores, jugglers, wine sellers and even the odd alchemist can be found making a spectacle. You decide to...
+menu_stormlands_event_2|In ancient days, before the dragons, the Storm Kings oft warred with the petty kings of Dorne.Durran the Young, called the Butcher Boy, dammed the river Slayne with dead dornishmen after defeating the Wyls and Yronwoods in battle. The dornish had been ravaging the marches, and every year the women of Stonehelm and the surrounding villages celebrate their deliverance by turning the river red, using the colored clay found in abundance throughout the domains of the Swanns. Later, in the evening, they'll feast. You decide to...
+menu_stormlands_event_3|When Aegon the Conquerer tried to extend his rule to Dorne, he was beaten back time and time again. In the first attempt, Orys, the founder of House Baratheon, was captured by the Wyl of Wyl, called the Widow-Lover, and had his right hand struck off.Orys chance at vengeance came years later, when during the reign of Aenys I, he captured the son of the Widow-Lover, and took his hands and feet. Since then, it has been a tradition amongst the stormlanders to chop of the limbs of captured rivals, especially in the Dornish Marches. You decide to...
+menu_stormlands_event_6|The storms are gaining strenght! The Stormlands are widely known for the savage storms beating against the cliffs of Shipbreaker's Bay, making sea travel a hazardous endeavor at best.To appease the storms, the septons of the Stormlands often hold special prayer days, invocating the Father to ease the passage of the winds. The stormlanders calls these days 'Ember Days', as the septons fires are often snuffed out by the storms, leaving only embers. You decide to...
+menu_stormlands_event_7|The Stormlands are well known for their massive warhorses. As you sit down to rest on a fallen log, you notice a merchant travelling towards you. He offers to sell you one of the famous destriers, for the standard price of 500 coins. You decide to...
+menu_stormlands_event_8|The Stormlands are well known for their finely crafted war hammers. As you sit down to rest on a large, smooth, stone, you notice a lonely knight travelling towards you. He offers to sell you one of his own war hammers for the reasonable price of 300 coins. You decide to...
+menu_stormlands_event_9|When Argilac the Arrogant, last of the Storm Kings and last of the male line of House Durrandon, was slain in combat by Orys Baratheon, the guards of Storm's End delivered his maiden daughter, Argella to Orys, bound in chains and naked. Orys took pity on the princess, and covered her in his own cloak, taking her as his bride. He decreed that the guards should be punished for eternity, locking them in cages overlooking Shipbreaker's Bay, there to stand eternal vigil for House Baratheon, loyal until they where nothing but bone. The tradition has endured, and each year thieves, murders and rapists are locked in cages and hung from the rocks protruding over the bay, while smallfolk and noble alike feast. You decide to...
+menu_stormlands_event_10|A kinslayer has been caught! The man set fire to the house where his father and mother slept soundly, but the villagers caught him, and have decided on an unusual punishment. He is to be sewn into a burlap sack along with a large amount of hungry rats, then hung from a tree. There he will hang until the rats have eaten him and the Stranger has claimed him. A local maester informs you that the method of punishment is not new, and that the records of one of the Storm Kings, Arrec Durrandon, reign show that he was fond of sewing ironborn into sacks and filling them with hungry vermin. According to legend, the ironborn treated him the same way when he was caught in a battle by the God's Eye, but not before they'd taken his eyes and his tongue. The local smallfolk decide to hold a feast, to celebrate the capture of the kinslayer. You decide to...
+menu_north_event_1|Winter is coming! The summer snows are getting stronger, and autumn is approaching. Now is the time to start buying supplies, and getting ready for winter. You decide to...
+menu_north_event_2|The seasons pass, and the day has come again. It's the Feast of the Raven, during which those who worship the Old Gods all gather around the weirwoods and light great fires.Later, there'll be a feast, during which old grizzled warriors compete against each other in wrestling matches, with the winner being given a weirwood crown, and usually a bag of silver. You decide to...
+menu_north_event_3|The seasons pass, and the day has come again. It's the Feast of the Watch, during which every man, woman and child in the north celebrate the Night's Watch by dressing all in black.Later, there'll be a feast, during which old grizzled warriors tells tales of Raymund Redbeard, Joramun and the brothers Gendel and Gorne, usually followed by songs and plenty of ale, wine and mead. You decide to...
+menu_north_event_4|'May your winters be short and your summers bountiful' says an old beggar you meet on the road.Recognizing the usual greeting extended to people from the far north, you decide to...
+menu_north_event_5|Coming across a small village, you notice a large weirwood in the village center. Sauntering over, you see entrails hanging from the bone-white branches, the blood fresh and dripping. An old man, obviously the most prosperous in the village by the looks of his clothes, offers to tell you why entrails are hanging from the tree. It seems to be an old tradition, dating back to when pirates would sail up the White Knife and take the northmen slaves, and be allowed to do so because of the old age and infirmity of King Edrick Stark, the one they called Snowbeard. But one winter, when the cold wind came howling down from the Wall and the pirates and slavers huddled around their hovels and fires at the mouth of the White Knife, the new King in the North, Brandon Stark, called Ice-Eyes, came down upon them with fire and sword. He freed the slaves, and gave over the slavers to their care. The freed northmen gutted the slavers and pirates, and hung their entrails from a weirwood. According to the old man, tradition has it that the village was founded by one of the freed slaves, and each year they celebrate by hanging pig intestines from their own weirwood. The peasants are in the middle of a feast. You decide to...
+menu_north_event_6|The harvest is in, and all across the North, nobles and ladies gather to celebrate by holding a feast. The harvest feast is an annual chance to visit distant relatives, scheme with other lords, court young maidens, dance a merry jig, gorge yourself on fine food and drink yourself into oblivion. You decide to...
 menu_vale_event_1|The Vale is where the first Andal conquerors from across the sea landed. In the vision shown to him, by the Seven, Hugor of the Hill saw a promised land, protected by high mountains, and the men of the Vale claim that their land is the one promised by their gods.Every year, the septons celebrate the battle that led to the final conquest and settling of the Andals in what then became known as the Vale of Arryn, the Battle of the Seven Stars. On this day, they light seven fires in the sept, to honor the seven gods, and burn weirwood branches to symbolize their victory over the First Men.
-menu_vale_event_2|The seasons pass, and the day has come again. It's the Feast of Order. On this day, the Lords of Misrule take over, playing pranks and jests on highborn and lowborn alike.At the end of the day, the septons banish the Lords of Misrule, unmasking them and chastising them for their foolery. Tales are still told of the look on Septon Ormunds face when he unmasked the Lord of Misrule during the reign of Mathos Arryn and found himself face to face with the king himself.
-menu_vale_event_3|The seasons pass, and the day has come again. It's Festival of Sowing. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt, in celebration of the first sowing of seeds in the new year.Later, there'll be a feast, with the local septon dressed in green robes and handing out honeycakes to the children.
-menu_vale_event_4|The seasons pass, and the day has come again. It's the Feast of Loafs. On this day, the first loafs of bread baked in the new year are taken up from the cellars and ceremoniously buried in the fields.Many houses are decorated with garlands, and the septons lead a procession across the fields, carrying candles and invoking the help of the Father in granting a great harvest.
-menu_vale_event_5|The seasons pass, and the day has come again. It's the Feast of Septon Artos. Septon Artos was chosen as the new High Septon, but did not feel himself worty of the honor.So he fled Oldtown, pursued by a mob of townspeople clamoring for him to return. In his great holyness, he hid in a stream beside a road, while the townspeople ran by. But the goose in the stream attacked him, alerting the pursuers to his presence. In celebration of this glorious event, the people of Gulltown, of all places, eat goose every year on the Feast of Septon Artos.
-menu_braavos_event_1|The seasons pass, and the day has come again. It's the Feast of Salvation. On this day, all the men, women and children of Braavos gather in the streets, to give thanks for the destruction of the Valyrian Freehold.Copious amounts of ale, wine and food is consumed, and many a child will be conceived before the day is ended.
-menu_braavos_event_2|The seasons pass, and the day has come again. It's the Night of Sleep. On this day, all the men and women of Braavos spend as much time as possible with their eyes closed, entreating the Many-Faced God to ignore them.Later, the people of Braavos will drown an elephant in the harbor, as an offering to the Many-Faced God.
-menu_braavos_event_3|The seasons pass, and the day has come again. It's the Day of the Gods. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, while praising a multitude of different gods.Later, there'll be a feast, with the Second Sword of Braavos offering his sword to the Guild of the Faceless Men, and them rejecting it so he might continue his work.
-menu_braavos_event_4|The seasons pass, and the day has come again. It's the Day of the Sea. On this day, all citizens of Braavos, even the Sealord, jump into the canals and wash their faces in the water, to show their devotion to the sea, that both shelters them and provides them with a great bounty of food.Later, many will be stricken by diarrhea, due to the unsanitary conditions of the canals.
-menu_braavos_event_5|The seasons pass, and the day has come again. It's the Night of Souls, during which those who worship the Many-Faced God gather to tell stories in the darkness.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the beggars of Braavos are invited inside every tavern.
-menu_riverlands_event_1|The seasons pass, and the day has come again. It's the Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men.
-menu_riverlands_event_2|The seasons pass, and the day has come again. It's the Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own.
-menu_riverlands_event_3|The seasons pass, and the day has come again. It's the Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests.
-menu_riverlands_event_4|The seasons pass, and the day has come again. It's the Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later, in Riverrun, there'll be a great feast, during which the local septon prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches.
-menu_riverlands_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord.
-menu_dorne_event_1|The seasons pass, and the day has come again. It's the Day of the Dead. On this day, the people of Dorne remember the many men and women who disappeared during the rhoynars journey across the waters, in the fight against the dragons and during all the wars they have ever fought.The young women offer young, unmarried, men pieces of candied oranges and honeycombs, so they might create new souls to replace those lost.
-menu_dorne_event_2|The seasons pass, and the day has come again. It's the Day of Grapes. On this day, knights across Dorne spend the day in prayer, lighting candles at the Warrior's feet and fasting.But later, they ingest copious amounts of wine, in celebration of the rewards granted to brave men.
-menu_dorne_event_3|The seasons pass, and the day has come again. It's the Day of Sun. On this day, the men, women and children of Dorne go door to door begging sweets, fruits and sourleaf, carrying great cloth sacks filled with sand that represent the end of all men, the grave.Later, however, there'll be a feast, with the local septon dressed in dark robes that he keep wrapped about his splendid white robes, only to unveil them the moment the sun goes down, to show the men and women of Dorne that the light of the Seven wathces over them even in darkness.
-menu_dragonstone_event_1|The seasons pass, and the day has come again. It's the Day of the Great Fire. The island of Dragonstone contains the Dragonmont, an active volcano.The smallfolk of Dragonstone claim that the fires that spew forth from time to time are the souls of trapped dragons, while the septons claim the mountain is the entrance to the forges of the Smith. The worshippers of R'hllor, however, claim that the fires show the power of their God of Light and Fire. Either way, the fires are celebrated by highborn and lowborn alike each year.
-menu_ironborn_event_1|'What is dead may never die' shouts the men of the ship, as you sail across the waves. The Drowned God favor the ironborn, and this journey across his domain will surely yield a favorable result.
-menu_ironborn_event_2|'What is dead may never die' shouts the men of the ship, as you sail across the waves. A young man was washed overboard, and when the men of the ship hauled him back in, his skin was cold and his lungs filled with water. But then he opened his eyes, and coughed up the ocean. The young man has been drowned twice, surely he is favored by the Drowned God.
-menu_ironborn_event_3|The storms are picking up! The Storm God is fighting the Drowned God, and the waves are in turmoil! Now is the time to pray, that the Drowned God may hold out his mighty hand and shelter you from the storm.
-menu_ironborn_event_4|The storms are picking up, and the waves are huge. 'I will still these waters with mine own blood!' says an old reaper who is part of the crew.Picking up an axe, he hacks of a finger and throws it into the waters, as an offering to the Drowned God. You decide to reward the man with...
-menu_negative_event_1|You stumble and hurt your knee. The pain is unbearable. What do you do?
-menu_negative_event_2|You stumble and hurt your hand. After a few hours, it starts to turn blue. What do you do?
-menu_negative_event_3|A branch falls off a tree, and hit you in the head. At first, you feel fine, but soon your vision turns blurry, and you have trouble concentrating. What do you do?
-menu_negative_event_4|You've caught a cold. The symptoms are not severe, but you should probably rest for a bit. What do you do?
-menu_negative_event_5|You've cut yourself on a rusty knife. The wound looks fine, but perhaps it would be wise to take some precautions. What do you do?
-menu_negative_event_6|You come across some mushrooms. They look plain brown and slightly white. What do you do?
-menu_negative_event_7|You've got a thorn in your hand! What do you do?
-menu_negative_event_8|A young girl, from a nearby village, offers herself to you. It will only cost twenty silver!
-menu_negative_event_11|You meet a lonely septon on the road. As you pass him, you stumble and accidentally push him off the track.
-menu_negative_event_22|Going into the woods alone, you suddenly feel a blade across your throat. An outlaw has ambushed you. Listening to him slobber and stammer, it is clear that the man is unstable and dangerous. What do you do?
-menu_negative_event_33|Walking alone in the forest, you come across two young women, bathing in a stream. They seem to be alone, with no way of defending themselves.
-menu_negative_event_44|Walking through a small village, a young man approaches you. He'll spend the night with you for free, if only he can travel with you for a while.
-menu_negative_event_55|You're walking across a field, when your foot is caught in a rabbits hole. As you fall over, your manage to twist your body, sending a stab of blinding pain up through your leg. What do you do?
-menu_negative_event_66|You come across a blind beggar. The man is old and frail, but he might have a couple of coins in his purse.
-menu_negative_event_77|You come across a young man, bearing the clothes of a minor noble. When he sees you, he signals for you to follow. Curious, you do so, and when you're alone, he kicks you in the groin!
-menu_negative_event_88|A young man, from a nearby village, offers himself to you. It will only cost twenty silver!
-menu_event_101|You are a famous leader of men, and you receive news that a group of knights wishes to join you..
-mno_choice_101_1|They are welcome.
+menu_vale_event_2|The seasons pass, and the day has come again. It's the Feast of Order. On this day, the Lords of Misrule take over, playing pranks and jests on highborn and lowborn alike.At the end of the day, the septons banish the Lords of Misrule, unmasking them and chastising them for their foolery. Tales are still told of the look on Septon Ormunds face when he unmasked the Lord of Misrule during the reign of Mathos Arryn and found himself face to face with the king himself. You decide to...
+menu_vale_event_3|The seasons pass, and the day has come again. It's Festival of Sowing. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt, in celebration of the first sowing of seeds in the new year.Later, there'll be a feast, with the local septon dressed in green robes and handing out honeycakes to the children. You decide to...
+menu_vale_event_4|The seasons pass, and the day has come again. It's the Feast of Loafs. On this day, the first loafs of bread baked in the new year are taken up from the cellars and ceremoniously buried in the fields.Many houses are decorated with garlands, and the septons lead a procession across the fields, carrying candles and invoking the help of the Father in granting a great harvest. You decide to...
+menu_vale_event_5|The seasons pass, and the day has come again. It's the Feast of Septon Artos. Septon Artos was chosen as the new High Septon, but did not feel himself worty of the honor.So he fled Oldtown, pursued by a mob of townspeople clamoring for him to return. In his great holyness, he hid in a stream beside a road, while the townspeople ran by. But the goose in the stream attacked him, alerting the pursuers to his presence. In celebration of this glorious event, the people of Gulltown, of all places, eat goose every year on the Feast of Septon Artos. You decide to...
+menu_braavos_event_1|The seasons pass, and the day has come again. It's the Feast of Salvation. On this day, all the men, women and children of Braavos gather in the streets, to give thanks for the destruction of the Valyrian Freehold.Copious amounts of ale, wine and food is consumed, and many a child will be conceived before the day is ended. You decide to...
+menu_braavos_event_2|The seasons pass, and the day has come again. It's the Night of Sleep. On this day, all the men and women of Braavos spend as much time as possible with their eyes closed, entreating the Many-Faced God to ignore them.Later, the people of Braavos will drown an elephant in the harbor, as an offering to the Many-Faced God. You decide to...
+menu_braavos_event_3|The seasons pass, and the day has come again. It's the Day of the Gods. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, while praising a multitude of different gods.Later, there'll be a feast, with the Second Sword of Braavos offering his sword to the Guild of the Faceless Men, and them rejecting it so he might continue his work. You decide to...
+menu_braavos_event_4|The seasons pass, and the day has come again. It's the Day of the Sea. On this day, all citizens of Braavos, even the Sealord, jump into the canals and wash their faces in the water, to show their devotion to the sea, that both shelters them and provides them with a great bounty of food.Later, many will be stricken by diarrhea, due to the unsanitary conditions of the canals. You decide to...
+menu_braavos_event_5|The seasons pass, and the day has come again. It's the Night of Souls, during which those who worship the Many-Faced God gather to tell stories in the darkness.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the beggars of Braavos are invited inside every tavern. You decide to...
+menu_riverlands_event_1|The seasons pass, and the day has come again. It's the Maiden's Day. On this day, maidens of noble houses are required to go to the sept to light tall white candles at the Maiden's feet and hang parchment garlands about her neck. Mothers, whores and widows are barred from the sept along with men.Those maidens who enter the sept sing songs of innocence, and spend the following feast throwing flour at the young, unmarried, men. You decide to...
+menu_riverlands_event_2|The seasons pass, and the day has come again. It's the Warrior's Day. On this day, knights across the Seven Kingdoms spend the day in prayer, lighting candles at the Warrior's feet and fasting.Later, tourneys are held across the realm, with young squires jousting to win a knighthood of their own. You decide to...
+menu_riverlands_event_3|The seasons pass, and the day has come again. It's the Stranger's Day. On this day, men and women, old and young, go door to door begging sweets, fruits and sourleaf, carrying great wicker baskets filled with dirt.Later, there'll be a feast, with the local septon dressed in dark robes and throwing rotten fruit at the guests. You decide to...
+menu_riverlands_event_4|The seasons pass, and the day has come again. It's the Father's Day. On this day, all fathers with a trueborn child are to be obeyed, no matter the request. In the remote hamlets, some take advantage and sleep with their neighbours wife, but in the towns, cities and castles, the requests are usually mild and often involve a gift.Later, in Riverrun, there'll be a great feast, during which the local septon prostate himself before the statue of the Father and the Silent Sisters whip him with weirwood branches. You decide to...
+menu_riverlands_event_5|The seasons pass, and the day has come again. It's the Feast of Hugor Hill, during which those who worship the Seven gather in the sept, and listen to the local septon recite passages from the Seven-Pointed Star.Later, there'll be a feast, during which young children are given gifts by their parents and relatives, and the septon is given the seat of honor in the hall of the local lord. You decide to...
+menu_dorne_event_1|The seasons pass, and the day has come again. It's the Day of the Dead. On this day, the people of Dorne remember the many men and women who disappeared during the rhoynars journey across the waters, in the fight against the dragons and during all the wars they have ever fought.The young women offer young, unmarried, men pieces of candied oranges and honeycombs, so they might create new souls to replace those lost. You decide to...
+menu_dorne_event_2|The seasons pass, and the day has come again. It's the Day of Grapes. On this day, knights across Dorne spend the day in prayer, lighting candles at the Warrior's feet and fasting.But later, they ingest copious amounts of wine, in celebration of the rewards granted to brave men. You decide to...
+menu_dorne_event_3|The seasons pass, and the day has come again. It's the Day of Sun. On this day, the men, women and children of Dorne go door to door begging sweets, fruits and sourleaf, carrying great cloth sacks filled with sand that represent the end of all men, the grave.Later, however, there'll be a feast, with the local septon dressed in dark robes that he keep wrapped about his splendid white robes, only to unveil them the moment the sun goes down, to show the men and women of Dorne that the light of the Seven wathces over them even in darkness. You decide to...
+menu_dragonstone_event_1|The seasons pass, and the day has come again. It's the Day of the Great Fire. The island of Dragonstone contains the Dragonmont, an active volcano.The smallfolk of Dragonstone claim that the fires that spew forth from time to time are the souls of trapped dragons, while the septons claim the mountain is the entrance to the forges of the Smith. The worshippers of R'hllor, however, claim that the fires show the power of their God of Light and Fire. Either way, the fires are celebrated by highborn and lowborn alike each year. You decide to...
+menu_ironborn_event_1|'What is dead may never die' shouts the men of the ship, as you sail across the waves. The Drowned God favor the ironborn, and this journey across his domain will surely yield a favorable result. You decide to...
+menu_ironborn_event_2|'What is dead may never die' shouts the men of the ship, as you sail across the waves. A young man was washed overboard, and when the men of the ship hauled him back in, his skin was cold and his lungs filled with water. But then he opened his eyes, and coughed up the ocean. The young man has been drowned twice, surely he is favored by the Drowned God. You decide to...
+menu_ironborn_event_3|The storms are picking up! The Storm God is fighting the Drowned God, and the waves are in turmoil! Now is the time to pray, that the Drowned God may hold out his mighty hand and shelter you from the storm. You decide to...
+menu_ironborn_event_4|The storms are picking up, and the waves are huge. 'I will still these waters with mine own blood!' says an old reaper who is part of the crew.Picking up an axe, he hacks of a finger and throws it into the waters, as an offering to the Drowned God. You decide to...
+menu_negative_event_1|You stumble and hurt your knee. The pain is unbearable. You decide to...
+menu_negative_event_2|You stumble and hurt your hand. After a few hours, it starts to turn blue. You decide to...
+menu_negative_event_3|A branch falls off a tree, and hit you in the head. At first, you feel fine, but soon your vision turns blurry, and you have trouble concentrating. You decide to...
+menu_negative_event_4|You've caught a cold. The symptoms are not severe, but you should probably rest for a bit. You decide to...
+menu_negative_event_5|You've cut yourself on a rusty knife. The wound looks fine, but perhaps it would be wise to take some precautions. You decide to...
+menu_negative_event_6|You come across some mushrooms. They look plain brown and slightly white. You decide to...
+menu_negative_event_7|You've got a thorn in your hand! You decide to...
+menu_negative_event_8|A young girl, from a nearby village, offers herself to you. It will only cost twenty silver! You decide to...
+menu_negative_event_11|You meet a lonely septon on the road. As you pass him, you stumble and accidentally push him off the track. You decide to...
+menu_negative_event_22|Going into the woods alone, you suddenly feel a blade across your throat. An outlaw has ambushed you. Listening to him slobber and stammer, it is clear that the man is unstable and dangerous. You decide to...
+menu_negative_event_33|Walking alone in the forest, you come across two young women, bathing in a stream. They seem to be alone, with no way of defending themselves. You decide to...
+menu_negative_event_44|Walking through a small village, a young man approaches you. He'll spend the night with you for free, if only he can travel with you for a while. You decide to...
+menu_negative_event_55|You're walking across a field, when your foot is caught in a rabbits hole. As you fall over, your manage to twist your body, sending a stab of blinding pain up through your leg. You decide to...
+menu_negative_event_66|You come across a blind beggar. The man is old and frail, but he might have a couple of coins in his purse. You decide to...
+menu_negative_event_77|You come across a young man, bearing the clothes of a minor noble. When he sees you, he signals for you to follow. Curious, you do so, and when you're alone, he kicks you in the groin! You decide to...
+menu_negative_event_88|A young man, from a nearby village, offers himself to you. It will only cost twenty silver! You decide to...
+menu_event_101|You are a famous leader of men, and you receive news that a group of knights wishes to join you. You decide to...
+mno_choice_101_1|Let them join you.
 mno_choice_101_2|I do not need more troops.
 mno_choice_101_3|Kill them. Surely they carry many valuables.
-menu_event_102|You receive news that a group of women expresses interest in becoming camp followers.
-mno_choice_102_1|They are welcome.
-mno_choice_102_2|I do not need more troops.
-menu_event_103|You are a famous leader of men, and you receive news that a group of singers wishes to join you, and make your travels more joyous.
-mno_choice_103_1|They are welcome.
-mno_choice_103_2|I do not need more troops.
-menu_event_11|The kin of a farmer slain in one of your battles brings a suit against you requesting compensation of 200 coins. What do you do?
+menu_event_102|You receive news that a group of women expresses interest in becoming camp followers. You decide to...
+mno_choice_102_1|Let them join you.
+mno_choice_102_2|Ignore them.
+menu_event_103|You are a famous leader of men, and you receive news that a group of singers wishes to join you, and make your travels more joyous. You decide to...
+mno_choice_103_1|Let them join you.
+mno_choice_103_2|Ignore them.
+menu_event_11|The kin of a farmer slain in one of your battles brings a suit against you requesting compensation of 200 coins. You decide to...
 mno_choice_11_1|Pay them 200 coins.
 mno_choice_11_2|Refuse to pay
 mno_choice_11_3|Refuse to answer the case at all
-menu_event_12|The kin of a sellsword slain in one of your battles demands compensation. What do you do?
+menu_event_12|The kin of a sellsword slain in one of your battles demands compensation. You decide to...
 mno_choice_12_1|Pay them 500 coins.
 mno_choice_12_2|Refuse to pay.
 mno_choice_12_3|Refuse to answer the case at all.
-menu_event_13|You see a crane circling above your party.
-mno_choice_13_1|Tell to your men that the crane symbolizes good luck!
+menu_event_13|You see a crane circling above your party. You decide to...
+mno_choice_13_1|Tell your men that the crane symbolizes good luck!
 mno_choice_13_3|Tell them that although cranes warn of a bad fortunes, you have faith in them!
 mno_choice_13_2|Ignore it.
-menu_event_14|A country farmer stands before you on the road, a weeping girl behind him. He points his finger accusingly at one of your men, saying that he raped his daughter and demands justice.
+menu_event_14|A country farmer stands before you on the road, a weeping girl behind him. He points his finger accusingly at one of your men, saying that he raped his daughter and demands justice. You decide to...
 mno_choice_14_1|Geld the man and cast him out of your party.
 mno_choice_14_2|Give the accused man a lashing and consider the matter settled.
 mno_choice_14_3|Tell the farmer that he is lucky that is all the man did!
-menu_event_15|You are travelling through the forest and you suddenly spot a lot of mushrooms, cowered with blue and red spots. What do you do?
+menu_event_15|You are travelling through the forest and you suddenly spot a lot of mushrooms, cowered with blue and red spots. You decide to...
 mno_choice_15_1|Pick them up and eat them.
 mno_choice_15_2|Pick them up and give them to your men.
 mno_choice_15_3|Ignore them.
-menu_event_16|You are travelling through the forest and you suddenly spot a lot of mushrooms, brown and sweet smelling. What do you do?
+menu_event_16|You are travelling through the forest and you suddenly spot a lot of mushrooms, brown and sweet smelling. You decide to...
 mno_choice_16_1|Pick them up and eat them.
 mno_choice_16_2|Pick them up and give them to your men.
 mno_choice_16_3|Ignore them.
-menu_event_17|You are travelling through the forest and you suddenly spot a lot of mushrooms, cowered in spider web, and with an awful smell. What do you do?
+menu_event_17|You are travelling through the forest and you suddenly spot a lot of mushrooms, cowered in spider web, and with an awful smell. You decide to...
 mno_choice_17_1|Pick them up and eat them.
 mno_choice_17_2|Pick them up and give them to your men.
 mno_choice_17_3|Ignore them.
-menu_event_18|You rest near a village, when the local elders wife approaches you. The wife wants to sleep with you, while her husband is away.
-mno_choice_18_1|You agree.
+menu_event_18|You rest near a village, when the local elders wife approaches you. The wife wants to sleep with you, while her husband is away. You decide to...
+mno_choice_18_1|Sleep with her.
 mno_choice_18_2|You send one of your men to rape the wife.
 mno_choice_18_3|You refuse.
-menu_event_19|You stumble over a group of beggars that are being attacked by a group of bandits.
+menu_event_19|You stumble over a group of beggars that are being attacked by a group of bandits. You decide to...
 mno_choice_19_1|Rush to the aid of the beggars and teach those bloody bandits not to disturb the poor.
 mno_choice_19_2|Aid the bandits and bathe in the blood of the beggars!
-menu_event_20|You happen to find a purse filled with coins.
+menu_event_20|You happen to find a purse filled with coins. You decide to...
 mno_choice_20_1|Give the purse to a hospice.
 mno_choice_20_2|Keep the purse.
-menu_event_21|You come across some runaway serfs.
+menu_event_21|You come across some runaway serfs. You decide to...
 mno_choice_21_1|Help them on their way.
 mno_choice_21_2|Return them to their master.
-menu_event_22|You come upon bandits ambushing some merchants.
+menu_event_22|You come upon bandits ambushing some merchants. You decide to...
 mno_choice_22_1|Chase the bandits away.
 mno_choice_22_2|Aid the bandits.
-menu_event_23|Your fame and popularity has attracted a young nobleman, who wish to join your retinue.
+menu_event_23|Your fame and popularity has attracted a young nobleman, who wish to join your retinue. You decide to...
 mno_choice_23_1|Let him join.
 mno_choice_23_2|I don't need any more men.
-menu_event_24|You spot a poor man on the road. He looks tired. You send one of your men to ask him why he is in the wilderness alone. He says that outlaws robbed him and if he doesnt get some money soon to buy food, he will starve. He says he served in the army once, and will make a loyal warrior.
-mno_choice_24_1|Life is not fair, give him nothing.
+menu_event_24|You spot a poor man on the road. He looks tired. You send one of your men to ask him why he is in the wilderness alone. He says that outlaws robbed him and if he doesnt get some money soon to buy food, he will starve. He says he served in the army once, and will make a loyal warrior. You decide to...
+mno_choice_24_1|Give him nothing.
 mno_choice_24_2|Give him 100 gold.
 mno_choice_24_3|Give him 200 gold.
 mno_choice_24_4|Give him 300 gold.
 mno_choice_24_5|Pay him 400 gold and suggest he join your army.
-menu_event_25|You encounter a small child, dressed in rags and looking very hungry. He walks up to you and begs for some food.
+menu_event_25|You encounter a small child, dressed in rags and looking very hungry. He walks up to you and begs for some food. You decide to...
 mno_choice_25_1|Give him nothing.
 mno_choice_25_2|Give the boy 100 coins.
 mno_choice_25_3|Give the boy a sack of 500 coins.
-menu_event_26|A group of bandits approaches your camp. As your men reach for their weapons, the bandits put down their weapons and say they come in peace. The leader of the bandits approaches you and asks if they may join you.
-mno_choice_26_1|Of course! My party always welcomes bloodthirsty men!
+menu_event_26|A group of bandits approaches your camp. As your men reach for their weapons, the bandits put down their weapons and say they come in peace. The leader of the bandits approaches you and asks if they may join you. You decide to...
+mno_choice_26_1|Welcome them to your warband.
 mno_choice_26_2|We have no room for your kind!
-mno_choice_26_3|Prove yourselves worthy by raiding a village and bringing me the elders head!
+mno_choice_26_3|Tell them to prove themselves.
 mno_choice_26_4|Kill them all!
-menu_event_27|A religous fanatic from Oldtown is following your army. While he gains some converts, he also creates some unrest.
-mno_choice_27_1|Thank the heavens! Let him be.
+menu_event_27|A religous fanatic from Oldtown is following your army. While he gains some converts, he also creates some unrest. You decide to...
+mno_choice_27_1|Let him be.
 mno_choice_27_2|Offer him a place in your warband.
 mno_choice_27_3|Get rid of him.
-menu_event_28|A religous fanatic from Volantis is following your army. While he gains some converts he also creates some unrest.
-mno_choice_28_1|Thanks be to R'hllor! Let him be!
+menu_event_28|A religous fanatic from Volantis is following your army. While he gains some converts he also creates some unrest. You decide to...
+mno_choice_28_1|Let him be!
 mno_choice_28_2|Offer him a place in your warband.
 mno_choice_28_3|Get rid of him.
-menu_event_29|You come upon a temple. The priests are busy working or praying, none of them is armed. You see golden treasures and silver tributes glistening inside...
+menu_event_29|You come upon a temple. The priests are busy working or praying, none of them is armed. You see golden treasures and silver tributes glistening inside. You decide to...
 mno_choice_29_1|Pass by the temple.
 mno_choice_29_2|Go inside, pray and pay a tribute of 500 coins.
 mno_choice_29_3|Loot the temple, slaughter all the priests and burn the place!
-menu_event_30|You come upon a local septry. The brothers are busy working or praying, none of them is armed. You see gold treasures and silver tributes glistening inside...
+menu_event_30|You come upon a local septry. The brothers are busy working or praying, none of them is armed. You see gold treasures and silver tributes glistening inside. You decide to...
 mno_choice_30_1|Pass by the septry.
 mno_choice_30_2|Go inside, pray and pay a tribute of 500 coins.
 mno_choice_30_3|Loot the septry, slaughter the brothers and burn the place!
-menu_event_31|Some of your enemies have taken refuge in a nearby septry and the local septon have given them sanctuary!
+menu_event_31|Some of your enemies have taken refuge in a nearby septry and the local septon have given them sanctuary. You decide to...
 mno_choice_31_1|Ignore them.
 mno_choice_31_2|Donate 100 coins to the septry.
 mno_choice_31_3|Go inside, slaughter them and kill the interfering septon!
-menu_event_32|You come across the grave of an old and forgotten king.
+menu_event_32|You come across the grave of an old and forgotten king. You decide to...
 mno_choice_32_1|Loot the tomb!
 mno_choice_32_2|Donate 1000 coins for a new tomb.
 mno_choice_32_3|Enter the tomb and pay your respects
-menu_event_33|In the local tavern you come across a young scholar who claims his master is chronicling the great and notable events of this land.He offers, for a small fee of 300 coins, to convince his master to overlook your notoriety for incessant raping, pillaging, and general debauchery, and instead depict you as a something closer to Baelor the Blessed or a champion for the poor and oppressed or a heroic champion - whichever you prefer.
-mno_choice_33_1|You decide to ignore him, muttering that you are content to let history be the judge.
-mno_choice_33_2|You pay the young man what he asks for.
-mno_choice_33_3|You gladly pay the man his fee.
-mno_choice_33_4|After listening impatiently to the man, you scold him, remarking that you have never heard of a more pathetic scam in your life.
-menu_event_34|You pass through a local village which appears to be suffering through some hard times.To give the village a boost, you announce that you will sponsor a sewing and embroidery contest for the gentle ladyfolk of the countryside and will reward handsomely the one who can produce the brightest, most fashionable, yet suitably manly, new tunic.
-mno_choice_34_1|Declare the prettiest girl in town to be the winner, instructing her to present herself at your tent.
-mno_choice_34_2|Scold the village elder for not treating the matter seriously. Declaring that these rags are not fit for dishcloths, you storm out of the town.
-mno_choice_34_3|You collect various coloured tunics brought to you and amusingly think to yourself that these would be good to use for blankets or for some type of washcloth. You still pay the winner 500 coins.
-menu_event_35|While reviewing the latest reconnaissance reports with your men, you whimsically remark that passing through the beautiful countryside makes you wish you could one day cast aside your sword settle, down on your own land with some local buxom wench and spend the rest of your days making babies and growing wheat...To which one of your men retorts that this was hardly likely, as your body odour is legendary and everyone knows wheat only grows when attended by peasants.
+menu_event_33|In the local tavern you come across a young scholar who claims his master is chronicling the great and notable events of this land.He offers, for a small fee of 300 coins, to convince his master to overlook your notoriety for incessant raping, pillaging, and general debauchery, and instead depict you as a something closer to Baelor the Blessed or a champion for the poor and oppressed or a heroic champion - whichever you prefer. You decide to...
+mno_choice_33_1|Ignore him, muttering that you are content to let history be the judge.
+mno_choice_33_2|Pay the young man what he asks for.
+mno_choice_33_3|Gladly pay the man his fee.
+mno_choice_33_4|Ignore him.
+menu_event_34|You pass through a local village which appears to be suffering through some hard times.To give the village a boost, you announce that you will sponsor a sewing and embroidery contest for the gentle ladyfolk of the countryside and will reward handsomely the one who can produce the brightest, most fashionable, yet suitably manly, new tunic. Soon, the entire village is busy sewing. When they present their work to you, you decide to...
+mno_choice_34_1|Declare the prettiest girl in town to be the winner.
+mno_choice_34_2|Scold the village elder for not treating the matter seriously.
+mno_choice_34_3|You pay the winner 500 coins.
+menu_event_35|While reviewing the latest reconnaissance reports with your men, you whimsically remark that passing through the beautiful countryside makes you wish you could one day cast aside your sword settle, down on your own land with some local buxom wench and spend the rest of your days making babies and growing wheat...To which one of your men retorts that this was hardly likely, as your body odour is legendary and everyone knows wheat only grows when attended by peasants. You decide to...
 mno_choice_35_1|Laugh heartily at his witty comment.
-mno_choice_35_2|You glare at the young man and your mood takes a turn for the worse.
-mno_choice_35_3|You give a wink to your most trusted man. The comedians head will soon adorn a spike.
-menu_event_36|You come across what are, evidently, stray sheep from a nearby village
+mno_choice_35_2|Glare at the young man.
+mno_choice_35_3|Give a wink to your most trusted man. The comedians head will soon adorn a spike.
+menu_event_36|You come across what are, evidently, stray sheep from a nearby village. You decide to...
 mno_choice_36_1|Return the sheep to the village and ask for no reward.
 mno_choice_36_2|Return the sheep... for a price.
-mno_choice_36_3|Dinner! Round up and slaughter the animals.
-menu_event_37|A traveller tells you where to find a band of travelling mummers, recently arrived.
+mno_choice_36_3|Round up and slaughter the animals.
+menu_event_37|A traveller tells you where to find a band of travelling mummers, recently arrived. You decide to...
 mno_choice_37_1|Attack the caravan and steal their wares.
 mno_choice_37_2|Demand tribute.
 mno_choice_37_3|Steal the mummers wares, but let them live.
 mno_choice_37_4|Help them on their way and give them 200 coins.
 mno_choice_37_5|Ignore them.
-menu_event_38|A traveller tells you where to find a band of begging brothers.
+menu_event_38|A traveller tells you where to find a band of begging brothers. You decide to...
 mno_choice_38_1|You attack the small enclave, easily slaughtering the hapless brothers, leaving few survivors.
 mno_choice_38_2|Demand tribute.
 mno_choice_38_3|Disperse the brothers and claim all their possessions as your own, leaving them only their lives.
 mno_choice_38_4|Help them on their way, and give them 500 coins. They depart praising your name.
 mno_choice_38_5|Ignore them.
-menu_event_39|A traveller tells you where to find a small band of outlaws.
-mno_choice_39_1|You ambush them, easily slaughtering the hapless outlaws, leaving few survivors.
+menu_event_39|A traveller tells you where to find a small band of outlaws. You decide to...
+mno_choice_39_1|Ambush them, easily slaughtering the hapless outlaws, leaving few survivors.
 mno_choice_39_2|Demand tribute.
 mno_choice_39_3|Disperse the outlaws and claim all their possessions as your own, leaving them only their lives.
 mno_choice_39_4|Help them on their way, and give them 500 gold. They depart praising your name.
 mno_choice_39_5|Ignore them.
-menu_event_40|One of your soldiers rapes the daughter of a local peasant.
+menu_event_40|One of your soldiers rapes the daughter of a local peasant. You decide to...
 mno_choice_40_1|Ignore the situation.
 mno_choice_40_2|Geld the soldier.
 mno_choice_40_3|Execute the soldier and apologize for the incident.
 mno_choice_40_4|Pay the peasant 250 coins to keep quiet.
-menu_event_41|One of your soldiers succumbs to his wounds from a previous battle.
+menu_event_41|One of your soldiers succumbs to his wounds from a previous battle. You decide to...
 mno_choice_41_1|Take his kit and his gold. He was, afterall, just a soldier, and all he owns belongs to you.
 mno_choice_41_2|Give the soldiers belongings to his family.
 mno_choice_41_3|Give the widow 550 coins.
-menu_event_42|One of your new recruits dies from an illness. He carries both a seven pointed star, and a tattoo of R'hllors flames. No one knows what he preferred most.
+menu_event_42|One of your new recruits dies from an illness. He carries both a seven pointed star, and a tattoo of R'hllors flames. No one knows what he preferred most. You decide to...
 mno_choice_42_1|Burn him and donate 1000 coins to the Temple of the Lord of Light.
 mno_choice_42_2|Bury him and donate 1000 coins to the Starry Sept.
 mno_choice_42_3|Just leave him lying there.
-menu_recruit_sellswords_braavos|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
-mno_choice_1_6|Recruit 1 Infantry Lance (7500 coins).
-mno_choice_1_7|Recruit 1 Ranged Lance (6000 coins).
-mno_choice_1_8|Recruit 1 Ranged Lance (6000 coins).
-mno_choice_1_9|Recruit 1 Ranged Lance (6000 coins).
-mno_choice_1_10|Recruit 1 Ranged Lance (6000 coins).
-menu_recruit_sellswords_lorath|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
-menu_recruit_sellswords_pentos|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
-menu_recruit_sellswords_norvos|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
-menu_recruit_sellswords_qohor|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
-menu_recruit_sellswords_myr|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
-menu_recruit_sellswords_tyrosh|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
-menu_recruit_sellswords_lys|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
-menu_recruit_sellswords_volantis|The Free Cities have made heavy use of sellswords for centuries, to fight their endless wars in the Stepstones and the Disputed Lands. Many of the mercenary soldiers of Essos are organized into long-established sellsword companies, but many others gather together in small groups known as 'Lances'. These men can be found in all the Free Cities, but there is not an endless supply of them.
-menu_recruit_white_harbor|Fishfood Yard is a cobbled square in the center of White Harbor. The yard is dominated by a large statue of a merman, called Old Fishfoot. In the alleys and in the market stalls, merchants sell fried cod, crab stews, pork pies and baked apples, coated with sugar and cinnamon. A brothel lies close to Old Fishfoot, and is often visited by the prosperous people of the city. The Castle Stair, a steep street illuminated by whale oil lamps leads from the Wolf's Den down to Fishfoot Yard, and here sellswords, knights and freeriders gather, looking for a liege, or atleast someone willing to take on their services for a fair price. A burly young knight introduces himself to you, offering the services of himself, and his own retinue of nine knights.
-menu_recruit_barrowton|Roddy's Street lies close to the eastern gate, where the road leads toward Goldgrass, the keep and seat of House Stout. The street is named after Lord Roderick Dustin, also known as Roddy the Ruin, who led the northern forces during the Targaryen civil war known as the Dance of the Dragons. Armorers, merchants and inns lie along the street, and sellswords from the Rills, the region west of Barrowton, are lined up against the shops. A rough-looking young man approaches you. Him and the nineteen lancers sworn to his service are looking for employment, and inquire whether you'd like to take them on.
-menu_recruit_deepwood_motte|East and west of Deepwood Motte lies fields where the smallfolk grow oats and barley. Close to the castle lies a sheepfold where members of the northern mountain clans come to sell their sheeps, salted fish, dried nuts and seal furs. They're often accompanied by clan champions, big men wielding great two-handed swords, and always looking for a fight. A small caravan of fur merchants has recently arrived, and their guards are looking for further service. The leader of the men offers to join your service if you'll take on his four men as well.
-menu_recruit_raventree_hall|The godswood of Raventree Hall contains a dead, ancient and colossal weirwood, where ravens roost in great numbers every night. An arrow is stuck in the weirwood, shot by the same Billy Burley who slew the dragon Tessarion on the orders of Benjicot Blackwood. Archers from the surrounding villages often train in the courtyard, and hire themselves out as sellswords. A young, lean-looking, man approach you, offering to enter your service if you'll take on his four brothers as well.
-menu_recruit_stone_hedge|The village surrounding Stone Hedge is teeming with life, and contains a great market where the prized stallions of House Bracken are sold, traded and trained. Many knights make their home in the village, often showcasing their prowess to prospective horse buyers, and selling their swords to the highest bidder. Five knights offer to join your service, if you'll have them.
-menu_recruit_crossing|The Freys of the Crossing have grown wealthy on the tolls they extract from travellers seeking to cross the Green Fork. The toll house is a large timbered building, where the servants stock the tools and supplies of the soldiers who train beneath the walls of the eastern castle, and where the toll collecters make their home. The Freys are a powerful house, and attrack many adventurers and sellswords, many of whom are willing to sell their sword to the highest bidder. Outside the toll house, a mean-looking man-at-arms offers his own, and his four sworn brothers, sword, if you'll have them.
-menu_recruit_sarsfield|The Clinking Coin Inn is one of the most prosperous inns lying beside the River Road, which runs from Casterly Rock to the Inn at the Crossroads where it meets the Kingsroad. Members of House Sarsfield have been known to visit from time to time, as the whores are excellent, and the food better. The famed mounted archers of the surrounding lands can often be found enjoying the thick dark ale the innkeeper brews, and are always looking for someone to take them on as sellswords. Chatting with the innkeeper, you learn that a young knight is looking for a new master, along with his own retinue of four mounted archers.
-menu_recruit_banefort|The Woods surrounding Banefort are known to be haunted by the Hooded Man, the founder of House Banefort, and all his descendants, chief amongst them Morgon Banefort, whom people called 'The Necromancer'. The men inhabiting the woods carry greatswords, to protect them against the wights, and the ironborn, who often raid the shores. With the increased ironborn activity along the shores, only five men offer to join your service.
-menu_recruit_casterly_rock|The Barracks form an entire sub-section of Casterly Rock, housing the garrison and household guard of House Lannister. Great sections are given over to storage rooms, filled with arms and armor. Men-at-arms fill the common area, many looking for hire. The Lannisters are not fond of soldiers leaving their service, but a man-at-arms leans close to you, telling you that he and his five friends will join you if you'll have them.
-menu_recruit_lannisport|Lannisport is one of the great cities of Westeros, being smaller than King's Landing and Oldtown, but much larger than Gull Town and White Harbor. It's one of the main ports on the western side of the continent, and is well-known for the beautiful goldwork being wrought in the many smithies of the city. The harbor is bustling with activity, ships coming from all over Westeros and Essos to trade their furs, spices, wine and olive oil for gold and jewelry. The harbor is also home to a multitude of sellswords, many whom take service with House Lannister and the other westerland lords, but who will fight for the highest bidder. A lean serjeant with a scarred face informs you that him and his fourteen companions will join your service, if the price is right.
-menu_recruit_runestone|Runestone is the seat of chivalry in the Vale, and the Royces have a long tradition of holding tourneys, and winning them. The tourney grounds at Runestone is often occupied by knights and squires competing against each other, training with sword, mace and lance, and trying to catch the eye of a lord, so that he may take on their services. A young squire offer to join your service, if you'll take his five friends as well.
-menu_recruit_longbow_hall|The Hunters Gate is a great gate leading towards the mountain range west of Longbow Hall. The gate is sculpted with scenes of huntsmen, stags, boars, wolves and bears. Sellsword archers from the surrounding lands often gather around the gate, hoping to find hire with one of the knights or lords passing through Longbow Hall. A tall man approach you, offering to join your retinue with his seven sons.
-menu_recruit_nightsong|The marcher lords have a strong martial tradition, defending the Stormlands against dornish incursions for a thousand years. The Marching Field is where the Storm Kings of old, and later the Lord of Storm's End, would muster their forces when descending on either the dornish or the men of the Reach. House Caron, the Lords of the Marches, traditionally train their longbowmen on the field, and these men often sell their services. As you approach the field, you notice a mass of archers training with their bows, and they soon swarm around you, offering their services. Twenty men are available for hire right away, shouts what is obviously the leader of the bunch.
-menu_recruit_stonehelm|The Ten Bells is an inn outside Stonehelm, named for the great tower next to it, where the Swanns would ring their bells in the time when dornish incursions where common. The inn contains a large common hall, and several smaller rooms, furnished with myrish carpets and large featherbeds. Knights and squires often stay at the inn, on their way to or from the Weeping Town, and they often sell their sword. The innkeeper informs you that an old knight is currently lodging at the inn, along with his own band of ten knights, and that they're currently looking for hire.
-menu_recruit_oldtown|The Thieve's Market is the largest market in Oldtown. Despite the name, the merchants populating the market have a good reputation, all of them peddling high quality goods. The merchants sell spices, olives, wines from the Arbor and finely crafted woodharps, along with imported goods from Essos. The market also contains a large fountain where hedge knights congregate, looking for a master. Their armor is well-crafted, and many scoof as they see you. A young knight, however, approach you, offering the services of himself and his five men.
-menu_recruit_arbor|The isle of the Arbor is surrounded by several smaller islands, Stonecrab Cay amongst them, all excellent sites for shipbuilding and trade. The towns of Ryamsport, Vinetown and Starfish Harbor all produce a surplus of young men who take hire on ships as sailors, but who will join an armed force if the pay is good. Poorly armed, they're excellent at close quarters combat, owing to their experience fighting pirates. The master of the harbor informs you that twenty sailors are currently looking for hire.
-menu_recruit_skyreach|The Fowlers of Skyreach are the most prominent of the houses guarding the Prince's Pass, and the Hawk Gate faces directly towards the path that leads from both the Stormlands and the Reach into Dorne. During the years, Skyreach has withstood many a siege, and the Hawk Gate is decorated with the weapons of the fallen men who have tried to take the castle, all broken and hammered to the gate itself. The smallfolk living in the Prince's Pass often harass enemies descending on Dorne, and in times of peace sell themselves as caravan guards and skirmishers. Outside the walls of Skyreach, a small camp has been set up around a large rock, and one of the children jumping on, and teasing, a large snake informs you that five men are looking for hire.
-menu_recruit_driftmark|The town of Spicetown was once home to a thriving market and the principal town of the isle of Driftmark. But during the Dance of the Dragons the town was sacked by a fleet from the Kingdom of the Three Daughters, its people butchered and its buildings burned, and it was never rebuilt. However, the ruins provide shelter against the storms blowing across Blackwater Bay, and is often used as a shelter for ships. They also provide a place for the levies of House Velaryon, and sellswords from across the Narrow Sea, to train and live in while they wait to be shipped out, and many of the men camping there will sell their sword to the highest bidder. As you approach the ruins, an older man with indigo eyes, and shoulder length silver hair, offer to join your retinue along with his ten companions.
+menu_special_recruit_white_harbor_2|{s18}
 menu_recruit_nobles|{s18}
 menu_world_map_soldier|What do you need to do soldier?
 mno_join_commander_battle|Follow the commander into battle.
