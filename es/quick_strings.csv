@@ -2637,3 +2637,309 @@ qstr_Ser_Davos_proposed_a_pl|Ser Davos os propuso un plan donde vos iniciaréis 
 qstr_James_Gunderson^Crai|James Gunderson^Craig Robinson^D3500^Burnout888^Bioshokarr^Comrade135^Ben Cook^Dorin21
 qstr_When_you_give_him_ar|Cuando le entregáis armadura y comida, de repente parece un poderoso guerrero.
 qstr_King_Tywin_Lannister|Rey Tywin Lannister
+; qstr_{reg65?madame:ser}|{reg65?madame:ser}
+; qstr_{reg65?Madame:Ser}|{reg65?Madame:Ser}
+; qstr_Search_the_Tower_of_|Search the Tower of the Hand for Tyrion Lannister.
+; qstr_Ser_Stevron_Frey_has|Ser Stevron Frey has renounced his allegiance to The North, and joined The Westerlands
+; qstr_Ser_Walder_Frey_has_|Ser Walder Frey has renounced his allegiance to The North, and joined The Westerlands
+; qstr_Ser_Edwyn_Frey_has_r|Ser Edwyn Frey has renounced his allegiance to The North, and joined The Westerlands
+; qstr_Ser_Ryman_Frey_has_r|Ser Ryman Frey has renounced his allegiance to The North, and joined The Westerlands
+; qstr_Visit_the_shop_of_El|Visit the shop of Elos Mott.
+; qstr_Elos_Mott_told_you_h|Elos Mott told you he can forge a Valyrian blade for you, if you gather four daggers of Valyrian steel. Perhaps one of the maesters at the Citadel in Oldtown know of a way to gather these items.
+; qstr_Return_to_Elos_Mott_|Return to Elos Mott and pick up your blade.
+; qstr_Gather_the_four_Valy|Gather the four Valyrian steel daggers listed in the scroll given to you by Maester Ryon, then return to Elos Mott.
+; qstr_Originally_wielded_by_Ae|Originally wielded by Aegon Targaryen, the fabled^valyrian steel sword Blackfyre later passed to the illegitimate son^of Aegon the Unworthy, Daemon Blackfyre.
+; qstr_Originally_wielded_by_M|Originally wielded by Moredo Rogare, the fabled^valyrian steel sword Truth was lost a hundred years ago.
+; qstr_A_valyrian_steel_swo|A valyrian steel sword, forged by Elos Mott.
+; qstr_A_valyrian_steel_dag|A valyrian steel dagger, forged in the fires of Valyria.
+; qstr_The_fabled_great_swo|The fabled great sword of House Dayne^Dawn was forged from the core of a fallen star.
+; qstr_This_scroll_lists_fo|This scroll lists four different valyrian steel daggers, owned by the following nobles:^Sharako Isalios^Triarch Nyessos Vhassar^Horonno Paenymion^Galeo Terys
+; qstr_This_scroll_lists_fou|This scroll lists four different valyrian steel daggers,^owned by the following nobles:^Sharako Isalios^Triarch Nyessos Vhassar^Horonno Paenymion^Galeo Terys
+; qstr_Elos_Mott_told_you_he|Elos Mott told you he can forge a valyrian blade for you, if you gather four daggers of valyrian steel. Perhaps one of the maesters at the Citadel in Oldtown know of a way to gather these items.
+; qstr_The_fabled_great_swor|The fabled great sword of House Dayne,^Dawn was forged from the core of a fallen star.
+; qstr__The_banner_of_{s7}_| The banner of {s7} flies over the town gates.
+; qstr_{reg1}_denars_added_|{reg1} denars added to bank.
+; qstr_Balance_is_now_{reg2|Balance is now {reg2} denars.
+; qstr_Your_bank_account_is|Your bank account is now open.
+; qstr_{reg1}_coins_added_t|{reg1} coins added to your account in the Iron Bank.
+; qstr_Your_balance_is_now_|Your balance is now {reg2} coins.
+; qstr_Your_account_in_the_|Your account in the Iron Bank is now open.
+; qstr_Search_the_tavern_for_Ma|Search the tavern for Maester Yandel.
+; qstr_Maester_Yandel_asked|Maester Yandel asked you to pick up the latest illuminations for A World of Ice and Fire.
+; qstr_Return_to_Maester_Ya|Return to Maester Yandel and deliver the illuminations.
+; qstr_Maester_Yandel_asked_|Maester Yandel asked you to pick up the illuminated copy of 'A World of Ice and Fire'. You can find the illuminators in the shop known as the 'Illuminated Lioness'.
+; qstr_Return_to_Maester_Yan|Return to Maester Yandel and deliver the tome to him.
+; qstr_Maester_Yandel_asked_y|Maester Yandel asked you to pick up the illuminated copy of 'A World of Ice and Fire'. You can find the illuminators in the shop known as the 'Illuminated Lioness' in Lannisport.
+; qstr_The_fabled_great_sword|The fabled great sword of House Tarly,^Heartsbane was forged in the fires of Valyria.
+; qstr_The_fabled_sword_of_|The fabled sword of House Corbray,^Lady Forlorn was forged in the fires of Valyria.
+; qstr_The_fabled_sword_of_H|The fabled sword of House Harlaw,^Nightfall was forged in the fires of Valyria.
+; qstr_The_fabled_sword_of_Ho|The fabled sword of House Drumm,^Red Rain was forged in the fires of Valyria.
+; qstr_The_fabled_sword_of_Hou|The fabled sword of House Hightower,^Vigilance was forged in the fires of Valyria.
+; qstr_The_fabled_sword_of_Hous|The fabled sword of House Roxton,^Orphan-Maker was forged in the fires of Valyria.
+; qstr_The_fabled_sword_of_M|The fabled sword of Moredo Rogare,^Truth was forged by the blacksmiths of Qohor.
+; qstr__It_s_cold_and_smell| It's cold and smells old, taking you back to another time... a time when Rome ruled the world, and men knew how to construct huge stone buildings with several storeys.^^(press K to finish read)
+; qstr__The_pools_old_recre| The pools, old recreation rooms, changing rooms ... everything is covered in dust and brambles, all is abandoned.^^(press K to finish read)
+; qstr__The_superstitious_s| The superstitious say that the Roman ruins are always populated with ghosts...^^(press K to finish read)
+; qstr_1.^^_press_K_to_fini|1.^^(press K to finish read)
+; qstr_2.^^_press_K_to_fini|2.^^(press K to finish read)
+; qstr_3.^^_press_K_to_fini|3.^^(press K to finish read)
+; qstr_4.^^_press_K_to_fini|4.^^(press K to finish read)
+; qstr_ENTRY_POINT.^^_press|ENTRY POINT.^^(press K to finish read)
+; qstr_ENTRY_POINT_1.^^_pre|ENTRY POINT 1.^^(press K to finish read)
+; qstr_ENTRY_POINT_2.^^_pre|ENTRY POINT 2.^^(press K to finish read)
+; qstr_Explore_the_ruins_of|Explore the ruins of Summerhall to gain experience.^^(press K to finish reading)
+; qstr_The_plaque_on_the_st|The plaque on the statue reads 'Daeron Targaryen II'.^^(press K to finish reading)
+; qstr_Explore_the_Ruins_of|Explore the Ruins of Summerhall to gain experience.^^(Press K to finish reading)
+; qstr_The_plaque_on_the_sta|The plaque on the statue reads 'Daeron Targaryen II'.^^(Press K to finish reading)
+; qstr_You_ve_successfully_|You've successfully explored the Ruins of Summerhall.^^(Press K to finish reading)
+; qstr_The_plaque_on_the_stat|The plaque on the statue reads 'Daeron Targaryen, the Second of His Name, King of the Andals, the Rhoynar and the First Men, Lord of the Seven Kingdoms and Protector of the Realm.'.^^(Press K to finish reading)
+; qstr_A_wandering_travelle|A wandering traveller appears to have gotten drunk and fallen asleep beside his fire.^^(Press K to finish reading)
+; qstr_Inside_the_crumbling|Inside the crumbling tower, the remains of a large cauldron and various alchemical equipment is scattered.^^(Press K to finish reading)
+; qstr_The_remains_of_two_g|The remains of two grown persons and a child are scattered around the small room. From the position of their skeletons, it appears they died after being locked inside the room, or perhaps from asphyxiation.^^(Press K to finish reading)
+; qstr_Something_appears_to|Something appears to have been scribbled on the wall. It reads '... if not for the valor of the Lord Commander.'.^^(Press K to finish reading)
+; qstr_The_plaque_on_the_statu|The plaque on the statue reads 'Daeron Targaryen, the Second of His Name, King of the Andals, the Rhoynar and the First Men, Lord of the Seven Kingdoms and Protector of the Realm.'^^(Press K to finish reading)
+; qstr_Something_appears_to_|Something appears to have been scribbled on the wall. It reads '... if not for the valor of the Lord Commander.'^^(Press K to finish reading)
+; qstr_Explore_the_area_sur|Explore the area surrounding the Tower of Joy to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_e|You've successfully explored the area surrounding the Tower of Joy.^^(Press K to finish reading)
+; qstr_The_emblem_on_this_h|The emblem on this helmet appears to indicate the wearer was a member of House Dayne.^^(Press K to finish reading)
+; qstr_The_emblem_on_this_he|The emblem on this helmet appears to indicate the wearer was a member of House Hightower. A large cleft is clearly visible at the back of the helmet, indicating how the wearer met his end.^^(Press K to finish reading)
+; qstr_The_tower_is_a_compl|The tower is a complete ruin, but it appears to have once been splendidly decorated. The piles of rubble contain scraps of fine carpets, and half a candelabre is half-buried in the dirt covering the floor.^^(Press K to finish reading)
+; qstr_Explore_the_Sorrows.|Explore the Sorrows.^^(Press K to finish reading)
+; qstr_You_ve_successfully_ex|You've successfully explored the Sorrows.^^(Press K to finish reading)
+; qstr_As_you_reach_the_end|As you reach the end of the bridge, you hear a loud splash. Off in the distance, you can just make out a large shape moving beneath the waters. Soon, the shape disappears.^^(Press K to finish reading)
+; qstr_As_you_rummage_throu|As you rummage through the abandoned buildings, you come across a small chest. When you open it, you realize that it's filled with a strange kind of coin. Taking one out, you can see that it's a copper coin, bearing the visage of a rhoynish prince.^^(Press K to finish reading)
+; qstr_Explore_the_Great_Ma|Explore the Great Maze.^^(Press K to finish reading)
+; qstr_You_ve_successfully_exp|You've successfully explored the Great Maze.^^(Press K to finish reading)
+; qstr_The_tunnel_leading_d|The tunnel leading down into the underground has a rotten odor. A small pile of bones to the right is rattling, and suddenly, a rat comes scurrying out.^^(Press K to finish reading)
+; qstr_The_bridge_at_the_en|The bridge at the end of the maze appears to have fallen apart years ago. Deep beneath, in the murky water, you can just make out a long slender shape, swimming about just below the surface.^^(Press K to finish reading)
+; qstr_Explore_the_Crossroa|Explore the Crossroads Inn.^^(Press K to finish reading)
+; qstr_You_ve_successfully_expl|You've successfully explored the Crossroads Inn.^^(Press K to finish reading)
+; qstr_The_corpse_in_the_gi|The corpse in the gibbet above your head appears to have been there for quite some time. Bird droppings are everywhere, and small scraps of meat are still hanging on the corpse. The crows must have been at it.^^(Press K to finish reading)
+; qstr_The_burned_down_dwel|The burned down dwelling appears to have been destroyed recently, with smoke and small fires still coming from the woodwork.^^(Press K to finish reading)
+; qstr_The_inn_appears_to_h|The inn appears to have been abandoned. The doors are locked, and no noise can be heard from inside. The surrounding area is trodden down and evidence of a large gathering of men and horses can be seen everywhere.^^(Press K to finish reading)
+; qstr_Explore_the_Inn_of_t|Explore the Inn of the Kneeling Man.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explo|You've successfully explored the Inn of the Kneeling Man.^^(Press K to finish reading)
+; qstr_The_inn_appears_to_b|The inn appears to be abandoned. The doors are locked, and the place is eerily silent.^^(Press K to finish reading)
+; qstr_Stacked_in_the_corne|Stacked in the corner is a few bags of grain. It would appear that whoever owned this inn left in a hurry, and didn't bother bringing all their belongings.^^(Press K to finish reading)
+; qstr_Lying_strewn_across_|Lying strewn across the upper stair is a plethora of broken bottles and shards of glass. You can smell a faint whiff of pears, and the cloying sweet smell of fine liquor. In the corner lies a flask, half hidden in dust. It looks similar to the shards strewn across the stairs.^^(Press K to finish reading)
+; qstr_Stacked_in_the_corner|Stacked in the corner is a few bags of grain. It would appear that whoever owned this inn left in a hurry, and didn't bother bringing all their belongings. The grain appears to be in a perfectly fine condition, and you see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Lying_strewn_across_t|Lying strewn across the upper stair is a plethora of broken bottles and shards of glass. You can smell a faint whiff of pears, and the cloying sweet smell of fine liquor. In the corner lies a flask, half hidden in dust. It looks similar to the shards strewn across the stairs. The bottle appears to contain a kind of brandy, and you see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Inside_the_tower_in_|Inside the tower, in the far corner, you notice the glint of metal. Uncovering the object, it turns out to be an old and worn axe. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Exploring_the_ruined|Exploring the ruined tower, you notice a glimmer of something yellow to the far back of the room. Uncovering the object, it turns out to be a bronze goblet. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_As_you_enter_the_bui|As you enter the building, you notice an odd glimmer from the corner. Edging closer, you discover a small crystal reflecting what scant light comes through the fog surrounding the ruins. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_As_you_near_the_stat|As you near the statue, you notice the ground in front is cleared and a small candle is burning in front of the plaque, which reads 'Bevumbagon'. On the ground itself is scribled curious message, over and over again: 'We all float down here'. A curved sword is thrust down into the ground off to the side, next to a drawing in the mud, of a turtle. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_The_tower_is_a_comple|The tower is a complete ruin, but it appears to have once been splendidly decorated. The piles of rubble contain scraps of fine carpets, and half a candelabre is half-buried in the dirt covering the floor. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_As_you_near_the_statu|As you near the statue, you notice the ground in front is cleared and a small candle is burning in front of the plaque, which reads 'Bevumbagon'. On the ground itself is scribled a curious message, over and over again: 'We all float down here'. A curved sword is thrust down into the ground off to the side, next to a drawing in the mud, of a turtle. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_The_tower_is_a_complet|The tower is a complete ruin, but it appears to have once been splendidly decorated. The piles of rubble contain scraps of fine carpets, and a candelabre is half-buried in the dirt covering the floor. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_|Explore the ruins of Vulture's Roost.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explor|You've successfully explored the ruins of Vulture's Roost.^^(Press K to finish reading)
+; qstr_The_silent_ruins_of_|The silent ruins of Vulture's Roost appear to have been completely demolished a long time ago. A few pieces of rusty and crumbled equipment is scattered across what could have been the old courtyard, but age has taken its toll on the place and its difficult to tell what the various items once where.^^(Press K to finish reading)
+; qstr_Vulture_s_Roost_is_m|Vulture's Roost is miles from the nearest village. It appears a lone traveller ran out of water and collapsed at the ruins, looking for shade and rescue. The bottles strewn around his remains are all empty, but the bag is filled with clinking coin, and the jar next to him appears to be filled with anise, a costly spice. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_S|Explore the ruins of Summerhall to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explore|You've successfully explored the ruins of Summerhall.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_H|Explore the ruins of Hellgate Hall.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored|You've successfully explored the ruins of Hellgate Hall.^^(Press K to finish reading)
+; qstr_The_streams_and_lake|The streams and lakes surrounding the river Brimstone are all putrid, emiting a foul stench and vapors that make man and animal alike slightly dizzy. The remains of a man, or a woman, lies near the banks of the stream, clearly the result of the person in question drinking the toxic water.^^(Press K to finish reading)
+; qstr_An_abandoned_campsit|An abandoned campsite is visible close to the formation of rocks shading a few tufts of grass. Whoever built it appears to have left a couple of items behind. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_The_ruined_remains_o|The ruined remains of the castle show signs of great age. While the vapors of the nearby stream have greatly eroded the stone and few remaining items scattered around the former courtyard, you see no reason not to rummage through the ceramic vases. They're all empty, but the jar close to the wall carries an inscription that reads: 'Property of House Dryland'.^^(Press K to finish reading)
+; qstr_The_houses_have_all_|The houses have all been looted and show signs of both man and animals using them as shelters during storms. In one corner, the remains of a travelling party are visible, and they appear to have left a bottle of wine behind. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_Sh|Explore the ruins of Shandystone.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_|You've successfully explored the ruins of Shandystone.^^(Press K to finish reading)
+; qstr_The_holdfast_appears|The holdfast appears to have been abandoned for quite some time. The well in the center of the former courtyard is completely dried up, perhaps the reason no one longer lives here.^^(Press K to finish reading)
+; qstr_As_you_approach_the_|As you approach the ruined tower, you notice a rustling in the dry grass. Seconds later, a small viper slithers from beneath a rock. It stares at you for a while, before returning to the grass.^^(Press K to finish reading)
+; qstr_Explore_Derring_Down|Explore Derring Downs.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_D|You've successfully explored Derring Downs.^^(Press K to finish reading)
+; qstr_Derring_Downs_contai|Derring Downs contains a lot of empty caves, most of them boarded up or closed by rocks. A couple of men are hard at work cutting wood for the nearby villages and castle, but the area seems mostly deserted.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_M|Explore the ruins of Morne.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_t|You've successfully explored the ruins of Morne.^^(Press K to finish reading)
+; qstr_You_come_across_an_o|You come across an old statue depicting a mature woman, regal and serene. Perhaps it represents the Mother, an aspect of the Seven.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_O|Explore the ruins of Oldstones.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_th|You've successfully explored the ruins of Oldstones.^^(Press K to finish reading)
+; qstr_You_come_across_an_ol|You come across an old statue depicting a mature woman, regal and serene. Perhaps it represents the Daughter, an aspect of the Seven.^^(Press K to finish reading)
+; qstr_A_couple_of_large_ro|A couple of large rocks make a primitive shelter for what appears to be some sort of shrine. Old rusty swords, axes and daggers are scattered across the area, and a crude drawing of a seven-pointed star is carved unto one of the rocks. .^^(Press K to finish reading)
+; qstr_You_come_across_an_old|You come across an old statue depicting a mature woman, regal and serene. An old plaque is attached, but time and weather has eroded the words.^^(Press K to finish reading)
+; qstr_The_statue_depicts_a|The statue depicts a stern looking king, his eyes fixed on the horizon. Time has taking it's toll on the statue, and the runes scribbled on the base makes it possible the statue was made not by andals, but by the first men.^^(Press K to finish reading)
+; qstr_At_the_center_of_wha|At the center of what once would have been the courtyard, a great carved sepulcher still rests, half-hidden in the waist high grass amongst a stand of ash trees. The lid of the sepulcher was carved into a likeness of the man whose bones lie beneath, but the rain and the wind has worn down the carving. The king had worn a beard, but otherwise his face is smooth and featureless with only the vague suggestions of a mouth, a nose, eyes and the crown about his temples.^^(Press K to finish reading)
+; qstr_Explore_Nunn_s_Deep.|Explore Nunn's Deep.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_N|You've successfully explored Nunn's Deep.^^(Press K to finish reading)
+; qstr_The_prisoner_inside_|The prisoner inside the cage has a swollen look, bumps and tiny dots scattered across his face.^^(Press K to finish reading)
+; qstr_The_mine_is_boarded_|The mine is boarded up, most of the workmen and miners away on errands. However, you can still hear the sound of pick-axes coming from within the mine, and the occasional tumble of rocks.^^(Press K to finish reading)
+; qstr_Explore_Nagga_s_Hill|Explore Nagga's Hill.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_Na|You've successfully explored Nagga's Hill.^^(Press K to finish reading)
+; qstr_The_massive_bones_pr|The massive bones protuding from the ground tower above you. The smell of salt and the ocean is heavy in the air, and you can hear the waves crashing against the shore. The altar in front of you is old and worn, but the offering of bones and blood is fresh.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_T|Explore the ruins of Tarbeck Hall.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_the|You've successfully explored the ruins of Tarbeck Hall.^^(Press K to finish reading)
+; qstr_The_castle_lies_in_r|The castle lies in ruins, and evidence of its destruction is still visible. Close to the ruined gatehouse, you spot a glimmer of gold. Edging closer, you see what appears to be an old helmet, spotted with rust. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_You_see_the_remains_|You see the remains of a few people still scattered around the ruined house. It looks like the building collapsed on top of them. In the middle of the room, you notice a faint glimmer of gold, and discover a small pile of golden coins. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_You_enter_what_used_|You enter what used to be the home of the castle blacksmith. The remains of his equipment are still scattered across the room, and while much of it is worn down and spotted with rust, a few items appear to have retained their value. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_C|Explore the ruins of Castamere.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_the_|You've successfully explored the ruins of Castamere.^^(Press K to finish reading)
+; qstr_The_gatehouse_of_the|The gatehouse of the ruined castle is untouched, only the doors having been broken down from the outside. A few rusty swords are scattered around the entrance, and a single large rat scurries out from underneath a pile of dead leaves when you get too close.^^(Press K to finish reading)
+; qstr_The_inside_of_the_ca|The inside of the castle is almost empty, with only a few broken items left behind. In one of the small rooms, a couple of rusty swords are stacked against the wall. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_The_lower_sections_o|The lower sections of the castle appear to have been flooded a long time ago.^^(Press K to finish reading)
+; qstr_The_other_sections_o|The other sections of the castle appear to have been barred from the outside, trapping anyone who was left on the other side, perhaps with no other way out.^^(Press K to finish reading)
+; qstr_Explore_the_Blind_Lo|Explore the Blind Lord's Haunted Tower.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_the_B|You've successfully explored the Blind Lord's Haunted Tower.^^(Press K to finish reading)
+; qstr_The_tower_is_a_complete|The tower is a complete ruin, nothing but a shell. But a strange moaning sound can be heard when inside - perhaps the cause is the wind being forced through the broken window, causing a wailing sound.^^(Press K to finish reading)
+; qstr_Explore_Queenscrown.|Explore Queenscrown.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_Q|You've successfully explored Queenscrown.^^(Press K to finish reading)
+; qstr_The_ruined_tower_on_|The ruined tower on the island is cut off from the surrounding area, and if a bridge ever existed, it's certainly gone now. But a hidden path of stones appears to have been placed in the lake, leading unto the island.^^(Press K to finish reading)
+; qstr_The_upper_part_of_th|The upper part of the tower is just as ruined as the rest, but small specks of gold can be seen on the parapets, giving them a brighter look than the rest of the place.^^(Press K to finish reading)
+; qstr_The_inner_part_of_th|The inner part of the tower is filled with rotten leaves and mushrooms. It's clear that no ones been here for a very long time.^^(Press K to finish reading)
+; qstr_Explore_the_Sorrows_|Explore the Sorrows to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_Great_Maz|Explore the Great Maze to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_Crossroad|Explore the Crossroads Inn to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_Inn_of_th|Explore the Inn of the Kneeling Man to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_V|Explore the ruins of Vulture's Roost to gain experience.^^(Press K to finish reading)
+; qstr_On_the_old_and_crumb|On the old and crumbling wall is scribbled a short poem. It reads: 'Dragon, dragon, what do you breathe? Fire and Blood, destruction I leave. But my sun and spear are not bowed or bent. Against the dragon, I shall never relent.'^^(Press K to finish reading)
+; qstr_Explore_Derring_Downs|Explore Derring Downs to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_Ta|Explore the ruins of Tarbeck Hall to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_Ca|Explore the ruins of Castamere to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_Blind_Lor|Explore the Blind Lord's Haunted Tower to gain experience.^^(Press K to finish reading)
+; qstr_Explore_Queenscrown_|Explore Queenscrown to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_Mo|Explore the ruins of Morne to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_He|Explore the ruins of Hellgate Hall to gain experience.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_Sha|Explore the ruins of Shandystone to gain experience.^^(Press K to finish reading)
+; qstr_As_you_explore_the_o|As you explore the old houses, you notice a small barrel stacked up against one of the walls. Lifting the lid, you experience the sweet smell of fresh ale. Some traveller must have forgotten the barrel when they used the house as a place to camp. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_Ol|Explore the ruins of Oldstones to gain experience.^^(Press K to finish reading)
+; qstr_Explore_Nunn_s_Deep_|Explore Nunn's Deep to gain experience.^^(Press K to finish reading)
+; qstr_This_mine_appears_to|This mine appears to have been abandoned, the entrance sealed and barred. As you turn around to leave, you notice a faint glimmer of gold on the ground, and when you bend down to investigate, you see that it's a small gold ingot. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Something_appears_to_h|Something appears to have been scribbled on the wall. It reads 'High in the halls of the kings who are gone, Jenny would dance with her ghosts...'^^(Press K to finish reading)
+; qstr_Exploring_the_ruined_|Exploring the ruined tower, you notice a glimmer of something yellow half-buried in a pile of rubble. Uncovering the object, it turns out to be a bronze goblet. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Explore_Nagga_s_Hill_|Explore Nagga's Hill to gain experience.^^(Press K to finish reading)
+; qstr_A_plain_helmet_showi|A plain helmet, showing no emblems or sigils, is stacked on top of the grave. A large cleft is clearly visible at the back of the helmet, indicating how the wearer met his end.^^(Press K to finish reading)
+; qstr_Explore_the_area_aro|Explore the area around the barrow to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_the_a|You've successfully explored the area around the barrow.^^(Press K to finish reading)
+; qstr_The_stones_making_up|The stones making up the barrow are old and crumbling, having stood for thousands of years. The weirwood too, is thousand of years old, and will keep standing until it is cut down or burned.^^(Press K to finish reading)
+; qstr_Explore_the_area_arou|Explore the area around the weirwood to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_the_ar|You've successfully explored the area around the weirwood.^^(Press K to finish reading)
+; qstr_A_man_has_been_hung_|A man has been hung from the branches of the weirwood, in an almost ritualistic fashion. The ground around the tree is strewn with old bones, and perhaps he is not the first one to be killed close to the weirwood...^^(Press K to finish reading)
+; qstr_Explore_Lord_Harrowa|Explore Lord Harroway's Town to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_L|You've successfully explored Lord Harroway's Town.^^(Press K to finish reading)
+; qstr_Lord_Harroway_s_Town|Lord Harroway's Town lies close to the the river known as the Trident. It appears the recent heavy downpours have caused the river to overflow the banks, and the town has been flooded as a result. There appears to be no sign of the inhabitants, they have probably moved further inland until the river recedes.^^(Press K to finish reading)
+; qstr_The_inhabitants_appe|The inhabitants appear to have left in a hurry, and the streets are filled with various produce, most of it spoiled. But the cabbages from the nearby wagon appear to be still fresh, and you see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_Much_of_the_food_flo|Much of the food floating around in the streets is turning to muck, but that which is above the water appears to still be fresh. A large wagon still has a few baskets of fruit in it, the owners appear to have been a hurry to get away from the water. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_The_wooden_building_|The wooden building appears to be a butchers shop. There's no sign of the butcher, but a few slabs of dried meat are hanging from a primitive rafter outside the shop, perhaps to show customers his wares. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_Explore_Tumbledown_T|Explore Tumbledown Tower to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_T|You've successfully explored Tumbledown Tower.^^(Press K to finish reading)
+; qstr_The_Wolfswood_contai|The Wolfswood contains many old towers and holdfasts, leftover from when the world was new, and the First Men first came with fire and bronze to wage war against the Children of the Forest. This ruined tower is one of the many old ruins from that time, and appears to have been abandoned a very long time ago.^^(Press K to finish reading)
+; qstr_Explore_Pendrick_Hil|Explore Pendrick Hills to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_P|You've successfully explored Pendrick Hills.^^(Press K to finish reading)
+; qstr_The_mine_appears_to_|The mine appears to have been sealed off, the entrance overgrown with new weeds and cobwebs gathering on the timber boarding up the entrance.^^(Press K to finish reading)
+; qstr_The_huts_and_shelter|The huts and shelters of the people who worked in the mine are well-kept but abandoned. It looks like people lived here recently, perhaps they've left to find safety in one of the nearby castles. With raiders and outlaws plentiful in this area, it might not have been a bad idea.^^(Press K to finish reading)
+; qstr_An_odd_pile_of_dirt_|An odd pile of dirt is clearly visible behind the huts and shelters of the village. It looks freshly dug, and would be an good place to hide valuables. You dig through the earth, and can hardly believe your luck. Inside the earthpile lies a small pile of golden bars, obviously the result of the mining that took place here recently. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_A_large_pile_of_hors|A large pile of horsedung is stacked a bit away from the village. A crafty peasant would hide his or her valuables inside the manure, trusting to no one wanting to dig through shit in the hope that they might be rewarded. But you see no reason not to do so, and enthusiastically start shoveling. Inside the pile is a few coins and a broken glass cup. The cup is useless, but you see no reason not to claim the coins as your own.^^(Press K to finish reading)
+; qstr_Explore_Old_Stone_Br|Explore Old Stone Bridge Inn to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_O|You've successfully explored Old Stone Bridge Inn.^^(Press K to finish reading)
+; qstr_The_inn_appears_to_ha|The inn appears to have been closed down for some time, perhaps as a result of the recent instability afflicting the realm.^^(Press K to finish reading)
+; qstr_Explore_the_ruins_of_W|Explore the ruins of Wendish Town to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_the_r|You've successfully explored the ruins of Wendish Town.^^(Press K to finish reading)
+; qstr_At_the_center_of_the|At the center of the ruined town stands the remains and foundations of what was once a wooden holdfast. It appears to have been lit on fire quite recently, with a few whisps of smoke and embers still eminating from the burnt wood. Inside is the burned and crumbled remains of the unfortunate souls who where inside the building when it was engulfed by fire.^^(Press K to finish reading)
+; qstr_Explore_Howling_Hill|Explore Howling Hill to gain experience.^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_H|You've successfully explored Howling Hill.^^(Press K to finish reading)
+; qstr_The_cave_beneath_the|The cave beneath the old and gnarled weirwood appears to have been the home of some people not too long ago. This area is isolated and deep within the Kingswood. Perhaps the previous tenants where outlaws.^^(Press K to finish reading)
+; qstr_An_old_stone_carved_|An old stone carved with runes is standing close to the entrance to the cave. The runes appear to show a great battle, fought between the First Men and the Children of the Forest on one side, and Andal invaders on the other. The center of the inscription shows a great gnarled tree, not unlike the one overlooking the cave, from which bloody human heads have been hung.^^(Press K to finish reading)
+; qstr_Whoever_used_to_live|Whoever used to live here left a few belongings behind. The scraps of cloth scattered around the tree stumps are almost all rotten away, but the axe embedded in one of the old trunks is perfectly fine, except for a few specks of rust.^^(Press K to finish reading)
+; qstr_The_corpse_is_picked|The corpse is picked clean, not a scrap of meat left on the bones. The earth around the remains is littered with the tracks of a large bear. Perhaps the previous tenant of the cave met his or her unfortunate end here.^^(Press K to finish reading)
+; qstr_An_old_chest_lies_ha|An old chest lies half-hidden in the sands that have covered most of the ruins, including the crumbling house. Opening it, you discover a fine pair of mail gauntlets at the bottom. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_The_weirwood_is_old_|The weirwood is old and gnarled, the tree itself hard as iron. The wood is valuable, but itt would take a long time to cut down. A branch however, lies close to the ground, covered in old leaves, but fresh as the day it sprung from the tree. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_A_small_crate_has_be|A small crate has been left in the corner. When you open it, another large rat comes crawling out. But inside is a fine helmet. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_A_campsite_lies_aban|A campsite lies abandoned close to the rocks shading a few tufts of grass. Whoever built it appears to have left a couple of items behind. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_The_holdfast_appears_|The holdfast appears to have been abandoned for quite some time and the well in the center of the former courtyard is completely dried up. Perhaps the reason no one lives here anymore.^^(Press K to finish reading)
+; qstr_As_you_approach_the_r|As you approach the ruined tower, you notice a rustling in the dry weeds. Seconds later, a small viper slithers from beneath a rock. It stares at you for a while, before returning to the grass.^^(Press K to finish reading)
+; qstr_As_you_explore_the_ol|As you explore the old houses, you notice a small barrel stacked up against one of the walls. Lifting the lid, you're hit by the sweet smell of fresh ale. Some traveller must have forgotten the barrel when they used the house as a place to camp. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_On_the_nearby_wall_i|On the nearby wall is scribbled something, in a fine and flowing hand. It reads: 'Some say the world will end in fire, some say in ice. From what I've tasted of desire, I hold with those who favor fire. But if it had to perish twice, I think I know enough of hate, to say that for destruction, ice is also great. And would suffice.' Underneath the poem is drawn a small viper, clutching a spear.^^(Press K to finish reading)
+; qstr_The_remains_of_the_c|The remains of the cart appear to have been looted, except for a few bars of iron left, or perhaps hidden, underneath it. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_As_you_near_the_oddl|As you near the oddly shaped stone, you notice the ground in front is cleared and a small candle has been left burning close to the stone. On the ground itself is scribled a curious message, over and over again: 'We all float down here'. A curved sword is thrust down into the ground off to the side, next to a drawing in the mud, of a turtle. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_The_air_is_full_of_f|The air is full of flies and the stench of rotten and burned flesh. It appears whoever attacked Wendish Town piled the bodies here and tried to light it on fire.^^(Press K to finish reading)
+; qstr_A_trapdoor_lies_half|A trapdoor lies half hidden by dirt and rubble. Opening it up and peering inside, you see a small cache containing grain. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_The_three_men_appear|The three men appear to have been hanged recently, but their faces are still black and swollen, and their eyes have been pecked out by crows.^^(Press K to finish reading)
+; qstr_The_small_plateau_ov|The small plateau overlooking the stream appears to have been well used. You can see a scattering of old footprints, and the remnants of many meals. The guards probably used the plateau as a vantage point, before they fled. On the table lies an old sword, probably forgotten when they left. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_The_big_pile_of_manu|The big pile of manure and dirt occupying the spot next to the road looks like it was recently disturbed. When you edge closer, you see why - a large rat appears to have made its burrow in the side of the pile.^^(Press K to finish reading)
+; qstr_The_stones_making_up_|The stones making up the barrow are old and crumbling, having stood for thousands of years. The weirwood too, looks like it might be thousands of years old.^^(Press K to finish reading)
+; qstr_The_old_stone_is_hug|The old stone is huge and crumbling, with lichen and decay evident everywhere. Something appears to have been carved into the surface, a long time ago. It reads: 'May he stay lost and forgotten.'^^(Press K to finish reading)
+; qstr_Something_appears_to_ha|Something appears to have been scribbled on the wall. It reads: 'Give me your trust, said the king on high. Give me your trust, said the lady and lord. Give me your trust, said the love of your life. Trust is the taste of death.'^^(Press K to finish reading)
+; qstr_Something_appears_to_hav|Something appears to have been buried here a long time ago. The recent downpour of rain has washed away the last vestiges of earth protecting the remains of the graves occupant, and also revealed a small chest. You open it, and find it completely empty.^^(Press K to finish reading)
+; qstr_The_Wolfswood_contain|The Wolfswood contains many old towers and holdfasts, leftover from when the world was new, and the First Men first came with fire and bronze to wage war against the Children of the Forest. This ruined tower is one of the many old ruins from that time, and appears to have been abandoned hundreds of years ago.^^(Press K to finish reading)
+; qstr_The_ground_around_th|The ground around the weirwood is covered in old bones, from both man and animal. Old and dried entrails have been hung from the branches of the weirwood, and an old knife, spotted and rusted, has been left close to the trunk of the tree.^^(Press K to finish reading)
+; qstr_Septon_Germund_has_ta|Septon Germund has tasked you with scouting the village of Hillhall, fearful that wildlings may have attacked it. Hillhall is located north of Karhold.
+; qstr_The_old_woman_was_the|The old woman was the only survivor of the wildling attack, but she had no idea where they went. Perhaps Goodwife Myra in Last Hearth has heard something.
+; qstr_Jess_knew_her_busine|Jess knew her business. The visit to the barn was most pleasant.
+; qstr_Ask_the_Archon_of_Ty|Ask the Archon of Tyrosh for a reward for dispatching the pirates.
+; qstr_Go_to_Mole_s_Town_an|Go to Mole's Town and defeat the Magnar of Thenn.
+; qstr_Tell_Cotter_Pyke_at_E|Tell Cotter Pyke, at Eastwatch-by-the-Sea, of the events in Mole's Town.
+; qstr_Vargo_Hoat_claimed_to_|Vargo Hoat claimed to have given the horn to a man heading for Duskendale, perhaps you can find it there. But first you should defeat the Brave Companions, lest they try and stop you on your quest.
+; qstr_{s5}_of_{s7}_has_tak|{s5} of {s7} has taken ownership of {s4}.
+; qstr_Return_to_the_Lord_s|Return to the Lord's hall of Dragonstone to find Ser Gilbert Farring.
+; qstr_Capture_and_execute_|Capture and execute King Renly Baratheon.
+; qstr_Ser_Stevron_Frey_has_|Ser Stevron Frey has joined The Westerlands
+; qstr_Ser_Walder_Frey_has_j|Ser Walder Frey has joined The Westerlands
+; qstr_Ser_Edwyn_Frey_has_j|Ser Edwyn Frey has joined The Westerlands
+; qstr_Ser_Ryman_Frey_has_j|Ser Ryman Frey has joined The Westerlands
+; qstr_{s1}_is_the_new_rule|{s1} is the new ruler of {s2}
+; qstr_Lord_Sebastion_Errol_|Lord Sebastion Errol has joined Dragonstone.
+; qstr_Lord_Ralph_Buckler_ha|Lord Ralph Buckler has joined Dragonstone.
+; qstr_Lord_Lester_Morrigen|Lord Lester Morrigen has joined Dragonstone.
+; qstr_Lord_Hugh_Grandison_h|Lord Hugh Grandison has joined Dragonstone.
+; qstr_Lord_Harwood_Fell_ha|Lord Harwood Fell has joined Dragonstone.
+; qstr_Lord_Bryce_Caron_has|Lord Bryce Caron has joined Dragonstone.
+; qstr_Ser_Ronnet_Connington|Ser Ronnet Connington has joined Dragonstone.
+; qstr_Lord_Eldon_Estermont_|Lord Eldon Estermont has joined Dragonstone.
+; qstr_Lord_Casper_Wylde_ha|Lord Casper Wylde has joined Dragonstone.
+; qstr_Ser_Donnel_Swann_has_|Ser Donnel Swann has joined Dragonstone.
+; qstr_{s1}_is_the_new_ruler|{s1} is the new ruler of {s2}.
+; qstr_Return_to_Stannis_Bar|Return to Stannis Baratheon and claim your reward.
+; qstr_Camp_defenses_have_b|Camp defenses have been completed.
+; qstr_Your_siege_camp_was_|Your siege camp was destroyed while you were away!
+; qstr_{s9}{reg5?_and_the_{|{s9}{reg5? and the {lord/lady} of {s8}.:.
+; qstr_Vulture_s_Roost_is_mi|Vulture's Roost is miles from the nearest village. It appears a lone traveller ran out of water and collapsed at the ruins, looking for shade and rescue. The bottles strewn around his remains are all empty, but the bag is filled with clinking coin. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_An_old_chest_lies_hal|An old chest lies half-hidden in the sands that have covered most of the ruins, including the crumbling house.^^(Press K to finish reading)
+; qstr_Lord_Gulian_Swann_has|Lord Gulian Swann has joined Dragonstone.
+; qstr_Lord_Boros_Cafferen_|Lord Boros Cafferen has joined Dragonstone.
+; qstr_Lord_Alesander_Staed|Lord Alesander Staedmon has joined Dragonstone.
+; qstr_As_you_enter_the_buil|As you enter the building, you notice an odd glimmer from the corner. Edging closer, you discover a small crystal reflecting what scant light comes through the fog surrounding the ruins. You see no reason not to claim it as your own, but as you try to pick it up, a plethora of spiders come crawling out from underneath, and you decide to leave the crystal where you found it.^^(Press K to finish reading)
+; qstr_As_you_near_the_oddly|As you near the oddly shaped stone, you notice the ground in front is cleared and a small candle has been left burning close to the stone. On the ground itself is scribled a curious message, over and over again: 'We all float down here'. An old chest lies half-hidden off to the side, in the grass covering most of the area.^^(Press K to finish reading)
+; qstr_An_old_chest_lies_half|An old chest lies half-hidden in the grass covering most of the area.^^(Press K to finish reading)
+; qstr_Lying_strewn_across_th|Lying strewn across the upper stair is a plethora of broken bottles and shards of glass. You can smell a faint whiff of pears, and the cloying sweet smell of fine liquor.^^(Press K to finish reading)
+; qstr_An_old_chest_lies_half_|An old chest lies half-hidden in the sands that have covered most of the ruins.^^(Press K to finish reading)
+; qstr_The_inhabitants_appea|The inhabitants appear to have left in a hurry, and the streets are filled with various produce, most of it spoiled.^^(Press K to finish reading)
+; qstr_The_wagon_is_filled_|The wagon is filled with fruit, and a sturdy looking chest.^^(Press K to finish reading)
+; qstr_The_wooden_building_a|The wooden building appears to be a butchers shop. There's no sign of the butcher, but a few slabs of dried meat are hanging from a primitive rafter outside the shop, perhaps to show customers his wares. You see no reason not to claim them as your own, but as you get closer, you notice the meat is crawling with maggots.^^(Press K to finish reading)
+; qstr_An_sturdy_looking_ch|An sturdy looking chest lies half-hidden in the grass covering most of the area.^^(Press K to finish reading)
+; qstr_A_trapdoor_lies_half_|A trapdoor lies half hidden by dirt and rubble. Opening it up and peering inside, you see a small cache containing grain. As you haul out the grain, a large rat scuttles off, and you decide to leave the grain where you found it.^^(Press K to finish reading)
+; qstr_An_odd_pile_of_dirt_i|An odd pile of dirt is clearly visible behind the huts and shelters of the village. It looks freshly dug, and would be an good place to hide valuables. You dig through the earth, and can hardly believe your luck. Inside the earthpile lies a small pile of golden coins, obviously the result of the mining that took place here recently. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_An_old_chest_lies_half_h|An old chest lies half-hidden in the dust covering most of the area.^^(Press K to finish reading)
+; qstr_The_weirwood_is_old_a|The weirwood is old and gnarled, the tree itself hard as iron. The wood is valuable, but it would take a long time to cut down.^^(Press K to finish reading)
+; qstr_The_castle_lies_in_ru|The castle lies in ruins, and evidence of its destruction is still visible. Close to the ruined gatehouse, you spot a glimmer of gold. Edging closer, you see what appears to be an old cracked helmet, spotted with rust.^^(Press K to finish reading)
+; qstr_The_inside_of_the_cas|The inside of the castle is almost empty, with only a few broken items left behind. In one of the small rooms, a couple of rusty swords are stacked against the wall. You look them over, but as you pick one up, it nearly falls apart. The swords are useless.^^(Press K to finish reading)
+; qstr_A_campsite_lies_aband|A campsite lies abandoned close to the rocks shading a few tufts of grass. Whoever built it appears to have left a couple of coins behind. You see no reason not to claim them as your own.^^(Press K to finish reading)
+; qstr_This_mine_appears_to_|This mine appears to have been abandoned, the entrance sealed and barred. As you turn around to leave, you notice a faint glimmer of gold on the ground, and when you bend down to investigate, you see that it's a small pile of golden coins. You see no reason not to claim it as your own.^^(Press K to finish reading)
+; qstr_Exploring_the_ruined_t|Exploring the ruined tower, you notice a glimmer of something yellow half-buried in a pile of rubble. Uncovering the object, it turns out to be nothing but a piece of broken glass.^^(Press K to finish reading)
+; qstr_@An_old_chest_lies_h|@An old chest lies half-hidden in the sands that have covered most of the ruins.^^(Press K to finish reading)
+; qstr_The_air_is_full_of_fl|The air is full of flies and the stench of rotten and burned flesh. It appears whoever attacked Wendish Town piled the bodies here and tried to light them on fire.^^(Press K to finish reading)
+; qstr_The_cave_beneath_the_|The cave beneath the old and gnarled weirwood appears to have been the home of some people not too long ago. This area is isolated and deep within the Rainwood. Perhaps the previous tenants where outlaws.^^(Press K to finish reading)
+; qstr_A_small_crate_has_bee|A small crate has been left in the corner, half-buried in dust and dirt.^^(Press K to finish reading)
+; qstr_The_statue_depicts_a_|The statue depicts a stern looking king, his eyes fixed on the horizon. Time has taking it's toll on the statue, and the runes scribbled on the base makes it possible the statue was made not by Andals, but by the First Men.^^(Press K to finish reading)
+; qstr_An_old_chest_lies_half_hi|An old chest lies half-hidden in the dirt and dust covering the inside of the tower.^^(Press K to finish reading)
+; qstr_You_don_t_have_enough_g|You don't have enough gold. How embarrassing!
+; qstr_For_days_everything_|For days, everything seems to smell like roast pork.
+; qstr_You_re_thirsty.|You're thirsty.
+; qstr_The_men_of_the_Storml|The men of the Stormlands like their traditions.
+; qstr_But_why_do_they_eat_t|But why do they eat the goose? Surely they where the avatars of the Seven!
+; qstr_After_two_hours_the_b|After two hours the bandits return with some loot and the head of a village elder.
+; qstr__4_to_head_armor|-4 to head armor
+; qstr__3_to_head_armor|-3 to head armor
+; qstr__2_to_head_armor|-2 to head armor
+; qstr__1_to_head_armor|-1 to head armor
+; qstr_+2_to_head_armor|+2 to head armor
+; qstr_+4_to_head_armor|+4 to head armor
+; qstr_+3_to_head_armor|+3 to head armor
+; qstr_+6_to_head_armor|+6 to head armor
+; qstr_You_got_the_keys_to_|You got the keys to the dungeon.
+; qstr_Explore_the_ruins_of_t|Explore the ruins of the Nightfort to gain experience.^^(Press K to finish reading)
+; qstr_You_come_across_an_old_|You come across an old assortment of instruments used for torture. The cold appears to have preserved both them and the few remains of the last victim unfortunate enough to be taken inside the cell.^^(Press K to finish reading)
+; qstr_You_hear_a_faint_scr|You hear a faint scream coming from the other side of the door...^^(Press K to finish reading)
+; qstr_Something_is_trying_|Something is trying to break down the door...^^(Press K to finish reading)
+; qstr_You_ve_successfully_explored_the_ru|You've successfully explored the ruins of the Nightfort.^^(Press K to finish reading)
+; qstr_You_come_across_an_old_a|You come across an old assortment of instruments used for torture. The cold appears to have preserved both them and the few remains of the last victim unfortunate enough to be strapped to the device.^^(Press K to finish reading)
+; qstr_Passing_the_door_you|Passing the door, you can make out the faint sound of a woman screaming...^^(Press K to finish reading)

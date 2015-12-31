@@ -89,6 +89,9 @@ qst_ramsay_quest1|El Bastardo de Bolton: Parte 2
 qst_ramsay_quest2|El Bastardo de Bolton: Parte 3
 qst_tyrion_quest|Oye mi Rugido: Parte 1
 qst_tyrion_quest1|Oye mi Rugido: Parte 2
+; qst_qohor_blacksmith_quest_1|The City of Sorcerers: Part 1
+; qst_qohor_blacksmith_quest_2|The City of Sorcerers: Part 2
+; qst_qohor_blacksmith_quest_3|The City of Sorcerers: Part 3
 qst_starting_quest_1_1|Un nuevo comienzo: Parte 1
 qst_starting_quest_1_2|Un nuevo comienzo: Parte 2
 qst_starting_quest_1_3|El torneo en Nuevestrellas: Parte 1
@@ -97,11 +100,10 @@ qst_starting_quest_1_5|El torneo en Nuevestrellas: Parte 3
 qst_starting_quest_1_6|Juicio por Combate: Parte 1
 qst_starting_quest_1_7|Juicio por Combate: Parte 1
 qst_terror_quest_starter|Terror en Hito: Parte 1
+; qst_yandel_quest_1|Illuminations: Part 1
+; qst_yandel_quest_2|Illuminations: Part 2
 qst_renly_quest_1|El Ciervo Coronado: Parte 1
 qst_renly_quest_2|El Ciervo Coronado: Parte 2
-qst_renly_quest_3|El Ciervo Coronado: Parte 3
-qst_renly_quest_4|El Ciervo Coronado: Parte 4
-qst_renly_quest_5|El Ciervo Coronado: Parte 5
 qst_starting_quest_citadel|Los Caballeros de la Mente: Parte 1
 qst_citadel_quest_1|Conocimiento Perdido: Parte 1
 qst_citadel_quest_2|Conocimiento Perdido: Parte 2
