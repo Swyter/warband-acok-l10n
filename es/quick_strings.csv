@@ -1637,7 +1637,7 @@ qstr_A_cleric_called_Ulca|Un clérigo llamado Ulcagnus me habló una vez sobre u
 qstr_Samol_has_tasked_you|Samol os ha pedido recuperar su cuerno y su collar. Un viejo ermitaño, Rodgar, debería tener el cuerno. Habla con él.
 qstr_Ser_Rodrik_Cassel_th|Ser Rodrik Cassel, el castellano de Invernalia, os ha pedido que ejecutéis a Ramsay Nieve, el bastardo de Bolton. Ramsay debería estar en la corte de su padre.
 qstr_Menzo_Mohr_Kastos_ha|Menzo Mohr Kastos os ha pedido conquistar Volantis y acabar con el esclavismo que domina la ciudad. Volved con él una vez la ciudad sea vuestra para exigir la recompensa.
-qstr_Aegon_Bloodborn_has_|Aegon el Sangriento ha robado a un grupo de hermanos mendicantes. El Hermano Mayor de su septo os ha pedido hacer justicia. Os ha informado que los forajidos se han dejado ver merodeando cerca de Caída Alta. Quizás podais encontrarlos allí.
+qstr_Aegon_Bloodborn_has_|Aegon el Sangriento ha robado a un grupo de hermanos mendicantes. El Hermano Mayor de su septo os ha pedido hacer justicia. Os ha informado que los forajidos se han dejado ver merodeando cerca de los Acantilados Férreos. Quizás podáis encontrarlos allí.
 qstr_Guildmaster_of_{s4}_g|El Maestro del gremio de {s4} os ha dado {reg12} monedas para que paguéis el rescate de una doncella capturada por bandidos. Debéis encontraros con los bandidos cerca de {s3} y pagar el rescate. Luego, deberéis regresar con la doncella a {s4}.
 qstr_Guildmaster_of_{s4}_pr|El Maestro del gremio de {s4} os ha prometido {reg12} monedas si os aseguráis que {s12} y {s13} ya no son una amenaza para el tratado de paz entre {s15} y {s14}. Para lograrlo, debéis convencerlos o capturarlos y apresarlos hasta que se firme el tratado.
 qstr_Guildmaster_of_{s10}_|El Maestro del gremio de {s10} os ha pedido que llevéis un rebaño de ganado hacia {s13}. A cambio ganaréis {reg8} monedas.
@@ -1666,11 +1666,11 @@ qstr_Ser_Arwood_hands_you|Ser Arwood os entrega el collar. Parecía viejo y gast
 qstr_The_priest_hands_you|El sacerdote os entrega el cuerto. Parece viejo y está cubierto de estrañas runas.
 qstr_Samol_has_tasked_you_|Samol os ha pedido recuperar su cuerno y su collar. Un viejo ermitaño, Rodgar, debería tener el cuerno. Hablad con él para saber más. Sería una buena idea prestar especial atención a cada una de las palabras que os pueda decir.
 qstr_Ser_Rodrik_Cassel_the|Ser Rodrik Cassel, el castellano de Invernalia, os ha pedido que ejecutéis a Ramsay Nieve, el bastardo de Bolton. Ramsay debería estar en la corte de su padre. Mátadlo y volved con Ser Rodrik para exigir la recompensa.
-qstr_Aegon_Bloodborn_has_r|Aegon el Sangriento ha robado a un grupo de hermanos mendicantes. El Hermano Mayor de su septo os ha pedido hacer justicia. Os ha informado que los forajidos se han dejado ver merodeando cerca de Caída Alta. Quizás podais encontrarlos allí. O quizás podáis volver al Hermano mayor y mentirle para reclamar la recompensa.
+qstr_Aegon_Bloodborn_has_r|Aegon el Sangriento ha robado a un grupo de hermanos mendicantes. El Hermano Mayor de su septo os ha pedido hacer justicia. Os ha informado que los forajidos se han dejado ver merodeando cerca de los Acantilados Férreos. Quizás podais encontrarlos allí. O quizás podáis volver al Hermano mayor y mentirle para reclamar la recompensa.
 qstr_Ser_Arwood_hands_you_|Ser Arwood te entrega el collar. Parecía viejo y gastado, el grabado se asemeja a una mujer hermosa.
 qstr_The_priest_hands_you_|El sacerdote os entrega el cuerto. Parece viejo y está cubierto de estrañas runas.
 qstr_The_priest_hands_you_t|El sacerdote os entrega el cuerto. Parece viejo y está cubierto de estrañas runas. Regresa a Samol para exigir tu recompensa.
-qstr_Aegon_Bloodborn_has_ro|Aegon el Sangriento ha robado a un grupo de hermanos mendicantes. El Hermano Mayor de su septo os ha pedido hacer justicia. Os ha informado que los forajidos se han dejado ver merodeando cerca de Caída Alta. Quizás podais encontrarlos allí. O quizás podáis volver al Hermano mayor y mentirle para reclamar la recompensa.
+qstr_Aegon_Bloodborn_has_ro|Aegon el Sangriento ha robado a un grupo de hermanos mendicantes. El Hermano Mayor de su septo os ha pedido hacer justicia. Os ha informado que los forajidos se han dejado ver merodeando cerca de los Acantilados Férreos. Quizás podais encontrarlos allí. O quizás podáis volver al Hermano mayor y mentirle para reclamar la recompensa.
 qstr_Enlisted_as_a_{s5}_i|Sois espada juramentada como {s5} al servicio de {s13} de {s14}.
 qstr_You_have_deserted_fr|¡Habéis desertado de las tropas de {s13}!
 qstr_Current_rank:_{s5}|Rango: {s5}
@@ -1717,7 +1717,7 @@ qstr_Upon_closer_inspecti|Tras un análisis más cercano, parece que la espada n
 qstr_While_not_a_valyrian|Ahora que sabéis que no es acero valyrio, la espada no parece estar ni siquiera bien forjada.
 qstr_Wait_outside_The_Dre|Esperad fuera de Fuerte Terror y acabad con Ramsay Nieve una vez salga del castillo de su padre. Entonces, volved con Ser Rodrik.
 qstr_Travel_to_The_Dreadf|Viajad a Fuerte Terror y ejecutad a Ramsay Nieve.
-qstr_Find_Aegon_Bloodborn_|Encontrad a Aegon el Sangriento y acabad con él. Debe estar alrededor de Caída Alta, cerca de Árbol de Cuervos.
+qstr_Find_Aegon_Bloodborn_|Encontrad a Aegon el Sangriento y acabad con él. Debe estar alrededor de los Acantilados Férreos, cerca de Árbol de Cuervos.
 qstr_a_JON_STEWART_MAN|un HOMBRE de JON STEWART
 qstr_This_area_of_{s1}_can|Este area de {s1} puede ser mejor descrita como el núcleo de la ciudad.^^Casi puedes ver las cadenas que salen de aquí, el dinero que viene y va con tasas aparentemente interminables. Aquí podéis comprar la tierra que es cultivada fuera de las puertas de la ciudad y beneficiaros de un trabajo duro. Por supuesto, podéis no tener el dinero requerido para hacerlo, pero los prestamistas son conocidos por solucionar precisamente eso.
 qstr_{reg1}00_people_live|{reg1}00 personas viven en {s1}. Hay actualmente {reg2} acres de tierra disponible para cultivarlos y dotarlos de comida y otros bienes. Poseeis {reg3} acres de tierra en esta ciudad. Actualmente, le debeis a los prestamistas de {s1} {reg4} monedas. La tasa de intereses es del 20% y debéis pagar cada 2 semanas. Si no pagáis antes de la fecha los intereses suben al 40%. Comprar los acres restantes costaría {reg9} monedas, mientras se venden por {reg10} monedas. Construir uno nuevo requiere de {reg11} monedas. La renta pagada a los propietarios de las tierras acumula {reg13} moneras por acre cada dos semanas y tiene que recogerse en la ciudad. Las tierras no se alquilarán si la ciudad está ya bien suplida.
@@ -1831,7 +1831,7 @@ qstr_Celebrating_a_funera|Celebrar un funeral a vuestra costa.
 qstr_Burn_the_soldiers_co|Quemar los cuerpos de los soldados caídos, en honor a R'hllor.
 qstr_Your_debt_in_{s1}_is_n|Vuestras deudas en {s1} son ya tan elevadas que el propio soberano ha tomado nota. Ha congelado vuestras deudas, pero está muy disgustado con esta situación.
 qstr_Defeat_The_Company_o|Derrotad a la Compañía del Gato y después regresad con el Príncipe Desharrapado para reclamar vuestra recompensa.
-qstr_Find_Aegon_Bloodborn_a|Encontrad a Aegon el Sangriento y derrotadlo. Debe merodear en las tierras cercanas a Caída Alta, cerca de Árbol de Cuervos. O mentid al Hermano Mayor y decidle que ya le habéis matado.
+qstr_Find_Aegon_Bloodborn_a|Encontrad a Aegon el Sangriento y derrotadlo. Debe merodear en las tierras cercanas a los Acantilados Férreos, cerca de Árbol de Cuervos. O mentid al Hermano Mayor y decidle que ya le habéis matado.
 qstr_The_old_woman_was_th|La anciana era la única superviviente del ataque de los salvajes, pero no tenía idea de dónde fueron. Tal vez el ama Myra en Fuerte Túmulo haya oído algo.
 qstr_Goodwife_Myra_told_y|El ama Myra os aconseja hablar con su hija Jess, que podría haber escuchado si los salvajes han estado merodeando.
 qstr_Jess_told_you_that_t|Jess os dijo que ha habido rumores de partidas de guerra salvajes en las Colinas Solitarias, al norte de Fuerte Terror. Tal vez se hayan guarnecido en la Fortaleza Abandonada.
@@ -1873,7 +1873,7 @@ qstr_Harwood_Frey_claimed_|Harwood Frey afirma que Vargo Hoat robó el cuerno. L
 qstr_Ser_Rodrik_Cassel_has|Ser Rodrik Cassel os ha encargado llevar ante la justicia del Rey a Ramsay Nieve. Buscadlo en el castillo de su padre, Fuerte Terror.
 qstr_Defeat_Ramsay_Snow_t|Derrotad a Ramsay Nieve y después volved con Ser Rodrik para pedir vuestra recompensa.
 qstr_From_below_the_floor|Desde debajo del suelo, podéis escuchar débiles gritos.
-qstr_The_Elder_Brother_ha|El Hermano Mayor os ha encargado encontrar a Aegon el Sangriento y llevarlo ante la justicia del Rey. Podría estar cerca de Caída Alta o escondido en el castillo de su abuelo, Los Gemelos.
+qstr_The_Elder_Brother_ha|El Hermano Mayor os ha encargado encontrar a Aegon el Sangriento y llevarlo ante la justicia del Rey. Podría estar cerca de los Acantilados Férreos o escondido en el castillo de su abuelo, Los Gemelos.
 qstr_Defeat_Aegon_Bloodbo|Derrotad a Aegon el Sangriento, y después volved con el Hermano Mayor.
 qstr_The_Tattered_Prince_t|El Príncipe Desharrapado os ha encargado matar a Barbasangre y derrotar a la Compañía del Gato, que actualmente se encuentra en la corte de Lys. La Compañía del Gato tiene al menos 200 hombres.
 qstr_Defeat_Bloodbeard_an|Derrotad a Barbasangre y regresad a Tyrosh.
@@ -2032,7 +2032,7 @@ qstr_No_harm_was_done.|No se ha causado ningún daño.
 qstr_The_beggar_is_dead_b|El mendigo está muerto, ¡pero se las arregló para apuñalaros la pierna! ¡Y además no llevaba ninguna moneda encima!
 qstr_The_man_was_obviousl|¡El hombre era un desequilibrado con ropajes robados!
 qstr_You_feel_very_refres|¡Os sentís repuesto!
-qstr_Goodman_Tom_asked_yo|El amo Tom os ha pedido encargaros de los espectros en el Cúmulo de Piedras.
+qstr_Goodman_Tom_asked_yo|Tom os ha pedido encargaros de los espectros en Piedratumular.
 qstr_Return_to_Goodman_To|Volved con el amo Tom y explicadle la situación.
 qstr_The_leader_of_the_out|El líder de los forajidos yace muerto a vuestros pies. ¡Su banda ha debido tener capturado a Haldon! Buscadle entre las ruinas.
 qstr_Haldon_was_being_hel|Haldon fue tomado cautivo por los proscritos. Volved con Illyrio Mopatis y reclamad vuestra recompensa.
@@ -2382,7 +2382,7 @@ qstr_If_you_do_not_return_|Si no regresas con su comandante a tiempo, se le decl
 qstr_Lysa_Tully_acting_on_|Lysa Tully, actuando en nombre de su hijo, Robert Arryn, os ha encargado exterminar a los clanes de las montañas. Buscad a Ser Albar Royce, que debería estar en la Puerta de la Sangre.
 qstr_A_clay_pot_filled_with_|Una vasija de cerámica repleta de fuego valyrio,^Creado por los piromantes de Desembarco del Rey.^La sustancia es inestable, y podría con facilidad estallar, llevando al infierno ardiente^Tanto amigos como enemigos
 qstr_Return_to_the_castle|Regresa más tarde al castillo y habla con Ser Rodrik Cassel.
-qstr_Search_the_tavern_fo|Busque la taberna para el campesino de Cairnhall.
+qstr_Search_the_tavern_fo|Busque la taberna para el campesino de Piedratumular.
 qstr_Search_the_tavern_for|Busque la taberna para Tyrion Lannister.
 qstr_Search_the_tavern_for_|Busque la taberna para Ser Gilbert Farring.
 qstr_Search_the_tavern_for_M|Busque la taberna para Moredo Tendyris.

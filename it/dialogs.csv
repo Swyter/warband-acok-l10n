@@ -3630,7 +3630,7 @@ dlga_wildfire_talk:close_window.2|Addio.
 ; dlga_wildfire_talk6:wildfire_talk7.3|Renly Baratheon is of no importance. R'hllor has already shown me his future, and his time is drawing near. The king might not see it himself, but Renly must die to clear the way for Stannis to sit the Iron Throne and wield the power necessary to save the world.
 ; dlga_wildfire_talk7:wildfire_talk8|But how?
 ; dlga_wildfire_talk8:close_window|Storm's End is old and formidable. But not impregnable. Beneath the castle walls is a cavern. I can work spells that will win Stannis the castle and the allegiance of the storm lords, but the castle walls are set with ancient runes. I need to get past them. And you will help me. Seek out Ser Davos, and tell him of my need.
-; dlga_wildfire_talk7:close_window.4|Farewell.
+dlga_wildfire_talk7:close_window.4|Addio.
 dlga_start:close_window.138|Si?
 ; dlga_start:wildfire_talk.3|What is it? I'm busy! All these acolytes, with their stupid questions!
 ; dlga_wildfire_talk:wildfire_talk2.2|Archmaester Harodon? Septon Garibald told me to deliver this letter to you.
@@ -3780,7 +3780,7 @@ dlga_wildfire_talk5:close_window.4|Addio.
 ; dlga_wildfire_talk6:wildfire_talk7.15|We have assembled a force of men to intercept the Magnar and defeat his band of raiders, but Bowen Marsh has gone west to defend the Shadow Tower with the remaining part of the garrison, and we need someone to led them. Jon is still too weak to leave his bed, and Donal Noye must stay here to led the defenses. The rest of our brothers are eager, but they do not have the experience. Gerold mentioned your deeds in the Lonely Hills, and I trust his judgement. You must led the brothers of the Night's Watch against the Magnar, {playername}.
 ; dlga_wildfire_talk7:close_window.12|Very well, I will defeat the Magnar!
 ; dlga_wildfire_talk7:close_window.13|I am not interested.
-; dlga_start:close_window.151|Yes, {playername}?
+dlga_start:close_window.151|Sì, {playername}?
 dlga_start:pj_wildfire_talk.9|Sì, {playername}? Magnar è morto?
 dlga_pj_wildfire_talk:pj_wildfire_talk2.9|Maestro Aemon, Magnar è morto!
 dlga_pj_wildfire_talk2:pj_wildfire_talk3.9|Davvero? Questa è una gioiosa notizia, {playername}. Ci avete dato tempo prezioso per prepararci all'attacco principale. Mentre ci prepariamo per l'inevitabile, ho bisogno di qualcuno che vada a Eastwatch-by-the-Sea per informare Cotter Pyke degli eventi che stanno accadendo qui. Potete occuparvene voi?
@@ -3798,7 +3798,7 @@ dlga_wildfire_talk5:close_window.5|Addio.
 ; dlga_wildfire_talk6:wildfire_talk7.16|Good! And tell Bowen he's a fool while you're at it!
 ; dlga_wildfire_talk7:close_window.14|Erh, yes...
 ; dlga_wildfire_talk7:close_window.15|I am not interested.
-; dlga_start:close_window.152|Yes, {playername}?
+dlga_start:close_window.152|Sì, {playername}?
 dlga_wildfire_talk:close_window.12|Addio.
 dlga_start:pj_wildfire_talk.10|Sì, {playername}? Cosa vi ha riferito Cotter Pyke?
 ; dlga_pj_wildfire_talk:pj_wildfire_talk2.10|He's sending as many men as he can spare to aid us in the defense.
@@ -3817,7 +3817,7 @@ dlga_wildfire_talk5:close_window.6|Addio.
 ; dlga_wildfire_talk6:wildfire_talk7.17|Cotter Pyke! Bah! The bastard son of a tavern wench, the most vile man in the entire Watch! Still, I myself might not have been so quick to take the greater part of our strength with me to guard the Gorge... Ah, nothing to do about it now. In fact, {playername}, I'd greatly appreciate it if you where to head to the Gorge yourself. Should the wildlings attack, Lord Marsh could use all the help he can get!
 ; dlga_wildfire_talk7:close_window.16|I'll have a look at this Gorge!
 ; dlga_wildfire_talk7:close_window.17|I am not interested.
-; dlga_start:close_window.153|Yes, {playername}?
+dlga_start:close_window.153|Sì, {playername}?
 dlga_wildfire_talk:close_window.13|Addio.
 dlga_start:pj_wildfire_talk.11|Sì, {playername}? Come sta Lord Marsh?
 ; dlga_pj_wildfire_talk:pj_wildfire_talk2.11|The Weeper tried to force his away across, but we beat him back.
@@ -3836,7 +3836,7 @@ dlga_wildfire_talk5:close_window.7|Addio.
 ; dlga_wildfire_talk6:wildfire_talk7.18|Just west of here. Make haste!
 ; dlga_wildfire_talk7:close_window.18|For the realm!
 ; dlga_wildfire_talk7:close_window.19|I am not interested.
-; dlga_start:close_window.154|Yes, {playername}?
+dlga_start:close_window.154|Sì, {playername}?
 dlga_wildfire_talk:close_window.14|Addio.
 ; dlga_start:wildfire_talk.18|Yes? Ah, {playername}. What news do you bring?
 ; dlga_wildfire_talk:wildfire_talk2.17|We beat back the wildlings.
@@ -3849,7 +3849,7 @@ dlga_wildfire_talk5:close_window.8|Addio.
 ; dlga_wildfire_talk7:wildfire_talk8.7|But ah, before you go... a gift. When I joined the Order of Maesters, I forswore my old family name, but I have not forgotten it. When Bloodraven left for his last ranging, he entrusted me with the sword his father bestowed upon him. The sword that Aegon's sister Visenya wielded when she rode upon Meraxes, one of the three great dragons. The ancestral Valyrian sword of House Targaryen, my family! It is called Dark Sister, and its history is illustrious and proud. You must wield it now, {playername}, and defend the realm.
 ; dlga_wildfire_talk8:close_window.7|I am honored, my lord.
 ; dlga_wildfire_talk8:close_window.8|I am not interested.
-; dlga_start:close_window.155|Yes, {playername}?
+dlga_start:close_window.155|Sì, {playername}?
 dlga_wildfire_talk:close_window.15|Addio.
 dlga_start:pj_wildfire_talk.12|Si?
 dlga_pj_wildfire_talk:pj_wildfire_talk2.12|Aemon ha dato ordine di abbandonare la Barriera.
@@ -3891,7 +3891,7 @@ dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.5|Mi scusi?
 ; dlga_start:close_window.158|Red lady, red lady, red lady, shadow lady!
 ; dlga_start:wildfire_talk.20|{playername}.
 ; dlga_wildfire_talk:wildfire_talk2.18|How do you know my name?
-; dlga_wildfire_talk:close_window.17|Farewell.
+dlga_wildfire_talk:close_window.17|Addio.
 ; dlga_wildfire_talk2:wildfire_talk3.22|I saw it in the fires.
 dlga_wildfire_talk3:wildfire_talk4.18|Cosa volete che faccia?
 ; dlga_wildfire_talk4:wildfire_talk5.18|Find the answers.
@@ -3903,7 +3903,7 @@ dlga_wildfire_talk5:close_window.10|Addio.
 dlga_start:close_window.159|Sì?
 ; dlga_start:wildfire_talk.21|{playername}.
 ; dlga_wildfire_talk:wildfire_talk2.19|How do you know my name? Who are you?
-; dlga_wildfire_talk:close_window.18|Farewell.
+dlga_wildfire_talk:close_window.18|Addio.
 ; dlga_wildfire_talk2:wildfire_talk3.23|I saw your birth, and heard the name your mother bestowed upon you while you lay at her breast. I'm watching everything, and everyone, with a thousand eyes and one.
 ; dlga_wildfire_talk3:wildfire_talk4.19|How?
 ; dlga_wildfire_talk4:wildfire_talk5.19|The trees see all, and time is of no importance to them. The weirwoods hold many memories. My presence here is their memory.
@@ -3926,7 +3926,7 @@ dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.6|Sapete di qualc
 ; dlga_wildfire_starter_introduce_2:close_window.5|My uncle, Ser Gilbert, is looking for someone to do some... un-knightly work. I think he's at the tavern.
 ; dlga_start:close_window.163|Praise the Lord of Light.
 ; dlga_start:wildfire_talk.24|Yes? Can I help you?
-; dlga_wildfire_talk:close_window.19|Farewell.
+dlga_wildfire_talk:close_window.19|Addio.
 ; dlga_wildfire_talk2:wildfire_talk3.24|Ah yes, I do, I do. But you have to keep silent about this.
 ; dlga_wildfire_talk3:wildfire_talk4.20|What would you have me do?
 ; dlga_wildfire_talk4:wildfire_talk5.20|Before the Old King abolished the lords right to the first night, the Targaryens where known to visit the smallfolk of Dragonstone to take their due, and they continued to do so even after the right was abolished. The resulting offspring was known as 'dragonseeds'. The dragonseeds used to be plenty on Dragonstone, but their numbers have dwindled over the years. However, recently a young man has been claiming to be the bastard son of Prince Rhaegar.
@@ -3954,7 +3954,7 @@ dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.7|Sapete di qualc
 ; dlga_wildfire_starter_introduce_2:close_window.6|I did hear a rumor a few days ago... Phario Forel, the playwright, is looking for someone to search some old tomb... he'll probably be here in a couple of hours, for some reason he's infatuated with Merry...
 ; dlga_start:close_window.165|Yes?
 ; dlga_start:wildfire_talk.25|Yes? Can I help you?
-; dlga_wildfire_talk:close_window.20|Farewell.
+dlga_wildfire_talk:close_window.20|Addio.
 ; dlga_wildfire_talk2:wildfire_talk3.25|'The Father reached his hand into the heavens and pulled down seven stars and one by one he set them on the brow of Hugor of the Hill to make a glowing crown'...
 ; dlga_wildfire_talk3:wildfire_talk4.21|Erh?
 ; dlga_wildfire_talk4:wildfire_talk5.21|It's from the Seven-Pointed Star you ignorant savage! Bunch of Westerosi nonsense, but they did get the crown part right. Of course, it's not made by a god...
@@ -3985,7 +3985,7 @@ dlga_wildfire_talk5:close_window.14|Addio.
 ; dlga_wildfire_talk6:wildfire_talk7.25|You'll need to deal with the outlaws yourself, you'll never be able to surprise them by lumbering around with half an army.
 ; dlga_wildfire_talk7:close_window.30|Very well, I will take care of the outlaws.
 dlga_wildfire_talk7:close_window.31|Non sono interessato.
-; dlga_wildfire_talk:close_window.21|Farewell.
+dlga_wildfire_talk:close_window.21|Addio.
 ; dlga_start:close_window.168|Yes?
 dlga_start:pj_wildfire_talk.18|Sì, {playername}?
 dlga_pj_wildfire_talk:pj_wildfire_talk2.18|Mi sono occupato dei fuorilegge.
@@ -3994,13 +3994,13 @@ dlga_pj_wildfire_talk3:close_window.9|Vi ringrazio.
 ; dlga_pj_wildfire_talk:morcant_creditos.10|Can you tell me more about the Pass of Hugor Hill?
 dlga_morcant_creditos:close_window.10|Niente da dire, davvero. Il passo prende il nome da Hugor Hill, ovviamente. Questi altopiani prendono tutti il nome da qualche figura religiosa di Andal.
 dlga_pj_wildfire_talk:close_window.18|Non importa.
-; dlga_start:wildfire_talk.27|Yes, {playername}?
-; dlga_wildfire_talk:wildfire_talk2.23|Do you have any more tasks for me?
-; dlga_wildfire_talk:close_window.22|Farewell.
+dlga_start:wildfire_talk.27|Sì, {playername}?
+dlga_wildfire_talk:wildfire_talk2.23|Hai altri compiti da assegnarmi?
+dlga_wildfire_talk:close_window.22|Addio.
 ; dlga_wildfire_talk2:wildfire_talk3.27|Ah yes, I do. A close friend of mine has gone missing. He was visiting some ruined baths, north of Myr, but neither I, nor my associates, have heard from him since he set out weeks ago. He was supposed to be back by now.
 ; dlga_wildfire_talk3:wildfire_talk4.23|What would you have me do?
 ; dlga_wildfire_talk4:wildfire_talk5.23|Go look for him. If he has met with an unfortunate end, I need you to return any books or scrolls he might carry, but I pray that is not the case. But find out what happened to him, {playername}!
-; dlga_wildfire_talk5:wildfire_talk6.27|Hmm...
+dlga_wildfire_talk5:wildfire_talk6.27|Hmm...
 dlga_wildfire_talk5:close_window.15|Addio.
 ; dlga_wildfire_talk6:wildfire_talk7.26|I'll make sure you're well rewarded!
 ; dlga_wildfire_talk7:close_window.32|Very well, I will find this friend of yours.
@@ -4025,7 +4025,7 @@ dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.9|Chi è questo m
 ; dlga_start:close_window.170|Get out of here!
 ; dlga_start:wildfire_talk.28|Welcome, my friend. I see you just barged in, without an invitation, but welcome nonetheless. What are you doing here, if you don't mind me asking?
 ; dlga_wildfire_talk:wildfire_talk2.24|I am {playername}, and I've come seeking adventure. Do you have any tasks for me?
-; dlga_wildfire_talk:close_window.23|Farewell.
+dlga_wildfire_talk:close_window.23|Addio.
 ; dlga_wildfire_talk2:wildfire_talk3.28|Yes, {playername}, I do, I do. I need someone to brave the Smoking Sea, and set sail for far away Meereen. An... acquaintance of mine has taken up residence in the city, and I would dearly like to keep in contact with her, and thus I need someone to deliver this letter. So what do you say, {playername}, are you man enough for such a journey?
 ; dlga_wildfire_talk3:wildfire_talk4.24|I will brave this Smoking Sea and sail to Meereen!
 ; dlga_wildfire_talk3:close_window.1|I'm afraid I can't carry that right now.

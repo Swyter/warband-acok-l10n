@@ -1,0 +1,2050 @@
+itm_no_item|NEPLATNÝ PŘEDMĚT
+itm_no_item_pl|NEPLATNÝ PŘEDMĚT
+itm_tutorial_spear|Oštěp
+itm_tutorial_spear_pl|Oštěp
+itm_tutorial_club|Palice
+itm_tutorial_club_pl|Palice
+itm_tutorial_battle_axe|Bojová sekera
+itm_tutorial_battle_axe_pl|Bojová sekera
+itm_tutorial_arrows|Šípy
+itm_tutorial_arrows_pl|Šípy
+itm_tutorial_bolts|Šipky
+itm_tutorial_bolts_pl|Šipky
+itm_tutorial_short_bow|Krátký luk
+itm_tutorial_short_bow_pl|Krátký luk
+itm_tutorial_crossbow|Kuše
+itm_tutorial_crossbow_pl|Kuše
+itm_tutorial_throwing_daggers|Vrhací nože
+itm_tutorial_throwing_daggers_pl|Vrhací nože
+itm_tutorial_saddle_horse|Jezdecký kůň
+itm_tutorial_saddle_horse_pl|Jezdecký kůň
+; itm_tutorial_shield|Kite Shield
+; itm_tutorial_shield_pl|Kite Shield
+itm_tutorial_staff_no_attack|Hůl
+itm_tutorial_staff_no_attack_pl|Hůl
+itm_tutorial_staff|Hůl
+itm_tutorial_staff_pl|Hůl
+itm_tutorial_sword|Meč
+itm_tutorial_sword_pl|Meč
+itm_tutorial_axe|Sekera
+itm_tutorial_axe_pl|Sekera
+itm_tutorial_dagger|Nůž
+itm_tutorial_dagger_pl|Nůž
+itm_horse_meat|Koňské maso
+itm_horse_meat_pl|Koňské maso
+itm_practice_lance|Turnajové kopí
+itm_practice_lance_pl|Turnajové kopí
+itm_practice_axe|Tupá turnajová sekera
+itm_practice_axe_pl|Tupá turnajová sekera
+itm_practice_dagger|Tupý turnajový palcát
+itm_practice_dagger_pl|Tupý turnajový palcát
+itm_practice_staff|Tupý turnajový meč
+itm_practice_staff_pl|Tupý turnajový meč
+itm_practice_sword|Tupý turnajový meč
+itm_practice_sword_pl|Tupý turnajový meč
+itm_practice_sword_heavy|Tupý turnajový palcát
+itm_practice_sword_heavy_pl|Tupý turnajový palcát
+itm_practice_arrows|Tupý turnajový meč
+itm_practice_arrows_pl|Tupý turnajový meč
+itm_practice_arrows_10_amount|Tupý turnajový meč
+itm_practice_arrows_10_amount_pl|Tupý turnajový meč
+itm_practice_arrows_100_amount|Tupý turnajový meč
+itm_practice_arrows_100_amount_pl|Tupý turnajový meč
+itm_practice_bolts|Tupý turnajový meč
+; itm_practice_bolts_pl|Blunt Tourney Sword
+itm_practice_bolts_9_amount|Tupý turnajový palcát
+itm_practice_bolts_9_amount_pl|Tupý turnajový palcát
+itm_practice_bow|Turnajové kopí
+itm_practice_bow_pl|Turnajové kopí
+itm_practice_crossbow|Turnajové kopí
+itm_practice_crossbow_pl|Turnajové kopí
+itm_practice_javelin|Turnajové kopí
+itm_practice_javelin_pl|Turnajové kopí
+itm_practice_javelin_melee|Turnajové kopí
+; itm_practice_javelin_melee_pl|Tourney Lance
+itm_practice_throwing_daggers|Tupý turnajový palcát
+itm_practice_throwing_daggers_pl|Tupý turnajový palcát
+itm_practice_throwing_daggers_100_amount|Tupý turnajový palcát
+itm_practice_throwing_daggers_100_amount_pl|Tupý turnajový palcát
+itm_practice_boots|Cvičné boty
+itm_practice_boots_pl|Cvičné boty
+itm_practice_horse|Cvičný kůň
+itm_practice_horse_pl|Cvičný kůň
+itm_practice_shield|Cvičný štít
+itm_practice_shield_pl|Cvičný štít
+; itm_book_tactics|A Compendium on the Blackfyre Rebellions
+; itm_book_tactics_pl|A Compendium on the Blackfyre Rebellions
+itm_book_persuasion|Podmanění Dorne
+itm_book_persuasion_pl|Podmanění Dorne
+itm_book_leadership|Život Aegona dobyvatle
+itm_book_leadership_pl|Život Aegona dobyvatle
+itm_book_intelligence|Esej o logice od velmistra Gerardyse
+itm_book_intelligence_pl|Esej o logice od velmistra Gerardyse
+itm_book_trade|Historie Železné banky Braavosu
+itm_book_trade_pl|Historie Železné banky Braavosu
+itm_book_weapon_mastery|Umění boje s meči
+; itm_book_weapon_mastery_pl|On the Art of Fighting with Swords
+; itm_book_engineering|The War of Volantene Aggression
+; itm_book_engineering_pl|The War of Volantene Aggression
+itm_book_necronomicon|Velká kniha magie
+itm_book_necronomicon_pl|Velká kniha magie
+itm_book_bible|Sedmicípá hvězda
+itm_book_bible_pl|Sedmicípá hvězda
+itm_book_prisoner_management|Deník Gralmaq mo Eraze
+itm_book_prisoner_management_pl|Deník Gralmaq mo Eraze
+itm_book_spotting_reference|Divy vytvořené člověkem
+itm_book_spotting_reference_pl|Divy vytvořené člověkem
+itm_book_first_aid_reference|Krátké pojednání o jarní nemoci
+itm_book_first_aid_reference_pl|Krátké pojednání o jarní nemoci
+itm_book_pathfinding_reference|Mapa známého světa
+itm_book_pathfinding_reference_pl|Mapa známého světa
+itm_book_wound_treatment_reference|Kniha léčitelství
+itm_book_wound_treatment_reference_pl|Kniha léčitelství
+itm_book_training_reference|Neposkvrnění
+itm_book_training_reference_pl|Neposkvrnění
+itm_book_surgery_reference|O Citadele a chirurgii
+itm_book_surgery_reference_pl|O Citadele a chirurgii
+itm_book_trade_ledger|Obchodníkova kniha
+itm_book_trade_ledger_pl|Obchodníkova kniha
+itm_trade_spice|Sklenice koření
+itm_trade_spice_pl|Sklenice koření
+itm_trade_salt|Pytel soli
+itm_trade_salt_pl|Pytel soli
+itm_trade_oil|Sklenice oleje
+itm_trade_oil_pl|Sklenice oleje
+itm_trade_pottery|Hrnce
+itm_trade_pottery_pl|Hrnce
+itm_trade_raw_flax|Balík lnu
+itm_trade_raw_flax_pl|Balík lnu
+itm_trade_linen|Balík látky
+itm_trade_linen_pl|Balík látky
+itm_trade_wool|Pytel surové vlny
+itm_trade_wool_pl|Pytel surové vlny
+itm_trade_wool_cloth|Vlněná látka
+itm_trade_wool_cloth_pl|Vlněná látka
+itm_trade_raw_silk|Surové hedvábí
+itm_trade_raw_silk_pl|Surové hedvábí
+itm_trade_raw_dyes|Mísa barviva
+itm_trade_raw_dyes_pl|Mísa barviva
+itm_trade_velvet|Balík sametu
+itm_trade_velvet_pl|Balík sametu
+itm_trade_iron|Železný prut
+itm_trade_iron_pl|Železný prut
+itm_trade_tools|Nářadí
+itm_trade_tools_pl|Nářadí
+itm_trade_raw_leather|Kůže
+itm_trade_raw_leather_pl|Kůže
+itm_trade_leatherwork|Zapracovaná kůže
+itm_trade_leatherwork_pl|Zapracovaná kůže
+; itm_trade_raw_date_fruit|Date Fruit
+; itm_trade_raw_date_fruit_pl|Date Fruit
+itm_trade_furs|Balík kožešiny
+itm_trade_furs_pl|Balík kožešiny
+itm_trade_wine|Lahev vína
+itm_trade_wine_pl|Lahev vína
+itm_trade_ale|Sud piva
+itm_trade_ale_pl|Sud piva
+; itm_market_gold_chalice|Gold Chalice
+; itm_market_gold_chalice_pl|Gold Chalice
+; itm_market_lemon_basket|Basket of Lemons
+; itm_market_lemon_basket_pl|Basket of Lemons
+; itm_market_plum_basket|Basket of Plums
+; itm_market_plum_basket_pl|Basket of Plums
+; itm_market_dornish_wine|Crate of Dornish Wine
+; itm_market_dornish_wine_pl|Crate of Dornish Wine
+; itm_market_pear_basket|Basket of Pears
+; itm_market_pear_basket_pl|Basket of Pears
+; itm_market_apple_basket|Basket of Apples
+; itm_market_apple_basket_pl|Basket of Apples
+; itm_market_arbor_red|Jar of Arbor Wine
+; itm_market_arbor_red_pl|Jar of Arbor Wine
+; itm_market_candles|Candles
+; itm_market_candles_pl|Candles
+; itm_market_pumpkins|Pumpkin
+; itm_market_pumpkins_pl|Pumpkin
+; itm_market_lead|Lead Ingot
+; itm_market_lead_pl|Lead Ingot
+; itm_market_tin|Tin Ingot
+; itm_market_tin_pl|Tin Ingot
+; itm_market_coal|Crate of Coal
+; itm_market_coal_pl|Crate of Coal
+; itm_market_silver_chalice|Silver Chalice
+; itm_market_silver_chalice_pl|Silver Chalice
+; itm_market_pentoshi_wine|Jar of Pentoshi Wine
+; itm_market_pentoshi_wine_pl|Jar of Pentoshi Wine
+; itm_market_lyseni_wine|Jar of Lyseni Wine
+; itm_market_lyseni_wine_pl|Jar of Lyseni Wine
+; itm_market_qohorik_carpets|Qohorik Carpets
+; itm_market_qohorik_carpets_pl|Qohorik Carpets
+; itm_market_bronzewood|Bronzewood
+; itm_market_bronzewood_pl|Bronzewood
+; itm_market_myrish_carpets|Myrish Carpets
+; itm_market_myrish_carpets_pl|Myrish Carpets
+; itm_market_tyroshi_pear_brandy|Bottle of Tyroshi Pear Brandy
+; itm_market_tyroshi_pear_brandy_pl|Bottle of Tyroshi Pear Brandy
+; itm_market_volantene_wine|Bottle of Volantene Wine
+; itm_market_volantene_wine_pl|Bottle of Volantene Wine
+; itm_market_ironwood|Ironwood
+; itm_market_ironwood_pl|Ironwood
+; itm_market_persimmon_wine|Bottle of Persimmon Wine
+; itm_market_persimmon_wine_pl|Bottle of Persimmon Wine
+; itm_market_perfume|Bottle of Perfume
+; itm_market_perfume_pl|Bottle of Perfume
+itm_trade_smoked_fish|Uzená ryba
+itm_trade_smoked_fish_pl|Uzená ryba
+itm_trade_cheese|Sýr
+itm_trade_cheese_pl|Sýr
+itm_trade_honey|Sklenice medu
+itm_trade_honey_pl|Sklenice medu
+itm_trade_sausages|Klobásy
+itm_trade_sausages_pl|Klobásy
+itm_trade_cabbages|Zelí
+itm_trade_cabbages_pl|Zelí
+itm_trade_dried_meat|Sušené maso
+itm_trade_dried_meat_pl|Sušené maso
+itm_trade_apples|Koš ovoce
+itm_trade_apples_pl|Koš ovoce
+itm_trade_raw_grapes|Hrozny
+itm_trade_raw_grapes_pl|Hrozny
+itm_trade_raw_olives|Olivy
+itm_trade_raw_olives_pl|Olivy
+itm_trade_grain|Pytel pšenice
+itm_trade_grain_pl|Pytel pšenice
+itm_trade_cattle_meat|Hovězí maso
+itm_trade_cattle_meat_pl|Hovězí maso
+itm_trade_bread|Chléb
+itm_trade_bread_pl|Chléb
+itm_trade_chicken|Kuřecí maso
+itm_trade_chicken_pl|Kuřecí maso
+itm_trade_pork|Vepřové maso
+itm_trade_pork_pl|Vepřové maso
+itm_trade_butter|Sklenice másla
+itm_trade_butter_pl|Sklenice másla
+; itm_trade_dummy01|Dummy item 1
+; itm_trade_dummy01_pl|Dummy item 1
+; itm_trade_dummy02|Dummy item 2
+; itm_trade_dummy02_pl|Dummy item 2
+; itm_trade_dummy03|Dummy item 3
+; itm_trade_dummy03_pl|Dummy item 3
+; itm_trade_dummy04|Dummy item 4
+; itm_trade_dummy04_pl|Dummy item 4
+; itm_trade_dummy05|Dummy item 5
+; itm_trade_dummy05_pl|Dummy item 5
+; itm_trade_dummy06|Dummy item 6
+; itm_trade_dummy06_pl|Dummy item 6
+; itm_trade_dummy07|Dummy item 7
+; itm_trade_dummy07_pl|Dummy item 7
+; itm_trade_dummy08|Dummy item 8
+; itm_trade_dummy08_pl|Dummy item 8
+; itm_trade_dummy09|Dummy item 9
+; itm_trade_dummy09_pl|Dummy item 9
+; itm_trade_dummy10|Dummy item 10
+; itm_trade_dummy10_pl|Dummy item 10
+; itm_trade_dummy11|Dummy item 11
+; itm_trade_dummy11_pl|Dummy item 11
+; itm_trade_dummy12|Dummy item 12
+; itm_trade_dummy12_pl|Dummy item 12
+; itm_trade_dummy13|Dummy item 13
+; itm_trade_dummy13_pl|Dummy item 13
+; itm_trade_dummy14|Dummy item 14
+; itm_trade_dummy14_pl|Dummy item 14
+; itm_trade_dummy15|Dummy item 15
+; itm_trade_dummy15_pl|Dummy item 15
+; itm_trade_dummy16|Dummy item 16
+; itm_trade_dummy16_pl|Dummy item 16
+; itm_trade_dummy17|Dummy item 17
+; itm_trade_dummy17_pl|Dummy item 17
+; itm_trade_dummy18|Dummy item 18
+; itm_trade_dummy18_pl|Dummy item 18
+; itm_trade_dummy19|Dummy item 19
+; itm_trade_dummy19_pl|Dummy item 19
+; itm_trade_dummy20|Dummy item 20
+; itm_trade_dummy20_pl|Dummy item 20
+itm_dragon_coin|Zlatý drak
+itm_dragon_coin_pl|Zlatý drak
+itm_dragon_coin_many|Zlatí draci
+itm_dragon_coin_many_pl|Zlatí draci
+; itm_honor|Gold Honor
+; itm_honor_pl|Gold Honor
+; itm_honor_many|Gold Honors
+; itm_honor_many_pl|Gold Honors
+itm_groat|Groš
+itm_groat_pl|Groš
+itm_groat_many|Groše
+itm_groat_many_pl|Groše
+itm_lumber|Dřevo
+itm_lumber_pl|Dřevo
+itm_ring_1|Zlatý prsten
+itm_ring_1_pl|Zlatý prsten
+itm_ring_2|Zlatý prsten
+itm_ring_2_pl|Zlatý prsten
+itm_ring_3|Zlatý prsten
+itm_ring_3_pl|Zlatý prsten
+itm_ring_4|Stříbrný prsten
+itm_ring_4_pl|Stříbrný prsten
+itm_ring_5|Stříbrný prsten
+itm_ring_5_pl|Stříbrný prsten
+itm_asshai_saffron|Šafrán
+itm_asshai_saffron_pl|Šafrán
+itm_asshai_myrrh|Myrha
+itm_asshai_myrrh_pl|Myrha
+itm_asshai_cinnamon|Skořice
+itm_asshai_cinnamon_pl|Skořice
+itm_qarth_saffron|Šafrán
+itm_qarth_saffron_pl|Šafrán
+itm_qarth_pepper|Pepř
+itm_qarth_pepper_pl|Pepř
+itm_qarth_cardamom|Kardamon
+itm_qarth_cardamom_pl|Kardamon
+itm_zamettar_nutmeg|Muškátový oříšek
+itm_zamettar_nutmeg_pl|Muškátový oříšek
+itm_zamettar_curry|Kari
+itm_zamettar_curry_pl|Kari
+itm_zamettar_anise|Anýz
+itm_zamettar_anise_pl|Anýz
+itm_moraq_cloves|Hřebíček
+itm_moraq_cloves_pl|Hřebíček
+; itm_moraq_spiceflower|Spiceflower
+; itm_moraq_spiceflower_pl|Spiceflower
+; itm_moraq_persimmon_seeds|Persimmon Seeds
+; itm_moraq_persimmon_seeds_pl|Persimmon Seeds
+itm_mysterious_spices1|Záhadné koření
+itm_mysterious_spices1_pl|Záhadné koření
+itm_mysterious_spices2|Záhadné koření
+itm_mysterious_spices2_pl|Záhadné koření
+itm_mysterious_spices3|Záhadné koření
+itm_mysterious_spices3_pl|Záhadné koření
+itm_mysterious_sword1|Záhadný meč
+itm_mysterious_sword1_pl|Záhadný meč
+itm_mysterious_sword2|Záhadný meč
+itm_mysterious_sword2_pl|Záhadný meč
+itm_mysterious_sword3|Záhadný meč
+itm_mysterious_sword3_pl|Záhadný meč
+; itm_credits_book|Book of Patrons
+; itm_credits_book_pl|Book of Patrons
+; itm_clifford_ring|Ruby Ring
+; itm_clifford_ring_pl|Ruby Ring
+; itm_clifford_letter|Ser Cliffords Letter
+; itm_clifford_letter_pl|Ser Cliffords Letter
+; itm_samol_book|Old Grimoire
+; itm_samol_book_pl|Old Grimoire
+; itm_samol_horn|Old Horn
+; itm_samol_horn_pl|Old Horn
+; itm_varys_npc_5_letter|Illyrios Letter
+; itm_varys_npc_5_letter_pl|Illyrios Letter
+; itm_varys_npc_8_letter|Allards Letter
+; itm_varys_npc_8_letter_pl|Allards Letter
+; itm_harodon_letter|Garibalds Letter
+; itm_harodon_letter_pl|Garibalds Letter
+; itm_illyrios_letter|Illyrios Letter
+; itm_illyrios_letter_pl|Illyrios Letter
+; itm_varys_npc_1_letter|Illyrios Letter
+; itm_varys_npc_1_letter_pl|Illyrios Letter
+; itm_varys_npc_2_letter|Rugens Letter
+; itm_varys_npc_2_letter_pl|Rugens Letter
+; itm_varys_npc_3_chest|Illyrios Chest
+; itm_varys_npc_3_chest_pl|Illyrios Chest
+; itm_barrel_of_pitch|Barrel of Pitch
+; itm_barrel_of_pitch_pl|Barrel of Pitch
+itm_huge_ruby|Velký rubín
+itm_huge_ruby_pl|Velký rubín
+itm_carved_tusk|Vyřezávaný špičák
+itm_carved_tusk_pl|Vyřezávaný špičák
+itm_gold_goblet|Zlatý pohár
+itm_gold_goblet_pl|Zlatý pohár
+itm_gold_nugget|Zlatý nuget
+itm_gold_nugget_pl|Zlatý nuget
+itm_event_rabbit|Zajíc
+itm_event_rabbit_pl|Zajíc
+itm_siege_supply|Zásoby
+itm_siege_supply_pl|Zásoby
+itm_quest_wine|Místní víno
+itm_quest_wine_pl|Místní víno
+itm_quest_ale|Místní pivo
+itm_quest_ale_pl|Místní pivo
+; itm_trial_destrier|Destrier
+; itm_trial_destrier_pl|Destrier
+; itm_stormlands_destrier|Destrier
+; itm_stormlands_destrier_pl|Destrier
+; itm_destrier_1|Destrier
+; itm_destrier_1_pl|Destrier
+; itm_destrier_2|Destrier
+; itm_destrier_2_pl|Destrier
+; itm_destrier_3|Destrier
+; itm_destrier_3_pl|Destrier
+; itm_destrier_4|Destrier
+; itm_destrier_4_pl|Destrier
+; itm_ho_swa_saddle_black|Rounsey
+; itm_ho_swa_saddle_black_pl|Rounsey
+; itm_rounsey_2|Rounsey
+; itm_rounsey_2_pl|Rounsey
+; itm_palfrey_1|Palfrey
+; itm_palfrey_1_pl|Palfrey
+; itm_palfrey_2|Palfrey
+; itm_palfrey_2_pl|Palfrey
+itm_courser_1|Oř
+itm_courser_1_pl|Oř
+itm_courser_2|Oř
+itm_courser_2_pl|Oř
+itm_courser_3|Oř
+itm_courser_3_pl|Oř
+; itm_garron_1|Garron
+; itm_garron_1_pl|Garron
+; itm_garron_2|Garron
+; itm_garron_2_pl|Garron
+itm_horse_light_a|Dothracký oř
+itm_horse_light_a_pl|Dothracký oř
+itm_horse_light_b|Dothracký oř
+; itm_horse_light_b_pl|Dothraki Courser
+itm_horse_light_c|Dothracký oř
+itm_horse_light_c_pl|Dothracký oř
+; itm_andal_destrier|Andal Destrier
+; itm_andal_destrier_pl|Andal Destrier
+; itm_plate_warhorse_1|Plated Warhorse
+; itm_plate_warhorse_1_pl|Plated Warhorse
+; itm_plate_warhorse_2|Plated Warhorse
+; itm_plate_warhorse_2_pl|Plated Warhorse
+; itm_plate_warhorse_3|Plated Warhorse
+; itm_plate_warhorse_3_pl|Plated Warhorse
+; itm_andal_cataphract|Cataphract Warhorse
+; itm_andal_cataphract_pl|Cataphract Warhorse
+; itm_chain_mail_horse|Mailed Destrier
+; itm_chain_mail_horse_pl|Mailed Destrier
+; itm_rhoynar_cataphract|Dothraki Cataphract Warhorse
+; itm_rhoynar_cataphract_pl|Dothraki Cataphract Warhorse
+itm_dornish_sand_steed_1|Dornský písečný oř
+itm_dornish_sand_steed_1_pl|Dornský písečný oř
+itm_dornish_sand_steed_2|Dornský písečný oř
+itm_dornish_sand_steed_2_pl|Dornský písečný oř
+; itm_donkey|Donkey
+; itm_donkey_pl|Donkey
+itm_ho_nor_mule|Mula
+itm_ho_nor_mule_pl|Mula
+itm_ho_sar_camel_bactrian|Velbloud
+itm_ho_sar_camel_bactrian_pl|Velbloud
+itm_we_swa_axe_hatchet|Sekyrka
+itm_we_swa_axe_hatchet_pl|Sekyrka
+; itm_we_swa_axe_voulge|Pole Cleaver
+; itm_we_swa_axe_voulge_pl|Pole Cleaver
+; itm_we_vae_axe_bardiche|Long Poleaxe
+; itm_we_vae_axe_bardiche_pl|Long Poleaxe
+itm_we_vae_blunt_club|Palice
+itm_we_vae_blunt_club_pl|Palice
+itm_we_swa_blunt_club_long|Dlouhá palice s ostny
+itm_we_swa_blunt_club_long_pl|Dlouhá palice s ostny
+itm_we_vae_blunt_maul|Kyj
+itm_we_vae_blunt_maul_pl|Kyj
+itm_we_vae_blunt_sledgehammer|Perlík
+itm_we_vae_blunt_sledgehammer_pl|Perlík
+; itm_we_swa_spear_glaive_small|Small Glaive
+; itm_we_swa_spear_glaive_small_pl|Small Glaive
+; itm_we_swa_spear_glaive|Glaive
+; itm_we_swa_spear_glaive_pl|Glaive
+; itm_we_swa_spear_bill_english|Bill
+; itm_we_swa_spear_bill_english_pl|Bill
+itm_we_vae_spear_scythe|Kosa
+itm_we_vae_spear_scythe_pl|Kosa
+itm_we_vae_spear_scythe_shortened|Krátká vojenská kosa
+itm_we_vae_spear_scythe_shortened_pl|Krátká vojenská kosa
+itm_we_vae_spear_polehammer|Lehké kopí
+itm_we_vae_spear_polehammer_pl|Lehké kopí
+itm_we_khe_spear_staff|Lehké kopí
+itm_we_khe_spear_staff_pl|Lehké kopí
+itm_we_khe_spear_bamboolong|Lehké kopí
+itm_we_khe_spear_bamboolong_pl|Lehké kopí
+itm_we_khe_spear_nagita|Lehké kopí
+itm_we_khe_spear_nagita_pl|Lehké kopí
+itm_we_khe_spear_haftedblade|Lehké kopí
+itm_we_khe_spear_haftedblade_pl|Lehké kopí
+itm_heavy_spear_1|Těžké kopí
+itm_heavy_spear_1_pl|Těžké kopí
+itm_heavy_spear_2|Těžké kopí
+itm_heavy_spear_2_pl|Těžké kopí
+itm_heavy_spear_3|Těžké kopí
+itm_heavy_spear_3_pl|Těžké kopí
+itm_dornish_spear_feathers|Těžké kopí
+itm_dornish_spear_feathers_pl|Těžké kopí
+itm_dornish_heavy_spear|Těžké kopí
+itm_dornish_heavy_spear_pl|Těžké kopí
+itm_we_rho_spear_fork_pitch|Vidle
+itm_we_rho_spear_fork_pitch_pl|Vidle
+itm_we_rho_spear_fork_military|Vojenské vidle
+itm_we_rho_spear_fork_military_pl|Vojenské vidle
+itm_we_rho_spear_fork_battle|Bitevní vidle
+itm_we_rho_spear_fork_battle_pl|Bitevní vidle
+itm_we_sar_spear_staff|Hůl
+itm_we_sar_spear_staff_pl|Hůl
+itm_we_sar_spear_staff_quarter|Krátká hůl
+itm_we_sar_spear_staff_quarter_pl|Krátká hůl
+itm_we_sar_spear_staff_iron|Železná hůl
+itm_we_sar_spear_staff_iron_pl|Železná hůl
+; itm_we_sar_spear_lance|Hooked Glaive
+; itm_we_sar_spear_lance_pl|Hooked Glaive
+itm_we_vae_sword_sickle|Srp
+itm_we_vae_sword_sickle_pl|Srp
+itm_we_vae_sword_cleaver_military|Vojenský sekáček
+itm_we_vae_sword_cleaver_military_pl|Vojenský sekáček
+itm_we_swa_sword_clamshell_claymore|Dlouhý meč
+itm_we_swa_sword_clamshell_claymore_pl|Dlouhý meč
+itm_we_swa_sword_twohanded_claymore|Velký meč
+itm_we_swa_sword_twohanded_claymore_pl|Velký meč
+; itm_gregors_great_sword|Gregors Great Sword
+; itm_gregors_great_sword_pl|Gregors Great Sword
+itm_we_vae_sword_cleaverwar|Válečný sekáček
+itm_we_vae_sword_cleaverwar_pl|Válečný sekáček
+itm_we_khe_sword_sabre|Velký meč
+itm_we_khe_sword_sabre_pl|Velký meč
+itm_we_nor_sword_danish_great|Velký meč
+itm_we_nor_sword_danish_great_pl|Velký meč
+itm_we_rho_sword_great|Velký meč
+itm_we_rho_sword_great_pl|Velký meč
+itm_we_pla_sword_great_four|Halapartna
+itm_we_pla_sword_great_four_pl|Halapartna
+itm_fi_halberd_2|Halapartna
+itm_fi_halberd_2_pl|Halapartna
+itm_fi_halberd_1|Halapartna
+itm_fi_halberd_1_pl|Halapartna
+; itm_normal_arrows|Arrows
+; itm_normal_arrows_pl|Arrows
+; itm_arrow_f_big|Heavy Arrows
+; itm_arrow_f_big_pl|Heavy Arrows
+; itm_arrow_f_piece|Piercing Arrows
+; itm_arrow_f_piece_pl|Piercing Arrows
+; itm_arrow_f_slash|Heavy Arrows
+; itm_arrow_f_slash_pl|Heavy Arrows
+; itm_arrow_f_standard|Wildling Arrows
+; itm_arrow_f_standard_pl|Wildling Arrows
+; itm_arrow_f_dornish|Dornish Arrows
+; itm_arrow_f_dornish_pl|Dornish Arrows
+; itm_arrow_f_dothraki|Dothraki Arrows
+; itm_arrow_f_dothraki_pl|Dothraki Arrows
+; itm_bolt_f_simple|Bolts
+; itm_bolt_f_simple_pl|Bolts
+; itm_bolt_f_heavy|Piercing Bolts
+; itm_bolt_f_heavy_pl|Piercing Bolts
+; itm_bolt_f_slash|Heavy Bolts
+; itm_bolt_f_slash_pl|Heavy Bolts
+; itm_bolt_f_crippling|Crippling Bolts
+; itm_bolt_f_crippling_pl|Crippling Bolts
+; itm_bolt_f_piercing|Piercing Bolts
+; itm_bolt_f_piercing_pl|Piercing Bolts
+; itm_bolt_f_myrish|Myrish Bolts
+; itm_bolt_f_myrish_pl|Myrish Bolts
+; itm_bow_f_hunting_bow|Hunting Bow
+; itm_bow_f_hunting_bow_pl|Hunting Bow
+; itm_bow_f_simple|Short Bow
+; itm_bow_f_simple_pl|Short Bow
+; itm_bow_f_longbow_1|Longbow
+; itm_bow_f_longbow_1_pl|Longbow
+; itm_bow_f_longbow_2|Flatbow
+; itm_bow_f_longbow_2_pl|Flatbow
+; itm_bow_f_dothraki|Recurved Bow
+; itm_bow_f_dothraki_pl|Recurved Bow
+; itm_bow_f_dornish|Recurved Bow
+; itm_bow_f_dornish_pl|Recurved Bow
+; itm_bow_f_decorated_bow|Decorated Longbow
+; itm_bow_f_decorated_bow_pl|Decorated Longbow
+; itm_crossbow_f_simple_1|Hunting Crossbow
+; itm_crossbow_f_simple_1_pl|Hunting Crossbow
+; itm_crossbow_f_simple_2|Light Crossbow
+; itm_crossbow_f_simple_2_pl|Light Crossbow
+; itm_crossbow_f_medium|Crossbow
+; itm_crossbow_f_medium_pl|Crossbow
+; itm_crossbow_f_heavy|Heavy Crossbow
+; itm_crossbow_f_heavy_pl|Heavy Crossbow
+; itm_crossbow_f_myrish|Myrish Crossbow
+; itm_crossbow_f_myrish_pl|Myrish Crossbow
+itm_we_khe_throw_stone|Kamení
+itm_we_khe_throw_stone_pl|Kamení
+itm_we_sar_spear_javelin|Oštěpy
+itm_we_sar_spear_javelin_pl|Oštěpy
+itm_we_sar_spear_javelin_melee|Krátké kopí
+itm_we_sar_spear_javelin_melee_pl|Krátké kopí
+itm_we_sar_spear_throwing_spears|Vrhací oštěpy
+itm_we_sar_spear_throwing_spears_pl|Vrhací oštěpy
+itm_we_sar_spear_throwing_spear_melee|Krátké kopí
+itm_we_sar_spear_throwing_spear_melee_pl|Krátké kopí
+; itm_we_sar_spear_jarid|Jarids
+; itm_we_sar_spear_jarid_pl|Jarids
+itm_we_sar_spear_jarid_melee|Krátké kopí
+; itm_we_sar_spear_jarid_melee_pl|Short Spear
+; itm_ar_vae_t7_elite_b|Heavy Lamellar Plate Armor
+; itm_ar_vae_t7_elite_b_pl|Heavy Lamellar Plate Armor
+; itm_ar_khe_t2_armor_a|Fur Armor
+; itm_ar_khe_t2_armor_a_pl|Fur Armor
+; itm_ar_khe_t6_tunic_a|Heavy Dornish Armor
+; itm_ar_khe_t6_tunic_a_pl|Heavy Dornish Armor
+; itm_ar_nor_t7_vikingbyrnie_a|Decorated Chain Mail Hauberk
+; itm_ar_nor_t7_vikingbyrnie_a_pl|Decorated Chain Mail Hauberk
+; itm_ar_rho_ban_highlander_a|Clansmans Outfit
+; itm_ar_rho_ban_highlander_a_pl|Clansmans Outfit
+; itm_ar_rho_t4_highlander_a|Clansmans Lamellar Armor
+; itm_ar_rho_t4_highlander_a_pl|Clansmans Lamellar Armor
+itm_ar_pla_t6_heraldic_a|Heraldická těžká plátová zbroj
+itm_ar_pla_t6_heraldic_a_pl|Heraldická těžká plátová zbroj
+; itm_ar_swa_shi_linen|Brown Robe
+; itm_ar_swa_shi_linen_pl|Brown Robe
+; itm_ar_swa_tun_tabard|Expensive Tunic
+; itm_ar_swa_tun_tabard_pl|Expensive Tunic
+; itm_brown_robe|Brown Robe
+; itm_brown_robe_pl|Brown Robe
+; itm_ar_pla_pri_pilgrimdisguise|Disguise
+; itm_ar_pla_pri_pilgrimdisguise_pl|Disguise
+; itm_dress_general_bride|Bride Dress
+; itm_dress_general_bride_pl|Bride Dress
+; itm_bo_gen_t0_bride_shoes|Bride Shoes
+; itm_bo_gen_t0_bride_shoes_pl|Bride Shoes
+; itm_bo_swa_t4_sandal|Plated Sandals
+; itm_bo_swa_t4_sandal_pl|Plated Sandals
+; itm_bo_swa_t6_mail|Plated Mail Boots
+; itm_bo_swa_t6_mail_pl|Plated Mail Boots
+; itm_bo_vae_t2_shoes|Shoes
+; itm_bo_vae_t2_shoes_pl|Shoes
+; itm_bo_vae_t3_leather|Leather Boots
+; itm_bo_vae_t3_leather_pl|Leather Boots
+; itm_bo_vae_t4_shoes|Leather Plated Shoes
+; itm_bo_vae_t4_shoes_pl|Leather Plated Shoes
+; itm_bo_khe_t0_sandal|Mail Boots
+; itm_bo_khe_t0_sandal_pl|Mail Boots
+; itm_bo_khe_t2_boots|Leather Boots
+; itm_bo_khe_t2_boots_pl|Leather Boots
+; itm_bo_khe_t4_sandal|Leather Boots
+; itm_bo_khe_t4_sandal_pl|Leather Boots
+; itm_bo_khe_t6_mail|Plated Leather Boots
+; itm_bo_khe_t6_mail_pl|Plated Leather Boots
+; itm_bo_nor_t2_shoes|Leather Boots
+; itm_bo_nor_t2_shoes_pl|Leather Boots
+; itm_bo_rho_t3_highlander|Fur Boots
+; itm_bo_rho_t3_highlander_pl|Fur Boots
+; itm_bo_rho_t4_greaves|Splinted Greaves
+; itm_bo_rho_t4_greaves_pl|Splinted Greaves
+; itm_bo_rho_t5_greaves|Splinted Mail Greaves
+; itm_bo_rho_t5_greaves_pl|Splinted Mail Greaves
+; itm_bo_sar_t4_camel|Woolen Hoses
+; itm_bo_sar_t4_camel_pl|Woolen Hoses
+; itm_bo_sar_t6_mail|Shoes
+; itm_bo_sar_t6_mail_pl|Shoes
+; itm_bo_sar_t7_greaves|Shoes
+; itm_bo_sar_t7_greaves_pl|Shoes
+; itm_bo_pla_str_samurai|Shoes
+; itm_bo_pla_str_samurai_pl|Shoes
+; itm_bo_pla_t1_priest|Leather Boots
+; itm_bo_pla_t1_priest_pl|Leather Boots
+; itm_bo_pla_t2_ankle|Leather Boots
+; itm_bo_pla_t2_ankle_pl|Leather Boots
+; itm_bo_pla_t5_highlander|Mail Boots
+; itm_bo_pla_t5_highlander_pl|Mail Boots
+; itm_bo_pla_t7_greaves|Plate Boots
+; itm_bo_pla_t7_greaves_pl|Plate Boots
+; itm_ga_swa_a4_plate|Plate Mittens
+; itm_ga_swa_a4_plate_pl|Plate Mittens
+; itm_ga_swa_a6_plate|Plate Gauntlets
+; itm_ga_swa_a6_plate_pl|Plate Gauntlets
+; itm_ga_vae_a5_mail|Mail Gauntlets
+; itm_ga_vae_a5_mail_pl|Mail Gauntlets
+; itm_ga_vae_a6_black|Iron Gauntlets
+; itm_ga_vae_a6_black_pl|Iron Gauntlets
+; itm_ga_khe_a5_armor|Lamellar Gloves
+; itm_ga_khe_a5_armor_pl|Lamellar Gloves
+; itm_ga_khe_a6_lamellar|Lamellar Gloves
+; itm_ga_khe_a6_lamellar_pl|Lamellar Gloves
+; itm_ga_rho_a2_leather|Leather Gloves
+; itm_ga_rho_a2_leather_pl|Leather Gloves
+; itm_ga_rho_a5_bnw|Decorated Plate Gauntlets
+; itm_ga_rho_a5_bnw_pl|Decorated Plate Gauntlets
+; itm_ga_rho_a6_hourglass|Iron Gauntlets
+; itm_ga_rho_a6_hourglass_pl|Iron Gauntlets
+; itm_ga_pla_a5_iron|Plate Gauntlets
+; itm_ga_pla_a5_iron_pl|Plate Gauntlets
+; itm_he_gen_lad_bride_crown|Wimple Top
+; itm_he_gen_lad_bride_crown_pl|Wimple Top
+; itm_he_swa_lad_common_a|White Headcloth
+; itm_he_swa_lad_common_a_pl|White Headcloth
+; itm_he_swa_t1_common_a|Common Hood
+; itm_he_swa_t1_common_a_pl|Common Hood
+; itm_he_swa_t1_noble_a|Arming Cap
+; itm_he_swa_t1_noble_a_pl|Arming Cap
+; itm_he_vae_lad_lady_a|Barbette
+; itm_he_vae_lad_lady_a_pl|Barbette
+; itm_he_vae_t1_common_a|Felt Hat
+; itm_he_vae_t1_common_a_pl|Felt Hat
+; itm_he_khe_lad_common_a|Leather Cap
+; itm_he_khe_lad_common_a_pl|Leather Cap
+; itm_he_nor_t1_common_a|Woolen Cap
+; itm_he_nor_t1_common_a_pl|Woolen Cap
+; itm_he_pla_pri_noel|Boar Helmet
+; itm_he_pla_pri_noel_pl|Boar Helmet
+; itm_he_swa_t2_coif_a|Padded Coif
+; itm_he_swa_t2_coif_a_pl|Padded Coif
+; itm_he_swa_t3_helmet_a|Goat Helmet
+; itm_he_swa_t3_helmet_a_pl|Goat Helmet
+; itm_he_swa_t4_bascinet_a|Straw Hat
+; itm_he_swa_t4_bascinet_a_pl|Straw Hat
+; itm_he_vae_t6_warhelmet_a|Felt Hat
+; itm_he_vae_t6_warhelmet_a_pl|Felt Hat
+; itm_he_vae_t7_warmask_a|Great Helmet
+; itm_he_vae_t7_warmask_a_pl|Great Helmet
+; itm_he_vae_t7_warmask_b|Leather Cap
+; itm_he_vae_t7_warmask_b_pl|Leather Cap
+; itm_he_khe_t2_steppe_a|Leather Fur Cap
+; itm_he_khe_t2_steppe_a_pl|Leather Fur Cap
+; itm_he_khe_t3_steppe_a|Leather Helmet
+; itm_he_khe_t3_steppe_a_pl|Leather Helmet
+; itm_he_khe_t4_war_a|Hounskull Helmet
+; itm_he_khe_t4_war_a_pl|Hounskull Helmet
+; itm_he_khe_t5_neck_a|Great Helmet
+; itm_he_khe_t5_neck_a_pl|Great Helmet
+; itm_he_nor_t2_spangen_a|Nasal Helmet
+; itm_he_nor_t2_spangen_a_pl|Nasal Helmet
+; itm_he_nor_t3_valsgarde_a|Nasal Helmet
+; itm_he_nor_t3_valsgarde_a_pl|Nasal Helmet
+; itm_he_nor_t5_valsgarde_a|Nasal Helmet
+; itm_he_nor_t5_valsgarde_a_pl|Nasal Helmet
+; itm_he_rho_t2_beret_a|Leather Cap
+; itm_he_rho_t2_beret_a_pl|Leather Cap
+; itm_he_rho_t5_kettle_a|Nasal Helmet
+; itm_he_rho_t5_kettle_a_pl|Nasal Helmet
+; itm_he_pla_t7_gerulfingen|Armet
+; itm_he_pla_t7_gerulfingen_pl|Armet
+; itm_he_pla_t7_crusader_a|Sallet
+; itm_he_pla_t7_crusader_a_pl|Sallet
+; itm_he_pla_t7_crusader_b|Armet
+; itm_he_pla_t7_crusader_b_pl|Armet
+; itm_sh_swa_rou_bandit_a|Clansmans Shield
+; itm_sh_swa_rou_bandit_a_pl|Clansmans Shield
+; itm_sh_swa_hea_plain|Heater Shield
+; itm_sh_swa_hea_plain_pl|Heater Shield
+; itm_sh_swa_kit_horseman|Kite Shield
+; itm_sh_swa_kit_horseman_pl|Kite Shield
+; itm_sh_swa_hea_horseman|Heater Shield
+; itm_sh_swa_hea_horseman_pl|Heater Shield
+; itm_sh_vae_kit_old|Old Kite Shield
+; itm_sh_vae_kit_old_pl|Old Kite Shield
+; itm_sh_vae_kit_plain|Kite Shield
+; itm_sh_vae_kit_plain_pl|Kite Shield
+; itm_sh_vae_kit_heavy|Kite Shield
+; itm_sh_vae_kit_heavy_pl|Kite Shield
+; itm_sh_khe_rou_old|Old Round Shield
+; itm_sh_khe_rou_old_pl|Old Round Shield
+; itm_sh_khe_rou_plain|Plain Round Shield
+; itm_sh_khe_rou_plain_pl|Plain Round Shield
+; itm_sh_khe_rou_round|Round Shield
+; itm_sh_khe_rou_round_pl|Round Shield
+; itm_sh_khe_rou_heavy|Heavy Round Shield
+; itm_sh_khe_rou_heavy_pl|Heavy Round Shield
+; itm_sh_sar_rou_plain|Plain Round Shield
+; itm_sh_sar_rou_plain_pl|Plain Round Shield
+; itm_sh_sar_rou_round|Round Shield
+; itm_sh_sar_rou_round_pl|Round Shield
+; itm_sh_sar_rou_elite|Heavy Round Shield
+; itm_sh_sar_rou_elite_pl|Heavy Round Shield
+; itm_sh_sar_rou_mamluk|Elite Round Shield
+; itm_sh_sar_rou_mamluk_pl|Elite Round Shield
+; itm_sh_pla_pav_plain|Plain Pavise
+; itm_sh_pla_pav_plain_pl|Plain Pavise
+; itm_sh_pla_pav_heavy|Heavy Pavise
+; itm_sh_pla_pav_heavy_pl|Heavy Pavise
+; itm_sh_nor_rou_small_b|Round Shield
+; itm_sh_nor_rou_small_b_pl|Round Shield
+; itm_sh_nor_rou_medium_b|Round Shield
+; itm_sh_nor_rou_medium_b_pl|Round Shield
+; itm_sh_nor_rou_large_b|Round Shield
+; itm_sh_nor_rou_large_b_pl|Round Shield
+; itm_sh_rho_rou_bandit_a|Clansmans Shield
+; itm_sh_rho_rou_bandit_a_pl|Clansmans Shield
+; itm_heraldic_cuir_bouilli|Heraldic Heavy Leather Armor
+; itm_heraldic_cuir_bouilli_pl|Heraldic Heavy Leather Armor
+itm_cor_herald|Heraldická těžká plátová zbroj
+itm_cor_herald_pl|Heraldická těžká plátová zbroj
+; itm_heraldic_cozur_1|Heraldic Chain Mail Hauberk
+; itm_heraldic_cozur_1_pl|Heraldic Chain Mail Hauberk
+; itm_heraldic_cozur_2|Heraldic Chain Mail Hauberk
+; itm_heraldic_cozur_2_pl|Heraldic Chain Mail Hauberk
+; itm_brigandine_b_heraldic|Heraldic Chain Mail Hauberk
+; itm_brigandine_b_heraldic_pl|Heraldic Chain Mail Hauberk
+; itm_heraldic_tunic_new|Heraldic Chain Mail Hauberk
+; itm_heraldic_tunic_new_pl|Heraldic Chain Mail Hauberk
+; itm_frenchpepperpot2|Top Helmet with Faceplate
+; itm_frenchpepperpot2_pl|Top Helmet with Faceplate
+; itm_frenchpepperpot3|Top Helmet with Faceplate
+; itm_frenchpepperpot3_pl|Top Helmet with Faceplate
+; itm_munitionshelm2|Helmet with Faceplate
+; itm_munitionshelm2_pl|Helmet with Faceplate
+; itm_conichelm|Conical Helmet
+; itm_conichelm_pl|Conical Helmet
+; itm_pepperpothelm1|Top Helmet with Faceplate
+; itm_pepperpothelm1_pl|Top Helmet with Faceplate
+; itm_normanpepperpot|Conical Helmet with Faceplate
+; itm_normanpepperpot_pl|Conical Helmet with Faceplate
+; itm_munitionshelm1|Helmet with Faceplate
+; itm_munitionshelm1_pl|Helmet with Faceplate
+; itm_crownedhelm|Nasal Helmet with Crown
+; itm_crownedhelm_pl|Nasal Helmet with Crown
+; itm_frenchpepperpot|Top Helmet with Faceplate
+; itm_frenchpepperpot_pl|Top Helmet with Faceplate
+; itm_flattophelmet|Top Helmet
+; itm_flattophelmet_pl|Top Helmet
+; itm_chionite_hat_b|Woolen Cap
+; itm_chionite_hat_b_pl|Woolen Cap
+; itm_clansman_cloth_1|Clansmans Tunic
+; itm_clansman_cloth_1_pl|Clansmans Tunic
+; itm_clansman_cloth_2|Clansmans Tunic
+; itm_clansman_cloth_2_pl|Clansmans Tunic
+; itm_clansman_cloth_3|Clansmans Tunic
+; itm_clansman_cloth_3_pl|Clansmans Tunic
+; itm_clansman_lamellar_1|Clansmans Lamellar Armor
+; itm_clansman_lamellar_1_pl|Clansmans Lamellar Armor
+; itm_clansman_lamellar_2|Clansmans Lamellar Armor
+; itm_clansman_lamellar_2_pl|Clansmans Lamellar Armor
+; itm_clansman_fur_armor_1|Clansmans Heavy Fur Armor
+; itm_clansman_fur_armor_1_pl|Clansmans Heavy Fur Armor
+; itm_clansman_fur_armor_2|Clansmans Heavy Fur Armor
+; itm_clansman_fur_armor_2_pl|Clansmans Heavy Fur Armor
+; itm_bigod_spurs|Plate Boots
+; itm_bigod_spurs_pl|Plate Boots
+; itm_brienne_spurs|Plate Boots
+; itm_brienne_spurs_pl|Plate Boots
+; itm_henryv_helm|Aegon Targaryens Crowned Great Helmet
+; itm_henryv_helm_pl|Aegon Targaryens Crowned Great Helmet
+; itm_longshanks_helm|Crowned Great Helmet
+; itm_longshanks_helm_pl|Crowned Great Helmet
+; itm_byz_helmet_a|Nasal Helmet
+; itm_byz_helmet_a_pl|Nasal Helmet
+; itm_archer_a|Peasants Tunic
+; itm_archer_a_pl|Peasants Tunic
+; itm_militia_tunic_a|Peasants Tunic
+; itm_militia_tunic_a_pl|Peasants Tunic
+; itm_peasant_b|Peasants Tunic
+; itm_peasant_b_pl|Peasants Tunic
+; itm_peasant_c|Peasants Tunic
+; itm_peasant_c_pl|Peasants Tunic
+; itm_peasant_man_b|Peasants Tunic
+; itm_peasant_man_b_pl|Peasants Tunic
+; itm_peasant_outfit_a|Peasants Tunic
+; itm_peasant_outfit_a_pl|Peasants Tunic
+; itm_flattop_a|Top Helmet
+; itm_flattop_a_pl|Top Helmet
+; itm_varangian_helmet|Cataphract Helmet
+; itm_varangian_helmet_pl|Cataphract Helmet
+; itm_andalusianskirmisher_armor|Heavy Leather Jerkin
+; itm_andalusianskirmisher_armor_pl|Heavy Leather Jerkin
+; itm_gaelic_mail_shirt_a|Chain Mail Hauberk
+; itm_gaelic_mail_shirt_a_pl|Chain Mail Hauberk
+; itm_galloglass_padded|Chain Mail Hauberk
+; itm_galloglass_padded_pl|Chain Mail Hauberk
+; itm_lit_segmented_helmet|Great Helmet
+; itm_lit_segmented_helmet_pl|Great Helmet
+; itm_liv_tunic_a|Faith Militant Tunic
+; itm_liv_tunic_a_pl|Faith Militant Tunic
+; itm_teu_postulant|Chain Mail Hauberk
+; itm_teu_postulant_pl|Chain Mail Hauberk
+; itm_mackie_dagger|Valyrian Dagger
+; itm_mackie_dagger_pl|Valyrian Dagger
+; itm_mackie_bearded_axe|Two-Handed Axe
+; itm_mackie_bearded_axe_pl|Two-Handed Axe
+; itm_mackie_beefsplitter01|Peasants Beefsplitter
+; itm_mackie_beefsplitter01_pl|Peasants Beefsplitter
+; itm_mackie_beefsplitter02|Peasants Beefsplitter
+; itm_mackie_beefsplitter02_pl|Peasants Beefsplitter
+; itm_mackie_celtic_axe|Two-Handed Axe
+; itm_mackie_celtic_axe_pl|Two-Handed Axe
+; itm_mackie_tomahawk|One-Handed Axe
+; itm_mackie_tomahawk_pl|One-Handed Axe
+; itm_mackie_varangian_axe|One-Handed Axe
+; itm_mackie_varangian_axe_pl|One-Handed Axe
+; itm_mackie_voulge|Voulge
+; itm_mackie_voulge_pl|Voulge
+; itm_mackie_godenak|War Cleaver
+; itm_mackie_godenak_pl|War Cleaver
+; itm_mackie_morning_star_long|Long Hafted Spiked Mace
+; itm_mackie_morning_star_long_pl|Long Hafted Spiked Mace
+; itm_coif|Mail Coif
+; itm_coif_pl|Mail Coif
+; itm_kettlehatfacebyrnie|Kettle Hat
+; itm_kettlehatfacebyrnie_pl|Kettle Hat
+; itm_kettlehat2|Kettle Hat
+; itm_kettlehat2_pl|Kettle Hat
+; itm_col1_kettlehat1|Bascinet
+; itm_col1_kettlehat1_pl|Bascinet
+; itm_col1_kettlehat2|Bascinet
+; itm_col1_kettlehat2_pl|Bascinet
+; itm_byzantion|Pointy Kettle Hat
+; itm_byzantion_pl|Pointy Kettle Hat
+; itm_col1_byzantion|Pointy Kettle Hat
+; itm_col1_byzantion_pl|Pointy Kettle Hat
+; itm_aketon|Aketon
+; itm_aketon_pl|Aketon
+; itm_nomad_cap_b_new|Leather Cap
+; itm_nomad_cap_b_new_pl|Leather Cap
+; itm_black_khergit_armor_new|Fur Armor
+; itm_black_khergit_armor_new_pl|Fur Armor
+; itm_black_nomad_armor_new|Fur Armor
+; itm_black_nomad_armor_new_pl|Fur Armor
+; itm_brass_shield2|Round Bronze Shield
+; itm_brass_shield2_pl|Round Bronze Shield
+; itm_dec_steel_shield|Round Silver Shield
+; itm_dec_steel_shield_pl|Round Silver Shield
+itm_brass_mamluk_armor|Těžká plátová zbroj
+itm_brass_mamluk_armor_pl|Těžká plátová zbroj
+; itm_mercenary_lamellar|Expensive Lamellar Armor
+; itm_mercenary_lamellar_pl|Expensive Lamellar Armor
+itm_mercenary_surcoat|Kabátec přes kroužkové brnění
+itm_mercenary_surcoat_pl|Kabátec přes kroužkové brnění
+; itm_mercenary_hauberk|Chain Mail Hauberk
+; itm_mercenary_hauberk_pl|Chain Mail Hauberk
+itm_surcoat_braavosi|Kabátec přes kroužkové brnění
+itm_surcoat_braavosi_pl|Kabátec přes kroužkové brnění
+itm_surcoat_lorathi|Kabátec přes kroužkové brnění
+itm_surcoat_lorathi_pl|Kabátec přes kroužkové brnění
+itm_surcoat_tyrosh|Kabátec přes kroužkové brnění
+itm_surcoat_tyrosh_pl|Kabátec přes kroužkové brnění
+itm_surcoat_lys|Kabátec přes kroužkové brnění
+itm_surcoat_lys_pl|Kabátec přes kroužkové brnění
+; itm_militia_tunic_a2|Peasants Tunic with Cloak
+; itm_militia_tunic_a2_pl|Peasants Tunic with Cloak
+; itm_peasant_b2|Peasants Tunic with Cloak
+; itm_peasant_b2_pl|Peasants Tunic with Cloak
+; itm_peasant_c2|Peasants Tunic with Cloak
+; itm_peasant_c2_pl|Peasants Tunic with Cloak
+; itm_peasant_outfit_a2|Peasants Tunic with Cloak
+; itm_peasant_outfit_a2_pl|Peasants Tunic with Cloak
+; itm_norman_short_hauberk|Chain Mail Hauberk
+; itm_norman_short_hauberk_pl|Chain Mail Hauberk
+; itm_rough_padded_leather|Padded Tunic
+; itm_rough_padded_leather_pl|Padded Tunic
+itm_surcoat_over_mail_swadian_f|Kožený kabátec přes kroužkové brnění
+itm_surcoat_over_mail_swadian_f_pl|Kožený kabátec přes kroužkové brnění
+; itm_rathos_fluted_helmet|Fluted Helmet
+; itm_rathos_fluted_helmet_pl|Fluted Helmet
+; itm_inv_nikolskoe_helm|Cataphract Helmet
+; itm_inv_nikolskoe_helm_pl|Cataphract Helmet
+; itm_kolchuga|Chain Mail Hauberk
+; itm_kolchuga_pl|Chain Mail Hauberk
+; itm_rus_cap|Coif
+; itm_rus_cap_pl|Coif
+; itm_rus_fur_hat|Braavosi Fur Hat
+; itm_rus_fur_hat_pl|Braavosi Fur Hat
+; itm_langsax|Long Knife
+; itm_langsax_pl|Long Knife
+; itm_saxon_cap|Coif
+; itm_saxon_cap_pl|Coif
+; itm_saxon_tunic_a|Peasants Tunic
+; itm_saxon_tunic_a_pl|Peasants Tunic
+; itm_crossbearer_cap|Septons Coif
+; itm_crossbearer_cap_pl|Septons Coif
+; itm_crossbearer|Septons Robe
+; itm_crossbearer_pl|Septons Robe
+; itm_red_priest|Red Priests Robe
+; itm_red_priest_pl|Red Priests Robe
+; itm_sonyer_saracen_2|Bascinet
+; itm_sonyer_saracen_2_pl|Bascinet
+; itm_leather_vest_brn|Leather Vest
+; itm_leather_vest_brn_pl|Leather Vest
+; itm_gambeson_trans|Gambeson
+; itm_gambeson_trans_pl|Gambeson
+; itm_onion_top_bascinet|Hounskull Helmet
+; itm_onion_top_bascinet_pl|Hounskull Helmet
+; itm_battered_plainhelm|Old Nasal Helmet
+; itm_battered_plainhelm_pl|Old Nasal Helmet
+; itm_wight_berserker_1|Wights Body
+; itm_wight_berserker_1_pl|Wights Body
+; itm_wight_berserker_2|Wights Body
+; itm_wight_berserker_2_pl|Wights Body
+; itm_wight_berserker_3|Wights Body
+; itm_wight_berserker_3_pl|Wights Body
+; itm_wight_fur_armor_1|Leather Armor
+; itm_wight_fur_armor_1_pl|Leather Armor
+; itm_wight_fur_armor_2|Heavy Fur Armor
+; itm_wight_fur_armor_2_pl|Heavy Fur Armor
+; itm_wight_face_1_1|Wight Head
+; itm_wight_face_1_1_pl|Wight Head
+; itm_wight_face_1_2|Wight Head
+; itm_wight_face_1_2_pl|Wight Head
+; itm_wight_face_1_3|Wight Head
+; itm_wight_face_1_3_pl|Wight Head
+; itm_wight_face_2_1|Wight Head
+; itm_wight_face_2_1_pl|Wight Head
+; itm_wight_face_2_2|Wight Head
+; itm_wight_face_2_2_pl|Wight Head
+; itm_wight_face_2_3|Wight Head
+; itm_wight_face_2_3_pl|Wight Head
+; itm_wight_face_helmet_1|Wight Helmet
+; itm_wight_face_helmet_1_pl|Wight Helmet
+; itm_wight_face_helmet_2|Wight Hat
+; itm_wight_face_helmet_2_pl|Wight Hat
+; itm_wight_face_helmet_3|Wight Hat
+; itm_wight_face_helmet_3_pl|Wight Hat
+; itm_wight_face_helmet_4|Wight Hat
+; itm_wight_face_helmet_4_pl|Wight Hat
+; itm_mace_knobbed|War Mace
+; itm_mace_knobbed_pl|War Mace
+; itm_mace_spiral|War Mace
+; itm_mace_spiral_pl|War Mace
+; itm_mackie_morning_star|Spiked Mace
+; itm_mackie_morning_star_pl|Spiked Mace
+; itm_kataphraktoi_2|Leather Jerkin
+; itm_kataphraktoi_2_pl|Leather Jerkin
+; itm_kataphraktoi_3|Heavy Lamellar Armor
+; itm_kataphraktoi_3_pl|Heavy Lamellar Armor
+; itm_kataphraktoi_4|Coat of Plates
+; itm_kataphraktoi_4_pl|Coat of Plates
+; itm_kataphraktoi_5|Coat of Plates
+; itm_kataphraktoi_5_pl|Coat of Plates
+; itm_shortsword1|Short Sword
+; itm_shortsword1_pl|Short Sword
+; itm_rus_mail_cozur|Chain Mail Hauberk
+; itm_rus_mail_cozur_pl|Chain Mail Hauberk
+; itm_sh_rho_pav_deploy_a|Heavy Lamellar Armor
+; itm_sh_rho_pav_deploy_a_pl|Heavy Lamellar Armor
+itm_sh_rho_pav_deploy_b|Těžká plátová zbroj
+itm_sh_rho_pav_deploy_b_pl|Těžká plátová zbroj
+; itm_sh_rho_pav_deploy_e|Plate Boots
+; itm_sh_rho_pav_deploy_e_pl|Plate Boots
+; itm_sh_rho_pav_deploy_f|Plate Boots
+; itm_sh_rho_pav_deploy_f_pl|Plate Boots
+; itm_fi_tourney_helmet_2|Decorated Tournament Helmet
+; itm_fi_tourney_helmet_2_pl|Decorated Tournament Helmet
+; itm_fi_hood_1|Cloth Hood
+; itm_fi_hood_1_pl|Cloth Hood
+; itm_fi_hood_4|Leather Hood
+; itm_fi_hood_4_pl|Leather Hood
+; itm_fi_sallet_1|Visored Sallet
+; itm_fi_sallet_1_pl|Visored Sallet
+; itm_fi_sallet_2|Visored Sallet
+; itm_fi_sallet_2_pl|Visored Sallet
+; itm_fi_sallet_3|Open Sallet
+; itm_fi_sallet_3_pl|Open Sallet
+; itm_fi_great_bascinet|Great Bascinet
+; itm_fi_great_bascinet_pl|Great Bascinet
+; itm_fi_pigface|Pigface Klapvisor
+; itm_fi_pigface_pl|Pigface Klapvisor
+; itm_fi_cataphract_helmet_2|Cataphract Helmet
+; itm_fi_cataphract_helmet_2_pl|Cataphract Helmet
+; itm_cool_dagger|Dagger
+; itm_cool_dagger_pl|Dagger
+itm_cool_dagger_2|Dýka
+itm_cool_dagger_2_pl|Dýka
+itm_cool_dagger_3|Dýka
+itm_cool_dagger_3_pl|Dýka
+; itm_cool_dagger_4|Dagger
+; itm_cool_dagger_4_pl|Dagger
+; itm_ilyns_leather_armor|Ilyns Leather Armor
+; itm_ilyns_leather_armor_pl|Ilyns Leather Armor
+; itm_kingsguard_armor|Kingsguard Armor
+; itm_kingsguard_armor_pl|Kingsguard Armor
+; itm_stormlands_sellsword_armor_1|Chain Mail Hauberk
+; itm_stormlands_sellsword_armor_1_pl|Chain Mail Hauberk
+; itm_dragonstone_sellsword_armor_2|Chain Mail Hauberk
+; itm_dragonstone_sellsword_armor_2_pl|Chain Mail Hauberk
+; itm_sellsword_armor_4|Chain Mail Hauberk
+; itm_sellsword_armor_4_pl|Chain Mail Hauberk
+; itm_fi_chain_mail_hauberk|Chain Mail Hauberk
+; itm_fi_chain_mail_hauberk_pl|Chain Mail Hauberk
+; itm_shagwells_armor|Chain Mail Hauberk
+; itm_shagwells_armor_pl|Chain Mail Hauberk
+itm_sellsword_armor_3|Těžká plátová zbroj
+itm_sellsword_armor_3_pl|Těžká plátová zbroj
+itm_vale_sellsword_armor_5|Těžká plátová zbroj
+itm_vale_sellsword_armor_5_pl|Těžká plátová zbroj
+itm_sellsword_plate_armor_3|Těžká plátová zbroj
+itm_sellsword_plate_armor_3_pl|Těžká plátová zbroj
+itm_full_plate_armor_1|Těžká plátová zbroj
+itm_full_plate_armor_1_pl|Těžká plátová zbroj
+itm_full_plate_armor_2|Těžká plátová zbroj
+itm_full_plate_armor_2_pl|Těžká plátová zbroj
+itm_full_plate_armor_3|Těžká plátová zbroj
+itm_full_plate_armor_3_pl|Těžká plátová zbroj
+itm_fi_chain_mail_jerkin|Těžká plátová zbroj
+itm_fi_chain_mail_jerkin_pl|Těžká plátová zbroj
+itm_fi_massive_plate_armor|Těžká plátová zbroj
+itm_fi_massive_plate_armor_pl|Těžká plátová zbroj
+itm_fi_arryn_plate_armor_1|Těžká plátová zbroj
+itm_fi_arryn_plate_armor_1_pl|Těžká plátová zbroj
+itm_fi_dorne_plate_armor_1|Těžká plátová zbroj
+itm_fi_dorne_plate_armor_1_pl|Těžká plátová zbroj
+itm_fi_dorne_plate_armor_2|Těžká plátová zbroj
+itm_fi_dorne_plate_armor_2_pl|Těžká plátová zbroj
+itm_fi_reach_plate_armor_1|Těžká plátová zbroj
+itm_fi_reach_plate_armor_1_pl|Těžká plátová zbroj
+itm_fi_reach_plate_armor_2|Těžká plátová zbroj
+itm_fi_reach_plate_armor_2_pl|Těžká plátová zbroj
+itm_fi_reach_plate_armor_3|Těžká plátová zbroj
+itm_fi_reach_plate_armor_3_pl|Těžká plátová zbroj
+itm_fi_westerlands_plate_armor_1|Těžká plátová zbroj
+itm_fi_westerlands_plate_armor_1_pl|Těžká plátová zbroj
+; itm_fi_stripped_leather_jerkin|Leather Jerkin
+; itm_fi_stripped_leather_jerkin_pl|Leather Jerkin
+; itm_fi_leather_jerkin_2|Leather Jerkin
+; itm_fi_leather_jerkin_2_pl|Leather Jerkin
+; itm_fi_leather_jerkin|Heavy Leather Jerkin
+; itm_fi_leather_jerkin_pl|Heavy Leather Jerkin
+; itm_fi_green_leather_armor|Kingswood Leather Jerkin
+; itm_fi_green_leather_armor_pl|Kingswood Leather Jerkin
+; itm_stormland_light|Gambeson
+; itm_stormland_light_pl|Gambeson
+; itm_sellsword_light|Leather Jerkin
+; itm_sellsword_light_pl|Leather Jerkin
+; itm_westerland_goldcloak|Gold Cloaks Chain Mail Hauberk
+; itm_westerland_goldcloak_pl|Gold Cloaks Chain Mail Hauberk
+; itm_westerland_goldcloak_cloaked|Gold Cloaks Chain Mail Hauberk
+; itm_westerland_goldcloak_cloaked_pl|Gold Cloaks Chain Mail Hauberk
+; itm_westerland_hound|Chain Mail Hauberk
+; itm_westerland_hound_pl|Chain Mail Hauberk
+; itm_nightswatch_a|Leather Jerkin
+; itm_nightswatch_a_pl|Leather Jerkin
+; itm_nightswatch_b|Leather Jerkin
+; itm_nightswatch_b_pl|Leather Jerkin
+; itm_nightswatch_c|Reinforced Leather Jerkin
+; itm_nightswatch_c_pl|Reinforced Leather Jerkin
+; itm_nightswatch_d|Lamellar Armor
+; itm_nightswatch_d_pl|Lamellar Armor
+; itm_north_archer|Leather Gambeson
+; itm_north_archer_pl|Leather Gambeson
+; itm_north_hunter|Leather Jerkin
+; itm_north_hunter_pl|Leather Jerkin
+; itm_north_heavycav|Heavy Leather Armor
+; itm_north_heavycav_pl|Heavy Leather Armor
+; itm_riverlands_light|Leather Scale Jerkin
+; itm_riverlands_light_pl|Leather Scale Jerkin
+; itm_riverlands_freyheavy|Leather Jerkin
+; itm_riverlands_freyheavy_pl|Leather Jerkin
+; itm_riverlands_freylight|Leather Jerkin
+; itm_riverlands_freylight_pl|Leather Jerkin
+; itm_riverlands_freylight_shoulders|Leather Jerkin
+; itm_riverlands_freylight_shoulders_pl|Leather Jerkin
+; itm_vale_heavy|Light Plate Armor
+; itm_vale_heavy_pl|Light Plate Armor
+; itm_vale_heavy_neck|Light Plate Armor
+; itm_vale_heavy_neck_pl|Light Plate Armor
+; itm_sellsword_jerkin|Leather Jerkin
+; itm_sellsword_jerkin_pl|Leather Jerkin
+; itm_sellsword_jerkin_neck|Leather Jerkin
+; itm_sellsword_jerkin_neck_pl|Leather Jerkin
+; itm_north_bolton_standard|Chain Mail Hauberk
+; itm_north_bolton_standard_pl|Chain Mail Hauberk
+; itm_north_bolton_heavy|Plated Chain Mail Hauberk
+; itm_north_bolton_heavy_pl|Plated Chain Mail Hauberk
+; itm_north_bolton_standard_cloaked|Chain Mail Hauberk
+; itm_north_bolton_standard_cloaked_pl|Chain Mail Hauberk
+; itm_north_bolton_lord|Boltons Plated Chain Mail Hauberk
+; itm_north_bolton_lord_pl|Boltons Plated Chain Mail Hauberk
+; itm_north_bolton_lord_cloaked|Boltons Chain Mail Hauberk
+; itm_north_bolton_lord_cloaked_pl|Boltons Chain Mail Hauberk
+; itm_north_karstark_01|Chain Mail Hauberk
+; itm_north_karstark_01_pl|Chain Mail Hauberk
+; itm_north_karstark_01_heavy|Plated Chain Mail Hauberk
+; itm_north_karstark_01_heavy_pl|Plated Chain Mail Hauberk
+; itm_north_karstark_01_cloaked|Chain Mail Hauberk
+; itm_north_karstark_01_cloaked_pl|Chain Mail Hauberk
+; itm_north_karstark_02|Chain Mail Hauberk
+; itm_north_karstark_02_pl|Chain Mail Hauberk
+; itm_north_light_01|Leather Jerkin
+; itm_north_light_01_pl|Leather Jerkin
+; itm_north_light_01_cloaked|Leather Jerkin
+; itm_north_light_01_cloaked_pl|Leather Jerkin
+; itm_north_light_02|Chain Mail Hauberk
+; itm_north_light_02_pl|Chain Mail Hauberk
+; itm_north_stark_captain_heavy|Plated Chain Mail Hauberk
+; itm_north_stark_captain_heavy_pl|Plated Chain Mail Hauberk
+; itm_north_stark_captain|Chain Mail Hauberk
+; itm_north_stark_captain_pl|Chain Mail Hauberk
+; itm_north_stark_captain_cloaked|Chain Mail Hauberk
+; itm_north_stark_captain_cloaked_pl|Chain Mail Hauberk
+; itm_north_stark_knight|Heavy Leather Jerkin
+; itm_north_stark_knight_pl|Heavy Leather Jerkin
+itm_north_stark_heavy_knight|Těžká plátová kožená vesta
+itm_north_stark_heavy_knight_pl|Těžká plátová kožená vesta
+itm_north_stark_lord|Těžká plátová kožená vesta
+itm_north_stark_lord_pl|Těžká plátová kožená vesta
+; itm_north_stark_standard|Heavy Leather Jerkin
+; itm_north_stark_standard_pl|Heavy Leather Jerkin
+; itm_north_stark_guardsman|Heavy Leather Jerkin
+; itm_north_stark_guardsman_pl|Heavy Leather Jerkin
+; itm_north_umbar|Umbers Heavy Leather Jerkin
+; itm_north_umbar_pl|Umbers Heavy Leather Jerkin
+; itm_north_umbar_cloaked|Umbers Heavy Leather Jerkin
+; itm_north_umbar_cloaked_pl|Umbers Heavy Leather Jerkin
+itm_reach_loras|Těžká plátová zbroj
+itm_reach_loras_pl|Těžká plátová zbroj
+itm_reach_loras2|Těžká plátová zbroj
+itm_reach_loras2_pl|Těžká plátová zbroj
+; itm_riverlands_blackfish|Chain Mail Hauberk
+; itm_riverlands_blackfish_pl|Chain Mail Hauberk
+; itm_riverlands_edmure|Edmures Chain Mail Hauberk
+; itm_riverlands_edmure_pl|Edmures Chain Mail Hauberk
+; itm_riverlands_frey_01|Leather Jerkin
+; itm_riverlands_frey_01_pl|Leather Jerkin
+; itm_riverlands_frey_01_neck|Heavy Leather Jerkin
+; itm_riverlands_frey_01_neck_pl|Heavy Leather Jerkin
+; itm_riverlands_frey_02|Leather Jerkin
+; itm_riverlands_frey_02_pl|Leather Jerkin
+; itm_riverlands_frey_02_neck|Heavy Leather Jerkin
+; itm_riverlands_frey_02_neck_pl|Heavy Leather Jerkin
+; itm_riverlands_heavy_no_shoulders|Chain Mail Hauberk
+; itm_riverlands_heavy_no_shoulders_pl|Chain Mail Hauberk
+; itm_riverlands_heavy|Chain Mail Hauberk
+; itm_riverlands_heavy_pl|Chain Mail Hauberk
+; itm_riverlands_heavy_neck|Heavy Chain Mail Hauberk
+; itm_riverlands_heavy_neck_pl|Heavy Chain Mail Hauberk
+; itm_riverlands_standard_01|Heavy Leather Jerkin
+; itm_riverlands_standard_01_pl|Heavy Leather Jerkin
+itm_stormlands_brienne|Těžká plátová zbroj
+itm_stormlands_brienne_pl|Těžká plátová zbroj
+itm_stormlands_brienne2|Těžká plátová zbroj
+itm_stormlands_brienne2_pl|Těžká plátová zbroj
+; itm_stormlands_renly|Renlys Reinforced Gambeson
+; itm_stormlands_renly_pl|Renlys Reinforced Gambeson
+; itm_westerlands_heavy|Light Plate Armor
+; itm_westerlands_heavy_pl|Light Plate Armor
+; itm_westerlands_heavy_lord|Tywins Heavy Plate Armor
+; itm_westerlands_heavy_lord_pl|Tywins Heavy Plate Armor
+itm_westerlands_heavy_standard|Lehká plátová zbroj
+itm_westerlands_heavy_standard_pl|Lehká plátová zbroj
+itm_westerlands_hound|Lehká plátová zbroj
+itm_westerlands_hound_pl|Lehká plátová zbroj
+itm_westerlands_king|Těžká plátová zbroj
+itm_westerlands_king_pl|Těžká plátová zbroj
+; itm_westerlands_lord_1|Light Plate Armor
+; itm_westerlands_lord_1_pl|Light Plate Armor
+; itm_westerlands_lord_2|Light Plate Armor
+; itm_westerlands_lord_2_pl|Light Plate Armor
+; itm_westerlands_light_01|Leather Jerkin
+; itm_westerlands_light_01_pl|Leather Jerkin
+; itm_westerlands_light_02|Leather Jerkin
+; itm_westerlands_light_02_pl|Leather Jerkin
+itm_westerlands_polliver_01|Těžká plátová kožená vesta
+itm_westerlands_polliver_01_pl|Těžká plátová kožená vesta
+; itm_westerlands_polliver_02|Heavy Leather Jerkin
+; itm_westerlands_polliver_02_pl|Heavy Leather Jerkin
+; itm_dragonstone_stannis|Chain Mail Hauberk
+; itm_dragonstone_stannis_pl|Chain Mail Hauberk
+; itm_westerland_helm|Lannister Helmet
+; itm_westerland_helm_pl|Lannister Helmet
+; itm_goldcloak_helm|Gold Cloak Helmet
+; itm_goldcloak_helm_pl|Gold Cloak Helmet
+; itm_kingsguard_helm|Kingsguard Helmet
+; itm_kingsguard_helm_pl|Kingsguard Helmet
+itm_armor_baratheon|Těžká plátová zbroj
+itm_armor_baratheon_pl|Těžká plátová zbroj
+; itm_bnw_armour_slashed|Light Plate Armor
+; itm_bnw_armour_slashed_pl|Light Plate Armor
+; itm_bnw_armour_slashed_full|Light Plate Armor
+; itm_bnw_armour_slashed_full_pl|Light Plate Armor
+; itm_bnw_armour_stripes|Light Plate Armor
+; itm_bnw_armour_stripes_pl|Light Plate Armor
+; itm_bnw_armour_stripes_full|Light Plate Armor
+; itm_bnw_armour_stripes_full_pl|Light Plate Armor
+; itm_pollivers_armor|Pollivers Armor
+; itm_pollivers_armor_pl|Pollivers Armor
+; itm_chiswycks_armor|Chiswycks Armor
+; itm_chiswycks_armor_pl|Chiswycks Armor
+; itm_dunsens_armor|Dunsens Armor
+; itm_dunsens_armor_pl|Dunsens Armor
+; itm_raffords_armor|Raffords Armor
+; itm_raffords_armor_pl|Raffords Armor
+; itm_ticklers_armor|Ticklers Armor
+; itm_ticklers_armor_pl|Ticklers Armor
+; itm_coldbringer|Coldbringer
+; itm_coldbringer_pl|Coldbringer
+; itm_fi_lowlander_sword|Great Sword
+; itm_fi_lowlander_sword_pl|Great Sword
+; itm_ssh_huscarl_armour|Victarions Heavy Plate Armor
+; itm_ssh_huscarl_armour_pl|Victarions Heavy Plate Armor
+; itm_kraken_mask|Kraken Helmet
+; itm_kraken_mask_pl|Kraken Helmet
+; itm_xenoargh_round_shield01|Round Wooden Shield
+; itm_xenoargh_round_shield01_pl|Round Wooden Shield
+itm_west_man_at_arms_armor|Těžká plátová zbroj
+itm_west_man_at_arms_armor_pl|Těžká plátová zbroj
+; itm_goplon1|Round Bronze Shield
+; itm_goplon1_pl|Round Bronze Shield
+; itm_mackie_strange_sword|Curved Great Sword
+; itm_mackie_strange_sword_pl|Curved Great Sword
+; itm_arakh|Arakh
+; itm_arakh_pl|Arakh
+; itm_short_arakh|Arakh
+; itm_short_arakh_pl|Arakh
+; itm_tyrions_armor|Tyrions Armor
+; itm_tyrions_armor_pl|Tyrions Armor
+; itm_joffreys_armor|Joffreys Armor
+; itm_joffreys_armor_pl|Joffreys Armor
+; itm_witcher_heater_7|Heater Shield
+; itm_witcher_heater_7_pl|Heater Shield
+; itm_nw_heater_shield|Heater Shield
+; itm_nw_heater_shield_pl|Heater Shield
+; itm_witcher_worn_shield|Round Wooden Shield
+; itm_witcher_worn_shield_pl|Round Wooden Shield
+; itm_xenoargh_shield_kite01_06|Kite Shield
+; itm_xenoargh_shield_kite01_06_pl|Kite Shield
+; itm_xenoargh_tableau_shield_heater_1|Heater Shield
+; itm_xenoargh_tableau_shield_heater_1_pl|Heater Shield
+; itm_golden_company_shield|Kite Shield
+; itm_golden_company_shield_pl|Kite Shield
+; itm_xenoargh_shield_pavise_1|Pavise
+; itm_xenoargh_shield_pavise_1_pl|Pavise
+; itm_xenoargh_shield_pavise_2|Pavise
+; itm_xenoargh_shield_pavise_2_pl|Pavise
+; itm_xenoargh_round_shield02|Round Wooden Shield
+; itm_xenoargh_round_shield02_pl|Round Wooden Shield
+; itm_xenoargh_round_shield03_06|Round Leather Shield
+; itm_xenoargh_round_shield03_06_pl|Round Leather Shield
+; itm_stark_shield|Round Steel Shield
+; itm_stark_shield_pl|Round Steel Shield
+; itm_alen_cargylls_hauberk|Alen Cargylls Surcoat
+; itm_alen_cargylls_hauberk_pl|Alen Cargylls Surcoat
+; itm_wide_toga_1|Toga
+; itm_wide_toga_1_pl|Toga
+; itm_reznak_robe_1|Ghiscari Dress
+; itm_reznak_robe_1_pl|Ghiscari Dress
+; itm_grazdan_robe_1|Ghiscari Dress
+; itm_grazdan_robe_1_pl|Ghiscari Dress
+; itm_hizdahr_robe_1|Ghiscari Dress
+; itm_hizdahr_robe_1_pl|Ghiscari Dress
+; itm_galazza_robe_1|Ghiscari Dress
+; itm_galazza_robe_1_pl|Ghiscari Dress
+; itm_yunkai_robe_1|Ghiscari Dress
+; itm_yunkai_robe_1_pl|Ghiscari Dress
+; itm_yunkai_robe_2|Ghiscari Dress
+; itm_yunkai_robe_2_pl|Ghiscari Dress
+; itm_kuauik_vale_style_1|Ghiscari Tunic
+; itm_kuauik_vale_style_1_pl|Ghiscari Tunic
+; itm_kuauik_mace_style_1|Ghiscari Tunic
+; itm_kuauik_mace_style_1_pl|Ghiscari Tunic
+; itm_kuauik_mace_style_2|Ghiscari Tunic
+; itm_kuauik_mace_style_2_pl|Ghiscari Tunic
+; itm_kuauik_mace_style_3|Ghiscari Tunic
+; itm_kuauik_mace_style_3_pl|Ghiscari Tunic
+; itm_kingsguard_armor_quest|Kingsguard Heavy Armor
+; itm_kingsguard_armor_quest_pl|Kingsguard Heavy Armor
+; itm_kingsguard_helm_quest|Kingsguard Helmet
+; itm_kingsguard_helm_quest_pl|Kingsguard Helmet
+; itm_nord_dress_common_b|Peasants Dress
+; itm_nord_dress_common_b_pl|Peasants Dress
+; itm_rhodok_dress_common_b|Peasants Dress
+; itm_rhodok_dress_common_b_pl|Peasants Dress
+; itm_sarranid_dress_common_a|Peasants Dress
+; itm_sarranid_dress_common_a_pl|Peasants Dress
+; itm_sarranid_dress_common_b|Peasants Dress
+; itm_sarranid_dress_common_b_pl|Peasants Dress
+; itm_aemonds_helmet|Aemond Targaryens Hounskull Helmet
+; itm_aemonds_helmet_pl|Aemond Targaryens Hounskull Helmet
+; itm_aemonds_boots|Aemond Targaryens Plate Boots
+; itm_aemonds_boots_pl|Aemond Targaryens Plate Boots
+; itm_aemonds_armor|Aemond Targaryens Heavy Plate Armor
+; itm_aemonds_armor_pl|Aemond Targaryens Heavy Plate Armor
+; itm_fi_estoc|Braavosi Long Sword
+; itm_fi_estoc_pl|Braavosi Long Sword
+; itm_hoggox|One-Handed Axe
+; itm_hoggox_pl|One-Handed Axe
+; itm_slim_axe|One-Handed Axe
+; itm_slim_axe_pl|One-Handed Axe
+; itm_heavy_cutting_axe|One-Handed Axe
+; itm_heavy_cutting_axe_pl|One-Handed Axe
+; itm_axe_e|One-Handed Axe
+; itm_axe_e_pl|One-Handed Axe
+; itm_axe_f|One-Handed Axe
+; itm_axe_f_pl|One-Handed Axe
+; itm_winters_frying_pan|Frying Pan
+; itm_winters_frying_pan_pl|Frying Pan
+; itm_bearded_axe|One-Handed Axe
+; itm_bearded_axe_pl|One-Handed Axe
+; itm_long_danox|Two-Handed Axe
+; itm_long_danox_pl|Two-Handed Axe
+; itm_fi_broad_axe|Two-Handed Axe
+; itm_fi_broad_axe_pl|Two-Handed Axe
+; itm_fi_claymore|Great Sword
+; itm_fi_claymore_pl|Great Sword
+; itm_sar_helmet1|Top Helmet
+; itm_sar_helmet1_pl|Top Helmet
+; itm_sar_helmet2|Top Helmet
+; itm_sar_helmet2_pl|Top Helmet
+; itm_tuareg_helmet|Top Helmet
+; itm_tuareg_helmet_pl|Top Helmet
+; itm_tuareg|Headcloth
+; itm_tuareg_pl|Headcloth
+; itm_tuareg_open|Headcloth
+; itm_tuareg_open_pl|Headcloth
+; itm_dunland_antleraxe|One-Handed Antler Axe
+; itm_dunland_antleraxe_pl|One-Handed Antler Axe
+; itm_dunland_spear|Bone Spear
+; itm_dunland_spear_pl|Bone Spear
+; itm_dunland_pike|Sharpened Stake
+; itm_dunland_pike_pl|Sharpened Stake
+; itm_wildling_heavy_armor_1|Heavy Fur Armor
+; itm_wildling_heavy_armor_1_pl|Heavy Fur Armor
+; itm_wildling_heavy_armor_2|Heavy Fur Armor
+; itm_wildling_heavy_armor_2_pl|Heavy Fur Armor
+; itm_wildling_heavy_armor_3|Heavy Fur Armor
+; itm_wildling_heavy_armor_3_pl|Heavy Fur Armor
+; itm_wildling_leather_vest_1|Leather Vest
+; itm_wildling_leather_vest_1_pl|Leather Vest
+; itm_wildling_leather_vest_2|Leather Vest
+; itm_wildling_leather_vest_2_pl|Leather Vest
+; itm_wildling_noble_cloth|Wildling Chiefs Tunic
+; itm_wildling_noble_cloth_pl|Wildling Chiefs Tunic
+; itm_bw_wildling_cloth_tunic_1|Tunic
+; itm_bw_wildling_cloth_tunic_1_pl|Tunic
+; itm_bw_wildling_cloth_tunic_2|Tunic
+; itm_bw_wildling_cloth_tunic_2_pl|Tunic
+; itm_bw_wildling_cloth_tunic_3|Tunic
+; itm_bw_wildling_cloth_tunic_3_pl|Tunic
+; itm_bw_wildling_leather_tunic_1|Leather Tunic
+; itm_bw_wildling_leather_tunic_1_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_2|Leather Tunic
+; itm_bw_wildling_leather_tunic_2_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_3|Leather Tunic
+; itm_bw_wildling_leather_tunic_3_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_4|Leather Tunic
+; itm_bw_wildling_leather_tunic_4_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_5|Leather Tunic
+; itm_bw_wildling_leather_tunic_5_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_6|Leather Tunic
+; itm_bw_wildling_leather_tunic_6_pl|Leather Tunic
+; itm_kuyak_a|Tormunds Plated Fur Armor
+; itm_kuyak_a_pl|Tormunds Plated Fur Armor
+; itm_kuyak_b|Wildling Chiefs Plated Fur Armor
+; itm_kuyak_b_pl|Wildling Chiefs Plated Fur Armor
+; itm_coat_of_plates4|Heavy Fur Armor
+; itm_coat_of_plates4_pl|Heavy Fur Armor
+; itm_coat_of_plates5|Heavy Fur Armor
+; itm_coat_of_plates5_pl|Heavy Fur Armor
+; itm_coat_of_plates6m|Heavy Fur Armor
+; itm_coat_of_plates6m_pl|Heavy Fur Armor
+; itm_raider_hauberk|Chain Mail Hauberk
+; itm_raider_hauberk_pl|Chain Mail Hauberk
+; itm_raider_hauberk2|Chain Mail Hauberk
+; itm_raider_hauberk2_pl|Chain Mail Hauberk
+; itm_raider_hauberk3|Chain Mail Hauberk
+; itm_raider_hauberk3_pl|Chain Mail Hauberk
+; itm_briton_helm|Wildling Chiefs Nasal Helmet
+; itm_briton_helm_pl|Wildling Chiefs Nasal Helmet
+; itm_dux_ridge_helm|Tormunds Nasal Helmet
+; itm_dux_ridge_helm_pl|Tormunds Nasal Helmet
+; itm_valsgarde1|Nasal Helmet
+; itm_valsgarde1_pl|Nasal Helmet
+; itm_valsgarde2|Nasal Helmet
+; itm_valsgarde2_pl|Nasal Helmet
+; itm_valsgarde3|Nasal Helmet
+; itm_valsgarde3_pl|Nasal Helmet
+; itm_valsgarde4|Nasal Helmet
+; itm_valsgarde4_pl|Nasal Helmet
+; itm_wildling_square_shield_1|Wildlings Square Shield
+; itm_wildling_square_shield_1_pl|Wildlings Square Shield
+; itm_wildling_square_shield_2|Wildlings Square Shield
+; itm_wildling_square_shield_2_pl|Wildlings Square Shield
+; itm_wildling_square_shield_3|Wildlings Square Shield
+; itm_wildling_square_shield_3_pl|Wildlings Square Shield
+; itm_wildling_square_shield_4|Wildlings Square Shield
+; itm_wildling_square_shield_4_pl|Wildlings Square Shield
+; itm_wildling_square_shield_5|Wildlings Square Shield
+; itm_wildling_square_shield_5_pl|Wildlings Square Shield
+; itm_wildling_square_shield_9|Wildlings Square Shield
+; itm_wildling_square_shield_9_pl|Wildlings Square Shield
+; itm_wildling_square_shield_12|Wildlings Square Shield
+; itm_wildling_square_shield_12_pl|Wildlings Square Shield
+; itm_xenoargh_round_shield05_plain|Round Wooden Shield
+; itm_xenoargh_round_shield05_plain_pl|Round Wooden Shield
+; itm_bw_wildling_cloth_tunic_1_noble|Tunic
+; itm_bw_wildling_cloth_tunic_1_noble_pl|Tunic
+; itm_bw_wildling_cloth_tunic_2_noble|Tunic
+; itm_bw_wildling_cloth_tunic_2_noble_pl|Tunic
+; itm_bw_wildling_cloth_tunic_3_noble|Tunic
+; itm_bw_wildling_cloth_tunic_3_noble_pl|Tunic
+; itm_bw_wildling_leather_tunic_1_noble|Leather Tunic
+; itm_bw_wildling_leather_tunic_1_noble_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_2_noble|Leather Tunic
+; itm_bw_wildling_leather_tunic_2_noble_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_3_noble|Leather Tunic
+; itm_bw_wildling_leather_tunic_3_noble_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_4_noble|Leather Tunic
+; itm_bw_wildling_leather_tunic_4_noble_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_5_noble|Leather Tunic
+; itm_bw_wildling_leather_tunic_5_noble_pl|Leather Tunic
+; itm_bw_wildling_leather_tunic_6_noble|Leather Tunic
+; itm_bw_wildling_leather_tunic_6_noble_pl|Leather Tunic
+; itm_we_swa_arrow_gromite|Steel Arrows
+; itm_we_swa_arrow_gromite_pl|Steel Arrows
+; itm_ar_nor_shi_skjortira|Dothraki Outfit
+; itm_ar_nor_shi_skjortira_pl|Dothraki Outfit
+; itm_ar_nor_tun_blue|Dothraki Outfit
+; itm_ar_nor_tun_blue_pl|Dothraki Outfit
+; itm_dothraki_lamellar|Dothraki Lamellar Armor
+; itm_dothraki_lamellar_pl|Dothraki Lamellar Armor
+; itm_brego_nord_helmet|Nasal Helmet
+; itm_brego_nord_helmet_pl|Nasal Helmet
+; itm_dothraki_hair_1|Dothraki Braid
+; itm_dothraki_hair_1_pl|Dothraki Braid
+; itm_dothraki_hair_2|Dothraki Braid
+; itm_dothraki_hair_2_pl|Dothraki Braid
+; itm_dothraki_hair_3|Dothraki Braid
+; itm_dothraki_hair_3_pl|Dothraki Braid
+; itm_dothraki_hair_4|Dothraki Braid
+; itm_dothraki_hair_4_pl|Dothraki Braid
+; itm_dothraki_hair_5|Dothraki Braid
+; itm_dothraki_hair_5_pl|Dothraki Braid
+; itm_dothraki_hair_6|Dothraki Braid
+; itm_dothraki_hair_6_pl|Dothraki Braid
+; itm_otk_shlem|The Weepers Helmet
+; itm_otk_shlem_pl|The Weepers Helmet
+; itm_otk_axe|One-Handed Axe
+; itm_otk_axe_pl|One-Handed Axe
+; itm_mackie_machete|Dothraki Cleaver
+; itm_mackie_machete_pl|Dothraki Cleaver
+; itm_mackie_meat_cleaver_1|Meat Cleaver
+; itm_mackie_meat_cleaver_1_pl|Meat Cleaver
+; itm_mackie_meat_cleaver_2|Meat Cleaver
+; itm_mackie_meat_cleaver_2_pl|Meat Cleaver
+; itm_mackie_meat_cleaver_3|Meat Cleaver
+; itm_mackie_meat_cleaver_3_pl|Meat Cleaver
+; itm_new_nightswatch_1|Leather Jerkin
+; itm_new_nightswatch_1_pl|Leather Jerkin
+; itm_new_nightswatch_1_cloak|Leather Jerkin
+; itm_new_nightswatch_1_cloak_pl|Leather Jerkin
+; itm_new_nightswatch_2|Leather Jerkin
+; itm_new_nightswatch_2_pl|Leather Jerkin
+; itm_new_nightswatch_2_cloak|Leather Jerkin
+; itm_new_nightswatch_2_cloak_pl|Leather Jerkin
+; itm_new_nightswatch_3|Chain Mail Hauberk
+; itm_new_nightswatch_3_pl|Chain Mail Hauberk
+; itm_new_nightswatch_3_cloak|Chain Mail Hauberk
+; itm_new_nightswatch_3_cloak_pl|Chain Mail Hauberk
+; itm_new_nightswatch_4|Lamellar Armor
+; itm_new_nightswatch_4_pl|Lamellar Armor
+; itm_new_nightswatch_4_cloak|Lamellar Armor
+; itm_new_nightswatch_4_cloak_pl|Lamellar Armor
+; itm_new_nightswatch_5|Light Plate Armor
+; itm_new_nightswatch_5_pl|Light Plate Armor
+; itm_new_nightswatch_5_cloak|Light Plate Armor
+; itm_new_nightswatch_5_cloak_pl|Light Plate Armor
+; itm_new_nightswatch_mance_rayder|Chain Mail Hauberk
+; itm_new_nightswatch_mance_rayder_pl|Chain Mail Hauberk
+; itm_aemons_robe|Maesters Robe
+; itm_aemons_robe_pl|Maesters Robe
+; itm_dedal_kufel|Kufel
+; itm_dedal_kufel_pl|Kufel
+; itm_dedal_lutnia|Lutnia
+; itm_dedal_lutnia_pl|Lutnia
+; itm_dedal_lira|Lira
+; itm_dedal_lira_pl|Lira
+; itm_awl_pike_a|Pike
+; itm_awl_pike_a_pl|Pike
+; itm_awl_pike_b|Pike
+; itm_awl_pike_b_pl|Pike
+; itm_dornish_cataphract_helmet|Full Helmet
+; itm_dornish_cataphract_helmet_pl|Full Helmet
+; itm_dornish_chain_fur_1|Nasal Helmet
+; itm_dornish_chain_fur_1_pl|Nasal Helmet
+; itm_dornish_chain_fur_2|Nasal Helmet
+; itm_dornish_chain_fur_2_pl|Nasal Helmet
+; itm_dornish_chain_fur_3|Nasal Helmet
+; itm_dornish_chain_fur_3_pl|Nasal Helmet
+; itm_dornish_turban|Headcloth
+; itm_dornish_turban_pl|Headcloth
+; itm_dornish_open_turban|Headcloth
+; itm_dornish_open_turban_pl|Headcloth
+; itm_dornish_turban_helmet_mail|Conical Helmet
+; itm_dornish_turban_helmet_mail_pl|Conical Helmet
+; itm_dornish_leather_helmet|Leather Cap
+; itm_dornish_leather_helmet_pl|Leather Cap
+; itm_dornish_chain_mail_1|Conical Helmet
+; itm_dornish_chain_mail_1_pl|Conical Helmet
+; itm_dornish_chain_mail_2|Nasal Helmet
+; itm_dornish_chain_mail_2_pl|Nasal Helmet
+; itm_dornish_chain_mail_3|Nasal Helmet
+; itm_dornish_chain_mail_3_pl|Nasal Helmet
+; itm_dornish_turban_helmet_2|Conical Helmet
+; itm_dornish_turban_helmet_2_pl|Conical Helmet
+; itm_dornish_turban_helmet_1|Conical Helmet
+; itm_dornish_turban_helmet_1_pl|Conical Helmet
+; itm_dornish_lamellar|Lamellar Vest
+; itm_dornish_lamellar_pl|Lamellar Vest
+; itm_dornish_scale|Scale Hauberk
+; itm_dornish_scale_pl|Scale Hauberk
+; itm_dornish_cavrobe_1|Chain Mail Hauberk
+; itm_dornish_cavrobe_1_pl|Chain Mail Hauberk
+; itm_dornish_chain_mail_shirt_3|Chain Mail Hauberk
+; itm_dornish_chain_mail_shirt_3_pl|Chain Mail Hauberk
+; itm_dornish_heavy_lamellar|Heavy Lamellar Armor
+; itm_dornish_heavy_lamellar_pl|Heavy Lamellar Armor
+; itm_dornish_leather_robe|Leather Jerkin
+; itm_dornish_leather_robe_pl|Leather Jerkin
+; itm_dornish_skirmisher|Padded Tunic
+; itm_dornish_skirmisher_pl|Padded Tunic
+; itm_broken_bottle|Broken Bottle
+; itm_broken_bottle_pl|Broken Bottle
+; itm_kuauik_padded_leather|Leather Jerkin
+; itm_kuauik_padded_leather_pl|Leather Jerkin
+; itm_kuauik_peasant_1|Peasants Tunic
+; itm_kuauik_peasant_1_pl|Peasants Tunic
+; itm_kuauik_peasant_2|Peasants Tunic
+; itm_kuauik_peasant_2_pl|Peasants Tunic
+; itm_kuauik_studded_leather_1|Studded Leather Jerkin
+; itm_kuauik_studded_leather_1_pl|Studded Leather Jerkin
+; itm_kuauik_studded_leather_2|Studded Leather Jerkin
+; itm_kuauik_studded_leather_2_pl|Studded Leather Jerkin
+; itm_kuauik_welsh_archer_1|Studded Leather Jerkin
+; itm_kuauik_welsh_archer_1_pl|Studded Leather Jerkin
+; itm_kuauik_welsh_archer_2|Studded Leather Jerkin
+; itm_kuauik_welsh_archer_2_pl|Studded Leather Jerkin
+; itm_kuauik_leather_tunic|Leather Jerkin
+; itm_kuauik_leather_tunic_pl|Leather Jerkin
+; itm_kuauik_dornish_leather_tunic_1|Leather Jerkin
+; itm_kuauik_dornish_leather_tunic_1_pl|Leather Jerkin
+; itm_kuauik_dornish_leather_tunic_2|Leather Jerkin
+; itm_kuauik_dornish_leather_tunic_2_pl|Leather Jerkin
+; itm_kuauik_dornish_studded_leather|Studded Leather Jerkin
+; itm_kuauik_dornish_studded_leather_pl|Studded Leather Jerkin
+; itm_kuauik_dornish_chain_mail|Chain Mail Hauberk
+; itm_kuauik_dornish_chain_mail_pl|Chain Mail Hauberk
+; itm_kuauik_gambeson|Gambeson
+; itm_kuauik_gambeson_pl|Gambeson
+; itm_kuauik_bulgar_armor|Lamellar Armor
+; itm_kuauik_bulgar_armor_pl|Lamellar Armor
+; itm_kuauik_bulgar_leather_armor|Leather Jerkin
+; itm_kuauik_bulgar_leather_armor_pl|Leather Jerkin
+; itm_kuauik_byz_footman_1|Chain Mail Hauberk
+; itm_kuauik_byz_footman_1_pl|Chain Mail Hauberk
+; itm_kuauik_byz_guard|Lamellar Armor
+; itm_kuauik_byz_guard_pl|Lamellar Armor
+; itm_kuauik_byz_leather|Leather Jerkin
+; itm_kuauik_byz_leather_pl|Leather Jerkin
+; itm_kuauik_padded_cloth|Chain Mail Hauberk
+; itm_kuauik_padded_cloth_pl|Chain Mail Hauberk
+; itm_kuauik_varangian_a|Lamellar Armor
+; itm_kuauik_varangian_a_pl|Lamellar Armor
+; itm_kuauik_norvos_guard|Leather Jerkin
+; itm_kuauik_norvos_guard_pl|Leather Jerkin
+; itm_kuauik_pentos_guard|Lamellar Armor
+; itm_kuauik_pentos_guard_pl|Lamellar Armor
+; itm_kuauik_volantis_guard|Lamellar Armor
+; itm_kuauik_volantis_guard_pl|Lamellar Armor
+; itm_kuauik_myr_guard|Lamellar Armor
+; itm_kuauik_myr_guard_pl|Lamellar Armor
+itm_kuauik_surcoat_1|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_1_pl|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_2|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_2_pl|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_3|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_3_pl|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_4|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_4_pl|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_5|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_5_pl|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_6|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_6_pl|Kabátec přes kroužkové brnění
+; itm_kuauik_surcoat_7|Jasper Rivers Surcoat over Mail
+; itm_kuauik_surcoat_7_pl|Jasper Rivers Surcoat over Mail
+itm_kuauik_surcoat_8|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_8_pl|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_9|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_9_pl|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_10|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_10_pl|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_11|Kabátec přes kroužkové brnění
+itm_kuauik_surcoat_11_pl|Kabátec přes kroužkové brnění
+itm_surcoat_targaryen|Kabátec přes kroužkové brnění
+itm_surcoat_targaryen_pl|Kabátec přes kroužkové brnění
+itm_surcoat_golden_company|Kabátec přes kroužkové brnění
+itm_surcoat_golden_company_pl|Kabátec přes kroužkové brnění
+itm_tournament_yellow_surcoat|Kabátec přes kroužkové brnění
+itm_tournament_yellow_surcoat_pl|Kabátec přes kroužkové brnění
+itm_tournament_white_surcoat|Kabátec přes kroužkové brnění
+itm_tournament_white_surcoat_pl|Kabátec přes kroužkové brnění
+itm_tournament_red_surcoat|Kabátec přes kroužkové brnění
+itm_tournament_red_surcoat_pl|Kabátec přes kroužkové brnění
+itm_tournament_surcoat_blue|Kabátec přes kroužkové brnění
+itm_tournament_surcoat_blue_pl|Kabátec přes kroužkové brnění
+itm_surcoat_new_lannister|Kabátec přes kroužkové brnění
+itm_surcoat_new_lannister_pl|Kabátec přes kroužkové brnění
+itm_surcoat_new_morrigen|Kabátec přes kroužkové brnění
+itm_surcoat_new_morrigen_pl|Kabátec přes kroužkové brnění
+itm_surcoat_new_florent|Kabátec přes kroužkové brnění
+itm_surcoat_new_florent_pl|Kabátec přes kroužkové brnění
+itm_surcoat_new_tarth|Kabátec přes kroužkové brnění
+itm_surcoat_new_tarth_pl|Kabátec přes kroužkové brnění
+itm_surcoat_longbow_hall|Kabátec přes kroužkové brnění
+itm_surcoat_longbow_hall_pl|Kabátec přes kroužkové brnění
+itm_surcoat_white_harbor|Kabátec přes kroužkové brnění
+itm_surcoat_white_harbor_pl|Kabátec přes kroužkové brnění
+itm_surcoat_driftmark|Kabátec přes kroužkové brnění
+itm_surcoat_driftmark_pl|Kabátec přes kroužkové brnění
+itm_surcoat_massey|Kabátec přes kroužkové brnění
+itm_surcoat_massey_pl|Kabátec přes kroužkové brnění
+itm_surcoat_qorgyle|Kabátec přes kroužkové brnění
+itm_surcoat_qorgyle_pl|Kabátec přes kroužkové brnění
+itm_surcoat_oldtown|Kabátec přes kroužkové brnění
+itm_surcoat_oldtown_pl|Kabátec přes kroužkové brnění
+itm_surcoat_hellholt|Kabátec přes kroužkové brnění
+itm_surcoat_hellholt_pl|Kabátec přes kroužkové brnění
+; itm_trial_surcoat|Tolletts Surcoat over Mail
+; itm_trial_surcoat_pl|Tolletts Surcoat over Mail
+; itm_trial_shield|Tolletts Kite Shield
+; itm_trial_shield_pl|Tolletts Kite Shield
+; itm_trial_boots|Splinted Mail Greaves
+; itm_trial_boots_pl|Splinted Mail Greaves
+; itm_trial_gloves|Mail Gauntlets
+; itm_trial_gloves_pl|Mail Gauntlets
+; itm_trial_helm|Helmet with Faceplate
+; itm_trial_helm_pl|Helmet with Faceplate
+; itm_trial_sword|Arming Sword
+; itm_trial_sword_pl|Arming Sword
+; itm_brawl_senlac|Arming Sword
+; itm_brawl_senlac_pl|Arming Sword
+; itm_we_nor_axe_throw_light|Throwing Axes
+; itm_we_nor_axe_throw_light_pl|Throwing Axes
+; itm_we_nor_axe_throw_light_melee|Throwing Axe
+; itm_we_nor_axe_throw_light_melee_pl|Throwing Axe
+; itm_robert_baratheons_helmet|Robert Baratheons Great Helmet
+; itm_robert_baratheons_helmet_pl|Robert Baratheons Great Helmet
+; itm_fi_tourney_helmet_1|Decorated Tournament Helmet
+; itm_fi_tourney_helmet_1_pl|Decorated Tournament Helmet
+; itm_fi_greathelmet_1|Decorated Tournament Helmet
+; itm_fi_greathelmet_1_pl|Decorated Tournament Helmet
+; itm_fi_armet_2|Decorated Tournament Helmet
+; itm_fi_armet_2_pl|Decorated Tournament Helmet
+; itm_crown_sallet|Sallet with Crown
+; itm_crown_sallet_pl|Sallet with Crown
+; itm_crown_coif|Mail Coif with Crown
+; itm_crown_coif_pl|Mail Coif with Crown
+; itm_nord_coat_of_plates|Heavy Leather Armor
+; itm_nord_coat_of_plates_pl|Heavy Leather Armor
+; itm_nord_coat_of_plates_pelt|Heavy Leather Armor
+; itm_nord_coat_of_plates_pelt_pl|Heavy Leather Armor
+; itm_fi_lance|Tourney Lance
+; itm_fi_lance_pl|Tourney Lance
+; itm_bb_rus_pike|War Lance
+; itm_bb_rus_pike_pl|War Lance
+itm_sipahi_jawshan|Těžká plátová zbroj
+itm_sipahi_jawshan_pl|Těžká plátová zbroj
+; itm_peltastos_armor|Gambeson
+; itm_peltastos_armor_pl|Gambeson
+; itm_mongolian_helmet|Top Helmet
+; itm_mongolian_helmet_pl|Top Helmet
+; itm_jack_boots_unsullied|Unsullied Shoes
+; itm_jack_boots_unsullied_pl|Unsullied Shoes
+; itm_jack_armour_unsullied|Unsullied Tunic
+; itm_jack_armour_unsullied_pl|Unsullied Tunic
+; itm_jack_helmet_unsullied|Unsullied Helmet
+; itm_jack_helmet_unsullied_pl|Unsullied Helmet
+; itm_jack_helmet_burgonet|Burgonet
+; itm_jack_helmet_burgonet_pl|Burgonet
+; itm_jack_helmet_burgonet_iron|Burgonet
+; itm_jack_helmet_burgonet_iron_pl|Burgonet
+; itm_unsullied_shield|Unsullied Shield
+; itm_unsullied_shield_pl|Unsullied Shield
+; itm_pretender_vezenkor|Expensive Lamellar Armor
+; itm_pretender_vezenkor_pl|Expensive Lamellar Armor
+; itm_pretender_yara|Chain Mail Hauberk
+; itm_pretender_yara_pl|Chain Mail Hauberk
+itm_pretender_laros|Kabátec přes kroužkové brnění
+itm_pretender_laros_pl|Kabátec přes kroužkové brnění
+; itm_pretender_assadora|Lamellar Armor
+; itm_pretender_assadora_pl|Lamellar Armor
+itm_pretender_sarella|Kabátec přes kroužkové brnění
+itm_pretender_sarella_pl|Kabátec přes kroužkové brnění
+; itm_pretender_shiera|Expensive Lamellar Armor
+; itm_pretender_shiera_pl|Expensive Lamellar Armor
+; itm_rathos_lamellar_armor_2|Expensive Lamellar Armor
+; itm_rathos_lamellar_armor_2_pl|Expensive Lamellar Armor
+; itm_low_tier_sword_1|Arming Sword
+; itm_low_tier_sword_1_pl|Arming Sword
+; itm_medium_tier_sword_1|Arming Sword
+; itm_medium_tier_sword_1_pl|Arming Sword
+; itm_medium_tier_sword_2|Arming Sword
+; itm_medium_tier_sword_2_pl|Arming Sword
+; itm_medium_tier_sword_3|Arming Sword
+; itm_medium_tier_sword_3_pl|Arming Sword
+; itm_high_tier_sword_1|Castle-Forged Arming Sword
+; itm_high_tier_sword_1_pl|Castle-Forged Arming Sword
+; itm_high_tier_sword_2|Castle-Forged Arming Sword
+; itm_high_tier_sword_2_pl|Castle-Forged Arming Sword
+; itm_low_tier_saber_1|Curved Sword
+; itm_low_tier_saber_1_pl|Curved Sword
+; itm_medium_tier_saber_1|Curved Sword
+; itm_medium_tier_saber_1_pl|Curved Sword
+; itm_high_tier_saber_1|Castle-Forged Curved Sword
+; itm_high_tier_saber_1_pl|Castle-Forged Curved Sword
+; itm_high_tier_saber_2|Castle-Forged Curved Sword
+; itm_high_tier_saber_2_pl|Castle-Forged Curved Sword
+itm_we_rho_sword_rondeldagger|Krátký meč
+itm_we_rho_sword_rondeldagger_pl|Krátký meč
+; itm_sword_rusty_a|Rusty Sword
+; itm_sword_rusty_a_pl|Rusty Sword
+; itm_loki_sword|Old Arming Sword
+; itm_loki_sword_pl|Old Arming Sword
+; itm_orphanmaker|Orphan-Maker
+; itm_orphanmaker_pl|Orphan-Maker
+; itm_sword_repent|Dark Sister
+; itm_sword_repent_pl|Dark Sister
+; itm_dragonstone_mailed|Chain Mail Hauberk
+; itm_dragonstone_mailed_pl|Chain Mail Hauberk
+; itm_dragonstone_plate2|Light Plate Armor
+; itm_dragonstone_plate2_pl|Light Plate Armor
+; itm_dragonstone_lord|Light Plate Armor
+; itm_dragonstone_lord_pl|Light Plate Armor
+; itm_dragonstone_padded1|Padded Robe
+; itm_dragonstone_padded1_pl|Padded Robe
+; itm_dragonstone_padded2|Padded Robe
+; itm_dragonstone_padded2_pl|Padded Robe
+; itm_dragonstone_court_davos|Padded Robe
+; itm_dragonstone_court_davos_pl|Padded Robe
+; itm_dragonstone_court_matthos|Padded Robe
+; itm_dragonstone_court_matthos_pl|Padded Robe
+; itm_dragonstone_gendry|Padded Robe
+; itm_dragonstone_gendry_pl|Padded Robe
+; itm_dragonstone_court_gendry|Padded Robe
+; itm_dragonstone_court_gendry_pl|Padded Robe
+; itm_dragonstone_archer_helm|Coif
+; itm_dragonstone_archer_helm_pl|Coif
+; itm_dragonstone_davos_battle|Padded Robe
+; itm_dragonstone_davos_battle_pl|Padded Robe
+; itm_dragonstone_matthos_battle|Padded Robe
+; itm_dragonstone_matthos_battle_pl|Padded Robe
+; itm_dragonstone_archer_helm_burgonet|Burgonet
+; itm_dragonstone_archer_helm_burgonet_pl|Burgonet
+; itm_mackie_falchion01|Falchion
+; itm_mackie_falchion01_pl|Falchion
+; itm_mackie_falchion03|Falchion
+; itm_mackie_falchion03_pl|Falchion
+; itm_mackie_cutlass|Falchion
+; itm_mackie_cutlass_pl|Falchion
+; itm_stormlands_hammer_event|War Hammer
+; itm_stormlands_hammer_event_pl|War Hammer
+; itm_stormlands_hammer|War Hammer
+; itm_stormlands_hammer_pl|War Hammer
+; itm_stormlands_two_handed_hammer|Two-Handed War Hammer
+; itm_stormlands_two_handed_hammer_pl|Two-Handed War Hammer
+; itm_sellsword_club|Studded Club
+; itm_sellsword_club_pl|Studded Club
+; itm_sellsword_iron_club|Iron Club
+; itm_sellsword_iron_club_pl|Iron Club
+; itm_necturus_item_buckler_1|Buckler
+; itm_necturus_item_buckler_1_pl|Buckler
+; itm_necturus_item_buckler_2|Buckler
+; itm_necturus_item_buckler_2_pl|Buckler
+; itm_necturus_item_buckler_3|Buckler
+; itm_necturus_item_buckler_3_pl|Buckler
+; itm_ar_sar_t7_fullplate_a|Clansman Noblemans Tunic
+; itm_ar_sar_t7_fullplate_a_pl|Clansman Noblemans Tunic
+; itm_ar_rho_shi_capegreen|Clansman Noblemans Tunic
+; itm_ar_rho_shi_capegreen_pl|Clansman Noblemans Tunic
+; itm_he_vae_t1_noble_a|Noblemans Top Hat
+; itm_he_vae_t1_noble_a_pl|Noblemans Top Hat
+; itm_he_pla_pri_priestcoif|Noblemans Coif
+; itm_he_pla_pri_priestcoif_pl|Noblemans Coif
+; itm_vale_lord_1|Braavosi Noblemans Tunic
+; itm_vale_lord_1_pl|Braavosi Noblemans Tunic
+; itm_vale_lord_2|Braavosi Noblemans Tunic
+; itm_vale_lord_2_pl|Braavosi Noblemans Tunic
+; itm_fat_wyman_style|Fat Noblemans Tunic
+; itm_fat_wyman_style_pl|Fat Noblemans Tunic
+; itm_heraldic_padded_cloth|Noblemans Heraldic Gambeson
+; itm_heraldic_padded_cloth_pl|Noblemans Heraldic Gambeson
+; itm_noblemans_leather_tunic_1|Noblemans Leather Tunic
+; itm_noblemans_leather_tunic_1_pl|Noblemans Leather Tunic
+; itm_noblemans_leather_tunic_2|Noblemans Leather Tunic
+; itm_noblemans_leather_tunic_2_pl|Noblemans Leather Tunic
+; itm_noblemans_leather_tunic_3|Noblemans Leather Tunic
+; itm_noblemans_leather_tunic_3_pl|Noblemans Leather Tunic
+; itm_noblemans_leather_tunic_4|Noblemans Leather Tunic
+; itm_noblemans_leather_tunic_4_pl|Noblemans Leather Tunic
+; itm_noblemans_leather_tunic_5|Noblemans Leather Tunic
+; itm_noblemans_leather_tunic_5_pl|Noblemans Leather Tunic
+; itm_noblemans_gambeson_1|Noblemans Gambeson
+; itm_noblemans_gambeson_1_pl|Noblemans Gambeson
+; itm_noblemans_gambeson_2|Noblemans Gambeson
+; itm_noblemans_gambeson_2_pl|Noblemans Gambeson
+; itm_noblemans_gambeson_3|Noblemans Gambeson
+; itm_noblemans_gambeson_3_pl|Noblemans Gambeson
+; itm_noblemans_tunic_4|Noblemans Tunic
+; itm_noblemans_tunic_4_pl|Noblemans Tunic
+; itm_noblemans_tunic_5|Noblemans Tunic
+; itm_noblemans_tunic_5_pl|Noblemans Tunic
+; itm_noblemans_tunic_6|Noblemans Tunic
+; itm_noblemans_tunic_6_pl|Noblemans Tunic
+; itm_noblemans_tunic_7|Davos' Tunic
+; itm_noblemans_tunic_7_pl|Davos' Tunic
+; itm_noblemans_tunic_8|Noblemans Tunic
+; itm_noblemans_tunic_8_pl|Noblemans Tunic
+; itm_noblemans_aketon|Noblemans Aketon
+; itm_noblemans_aketon_pl|Noblemans Aketon
+; itm_noblemans_kaftan|Noblemans Kaftan
+; itm_noblemans_kaftan_pl|Noblemans Kaftan
+; itm_kuauik_norvoshi_style_1|Noblemans Kaftan
+; itm_kuauik_norvoshi_style_1_pl|Noblemans Kaftan
+; itm_pentoshi_style_1|Noblemans Kaftan
+; itm_pentoshi_style_1_pl|Noblemans Kaftan
+; itm_kuauik_volantis_style_1|Noblemans Robe
+; itm_kuauik_volantis_style_1_pl|Noblemans Robe
+; itm_kuauik_volantis_style_2|Noblemans Robe
+; itm_kuauik_volantis_style_2_pl|Noblemans Robe
+; itm_kuauik_volantis_style_3|Noblemans Robe
+; itm_kuauik_volantis_style_3_pl|Noblemans Robe
+; itm_kuauik_volantis_style_4|Noblemans Robe
+; itm_kuauik_volantis_style_4_pl|Noblemans Robe
+; itm_kuauik_volantis_style_5|Noblemans Robe
+; itm_kuauik_volantis_style_5_pl|Noblemans Robe
+; itm_andal_nobleman_coat_1|Andal Noblemans Robe
+; itm_andal_nobleman_coat_1_pl|Andal Noblemans Robe
+; itm_nobleman_f_outfit_rugged_1|Noblemans Rugged Robe
+; itm_nobleman_f_outfit_rugged_1_pl|Noblemans Rugged Robe
+; itm_nobleman_f_outfit_rugged_2|Noblemans Rugged Robe
+; itm_nobleman_f_outfit_rugged_2_pl|Noblemans Rugged Robe
+; itm_nobleman_f_outfit_rugged_3|Noblemans Rugged Robe
+; itm_nobleman_f_outfit_rugged_3_pl|Noblemans Rugged Robe
+; itm_nobleman_f_outfit_robeish_1|Noblemans Robe
+; itm_nobleman_f_outfit_robeish_1_pl|Noblemans Robe
+; itm_nobleman_f_outfit_robeish_2|Noblemans Robe
+; itm_nobleman_f_outfit_robeish_2_pl|Noblemans Robe
+; itm_nobleman_f_outfit_vale_1|Noblemans Doublet
+; itm_nobleman_f_outfit_vale_1_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_vale_2|Noblemans Doublet
+; itm_nobleman_f_outfit_vale_2_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_reach_1|Noblemans Doublet
+; itm_nobleman_f_outfit_reach_1_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_reach_2|Noblemans Doublet
+; itm_nobleman_f_outfit_reach_2_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_reach_3|Noblemans Doublet
+; itm_nobleman_f_outfit_reach_3_pl|Noblemans Doublet
+; itm_nobleman_f_sealord|Noblemans Doublet
+; itm_nobleman_f_sealord_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_1|Noblemans Doublet
+; itm_nobleman_f_outfit_1_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_2|Noblemans Doublet
+; itm_nobleman_f_outfit_2_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_3|Noblemans Doublet
+; itm_nobleman_f_outfit_3_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_4|Noblemans Doublet
+; itm_nobleman_f_outfit_4_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_5|Noblemans Doublet
+; itm_nobleman_f_outfit_5_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_6|Noblemans Doublet
+; itm_nobleman_f_outfit_6_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_7|Noblemans Doublet
+; itm_nobleman_f_outfit_7_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_8|Noblemans Doublet
+; itm_nobleman_f_outfit_8_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_9|Noblemans Doublet
+; itm_nobleman_f_outfit_9_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_10|Noblemans Doublet
+; itm_nobleman_f_outfit_10_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_11|Noblemans Doublet
+; itm_nobleman_f_outfit_11_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_12|Noblemans Doublet
+; itm_nobleman_f_outfit_12_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_13|Noblemans Doublet
+; itm_nobleman_f_outfit_13_pl|Noblemans Doublet
+; itm_nobleman_f_outfit_14|Noblemans Doublet
+; itm_nobleman_f_outfit_14_pl|Noblemans Doublet
+; itm_helmet_f_black_1|Noblemans Hat
+; itm_helmet_f_black_1_pl|Noblemans Hat
+; itm_helmet_f_black_2|Noblemans Hat
+; itm_helmet_f_black_2_pl|Noblemans Hat
+; itm_helmet_f_black_3|Noblemans Hat
+; itm_helmet_f_black_3_pl|Noblemans Hat
+; itm_helmet_f_black_4|Noblemans Hat
+; itm_helmet_f_black_4_pl|Noblemans Hat
+; itm_helmet_f_black_5|Noblemans Hat
+; itm_helmet_f_black_5_pl|Noblemans Hat
+; itm_helmet_f_black_6|Noblemans Hat
+; itm_helmet_f_black_6_pl|Noblemans Hat
+; itm_helmet_f_red_1|Noblemans Hat
+; itm_helmet_f_red_1_pl|Noblemans Hat
+; itm_helmet_f_leather_1|Noblemans Hat
+; itm_helmet_f_leather_1_pl|Noblemans Hat
+; itm_helmet_f_leather_2|Noblemans Hat
+; itm_helmet_f_leather_2_pl|Noblemans Hat
+; itm_helmet_f_leather_3|Noblemans Hat
+; itm_helmet_f_leather_3_pl|Noblemans Hat
+; itm_helmet_f_leather_4|Noblemans Hat
+; itm_helmet_f_leather_4_pl|Noblemans Hat
+; itm_helmet_f_leather_5|Noblemans Hat
+; itm_helmet_f_leather_5_pl|Noblemans Hat
+; itm_helmet_f_leather_6|Noblemans Hat
+; itm_helmet_f_leather_6_pl|Noblemans Hat
+; itm_nobleman_f_shoes_1|Leather Shoes
+; itm_nobleman_f_shoes_1_pl|Leather Shoes
+; itm_nobleman_f_shoes_2|Leather Shoes
+; itm_nobleman_f_shoes_2_pl|Leather Shoes
+; itm_nobleman_f_shoes_3|Leather Shoes
+; itm_nobleman_f_shoes_3_pl|Leather Shoes
+; itm_nobleman_f_shoes_4|Leather Shoes
+; itm_nobleman_f_shoes_4_pl|Leather Shoes
+; itm_nobleman_f_shoes_5|Leather Shoes
+; itm_nobleman_f_shoes_5_pl|Leather Shoes
+; itm_nobleman_f_shoes_6|Leather Shoes
+; itm_nobleman_f_shoes_6_pl|Leather Shoes
+; itm_lysa_style_2|Northerner Court Dress
+; itm_lysa_style_2_pl|Northerner Court Dress
+; itm_lysa_style_3|Northerner Court Dress
+; itm_lysa_style_3_pl|Northerner Court Dress
+; itm_lysa_style_4|Northerner Court Dress
+; itm_lysa_style_4_pl|Northerner Court Dress
+; itm_lysa_style_5|Lysas Court Dress
+; itm_lysa_style_5_pl|Lysas Court Dress
+; itm_barkeeper_1|Peasants Dress
+; itm_barkeeper_1_pl|Peasants Dress
+; itm_sansa_style_1|Southrons Court Dress
+; itm_sansa_style_1_pl|Southrons Court Dress
+; itm_sansa_style_2|Southrons Court Dress
+; itm_sansa_style_2_pl|Southrons Court Dress
+; itm_sansa_style_3|Southrons Court Dress
+; itm_sansa_style_3_pl|Southrons Court Dress
+; itm_sansa_style_4|Southrons Court Dress
+; itm_sansa_style_4_pl|Southrons Court Dress
+; itm_sansa_style_5|Southrons Court Dress
+; itm_sansa_style_5_pl|Southrons Court Dress
+; itm_sansa_style_6|Southrons Court Dress
+; itm_sansa_style_6_pl|Southrons Court Dress
+; itm_sansa_style_7|Sansas Court Dress
+; itm_sansa_style_7_pl|Sansas Court Dress
+; itm_dornish_1|Dornish Court Dress
+; itm_dornish_1_pl|Dornish Court Dress
+; itm_dornish_2|Dornish Court Dress
+; itm_dornish_2_pl|Dornish Court Dress
+; itm_dornish_3|Dornish Court Dress
+; itm_dornish_3_pl|Dornish Court Dress
+; itm_dornish_4|Dornish Court Dress
+; itm_dornish_4_pl|Dornish Court Dress
+; itm_dornish_5|Dornish Court Dress
+; itm_dornish_5_pl|Dornish Court Dress
+; itm_cersei_style_1|Southron Court Dress
+; itm_cersei_style_1_pl|Southron Court Dress
+; itm_cersei_style_2|Southron Court Dress
+; itm_cersei_style_2_pl|Southron Court Dress
+; itm_cersei_style_3|Southron Court Dress
+; itm_cersei_style_3_pl|Southron Court Dress
+; itm_cersei_style_4|Cerseis Court Dress
+; itm_cersei_style_4_pl|Cerseis Court Dress
+; itm_margaery_style_1|Southron Court Dress
+; itm_margaery_style_1_pl|Southron Court Dress
+; itm_margaery_style_2|Southron Court Dress
+; itm_margaery_style_2_pl|Southron Court Dress
+; itm_margaery_style_3|Southron Court Dress
+; itm_margaery_style_3_pl|Southron Court Dress
+; itm_margaery_style_4|Margaerys Court Dress
+; itm_margaery_style_4_pl|Margaerys Court Dress
+; itm_margaery_style_5|Southron Court Dress
+; itm_margaery_style_5_pl|Southron Court Dress
+; itm_margaery_style_6|Southron Court Dress
+; itm_margaery_style_6_pl|Southron Court Dress
+; itm_ga_swa_a2_leather|BUGGED ITEM
+; itm_ga_swa_a2_leather_pl|BUGGED ITEM
+; itm_we_vae_bow_hunting|BUGGED ITEM
+; itm_we_vae_bow_hunting_pl|BUGGED ITEM
+; itm_we_khe_bow_red|BUGGED ITEM
+; itm_we_khe_bow_red_pl|BUGGED ITEM
+; itm_arena_shield_red|BUGGED ITEM
+; itm_arena_shield_red_pl|BUGGED ITEM
+; itm_arena_lance|BUGGED ITEM
+; itm_arena_lance_pl|BUGGED ITEM
+; itm_ar_swa_ban_scale_a|BUGGED ITEM
+; itm_ar_swa_ban_scale_a_pl|BUGGED ITEM
+; itm_grenade_fragments|Wildfire Pot Fragments
+; itm_grenade_fragments_pl|Wildfire Pot Fragments
+; itm_player_grenade|Pot of Wildfire
+; itm_player_grenade_pl|Pot of Wildfire
+; itm_gold_cloak_grenade|Pot of Wildfire
+; itm_gold_cloak_grenade_pl|Pot of Wildfire
+; itm_items_end|Items End
+; itm_items_end_pl|Items End

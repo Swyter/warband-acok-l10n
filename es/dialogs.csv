@@ -434,12 +434,12 @@ dlga_minister_talk:minister_change_marshal|Deseo sustituir a {s4} como Mano.
 dlga_minister_talk:minister_change_marshal.1|Deseo designar una nueva Mano.
 dlga_minister_change_marshal:minister_pretalk|Acabáis de designar a uno, {sire/mi señora}. Si revocáis vuestras órdenes tan pronto crearéis gran confusión. Tendremos que esperar unos pocos días.
 dlga_minister_talk:dplmc_chamberlain_talk_sellsword_1|Quisiera contratar a una compañía mercenaria.
-dlga_dplmc_chamberlain_talk_sellsword_1:dplmc_chamberlain_talk_sellsword_2|Muy bien, {my lord/my lady}. ¿Qué compañía tiene en mente?
+dlga_dplmc_chamberlain_talk_sellsword_1:dplmc_chamberlain_talk_sellsword_2|Muy bien, {mi señor/mi señora}. ¿Qué compañía tenéis en mente?
 dlga_dplmc_chamberlain_talk_sellsword_2:dplmc_chamberlain_talk_sellsword_windblown_1|Los Hijos del Viento.
 dlga_dplmc_chamberlain_talk_sellsword_2:dplmc_chamberlain_talk_sellsword_company_cat_1|La Compañía del Gato.
 dlga_dplmc_chamberlain_talk_sellsword_2:minister_pretalk|No importa.
-dlga_dplmc_chamberlain_talk_sellsword_windblown_1:dplmc_chamberlain_talk_sellsword_windblown_2|Ah, muy bien, {my lord/my lady}. He oído grandes cosas sobre Los Hijos del Viento, es una excelente compañía de caballeros, hombres de armas y arqueros bien entrenados, si mis fuentes son creíbles. Dudo que sus servicios vayan a ser baratos y tienen fama de despreciar a hombres débiles. Su capitán que se hace llamar el Príncipe Desharrapado, una vez fue elegido príncipe de Pentos, pero huyó en lugar de aceptar el honor. Me temo que eso es todo lo que sé. Si quieres enviaré un emisario a su campamento para reclutarlos para su causa. Costará 65000 venados de plata. ¿Está conforme?
-dlga_dplmc_chamberlain_talk_sellsword_company_cat_1:dplmc_chamberlain_talk_sellsword_company_cat_2|Ah, muy bien, {my lord/my lady}. La Compañía del Gato es una compañía reciente, compuesta únicamente por infantería y liderados por el capitán conocido como Barbasangre. Debido a que han coincidido los veinte años de su creación con un periodo de paz en Essos aún no han ganado ninguna batalla importante. Si quieres enviaré un emisario a su campamento para reclutarlos para su causa. Costará 50000 venados de plata. ¿Está conforme?
+dlga_dplmc_chamberlain_talk_sellsword_windblown_1:dplmc_chamberlain_talk_sellsword_windblown_2|Muy bien, {mi señor/mi señora. He oído grandes cosas sobre Los Hijos del Viento, es una excelente compañía de caballeros, hombres de armas y arqueros bien entrenados, si mis fuentes son creíbles. Dudo que sus servicios vayan a ser baratos y tienen fama de despreciar a hombres débiles. Su capitán que se hace llamar el Príncipe Desharrapado, una vez fue elegido príncipe de Pentos, pero huyó en lugar de aceptar el honor. Me temo que eso es todo lo que sé. Si queréis enviaré un emisario a su campamento para reclutarlos para su causa. Costará 65000 venados de plata. ¿Estáis conforme?
+dlga_dplmc_chamberlain_talk_sellsword_company_cat_1:dplmc_chamberlain_talk_sellsword_company_cat_2|Muy bien, {mi señor/mi señora}. La Compañía del Gato es una compañía reciente, compuesta únicamente por infantería y liderados por el capitán conocido como Barbasangre. Debido a que han coincidido los veinte años de su creación con un periodo de paz en Essos aún no han ganado ninguna batalla importante. Si queréis enviaré un emisario a su campamento para reclutarlos para su causa. Costará 50000 venados de plata. ¿Estáis conforme?
 dlga_dplmc_chamberlain_talk_sellsword_windblown_2:minister_pretalk|Sí.
 dlga_dplmc_chamberlain_talk_sellsword_company_cat_2:minister_pretalk|Sí.
 dlga_dplmc_chamberlain_talk_sellsword_windblown_2:minister_pretalk.1|No.
@@ -1655,18 +1655,18 @@ dlga_lord_talk:wildfire_talk2|Mi señor, ¿Qué haréis con respecto a Renly?
 dlga_wildfire_talk2:wildfire_talk3|¿Qué ha hecho Renly para ganarse el trono? Se sienta en el consejo y bromea con Meñique, y en los torneos se pone su espléndida armadura y acaba derribado de su caballo por un hombre mejor. Esos son los méritos de mi hermano Renly, que quiere ser rey. No es una cuestión de querer. El trono es MÍO por derecho de nacimiento.
 dlga_wildfire_talk3:wildfire_talk5|El trono me corresponde como heredero de Robert. Es la ley. Después de mí deberá pasar a mi hija, a menos que Selyse me dé por fin un hijo varón. Soy el rey. No tiene nada que ver con lo que quiera. Tengo un deber para con mi hija. Para con el reino. Hasta para con Robert. No me tenía ningún cariño, lo sé, pero era mi hermano. La Lannister le puso los cuernos y lo convirtió en un bufón. Puede que hasta lo matara, igual que mató a Jon Arryn y a Ned Stark. Esos crímenes claman justicia, empezando por Cersei y sus abominaciones. Pero eso es sólo el principio. Estoy decidido a limpiar esa corte como debió hacer Robert, y para ello debo estar sentado en el Trono de Hierro.
 dlga_wildfire_talk5:wildfire_talk6|¿Cómo puedo estar a vuestro servicio, mi señor?
-dlga_wildfire_talk6:lord_pretalk|En efecto. La sacerdotisa roja Melisandre miró en el fuego, y encontró la manera de recuperar mi posición legítima. Hable con ella, {playername}. Encuentre una manera de llevar la justicia a mis Siete Reinos.
-dlga_lord_talk:wildfire_talk2.1|Ser Davos , necesito ayuda para llegar a Bastión de Tormentas.
+dlga_wildfire_talk6:lord_pretalk|En efecto, la sacerdotisa roja Melisandre miró en el fuego y encontró la manera de recuperar mi posición legítima en el Trono de Hierro. Hablad con ella, {playername}. Encontrad la manera de llevar la justicia a mis Siete Reinos.
+dlga_lord_talk:wildfire_talk2.1|Ser Davos Seaworth, necesito vuestra ayuda para llegar a Bastión de Tormentas.
 dlga_wildfire_talk2:wildfire_talk3.1|¿Por qué, {playername}? Cualquier persona puede caminar hasta las puertas y entrar en medio de la multitud del populacho, y hacer negocios dentro del castillo durante el día. A no ser, claro está, que estés acompañando a alguien que nunca pasaría por un campesino.
-dlga_wildfire_talk3:wildfire_talk5.1|Conozco los mares y los ríos, las formas de las costas a lo largo del Mar Angosto. Conozco recónditas calas donde los barcos pueden desembarcar sin ser vistos, y una vez desafié las tormentas para entregar un barco cargado con cebollas a un castillo. Adivino la razón por la que me quieres para llevarte a Bastión de Tormentas. El rey está bajo su hechizo, {playername}, quizás usted también, pero debo advertiros que estáis haciendo algo malvado.
+dlga_wildfire_talk3:wildfire_talk5.1|Conozco los mares, los ríos y todas las formas de las costas a lo largo del Mar Angosto. Conozco recónditas calas donde los barcos podrían desembarcar sin ser vistos, debido a mis orígenes como contrabandista. En una ocasión desafié las tormentas para entregar un barco repleto de cebollas a un castillo, fue ahí cuando me gane el apodo del Caballero de la Cebolla. Adivino la razón por la que me queréis para llevaros a Bastión de Tormentas. El rey está bajo su hechizo, {playername}, quizás usted también, pero debo advertiros que os estáis desviando hacia un camino malvado.
 dlga_wildfire_talk5:wildfire_talk6.1|¿Podríais ayudarme?
 dlga_wildfire_talk6:wildfire_talk7|Hago lo que mi rey ordene. Pero el hermano del rey Stannis 'no es tonto, y se han apostado guardias en la caverna que discurre por debajo de Bastión de Tormentas. Voy a enviar a mi hijo mayor, Dale, en un barco rápido, que llevará a la Mujer Roja, que esperará más allá del horizonte de la Bahía de los Naufragios. Mientras tanto, necesito crear una distracción que tendrá a los guardias ocupados en otro lugar, mientras que Dale transporta a la Mujer Roja hasta la caverna. Qué pasará después de eso, es algo de lo que yo no quiero ser parte.
-dlga_wildfire_talk7:lord_pretalk|Cerca de Bastión de Tormentas se encuentra la Selva. Un fuego que afectara el bosque sería más que suficiente para llamar la atención de todo hombre, mujer y niño del castillo y apartarlos de sus labores. La parte del bosque más cercana al castillo es el coto de caza  privado del señor de Bastión de Tormentas, y nadie vive allí, pero prenderle fuego no será fácil. La Selva no es un bosque seco. Tendrá que llevar una gran cantidad de aceite y brea para empapar los arboles antes de intentar iniciar el incendio. Una vez hecho esto y una vez el bosque este envuelto en llamas, Dale, hará su parte.
-dlga_lord_talk:stannis_talk_2|Mi señor, ¿En que puedo serviros? 
-dlga_stannis_talk_2:stannis_talk_3|{playername}. Renly aún vive. Tal vez sea lo mejor. Has hecho un acto de valentía. Melisandre habla de Azor Ahai, de un campeón de luz. Nunca le pregunté por esto, no más de lo que pedí ser rey. No obstante, ¿me atreveré a ignorarla? No elegimos nuestros destinos. Sin embargo, debemos... debemos cumplir con nuestro deber, ¿no? Grande o pequeño, tenemos que cumplir con nuestro deber.
+dlga_wildfire_talk7:lord_pretalk|Cerca de Bastión de Tormentas se encuentra la Selva. Si un fuego afectara a este bosque sería algo más que suficiente para llamar la atención de todo hombre, mujer y niño del castillo y apartarlos de sus quehaceres. La parte del bosque más cercana al castillo es el coto de caza  privado del señor de Bastión de Tormentas, y nadie vive allí, pero prenderle fuego no será nada fácil. La Selva no es un bosque seco y por ello tendréis que llevar una gran cantidad de aceite y brea para empapar los arboles antes de intentar iniciar el incendio. Una vez hecho esto y una vez el bosque este envuelto en llamas, Dale Seaworth, hará su parte.
+dlga_lord_talk:stannis_talk_2|Mi señor, ¿En que puedo serviros?
+dlga_stannis_talk_2:stannis_talk_3|{playername}. Renly todavía vive. Tal vez sea lo mejor... Sin duda habéis sido valiente, Melisandre habla en voz de Azor Ahai, del Hijo de la luz. Nunca le pregunté por eso, no más de lo que pedí ser rey. ¿Me atreveré a ignorarla? Nadie elige su propio destino. Sin embargo, uno debe cumplir con su deber, grande o pequeño, uno esta obligado a cumplir con su deber...
 dlga_stannis_talk_3:stannis_talk_4|Estos señores a los que he perdonado harían bien en reflexionar sobre ello. Seguro que habrá hombres buenos y leales que lucharán por Joffrey, pensando equivocadamente que es el rey legítimo. Hasta puede que los norteños crean lo mismo de Robb Stark. Pero los que cabalgaron\nbajo los estandartes de mi hermano sabían que era un usurpador. Dieron la espalda a su rey legítimo, sin más motivo que sus sueños de poder y gloria. Sé qué son. Los he perdonado, sí. Pero yo no olvido.
-dlga_stannis_talk_4:stannis_talk_5|¿Qué queréis decir, mi señor? 
-dlga_stannis_talk_5:lord_pretalk|Todo hombre cosechará lo que ha sembrado, desde el más noble señor hasta la rata de alcantarilla más inmunda. Y algunos perderán más que la punta de sus dedos, te lo prometo. Han hecho que mi reino sangrase, y no olvidaré tal cosa.
+dlga_stannis_talk_4:stannis_talk_5|¿Qué queréis decir, mi señor?
+dlga_stannis_talk_5:lord_pretalk|Todo hombre cosechará lo que ha sembrado, desde el más noble señor hasta la rata de alcantarilla más inmunda. Y algunos perderán más que la punta de sus dedos, os lo prometo. Han hecho que mi reino sangrase, y no olvidaré tal cosa.
 dlga_lord_talk:combined_political_quests|¿Creéis que podemos trabajar juntos para mejorar nuestra posición en este reino?
 dlga_combined_political_quests:lord_pretalk|No veo qué intereses comunes podemos tener vos y yo.
 dlga_combined_political_quests:lord_pretalk.1|Hmm.. Tal vez podamos discutir este asunto en un ambiente más privado, más adelante.
@@ -1941,8 +1941,8 @@ dlga_lord_give_oath_7:lord_give_oath_give_up|Por favor, concededme algún tiempo
 dlga_lord_give_oath_8:lord_give_oath_9|Por último, aceptaré vuestras legítimas demandas, y aquéllas de vuestros legítimos herederos, como mías.
 dlga_lord_give_oath_9:lord_give_oath_101|Por último, aceptaré vuestras legítimas demandas, y aquéllas de vuestros legítimos herederos, como mías.
 dlga_lord_give_oath_9:lord_give_oath_give_up|Debo disponer de más tiempo para considerarlo.
-dlga_lord_give_oath_101:lord_give_oath_102|Esto lo juro por los Dioses antiguos y los nuevos ...
-dlga_lord_give_oath_102:lord_give_oath_10|Esto lo juro por los Dioses antiguos y los nuevos ...
+dlga_lord_give_oath_101:lord_give_oath_102|Esto lo juro por los todos los dioses adorados por los hombres, desde los antiguos hasta los Siete.
+dlga_lord_give_oath_102:lord_give_oath_10|Esto lo juro por los todos los dioses adorados por los hombres, desde los antiguos hasta los Siete.
 dlga_lord_give_oath_102:lord_give_oath_give_up|Debo disponer de más tiempo para considerarlo.
 dlga_lord_give_oath_10:lord_give_oath_go_on_2|Muy bien. Me habéis otorgado vuestro juramento solemne, {playername}. Mantenedlo siempre, con el debido coraje y devoción.
 dlga_lord_give_oath_go_on_2:lord_give_oath_go_on_3|Que se sepa que desde ahora sois mi leal {juramentado y vasallo/seguidora y vasalla}. Os doy mi protección y os concedo el derecho de portar armas en mi nombre, y declaro que no os privaré de vuestra vida, libertad o propiedades salvo juicio justo de vuestros iguales o por la ley y costumbres de esta tierra.{reg1? Además, os doy el feudo de {s1} con todas sus rentas y beneficios.:}
@@ -2702,12 +2702,12 @@ dlga_start:runaway_serf_talk_again_return|Vamos de regreso a {s5}, {señor/seño
 dlga_runaway_serf_talk_again_return:runaway_serf_talk_again_return_2|Apresuraos. Cuanto antes regreséis, mejor.
 dlga_runaway_serf_talk_again_return:runaway_serf_talk_again_return_2.1|Bien. Seguid andando.
 dlga_runaway_serf_talk_again_return_2:close_window|Sí, {señor/señora}. Como queráis.
-dlga_start:runaway_serf_reconsider.1|Buen día, mi {señor/señora}. No os preocupéis. Si alguien pregunta, no os hemos visto.
-dlga_start:runaway_serf_talk_caught.1|Buen día, {señor/señora}. Íbamos de regreso a {s5}, pero me temo que nos hemos perdido.
-dlga_start:runaway_serf_intro_1.1|Que tengáis buen día, mi {señor/señora}.
-dlga_start:runaway_serf_reconsider.2|Buen día, {señor/señora}. No os preocupéis. Si alguien pregunta, no os hemos visto.
-dlga_start:runaway_serf_talk_caught.2|Buen día, mi {señor/señora}. Íbamos de regreso a {s5}, pero me temo que nos hemos perdido.
-dlga_start:runaway_serf_talk_again_return.1|Vamos de regreso a {s5}, mi {señor/señora}.
+dlga_start:runaway_serf_reconsider.1|Buen día, {mi señor/mi señora}. No os preocupéis. Si alguien pregunta, no os hemos visto.
+dlga_start:runaway_serf_talk_caught.1|Buen día, {mi señor/mi señora}. Íbamos de regreso a {s5}, pero me temo que nos hemos perdido.
+dlga_start:runaway_serf_intro_1.1|Que tengáis buen día, {mi señor/mi señora}.
+dlga_start:runaway_serf_reconsider.2|Buen día, {mi señor/mi señora}. No os preocupéis. Si alguien pregunta, no os hemos visto.
+dlga_start:runaway_serf_talk_caught.2|Buen día, {mi señor/mi señora}. Íbamos de regreso a {s5}, pero me temo que nos hemos perdido.
+dlga_start:runaway_serf_talk_again_return.1|Vamos de regreso a {s5}, {mi señor/mi señora}.
 dlga_start:troublesome_bandits_intro_1|Éste es un mal día para vos, camarada. Somos las peores personas con quienes podríais haberos encontrado.
 dlga_troublesome_bandits_intro_1:troublesome_bandits_intro_2|Je. Para mí, no sois más que bolsas de dinero andantes. Un mercader de {s1} me ha ofrecido una buena suma por vuestras cabezas.
 dlga_troublesome_bandits_intro_2:close_window|¡{Un/Una} cazarrecompensas!... ¡Odio a los cazarrecompensas! ¡{Matadle/Matadla}! ¡{Matadle/Matadla} ahora!
@@ -3069,7 +3069,7 @@ dlga_european_gunsmith_talk_cozur:european_gunsmith_pistols.1|Quisiera comprar u
 dlga_european_gunsmith_pistols:european_gunsmith_pistols2.1|¡Ah, {playername} , usted es la persona más gentil, noble y hermosa! Estas espadas te harán invencible en cualquier pelea. Podría venderte cada espada por ¡sólo 10000 monedas! Lo sé, es un crimen, pero vuestra cara me dice que sois honesto.
 dlga_european_gunsmith_pistols2:european_gunsmith_talk.4|Tomaré la espada que perteneció a Mazdhan.
 dlga_european_gunsmith_pistols2:european_gunsmith_talk.5|Tomaré la espada que perteneció a Hazrak.
-dlga_european_gunsmith_pistols2:european_gunsmith_talk.6|Tomaré la espada que perteneció a Zharaq.
+dlga_european_gunsmith_pistols2:european_gunsmith_talk.6|Tomaré la espada que perteneció a Zharaq Zo el Libertador, de la familia Loraq.
 dlga_european_gunsmith_pistols2:european_gunsmith_talk.7|Esperad, cancelad esa orden.
 dlga_start:close_window.73|Dorior darion udrirzi mijessis.
 dlga_start:close_window.74|Dorior darion udrirzi mijessis.
@@ -3517,9 +3517,9 @@ dlga_pj_clansman_talk:pj_clansman_talk2.5|¿Sois Rugen?
 dlga_pj_clansman_talk3:pj_clansman_talk5.3|Mi nombre es {playername}. Me envía Illyrio Mopatis, directamente desde Pentos, para entregaros un mensaje.
 dlga_pj_clansman_talk5:pj_clansman_talk6.4|Ah, sí, el mensaje. Hmm, bien hecho {playername}. Vamos a mantener esto entre nosotros, ¿eh? Aquí tenéis un poco de... eh... incentivo.
 dlga_pj_clansman_talk6:pj_clansman_talk8.1|¿Me necesitáis para llevarle la respuesta?
-dlga_pj_clansman_talk8:pj_clansman_talk9|Bueno, ah, si os dirigís de nuevo a Pentos, quizás podríais llevarle mi respuesta. Tendrá que guardar silencio acerca de sus acciones, obviamente.
+dlga_pj_clansman_talk8:pj_clansman_talk9|Bueno, si os dirigís de nuevo a Pentos, quizás podríais llevarle mi respuesta. Tendréis que guardar silencio acerca de vuestras acciones, obviamente.
 dlga_pj_clansman_talk9:close_window|Muy bien.
-dlga_pj_clansman_talk9:close_window.1|No puedo llevar éso ahora mismo.
+dlga_pj_clansman_talk9:close_window.1|No puedo llevar eso ahora mismo.
 dlga_start:pj_clansman_talk.6|¿Sí, {playername}?
 dlga_pj_clansman_talk:pj_clansman_talk2.6|Rugen me pidió entregaros su respuesta.
 dlga_pj_clansman_talk2:pj_clansman_talk3.5|Oh, espléndido, {playername}. Me habéis sido de gran ayuda. ¿Ahora podríais hacerme otro favor?
@@ -3572,7 +3572,7 @@ dlga_pj_clansman_talk3:pj_clansman_talk4.4|Aquí tenéis.
 dlga_pj_clansman_talk4:pj_clansman_talk5.4|Hmm...
 dlga_pj_clansman_talk5:pj_clansman_talk6.9|El príncipe debería oír esto. Visitad el castillo y entregadle esta carta al Maestre Caleotte.
 dlga_pj_clansman_talk6:pj_clansman_talk7.2|Ehm, sea...
-dlga_pj_clansman_talk6:close_window.7|No puedo llevar éso ahora mismo.
+dlga_pj_clansman_talk6:close_window.7|No puedo llevar eso ahora mismo.
 dlga_pj_clansman_talk7:close_window.4|Bien.
 dlga_pj_clansman_talk:close_window.9|Olvidadlo.
 dlga_start:pj_clansman_talk.11|¿Sí?
@@ -3580,7 +3580,7 @@ dlga_pj_clansman_talk:pj_clansman_talk2.11|Me pidieron que os trajera esto.
 dlga_pj_clansman_talk2:pj_clansman_talk3.10|Ah sí... {playername}, veamos. El Magíster Illyrio habla muy bien de vos en esta carta, habéis prestado al príncipe una gran ayuda.
 dlga_pj_clansman_talk3:pj_clansman_talk4.5|Me alegro.
 dlga_pj_clansman_talk4:pj_clansman_talk5.5|Hmm...
-dlga_pj_clansman_talk5:pj_clansman_talk6.10|Me parece que el Magíster no ofrecía una recompensa adecuada para a los que os habéis enfrentado... Así que me aseguraré de que reciba una recompensa apropiada, dando por seguro que de vuestra boca no saldra ni una palabra sobre nuestro acuerdo... Las palabras son como flechas, una vez disparadas ya no se las puede llamar de regreso, y una flecha perdida puede derribar incluso a un príncipe.
+dlga_pj_clansman_talk5:pj_clansman_talk6.10|Me parece que el Magíster no os ha ofrecido una recompensa adecuada a lo que os habéis enfrentado... Así que me aseguraré de que sea más apropiada, dando por sentado que de vuestra boca no saldra ni una palabra sobre nuestro acuerdo... Las palabras son como flechas, una vez disparadas ya no se las puede llamar de regreso, y una flecha perdida puede derribar incluso a un príncipe.
 dlga_pj_clansman_talk6:pj_clansman_talk7.3|Jamás diré una palabra de lo que he visto ni oído a vuestro servicio.
 dlga_pj_clansman_talk7:close_window.5|Bien, bien. Aceptad esto como una recompensa adecuada a vuestras hazañas entonces, {playername}, y recordad vuestra promesa. La tormenta se nos echa encima...
 dlga_pj_clansman_talk:close_window.10|Olvidadlo.
@@ -3617,15 +3617,15 @@ dlga_morcant_creditos:close_window.1|Soy Rodrik Cassel, castellano y maestro de 
 dlga_pj_wildfire_talk:close_window.6|No importa.
 dlga_start:wildfire_starter_introduce_1.2|¿Sí?
 dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.2|¿Tenéis alguna tarea más para mí?
-dlga_wildfire_starter_introduce_2:wildfire_starter_introduce_3|No, no en este momento, pero he oído que uno de los inquilinos de Cairnhall ha estado buscando un caballero para deshacerse de un espectro... De todos modos, ha estado pasando el rato en la taberna. También escuché al capitán de los guardias de Lord Swann, Ser Clifford Gower, hablar de algunas cartas que necesitan entregar a algún señor menor. Ser Clifford salió a cazar esta mañana, pero debería estar de vuelta en un par de horas. Ah, y si tenéis tiempo, {playername}, necesito que esta carta sea entregada al archimaestre Harodon en la Ciudadela de Antigua.
-dlga_wildfire_starter_introduce_3:close_window|Muy bien.
-dlga_wildfire_starter_introduce_3:close_window.1|Ahora mismo no puedo llevar ésto.
+dlga_wildfire_starter_introduce_2:wildfire_starter_introduce_3|No, no en este momento, pero he oído que uno de los inquilinos del Refugio del Montículo ha estado buscando un caballero para deshacerse de un espectro... De todos modos, ha estado pasando el rato en la taberna  y también escuché al capitán de los guardias de Lord Swann, Ser Clifford Gower, hablar de algunas cartas que se necesitan entregar a algún señor menor. Ser Clifford salió a cazar esta mañana, pero debería estar de vuelta en un par de horas. Ah, y si tenéis tiempo, {playername}, necesito que esta carta sea entregada al archimaestre Harodon en la Ciudadela de Antigua.
+dlga_wildfire_starter_introduce_3:close_window|Puedo llevarla.
+dlga_wildfire_starter_introduce_3:close_window.1|No puedo llevarla.
 dlga_start:close_window.137|Estoy ocupado.
 dlga_start:wildfire_talk.2|{playername}.
 dlga_wildfire_talk:wildfire_talk2.1|¿Cómo sabéis mi nombre?
 dlga_wildfire_talk:close_window.2|Adiós.
 dlga_wildfire_talk2:wildfire_talk3.4|El Señor de Luz otorgará a sus siervos visiones del futuro, si los considera dignos.
-dlga_wildfire_talk3:wildfire_talk5.2|Sé por qué has venido. El Señor de Luz me ha mostrado el futuro. Stannis Baratheon es el salvador del mundo, Azor Ahai vino de nuevo, renacido en medio del humo y la sal. Él empuña a Portadora de Luz, la Espada Roja de los Héroes. Se ha predicho que llegará un día tras un largo verano, un día en que las estrellas sangrarán y el aliento gélido de la oscuridad descenderá sobre el mundo. En esa hora espantosa, un guerrero sacará del fuego una espada llameante. Y esa espada será Dueña de Luz, la Espada Roja de los Héroes, y el que la esgrima será Azor Ahai renacido, y la oscuridad huirá a su paso.
+dlga_wildfire_talk3:wildfire_talk5.2|Sé por qué habéis venido. El Señor de Luz me ha mostrado el futuro. Stannis Baratheon es el salvador del mundo, Azor Ahai vendrá de nuevo, renaciendo en medio del humo y la sal. Empuñando la Dueña de Luz, la Espada Roja de los Héroes. Se ha predicho que llegará un día tras un largo verano, en que las estrellas sangrarán y el aliento gélido de la oscuridad descenderá sobre el mundo. En esa hora espantosa, un guerrero sacará del fuego una espada llameante. Y esa espada será la Dueña de Luz,la Portadora de luz, la Espada Roja de los Héroes. Su portador será Azor Ahai renacido y la oscuridad huirá a su paso.
 dlga_wildfire_talk5:wildfire_talk6.4|Pero ¿qué pasa con Renly?
 dlga_wildfire_talk6:wildfire_talk7.3|Renly Baratheon no tiene ninguna importancia. R'hllor ya me ha mostrado su futuro y su hora se acerca. El rey no puede verlo por sí mismo, pero Renly debe morir para despejar el camino para que Stannis se siente el Trono de Hierro y pueda ejercer el poder necesario para salvar al mundo.
 dlga_wildfire_talk7:wildfire_talk8|¿Pero cómo?
@@ -3643,17 +3643,17 @@ dlga_wildfire_talk6:wildfire_talk7.4|¿Adoráis a los Siete, {playername}? ¿Que
 dlga_wildfire_talk7:wildfire_talk8.1|Lo hago.
 dlga_wildfire_talk7:wildfire_talk9|No lo hago.
 dlga_wildfire_talk8:close_window.1|Entonces te digo 'bahhh'. Id a correr en el barro con las otras ovejas, y dejadnos a los hombres ilustrados para poder continuar con nuestro trabajo.
-dlga_wildfire_talk9:close_window|Ah, un hombre culto es lo que es usted entonces. Bien hecho diría. Demasiados necios supersticiosos se revuelcan en el barro, siempre buscando respuestas que nunca encontrarán. Marwyn podría decirle todo acerca de lo que se siente al revolcarse por allií abajo.
+dlga_wildfire_talk9:close_window|Parecéis ser un hombre culto, una singularidad de agradecer en los tiempos que corren, donde demasiados necios supersticiosos ni siquiera buscan respuestas, donde muchos simplemente aceptan vivir en la ignorancia, con unas creencias preestablecidas. Marwyn el Mago podría tener más información.
 dlga_start:close_window.139|¿Sí?
 dlga_start:wildfire_talk.4|¿Sí? ¿En qué puedo ayudaros?
 dlga_wildfire_talk:wildfire_talk2.3|¿Quién sois?
 dlga_wildfire_talk:close_window.4|Adiós.
 dlga_wildfire_talk2:wildfire_talk3.6|¡Un Archimaestre de la Ciudadela! Aunque hay un montón de ellos alrededor de nosotros, en estos días el cónclave ordenará a cualquier hombre que haya leído un libro con ese título. Basta con mirar a Harodon. El tonto más grande que podrías encontrar en leguas a la redonda. La fe puede ser mezquina, terca y cruel, pero los septones todavía tienen más poder de lo que nunca tendremos nosotros, asesores de los señores y señoras. Es imprudente enemistarse con los que tienen más poder que uno mismo.
-dlga_wildfire_talk3:wildfire_talk5.3|No me oiréis defender a los septones siquiera. Ellos han quemado más libros de los que puedo pensar. Imagínese lo que sabríamos del pasado, si no fuera por Baelor Targaryen. Todos esos libros, perdidos, y ¿para qué? Algú rey tonto, medio niño, que se jacta de ser más que un hombre, más que un rey. Baelor se veía a sí mismo como la encarnación de los Siete, un dios hecho carne.
+dlga_wildfire_talk3:wildfire_talk5.3|No me oiréis defender a los septones siquiera. Ellos han quemado más libros de los que puedo llegar a imaginar... Pero quien sabe el conocimiento que tendríamos del pasado, si no fuera por Baelor Targaryen y todos esos libros perdidos. ¿Y todo para qué?. Para que ese rey débil y fanático religiosos nombrara como septón supremo a todo aquel que pensara que era una reencarnación de la Fe de los Siete y prosiguiera con la persecución a libros contrarios a sus ideas.
 dlga_wildfire_talk5:wildfire_talk6.6|Muy bien...
 dlga_wildfire_talk6:wildfire_talk7.5|Todo está aquí en los libros. La evidencia. Sólo tienes que buscar. La mayoría de gente no lo hace. Ellos leen algún libro estúpido para señores y damas aburridas, y piensan que entienden la forma en que funciona el mundo. Pero sin una formación adecuada, ¿cómo van a ser capaces de ver el mundo por lo que es realmente es. Bah, nada peor que algún ignorante sabe-lo-todo. Pero ah, demasiada chusma. Cosas más importantes están en marcha en el mundo. ¿Sabías que la Ciudadela está siempre buscando obras perdidas? Libros, pergaminos, libros de contabilidad. ¿Estaríais interesado en encontrar esos artículos para nosotros, {playername}?
 dlga_wildfire_talk7:wildfire_talk8.2|Estoy interesado.
-dlga_wildfire_talk8:close_window.2|Ah, bueno. Los libros son valiosos, ya sabes. Una sola copia de "Dragones, anfípteros y guivernos. Historia antinatural" del septón Barth valdría más que una espada de acero valyrio. ¡Imagínelo, {playername}! Por desgracia, Baelor fue exhaustivo en la destrucción de todos los escritos de Barth. Pero ya es suficiente de hablar sobre esto. Si quiere ayudarnos a conservar el conocimiento del pasado, viaje a Desembarco del Rey. La Ciudadela cuenta con un proxeneta en la ciudad, que siempre recorre las librerías en busca de obras desconocidas, pero a menudo necesita hombres que puedan viajar más lejos de la ciudad y recoger los libros de otros lugares. Su nombre es Malko, se le puede encontrar en la Calle de los Hojalateros. Dirige una tienda que se llama, ¿puede creerlo?, Librería de Malko.
+dlga_wildfire_talk8:close_window.2|Bueno algunos libros son valiosos... Una sola copia de "Dragones, anfípteros y guivernos. Historia antinatural" del septón Barth valdría más que una espada de acero valyrio. ¡Así que sacad vos las conlusiones, {playername}! Por desgracia, Baelor fue exhaustivo en la destrucción de todos los escritos de Barth. Pero bueno ya es suficiente de hablar sobre esto. Si quieréis ayudarnos a conservar el conocimiento del pasado, viaje a Desembarco del Rey. La Ciudadela cuenta con un proxeneta en la ciudad, que siempre recorre las librerías en busca de obras desconocidas, pero a menudo necesita hombres que puedan viajar fuera de la ciudad y recoger los libros por Poniente y Essos. Su nombre es Malko, se le puede encontrar en la Calle de los Hojalateros donde regenta la Librería de Malko.
 dlga_wildfire_talk7:close_window.5|No me interesa.
 dlga_start:close_window.140|¿Sí?
 dlga_start:wildfire_talk.5|¡Ah, un cliente! ¿Cómo puedo ayudaros, buen hombre?
@@ -3664,8 +3664,8 @@ dlga_wildfire_talk3:wildfire_talk4.3|¿Qué hace un proxeneta?
 dlga_wildfire_talk4:wildfire_talk5.3|Ellos consiguen libros. Tengo muchos contactos en los Siete Reinos, y no creeríais el tipo de conocimiento perdido por los señores y caballeros del reino escondido en sus bodegas. Una vez, encontré un tomo del Septon Barth 'Dragones, Sierpes y Wyverns: Su Historia Antinatural' usándose como un mantel en la habitación de un viejo caballero ciego. Vendido a Tyrion Lannister por el rescate de un rey. Incluso la propia Ciudadela no puede superar la oferta de un Lannister. Pero son mis clientes más persistentes, los maestres.
 dlga_wildfire_talk5:wildfire_talk6.7|Pero, ¿para qué me necesitáis?
 dlga_wildfire_talk6:wildfire_talk7.6|No puedo dejar mi negocio para ir correteando alrededor del mundo en busca de los libros, pero no puedo enviar un escriba suave en mi lugar tampoco. Incluso en el mejor de los casos, los caminos pueden ser peligrosos. Pero vos parecéis un tipo resistente, y tengo que trabajar para alguien difícil. He oído rumores de un libro, escondido en el Valle. Podría haber varios libros que te digan la verdad. Se hace referencia en varios textos, más notablemente en uno de los fragmentos de Barth. Se conoce por diferentes nombres. Los sueños de Azathoth. Nombres Muertos. Pero es más conocido como Los Misterios del Gusano. Quién sabe cuál es el real. Creo que es un mito, pero ¡imagina que no! ¡Podríamos vender el libro a los maestres por riquezas inimaginables!
-dlga_wildfire_talk7:wildfire_talk8.3|¿Es muy valioso? 
-dlga_wildfire_talk8:close_window.3|Ah, no realmente. Marwyn escribe que el pueblo de Asshai cuenta relatos sobre el libro. Se supone que es una introducción a todo tipo de magia. Supersticiones tontas. Pero los maestres han trabajado mucho y muy duro para erradicar los supuestos libros de texto mágicos, y encontrar libros como estos podría hacer que muchos de sus esfuerzos resultasen inútiles. Así que pagarían bien por verlo destruido. Según mis fuentes, un septon ha estado haciendo mención de un libro mágico en la parte noroeste del Valle. Id allí y hablad con él, {playername}, averiguad si hay algo de verdad en todo esto. Os recompensaré generosamente, y esto es solo un anticipo.
+dlga_wildfire_talk7:wildfire_talk8.3|¿Es de gran valor? 
+dlga_wildfire_talk8:close_window.3|No es tanto el valor del libro, del que Marwyn escribe que el pueblo de Asshai cuenta historias sobre que el libro es una introducción a todo tipo de magia. Supersticiones tontas sin duda. Pero los maestres han trabajado mucho y muy duro para erradicar y desprestigiar los supuestos libros mágicos, y la aparición de libros como estos supondría un descrédito para los maestres. Y ahí es donde radica su valor, ya que pagarían una buena cantidad de venados de plata por verlo destruido. Según mis fuentes, un septón ha estado haciendo mención a un libro mágico en la parte noroeste del Valle. Id allí y hablad con él, {playername}, averiguad si hay algo de verdad en todo esto. Os recompensaré generosamente, y esto es solo un anticipo.
 dlga_start:close_window.141|¿Sí?
 dlga_start:wildfire_talk.6|¿Una bendición, buen hombre? El Padre es toda la protección que necesitáis. dejad vuestras armas y regocijaos ante la luz sagrada.
 dlga_wildfire_talk:wildfire_talk2.5|Estoy buscando un libro.
@@ -3675,7 +3675,7 @@ dlga_wildfire_talk3:wildfire_talk4.4|¿Los Misterios del Gusano?
 dlga_wildfire_talk4:wildfire_talk5.4|Nunca lo había escuchado. El único libro que un hombre de fe necesita es La Estrella de Siete Puntas. Todo lo demás es sólo el conocimiento del mundo, que pronto será olvidado. ¿Por qué perder el tiempo con los libros sobre las plantas cuando se podía mostrar su devoción a los Siete en su lugar?\n
 dlga_wildfire_talk5:wildfire_talk6.8|¿Así que usted no ha oído nada acerca de un libro? Que raro.
 dlga_wildfire_talk6:wildfire_talk7.7|No he oído nada sobre mucho últimamente. Se trata de un rincón remoto del mundo, mi pequeño lugar de culto. El pueblo llano por aquí es simple, con necesidades simples y sueños simples.
-dlga_wildfire_talk7:wildfire_talk8.4|¿Conoce a alguien que pudiera tener conocimiento de los libros en la zona?
+dlga_wildfire_talk7:wildfire_talk8.4|¿Conocéis a alguien que pudiera tener conocimiento del paradero de los libros en la zona?
 dlga_wildfire_talk8:close_window.4|No recuerdo eso. Aunque quizás Ser Elston haya oído algo. Sus tierras están al este de aquí , a los pies de las montañas. Estamos muy aislados aquí, pero si alguien ha oído algo sobre los libros , es sin duda Ser Elston o su maestre. 
 dlga_start:close_window.142|¿Sí?
 dlga_start:wildfire_talk.7|Pésimo tiempo, ¿no? Se siente ... agrio. Algo está mal con él.
@@ -3687,7 +3687,7 @@ dlga_wildfire_talk4:wildfire_talk5.5|¿Los Misterios del Gusano? Puedo ver por t
 dlga_wildfire_talk5:wildfire_talk6.9|¿Puedo hablar con el maestre Cadwyn ?
 dlga_wildfire_talk6:wildfire_talk7.8|No temas, {playername}.
 dlga_wildfire_talk7:wildfire_talk8.5|¿Por qué no?
-dlga_wildfire_talk8:close_window.5|Se suicidó. Hace dos dias. Se cortó su propia garganta. Mala forma de irse de este mundo. Es este aire agrio. Vuelve a todos locos. Él divagaba durante días, ya sabéis. Gritó algo acerca de la Larga Noche. Acerca de grandes arañas blancas y espíritus que subían y bajaban un muro... su viaje al túmulo le cambió ... nunca deberíais visitar los túmulos, {playername}, los muertos duermen mejor cuando no son perturbados ...
+dlga_wildfire_talk8:close_window.5|Se suicidó. Hace dos dias. Se cortó su propia garganta. Mala forma de irse de este mundo, dejando rumores que pueden volver a todos locos. En ocasiones divagaba durante días, ya sabéis. Gritó algo acerca de la Larga Noche, arañas de hielo gigantes y espíritus que subían y bajaban un muro... su viaje al túmulo le cambió... No deberíais visitar los túmulos, {playername}, los muertos duermen mejor cuando no son perturbados...
 dlga_start:close_window.143|¿Sí?
 dlga_start:wildfire_talk.8|Ah, {playername}! Dime, ¿has encontrado el libro? 
 dlga_wildfire_talk:wildfire_talk2.7|No lo hice.
@@ -3697,8 +3697,8 @@ dlga_wildfire_talk3:wildfire_talk4.6|Yo he oído de un fragmento del libro.
 dlga_wildfire_talk4:wildfire_talk5.6|¿Lo hiciste? ¡Cuéntame más!
 dlga_wildfire_talk5:wildfire_talk6.10|Un maestre encontró una pista o una brizna de notas relativas a la misma. Traté de encontrar donde estaba, pero lo único que encontré fue un hombre enloquecido que había sacrificado a un viejo árbol. Había escrito el nombre 'YGG' en una piedra, con la sangre de una de sus víctimas.
 dlga_wildfire_talk6:wildfire_talk7.9|¿'Ygg', decís? Qué extraño. Los hijos del hierro cuentan cuentos de cómo su legendario gobernante, El Rey Gris, esculpió el primer barcoluengo de un árbol llamado Ygg. Supuestamente, un demonio vivía en el árbol, un demonio con el poder de ver el futuro. Cualquier persona que tuviese su futuro contado por Ygg haría inevitable su encuentro con la tragedia. Ygg siempre elegía para predecir el futuro una manera que pudiese causar el mayor dolor al mundo.
-dlga_wildfire_talk7:wildfire_talk8.6|¿Es la historia real? 
-dlga_wildfire_talk8:close_window.6|Ah, no realmente. Como lo podría ser. ¿Un demonio que vive en un árbol? Suena como el maestre que mencionasteis que quedó atrapado en un cuento de fantasía salida de su imaginación. Pero olvídese de eso, {playername}. Al menos trató de encontrar el libro. Eso es digno de una recompensa.
+dlga_wildfire_talk7:wildfire_talk8.6|¿Es su historia verdad? 
+dlga_wildfire_talk8:close_window.6|No se sabe realmente, pero... ¿Cómo podría ser que en verdad existieran tales demonios? Suena como si el maestre se hubiera quedado atrapado en sus propios cuentos de terror, con criaturas legendarias producto de su imaginación. No le busquéis mayor sentido a los delirios de un hombre fantasioso, {playername}. Habéis tratado de encontrar el libro y eso es digno de una recompensa.
 dlga_start:close_window.144|¿Sí?
 dlga_start:wildfire_talk.9|¿Sí? ¿Puedo ayudaros?
 dlga_wildfire_talk:wildfire_talk2.8|¿Ser Clifford? El Septon Garibald me dijo que necesitabais a alguien para entregar una carta.
@@ -3733,7 +3733,7 @@ dlga_start:wildfire_talk.12|{playername}! Hah! ¿Visteis el aspecto del rostro d
 dlga_wildfire_talk:wildfire_talk2.11|Sí
 dlga_wildfire_talk:wildfire_talk2_no|No.
 dlga_wildfire_talk2:wildfire_talk3.14|Oh, bueno, eso hace que todo sea mucho más fácil. ¡Un caballero! ¿En serio? Espléndido. ¿Tenéis vuestra propia armadura? ¿Espada, casco, caballo? Ah, bueno, de cualquier manera, para mí sería un honor si me dejarais proveeros de todo lo que necesiteis. {playername}, durante el juicio, ¿no os disteis cuenta de cómo algunos de los caballeros y las damas parecían aprobar vuestra solicitud? Ser Raymun no es muy querido, y ha habido historias ... jóvenes campesinas ya se han quejado antes ... de cualquier manera, creo que no sólo el pueblo llano, sino una gran parte de los nobles estarán de vuestro lado durante esta lucha. ¿Por qué, os preguntaréis? Bueno, un caballero ha jurado proteger a los débiles. Hicisteis honor a esos votos.
-dlga_wildfire_talk2_no:wildfire_talk3|Oh bueno, supongo que no importa. ¿Tenéis vuestra propia armadura? ¿Espada, casco, caballo? Ah, bueno, de cualquier manera, para mí sería un honor si me dejarais proveeros de todo lo que necesiteis. {playername}, durante el juicio, ¿no os disteis cuenta de cómo algunos de los caballeros y las damas parecían aprobar vuestra solicitud? Ser Raymun no es muy querido, y ha habido historias ... jóvenes campesinas ya se han quejado antes ... de cualquier manera, creo que no sólo el pueblo llano, sino una gran parte de los nobles estarán de vuestro lado durante esta lucha.
+dlga_wildfire_talk2_no:wildfire_talk3|Bueno, supongo que no importa. ¿Tenéis vuestra propia armadura, armas y caballo?. Bueno, de cualquier manera, para mí sería un honor proveeros de todo lo que necesiteis, {playername}. Durante el juicio, ¿no os habéis dado cuenta de cómo algunos de los caballeros y las damas parecían aprobar vuestra solicitud? Ser Raymun no es muy querido, son muchas las historias que circulan sobre él... jóvenes campesinas ya se han quejado antes... de cualquier manera, creo que no sólo el pueblo llano, sino también una gran parte de los señores estarán de vuestro lado durante esta lucha.
 dlga_wildfire_talk3:wildfire_talk4.10|Supongo que sí.
 dlga_wildfire_talk4:wildfire_talk5.10|¿Conocéis las reglas de un juicio por combate, {playername}? La lucha termina cuando cualquiera de los dos se rinde o muere, cuando el acusador retira su acusación, o cuando el acusado admite su delito y se declara culpable. Tendéis que matar a Ser Raymun, o forzarlo a ceder y que retire sus acusaciones.
 dlga_wildfire_talk5:wildfire_talk6.14|Muy bien.
@@ -3741,7 +3741,7 @@ dlga_wildfire_talk6:wildfire_talk7.13|Imagino que no hay mucho más que decir. E
 dlga_wildfire_talk7:close_window.9|Ya veo.
 dlga_start:close_window.148|Duerma un poco, {playername}, el juicio comenzará mañana.
 dlga_start:wildfire_talk.13|¿Sí? ¿Puedo ayudaros?
-dlga_wildfire_talk:wildfire_talk2.12|¿Sois de Cairnhall?
+dlga_wildfire_talk:wildfire_talk2.12|¿Sois de Piedratumular?
 dlga_wildfire_talk:close_window.10|Adiós.
 dlga_wildfire_talk2:wildfire_talk3.15|Ah sí, sí, me llamo Tom, el anciano me ha enviado aquí para encontrar a un caballero, ¡auténtico y honorable!
 dlga_wildfire_talk3:wildfire_talk4.11|Ehm, sí... el septón Garibald me comentó que habíais estado problemas con un, ehm... ¿espectro?
@@ -3760,7 +3760,7 @@ dlga_pj_wildfire_talk3:pj_wildfire_talk5.4|Pues parece que habéis causado un gr
 dlga_pj_wildfire_talk5:close_window.2|Ah, pero entonces yo tendría que haberles explicado lo que significa 'excavar', y antes de lo que os podéis imaginar, vendrían todos aquí para que bendijera sus vacas, curara sus heridas y casara a sus hijas. Mantener a los ignorantes campesinos lejos de mí, me permitirá morir como un hombre feliz.
 dlga_start:pj_wildfire_talk.8|¿Sí, {playername}?
 dlga_pj_wildfire_talk:close_window.8|No importa.
-dlga_pj_wildfire_talk:morcant_creditos.2|¿Qué me podéis contar sobre Cúmulo de Piedras?
+dlga_pj_wildfire_talk:morcant_creditos.2|¿Qué me podéis contar sobre Piedratumular?
 dlga_morcant_creditos:close_window.2|Bueno... cultivamos buenas remolachas...
 dlga_pj_wildfire_talk:pj_wildfire_talk2.8|Tom, ya me he, ehm, ocupado del... espectro.
 dlga_pj_wildfire_talk2:pj_wildfire_talk3.8|¿De verdad? ¡Bien hecho, Ser! ¡Sabía que un verdadero caballero no tendría problema en hacer frente a ese demonio! ¡Cualquier hombre temeroso de su Fe no podría tolerar a esa bestia inmunda! Así que, por favor, ¡tomad esto como agradecimiento!
@@ -3775,7 +3775,7 @@ dlga_wildfire_talk:close_window.11|Adiós.
 dlga_wildfire_talk2:wildfire_talk3.16|Ah, Gueren. Problemas, dice. Estamos en extrema necesidad de ayuda, {playername}. El Lord Comandante Mormont marchó al norte del Muro con casi la tercera parte de todas nuestras fuerzas. Sólo unos pocos han regresado. La Guardia está muy debilitada, {playername}, y los Siete Reinos están divididos y sumidos en un absoluto caos. No podemos esperar ayuda de ninguno de esos reyes.
 dlga_wildfire_talk3:wildfire_talk4.12|¿En qué puedo ayudar?
 dlga_wildfire_talk4:wildfire_talk5.12|Uno de nuestros hermanos, Jon, ha vuelto hace poco con nosotros. Se hizo pasar por salvaje para sobrevivir, y nos ha traído una valiosa información sobre su posición y su propósito. Jon dejó a los salvajes al sur de Villa Topo y seguramente todavía estarán rondando la zona.
-dlga_wildfire_talk5:wildfire_talk6.16|Ajá... ¿qué queréis que haga yo?
+dlga_wildfire_talk5:wildfire_talk6.16|Mmm... ¿Qué queréis que haga?
 dlga_wildfire_talk5:close_window.4|Adiós.
 dlga_wildfire_talk6:wildfire_talk7.15|Hemos reunido a un grupo de hombres para interceptar al Magnar y derrotar a su banda de saqueadores, pero Bowen Marsh ha partido al oeste para defender la Torre Sombría con lo que quedaba de nuestra guarnición, y necesitamos a alguien que los lidere. Jon todavía está demasiado débil para levantarse de la cama y Donal Noye debe permanecer aquí para encabezar la defensa. El resto de nuestros jóvenes hermanos están ansiosos por luchar, pero carecen de experiencia. Gerold mencionó vuestras hazañas en las Colinas Solitarias y confío plenamente en su buen juicio. Debéis liderar a los hermanos de la Guardia de la Noche, {playername}.
 dlga_wildfire_talk7:close_window.12|Muy bien, ¡acabaré con el Magnar!
@@ -3793,9 +3793,9 @@ dlga_wildfire_talk:wildfire_talk2.14|Me envía el maestre Aemon, con noticias de
 dlga_wildfire_talk2:wildfire_talk3.17|Bueno, soltadlo entonces. No soy un caballero de pompa y remilgos. No me gusta perder el tiempo con formalidades.
 dlga_wildfire_talk3:wildfire_talk4.13|Los salvajes marchan contra el Muro. Frenamos a una avanzadilla en Villa Topo.
 dlga_wildfire_talk4:wildfire_talk5.13|Bueno, entonces supongo que al menos viviremos otro día, ¿no? No veo por qué Aemon no envió directamente un cuervo con estas noticias. ¿Para qué estáis aquí? Ah, ya veo. ¿Quiere que envíe al Castillo Negro a mis hombres para defenderlo del ataque? ¡Ese inepto de Bowen Marsh tuvo que llevarse a un buen puñado sólo para atender a una absurda distracción! ¡Bien! Decidle a Aemon que Guardiaoriente responderá. Enviaré a tantos hombres como pueda prescindir, incluso a Emmet. Cada uno de mis muchachos equivale a tres de los salvajes más experimentados.
-dlga_wildfire_talk5:wildfire_talk6.17|Muy bien, llevaré vuestra respuesta a Aemon.
+dlga_wildfire_talk5:wildfire_talk6.17|Perfecto, regresaré con estas noticias para el Maestre Aemon.
 dlga_wildfire_talk5:close_window.5|Adiós.
-dlga_wildfire_talk6:wildfire_talk7.16|¡Bien! ¡Y de paso recordadle a Bowen que es un inútil de mi parte!
+dlga_wildfire_talk6:wildfire_talk7.16|¡Entendido! ¡No os olvidéis de recordarle a Bowen March Viejo Granada que es un inepto!
 dlga_wildfire_talk7:close_window.14|Em, sí...
 dlga_wildfire_talk7:close_window.15|No me interesa.
 dlga_start:close_window.152|¿Sí, {playername}?
@@ -3808,13 +3808,13 @@ dlga_pj_wildfire_talk:morcant_creditos.4|¿Qué podéis contarme sobre el Castil
 dlga_morcant_creditos:close_window.4|Ah, {playername}, me temo que tendréis que disculparme. Tal vez podáis preguntarle a Clydas...
 dlga_pj_wildfire_talk:close_window.10|No importa.
 dlga_start:wildfire_talk.16|¿Sí? ¿Quién sois?
-dlga_wildfire_talk:wildfire_talk2.15|Me envía el maestre Aemon, para saber de Bowen Marsh.
-dlga_wildfire_talk2:wildfire_talk3.18|Ah, muy bien. ¿Pero no sois un hermano, verdad? Ah, no importa, no importa, necesitamos ayuda venga de donde venga. Lord Marsh estaba bien la última vez que lo vi, {playername}. Se llevó a la mayoría de mis hombres a la Garganta, para proteger el Puente de los Cráneos.
+dlga_wildfire_talk:wildfire_talk2.15|Me envía el Maestre Aemon en busca de noticias sobre Ser Bowen Marsh.
+dlga_wildfire_talk2:wildfire_talk3.18|Muy Bien. ¿Pero no sois un hermano, verdad? No importa, necesitamos toda la ayuda que podamos conseguir. Ser Bowen Marsh estaba bien la última vez que lo vi partir a la parte occidental del Muro, {playername}. Se llevó a la mayoría de mis hombres a la Garganta, para proteger el Puente de los Cráneos.
 dlga_wildfire_talk3:wildfire_talk4.14|¿El Puente de los Cráneos?
 dlga_wildfire_talk4:wildfire_talk5.14|Ah, no lo habéis oído antes. El Puente es el único camino que cruza la Garganta, un enorme y profundo desfiladero. Los salvajes a menudo descienden a la Garganta para cruzar el Muro. Tuvimos informes de que un gran número de salvajes se estaban agrupando en la zona, así que Lord Marsh cogió a la mayor parte de nuestras fuerzas para defender el Puente.
-dlga_wildfire_talk5:wildfire_talk6.18|Cotter Pyke afirma que Bowen Marsh fue un inepto por caer en esa distracción, ¿qué hay de eso...?
+dlga_wildfire_talk5:wildfire_talk6.18|Cotter Pyke, comandante de Guardaoriente del Mar, afirma que Bowen Marsh, Primer Mayordomo del Castillo Negro, fue un inepto por haber caido en tal distracción...
 dlga_wildfire_talk5:close_window.6|Adiós.
-dlga_wildfire_talk6:wildfire_talk7.17|¡Cotter Pyke! ¡Bah! ¡El bastardo de una moza taberna! ¡el hombre más vil de todo el Muro! Aún así, yo no habría acudido tan rápido con casi todas nuestras fuerzas para proteger la Garganta... Pero bueno, poco se puede hacer ya. De hecho, {playername}, os estaría muy agradecido si pudierais dirigiros a la Garganta. ¡En caso de que los salvajes ataquen, Lord Marsh necesitará toda la ayuda posible!
+dlga_wildfire_talk6:wildfire_talk7.17|¿Cotter Pyke? ¡Bah! ¡El bastardo de una tabernera! ¡El hombre más vil de todo el Muro!. Aún así, yo no habría partido tan rápido con casi todas nuestras fuerzas para proteger la Garganta... Pero bueno, poco se puede hacer ya... Bueno igual algo sí... {playername} os estaría muy agradecido si os desplazarais a la Garganta. ¡En caso de que los salvajes ataquen, Bowen Marsh necesitará toda la ayuda posible!
 dlga_wildfire_talk7:close_window.16|¡Echaré un vistazo a esa Garganta!
 dlga_wildfire_talk7:close_window.17|No me interesa.
 dlga_start:close_window.153|¿Sí, {playername}?
@@ -3827,11 +3827,11 @@ dlga_pj_wildfire_talk:morcant_creditos.5|¿Qué podéis decirme sobre la Torre S
 dlga_morcant_creditos:close_window.5|Ah, {playername}, lo siento pero tendréis que disculparme, el maestre Mullin es el historiador aquí.
 dlga_pj_wildfire_talk:close_window.11|No importa.
 dlga_start:wildfire_talk.17|{playername}. ¿Bowen sigue vivo?
-dlga_wildfire_talk:wildfire_talk2.16|A duras penas, maestre Aemon. ¿Qué ha pasado aquí?
-dlga_wildfire_talk2:wildfire_talk3.19|Otra partida de salvajes nos atacó pero los hicimos retroceder, {playername}. Los salvajes han estado cavando bajo el Muro y han conseguido abrir una brecha hasta uno de los almacenes.
+dlga_wildfire_talk:wildfire_talk2.16|A duras penas, Maestre Aemon. ¿Qué ha pasado aquí?
+dlga_wildfire_talk2:wildfire_talk3.19|Otra partida de salvajes nos atacó pero conseguimos hacer que retrocedieran, {playername}. Los salvajes han estado cavando bajo el Muro y han conseguido abrir una brecha hasta uno de los almacenes.
 dlga_wildfire_talk3:wildfire_talk4.15|¿Qué puedo hacer?
 dlga_wildfire_talk4:wildfire_talk5.15|Uníos a la lucha, {playername}. Nuestros hermanos están defendiendo el Muro lanzando una lluvia de flechas sobre los salvajes. Jon ha tomado a los exploradores que quedan vivos y están manteniendo a raya a los salvajes en los túneles bajo el Muro. Uníos a él y defended el reino, {playername}.
-dlga_wildfire_talk5:wildfire_talk6.19|¿Dónde está la brecha?
+dlga_wildfire_talk5:wildfire_talk6.19|¿Dónde está la brecha del Muro?
 dlga_wildfire_talk5:close_window.7|Adiós.
 dlga_wildfire_talk6:wildfire_talk7.18|Justo al oeste de aquí. ¡Daos prisa!
 dlga_wildfire_talk7:close_window.18|¡Por los Siete Reinos!
@@ -3839,13 +3839,13 @@ dlga_wildfire_talk7:close_window.19|No me interesa.
 dlga_start:close_window.154|¿Sí, {playername}?
 dlga_wildfire_talk:close_window.14|Lo siento, no.
 dlga_start:wildfire_talk.18|¿Sí? Ah, {playername}. ¿Qué noticias traéis?
-dlga_wildfire_talk:wildfire_talk2.17|Hicimos retroceder a los salvajes.
-dlga_wildfire_talk2:wildfire_talk3.20|Ah, muy bien. Pero me temo que nuestra posición es insostenible. Sería diferente si la Guardia hubiera tenido todas sus fuerzas, pero han disminuido mucho desde hace años... nos enfrentamos a una situación sin igual en la larga historia de la Guardia de la Noche.
+dlga_wildfire_talk:wildfire_talk2.17|Hemos logrado hacer retroceder a los salvajes.
+dlga_wildfire_talk2:wildfire_talk3.20|Muy bien. Pero me temo que nuestra posición es insostenible. Sería diferente si la Guardia de la Noche hubiera tenido las fuerzas de antaño para defender el Muro, pero han disminuido mucho desde hace años, tanto el numero como la calidad de los hermanos negros, o como nos gusta llamarnos cuervos... nos enfrentamos a una situación sin igual en la larga historia de los protectores Poniente de lo que existe más allá del Muro...
 dlga_wildfire_talk3:wildfire_talk4.16|¿Qué queréis decir?
-dlga_wildfire_talk4:wildfire_talk5.16|Una vez tras otra, los salvajes se han lanzado contra el Muro. Raymund Barbarroja, Bael el Bardo, Joramun... pero esta vez, es distinto. Somos una sombra de lo que fuimos, y los Stark de Invernalia han marchado al sur. No hay nadie para frenar a los salvajes cuando lancen su ataque final contra el Muro.
+dlga_wildfire_talk4:wildfire_talk5.16|Durante años y años, los salvajes se han lanzado contra el Muro. Comandados por los reyes de Más Allá del Muro como Raymun Barbarroja, Bael el Bardo o Joramun... pero esta vez, es distinto. La Guardia de la Noche somos una sombra de lo que fuimos, y los Stark de Invernalia han marchado al sur. No queda nadie salvo unos cientos de cuervos para frenar a los salvajes cuando lancen su ataque final contra el Muro.
 dlga_wildfire_talk5:wildfire_talk6.20|¡Pero les hicimos retroceder en los túneles!
 dlga_wildfire_talk5:close_window.8|Adiós.
-dlga_wildfire_talk6:wildfire_talk7.19|Una prueba, {playername}. Mance Rayder tiene hombres de sobra y a nosotros nos faltan. No podemos hacer que se retiren ¡pero podemos continuar la lucha! Debéis ir con Jon y decirle que evacue el Castillo Negro. Un Lord Comandante nunca lo haría, pero Lord Mormont se ha ido y todavía tenemos que elegir su sucesor. Puedo ordenar a los hermanos que vayan al sur y se unan a los señores norteños en sus bastiones y castillos. No tenemos oficiales al mando y yo soy el hermano más antiguo de la Guardia de la Noche que queda vivo. Los señores no me acusarán de cobardía, ningún hombre en su sano juicio quisiera llegar a mi edad.
+dlga_wildfire_talk6:wildfire_talk7.19|Una prueba, {playername}. Mance Rayder, como Rey Más Allá del Muro, tiene salvajes de sobra mientras que nosotros no tenemos suficientes cuervos. Por ello no podemos hacer que se retiren, pero si podemos continuar luchando. Debéis hablar con Jon Nieve para que evacue el Castillo Negro. Un Lord Comandante nunca lo haría, pero Lord Mormont, se ha ido a una gran exploración y todavía no tenemos sucesor. Puedo ordenar a los hermanos negros que vayan al sur y se unan a los señores norteños en sus bastiones y castillos. No tenemos oficiales al mando y yo soy el hermano más antiguo de la Guardia de la Noche que queda vivo. Los señores no podrán acusarme de cobardía, ningún hombre en su sano juicio querría llegar a mi edad...
 dlga_wildfire_talk7:wildfire_talk8.7|Pero ah, antes de partir... tomad un regalo. Cuando me uní a la Guardia de la Noche como maestre, renuncié al apellido de mi antigua familia, pero no lo he olvidado. Cuando Brynden Ríos, apodado Lord Cuervo de Sangre, partió a su última exploración, me confió su espada que antes perteneciera a la hermana de Aegon el Conquistador, Visenya, y que blandía cuando montaba sobre Vhagar, uno de los tres grandes dragones. La ancestral espada valyria de la Casa Targaryen, ¡mi familia!  Conocida con el nombre de Hermana Oscura, su historia es ilustre y orgullosa. Ahora os pertenece, {playername}.
 dlga_wildfire_talk8:close_window.7|Es un honor, mi señor.
 dlga_wildfire_talk8:close_window.8|No estoy interesado.
@@ -3865,10 +3865,10 @@ dlga_start:wildfire_talk.19|¿Sí? ¿Puedo ayudaros?
 dlga_wildfire_talk:close_window.16|Adiós.
 dlga_wildfire_talk2:wildfire_talk3.21|Ah sí, por supuesto.
 dlga_wildfire_talk3:wildfire_talk4.17|¿Qué queréis que haga?
-dlga_wildfire_talk4:wildfire_talk5.17|La mayor parte de los señores de las Tierras de las Corona han jurado lealtad al rey, pero los cercanos al mar han sido... menos fiables en su apoyo. Ser Jeffory Darke aún no ha considerado oportuno presentarse en la corte y se rumorea que va a caballo por toda la región, difundiendo chismes sobre la ascendencia de Joffrey.
+dlga_wildfire_talk4:wildfire_talk5.17|La mayor parte de los señores de las Tierras de las Corona han jurado lealtad al rey, pero los cercanos al mar han sido... Menos fiables en su apoyo. Se empieza a extender la idea de que Ser Jeffory Darke es la persona que esta difundiendo los rumores sobre el posible origen bastardo del rey Joffrey Baratheon producto del incesto entre su madre la reina Cersei Lannister y su tío Jaime Lannister.
 dlga_wildfire_talk5:wildfire_talk6.21|Mmm... ¿Qué queréis que haga?
 dlga_wildfire_talk5:close_window.9|Adiós.
-dlga_wildfire_talk6:wildfire_talk7.20|Los señores tienen que saber que no vamos a tolerar este tipo de comportamiento. El tío de Ser Jeffory fue quien nos alertó sobre el comportamiento de su sobrino. El rey ha tenido a bien sentenciar a Ser Jeffory a muerte y conceder sus tierras a su tío. Necesitamos a alguien que se encargue de ejecutar la sentencia, pero no queremos un largo y prolongado asedio. Hay que infiltrarse en el torreón de Ser Jeffory y poner fin a sus conspiraciones.
+dlga_wildfire_talk6:wildfire_talk7.20|Los señores necesitan saber que no vamos a tolerar este tipo de comportamiento. El tío de Ser Jeffory fue quien nos alertó sobre el comportamiento de su sobrino. El rey ha tenido a bien sentenciar a Ser Jeffory a muerte y conceder sus tierras a su tío. Necesitamos a alguien que se encargue de ejecutar la sentencia, pero no queremos un largo y prolongado asedio. Hay que infiltrarse en el torreón de Ser Jeffory y poner fin a sus conspiraciones.
 dlga_wildfire_talk7:close_window.20|Muy bien, ejecutaré a Ser Jeffory en nombre del Rey Joffrey.
 dlga_wildfire_talk7:close_window.21|No me interesa.
 dlga_start:close_window.157|El Rey está ocupado en este momento y es su Consejo Privado quien trata los asuntos del reino.
@@ -3894,26 +3894,26 @@ dlga_wildfire_talk:wildfire_talk2.18|¿Cómo sabéis mi nombre?
 dlga_wildfire_talk:close_window.17|Adiós.
 dlga_wildfire_talk2:wildfire_talk3.22|Lo he visto en el fuego.
 dlga_wildfire_talk3:wildfire_talk4.18|¿Qué queréis que haga?
-dlga_wildfire_talk4:wildfire_talk5.18|Encuentra las respuestas.
+dlga_wildfire_talk4:wildfire_talk5.18|Que encontréis las respuestas.
 dlga_wildfire_talk5:wildfire_talk6.22|Eh...
 dlga_wildfire_talk5:close_window.10|Adiós.
-dlga_wildfire_talk6:wildfire_talk7.21|Vaya hacia el norte, en el Muro, visite la fortaleza de las sombras, el Fuerte de la Noche.
+dlga_wildfire_talk6:wildfire_talk7.21|Viajad al Norte, en el Muro, visitad la fortaleza de las sombras, el Fuerte de la Noche.
 dlga_wildfire_talk7:close_window.22|Muy bien...
 dlga_wildfire_talk7:close_window.23|No me interesa.
 dlga_start:close_window.159|¿Sí?
 dlga_start:wildfire_talk.21|{playername}.
-dlga_wildfire_talk:wildfire_talk2.19|¿Cómo conoce mi nombre? Quién es usted?
+dlga_wildfire_talk:wildfire_talk2.19|¿Cómo conocéis mi nombre? Quién sois vos?
 dlga_wildfire_talk:close_window.18|Despedirse.
-dlga_wildfire_talk2:wildfire_talk3.23|Vi vuestro nacimiento, y escuchado el nombre que vuestra madre os otorgó mientras os colocaba en su pecho. Observo todo y a todos, con mil y un ojos.
+dlga_wildfire_talk2:wildfire_talk3.23|Vi vuestro nacimiento, y escuché el nombre que vuestra madre os otorgó mientras os colocaba en su pecho. Observo todo y a todos, con mil y un ojos.
 dlga_wildfire_talk3:wildfire_talk4.19|¿Cómo?
-dlga_wildfire_talk4:wildfire_talk5.19|Los árboles lo ven todo, y el tiempo no es de ninguna importancia para ellos. Los arcianos tienen muchos recuerdos. Mi presencia aquí es su memoria.
+dlga_wildfire_talk4:wildfire_talk5.19|Los árboles lo ven todo, el tiempo no tiene ninguna importancia para ellos. Los arcianos tienen muchos recuerdos. Mi presencia aquí es su memoria.
 dlga_wildfire_talk5:wildfire_talk6.23|¿Pero cómo? No entiendo.
 dlga_wildfire_talk5:close_window.11|Adiós.
-dlga_wildfire_talk6:wildfire_talk7.22|Los árboles arcianos se lo mostrarán. Coma esta pasta, y lo verá.
+dlga_wildfire_talk6:wildfire_talk7.22|Los árboles arcianos os lo mostrarán. Comed esta pasta, y lo veréis.
 dlga_wildfire_talk7:close_window.24|Muy bien...
 dlga_wildfire_talk7:close_window.25|No me interesa.
 dlga_start:close_window.160|¿Sí?
-dlga_start:wildfire_talk.22|¡Pruebe este pastel! Está lleno de salsa, cebolla, tocino y ¡príncipe!
+dlga_start:wildfire_talk.22|¡Pruebe este pastel! ¡Está lleno de salsa, cebolla, tocino y príncipe!
 dlga_wildfire_talk:wildfire_talk2.20|¿Está lleno de príncipe?
 dlga_wildfire_talk2:close_window|¡Sabroso príncipe! ¡El rey me hecho daño, y ahora lo va a pagar! ¡LO VA A PAGAR! ¡Las voces me lo dijeron! Me dijeron que el rey estaba bromeando acerca de mis cuchillos! Las voces ... tienen frío, ojos, azules...
 dlga_start:close_window.161|¡Sabroso príncipe, sabroso tocino, rey loco! ¡¿Dónde están mis hijos ?!
@@ -3925,14 +3925,14 @@ dlga_start:wildfire_starter_introduce_1.5|¿Sí?
 dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.6|¿Sabéis de alguien que pudiera tener alguna tarea para mí?
 dlga_wildfire_starter_introduce_2:close_window.5|Mi tío, Ser Gilbert, anda buscando a alguien para que se encargue de algo... poco caballeroso. Creo que está en la taberna.
 dlga_start:close_window.163|¡Alabado sea el Señor de la Luz!
-dlga_start:wildfire_talk.24|¿Sí? ¿Puedo ayudaros?
+dlga_start:wildfire_talk.24|¿Sí? ¿Os puedo ayudar?
 dlga_wildfire_talk:close_window.19|Despedirse.
-dlga_wildfire_talk2:wildfire_talk3.24|Ah sí, por supuesto, por supuesto. Pero tendréis que guardar silencio sobre esto.
+dlga_wildfire_talk2:wildfire_talk3.24|Ah sí, por supuesto, por supuesto. Pero tendréis que guardar silencio sobre todo lo que estáis a punto de conocer.
 dlga_wildfire_talk3:wildfire_talk4.20|¿Qué queréis que haga?
-dlga_wildfire_talk4:wildfire_talk5.20|Antes de que Jaehaerys el Viejo Rey aboliera el derecho de los señores a la primera noche, los Targaryen, visitaban el pueblo llano de Rocadragón ejerciendo su derecho de pernada, y continuaron haciéndolo incluso después de ser abolido. Los bastardos resultantes se conoce como los nacidos de la semilla de dragón. El número de semillas de dragón solía ser abundante en Rocadragón, pero su número ha disminuido en los últimos años. Sin embargo, recientemente un joven ha estado reclamando ser el hijo bastardo del Príncipe Rhaegar.
-dlga_wildfire_talk5:wildfire_talk6.24|Hmm... sigamos.
+dlga_wildfire_talk4:wildfire_talk5.20|Antes de que Jaehaerys, apodado el Viejo Rey, aboliera el derecho de los señores a la primera noche, los Targaryen, visitaban el pueblo llano de Rocadragón ejerciendo su derecho de pernada, y continuaron haciéndolo incluso después de ser abolido. Los bastardos resultantes se les conoce como los nacidos de la semilla de dragón. El número de semillas de dragón solía ser abundante en Rocadragón, pero su número ha disminuido en los últimos años. Sin embargo, recientemente un joven ha estado reclamando ser el hijo bastardo del Príncipe Rhaegar.
+dlga_wildfire_talk5:wildfire_talk6.24|Mmm... sigamos.
 dlga_wildfire_talk5:close_window.12|Adiós.
-dlga_wildfire_talk6:wildfire_talk7.23|Este joven, conocido por el nombre de Lacerys, se ha reunido con algunos de los caballeros de Hull, conocidos por ser descendientes de la Casa Velaryon, y de este modo ser similares a los semillas de dragón. De acuerdo con uno de mis informantes, un hombre llamado Burlow, han estado hablando de entrar a escondidas en el castillo y aplastar a la Guardia Real, tomar como rehén al rey, y proclamar a Lacerys como el verdadero rey de los Siete Reinos. No podemos permitir que esto ocurra. Te necesito, {playername}, para detener a los conspiradores y ejecutar a gran parte de ellos. Se reúnen principalmente por la noche, o cuando la niebla se levanta desde Montedragón, oscureciendo las calles. No queremos hacer una escena, por lo que sólo los mataremos y dejaremos los cuerpos para que los encuentren.
+dlga_wildfire_talk6:wildfire_talk7.23|Este joven, conocido por el nombre de Lacerys, se ha reunido con algunos de los caballeros de Hull, conocidos por ser descendientes de la Casa Velaryon, de aspecto similar a los Targaryen y por tanto a los semillas de dragón. De acuerdo con uno de mis informantes, un hombre llamado Burlow, han estado hablando de entrar a escondidas en el Desembarco del Rey para aplastar a la Guardia Real, tomar como rehén al rey, y proclamar a Lacerys como el verdadero rey de los Siete Reinos. No podemos permitir que esto ocurra. Os necesito, {playername}, para detener a los conspiradores y ejecutar a gran parte de ellos. Se reúnen normalmente por la noche o cuando la niebla se levanta desde Montedragón, oscureciendo las calles. No queremos hacer una escena, por lo que sólo los mataremos y dejaremos los cuerpos para que los encuentren.
 dlga_wildfire_talk7:close_window.26|Muy bien, me encargaré de esos conspiradores.
 dlga_wildfire_talk7:close_window.27|No me interesa.
 dlga_start:close_window.164|¿Sí?
@@ -3953,11 +3953,11 @@ dlga_start:wildfire_starter_introduce_1.6|Eh... ¿si?
 dlga_wildfire_starter_introduce_1:wildfire_starter_introduce_2.7|Mi señora, ¿puedo saber más de vos?
 dlga_wildfire_starter_introduce_2:close_window.6|Hace unos días escuché un rumor... Phario Forel, el bardo, está buscando a alguien para localizar una antigua tuma... Probablemente podáis encontrarlo aquí en un par de horas como mucho, porque anda encaprichado de Merry...
 dlga_start:close_window.165|¿Sí?
-dlga_start:wildfire_talk.25|¿Sí? ¿Puedo ayudarle?
+dlga_start:wildfire_talk.25|¿Sí? ¿Os puedo ayudar?
 dlga_wildfire_talk:close_window.20|Despedirse.
 dlga_wildfire_talk2:wildfire_talk3.25|“El Padre alzó la mano a los cielos y sacó siete estrellas y las depositó de una en una en la frente de Hugor de la Colina para ponerle una corona resplandeciente.”
 dlga_wildfire_talk3:wildfire_talk4.21|¿Eh?
-dlga_wildfire_talk4:wildfire_talk5.21|¡Es de la Estrella de Siete Puntas salvaje ignorante! Manojo de tonterías de Poniente, pero consiguieron la corona correctamente. Por supuesto, no está hecho por un dios... 
+dlga_wildfire_talk4:wildfire_talk5.21|¡Es de la Estrella de Siete Puntas salvaje ignorante! El libro sagrado de la fe de los siete, la religión más extendida por los reinos de Poniente. Por supuesto, no está escrito por un dios... 
 dlga_wildfire_talk5:wildfire_talk6.25|Mmm... sigamos.
 dlga_wildfire_talk5:close_window.13|Pensándolo mejor, creo que me quedaré en tierra.
 dlga_wildfire_talk6:wildfire_talk7.24|Los ándalos forjaron muchos bellos tesoros de oro y cobre. Tengo todas las razones para creer que uno de ellos podría estar enterrado en un viejo túmulo, cerca de las ruinas de Iksa Calo. ¡Necesito tesoros ándalos para mi próxima obra de teatro! Se supone que el túmulo está embrujado por espíritus y fantasmas de los reyes ándalos, pero eso, obviamente, son sólo rumores de locos.
@@ -4033,7 +4033,7 @@ dlga_wildfire_talk4:wildfire_talk5.24|¡Espléndido! Seréis bien recompensado, 
 dlga_wildfire_talk5:wildfire_talk6.28|¿Dónde puedo encontrar un barco?
 dlga_wildfire_talk5:close_window.16|Pensándolo mejor, me quedaré en tierra.
 dlga_wildfire_talk6:wildfire_talk7.27|Viajad hasta Volantis y puede que logréis contratar un barco allí. Visitad la taberna y puede que seáis capaz de encontrar a Bayle Neres. Es un viejo pícaro, que no será reacio a viajar más allá de Valyria. Por el precio adecuado, por supuesto.
-dlga_wildfire_talk7:close_window.34|Muy bien, voy a volver una vez que he visto Meereen.
+dlga_wildfire_talk7:close_window.34|Muy bien, regresaré una vez que haya visto Meereen.
 dlga_wildfire_talk7:close_window.35|No estoy interesado.
 dlga_start:close_window.171|¿Sí?
 dlga_start:pj_wildfire_talk.21|¡Estoy ocupado, fuera!
@@ -4429,15 +4429,15 @@ dlga_start:close_window.226|No se supone que hablemos mientras estamos de guardi
 dlga_start:close_window.227|¿Qué?
 dlga_start:close_window.228|No se supone que hablemos mientras estamos de guardia.
 dlga_start:close_window.229|¿Qué?
-dlga_chiswyck_introduce_2:close_window.1|¡SER Gwayne Gaunt, de la Casa Gaunt! ¡Somos una casa orgullosa, con una larga e ilustre historia! ¡Porque, mi primo era el sobrino de Ser Gwayne Gaunt, de la Guardia Real!
+dlga_chiswyck_introduce_2:close_window.1|¡Ser Gwayne Gaunt, de la Casa Gaunt! ¡Somos una casa orgullosa, con una larga e ilustre historia! ¡Porque, mi primo era el sobrino de Ser Gwayne Gaunt, de la Guardia Real!
 dlga_start:close_window.230|¿Qué?
-dlga_chiswyck_introduce_2:close_window.2|Josmyn de nombre. No importa Jeffory, él es demasiado orgulloso para mezclarse con la gente como nosotros. Hermanos, ¡bah!
+dlga_chiswyck_introduce_2:close_window.2|Josmyn de nombre. Me da igual ser el hermano de Jeffory, es demasiado orgulloso para mezclarse con la gente como nosotros. Nos llaman hermanos... ¡Bah!
 dlga_start:close_window.231|Me temo que estoy demasiado ocupado para continuar nuestras conversaciones.
 dlga_chiswyck_introduce_2:close_window.3|Nunca os importa.
 dlga_start:close_window.232|¿Qué?
-dlga_chiswyck_introduce_2:close_window.4|Soy Ser Omer Chyttering. Ser Arreck me armó caballero de anoche, ¡este es mi primer torneo de verdad! Es emocionante, ¿no?
+dlga_chiswyck_introduce_2:close_window.4|Soy Ser Omer Chyttering nombrado caballero por Ser Arreck anoche. ¡Este es mi primer torneo de verdad! ¿Es muy emocionante? ¿no?
 dlga_start:close_window.233|¿Qué?
-dlga_chiswyck_introduce_2:close_window.5|Soy Chiswyck, un hombre de la Montaña. ¿Habéis oído lo que le hizo a la hija del posadero? Íbamos de camino a casa después del Torneo de la Mano, cuando paramos en una taberna. Nada más entrar Ser Gregor cogió a la hija del posadero ¡y se la folló ahí mismo, en la mesa! ¡Ja! No paraba de llorar pero su padre estaba demasiado asustado para hacer nada. Todos nos la follamos, uno tras otro. Acabó llena de magulladuras y sangre, ¡ja! Eso sí, le pagamos una moneda de cobre al final, por sus servicios, je.
+dlga_chiswyck_introduce_2:close_window.5|Soy Chiswyck, uno de los hombres de  la Montaña que Cabalga, también conocido como Ser Gregor Clegane. ¿Habéis oído lo que le hizo a la hija del posadero? Íbamos de camino a casa después del Torneo de la Mano, cuando paramos en una taberna. Nada más entrar Ser Gregor cogió a la hija del posadero y se la folló ahí mismo, en la mesa. ¡Jaja!. No paraba de llorar pero su padre estaba demasiado asustado para hacer nada. ¡Todos nos la follamos, uno tras otro!. Acabó llena de magulladuras y sangre. Eso sí, le dimos unas estrellas de cobre al final, por sus servicios. ¡Jajaja!
 dlga_start:close_window.234|¿Qué?
 dlga_start:rafford_introduce_1|¿Sí?
 dlga_rafford_introduce_1:rafford_introduce_2|¿Quién sois?
@@ -4909,7 +4909,7 @@ dlga_start:close_window.311|Disculpadme, estoy muy ocupado.
 dlga_start:wildfire_talk.29|El Padre Celestial vela por vos, {brother/sister}. ¿Habéis venido a ayudarnos en estos tiempos de necesidad?
 dlga_wildfire_talk:wildfire_talk2.25|Por supuesto. ¿En qué puedo ayudar?
 dlga_wildfire_talk:close_window.24|Lo siento, no.
-dlga_wildfire_talk2:wildfire_talk3.29|Una compañía de nuestros hermanos acaba de regresar de un viaje del Septo Estrellado a Antigua. Entre las cosas que trajeron al Norte, ¡había una reliquia del mismísimo Baelor el Santo!. Un anillo, que según dicen, fue usado por el Rey cuando fue a Dorne a rescatar a su primo, Aemon el Caballero Dragón, que estaba encerrado en una jaula sobre un foso lleno de víboras. Pero en el camino, no muy lejos de Árbol de Cuervos, fueron atacados por Aegon el Sangriento, el primogénito bandolero de Ser Aenys Frey. Lo creía muerto años atrás, pero el hermano Toman juró que era él. Junto a los suministros y a los bienes de los hermanos también robó el anillo. ¡Debéis encontrarlo y llevadlo ante la justicia, {playername}! Hemos recibido informes que mencionan actividad de grupos de bandidos cerca de Caída Alta, a lo mejor podéis encontrarlo allí.
+dlga_wildfire_talk2:wildfire_talk3.29|Una compañía de nuestros hermanos acaba de regresar de un viaje del Septo Estrellado a Antigua. Entre las cosas que trajeron al Norte, ¡había una reliquia del mismísimo Baelor el Santo!. Un anillo, que según dicen, fue usado por el Rey cuando fue a Dorne a rescatar a su primo, Aemon el Caballero Dragón, que estaba encerrado en una jaula sobre un foso lleno de víboras. Pero en el camino, no muy lejos de Árbol de Cuervos, fueron atacados por Aegon el Sangriento, el primogénito bandolero de Ser Aenys Frey. Lo creía muerto años atrás, pero el hermano Toman juró que era él. Junto a los suministros y a los bienes de los hermanos también robó el anillo. ¡Debéis encontrarlo y llevadlo ante la justicia, {playername}! Hemos recibido informes que mencionan actividad de grupos de bandidos cerca de los Acantilados Férreos, a lo mejor podéis encontrarlo allí.
 dlga_wildfire_talk3:wildfire_talk4.25|¡Le traeré su cabeza!
 dlga_wildfire_talk4:close_window|También puede que haya buscado refugio con sus parientes en Los Gemelos. Con la guerra asolando el país, un proscrito escondido en el castillo de sus abuelos podría pasar fácilmente desapercibido.
 dlga_wildfire_talk7:close_window.36|No estoy interesado.
@@ -5091,10 +5091,10 @@ dlga_start:close_window.313|Podemos terminar el trayecto solos. Gracias
 dlga_start:close_window.314|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tiene su pago... {reg14} venados de plata. Gracias por escoltarnos. Buena suerte.
 dlga_start:merchant_caravan_intro_1|Saludos. Debéis ser nuestra escolta, ¿Verdad?
 dlga_start:close_window.315|Podemos terminar el trayecto solos. Gracias
-dlga_start:close_window.316|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tiene su pago... {reg14} venados de plata. Gracias por escoltarnos. Buena suerte.
+dlga_start:close_window.316|Bueno, ya casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tenéis vuestro pago... {reg14} venados de plata. Gracias por escoltarnos. Buena suerte.
 dlga_start:escort_merchant_caravan_talk|Eh. Hemos llegado hasta aquí... ¿Que quieres que hagamos?
 dlga_start:close_window.317|Podemos terminar el trayecto solos. Gracias
-dlga_start:close_window.318|Bueno, casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tiene su pago... {reg14} venados de plata. Gracias por escoltarnos. Buena suerte.
+dlga_start:close_window.318|Bueno, casi hemos llegado a {s21}. Podemos terminar el trayecto solos. Aquí tenéis vuestro pago... {reg14} venados de plata. Gracias por escoltarnos. Buena suerte.
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|Sí. Me llamo {playername}. Os llevaré hasta {s1}.
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|Bueno, está bien saber que no viajaremos solos. ¿Qué queréis que hagamos ahora?
 dlga_escort_merchant_caravan_talk:merchant_caravan_follow_lead|Seguidme a mí. Os llevaré por una ruta segura.
@@ -5126,7 +5126,7 @@ dlga_merchant_quest_brief:kidnapped_girl_quest_brief|La cantidad que los bandido
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|Bien. Llevaré el dinero del rescate a los bandidos y regresaré con la damisela.
 dlga_kidnapped_girl_quest_taken:close_window|Perfecto. Sabía que podíamos confiar en vos para esto. Aquí está el dinero del rescate, {reg12} venados de plata. Contadlo antes de cogerlo. Y, por favor, no cometáis ninguna imprudencia. Tened en cuenta que el bienestar de la damisela es lo más importante...
 dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Lo siento. No tengo tiempo para eso ahora mismo.
-dlga_start:close_window.319|¡Muchas gracias por traerme de vuelta! No puedo esperar a ver a mi familia de nuevo. Adiós.
+dlga_start:close_window.319|¡Muchas gracias por traerme de vuelta con mi familia!. No tengo palabras para expresar mi enorme gratitud hacia vos.
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Sí. Venid conmigo. Nos vamos a casa.
 dlga_kidnapped_girl_liberated_map_2a:close_window|Por desgracia, no tenéis sitio para mí en vuestro grupo.
 dlga_kidnapped_girl_liberated_map_2a:close_window.1|Oh, ¿de veras? ¡Mil gracias!
@@ -5202,15 +5202,15 @@ dlga_move_cattle_herd_quest_taken:mayor_pretalk|Espléndido. Podéis encontrar a
 dlga_merchant_quest_requested:mayor_pretalk|Me temo que no puedo ofreceros ningún trabajo ahora mismo.
 dlga_start:village_elder_deliver_cattle_thank|Mi {buen señor/buena señora}. Nuestra aldea agradece vuestra ayuda. Gracias a las {reg5} cabezas de ganado que habéis traído, ahora podemos criar nuestro propio ganado.
 dlga_village_elder_deliver_cattle_thank:village_elder_talk|Mi {buen señor/buena señora}, decidme, ¿hay algo que pueda hacer por vos?
-dlga_start:close_window.320|¡Maldición, lo hicisteis, {playername}! Habéis acabado con todos los contrabandistas. Este pueblo puede prosperar ahora. Ciertamente os habéis ganado nuestra gratitud. Aquí tiene su recompensa.
+dlga_start:close_window.320|¡Magnífico! ¡Habéis cumplido vuestra palabra, {playername}!. Lograsteis acabar con todos los contrabandistas. Por fin este pueblo podrá prosperar. Os habéis ganado nuestra gratitud y una recompensa.
 dlga_start:elder_hunt_down_smugglers_failed|{playername}. Hemos estado esperando noticias de una gran batalla entre usted y los contrabandistas, pero no hemos oído nada. ¿No me digas que los has dejado escapar?
 dlga_elder_hunt_down_smugglers_failed:elder_hunt_down_smugglers_failed_1a|Perdóname, anciano, los contrabandistas son resbaladizos como anguilas.
 dlga_elder_hunt_down_smugglers_failed_1a:close_window|Hmph, eso es una excusa de tu fracaso, {playername}. Ahora, si me disculpas, tengo que trabajar en las defensas del pueblo, porque ellos estarán de regreso, seguro como el Invierno.
-dlga_start:close_window.321|Me habéis decepcionado, {playername}. Había tres grupos de contrabandistas que os pedí que persiguierais. ¡Tres! Supongo que debería estar agradecido de que no regresaran, con sed de venganza contra los pobres aldeanos que los delataron. Pero algunos volverán, y este será un negocio sangriento. Tome su recompensa, y demos por concluido este negocio.
+dlga_start:close_window.321|Me habéis decepcionado, {playername}. Había tres grupos de contrabandistas que os pedí que persiguierais. ¡Tres!. Supongo que debería estar agradecido de que no hayan regresado con sed de venganza contra los pobres aldeanos que los delataron. Tomad vuestra recompensa.
 dlga_start:village_elder_hunt_down_girl_thank|Muchas gracias por la búsqueda de la niña y traerla de vuelta. Esperemos que esto sea una lección para todas las chicas tontas por aquí. Estamos luchando contra esto, no podemos permitir más que nuestros jóvenes se marchen y críen a sus hijos en un pueblo rival. ¿Cómo beneficia eso a nadie aquí? Tienes nuestro agradecimiento.
 dlga_start:village_elder_hunt_down_girl_thank.1|Bueno, veo que no había mucho sentido en que vinieses después de la chica. ¿Te das cuenta de que este pueblo se encuentra al borde de la extinción? Todos los años, tenemos cada vez menos hijos, y vemos a nuestra juventud nos deja para irse a la ciudad, o para otros pueblos. Usted ha ayudado a que el proceso avance. Bah!
 dlga_village_elder_hunt_down_girl_thank:village_elder_talk|¿Hay algo que pueda hacer por ti?
-dlga_start:close_window.322|Hola, {playername}. Estamos en deuda con usted por traer de vuelta a la esposa del agricultor. Sois sin duda un verdadero amigo para nuestro pueblo.
+dlga_start:close_window.322|Bienvenido {playername}. Estamos en deuda con vos por traer de vuelta a la esposa del agricultor. Sois sin duda alguna un verdadero amigo para nuestro aldea.
 dlga_start:lost_kidnapped_wife|Por desgracia he perdido a la mujer en el camino hacia aquí ...
 dlga_lost_kidnapped_wife:lost_kidnapped_wife_2|¡Oh, no! ¿Cómo voy a decirle esto a su marido?
 dlga_lost_kidnapped_wife_2:lost_kidnapped_wife_3|Lo siento. No pude hacer nada.
@@ -5456,40 +5456,40 @@ dlga_arena_player_melee_weapon_select:close_window|¡Usaré mis propias armas!
 dlga_arena_master_melee_talk:arena_master_melee_reject|Gracias. Pero necesito algo de tiempo para recuperarme de las heridas.
 dlga_arena_master_melee_reject:arena_master_pre_talk|Mi {buen hombre/buena muchacha}. Es inteligente por vuestra parte.
 dlga_arena_master_melee_talk:arena_training_melee_explain_reward|En realidad, ¿me podéis explicar las recompensas de nuevo?
-dlga_start:galeas_talk|Hola {chico/chica}. Si tenéis algún prisionero, me encantará comprároslo.
-dlga_galeas_talk:galeas_sell_prisoners|Entonces será mejor que preparáis vuestra bolsa. Tengo prisioneros para vender.
+dlga_start:galeas_talk|Buen día mi {señor/señora}. Si tenéis algún prisionero, con gusto cerraríamos un trato.
+dlga_galeas_talk:galeas_sell_prisoners|Entonces será mejor que tengáis venados de plata de sobra... Pues tengo prisioneros que os podrían interesar.
 dlga_galeas_talk:close_window|Esta vez no. Adiós.
 dlga_galeas_sell_prisoners:galeas_sell_prisoners_2|Dejadme ver lo que traéis...
-dlga_galeas_sell_prisoners_2:close_window|Tomad más prisioneros y traédmelos. Os los pagaré bien.
+dlga_galeas_sell_prisoners_2:close_window|Capturad más prisioneros y traédmelos. Os daré un precio justo por ellos.
 dlga_bandit_introduce:bandit_talk|{s5}
 dlga_bandit_talk:close_window|¡Lo único que voy a daros a probar es mi acero, basura!
 dlga_bandit_talk:bandit_barter|No hay por qué luchar. Puedo pagar por el derecho de paso.
-dlga_bandit_barter:bandit_barter_2|Oro sin sangre, eso es lo que más nos gusta. Pagadnos {reg5} venados y os dejaremos que sigáis vuestro camino.
-dlga_bandit_barter_2:bandit_barter_3a|Muy bien, tomad.
+dlga_bandit_barter:bandit_barter_2|Oro sin sangre, eso es lo que más nos gusta. Si nos entregáis {reg5} venados de plata os dejaremos que sigáis vuestro camino.
+dlga_bandit_barter_2:bandit_barter_3a|Esta bien, tomad.
 dlga_bandit_barter_2:bandit_barter_3b|No llevo tanto dinero encima.
-dlga_bandit_barter_3b:close_window|Eso es una pena. Supongo que entonces tendremos que venderos a los esclavistas. ¡{Apresadle/Apresadla}, chicos!
-dlga_bandit_barter:close_window|¡Eh, he oído hablar de vos! ¿Primero rajáis a los filibusteros como a perros y ahora queréis que os dejemos marchar por unas pocas monedas asquerosas? Olvidadlo. No nos habéis dado tregua y no la tendréis de nosotros.
-dlga_bandit_barter_3a:close_window|Je, no ha sido tan difícil, ¿a que no? Muy bien, ahora os dejaremos ir. Salid de aquí.
+dlga_bandit_barter_3b:close_window|Es una pena... Supongo que entonces tendremos que venderos a los esclavistas. ¡{Apresadle/Apresadla}, chicos!
+dlga_bandit_barter:close_window|¡He oído hablar de vos! ¿Primero rajáis a los filibusteros como a perros y ahora queréis que os dejemos marchar por unos asquerosos venados de plata?. Olvidadlo, no nos habéis dado tregua y no la tendréis de nosotros.
+dlga_bandit_barter_3a:close_window|Al final no ha sido tan difícil, ¿verdad?. Muy bien, ahora os dejaremos ir. Salid de aquí antes de que me arrepienta.
 dlga_start:bandit_meet|¿Eh? ¿De qué se trata?
-dlga_bandit_meet:bandit_attack|Se os ha acabado la suerte, piltrafa. ¡Preparaos a morir!
+dlga_bandit_meet:bandit_attack|Se os ha acabado la suerte, piltrafa. ¡Preparaos para dejar este mundo!
 dlga_bandit_attack:close_window|{s5}
 dlga_bandit_meet:close_window|Nada, no tengo asuntos pendientes con vos.
 dlga_start:disbanded_troop_ask|¿Queréis que os sigamos?
 dlga_disbanded_troop_ask:disbanded_troop_join|Sí. Cabalguemos de nuevo juntos.
 dlga_disbanded_troop_ask:close_window|No. Ahora mismo no.
-dlga_disbanded_troop_join:close_window|Por desgracia. No tenéis sitio para nosotros en vuestro grupo.
+dlga_disbanded_troop_join:close_window|Por desgracia. No tenéis sitio para nosotros en vuestro grupo, {mi señor/mi señora}.
 dlga_disbanded_troop_join:close_window.1|Estamos a vuestras órdenes.
-dlga_start:enemy_talk_1|No me apresaréis otra vez. Esta vez no.
-dlga_enemy_talk_1:enemy_talk_2|No tenéis nada que hacer frente a mí. Rendíos.
+dlga_start:enemy_talk_1|No me apresaréis otra vez. Esta vez no se repetirá la historia.
+dlga_enemy_talk_1:enemy_talk_2|No tenéis nada que hacer frente a mí. ¡La rendición o la muerte!
 dlga_enemy_talk_2:close_window|¡Me rendiré cuando hayáis muerto!
 dlga_start:party_encounter_routed_agents_are_caught|Os lo ruego, por favor, dejadnos ir.
-dlga_party_encounter_routed_agents_are_caught:party_encounter_routed_agents_are_caught2|¿Creéis que podéis escaparos? ¡O venís conmigo o moriréis!
+dlga_party_encounter_routed_agents_are_caught:party_encounter_routed_agents_are_caught2|¿Creéis que podéis escapar? ¡Seréis prisioneros o cadáveres!
 dlga_party_encounter_routed_agents_are_caught:close_window|De acuerdo. Os dejaré marchar esta vez, pero no volváis a aparecer por aquí.
-dlga_party_encounter_routed_agents_are_caught2:close_window|¿Acaso no tenéis piedad? ¡Muy bien, lucharemos hasta el último hombre!
+dlga_party_encounter_routed_agents_are_caught2:close_window|¿Acaso no tenéis piedad? Esta bien, lucharemos hasta el último hombre!
 dlga_party_encounter_routed_agents_are_caught2:close_window.1|{s1}
-dlga_sell_prisoner_outlaws:sell_prisoner_outlaws|Hum. 10 venados por cada salteador suponen {reg1} monedas de plata por estos {reg0}.
-dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.1|Dejadme ver. Habéis traído {reg0} bandidos, así que a 20 venados por cada uno, salen {reg1} monedas de plata.
-dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.2|Bueno, bueno, habéis capturado {reg0} bandidos. Cada uno vale 30 monedas, así que os daré {reg1} por todos.
+dlga_sell_prisoner_outlaws:sell_prisoner_outlaws|Entonces, si cada salteador supone 10 venados de plata por cabeza, os daré {reg1} por estos {reg0}.
+dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.1|Dejadme ver, habéis traído {reg0} bandidos, así que a 20 venados de plata por cada uno, salen {reg1} por todos.
+dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.2|Bueno, bueno, habéis capturado {reg0} bandidos. Cada uno vale 30 venados de plata, así que os daré {reg1} por todos.
 dlga_sell_prisoner_outlaws:close_window|Supongo que eso es todo, entonces.
 dlga_prisoner_chat:close_window|NO TEXT
 dlga_prisoner_chat_noble:prisoner_chat_treason|¡Vuestras infames acciones han demostrado que sois un falso caballero!
@@ -5535,23 +5535,23 @@ dlga_prisoner_chat_menu:close_window|¡Regresa!
 dlga_prisoner_chat:prisoner_chat_accept_confirm|De acuerdo, ya tengo espacio.
 dlga_prisoner_chat_accept_confirm:prisoner_chat_accept3|Estoy a sus órdenes, mi {lord/lady}.
 dlga_prisoner_chat:close_window.1|Lo siento, todavía no tengo espacio. Tendrás que esperar un poco más.
-dlga_start:town_merchant_talk|Saludos, mi {señor/señora}. ¿En qué puedo serviros hoy?
+dlga_start:town_merchant_talk|Saludos, {s0}. ¿En qué puedo serviros hoy?
 dlga_start:town_merchant_talk.1|Buen día. ¿Qué puedo hacer por vos?
-dlga_town_merchant_talk:trade_requested_weapons|Quiero comprar un arma nueva. Mostradme vuestras mercancías.
-dlga_town_merchant_talk:trade_requested_armor|Estoy buscando algo de equipamiento. Mostradme qué tenéis a la venta.
-dlga_town_merchant_talk:trade_requested_horse|Estoy pensando en comprar un caballo.
-dlga_trade_requested_weapons:merchant_trade|Por supuesto, {s0}. No encontraréis mejores armas que éstas en ningún sitio.
-dlga_trade_requested_armor:merchant_trade|Claro, {s0}. No encontraréis armaduras de mejor calidad que éstas en todo Poniente.
-dlga_trade_requested_horse:merchant_trade|Tenéis buen ojo para los caballos, {s0}. No encontraréis mejores animales en ninguna parte.
+dlga_town_merchant_talk:trade_requested_weapons|Mostradme las armas que tenéis a la venta.
+dlga_town_merchant_talk:trade_requested_armor|Mostradme las armaduras que tenéis a la venta.
+dlga_town_merchant_talk:trade_requested_horse|Mostradme los caballos que tenéis a la venta.
+dlga_trade_requested_weapons:merchant_trade|Tenéis buen ojo para las armas, {s0}. No encontraréis piezas de mayor calidad.
+dlga_trade_requested_armor:merchant_trade|Tenéis buen ojo para las armaduras, {s0}. No encontraréis piezas de mayor calidad.
+dlga_trade_requested_horse:merchant_trade|Tenéis buen ojo para los caballos, {s0}. No encontraréis mejores animales.
 dlga_merchant_trade:town_merchant_talk|¿Algo más?
-dlga_town_merchant_talk:merchant_gossip|Decidme, ¿qué se comenta últimamente?
-dlga_merchant_gossip:town_merchant_talk|Pues, nada nuevo. El precio de las cosas, el tiempo, la guerra, lo de siempre.
+dlga_town_merchant_talk:merchant_gossip|Decidme. ¿Qué se comenta últimamente?
+dlga_merchant_gossip:town_merchant_talk|Pues, nada nuevo. El precio de las cosas, el tiempo, la guerra... Básicamente lo de siempre.
 dlga_town_merchant_talk:close_window|Adiós.
 dlga_start:town_dweller_talk|¿Mi {señor/señora}?
 dlga_start:town_dweller_talk.1|Buen día, {s0}.
-dlga_town_dweller_talk:town_dweller_ask_fugitive|Busco a un hombre llamado {s4}. Me dijeron que podía estar escondido aquí.
-dlga_town_dweller_ask_fugitive:close_window|Muchos extranjeros pasan por nuestra aldea, {s0}. Si está escondido aquí, seguro que podéis encontrarlo echando un vistazo.
-dlga_town_dweller_talk:town_dweller_quest_meet_spy_in_enemy_town_ask_item|Perdonadme, pero ¿eso que lleváis puesto es algún tipo de {s5}?
+dlga_town_dweller_talk:town_dweller_ask_fugitive|Busco a un hombre llamado {s4}. Me dijeron que podía estar escondido en vuestra aldea.
+dlga_town_dweller_ask_fugitive:close_window|Muchos extranjeros pasan por nuestra aldea, {s0}. Si está escondido aquí, no tardaréis en encontrarlo.
+dlga_town_dweller_talk:town_dweller_quest_meet_spy_in_enemy_town_ask_item|Perdonadme que os pregunte, ¿eso que lleváis puesto es algún tipo de {s5}?
 dlga_town_dweller_quest_meet_spy_in_enemy_town_ask_item:town_dweller_talk|{s6}
 dlga_town_dweller_talk:town_dweller_quest_meet_spy_in_enemy_town|{s4}
 dlga_town_dweller_quest_meet_spy_in_enemy_town:town_dweller_quest_meet_spy_in_enemy_town_know|{s4}
@@ -5559,21 +5559,21 @@ dlga_town_dweller_quest_meet_spy_in_enemy_town:town_dweller_quest_meet_spy_in_en
 dlga_town_dweller_quest_meet_spy_in_enemy_town_dont_know:close_window|No importa.
 dlga_town_dweller_quest_meet_spy_in_enemy_town_know:town_dweller_quest_meet_spy_in_enemy_town_chat|{s4} me envió a recoger vuestros informes. ¿Los lleváis encima?
 dlga_town_dweller_quest_meet_spy_in_enemy_town_chat:town_dweller_quest_meet_spy_in_enemy_town_chat_2|Os estaba esperando. Aquí están, aseguraos de que lleguen hasta {s4} intactos y sin demora.
-dlga_town_dweller_quest_meet_spy_in_enemy_town_chat_2:close_window|Adiós.
+dlga_town_dweller_quest_meet_spy_in_enemy_town_chat_2:close_window|Despedirse.
 dlga_town_dweller_talk:town_dweller_ask_info|¿Qué podéis decirme sobre esta aldea?
 dlga_town_dweller_talk:town_dweller_ask_info.1|¿Qué podéis decirme sobre esta ciudad?
 dlga_town_dweller_ask_info:close_window|{s10} {s11}
 dlga_town_dweller_talk:town_dweller_ask_situation|¿Cómo es aquí la vida?
-dlga_town_dweller_ask_situation:town_dweller_poor|Los desastres han azotado a mi familia, {s0}. Una peste echó a perder las cosechas de nuestros campos y mis pobres hijos yacen en casa hambrientos y enfermos. Mis vecinos son demasiado pobres como para ayudarme.
-dlga_town_dweller_ask_situation:town_dweller_poor.1|Mi vida es una miseria, {s0}. No he podido encontrar trabajo desde hace meses y mis pobres hijos se van a la cama todos los días con hambre. Mis vecinos son demasiado pobres como para ayudarme.
+dlga_town_dweller_ask_situation:town_dweller_poor|Los desastres han azotado a mi familia, {s0}. La peste echó a perder las cosechas de nuestros campos y mis pobres hijos yacen en casa hambrientos y enfermos. Mis vecinos son demasiado pobres como para ayudarme.
+dlga_town_dweller_ask_situation:town_dweller_poor.1|La vida aquí es una miseria, {s0}. No he podido encontrar trabajo desde hace meses y mis pobres hijos se van a la cama todos los días con hambre. Mis vecinos son demasiado pobres como para ayudarme.
 dlga_town_dweller_poor:town_dweller_poor_paid|En ese caso, tomad estos 300 venados de plata. Espero que esto os ayude a vos y a vuestra familia.
 dlga_town_dweller_poor:town_dweller_poor_not_paid|En ese caso, debéis trabajar más y soportar vuestra penuria sin quejas.
-dlga_town_dweller_poor_not_paid:close_window|Sí, {señor/señora}. Haré como vos decís.
-dlga_town_dweller_poor_paid:close_window|Oh, mi {señor/buena señora}. Vuestra generosidad y bondad no tienen límite. Les contaré a todos cómo nos habéis ayudado.
-dlga_town_dweller_ask_situation:close_window|Gracias por vuestra amabilidad, {s0}. Con vuestra ayuda nuestras vidas mejorarán. Rezaré por vos todos los días.
+dlga_town_dweller_poor_not_paid:close_window|Sin duda, aceptare vuestros consejos.
+dlga_town_dweller_poor_paid:close_window|Gracias mi {buen señor/buena señora}. Vuestra generosidad y bondad no tienen límite. Contaré a todos cómo nos habéis ayudado.
+dlga_town_dweller_ask_situation:close_window|Gracias por vuestra amabilidad, {s0}. Con vuestra ayuda nuestras vidas mejorarán. Rezaré por vos a los Siete.
 dlga_town_dweller_ask_situation:town_dweller_talk|Son tiempos duros, {s0}. Trabajamos de sol a sol y aún así nos vamos a dormir con hambre casi todos los días.
-dlga_town_dweller_ask_situation:town_dweller_talk.1|Son tiempos duros, {s0}. Pero debemos dar gracias por lo que tenemos.
-dlga_town_dweller_ask_situation:town_dweller_talk.2|No nos va tan mal, {s0}. Debemos dar gracias por lo que tenemos.
+dlga_town_dweller_ask_situation:town_dweller_talk.1|Son tiempos duros, {s0}. Pero debemos dar gracias por lo que tenemos viendo las desgracias de otros.
+dlga_town_dweller_ask_situation:town_dweller_talk.2|No nos va tan mal, {s0}. Debemos sentirnos agradecidos de poder disfrutar de lo que tenemos.
 dlga_town_dweller_talk:town_dweller_ask_trade|¿En qué trabajáis?
 dlga_town_dweller_ask_trade:town_dweller_talk|{s14}
 dlga_town_dweller_talk:town_dweller_ask_rumor|¿Qué se rumorea por aquí últimamente?
@@ -5593,114 +5593,114 @@ dlga_hall_guard_talk:hall_guard_duty|Seguid haciendo guardia y hacedme saber si 
 dlga_hall_guard_duty:close_window|Sí, {s0}. Como deseéis.
 dlga_hall_guard_talk:hall_guard_arrest|¡Quiero que arrestéis a este hombre inmediatamente!
 dlga_hall_guard_arrest:hall_guard_arrest_2|¿A quién queréis arrestar, {s0}?
-dlga_hall_guard_arrest_2:close_window|Ah, no os preocupéis por mi buen humor, chicos.
+dlga_hall_guard_arrest_2:close_window|Da igual... no os preocupéis por mi buen humor.
 dlga_hall_guard_arrest_2:close_window.1|Olvidadlo. Ya encontraré otra forma de hacer esto.
-dlga_enemy_defeated:close_window|¡Arggh! Odio esto.
+dlga_enemy_defeated:close_window|¡Por los antiguos dioses! Odio esto.
 dlga_party_relieved:close_window|Gracias por ayudarnos con esos bastardos.
-dlga_start:battle_reason_stated|¡Usaré vuestro cráneo para beber!
+dlga_start:battle_reason_stated|¡Vuestro cráneo será mi copa en futuros banquetes!
 dlga_member_chat:regular_member_talk|¿Qué órdenes tenéis, {s0}?
 dlga_regular_member_talk:view_regular_char_requested|Habladme de vos.
-dlga_view_regular_char_requested:do_regular_member_view_char|Sí, {s0}. Dejad que os cuente todo lo que hay que saber de mí.
+dlga_view_regular_char_requested:do_regular_member_view_char|Sí, {s0}. Dejad que os cuente todo debéis saber de mí.
 dlga_do_regular_member_view_char:regular_member_talk|¿Algo más?
 dlga_regular_member_talk:customize_troop_equipment_requested|Me gustaría seleccionar vuestro equipo.
-dlga_customize_troop_equipment_requested:finish_custom_troop|De acuerdo. Aquí está todo mi equipo.
-dlga_finish_custom_troop:finish_custom_response|Muy bien, usaré el nuevo equipo desde ahora.
+dlga_customize_troop_equipment_requested:finish_custom_troop|De acuerdo {mi señor/mi señora}. Aquí está todo mi equipo.
+dlga_finish_custom_troop:finish_custom_response|Entendido {mi señor/mi señora}, usaré el nuevo equipo desde este mismo momento.
 dlga_finish_custom_response:close_window|Adelante.
 dlga_regular_member_talk:dplmc_view_regular_inventory|Dejadme ver vuestro equipo.
 dlga_dplmc_view_regular_inventory:dplmc_do_view_regular_inventory|Muy bien {s0}, aquí está lo que estoy usando...
 dlga_dplmc_do_view_regular_inventory:dplmc_do_view_regular_inventory_2|¿Satisfecho, {s0}?
 dlga_dplmc_do_view_regular_inventory_2:do_regular_member_view_char|Desde luego.
 dlga_regular_member_talk:close_window|Nada. Seguid adelante.
-dlga_start:party_encounter_hostile_attacker|No tenéis nada que hacer frente a nosotros. Rendíos ahora u os mataremos a todos...
+dlga_start:party_encounter_hostile_attacker|No tenéis nada que hacer frente a nosotros. La rendición es la única opción si no queréis abonar estas tierras...
 dlga_party_encounter_hostile_attacker:close_window|¡Lucharemos hasta el final!
 dlga_party_encounter_hostile_attacker:close_window.1|¡No ataquéis! Nos rendimos.
 dlga_start:party_encounter_hostile_defender|¿Qué queréis?
 dlga_party_encounter_hostile_defender:party_encounter_hostile_ultimatum_surrender|¡Rendíos o morid!
 dlga_party_encounter_hostile_ultimatum_surrender:close_window|{s43}
 dlga_party_encounter_hostile_defender:close_window|Nada. Os dejamos en paz.
-dlga_merchant_end:close_window|¡Je! Debo estar en aprietos de verdad, para poner mis esperanzas en {un desconocido/una desconocida} de paso. No obstante, algo me dice que no me equivoco al hacerlo. Ahora id a ver si podéis reunir unos cuantos voluntarios.
+dlga_merchant_end:close_window|¡Por los Siete! Debo estar en aprietos de verdad, para poner mis esperanzas sobre vos. No obstante, algo me dice que no me equivoco al hacerlo. Ahora id a ver si podéis reunir unos cuantos voluntarios.
 dlga_start:merchant_quest_4e|{s3}{s2}
 dlga_merchant_quest_4e:merchant_finale|{s1}
 dlga_merchant_quest_4e:merchant_finale.1|Que los Siete nos concedan la victoria.
 dlga_merchant_quest_4e:merchant_finale.2|Me alegra veros con vida también a vos.
-dlga_merchant_finale:close_window|Sí, sí... Bien, tengo al capitán de la guardia retenido en una habitación trasera con un cuchillo al cuello, dos de mis chicos están con él. Necesito arrastrarle ante {s5} y explicarle el porqué de esta brecha en la paz. No tenéis por qué venir vos también, de todos modos. Os diré algo... si todo va bien, me encontraré con vos en la taberna en breve, y os comunicaré el desenlace. Si no me veis en la taberna, y en cambio os encontráis mi cabeza en una pica sobre las puertas de la ciudad, asumo que seréis lo bastante {espabilado/espabilada} como para marcharos de la ciudad por un tiempo y olvidar todo este episodio. Así pues... ¡esperemos vernos pronto!
+dlga_merchant_finale:close_window|Sí, sí... Bien, tengo al capitán de la guardia retenido en una habitación trasera con un cuchillo al cuello, dos de mis chicos lo vigilan. Necesito llevarlo ante {s5} y explicarle el motivo de esta ruptura de la paz. No es necesario que vengáis vos también. Os diré algo... si todo va bien, nos encontraremos en la taberna en breve, y os comunicaré el desenlace. Si no me veis en la taberna, sin duda encontráis mi cabeza en una pica sobre las puertas de la ciudad, asumo que seréis lo bastante inteligente como para marcharos de la ciudad por un tiempo y olvidar todo este episodio. Así pues... ¡Esperemos vernos pronto!
 dlga_start:merchant_quest_1_prologue_1|{s1}
-dlga_merchant_quest_1_prologue_1:merchant_quest_1_prologue_2|Parecéis un poco desorientado. No sé quién sois ni de dónde venís y por los Siete que tampoco quiero saberlo. Yo sólo soy un simple comerciante y si algo he aprendido es que los comerciantes somos los primeros en sufrir cuando vienen malos tiempos. Por eso mismo quiero irme a otras tierras, más pacíficas y menos lluviosas a ser posible. He oído que en las Ciudades Libres el oro fluye de caudalosas fuentes, así que tal vez me dirija a probar suerte a Pentos o a Volantis.
-dlga_merchant_quest_1_prologue_2:merchant_quest_1_prologue_3|De todas formas, os daré un consejo antes de irme: haced lo mismo que yo y marchaos a probar fortuna a otras tierras. La guerra devastará los Siete Reinos ahora que la Mano ha sido ejecutada, y la gente no va a ser sino carne para sembrar los campos de batalla. En Poniente los pobres se mueren de hambre y los poderosos abusan de espadas y lanzas para someter a los menos afortunados. Para comerciar, los mercaderes tenemos que pagar altos impuestos en cada ciudad, huir de proscritos y piratas, y rezar a los dioses antiguos y nuevos para que el señor local, ignorante y perezoso, no decida quedarse con la mitad de nuestras mercancías para financiar su próximo banquete o comprar un caballo nuevo para su hijo.
-dlga_merchant_quest_1_prologue_3:merchant_quest_1a|Pero me estoy dejando llevar... Simplemente seguid mi consejo y cruzad el Mar Angosto. Al menos hasta que un nuevo rey sea coronado y ungido por el Gran Septón, las leyes y el orden no valdrán más que carroña para los buitres. Por eso os insisto... buscad otro lugar al que ir.
-dlga_merchant_quest_1a:merchant_quest_1b|Agradezco vuestro consejo, pero creo que me quedaré. La guerra también trae oportunidades, ¡y quiero aprovechar la mía! ¡Hacerme un nombre!
-dlga_merchant_quest_1a:close_window|Irme a Essos... ¿por qué no?.
-dlga_merchant_quest_1b:merchant_quest_by|¿Ah, sí? Bueno... supongo que podéis tener vuestra parte de razón. Pero recordad algo. La guerra también trae hombres mutilados, mujeres violadas, niños muertos y esperanzas quebradas. Aún así... tenéis la mirada de alguien que sabe lo que puede hacer... Tomad este dinero y acordaos de mí, si alguna vez llegáis a haceros un nombre a la luz de los Siete.
+dlga_merchant_quest_1_prologue_1:merchant_quest_1_prologue_2|Parecéis un poco desorientado. No sé quién sois ni de dónde venís y por los Siete que tampoco quiero saberlo. Sólo soy un simple comerciante y si algo he aprendido es que los somos nosotros los primeros en sufrir los malos tiempos. Por ello y con los ahorros que tengo me he decidido a partir a otras tierras, más pacíficas y menos lluviosas a ser posible. Se rumorea que en las Ciudades Libres el oro fluye de caudalosas fuentes. Quizás haya llegado la hora de probar suerte en Pentos o Volantis.
+dlga_merchant_quest_1_prologue_2:merchant_quest_1_prologue_3|De todas formas, mi consejo es que hagáis lo mismo que yo y os marchéis a probar fortuna a otras tierras. La guerra devastará los Siete Reinos ahora que la Mano del Rey, Eddard Stark, ha sido ejecutada, la gente no va a ser más que carne con la que sembrar los campos de batalla. En Poniente los pobres se mueren de hambre y los poderosos abusan de espadas y lanzas para someter a los menos afortunados. Para comerciar, los mercaderes tenemos que pagar altos impuestos en cada ciudad, huir de proscritos y piratas y rezar a los Siete para que el señor local, ignorante y perezoso, no decida quedarse con la mitad de nuestras mercancías para financiar su próximo banquete o un nuevo caballo para su primogénito.
+dlga_merchant_quest_1_prologue_3:merchant_quest_1a|Pero me estoy dejando llevar... Simplemente seguid mi consejo y cruzad el Mar Angosto. Al menos hasta que un nuevo rey sea coronado y ungido por el Septón Supremo, las leyes y el orden no serán más que carroña para los buitres. Por todo ello debo insistiros... buscad otro lugar al que ir.
+dlga_merchant_quest_1a:merchant_quest_1b|Agradezco vuestro consejo, pero creo que me quedaré. La guerra también trae consigo oportunidades, ¡y quiero aprovechar la mía! ¡Hacerme un nombre!
+dlga_merchant_quest_1a:close_window|Irme a Essos... ¿Por qué no?.
+dlga_merchant_quest_1b:merchant_quest_by|Bueno... supongo que podéis tener vuestra parte de razón. Pero recordad algo. La guerra también trae hombres mutilados, mujeres violadas, niños muertos y esperanzas quebradas. Aún así... tenéis la mirada de alguien que sabe lo que puede hacer... Tomad estos venados de plata y tenedme presente, si alguna vez llegáis a haceros un nombre a la luz de los Siete.
 dlga_merchant_quest_by:close_window|Gracias, amigo mío. ¡Que vuestros viajes os sean provechosos!
 dlga_start:economy_troops_talk|{s17}
 dlga_start:economy_after_recruited|¿Algo más?
-dlga_economy_after_recruited:economy_after_recruited_2|Preparaos. Partimos al amanecer.
-dlga_economy_after_recruited:economy_after_recruited_2.1|Tomaos vuestro tiempo, estaremos en la ciudad un tiempo.
+dlga_economy_after_recruited:economy_after_recruited_2|Preparaos. Partiremos al amanecer.
+dlga_economy_after_recruited:economy_after_recruited_2.1|Tomaos vuestro tiempo, estaremos en la ciudad unas semanas.
 dlga_economy_after_recruited_2:close_window|Por supuesto.
-dlga_economy_troops_talk:economy_talk_hire|De acuerdo, os contrato. Aquí tenéis {reg5} monedas de plata.
+dlga_economy_troops_talk:economy_talk_hire|De acuerdo, os contrato. Aquí tenéis {reg5} venados de plata.
 dlga_economy_talk_hire:close_window|{s17}
 dlga_economy_troops_talk:economy_cant_lead|Suena bien, pero no puedo contratar ningún hombre más por el momento.
-dlga_economy_cant_lead:close_window|Es una lástima. Bueno, {reg3?estaremos:estaré} buscando trabajo por aquí durante un tiempo, por si reconsiderais nuestra propuesta de trabajo.
+dlga_economy_cant_lead:close_window|Es una lástima. Bueno, {reg3?estaremos:estaré} buscando trabajo por aquí durante un tiempo, por si reconsideráis nuestra propuesta de trabajo.
 dlga_economy_cant_lead:close_window.1|Quizás en otro momento entonces.
 dlga_economy_troops_talk:economy_cant_lead.1|Suena bien, pero no puedo contratar ningún hombre más por el momento.
-dlga_economy_troops_talk:close_window|Lo siento, pero no necesito más hombres.
-dlga_start:battle_reason_stated.1|Rendíos o morid. Es decisión vuestra.
-dlga_battle_reason_stated:close_window|No os tengo miedo. Lucharé.
+dlga_economy_troops_talk:close_window|Lo siento, pero no necesito más hombres por el momento.
+dlga_start:battle_reason_stated.1|Rendición o muerte. Es decisión vuestra.
+dlga_battle_reason_stated:close_window|No os tengo miedo. ¡Luchar!.
 dlga_start:free|Hola. ¿Qué puedo hacer por vos?
-dlga_free:view_char_requested|Habladme de vos.
+dlga_free:view_char_requested|Habladme de vos...
 dlga_view_char_requested:view_char|Muy bien, pues escuchad esto...
 dlga_view_char:free|¿Algo más?
 dlga_end:close_window|[Hecho]
-dlga_start:threaten_1|Tirad vuestras armas y rendíos si queréis vivir
-dlga_threaten_1:end|Antes tendréis que luchar con nosotros.
+dlga_start:threaten_1|Deponed vuestras armas y rendiros si queréis conservar la vida.
+dlga_threaten_1:end|Antes tendréis que luchar contra nosotros.
 dlga_member_direct_campaign:member_direct_campaign_choice|Sí, {mi señor/mi señora}. ¿Qué mensaje deseáis enviar a los vasallos?
-dlga_member_direct_campaign_choice:member_direct_campaign_call_to_arms_verify|Quiero comenzar una nueva campaña. Reunamos aquí el ejército.
-dlga_member_direct_campaign_choice:member_give_order_disband_army_verify|Quiero terminar la campaña y enviar a todo el mundo a sus casas.
-dlga_member_direct_campaign_choice:member_give_order_invite_feast_verify|Deseo invitar a los vasallos del reino a un banquete en {s4}.
+dlga_member_direct_campaign_choice:member_direct_campaign_call_to_arms_verify|Deseo comenzar los preparativos para una nueva campaña. Reunamos al ejército.
+dlga_member_direct_campaign_choice:member_give_order_disband_army_verify|Deseo dar por concluida la campaña. Dejemos que los hombres regresen a sus casas.
+dlga_member_direct_campaign_choice:member_give_order_invite_feast_verify|Deseo enviar las invitaciones para el banquete que se celebrará en {s4} a los señores del reino.
 dlga_member_direct_campaign_choice:member_pretalk|No importa.
 dlga_member_give_order_invite_feast_verify:member_give_order_invite_feast_verify_2|¿Deseáis invitar a los señores del reino a un banquete?
-dlga_member_give_order_invite_feast_verify_2:member_give_order_invite_feast|Sí. Es hora de fortalecer los lazos que nos unen.
-dlga_member_give_order_invite_feast_verify_2:member_pretalk|Pensándolo bien, tal vez no sea el mejor momento.
-dlga_member_give_order_invite_feast:member_pretalk|De acuerdo pues. Enviaré mensajeros informando a los señores del reino sobre vuestro banquete en {s4}.
-dlga_member_direct_campaign_call_to_arms_verify:member_give_order_call_to_arms_verify_2|¿Deseáis convocar a todos los señores para una nueva campaña?
-dlga_member_give_order_call_to_arms_verify_2:member_give_order_call_to_arms|Sí. Debemos reunir todas nuestras fuerzas antes de marchar sobre el enemigo.
-dlga_member_give_order_call_to_arms_verify_2:member_pretalk|Pensándolo bien, no será necesario convocar a todo el mundo.
-dlga_member_give_order_call_to_arms:member_pretalk|De acuerdo entonces. Enviaré mensajeros para decirles a todos que acudan aquí.
-dlga_member_give_order_disband_army_verify:member_give_order_disband_army_2|¿Deseáis terminar la campaña actual y liberar a todos los señores de sus obligaciones?
-dlga_member_give_order_disband_army_2:member_give_order_disband_army|Sí. Ya no necesitamos aquí a todas nuestras fuerzas.
-dlga_member_give_order_disband_army_2:member_pretalk|Pensándolo bien, será mejor permanecer juntos de momento.
-dlga_member_give_order_disband_army:member_pretalk|De acuerdo. Haré saber a todos que son eximidos de sus obligaciones.
+dlga_member_give_order_invite_feast_verify_2:member_give_order_invite_feast|Sí, debemos fortalecer los lazos de unión entre nosotros y nada mejor que un banquete para ello.
+dlga_member_give_order_invite_feast_verify_2:member_pretalk|Pensándolo mejor... Tal vez no sea el momento más oportuno para celebrar un banquete de tales dimensiones.
+dlga_member_give_order_invite_feast:member_pretalk|De acuerdo a sus deseos, se enviarán mensajeros para informar a todos los señores del reino de la celebración del banquete en {s4}.
+dlga_member_direct_campaign_call_to_arms_verify:member_give_order_call_to_arms_verify_2|¿Deseáis convocar a los señores del reino para iniciar una nueva campaña?
+dlga_member_give_order_call_to_arms_verify_2:member_give_order_call_to_arms|Sí, debemos reunir a todos los ejércitos antes de marchar contra el enemigo.
+dlga_member_give_order_call_to_arms_verify_2:member_pretalk|Pensándolo mejor... Tal vez no sea el momento más oportuno para iniciar una campaña.
+dlga_member_give_order_call_to_arms:member_pretalk|De acuerdo a sus deseos, se enviarán mensajeros para informar a todos los señores del reino que deben acudir prestos con sus ejércitos para el inicio de la campaña.
+dlga_member_give_order_disband_army_verify:member_give_order_disband_army_2|¿Deseáis concluir la campaña actual y permitir el regreso de los hombres a sus casas?
+dlga_member_give_order_disband_army_2:member_give_order_disband_army|Sí, debemos permitir que los hombres regresen a sus casas con sus familias.
+dlga_member_give_order_disband_army_2:member_pretalk|Pensándolo mejor, Tal vez no sea el momento más oportuno para dejar volver a los hombres a sus casas.
+dlga_member_give_order_disband_army:member_pretalk|De acuerdo a sus deseos, se enviarán mensajeros para informar a todos los señores del reino que ha finalizado la campaña.
 dlga_mayor_wealth_comparison_1:mayor_wealth_comparison_2|En general, se considera que la ciudad más rica es {s4}. Aquí en {s5} somos más pobres que {reg4} ciudades, y más ricos que otras {reg5}.
 dlga_mayor_wealth_comparison_2:mayor_wealth_comparison_3|En cuanto a industria local, la ciudad más productiva es {s4}. Aquí en {s5} producimos menos que en {reg4} ciudades, y más que en {reg5}. Naturalmente, la producción se ve afectada por el abastecimiento de materias primas, así como por la prosperidad general de la ciudad.
 dlga_mayor_wealth_comparison_3:mayor_wealth_comparison_4|En cuanto a producto generado en las aldeas circundantes, la ciudad de {s4} es la más rica. Aquí en {s5}, las aldeas de los alrededores producen menos que las correspondientes a otras {reg4} ciudades, y más que en {reg5}. La riqueza de los alrededores de una ciudad depende en gran medida, por supuesto, de las mareas de la guerra. Los saqueos, el pillaje, las fluctuaciones de poder en el territorio, todo tiene un gran impacto.
 dlga_mayor_wealth_comparison_4:mayor_wealth_comparison_5|En cuanto al comercio, la ciudad de {s4} parece haber recibido la mayoría de visitas de caravanas en los últimos meses. Aquí en {s5} hemos sido menos visitados que en {reg4} ciudades, y más que en {reg5}. 
 dlga_mayor_wealth_comparison_5:mayor_pretalk|En cuanto a ataques sobre viajeros, la ciudad de {s4} parece ser la más peligrosa. Aquí en {s5} tenemos menos bandidos y saqueadores que en {reg4} ciudades, y más que en {reg5}. 
 dlga_lord_ask_leave_service_verify_again:dplmc_lord_ask_leave_service_rebellion|No tengo intención de perder mis tierras, {s65}.
-dlga_dplmc_lord_ask_leave_service_rebellion:dplmc_lord_ask_leave_service_rebellion_verify|Hmph. No te precipites con tales palabras, {playername}. Merezco algo más de respeto, creo yo. Esas tierras me pertenecen a mí y a mis herederos. Si continuas por ese camino me ofenderás y no hay necesidad de llegar a las manos.
-dlga_dplmc_lord_ask_leave_service_rebellion:dplmc_lord_ask_leave_service_rebellion_verify.1|Te has convertido en un sarpullido, {playername}. Tu juramento te une a mi y gobiernas en mi nombre. Piensa sobre lo que estás diciendo, pues no es sabio y acabará mal para tí. Te pido que lo reconsideres.
+dlga_dplmc_lord_ask_leave_service_rebellion:dplmc_lord_ask_leave_service_rebellion_verify|Mmm... No te precipites con tales palabras, {playername}. Merezco algo más de respeto por tu parte. Esas tierras me pertenecen a mí y a mis herederos. Si continuas por ese camino acabarás por ofenderme y no hay necesidad de llegar a las manos.
+dlga_dplmc_lord_ask_leave_service_rebellion:dplmc_lord_ask_leave_service_rebellion_verify.1|Os habéis convertido en un problema, {playername}. Vuestro juramento os une a mi y gobiernáis en mi nombre. Pensad lo que estáis diciendo, pues no es nada inteligente y tendrá repercusiones para vos y vuestra familia. Os pido que lo reconsideres.
 dlga_dplmc_lord_ask_leave_service_rebellion_verify:lord_ask_leave_service_3|Tienes razón, {s65}. Estas tierras son tuyas, pero aún así debo irme.
-dlga_dplmc_lord_ask_leave_service_rebellion_verify:dplmc_lord_ask_leave_rebellion_confirm|Mi sangre y mi sudor ganaron esas tierras, no el tuyo. Así que son mías.
-dlga_dplmc_lord_ask_leave_rebellion_confirm:dplmc_lord_ask_leave_rebellion_confirm_final|Me decepciona mucho, {playername}. Tuviste mi confianza, pero esto se aleja de la razón. No tengas dudas que defenderé el honor de mi casa de tus insultos. Esto es la guerra.
-dlga_dplmc_lord_ask_leave_rebellion_confirm:dplmc_lord_ask_leave_rebellion_confirm_final.1|Debería haber visto tu traición. Debo estar haciendome mayor para no haber visto tus planes. No importa. Tu tiempo llegará, {playername}. La justicia llega tarde o temprano en el campo de batalla.
+dlga_dplmc_lord_ask_leave_service_rebellion_verify:dplmc_lord_ask_leave_rebellion_confirm|Mi sangre y mi sudor ganaron esas tierras, no el tuyo. Así que me pertenecen por derecho.
+dlga_dplmc_lord_ask_leave_rebellion_confirm:dplmc_lord_ask_leave_rebellion_confirm_final|Me has decepcionado mucho, {playername}. Tuviste mi confianza, pero esto se aleja de la razón. No tengas dudas que defenderé el honor de mi familia de tus insultos. ¡Esto es la guerra!
+dlga_dplmc_lord_ask_leave_rebellion_confirm:dplmc_lord_ask_leave_rebellion_confirm_final.1|Debería haberme percatado de tu traición. Debo estar haciendome mayor para no haber descubierto tus planes. No importa. Tu tiempo llegará, {playername}. La justicia llega tarde o temprano en el campo de batalla.
 dlga_dplmc_lord_ask_leave_rebellion_confirm_final:dplmc_lord_ask_leave_rebellion_end|No te guardo rencor, {s65}, solo actúo por justicia.
 dlga_dplmc_lord_ask_leave_rebellion_confirm_final:dplmc_lord_ask_leave_rebellion_end.1|Todos hacemos lo que debemos. Adiós.
 dlga_dplmc_lord_ask_leave_rebellion_confirm_final:dplmc_lord_ask_leave_rebellion_end.2|En ese caso esperaré el día en que nos encontremos en batalla.
-dlga_dplmc_lord_ask_leave_rebellion_end:close_window|Es un día oscuro, {playername}. Será marcado y día de lamento en {s1}. Vuestra traición no será olvidada pronto. Sería mejor si te vas rápidamente.
+dlga_dplmc_lord_ask_leave_rebellion_end:close_window|Es un día oscuro, {playername}. Será marcado como un día lamentable en {s1}. Vuestra traición no será olvidada pronto. Sería mejor si te vas rápidamente.
 dlga_dplmc_lord_ask_leave_rebellion_end:close_window.1|Habéis cambiado desde que os tomé como vasallo, {playername}. Marchaos antes de que acabe con esto ahora mismo.
 dlga_free:close_window|Adios.
 dlga_free:close_window.1|Irse]
 dlga_event_triggered:upgrade_talk|¿Sí, {65}?
 dlga_upgrade_talk:upgrade_talk_1|He visto que lucháis bien en las batallas, soldado.
 dlga_upgrade_talk_1:upgrade_talk_2|Solo cumplo con mi deber con {s65}, mi señor.
-dlga_upgrade_talk_2:upgrade_talk_3a|Y muy bien, debo decir. La única vez que he oído de alguien con tamaña habilidad en la batalla, ha sido en canciones. ¡Sois un héroe!
+dlga_upgrade_talk_2:upgrade_talk_3a|Y muy bien, debo decir. La única vez que he oído de alguien con tamaña habilidad en la batalla, ha sido en canciones épicas. ¡Sois un héroe!
 dlga_upgrade_talk_2:upgrade_talk_3b|Solo quería que supierais que tomo nota de esas habilidades. Ahora volved con las tropas.
 dlga_upgrade_talk_3a:upgrade_talk_4a|Vuestras palabras me honran. Me esforzaré en no defraudarlas.
 dlga_upgrade_talk_4a:upgrade_talk_5|A partir de ahora seréis recordado como un {s21}
-dlga_upgrade_talk_5:close_window|Defenderé ese título con mi muerte, y no os dejaré caer. Os prometo eso; la sangre de mi acero no se secará.
+dlga_upgrade_talk_5:close_window|Defenderé mi título hasta la muerte, y no os dejaré caer. ¡Os prometo que la sangre de mi acero no se secará!
 dlga_upgrade_talk_3b:close_window|Si, {s65}
 dlga_merchant_talk:merchant_trade_request|Me gustaría ver vuestras mercancías.
 dlga_merchant_trade_request:merchant_trade_deny|¡Bromeáis! La corona no se tomaría bien si comerciaramos con gente como tú.
-dlga_merchant_trade_request:merchant_trade_deny.1|¿Mi mercancías? Lo siento, no tengo tiempo de descargar la caravana. Tengo plazos que cumplir.
+dlga_merchant_trade_request:merchant_trade_deny.1|¿Mis mercancías? Lo siento, no tengo tiempo de descargar la caravana. Tengo plazos que cumplir.
 dlga_merchant_trade_request:merchant_trade_completed|Está bien, dadme un momento para preparar una presentación apropiada.
 dlga_merchant_trade_completed:merchant_trade_completed_2|¿Algo más?
 dlga_merchant_trade_completed_2:merchant_talk|¿Algo más?
@@ -5712,35 +5712,35 @@ dlga_merchant_trade_deny:close_window.1|Mejor corre en tu próximo viaje, no sea
 dlga_merchant_trade_rethink:merchant_trade_completed|Bueno, podríamos parar solo un momento.
 dlga_merchant_trade_rethink:merchant_talk|Realmente debemos partir.
 dlga_merchant_trade_force:merchant_trade_force_2|Duras palabras de alguien con la amistad de {s1}. No tenemos tiempo para esto.
-dlga_merchant_trade_force:merchant_trade_force_2.1|Cálmate. Solo son negocios.
+dlga_merchant_trade_force:merchant_trade_force_2.1|¡Cálmate, {hombre/mujer}! ¡Solo son negocios!
 dlga_merchant_trade_force_2:merchant_attack|En ese caso tendré que tomar lo que quiero de vuestros cadáveres.
-dlga_merchant_trade_force_2:merchant_trade_rethink_2|Mostradme vuestra mercancía o mostraré yo mi acero. ¡Ahora!.
+dlga_merchant_trade_force_2:merchant_trade_rethink_2|Mostradme vuestra mercancía o mostraré yo mi acero. ¡Ahora!
 dlga_merchant_trade_force_2:close_window|Sal de mi vista, buhonero. [Irse]
 dlga_merchant_trade_rethink_2:merchant_trade_completed|Hazlo rápido, bribón.
-dlga_merchant_trade_rethink_2:merchant_trade_completed.1|Hrmph. Mis disculpas. Ahora mismo.
-dlga_start:reinforcements_intro|¿Quien va? Somos {s20}.\\ Estamos de camino a {s21}.
+dlga_merchant_trade_rethink_2:merchant_trade_completed.1|Mmm... Mis disculpas {mi señor/mi señora}. Ahora mismo.
+dlga_start:reinforcements_intro|¿Quien está ahí? Somos {s20}.\\ Estamos de camino a {s21}.
 dlga_reinforcements_intro:close_window|Soy {playername}. Solo pasaba por aquí.
-dlga_reinforcements_intro:reinforcement_hostile|Soy {playername}. Y solo estoy aquí para evitar que lleguéis a vuestro destino.
-dlga_reinforcement_hostile:reinforcements_attack|¿Qué? Estamos bajo la protección de {s9}.\\Estad seguro de que tomará represalias contra vos.
-dlga_reinforcements_attack:close_window|¡Eso espero!¡Lo mataré igual que a vosotros!
-dlga_reinforcements_attack:close_window.1|¡Desde luego! ¡Pero no lo has visto todo de mí!
-dlga_lco_conversation_end:close_window|¡Es bueno saber que no me ha olvidado!
+dlga_reinforcements_intro:reinforcement_hostile|Soy {playername}. Estoy aquí para evitar que lleguéis a vuestro destino.
+dlga_reinforcement_hostile:reinforcements_attack|¿Qué? Estamos bajo la protección de {s9}.\\Tened por seguro que tomará represalias contra vos.
+dlga_reinforcements_attack:close_window|¡Ya veremos! ¡Tendrá el mismo destino que vosotros!
+dlga_reinforcements_attack:close_window.1|¡Desde luego! ¡Pero no lo habéis visto todo de mí!
+dlga_lco_conversation_end:close_window|¡Es bueno saber que no me habéis olvidado!
 dlga_lco_conversation_end:close_window.1|¡Es un honor serviros!
-dlga_lord_request_enlistment:lord_request_enlistment_confirm|Tengo espacio en mis filas para vos, {playername}. Podéis prometerme lealtad como mi espada juramentada y comenzar como {s1}. Os pagaría semanalmente {s2}. Estaréis equipado como corresponde a vuestro rango. También podréis tomar lo que encontréis en las batallas. ¿Qué decís?
-dlga_lord_request_enlistment_confirm:close_window|Parece una propuesta justa y estable. Estoy con vos, mi señor.
-dlga_lord_request_enlistment_confirm:lord_pretalk|Bueno, pensándolo bien, mi señor, podría probar suerte en solitario. Pero igualmente os lo agradezco.
-dlga_lord_request_enlistment:lord_pretalk|No confío en vos como para dejar que me sirváis.
-dlga_lord_request_reassignment:lord_request_reassignment_select|¿Reasignaros, {playername}? ¿No os gusta vuestro actual puesto? Está bien, veamos. ¿En qué estábais pensado?
-dlga_lord_request_reassignment:lord_pretalk|Lo siento, {muchacho/muchacha}, pero no puedo permitir que mis hombres cambien de idea a diario. La próxima vez os pediré que os vayais, directamente.
-dlga_lord_request_reassignment_select:lord_request_reassignment_confirm|Nuevo rol en la infantería: {s1}
-dlga_lord_request_reassignment_select:lord_request_reassignment_confirm.1|Posición con tropas a distancia: {s2}
-dlga_lord_request_reassignment_select:lord_request_reassignment_confirm.2|Posición entre los jinetes: {s3}
-dlga_lord_request_reassignment_select:lord_request_reassignment_confirm.3|Me gustaría empezar con los reclutas otra vez.
-dlga_lord_request_reassignment_select:lord_pretalk|De hecho... mejor no, señor. Estoy bien como {s5}
+dlga_lord_request_enlistment:lord_request_enlistment_confirm|Tengo espacio en mis filas para {un hombre/una mujer} de vuestra posición, {playername}. Podéis jurarme lealtad y comenzar como mi {s1}. Recibiríais semanalmente {s2} venados de plata además de equiparos como corresponde a vuestro rango. También seréis recompensado con una parte del botín de las batallas. ¿Qué me decís?
+dlga_lord_request_enlistment_confirm:close_window|Parece una propuesta justa y honorable que con gusto acepto. Contaréis con mis servicios y mi lealtad, mi señor.
+dlga_lord_request_enlistment_confirm:lord_pretalk|Parece una propuesta justa y honorable pero debo rechazarla. Deseo seguir mi propio camino, pero igualmente os lo agradezco.
+dlga_lord_request_enlistment:lord_pretalk|Lo siento, pero no confío lo suficiente en vos como para dejar que me sirváis.
+dlga_lord_request_reassignment:lord_request_reassignment_select|¿Reasignaros, {playername}? ¿No os gusta vuestro actual puesto?. Bueno, veamos. ¿En qué estábais pensado?
+dlga_lord_request_reassignment:lord_pretalk|Lo siento {playername}, pero no puedo permitir que mis hombres cambien de parecer a diario. La próxima vez ni siquiera tendremos esta conversación, directamente os pediré que os vayáis.
+dlga_lord_request_reassignment_select:lord_request_reassignment_confirm|Nuevo cometido dentro de la infantería: {s1},
+dlga_lord_request_reassignment_select:lord_request_reassignment_confirm.1|Nuevo cometido dentro de las tropas a distancia: {s2}.
+dlga_lord_request_reassignment_select:lord_request_reassignment_confirm.2|Nuevo cometido dentro de la caballería: {s3}.
+dlga_lord_request_reassignment_select:lord_request_reassignment_confirm.3|Me gustaría volver a comenzar como recluta.
+dlga_lord_request_reassignment_select:lord_pretalk|De hecho... Mejor no, mi señor. Estoy bien como {s5}.
 dlga_lord_request_reassignment_confirm:lord_request_reassignment_finish|De acuerdo, {playername}, ¿Seguro que queréis que mi Maestro de Armas empiece a entrenaros como {s4}?
-dlga_lord_request_reassignment_finish:lord_pretalk|Sí. Me gustaría entrenarme como {s4}, mi señor.
-dlga_lord_request_reassignment_finish:lord_pretalk.1|De hecho... mejor no, mi señor. Estoy bien como {s5}. Mi señor.
-dlga_lord_request_retire:lord_pretalk|Muy bien, {playername}. Quedáis liberado de vuestro juramento hacia mí y dejáis de ser servirme como espada juramentada.
-dlga_lord_request_vacation:lord_pretalk|Muy bien {playername}. Podéis tomaros algún tiempo de permiso. Volved en dos semanas como máximo.
-dlga_ask_return_from_leave:lord_pretalk|Bienvenido {playername}. Yo diría que vuestros compañeros de armas os han extrañado, ahora volved a vuestro puesto.
-dlga_ask_return_from_leave:lord_pretalk.1|Es bueno veros, {playername}. Fue una terrible experiencia a la que nos enfrentamos contra el enemigo. Me alegra teneros de vuelta en mis tropas.
+dlga_lord_request_reassignment_finish:lord_pretalk|Sin duda querría entrenarme como {s4}, mi señor.
+dlga_lord_request_reassignment_finish:lord_pretalk.1|De hecho... Mejor no, mi señor. Estoy bien como {s5}.
+dlga_lord_request_retire:lord_pretalk|Esta bien, {playername}. Quedáis liberado de vuestras obligaciones como espada juramentada.
+dlga_lord_request_vacation:lord_pretalk|Esta bien {playername}. Os permito tomaros permiso de dos semanas alejado de vuestras obligaciones.
+dlga_ask_return_from_leave:lord_pretalk|Bienvenido de nuevo, {playername}. Me atrevería a decir que vuestros compañeros de armas os han extrañado durante vuestro permiso. Ahora volved a vuestras obligaciones.
+dlga_ask_return_from_leave:lord_pretalk.1|Es bueno comprobar que seguís vivo, {playername}. La encarnizada batalla fue una terrible experiencia para los hombres, me alegro de contar con vos entre mis tropas.

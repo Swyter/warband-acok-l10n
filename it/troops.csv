@@ -60,22 +60,22 @@ trp_mercenary_r_extra4|I1 Cittadino Viaggiatore
 trp_mercenary_r_extra4_pl|I1 Cittadini Viaggiatori
 trp_mercenary_r_extra5|I1 Cittadino Mansueto
 trp_mercenary_r_extra5_pl|I1 Cittadini Mansueti
-; trp_mercenary_e_townsman|Sellsword Recruit
-; trp_mercenary_e_townsman_pl|Sellsword Recruits
-; trp_mercenary_infantry_1|Sellsword Man-at-Arms
-; trp_mercenary_infantry_1_pl|Sellsword Men-at-Arms
-; trp_mercenary_infantry_2|Veteran Sellsword Man-at-Arms
-; trp_mercenary_infantry_2_pl|Veteran Sellsword Men-at-Arms
+trp_mercenary_e_townsman|Recluta Mercenaria
+trp_mercenary_e_townsman_pl|Reclute Mercenarie
+trp_mercenary_infantry_1|Mercenario
+trp_mercenary_infantry_1_pl|Mercenari
+trp_mercenary_infantry_2|Mercenario veterano
+trp_mercenary_infantry_2_pl|Mercenari veterani
 ; trp_mercenary_infantry_3|Elite Sellsword Man-at-Arms
 ; trp_mercenary_infantry_3_pl|Elite Sellsword Men-at-Arms
 ; trp_mercenary_archer_1|Sellsword Longbowman
 ; trp_mercenary_archer_1_pl|Sellsword Longbowmen
 ; trp_mercenary_archer_2|Veteran Sellsword Longbowman
-; trp_mercenary_archer_2_pl|Veteran Sellsword Longbowmen
-; trp_mercenary_archer_3|Elite Sellsword Longbowman
-; trp_mercenary_archer_3_pl|Elite Sellsword Longbowmen
-; trp_mercenary_horseman_1|Hedge Knight
-; trp_mercenary_horseman_1_pl|Hedge Knight
+trp_mercenary_archer_2_pl|Arcieri (arco lungo) mercenari veterani
+trp_mercenary_archer_3|Arciere (arco lungo) mercenario d'Elite
+trp_mercenary_archer_3_pl|Arcieri (arco lungo) mercenari d'Elite
+trp_mercenary_horseman_1|Cavaliere della Barriera
+trp_mercenary_horseman_1_pl|Cavaliere della Barriera
 trp_mercenaries_end|mercenaries end
 trp_mercenaries_end_pl|mercenaries end
 trp_swadian_r_peasant|I1 Contadino di Swadia
@@ -446,14 +446,14 @@ trp_sarranid_n_uluteci1|Cavaliere Pesante della Tempesta
 trp_sarranid_n_uluteci1_pl|Cavalieri Pesanti della Tempesta
 trp_sarranid_n_millet2|Recluta del Nord
 trp_sarranid_n_millet2_pl|Reclute del Nord
-; trp_sarranid_n_ajam2|Northern Billman
-; trp_sarranid_n_ajam2_pl|Northern Billmen
-; trp_sarranid_n_cemaat2|Veteran Northern Billman
-; trp_sarranid_n_cemaat2_pl|Veteran Northern Billmen
+trp_sarranid_n_ajam2|Lanciere del Nord
+trp_sarranid_n_ajam2_pl|Lancieri del Nord
+trp_sarranid_n_cemaat2|Lanciere veterano del Nord
+trp_sarranid_n_cemaat2_pl|Lancieri veterani del Nord
 trp_sarranid_n_jebelus2|Arciere del Nord
 trp_sarranid_n_jebelus2_pl|Arcieri del Nord
-; trp_sarranid_n_yerliyya2|Elite Northern Billman
-; trp_sarranid_n_yerliyya2_pl|Elite Northern Billmen
+trp_sarranid_n_yerliyya2|Lanciere nordico d'Elite
+trp_sarranid_n_yerliyya2_pl|Lancieri nordici d'Elite
 trp_northern_spearman|Soldato con Asta del Nord
 trp_northern_spearman_pl|Soldati con Asta del Nord
 trp_sarranid_n_timariot2|Arciere Veterano del Nord
@@ -502,8 +502,8 @@ trp_sarranid_n_yerliyya8|Uomo d'Arme d'Elite Roccia del Drago
 trp_sarranid_n_yerliyya8_pl|Uomini d'Arme d'Elite Roccia del Drago
 trp_sarranid_n_timariot8|Arciere Arco Lungo Roccia del Drago
 trp_sarranid_n_timariot8_pl|Arcieri Arco Lungo Roccia del Drago
-; trp_sarranid_n_garip8|Dragonstone Halberdier
-; trp_sarranid_n_garip8_pl|Dragonstone Halberdiers
+trp_sarranid_n_garip8|Alabardiere di Dragonstone
+trp_sarranid_n_garip8_pl|Alabardieri di Dragonstone
 trp_dragonstone_troop_1|Arciere Lungo Veterano Roccia del Drago
 trp_dragonstone_troop_1_pl|Arcieri Lungo Veterani Roccia del Drago
 trp_sarranid_n_yeniceri8|Cavaliere Roccia del Drago
@@ -844,7 +844,7 @@ trp_custom_r_spearman_equip|I4 Indipendente Lanciere
 trp_custom_r_spearman_equip_pl|I4 Indipendente Lancieri
 trp_custom_r_spearman_selection|I4 Indipendente Lanciere
 trp_custom_r_spearman_selection_pl|I4 Indipendente Lancieri
-; trp_custom_r_swordman|I4 Freelancer Swordman2
+trp_custom_r_swordman|l4 Spadaccino
 trp_custom_r_swordman_pl|I4 Indipendente Spadaccini
 trp_custom_r_swordman_equip|I4 Indipendente Spadaccino
 trp_custom_r_swordman_equip_pl|I4 Indipendente Spadaccini
@@ -928,7 +928,7 @@ trp_custom_e_woodsman_equip|A3 Indipendente Boscaiolo
 trp_custom_e_woodsman_equip_pl|A3 Indipendente Boscaioli
 trp_custom_e_woodsman_selection|A3 Indipendente Boscaiolo
 trp_custom_e_woodsman_selection_pl|A3 Indipendente Boscaioli
-; trp_custom_e_swordman|I4 Freelancer Swordman3
+trp_custom_e_swordman|l4 Indipendente Spadaccino
 trp_custom_e_swordman_pl|I4 Indipendente Spadaccini
 trp_custom_e_swordman_equip|I4 Indipendente Spadaccino
 trp_custom_e_swordman_equip_pl|I4 Indipendente Spadaccini
@@ -1358,8 +1358,8 @@ trp_event_lute_player|Suonatore di Liuto
 trp_event_lute_player_pl|Suonatori di Liuto
 trp_event_peasant|Contadino
 trp_event_peasant_pl|Contadini
-; trp_event_peasant_female|Peasant
-; trp_event_peasant_female_pl|Peasants
+trp_event_peasant_female|Contadino
+trp_event_peasant_female_pl|Contadini
 ; trp_event_plump_bastard|Bastard
 ; trp_event_plump_bastard_pl|Bastard
 trp_goldcloak_1|Alabardiere delle Cappe Dorate
@@ -1414,14 +1414,14 @@ trp_oldtown_knight_pl|Cavalieri di Vecchia Città
 ; trp_skyreach_skirmisher_pl|Skyreach Skirmishers
 trp_driftmark_spearman|Soldato con Asta di Driftmark
 trp_driftmark_spearman_pl|Soldati con Asta di Driftmark
-; trp_port_gold_cloak|Gold Cloak Deserter
-; trp_port_gold_cloak_pl|Gold Cloak Deserters
-; trp_port_claw_isle_archer|Claw Isle Archer
-; trp_port_claw_isle_archer_pl|Claw Isle Archers
-; trp_port_tarth_knight|Tarth Knight
-; trp_port_tarth_knight_pl|Tarth Knights
-; trp_port_tyroshi_corsair|Corsair
-; trp_port_tyroshi_corsair_pl|Corsairs
+trp_port_gold_cloak|Disertore
+trp_port_gold_cloak_pl|Disertori
+trp_port_claw_isle_archer|Arciere di Claw
+trp_port_claw_isle_archer_pl|Arcieri di Claw
+trp_port_tarth_knight|Cavaliere di Tarth
+trp_port_tarth_knight_pl|Cavalieri di Tarth
+trp_port_tyroshi_corsair|Corsaro
+trp_port_tyroshi_corsair_pl|Corsari
 ; trp_port_ibben_axeman|Ibben Axeman
 ; trp_port_ibben_axeman_pl|Ibben Axemen
 ; trp_port_myrish_crossbowmen|Myrman Crossbowman
@@ -3204,8 +3204,8 @@ trp_knight_8_13|Ser Lomas Estermont
 trp_knight_8_13_pl|Ser Lomas Estermont
 trp_knight_8_14|Salladhor Saan
 trp_knight_8_14_pl|Salladhor Saan
-; trp_knight_8_15|Lord Roger Staunton
-; trp_knight_8_15_pl|Lord Roger Staunton
+trp_knight_8_15|Lord Roger Staunton
+trp_knight_8_15_pl|Lord Roger Staunton
 ; trp_knight_9_1|Lord Renfred Rykker
 ; trp_knight_9_1_pl|Lord Renfred Rykker
 trp_knight_9_2|Ser Stafford Lannister
@@ -4318,8 +4318,8 @@ trp_town_49_arena_master|Mastro dei Tornei
 trp_town_50_arena_master|Mastro dei Tornei
 trp_town_51_arena_master|Mastro dei Tornei
 trp_town_52_arena_master|Mastro dei Tornei
-; trp_town_53_arena_master|Tournament Master
-; trp_town_54_arena_master|Tournament Master
+trp_town_53_arena_master|Maestro del torneo
+trp_town_54_arena_master|Maestro del torneo
 trp_town_1_crook|Town 2 Crook
 trp_town_1_crook_pl|Town 2 Crook
 trp_town_3_crook|Town 3 Crook
@@ -4432,8 +4432,8 @@ trp_town_49_armorer|Mercante di Armature
 trp_town_50_armorer|Mercante di Armature
 trp_town_51_armorer|Mercante di Armature
 trp_town_52_armorer|Mercante di Armature
-; trp_town_53_armorer|Armorer
-; trp_town_54_armorer|Armorer
+trp_town_53_armorer|Mercante di armature
+trp_town_54_armorer|Mercante di armature
 trp_town_1_weaponsmith|Armaiolo
 trp_town_3_weaponsmith|Armaiolo
 trp_town_6_weaponsmith|Armaiolo
@@ -4470,8 +4470,8 @@ trp_town_49_weaponsmith|Armaiolo
 trp_town_50_weaponsmith|Armaiolo
 trp_town_51_weaponsmith|Armaiolo
 trp_town_52_weaponsmith|Armaiolo
-; trp_town_53_weaponsmith|Weaponsmith
-; trp_town_54_weaponsmith|Weaponsmith
+trp_town_53_weaponsmith|Fabbro
+trp_town_54_weaponsmith|Fabbro
 trp_town_1_tavernkeeper|Joffrey
 ; trp_town_3_tavernkeeper|Rose the Maid
 ; trp_town_6_tavernkeeper|Alleria the Lion
@@ -4507,9 +4507,9 @@ trp_town_47_tavernkeeper|Maelo l'Orso
 trp_town_49_tavernkeeper|Elmer Snow
 ; trp_town_50_tavernkeeper|Graznon the Ghiscari
 trp_town_51_tavernkeeper|Alain
-; trp_town_52_tavernkeeper|Aelgor the Purple
-; trp_town_53_tavernkeeper|Aelgor the Purple
-; trp_town_54_tavernkeeper|Aelgor the Purple
+trp_town_52_tavernkeeper|Aelgor il Viola
+trp_town_53_tavernkeeper|Aelgor il Viola
+trp_town_54_tavernkeeper|Aelgor il Viola
 trp_town_1_merchant|Mercante
 trp_town_3_merchant|Mercante
 trp_town_6_merchant|Mercante
@@ -4548,8 +4548,8 @@ trp_town_49_merchant|Mercante
 trp_town_50_merchant|Mercante
 trp_town_51_merchant|Mercante
 trp_town_52_merchant|Mercante
-; trp_town_53_merchant|Merchant
-; trp_town_54_merchant|Merchant
+trp_town_53_merchant|Mercante
+trp_town_54_merchant|Mercante
 trp_town_1_horse_merchant|Mercante di Cavalli
 trp_town_3_horse_merchant|Mercante di Cavalli
 trp_town_6_horse_merchant|Mercante di Cavalli
@@ -4586,8 +4586,8 @@ trp_town_49_horse_merchant|Mercante di Cavalli
 trp_town_50_horse_merchant|Mercante di Cavalli
 trp_town_51_horse_merchant|Mercante di Cavalli
 trp_town_52_horse_merchant|Mercante di Cavalli
-; trp_town_53_horse_merchant|Horse Merchant
-; trp_town_54_horse_merchant|Horse Merchant
+trp_town_53_horse_merchant|Mercante di cavalli
+trp_town_54_horse_merchant|Mercante di cavalli
 ; trp_town_1_mayor|Guild Master Edric
 trp_town_3_mayor|Borgomastro Jon Rivers
 ; trp_town_6_mayor|Guild Master Albar
@@ -4624,8 +4624,8 @@ trp_town_49_mayor|Borgomastro Hubert il Westerosi
 ; trp_town_50_mayor|Guild Master Kermit the Westerosi
 trp_town_51_mayor|Borgomastro Ono il Lhazareen
 trp_town_52_mayor|Borgomastro Peayt il Qarthene
-; trp_town_53_mayor|Guild Master Pryat
-; trp_town_54_mayor|Guild Master Ellar
+trp_town_53_mayor|Maestro di Gilda Pryat
+trp_town_54_mayor|Maestro di Gilda Ellar
 trp_village_1_elder|Anziano del villaggio
 trp_village_2_elder|Anziano del villaggio
 trp_village_3_elder|Anziano del villaggio
@@ -4833,11 +4833,11 @@ trp_village_205_elder|Anziano del villaggio
 trp_village_206_elder|Anziano del villaggio
 trp_village_207_elder|Anziano del villaggio
 trp_village_208_elder|Anziano del Villaggio
-; trp_village_209_elder|Village Elder
-; trp_village_210_elder|Village Elder
-; trp_village_211_elder|Village Elder
-; trp_village_212_elder|Village Elder
-; trp_village_213_elder|Village Elder
+trp_village_209_elder|Anziano del villaggio
+trp_village_210_elder|Anziano del villaggio
+trp_village_211_elder|Anziano del villaggio
+trp_village_212_elder|Anziano del villaggio
+trp_village_213_elder|Anziano del villaggio
 trp_merchants_end|merchants end
 trp_merchants_end_pl|merchants end
 trp_local_merchant|Mercante Locale
@@ -5036,8 +5036,8 @@ trp_skill_hunter_pl|Cacciatori
 ; trp_skill_surgeon_pl|Barber
 ; trp_skill_monk|Begging Brother
 ; trp_skill_monk_pl|Begging Brothers
-; trp_skill_merchant|Merchant
-; trp_skill_merchant_pl|Merchant
+trp_skill_merchant|Mercante
+trp_skill_merchant_pl|Mercante
 ; trp_skill_priest|Maester
 ; trp_skill_priest_pl|Maester
 trp_skill_bishop|Septon
