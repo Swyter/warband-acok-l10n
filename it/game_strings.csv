@@ -544,7 +544,7 @@ str_npc8_backstory_b|Suppongo che si desidera sentire la mia storia, eh? Non ho 
 ; str_npc23_backstory_b|My sister Ferro is fighting with some sellsword company, and I've heard she's become a valued advisor to the captain. And maybe she warms his bed, should he get lonely! A bastard is loathed and pitied all over the world, but still! About time Ferro had herself a few babes anyhow, I find it best to start young. Got two babes myself, a daughter and a son.
 ; str_npc24_backstory_b|And what happens to the people that stayed loyal to the Targaryens? Well, we're out of a job, with our lives taken over by thieves and murderers. Bah!
 ; str_npc25_backstory_b|CARVING IT, CARVING IT, CARVING IT. Unseeing, unthinking, moving through the city as aimlessly as a worm burrows through the earth. CARVE, CARVE, CARVE!
-; str_npc26_backstory_b|My tale is my own.
+str_npc26_backstory_b|Io sono la mia storia.
 ; str_npc27_backstory_b|I'm a member of house Waterman, we're from the North. My brother is sworn to lord Bolton, but daughters ah... they're not supposed to run around in mail and fighting with swords. White Harbor is where most highborn ladies end up, if they don't marry. Special sort of woman who doesn't marry, and they're quite content in White Harbor. All those septas, eh?
 ; str_npc28_backstory_b|All her tall tales, and for what? Nothing! My father, my sister, my brother, all gone. And now she sends another one to persuade me. Well, you can tell Tamora that she can go fuck herself. I don't care what it is this time. Gold, silver, the bejewelled member of the Father Above, I say no, no, no!
 ; str_npc1_backstory_c|I was young and out of my wits, and foolishly swore to never enter the lists of another tourney, as a penance. So I was forced to serve as a sworn knight and merchants guard, and that does not offer opportunity for glory, nor wealth.
@@ -605,7 +605,7 @@ str_npc27_backstory_later|{playername}. Siete ancora qui?
 str_npc28_backstory_later|Cosa volete, {playername}?
 ; str_npc1_backstory_response_1|You seem a stout enough fellow Ser Bennis, perharps you would like to join my company?
 str_npc2_backstory_response_1|Bene, potrei offrirvi del lavoro. Sapete combattere?
-; str_npc3_backstory_response_1|Well, as it happens, I do believe you could be of use to me.
+str_npc3_backstory_response_1|Bene, quando accadrà crederò che tu possa essermi utile.
 ; str_npc4_backstory_response_1|Hmm, I have never heard of the Unsullied before, but perhaps you can enlighten me. I welcome you into my service.
 str_npc5_backstory_response_1|Potrei anche usare un cavaliere del mio seguito.
 ; str_npc6_backstory_response_1|Well, you seem like an able enough man, mayhaps you'd like to join my company?

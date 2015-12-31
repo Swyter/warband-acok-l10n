@@ -176,8 +176,8 @@ itm_market_silver_chalice_pl|Calice D'Argento
 ; itm_market_lyseni_wine_pl|Jar of Lyseni Wine
 ; itm_market_qohorik_carpets|Qohorik Carpets
 ; itm_market_qohorik_carpets_pl|Qohorik Carpets
-; itm_market_bronzewood|Bronzewood
-; itm_market_bronzewood_pl|Bronzewood
+itm_market_bronzewood|Bronzewood
+itm_market_bronzewood_pl|Bronzewood
 ; itm_market_myrish_carpets|Myrish Carpets
 ; itm_market_myrish_carpets_pl|Myrish Carpets
 ; itm_market_tyroshi_pear_brandy|Bottle of Tyroshi Pear Brandy
