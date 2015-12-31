@@ -146,16 +146,8 @@ itm_trade_ale|Barril de cerveza
 itm_trade_ale_pl|Barril de cerveza
 itm_market_gold_chalice|Cáliz de oro
 itm_market_gold_chalice_pl|Cáliz de oro
-itm_market_lemon_basket|Cesta de limones
-itm_market_lemon_basket_pl|Cesta de limones
-itm_market_plum_basket|Cesta de ciruelas
-itm_market_plum_basket_pl|Cesta de ciruelas
 itm_market_dornish_wine|Caja de vino dorniense
 itm_market_dornish_wine_pl|Caja de vino dorniense
-itm_market_pear_basket|Cesta de peras
-itm_market_pear_basket_pl|Cesta de peras
-itm_market_apple_basket|Cesta de manzanas
-itm_market_apple_basket_pl|Cesta de manzanas
 itm_market_arbor_red|Tinaja de vino de El Rejo
 itm_market_arbor_red_pl|Tinaja de vino de El Rejo
 itm_market_candles|Velas
@@ -192,6 +184,14 @@ itm_market_perfume|Frasco de perfume
 itm_market_perfume_pl|Frasco de perfume
 itm_trade_smoked_fish|Pescado ahumado
 itm_trade_smoked_fish_pl|Pescado ahumado
+itm_market_lemon_basket|Cesta de limones
+itm_market_lemon_basket_pl|Cesta de limones
+itm_market_plum_basket|Cesta de ciruelas
+itm_market_plum_basket_pl|Cesta de ciruelas
+itm_market_pear_basket|Cesta de peras
+itm_market_pear_basket_pl|Cesta de peras
+itm_market_apple_basket|Cesta de manzanas
+itm_market_apple_basket_pl|Cesta de manzanas
 itm_trade_cheese|Queso
 itm_trade_cheese_pl|Queso
 itm_trade_honey|Tarro de miel
@@ -346,6 +346,10 @@ itm_varys_npc_3_chest|El cofre del Illyrio
 itm_varys_npc_3_chest_pl|El cofre del Illyrio
 itm_barrel_of_pitch|Barril de brea
 itm_barrel_of_pitch_pl|Barril de brea
+; itm_qohor_blacksmith_maester_letter|Maester Ryons Scroll
+; itm_qohor_blacksmith_maester_letter_pl|Maester Ryons Scroll
+; itm_yandels_illuminations|A World of Ice and Fire
+; itm_yandels_illuminations_pl|A World of Ice and Fire
 itm_huge_ruby|Rubí Grande
 itm_huge_ruby_pl|Rubí Grande
 itm_carved_tusk|Colmillo Tallado
@@ -398,8 +402,8 @@ itm_horse_light_b|Corcel dothraki
 itm_horse_light_b_pl|Corcel dothraki
 itm_horse_light_c|Corcel dothraki
 itm_horse_light_c_pl|Corcel dothraki
-itm_andal_destrier|Destrier Ándalo
-itm_andal_destrier_pl|Destrier Ándalo
+; itm_andal_destrier|Destrier
+; itm_andal_destrier_pl|Destrier
 itm_plate_warhorse_1|Caballo de guerra con placas
 itm_plate_warhorse_1_pl|Caballo de guerra con placas
 itm_plate_warhorse_2|Caballo de guerra con placas
@@ -448,14 +452,6 @@ itm_we_vae_spear_scythe_shortened|Guadaña militar acortada
 itm_we_vae_spear_scythe_shortened_pl|Guadaña militar acortada
 itm_we_vae_spear_polehammer|Lanza ligera
 itm_we_vae_spear_polehammer_pl|Lanza ligera
-itm_we_khe_spear_staff|Lanza ligera
-itm_we_khe_spear_staff_pl|Lanza ligera
-itm_we_khe_spear_bamboolong|Lanza ligera
-itm_we_khe_spear_bamboolong_pl|Lanza ligera
-itm_we_khe_spear_nagita|Lanza ligera
-itm_we_khe_spear_nagita_pl|Lanza ligera
-itm_we_khe_spear_haftedblade|Lanza ligera
-itm_we_khe_spear_haftedblade_pl|Lanza ligera
 itm_heavy_spear_1|Lanza pesada
 itm_heavy_spear_1_pl|Lanza pesada
 itm_heavy_spear_2|Lanza pesada
@@ -484,8 +480,6 @@ itm_we_vae_sword_sickle|Hoz
 itm_we_vae_sword_sickle_pl|Hoz
 itm_we_vae_sword_cleaver_military|Cuchillo militar
 itm_we_vae_sword_cleaver_military_pl|Cuchillo militar
-itm_we_swa_sword_clamshell_claymore|Espadón
-itm_we_swa_sword_clamshell_claymore_pl|Espadón
 itm_we_swa_sword_twohanded_claymore|Espadón
 itm_we_swa_sword_twohanded_claymore_pl|Espadón
 itm_gregors_great_sword|Gran Espada de Gregor Clegane
@@ -494,8 +488,6 @@ itm_we_vae_sword_cleaverwar|Cuchillo de guerra
 itm_we_vae_sword_cleaverwar_pl|Cuchillo de guerra
 itm_we_khe_sword_sabre|Espadón
 itm_we_khe_sword_sabre_pl|Espadón
-itm_we_nor_sword_danish_great|Espadón
-itm_we_nor_sword_danish_great_pl|Espadón
 itm_we_rho_sword_great|Espadón
 itm_we_rho_sword_great_pl|Espadón
 itm_we_pla_sword_great_four|Alabarda
@@ -572,38 +564,36 @@ itm_ar_vae_t7_elite_b|Armadura pesada de láminas de plata
 itm_ar_vae_t7_elite_b_pl|Armadura pesada de láminas de plata
 itm_ar_khe_t2_armor_a|Armadura de pieles
 itm_ar_khe_t2_armor_a_pl|Armadura de pieles
-itm_ar_khe_t6_tunic_a|Armadura pesada dothraki
-itm_ar_khe_t6_tunic_a_pl|Armadura pesada dothraki
-itm_ar_nor_t7_vikingbyrnie_a|Loriga de mallas decorada con cota de malla
-itm_ar_nor_t7_vikingbyrnie_a_pl|Loriga de mallas decorada con cota de malla
-itm_ar_rho_ban_highlander_a|Vestimentas del clan de la montaña
-itm_ar_rho_ban_highlander_a_pl|Vestimentas del clan de la montaña
-itm_ar_rho_t4_highlander_a|Armadura laminada del clan de la montaña
-itm_ar_rho_t4_highlander_a_pl|Armadura laminada del clan de la montaña
+; itm_ar_khe_t6_tunic_a|Heavy Leather Armor
+; itm_ar_khe_t6_tunic_a_pl|Heavy Leather Armor
+; itm_ar_nor_t7_vikingbyrnie_a|Chain Mail Hauberk
+; itm_ar_nor_t7_vikingbyrnie_a_pl|Chain Mail Hauberk
+; itm_ar_rho_t4_highlander_a|Lamellar Armor
+; itm_ar_rho_t4_highlander_a_pl|Lamellar Armor
 itm_ar_pla_t6_heraldic_a|Armadura pesada de placas
 itm_ar_pla_t6_heraldic_a_pl|Armadura pesada de placas
-itm_ar_swa_shi_linen|Túnica marrón
-itm_ar_swa_shi_linen_pl|Túnica marrón
-itm_ar_swa_tun_tabard|Túnica cara
-itm_ar_swa_tun_tabard_pl|Túnica cara
-itm_brown_robe|Túnica marrón
-itm_brown_robe_pl|Túnica marrón
+; itm_ar_swa_shi_linen|Light Robe
+; itm_ar_swa_shi_linen_pl|Light Robe
+; itm_ar_swa_tun_tabard|Cloth Tunic
+; itm_ar_swa_tun_tabard_pl|Cloth Tunic
+; itm_brown_robe|Light Robe
+; itm_brown_robe_pl|Light Robe
 itm_ar_pla_pri_pilgrimdisguise|Disfraz
 itm_ar_pla_pri_pilgrimdisguise_pl|Disfraz
 itm_dress_general_bride|Vestido de novia
 itm_dress_general_bride_pl|Vestido de novia
 itm_bo_gen_t0_bride_shoes|Zapatos de novia
 itm_bo_gen_t0_bride_shoes_pl|Zapatos de novia
-itm_bo_swa_t4_sandal|Sandalias de placas
-itm_bo_swa_t4_sandal_pl|Sandalias de placas
-itm_bo_swa_t6_mail|Botas chapadas de mallas
-itm_bo_swa_t6_mail_pl|Botas chapadas de mallas
+; itm_bo_swa_t4_sandal|Plated Shoes
+; itm_bo_swa_t4_sandal_pl|Plated Shoes
+; itm_bo_swa_t6_mail|Mail Greaves
+; itm_bo_swa_t6_mail_pl|Mail Greaves
 itm_bo_vae_t2_shoes|Zapatos
 itm_bo_vae_t2_shoes_pl|Zapatos
 itm_bo_vae_t3_leather|Botas de cuero
 itm_bo_vae_t3_leather_pl|Botas de cuero
-itm_bo_vae_t4_shoes|Zapatos chapados de cuero
-itm_bo_vae_t4_shoes_pl|Zapatos chapados de cuero
+; itm_bo_vae_t4_shoes|Plated Leather Boots
+; itm_bo_vae_t4_shoes_pl|Plated Leather Boots
 itm_bo_khe_t0_sandal|Botas de malla
 itm_bo_khe_t0_sandal_pl|Botas de malla
 itm_bo_khe_t2_boots|Botas de cuero
@@ -616,12 +606,12 @@ itm_bo_nor_t2_shoes|Botas de cuero
 itm_bo_nor_t2_shoes_pl|Botas de cuero
 itm_bo_rho_t3_highlander|Botas de piel
 itm_bo_rho_t3_highlander_pl|Botas de piel
-itm_bo_rho_t4_greaves|Grebas entablilladas
-itm_bo_rho_t4_greaves_pl|Grebas entablilladas
-itm_bo_rho_t5_greaves|Grebas entablilladas de malla
-itm_bo_rho_t5_greaves_pl|Grebas entablilladas de malla
-itm_bo_sar_t4_camel|Calzas de lana
-itm_bo_sar_t4_camel_pl|Calzas de lana
+; itm_bo_rho_t4_greaves|Plated Leather Boots
+; itm_bo_rho_t4_greaves_pl|Plated Leather Boots
+; itm_bo_rho_t5_greaves|Mail Greaves
+; itm_bo_rho_t5_greaves_pl|Mail Greaves
+; itm_bo_sar_t4_camel|Shoes
+; itm_bo_sar_t4_camel_pl|Shoes
 itm_bo_sar_t6_mail|Zapatos
 itm_bo_sar_t6_mail_pl|Zapatos
 itm_bo_sar_t7_greaves|Zapatos
@@ -636,60 +626,58 @@ itm_bo_pla_t5_highlander|Botas de mallas
 itm_bo_pla_t5_highlander_pl|Botas de mallas
 itm_bo_pla_t7_greaves|Botas de placas
 itm_bo_pla_t7_greaves_pl|Botas de placas
-itm_ga_swa_a4_plate|Mitones de placas
-itm_ga_swa_a4_plate_pl|Mitones de placas
+; itm_ga_swa_a4_plate|Plate Gauntlets
+; itm_ga_swa_a4_plate_pl|Plate Gauntlets
 itm_ga_swa_a6_plate|Guanteletes de placas
 itm_ga_swa_a6_plate_pl|Guanteletes de placas
 itm_ga_vae_a5_mail|Guanteletes de mallas
 itm_ga_vae_a5_mail_pl|Guanteletes de mallas
-itm_ga_vae_a6_black|Guanteletes de hierro
-itm_ga_vae_a6_black_pl|Guanteletes de hierro
+; itm_ga_vae_a6_black|Plate Gauntlets
+; itm_ga_vae_a6_black_pl|Plate Gauntlets
 itm_ga_khe_a5_armor|Guantes de láminas
 itm_ga_khe_a5_armor_pl|Guantes de láminas
 itm_ga_khe_a6_lamellar|Guantes de láminas
 itm_ga_khe_a6_lamellar_pl|Guantes de láminas
 itm_ga_rho_a2_leather|Guantes de cuero
 itm_ga_rho_a2_leather_pl|Guantes de cuero
-itm_ga_rho_a5_bnw|Guanteletes de placas decorado
-itm_ga_rho_a5_bnw_pl|Guanteletes de placas decorado
-itm_ga_rho_a6_hourglass|Guanteletes de hierro
-itm_ga_rho_a6_hourglass_pl|Guanteletes de hierro
+; itm_ga_rho_a5_bnw|Plate Gauntlets
+; itm_ga_rho_a5_bnw_pl|Plate Gauntlets
+; itm_ga_rho_a6_hourglass|Plate Gauntlets
+; itm_ga_rho_a6_hourglass_pl|Plate Gauntlets
 itm_ga_pla_a5_iron|Guanteletes de placas
 itm_ga_pla_a5_iron_pl|Guanteletes de placas
-itm_he_gen_lad_bride_crown|Corona de flores
-itm_he_gen_lad_bride_crown_pl|Corona de flores
-itm_he_swa_lad_common_a|Turbante blanco
-itm_he_swa_lad_common_a_pl|Turbante blanco
-itm_he_swa_t1_common_a|Capucha
-itm_he_swa_t1_common_a_pl|Capucha
-itm_he_swa_t1_noble_a|Crespina
-itm_he_swa_t1_noble_a_pl|Crespina
-itm_he_vae_lad_lady_a|Barboquejo
-itm_he_vae_lad_lady_a_pl|Barboquejo
-itm_he_vae_t1_common_a|Sombrero de fieltro
-itm_he_vae_t1_common_a_pl|Sombrero de fieltro
+; itm_he_gen_lad_bride_crown|Lady Headcloth
+; itm_he_gen_lad_bride_crown_pl|Lady Headcloth
+; itm_he_swa_lad_common_a|Headcloth
+; itm_he_swa_lad_common_a_pl|Headcloth
+; itm_he_swa_t1_common_a|Hood
+; itm_he_swa_t1_common_a_pl|Hood
+; itm_he_swa_t1_noble_a|Headcloth
+; itm_he_swa_t1_noble_a_pl|Headcloth
+; itm_he_vae_lad_lady_a|Lady Headcloth
+; itm_he_vae_lad_lady_a_pl|Lady Headcloth
+; itm_he_vae_t1_common_a|Hat
+; itm_he_vae_t1_common_a_pl|Hat
 itm_he_khe_lad_common_a|Gorra de cuero
 itm_he_khe_lad_common_a_pl|Gorra de cuero
-itm_he_nor_t1_common_a|Gorro de lana
-itm_he_nor_t1_common_a_pl|Gorro de lana
+; itm_he_nor_t1_common_a|Hat
+; itm_he_nor_t1_common_a_pl|Hat
 itm_he_pla_pri_noel|Casco de jabalí
 itm_he_pla_pri_noel_pl|Casco de jabalí
 itm_he_swa_t2_coif_a|Cofia acolchada
 itm_he_swa_t2_coif_a_pl|Cofia acolchada
 itm_he_swa_t3_helmet_a|Yelmo de cabra
 itm_he_swa_t3_helmet_a_pl|Yelmo de cabra
-itm_he_swa_t4_bascinet_a|Sombrero de paja
-itm_he_swa_t4_bascinet_a_pl|Sombrero de paja
-itm_he_vae_t6_warhelmet_a|Sombrero de fieltro
-itm_he_vae_t6_warhelmet_a_pl|Sombrero de fieltro
+; itm_he_vae_t6_warhelmet_a|Hat
+; itm_he_vae_t6_warhelmet_a_pl|Hat
 itm_he_vae_t7_warmask_a|Yelmo grande
 itm_he_vae_t7_warmask_a_pl|Yelmo grande
-itm_he_vae_t7_warmask_b|Gorra de cuero
-itm_he_vae_t7_warmask_b_pl|Gorra de cuero
-itm_he_khe_t2_steppe_a|Gorra de cuero con pieles
-itm_he_khe_t2_steppe_a_pl|Gorra de cuero con pieles
-itm_he_khe_t3_steppe_a|Casco de cuero
-itm_he_khe_t3_steppe_a_pl|Casco de cuero
+; itm_he_vae_t7_warmask_b|Heavy Leather Cap
+; itm_he_vae_t7_warmask_b_pl|Heavy Leather Cap
+; itm_he_khe_t2_steppe_a|Leather Cap
+; itm_he_khe_t2_steppe_a_pl|Leather Cap
+; itm_he_khe_t3_steppe_a|Leather Cap
+; itm_he_khe_t3_steppe_a_pl|Leather Cap
 itm_he_khe_t4_war_a|Borgoñota
 itm_he_khe_t4_war_a_pl|Borgoñota
 itm_he_khe_t5_neck_a|Yelmo grande
@@ -698,8 +686,8 @@ itm_he_nor_t2_spangen_a|Yelmo nasal
 itm_he_nor_t2_spangen_a_pl|Yelmo nasal
 itm_he_nor_t3_valsgarde_a|Yelmo nasal
 itm_he_nor_t3_valsgarde_a_pl|Yelmo nasal
-itm_he_nor_t5_valsgarde_a|Yelmo nasal
-itm_he_nor_t5_valsgarde_a_pl|Yelmo nasal
+; itm_he_nor_t5_valsgarde_a|Top Helmet
+; itm_he_nor_t5_valsgarde_a_pl|Top Helmet
 itm_he_rho_t2_beret_a|Gorra de cuero
 itm_he_rho_t2_beret_a_pl|Gorra de cuero
 itm_he_rho_t5_kettle_a|Yelmo nasal
@@ -764,42 +752,24 @@ itm_brigandine_b_heraldic|Armadura heráldica pesada de placas
 itm_brigandine_b_heraldic_pl|Armadura heráldica pesada de placas
 itm_heraldic_tunic_new|Armadura heráldica pesada de placas
 itm_heraldic_tunic_new_pl|Armadura heráldica pesada de placas
-itm_frenchpepperpot2|Yelmo con placa frontal
-itm_frenchpepperpot2_pl|Yelmo con placa frontal
-itm_frenchpepperpot3|Yelmo con placa frontal
-itm_frenchpepperpot3_pl|Yelmo con placa frontal
-itm_munitionshelm2|Yelmo con placa frontal
-itm_munitionshelm2_pl|Yelmo con placa frontal
+; itm_munitionshelm2|Top Helmet
+; itm_munitionshelm2_pl|Top Helmet
 itm_conichelm|Yelmo cónico
 itm_conichelm_pl|Yelmo cónico
-itm_pepperpothelm1|Yelmo con placa frontal
-itm_pepperpothelm1_pl|Yelmo con placa frontal
-itm_normanpepperpot|Yelmo cónico con placa frontal
-itm_normanpepperpot_pl|Yelmo cónico con placa frontal
-itm_munitionshelm1|Yelmo con placa frontal
-itm_munitionshelm1_pl|Yelmo con placa frontal
+; itm_munitionshelm1|Top Helmet
+; itm_munitionshelm1_pl|Top Helmet
 itm_crownedhelm|Yelmo nasal con corona
 itm_crownedhelm_pl|Yelmo nasal con corona
-itm_frenchpepperpot|Yelmo con placa frontal
-itm_frenchpepperpot_pl|Yelmo con placa frontal
-itm_flattophelmet|Yelmo
-itm_flattophelmet_pl|Yelmo
-itm_chionite_hat_b|Gorro de lana
-itm_chionite_hat_b_pl|Gorro de lana
-itm_clansman_cloth_1|Túnica del clan
-itm_clansman_cloth_1_pl|Túnica del clan
-itm_clansman_cloth_2|Túnica del clan
-itm_clansman_cloth_2_pl|Túnica del clan
-itm_clansman_cloth_3|Túnica del clan
-itm_clansman_cloth_3_pl|Túnica del clan
-itm_clansman_lamellar_1|Armadura laminada del clan
-itm_clansman_lamellar_1_pl|Armadura laminada del clan
-itm_clansman_lamellar_2|Armadura laminada del clan
-itm_clansman_lamellar_2_pl|Armadura laminada del clan
-itm_clansman_fur_armor_1|Armadura pesada de pieles del clan
-itm_clansman_fur_armor_1_pl|Armadura pesada de pieles del clan
-itm_clansman_fur_armor_2|Armadura pesada de pieles del clan
-itm_clansman_fur_armor_2_pl|Armadura pesada de pieles del clan
+; itm_chionite_hat_b|Hat
+; itm_chionite_hat_b_pl|Hat
+; itm_clansman_lamellar_1|Lamellar Armor
+; itm_clansman_lamellar_1_pl|Lamellar Armor
+; itm_clansman_lamellar_2|Lamellar Armor
+; itm_clansman_lamellar_2_pl|Lamellar Armor
+; itm_clansman_fur_armor_1|Heavy Fur Armor
+; itm_clansman_fur_armor_1_pl|Heavy Fur Armor
+; itm_clansman_fur_armor_2|Heavy Fur Armor
+; itm_clansman_fur_armor_2_pl|Heavy Fur Armor
 itm_bigod_spurs|Botas de placas
 itm_bigod_spurs_pl|Botas de placas
 itm_brienne_spurs|Botas de placas
@@ -810,46 +780,32 @@ itm_longshanks_helm|Yelmo coronado grande
 itm_longshanks_helm_pl|Yelmo coronado grande
 itm_byz_helmet_a|Yelmo nasal
 itm_byz_helmet_a_pl|Yelmo nasal
-itm_archer_a|Túnica de campesino
-itm_archer_a_pl|Túnica de campesino
-itm_militia_tunic_a|Túnica de campesino
-itm_militia_tunic_a_pl|Túnica de campesino
-itm_peasant_b|Túnica de campesino
-itm_peasant_b_pl|Túnica de campesino
-itm_peasant_c|Túnica de campesino
-itm_peasant_c_pl|Túnica de campesino
-itm_peasant_man_b|Túnica de campesino
-itm_peasant_man_b_pl|Túnica de campesino
-itm_peasant_outfit_a|Túnica de campesino
-itm_peasant_outfit_a_pl|Túnica de campesino
-itm_flattop_a|Yelmo
-itm_flattop_a_pl|Yelmo
+; itm_archer_a|Cloth Tunic
+; itm_archer_a_pl|Cloth Tunic
+; itm_militia_tunic_a|Cloth Tunic
+; itm_militia_tunic_a_pl|Cloth Tunic
+; itm_peasant_b|Cloth Tunic
+; itm_peasant_b_pl|Cloth Tunic
+; itm_peasant_c|Cloth Tunic
+; itm_peasant_c_pl|Cloth Tunic
+; itm_peasant_man_b|Cloth Tunic
+; itm_peasant_man_b_pl|Cloth Tunic
+; itm_peasant_outfit_a|Cloth Tunic
+; itm_peasant_outfit_a_pl|Cloth Tunic
+; itm_flattop_a|Open Top Helmet
+; itm_flattop_a_pl|Open Top Helmet
 itm_varangian_helmet|Yelmo de catafracta
 itm_varangian_helmet_pl|Yelmo de catafracta
 itm_andalusianskirmisher_armor|Túnica pesada de cuero
 itm_andalusianskirmisher_armor_pl|Túnica pesada de cuero
-itm_gaelic_mail_shirt_a|Loriga de mallas
-itm_gaelic_mail_shirt_a_pl|Loriga de mallas
-itm_galloglass_padded|Loriga de mallas
-itm_galloglass_padded_pl|Loriga de mallas
 itm_lit_segmented_helmet|Yelmo grande
 itm_lit_segmented_helmet_pl|Yelmo grande
-itm_liv_tunic_a|Túnica de creyente
-itm_liv_tunic_a_pl|Túnica de creyente
-itm_teu_postulant|Loriga de mallas
-itm_teu_postulant_pl|Loriga de mallas
-itm_mackie_dagger|Daga valyria
-itm_mackie_dagger_pl|Daga valyria
 itm_mackie_bearded_axe|Hacha pesada
 itm_mackie_bearded_axe_pl|Hacha pesada
 itm_mackie_beefsplitter01|Cuchillo de carnicero
 itm_mackie_beefsplitter01_pl|Cuchillo de carnicero
 itm_mackie_beefsplitter02|Cuchillo de carnicero
 itm_mackie_beefsplitter02_pl|Cuchillo de carnicero
-itm_mackie_celtic_axe|Hacha pesada
-itm_mackie_celtic_axe_pl|Hacha pesada
-itm_mackie_tomahawk|Hacha ligera
-itm_mackie_tomahawk_pl|Hacha ligera
 itm_mackie_varangian_axe|Hacha ligera
 itm_mackie_varangian_axe_pl|Hacha ligera
 itm_mackie_voulge|Voulge
@@ -868,68 +824,50 @@ itm_col1_kettlehat1|Bascinete
 itm_col1_kettlehat1_pl|Bascinete
 itm_col1_kettlehat2|Bascinete
 itm_col1_kettlehat2_pl|Bascinete
-itm_byzantion|Capelina puntiaguda
-itm_byzantion_pl|Capelina puntiaguda
-itm_col1_byzantion|Capelina puntiaguda
-itm_col1_byzantion_pl|Capelina puntiaguda
-itm_aketon|Aketon
-itm_aketon_pl|Aketon
+; itm_byzantion|Kettle Hat
+; itm_byzantion_pl|Kettle Hat
+; itm_col1_byzantion|Kettle Hat
+; itm_col1_byzantion_pl|Kettle Hat
+; itm_aketon|Gambeson
+; itm_aketon_pl|Gambeson
 itm_nomad_cap_b_new|Gorro de cuero
 itm_nomad_cap_b_new_pl|Gorro de cuero
 itm_black_khergit_armor_new|Armadura de pieles
 itm_black_khergit_armor_new_pl|Armadura de pieles
 itm_black_nomad_armor_new|Armadura de pieles
 itm_black_nomad_armor_new_pl|Armadura de pieles
-itm_brass_shield2|Broquel de bronze
-itm_brass_shield2_pl|Broquel de bronze
 itm_dec_steel_shield|Broquel de plata
 itm_dec_steel_shield_pl|Broquel de plata
 itm_brass_mamluk_armor|Armadura pesada de placas
 itm_brass_mamluk_armor_pl|Armadura pesada de placas
-itm_mercenary_lamellar|Armadura laminada valiosa
-itm_mercenary_lamellar_pl|Armadura laminada valiosa
-itm_mercenary_surcoat|Sobretodo sobre malla
-itm_mercenary_surcoat_pl|Sobretodo sobre malla
-itm_mercenary_hauberk|Loriga de mallas
-itm_mercenary_hauberk_pl|Loriga de mallas
-itm_surcoat_braavosi|Sobretodo sobre malla
-itm_surcoat_braavosi_pl|Sobretodo sobre malla
-itm_surcoat_lorathi|Sobretodo  sobre malla
-itm_surcoat_lorathi_pl|Sobretodo sobre malla
-itm_surcoat_tyrosh|Sobretodo sobre malla
-itm_surcoat_tyrosh_pl|Sobretodo sobre malla
-itm_surcoat_lys|Sobretodo sobre malla
-itm_surcoat_lys_pl|Sobretodo sobre malla
-itm_militia_tunic_a2|Túnica con capa
-itm_militia_tunic_a2_pl|Túnica con capa
-itm_peasant_b2|Túnica con capa
-itm_peasant_b2_pl|Túnica con capa
-itm_peasant_c2|Túnica con capa
-itm_peasant_c2_pl|Túnica con capa
-itm_peasant_outfit_a2|Túnica con capa
-itm_peasant_outfit_a2_pl|Túnica con capa
+; itm_militia_tunic_a2|Cloth Tunic
+; itm_militia_tunic_a2_pl|Cloth Tunic
+; itm_peasant_b2|Cloth Tunic
+; itm_peasant_b2_pl|Cloth Tunic
+; itm_peasant_c2|Cloth Tunic
+; itm_peasant_c2_pl|Cloth Tunic
+; itm_peasant_outfit_a2|Cloth Tunic
+; itm_peasant_outfit_a2_pl|Cloth Tunic
 itm_norman_short_hauberk|Loriga de mallas
 itm_norman_short_hauberk_pl|Loriga de mallas
-itm_rough_padded_leather|Túnica acolchada
-itm_rough_padded_leather_pl|Túnica acolchada
-itm_surcoat_over_mail_swadian_f|Sobretodo de cuero sobre malla
-itm_surcoat_over_mail_swadian_f_pl|Sobretodo de cuero sobre malla
-itm_rathos_fluted_helmet|Casco estriado
-itm_rathos_fluted_helmet_pl|Casco estriado
+; itm_rough_padded_leather|Leather Jerkin
+; itm_rough_padded_leather_pl|Leather Jerkin
+; itm_surcoat_over_mail_swadian_f|Surcoat over Mail
+; itm_surcoat_over_mail_swadian_f_pl|Surcoat over Mail
+; itm_rathos_fluted_helmet|Conical Helmet
+; itm_rathos_fluted_helmet_pl|Conical Helmet
 itm_inv_nikolskoe_helm|Yelmo de catafracta
 itm_inv_nikolskoe_helm_pl|Yelmo de catafracta
-itm_kolchuga|Loriga de mallas
-itm_kolchuga_pl|Loriga de mallas
-itm_rus_cap|Cofia
-itm_rus_cap_pl|Cofia
-itm_rus_fur_hat|Sombrero de piel Braavosi
-itm_rus_fur_hat_pl|Sombrero de piel Braavosi
+; itm_rus_cap|Hat
+; itm_rus_cap_pl|Hat
+; itm_rus_fur_hat|Hat
+; itm_rus_fur_hat_pl|Hat
 itm_langsax|Cuchillo largo
 itm_langsax_pl|Cuchillo largo
-itm_saxon_cap|Gorro
-itm_saxon_cap_pl|Cofia
-itm_saxon_tunic_a|Túnica
-itm_saxon_tunic_a_pl|Túnica
+; itm_saxon_cap|Hat
+; itm_saxon_cap_pl|Hat
+; itm_saxon_tunic_a|Cloth Tunic
+; itm_saxon_tunic_a_pl|Cloth Tunic
 itm_crossbearer_cap|Gorro de Septón
 itm_crossbearer_cap_pl|Cofia Septon
 itm_crossbearer|Túnica de Septón
@@ -938,8 +876,8 @@ itm_red_priest|Túnica de Sacerdote Rojo
 itm_red_priest_pl|Túnica roja de sacerdote
 itm_sonyer_saracen_2|Bacinete
 itm_sonyer_saracen_2_pl|Bacinete
-itm_leather_vest_brn|Chaleco de cuero
-itm_leather_vest_brn_pl|Chaleco de cuero
+; itm_leather_vest_brn|Leather Jerkin
+; itm_leather_vest_brn_pl|Leather Jerkin
 itm_gambeson_trans|Gambesón
 itm_gambeson_trans_pl|Gambesón
 itm_onion_top_bascinet|Borgoñota
@@ -984,52 +922,38 @@ itm_mackie_morning_star|Maza de pinchos
 itm_mackie_morning_star_pl|Maza de pinchos
 itm_kataphraktoi_2|Jubón de cuero
 itm_kataphraktoi_2_pl|Jubón de cuero
-itm_kataphraktoi_3|Armadura pesada de láminas
-itm_kataphraktoi_3_pl|Armadura pesada de láminas
-itm_kataphraktoi_4|Gabán de placas
-itm_kataphraktoi_4_pl|Gabán de placas
-itm_kataphraktoi_5|Gabán de placas
-itm_kataphraktoi_5_pl|Gabán de placas
+; itm_kataphraktoi_4|Chain Mail Hauberk
+; itm_kataphraktoi_4_pl|Chain Mail Hauberk
+; itm_kataphraktoi_5|Chain Mail Hauberk
+; itm_kataphraktoi_5_pl|Chain Mail Hauberk
 itm_shortsword1|Espada corta
 itm_shortsword1_pl|Espada corta
-itm_rus_mail_cozur|Loriga de malla
-itm_rus_mail_cozur_pl|Loriga de malla
 itm_sh_rho_pav_deploy_a|Armadura pesada de láminas
 itm_sh_rho_pav_deploy_a_pl|Armadura pesada de láminas
-itm_sh_rho_pav_deploy_b|Armadura pesada de placas
-itm_sh_rho_pav_deploy_b_pl|Armadura pesada de placas
 itm_sh_rho_pav_deploy_e|Botas de placas
 itm_sh_rho_pav_deploy_e_pl|Botas de placas
 itm_sh_rho_pav_deploy_f|Botas de placas
 itm_sh_rho_pav_deploy_f_pl|Botas de placas
 itm_fi_tourney_helmet_2|Yelmo de torneo decorado
 itm_fi_tourney_helmet_2_pl|Yelmo de torneo decorado
-itm_fi_hood_1|Capucha de tela
-itm_fi_hood_1_pl|Capucha de tela
+; itm_fi_hood_1|Hood
+; itm_fi_hood_1_pl|Hood
 itm_fi_hood_4|Capucha de cuero
 itm_fi_hood_4_pl|Capucha de cuero
-itm_fi_sallet_1|Celada con visera
-itm_fi_sallet_1_pl|Celada con visera
-itm_fi_sallet_2|Celada con visera
-itm_fi_sallet_2_pl|Celada con visera
+; itm_fi_sallet_1|Sallet
+; itm_fi_sallet_1_pl|Sallet
+; itm_fi_sallet_2|Sallet
+; itm_fi_sallet_2_pl|Sallet
 itm_fi_sallet_3|Celada abierta
 itm_fi_sallet_3_pl|Celada abierta
-itm_fi_great_bascinet|Bascinete grande
-itm_fi_great_bascinet_pl|Bascinete grande
-itm_fi_pigface|Bacinete caradecerdo
-itm_fi_pigface_pl|Bacinete caradecerdo
+; itm_fi_great_bascinet|Great Helmet
+; itm_fi_great_bascinet_pl|Great Helmet
+; itm_fi_pigface|Hounskull Helmet
+; itm_fi_pigface_pl|Hounskull Helmet
 itm_fi_cataphract_helmet_2|Yelmo de catafracta
 itm_fi_cataphract_helmet_2_pl|Yelmo de catafracta
 itm_cool_dagger|Daga
 itm_cool_dagger_pl|Daga
-itm_cool_dagger_2|Daga
-itm_cool_dagger_2_pl|Daga
-itm_cool_dagger_3|Daga
-itm_cool_dagger_3_pl|Daga
-itm_cool_dagger_4|Daga
-itm_cool_dagger_4_pl|Daga
-itm_ilyns_leather_armor|Armadura de cuero de Ilyn
-itm_ilyns_leather_armor_pl|Armadura de cuero de Ilyn
 itm_kingsguard_armor|Armadura de Guardia Real
 itm_kingsguard_armor_pl|Armadura de guardia real
 itm_stormlands_sellsword_armor_1|Loriga de mallas
@@ -1040,8 +964,6 @@ itm_sellsword_armor_4|Loriga de mallas
 itm_sellsword_armor_4_pl|Loriga de mallas
 itm_fi_chain_mail_hauberk|Loriga de mallas
 itm_fi_chain_mail_hauberk_pl|Loriga de mallas
-itm_shagwells_armor|Loriga de mallas
-itm_shagwells_armor_pl|Loriga de mallas
 itm_sellsword_armor_3|Armadura pesada de placas
 itm_sellsword_armor_3_pl|Armadura pesada de placas
 itm_vale_sellsword_armor_5|Armadura pesada de placas
@@ -1078,8 +1000,10 @@ itm_fi_leather_jerkin_2|Jubón de cuero
 itm_fi_leather_jerkin_2_pl|Jubón de cuero
 itm_fi_leather_jerkin|Jubón pesado de cuero
 itm_fi_leather_jerkin_pl|Jubón pesado de cuero
-itm_fi_green_leather_armor|Jubón de cuero del Bosque Real
-itm_fi_green_leather_armor_pl|Jubón de cuero del Bosque Real
+; itm_fi_green_leather_armor|Leather Jerkin
+; itm_fi_green_leather_armor_pl|Leather Jerkin
+; itm_westerlands_noble_1|Leather Jerkin
+; itm_westerlands_noble_1_pl|Leather Jerkin
 itm_stormland_light|Gambesón
 itm_stormland_light_pl|Gambesón
 itm_sellsword_light|Jubón de cuero
@@ -1094,18 +1018,18 @@ itm_nightswatch_a|Jubón de cuero
 itm_nightswatch_a_pl|Jubón de cuero
 itm_nightswatch_b|Jubón de cuero
 itm_nightswatch_b_pl|Jubón de cuero
-itm_nightswatch_c|Jubón de cuero reforzado
-itm_nightswatch_c_pl|Jubón de cuero reforzado
+; itm_nightswatch_c|Heavy Leather Jerkin
+; itm_nightswatch_c_pl|Heavy Leather Jerkin
 itm_nightswatch_d|Armadura laminada
 itm_nightswatch_d_pl|Armadura laminada
-itm_north_archer|Gambesón de cuero
-itm_north_archer_pl|Gambesón de cuero
+; itm_north_archer|Gambeson
+; itm_north_archer_pl|Gambeson
 itm_north_hunter|Jubón de cuero
 itm_north_hunter_pl|Jubón de cuero
 itm_north_heavycav|Armadura pesada de cuero
 itm_north_heavycav_pl|Armadura pesada de cuero
-itm_riverlands_light|Jubón escamado de cuero
-itm_riverlands_light_pl|Jubón escamado de cuero
+; itm_riverlands_light|Leather Jerkin
+; itm_riverlands_light_pl|Leather Jerkin
 itm_riverlands_freyheavy|Jubón de cuero
 itm_riverlands_freyheavy_pl|Jubón de cuero
 itm_riverlands_freylight|Jubón de cuero
@@ -1126,10 +1050,10 @@ itm_north_bolton_heavy|Loriga de mallas con placas
 itm_north_bolton_heavy_pl|Loriga de mallas con placas
 itm_north_bolton_standard_cloaked|Loriga de mallas
 itm_north_bolton_standard_cloaked_pl|Loriga de mallas
-itm_north_bolton_lord|Loriga de mallas con placas de los Bolton
-itm_north_bolton_lord_pl|Loriga de mallas con placas de los Bolton
-itm_north_bolton_lord_cloaked|Loriga de mallas de los Bolton
-itm_north_bolton_lord_cloaked_pl|Loriga de mallas de los Bolton
+; itm_north_bolton_lord|Plated Chain Mail Hauberk
+; itm_north_bolton_lord_pl|Plated Chain Mail Hauberk
+; itm_north_bolton_lord_cloaked|Chain Mail Hauberk
+; itm_north_bolton_lord_cloaked_pl|Chain Mail Hauberk
 itm_north_karstark_01|Loriga de mallas
 itm_north_karstark_01_pl|Loriga de mallas
 itm_north_karstark_01_heavy|Loriga de mallas con placas
@@ -1152,26 +1076,26 @@ itm_north_stark_captain_cloaked|Loriga de mallas
 itm_north_stark_captain_cloaked_pl|Loriga de mallas
 itm_north_stark_knight|Jubón pesado de cuero
 itm_north_stark_knight_pl|Jubón pesado de cuero
-itm_north_stark_heavy_knight|Jubón pesado de cuero con placas
-itm_north_stark_heavy_knight_pl|Jubón pesado de cuero con placas
-itm_north_stark_lord|Jubón pesado de cuero con placas
-itm_north_stark_lord_pl|Jubón pesado de cuero con placas
+; itm_north_stark_heavy_knight|Plated Leather Jerkin
+; itm_north_stark_heavy_knight_pl|Plated Leather Jerkin
+; itm_north_stark_lord|Plated Leather Jerkin
+; itm_north_stark_lord_pl|Plated Leather Jerkin
 itm_north_stark_standard|Jubón pesado de cuero
 itm_north_stark_standard_pl|Jubón pesado de cuero
 itm_north_stark_guardsman|Jubón pesado de cuero
 itm_north_stark_guardsman_pl|Jubón pesado de cuero
-itm_north_umbar|Jubón pesado de cuero con placas
-itm_north_umbar_pl|Jubón pesado de cuero con placas
-itm_north_umbar_cloaked|Jubón pesado de cuero con placas
-itm_north_umbar_cloaked_pl|Jubón pesado de cuero con placas
+; itm_north_umbar|Heavy Leather Jerkin
+; itm_north_umbar_pl|Heavy Leather Jerkin
+; itm_north_umbar_cloaked|Heavy Leather Jerkin
+; itm_north_umbar_cloaked_pl|Heavy Leather Jerkin
 itm_reach_loras|Armadura pesada con placas
 itm_reach_loras_pl|Armadura pesada con placas
 itm_reach_loras2|Armadura pesada con placas
 itm_reach_loras2_pl|Armadura pesada con placas
 itm_riverlands_blackfish|Loriga de mallas
 itm_riverlands_blackfish_pl|Loriga de mallas
-itm_riverlands_edmure|Loriga de mallas de Edmure
-itm_riverlands_edmure_pl|Loriga de mallas de Edmure
+; itm_riverlands_edmure|Chain Mail Hauberk
+; itm_riverlands_edmure_pl|Chain Mail Hauberk
 itm_riverlands_frey_01|Jubón de cuero
 itm_riverlands_frey_01_pl|Jubón de cuero
 itm_riverlands_frey_01_neck|Jubón pesado de cuero
@@ -1184,20 +1108,20 @@ itm_riverlands_heavy_no_shoulders|Loriga de mallas
 itm_riverlands_heavy_no_shoulders_pl|Loriga de mallas
 itm_riverlands_heavy|Loriga de mallas
 itm_riverlands_heavy_pl|Loriga de mallas
-itm_riverlands_heavy_neck|Loriga pesada de mallas
-itm_riverlands_heavy_neck_pl|Loriga pesada de mallas
+; itm_riverlands_heavy_neck|Chain Mail Hauberk
+; itm_riverlands_heavy_neck_pl|Chain Mail Hauberk
 itm_riverlands_standard_01|Jubón pesado de cuero
 itm_riverlands_standard_01_pl|Jubón pesado de cuero
 itm_stormlands_brienne|Armadura pesada con placas
 itm_stormlands_brienne_pl|Armadura pesada con placas
 itm_stormlands_brienne2|Armadura pesada con placas
 itm_stormlands_brienne2_pl|Armadura pesada con placas
-itm_stormlands_renly|Gambesón reforzado de Renlys
-itm_stormlands_renly_pl|Gambesón reforzado de Renlys
+; itm_stormlands_renly|Reinforced Gambeson
+; itm_stormlands_renly_pl|Reinforced Gambeson
 itm_westerlands_heavy|Armadura ligera de placas
 itm_westerlands_heavy_pl|Armadura ligera de placas
-itm_westerlands_heavy_lord|Armadura pesada de placas de Tywin
-itm_westerlands_heavy_lord_pl|Armadura pesada de placas de Tywin
+; itm_westerlands_heavy_lord|Heavy Plate Armor
+; itm_westerlands_heavy_lord_pl|Heavy Plate Armor
 itm_westerlands_heavy_standard|Armadura ligera de placas
 itm_westerlands_heavy_standard_pl|Armadura ligera de placas
 itm_westerlands_hound|Armadura ligera de placas
@@ -1212,8 +1136,8 @@ itm_westerlands_light_01|Jubón de cuero
 itm_westerlands_light_01_pl|Jubón de cuero
 itm_westerlands_light_02|Jubón de cuero
 itm_westerlands_light_02_pl|Jubón de cuero
-itm_westerlands_polliver_01|Jubón pesado de cuero con placas
-itm_westerlands_polliver_01_pl|Jubón pesado de cuero con placas
+; itm_westerlands_polliver_01|Plated Leather Jerkin
+; itm_westerlands_polliver_01_pl|Plated Leather Jerkin
 itm_westerlands_polliver_02|Jubón pesado de cuero
 itm_westerlands_polliver_02_pl|Jubón pesado de cuero
 itm_dragonstone_stannis|Loriga de mallas
@@ -1226,34 +1150,18 @@ itm_kingsguard_helm|Yelmo de la Guardia del Rey
 itm_kingsguard_helm_pl|Yelmo de la Guardia del Rey
 itm_armor_baratheon|Armadura pesada de placas
 itm_armor_baratheon_pl|Armadura pesada de placas
-itm_bnw_armour_slashed|Armadura ligera de placas
-itm_bnw_armour_slashed_pl|Armadura ligera de placas
 itm_bnw_armour_slashed_full|Armadura ligera de placas
 itm_bnw_armour_slashed_full_pl|Armadura ligera de placas
-itm_bnw_armour_stripes|Armadura ligera de placas
-itm_bnw_armour_stripes_pl|Armadura ligera de placas
 itm_bnw_armour_stripes_full|Armadura ligera de placas
 itm_bnw_armour_stripes_full_pl|Armadura ligera de placas
-itm_pollivers_armor|Armadura de Polliver
-itm_pollivers_armor_pl|Armadura Pollivers
-itm_chiswycks_armor|Armadura de Chiswyck
-itm_chiswycks_armor_pl|Armadura Chiswycks
-itm_dunsens_armor|Armadura de Dunsen
-itm_dunsens_armor_pl|Armadura Dunsens
-itm_raffords_armor|Armadura de Rafford
-itm_raffords_armor_pl|Armadura Raffords
-itm_ticklers_armor|Armadura de Tickler
-itm_ticklers_armor_pl|Armadura Ticklers
 itm_coldbringer|Gélida
 itm_coldbringer_pl|Gélida
 itm_fi_lowlander_sword|Espadón
 itm_fi_lowlander_sword_pl|Espadón
-itm_ssh_huscarl_armour|Armadura pesada de placas de Victarion
-itm_ssh_huscarl_armour_pl|Armadura pesada de placas Victarions
+; itm_ssh_huscarl_armour|Heavy Plate Armor
+; itm_ssh_huscarl_armour_pl|Heavy Plate Armor
 itm_kraken_mask|Yelmo Kraken
 itm_kraken_mask_pl|Yelmo Kraken
-itm_xenoargh_round_shield01|Broquel de mercenarios
-itm_xenoargh_round_shield01_pl|Broquel de mercenarios
 itm_west_man_at_arms_armor|Armadura pesada de placas
 itm_west_man_at_arms_armor_pl|Armadura pesada de placas
 itm_goplon1|Broquel de bronce
@@ -1264,10 +1172,8 @@ itm_arakh|Arakh
 itm_arakh_pl|Arakh
 itm_short_arakh|Arakh
 itm_short_arakh_pl|Arakh
-itm_tyrions_armor|Armadura de Tyrion
-itm_tyrions_armor_pl|Armadura de Tyrion
-itm_joffreys_armor|Armadura de Joffrey
-itm_joffreys_armor_pl|Armadura de Joffrey
+; itm_joffreys_armor|Light Plate Armor
+; itm_joffreys_armor_pl|Light Plate Armor
 itm_witcher_heater_7|Escudo cometa
 itm_witcher_heater_7_pl|Escudo cometa
 itm_nw_heater_shield|Escudo cometa
@@ -1284,16 +1190,10 @@ itm_xenoargh_shield_pavise_1|Pavés
 itm_xenoargh_shield_pavise_1_pl|Pavés
 itm_xenoargh_shield_pavise_2|Pavés
 itm_xenoargh_shield_pavise_2_pl|Pavés
-itm_xenoargh_round_shield02|Broquel de madera
-itm_xenoargh_round_shield02_pl|Broquel de madera
-itm_xenoargh_round_shield03_06|Broquel de cuero
-itm_xenoargh_round_shield03_06_pl|Broquel de cuero
 itm_stark_shield|Broquel de acero
 itm_stark_shield_pl|Broquel de acero
-itm_alen_cargylls_hauberk|Sobretodo de Alen Cargyll
-itm_alen_cargylls_hauberk_pl|Sobretodo de Alen Cargyll
-itm_wide_toga_1|Toga
-itm_wide_toga_1_pl|Toga
+; itm_wide_toga_1|Cloth Tunic
+; itm_wide_toga_1_pl|Cloth Tunic
 itm_reznak_robe_1|Vestido ghiscari
 itm_reznak_robe_1_pl|Vestido ghiscari
 itm_grazdan_robe_1|Vestido ghiscari
@@ -1306,44 +1206,30 @@ itm_yunkai_robe_1|Vestido ghiscari
 itm_yunkai_robe_1_pl|Vestido ghiscari
 itm_yunkai_robe_2|Vestido ghiscari
 itm_yunkai_robe_2_pl|Vestido ghiscari
-itm_kuauik_vale_style_1|Túnica ghiscaria
-itm_kuauik_vale_style_1_pl|Túnica ghiscaria
-itm_kuauik_mace_style_1|Túnica ghiscaria
-itm_kuauik_mace_style_1_pl|Túnica ghiscaria
-itm_kuauik_mace_style_2|Túnica ghiscaria
-itm_kuauik_mace_style_2_pl|Túnica ghiscaria
-itm_kuauik_mace_style_3|Túnica ghiscaria
-itm_kuauik_mace_style_3_pl|Túnica ghiscaria
-itm_kingsguard_armor_quest|Armadura de Guardia Real
-itm_kingsguard_armor_quest_pl|Armadura de Guardia Real
+; itm_kuauik_mace_style_1|Cloth Tunic
+; itm_kuauik_mace_style_1_pl|Cloth Tunic
+; itm_kuauik_mace_style_2|Cloth Tunic
+; itm_kuauik_mace_style_2_pl|Cloth Tunic
+; itm_kuauik_mace_style_3|Cloth Tunic
+; itm_kuauik_mace_style_3_pl|Cloth Tunic
 itm_kingsguard_helm_quest|Yelmo de Guardia Real
 itm_kingsguard_helm_quest_pl|Yelmo de Guardia Real
-itm_nord_dress_common_b|Vestido campesino
-itm_nord_dress_common_b_pl|Vestido campesino
-itm_rhodok_dress_common_b|Vestido campesino
-itm_rhodok_dress_common_b_pl|Vestido campesino
-itm_sarranid_dress_common_a|Vestido campesino
-itm_sarranid_dress_common_a_pl|Vestido campesino
-itm_sarranid_dress_common_b|Vestido campesino
-itm_sarranid_dress_common_b_pl|Vestido campesino
+; itm_nord_dress_common_b|Dress
+; itm_nord_dress_common_b_pl|Dress
+; itm_rhodok_dress_common_b|Dress
+; itm_rhodok_dress_common_b_pl|Dress
+; itm_sarranid_dress_common_a|Dress
+; itm_sarranid_dress_common_a_pl|Dress
+; itm_sarranid_dress_common_b|Dress
+; itm_sarranid_dress_common_b_pl|Dress
 itm_aemonds_helmet|Yelmo de Aemond Targaryen
 itm_aemonds_helmet_pl|Yelmo de Aemond Targaryen
 itm_aemonds_boots|Botas de Aemond Targaryen
 itm_aemonds_boots_pl|Botas de Aemond Targaryen
 itm_aemonds_armor|Armadura de Aemond Targaryen
 itm_aemonds_armor_pl|Armadura de Aemond Targaryen
-itm_fi_estoc|Espadón braavosi
-itm_fi_estoc_pl|Espadón braavosi
-itm_hoggox|Hacha
-itm_hoggox_pl|Hacha
-itm_slim_axe|Hacha
-itm_slim_axe_pl|Hacha
-itm_heavy_cutting_axe|Hacha
-itm_heavy_cutting_axe_pl|Hacha
-itm_axe_e|Hacha
-itm_axe_e_pl|Hacha
-itm_axe_f|Hacha
-itm_axe_f_pl|Hacha
+; itm_fi_estoc|Two-Handed Bravos Blade
+; itm_fi_estoc_pl|Two-Handed Bravos Blade
 itm_winters_frying_pan|Sartén
 itm_winters_frying_pan_pl|Sartén
 itm_bearded_axe|Hacha
@@ -1354,16 +1240,6 @@ itm_fi_broad_axe|Hacha a dos manos
 itm_fi_broad_axe_pl|Hacha a dos manos
 itm_fi_claymore|Espadón
 itm_fi_claymore_pl|Espadón
-itm_sar_helmet1|Yelmo
-itm_sar_helmet1_pl|Yelmo
-itm_sar_helmet2|Yelmo
-itm_sar_helmet2_pl|Yelmo
-itm_tuareg_helmet|Yelmo
-itm_tuareg_helmet_pl|Yelmo
-itm_tuareg|Turbante
-itm_tuareg_pl|Turbante
-itm_tuareg_open|Turbante
-itm_tuareg_open_pl|Turbante
 itm_dunland_antleraxe|Hacha astada
 itm_dunland_antleraxe_pl|Hacha astada
 itm_dunland_spear|Lanza de hueso
@@ -1376,34 +1252,34 @@ itm_wildling_heavy_armor_2|Armadura pesada de pieles
 itm_wildling_heavy_armor_2_pl|Armadura pesada de pieles
 itm_wildling_heavy_armor_3|Armadura pesada de pieles
 itm_wildling_heavy_armor_3_pl|Armadura pesada de pieles
-itm_wildling_leather_vest_1|Chaleco de cuero
-itm_wildling_leather_vest_1_pl|Chaleco de cuero
-itm_wildling_leather_vest_2|Chaleco de cuero
-itm_wildling_leather_vest_2_pl|Chaleco de cuero
-itm_wildling_noble_cloth|Túnica de caudillo salvaje
-itm_wildling_noble_cloth_pl|Túnica de caudillo salvaje
-itm_bw_wildling_cloth_tunic_1|Túnica
-itm_bw_wildling_cloth_tunic_1_pl|Túnica
-itm_bw_wildling_cloth_tunic_2|Túnica
-itm_bw_wildling_cloth_tunic_2_pl|Túnica
-itm_bw_wildling_cloth_tunic_3|Túnica
-itm_bw_wildling_cloth_tunic_3_pl|Túnica
-itm_bw_wildling_leather_tunic_1|Túnica de cuero
-itm_bw_wildling_leather_tunic_1_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_2|Túnica de cuero
-itm_bw_wildling_leather_tunic_2_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_3|Túnica de cuero
-itm_bw_wildling_leather_tunic_3_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_4|Túnica de cuero
-itm_bw_wildling_leather_tunic_4_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_5|Túnica de cuero
-itm_bw_wildling_leather_tunic_5_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_6|Túnica de cuero
-itm_bw_wildling_leather_tunic_6_pl|Túnica de cuero
-itm_kuyak_a|Armadura de pieles de Tormund
-itm_kuyak_a_pl|Armadura de pieles de Tormund
-itm_kuyak_b|Armadura de pieles de caudillo salvaje
-itm_kuyak_b_pl|Armadura de pieles de caudillo salvaje
+; itm_wildling_leather_vest_1|Leather Jerkin
+; itm_wildling_leather_vest_1_pl|Leather Jerkin
+; itm_wildling_leather_vest_2|Leather Jerkin
+; itm_wildling_leather_vest_2_pl|Leather Jerkin
+; itm_wildling_noble_cloth|Leather Jerkin
+; itm_wildling_noble_cloth_pl|Leather Jerkin
+; itm_bw_wildling_cloth_tunic_1|Cloth Tunic
+; itm_bw_wildling_cloth_tunic_1_pl|Cloth Tunic
+; itm_bw_wildling_cloth_tunic_2|Cloth Tunic
+; itm_bw_wildling_cloth_tunic_2_pl|Cloth Tunic
+; itm_bw_wildling_cloth_tunic_3|Cloth Tunic
+; itm_bw_wildling_cloth_tunic_3_pl|Cloth Tunic
+; itm_bw_wildling_leather_tunic_1|Leather Jerkin
+; itm_bw_wildling_leather_tunic_1_pl|Leather Jerkin
+; itm_bw_wildling_leather_tunic_2|Leather Jerkin
+; itm_bw_wildling_leather_tunic_2_pl|Leather Jerkin
+; itm_bw_wildling_leather_tunic_3|Leather Jerkin
+; itm_bw_wildling_leather_tunic_3_pl|Leather Jerkin
+; itm_bw_wildling_leather_tunic_4|Leather Jerkin
+; itm_bw_wildling_leather_tunic_4_pl|Leather Jerkin
+; itm_bw_wildling_leather_tunic_5|Leather Jerkin
+; itm_bw_wildling_leather_tunic_5_pl|Leather Jerkin
+; itm_bw_wildling_leather_tunic_6|Leather Jerkin
+; itm_bw_wildling_leather_tunic_6_pl|Leather Jerkin
+; itm_kuyak_a|Plated Leather Jerkin
+; itm_kuyak_a_pl|Plated Leather Jerkin
+; itm_kuyak_b|Plated Leather Jerkin
+; itm_kuyak_b_pl|Plated Leather Jerkin
 itm_coat_of_plates4|Armadura pesada de pieles
 itm_coat_of_plates4_pl|Armadura pesada de pieles
 itm_coat_of_plates5|Armadura pesada de pieles
@@ -1420,14 +1296,14 @@ itm_briton_helm|Yelmo nasal de caudillo salvaje
 itm_briton_helm_pl|Yelmo nasal de caudillo salvaje
 itm_dux_ridge_helm|Yelmo nasal de Tormund
 itm_dux_ridge_helm_pl|Yelmo nasal de Tormund
-itm_valsgarde1|Yelmo nasal
-itm_valsgarde1_pl|Yelmo nasal
-itm_valsgarde2|Yelmo nasal
-itm_valsgarde2_pl|Yelmo nasal
-itm_valsgarde3|Yelmo nasal
-itm_valsgarde3_pl|Yelmo nasal
-itm_valsgarde4|Yelmo nasal
-itm_valsgarde4_pl|Yelmo nasal
+; itm_valsgarde1|Old Nasal Helmet
+; itm_valsgarde1_pl|Old Nasal Helmet
+; itm_valsgarde2|Old Nasal Helmet
+; itm_valsgarde2_pl|Old Nasal Helmet
+; itm_valsgarde3|Old Nasal Helmet
+; itm_valsgarde3_pl|Old Nasal Helmet
+; itm_valsgarde4|Old Nasal Helmet
+; itm_valsgarde4_pl|Old Nasal Helmet
 itm_wildling_square_shield_1|Escudo de salvaje
 itm_wildling_square_shield_1_pl|Escudo de salvaje
 itm_wildling_square_shield_2|Escudo de salvaje
@@ -1444,34 +1320,34 @@ itm_wildling_square_shield_12|Escudo de salvaje
 itm_wildling_square_shield_12_pl|Escudo de salvaje
 itm_xenoargh_round_shield05_plain|Escudo de madera redondo
 itm_xenoargh_round_shield05_plain_pl|Escudo de madera redondo
-itm_bw_wildling_cloth_tunic_1_noble|Túnica
-itm_bw_wildling_cloth_tunic_1_noble_pl|Túnica
-itm_bw_wildling_cloth_tunic_2_noble|Túnica
-itm_bw_wildling_cloth_tunic_2_noble_pl|Túnica
-itm_bw_wildling_cloth_tunic_3_noble|Túnica
-itm_bw_wildling_cloth_tunic_3_noble_pl|Túnica
-itm_bw_wildling_leather_tunic_1_noble|Túnica de cuero
-itm_bw_wildling_leather_tunic_1_noble_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_2_noble|Túnica de cuero
-itm_bw_wildling_leather_tunic_2_noble_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_3_noble|Túnica de cuero
-itm_bw_wildling_leather_tunic_3_noble_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_4_noble|Túnica de cuero
-itm_bw_wildling_leather_tunic_4_noble_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_5_noble|Túnica de cuero
-itm_bw_wildling_leather_tunic_5_noble_pl|Túnica de cuero
-itm_bw_wildling_leather_tunic_6_noble|Túnica de cuero
-itm_bw_wildling_leather_tunic_6_noble_pl|Túnica de cuero
+; itm_bw_wildling_cloth_tunic_1_noble|Wildling Noble
+; itm_bw_wildling_cloth_tunic_1_noble_pl|Wildling Noble
+; itm_bw_wildling_cloth_tunic_2_noble|Wildling Noble
+; itm_bw_wildling_cloth_tunic_2_noble_pl|Wildling Noble
+; itm_bw_wildling_cloth_tunic_3_noble|Wildling Noble
+; itm_bw_wildling_cloth_tunic_3_noble_pl|Wildling Noble
+; itm_bw_wildling_leather_tunic_1_noble|Wildling Noble
+; itm_bw_wildling_leather_tunic_1_noble_pl|Wildling Noble
+; itm_bw_wildling_leather_tunic_2_noble|Wildling Noble
+; itm_bw_wildling_leather_tunic_2_noble_pl|Wildling Noble
+; itm_bw_wildling_leather_tunic_3_noble|Wildling Noble
+; itm_bw_wildling_leather_tunic_3_noble_pl|Wildling Noble
+; itm_bw_wildling_leather_tunic_4_noble|Wildling Noble
+; itm_bw_wildling_leather_tunic_4_noble_pl|Wildling Noble
+; itm_bw_wildling_leather_tunic_5_noble|Wildling Noble
+; itm_bw_wildling_leather_tunic_5_noble_pl|Wildling Noble
+; itm_bw_wildling_leather_tunic_6_noble|Wildling Noble
+; itm_bw_wildling_leather_tunic_6_noble_pl|Wildling Noble
 itm_we_swa_arrow_gromite|Flechas de acero
 itm_we_swa_arrow_gromite_pl|Flechas de acero
-itm_ar_nor_shi_skjortira|Atuendo dothraki
-itm_ar_nor_shi_skjortira_pl|Atuendo dothraki
-itm_ar_nor_tun_blue|Atuendo dothraki
-itm_ar_nor_tun_blue_pl|Atuendo dothraki
-itm_dothraki_lamellar|Armadura de láminas dothraki
-itm_dothraki_lamellar_pl|Armadura de láminas dothraki
-itm_brego_nord_helmet|Yelmo nasal
-itm_brego_nord_helmet_pl|Yelmo nasal
+; itm_ar_nor_shi_skjortira|Pants
+; itm_ar_nor_shi_skjortira_pl|Pants
+; itm_ar_nor_tun_blue|Pants
+; itm_ar_nor_tun_blue_pl|Pants
+; itm_dothraki_lamellar|Lamellar Armor
+; itm_dothraki_lamellar_pl|Lamellar Armor
+; itm_brego_nord_helmet|Old Nasal Helmet
+; itm_brego_nord_helmet_pl|Old Nasal Helmet
 itm_dothraki_hair_1|Trenza dothraki
 itm_dothraki_hair_1_pl|Trenza dothraki
 itm_dothraki_hair_2|Trenza dothraki
@@ -1490,12 +1366,6 @@ itm_otk_axe|Hacha
 itm_otk_axe_pl|Hacha
 itm_mackie_machete|Hoja dothraki
 itm_mackie_machete_pl|Hoja dothraki
-itm_mackie_meat_cleaver_1|Hoja de carnicero
-itm_mackie_meat_cleaver_1_pl|Hoja de carnicero
-itm_mackie_meat_cleaver_2|Hoja de carnicero
-itm_mackie_meat_cleaver_2_pl|Hoja de carnicero
-itm_mackie_meat_cleaver_3|Hoja de carnicero
-itm_mackie_meat_cleaver_3_pl|Hoja de carnicero
 itm_new_nightswatch_1|Jubón de cuero
 itm_new_nightswatch_1_pl|Jubón de cuero
 itm_new_nightswatch_1_cloak|Jubón de cuero
@@ -1518,20 +1388,22 @@ itm_new_nightswatch_5_cloak|Armadura ligera de placas
 itm_new_nightswatch_5_cloak_pl|Armadura ligera de placas
 itm_new_nightswatch_mance_rayder|Cota de malla
 itm_new_nightswatch_mance_rayder_pl|Cota de malla
-itm_aemons_robe|Hábito de Aemon
-itm_aemons_robe_pl|Hábito de Aemon
+; itm_aemons_robe|Light Robe
+; itm_aemons_robe_pl|Light Robe
 itm_dedal_kufel|Kufel
 itm_dedal_kufel_pl|Kufel
 itm_dedal_lutnia|Lutnia
 itm_dedal_lutnia_pl|Lutnia
 itm_dedal_lira|Lira
 itm_dedal_lira_pl|Lira
+; itm_axe_hands|Axe Hands
+; itm_axe_hands_pl|Axe Hands
 itm_awl_pike_a|Pica
 itm_awl_pike_a_pl|Pica
 itm_awl_pike_b|Pica
 itm_awl_pike_b_pl|Pica
-itm_dornish_cataphract_helmet|Casco completo
-itm_dornish_cataphract_helmet_pl|Casco completo
+; itm_dornish_cataphract_helmet|Cataphract Helmet
+; itm_dornish_cataphract_helmet_pl|Cataphract Helmet
 itm_dornish_chain_fur_1|Yelmo nasal
 itm_dornish_chain_fur_1_pl|Yelmo nasal
 itm_dornish_chain_fur_2|Yelmo nasal
@@ -1558,8 +1430,8 @@ itm_dornish_turban_helmet_1|Yelmo cónico
 itm_dornish_turban_helmet_1_pl|Yelmo cónico
 itm_dornish_lamellar|Chaleco laminado
 itm_dornish_lamellar_pl|Chaleco laminado
-itm_dornish_scale|Cota oxidada
-itm_dornish_scale_pl|Cota oxidada
+; itm_dornish_scale|Scale Mail Hauberk
+; itm_dornish_scale_pl|Scale Mail Hauberk
 itm_dornish_cavrobe_1|Cota de malla
 itm_dornish_cavrobe_1_pl|Cota de malla
 itm_dornish_chain_mail_shirt_3|Cota de malla
@@ -1568,80 +1440,22 @@ itm_dornish_heavy_lamellar|Armadura pesada de láminas
 itm_dornish_heavy_lamellar_pl|Armadura pesada de láminas
 itm_dornish_leather_robe|Jubón de cuero
 itm_dornish_leather_robe_pl|Jubón de cuero
-itm_dornish_skirmisher|Túnica acolchada
-itm_dornish_skirmisher_pl|Túnica acolchada
+; itm_dornish_skirmisher|Leather Jerkin
+; itm_dornish_skirmisher_pl|Leather Jerkin
 itm_broken_bottle|Botella rota
 itm_broken_bottle_pl|Botella rota
-itm_kuauik_padded_leather|Jubón de cuero
-itm_kuauik_padded_leather_pl|Jubón de cuero
-itm_kuauik_peasant_1|Túnica
-itm_kuauik_peasant_1_pl|Túnica
-itm_kuauik_peasant_2|Túnica
-itm_kuauik_peasant_2_pl|Túnica
-itm_kuauik_studded_leather_1|Chaleco de cuero con tachuelas
-itm_kuauik_studded_leather_1_pl|Chaleco de cuero con tachuelas
-itm_kuauik_studded_leather_2|Chaleco de cuero con tachuelas
-itm_kuauik_studded_leather_2_pl|Chaleco de cuero con tachuelas
-itm_kuauik_welsh_archer_1|Chaleco de cuero con tachuelas
-itm_kuauik_welsh_archer_1_pl|Chaleco de cuero con tachuelas
-itm_kuauik_welsh_archer_2|Chaleco de cuero con tachuelas
-itm_kuauik_welsh_archer_2_pl|Chaleco de cuero con tachuelas
-itm_kuauik_leather_tunic|Jubón de cuero
-itm_kuauik_leather_tunic_pl|Jubón de cuero
+; itm_kuauik_studded_leather_1|Heavy Leather Jerkin
+; itm_kuauik_studded_leather_1_pl|Heavy Leather Jerkin
+; itm_kuauik_welsh_archer_1|Leather Jerkin
+; itm_kuauik_welsh_archer_1_pl|Leather Jerkin
 itm_kuauik_dornish_leather_tunic_1|Jubón de cuero
 itm_kuauik_dornish_leather_tunic_1_pl|Jubón de cuero
 itm_kuauik_dornish_leather_tunic_2|Jubón de cuero
 itm_kuauik_dornish_leather_tunic_2_pl|Jubón de cuero
-itm_kuauik_dornish_studded_leather|Chaleco de cuero con tachuelas
-itm_kuauik_dornish_studded_leather_pl|Chaleco de cuero con tachuelas
 itm_kuauik_dornish_chain_mail|Loriga de mallas
 itm_kuauik_dornish_chain_mail_pl|Loriga de mallas
-itm_kuauik_gambeson|Gambesón
-itm_kuauik_gambeson_pl|Gambesón
-itm_kuauik_bulgar_armor|Armadura de láminas
-itm_kuauik_bulgar_armor_pl|Armadura de láminas
-itm_kuauik_bulgar_leather_armor|Jubón de cuero
-itm_kuauik_bulgar_leather_armor_pl|Jubón de cuero
-itm_kuauik_byz_footman_1|Cota de malla
-itm_kuauik_byz_footman_1_pl|Cota de malla
-itm_kuauik_byz_guard|Armadura de láminas
-itm_kuauik_byz_guard_pl|Armadura de láminas
-itm_kuauik_byz_leather|Jubón de cuero
-itm_kuauik_byz_leather_pl|Jubón de cuero
-itm_kuauik_padded_cloth|Cota de malla
-itm_kuauik_padded_cloth_pl|Cota de malla
-itm_kuauik_varangian_a|Armadura de láminas
-itm_kuauik_varangian_a_pl|Armadura de láminas
-itm_kuauik_norvos_guard|Jubón de cuero
-itm_kuauik_norvos_guard_pl|Jubón de cuero
-itm_kuauik_pentos_guard|Armadura de láminas
-itm_kuauik_pentos_guard_pl|Armadura de láminas
-itm_kuauik_volantis_guard|Armadura de láminas
-itm_kuauik_volantis_guard_pl|Armadura de láminas
-itm_kuauik_myr_guard|Armadura de láminas
-itm_kuauik_myr_guard_pl|Armadura de láminas
-itm_kuauik_surcoat_1|Sobretodo sobre malla
-itm_kuauik_surcoat_1_pl|Sobretodo sobre malla
-itm_kuauik_surcoat_2|Sobretodo sobre malla
-itm_kuauik_surcoat_2_pl|Sobretodo sobre malla
-itm_kuauik_surcoat_3|Sobretodo sobre malla
-itm_kuauik_surcoat_3_pl|Sobretodo sobre malla
-itm_kuauik_surcoat_4|Sobretodo sobre malla
-itm_kuauik_surcoat_4_pl|Sobretodo sobre malla
-itm_kuauik_surcoat_5|Sobretodo sobre malla
-itm_kuauik_surcoat_5_pl|Sobretodo sobre malla
-itm_kuauik_surcoat_6|Sobretodo sobre malla
-itm_kuauik_surcoat_6_pl|Sobretodo sobre malla
-itm_kuauik_surcoat_7|Sobretodo  sobre malla de Jasper Ríos
-itm_kuauik_surcoat_7_pl|Sobretodo sobre malla de Jasper Ríos
-itm_kuauik_surcoat_8|Sobretodo sobre malla
-itm_kuauik_surcoat_8_pl|Sobretodo sobre malla
-itm_kuauik_surcoat_9|Sobretodo sobre malla
-itm_kuauik_surcoat_9_pl|Sobretodo sobre malla
-itm_kuauik_surcoat_10|Sobretodo sobre malla
-itm_kuauik_surcoat_10_pl|Sobretodo sobre malla
-itm_kuauik_surcoat_11|Sobretodo sobre malla
-itm_kuauik_surcoat_11_pl|Sobretodo sobre malla
+; itm_kuauik_volantis_guard|Scale Mail Hauberk
+; itm_kuauik_volantis_guard_pl|Scale Mail Hauberk
 itm_surcoat_targaryen|Sobretodo sobre malla
 itm_surcoat_targaryen_pl|Sobretodo sobre malla
 itm_surcoat_golden_company|Sobretodo sobre malla
@@ -1654,38 +1468,16 @@ itm_tournament_red_surcoat|Sobretodo sobre malla
 itm_tournament_red_surcoat_pl|Sobretodo sobre malla
 itm_tournament_surcoat_blue|Sobretodo sobre malla
 itm_tournament_surcoat_blue_pl|Sobretodo sobre malla
-itm_surcoat_new_lannister|Sobretodo sobre malla
-itm_surcoat_new_lannister_pl|Sobretodo sobre malla
-itm_surcoat_new_morrigen|Sobretodo sobre malla
-itm_surcoat_new_morrigen_pl|Sobretodo sobre malla
-itm_surcoat_new_florent|Sobretodo sobre malla
-itm_surcoat_new_florent_pl|Sobretodo sobre malla
-itm_surcoat_new_tarth|Sobretodo sobre malla
-itm_surcoat_new_tarth_pl|Sobretodo sobre malla
-itm_surcoat_longbow_hall|Sobretodo sobre malla
-itm_surcoat_longbow_hall_pl|Sobretodo sobre malla
-itm_surcoat_white_harbor|Sobretodo sobre malla
-itm_surcoat_white_harbor_pl|Sobretodo sobre malla
-itm_surcoat_driftmark|Sobretodo sobre malla
-itm_surcoat_driftmark_pl|Sobretodo sobre malla
-itm_surcoat_massey|Sobretodo sobre malla
-itm_surcoat_massey_pl|Sobretodo sobre malla
-itm_surcoat_qorgyle|Sobretodo sobre malla
-itm_surcoat_qorgyle_pl|Sobretodo sobre malla
-itm_surcoat_oldtown|Sobretodo sobre malla
-itm_surcoat_oldtown_pl|Sobretodo sobre malla
-itm_surcoat_hellholt|Sobretodo sobre malla
-itm_surcoat_hellholt_pl|Sobretodo sobre malla
 itm_trial_surcoat|Sobretodo de cuero sobre malla de Tollett
 itm_trial_surcoat_pl|Sobretodo de cuero sobre malla de Tollett
 itm_trial_shield|Escudo de lágrima de Tollett
 itm_trial_shield_pl|Escudo de lágrima de Tollett
-itm_trial_boots|Grebas entablilladas de malla
-itm_trial_boots_pl|Grebas entablilladas de malla
+; itm_trial_boots|Mail Greaves
+; itm_trial_boots_pl|Mail Greaves
 itm_trial_gloves|Guanteletes de mallas
 itm_trial_gloves_pl|Guanteletes de mallas
-itm_trial_helm|Yelmo con placa frontal
-itm_trial_helm_pl|Yelmo con placa frontal
+; itm_trial_helm|Top Helmet
+; itm_trial_helm_pl|Top Helmet
 itm_trial_sword|Mandoble
 itm_trial_sword_pl|Mandoble
 itm_brawl_senlac|Espada
@@ -1718,8 +1510,8 @@ itm_sipahi_jawshan|Armadura pesada de placas
 itm_sipahi_jawshan_pl|Armadura pesada de placas
 itm_peltastos_armor|Gambesón
 itm_peltastos_armor_pl|Gambesón
-itm_mongolian_helmet|Casco
-itm_mongolian_helmet_pl|Casco
+; itm_mongolian_helmet|Conical Helmet
+; itm_mongolian_helmet_pl|Conical Helmet
 itm_jack_boots_unsullied|Zapatos de Inmaculado
 itm_jack_boots_unsullied_pl|Zapatos de Inmaculado
 itm_jack_armour_unsullied|Túnica de Inmaculado
@@ -1732,24 +1524,8 @@ itm_jack_helmet_burgonet_iron|Borgoñota
 itm_jack_helmet_burgonet_iron_pl|Borgoñota
 itm_unsullied_shield|Escudo de Inmaculado
 itm_unsullied_shield_pl|Escudo de Inmaculado
-itm_pretender_vezenkor|Armadura laminada valiosa
-itm_pretender_vezenkor_pl|Armadura laminada valiosa
-itm_pretender_yara|Loriga de mallas
-itm_pretender_yara_pl|Loriga de mallas
-itm_pretender_laros|Sobretodo sobre malla
-itm_pretender_laros_pl|Sobretodo sobre malla
-itm_pretender_assadora|Armadura laminada
-itm_pretender_assadora_pl|Armadura laminada
-itm_pretender_sarella|Sobretodo sobre malla
-itm_pretender_sarella_pl|Sobretodo sobre malla
-itm_pretender_shiera|Armadura laminada valiosa
-itm_pretender_shiera_pl|Armadura laminada valiosa
-itm_rathos_lamellar_armor_2|Armadura laminada valiosa
-itm_rathos_lamellar_armor_2_pl|Armadura laminada valiosa
 itm_low_tier_sword_1|Mandoble
 itm_low_tier_sword_1_pl|Mandoble
-itm_medium_tier_sword_1|Mandoble
-itm_medium_tier_sword_1_pl|Mandoble
 itm_medium_tier_sword_2|Mandoble
 itm_medium_tier_sword_2_pl|Mandoble
 itm_medium_tier_sword_3|Mandoble
@@ -1772,34 +1548,30 @@ itm_sword_rusty_a|Espada oxidada
 itm_sword_rusty_a_pl|Espada oxidada
 itm_loki_sword|Espada antigua
 itm_loki_sword_pl|Espada antigua
-itm_orphanmaker|Hacedora de Huérfanos
-itm_orphanmaker_pl|Hacedora de Huérfanos
-itm_sword_repent|Hermana Oscura
-itm_sword_repent_pl|Hermana Oscura
 itm_dragonstone_mailed|Loriga de mallas
 itm_dragonstone_mailed_pl|Loriga de mallas
 itm_dragonstone_plate2|Armadura ligera de placas
 itm_dragonstone_plate2_pl|Armadura ligera de placas
 itm_dragonstone_lord|Armadura ligera de placas
 itm_dragonstone_lord_pl|Armadura ligera de placas
-itm_dragonstone_padded1|Túnica acolchada
-itm_dragonstone_padded1_pl|Túnica acolchada
-itm_dragonstone_padded2|Túnica acolchada
-itm_dragonstone_padded2_pl|Túnica acolchada
-itm_dragonstone_court_davos|Túnica acolchada
-itm_dragonstone_court_davos_pl|Túnica acolchada
-itm_dragonstone_court_matthos|Túnica acolchada
-itm_dragonstone_court_matthos_pl|Túnica acolchada
-itm_dragonstone_gendry|Túnica acolchada
-itm_dragonstone_gendry_pl|Túnica acolchada
-itm_dragonstone_court_gendry|Túnica acolchada
-itm_dragonstone_court_gendry_pl|Túnica acolchada
-itm_dragonstone_archer_helm|Cofia
-itm_dragonstone_archer_helm_pl|Cofia
-itm_dragonstone_davos_battle|Túnica acolchada
-itm_dragonstone_davos_battle_pl|Túnica acolchada
-itm_dragonstone_matthos_battle|Túnica acolchada
-itm_dragonstone_matthos_battle_pl|Túnica acolchada
+; itm_dragonstone_padded1|Heavy Robe
+; itm_dragonstone_padded1_pl|Heavy Robe
+; itm_dragonstone_padded2|Heavy Robe
+; itm_dragonstone_padded2_pl|Heavy Robe
+; itm_dragonstone_court_davos|Heavy Robe
+; itm_dragonstone_court_davos_pl|Heavy Robe
+; itm_dragonstone_court_matthos|Heavy Robe
+; itm_dragonstone_court_matthos_pl|Heavy Robe
+; itm_dragonstone_gendry|Heavy Robe
+; itm_dragonstone_gendry_pl|Heavy Robe
+; itm_dragonstone_court_gendry|Cloth Tunic
+; itm_dragonstone_court_gendry_pl|Cloth Tunic
+; itm_dragonstone_archer_helm|Hat
+; itm_dragonstone_archer_helm_pl|Hat
+; itm_dragonstone_davos_battle|Heavy Robe
+; itm_dragonstone_davos_battle_pl|Heavy Robe
+; itm_dragonstone_matthos_battle|Heavy Robe
+; itm_dragonstone_matthos_battle_pl|Heavy Robe
 itm_dragonstone_archer_helm_burgonet|Borgoñota
 itm_dragonstone_archer_helm_burgonet_pl|Borgoñota
 itm_mackie_falchion01|Bracamante
@@ -1808,8 +1580,6 @@ itm_mackie_falchion03|Bracamante
 itm_mackie_falchion03_pl|Bracamante
 itm_mackie_cutlass|Bracamante
 itm_mackie_cutlass_pl|Bracamante
-itm_stormlands_hammer_event|Martillo de guerra
-itm_stormlands_hammer_event_pl|Martillo de guerra
 itm_stormlands_hammer|Martillo de guerra
 itm_stormlands_hammer_pl|Martillo de guerra
 itm_stormlands_two_handed_hammer|Martillo de guerra a dos manos
@@ -1824,56 +1594,300 @@ itm_necturus_item_buckler_2|Rodela
 itm_necturus_item_buckler_2_pl|Rodela
 itm_necturus_item_buckler_3|Rodela
 itm_necturus_item_buckler_3_pl|Rodela
-itm_ar_sar_t7_fullplate_a|Túnica de noble del clan de la montaña
-itm_ar_sar_t7_fullplate_a_pl|Túnica de noble del clan de la montaña
-itm_ar_rho_shi_capegreen|Túnica de noble del clan de la montaña
-itm_ar_rho_shi_capegreen_pl|Túnica de noble del clan de la montaña
-itm_he_vae_t1_noble_a|Sombrero de copa noble
-itm_he_vae_t1_noble_a_pl|Sombrero de copa noble
+; itm_ga_swa_a2_leather|Wildlings Round Shield
+; itm_ga_swa_a2_leather_pl|Wildlings Round Shield
+; itm_we_vae_bow_hunting|Wildlings Round Shield
+; itm_we_vae_bow_hunting_pl|Wildlings Round Shield
+; itm_we_khe_bow_red|Wildlings Round Shield
+; itm_we_khe_bow_red_pl|Wildlings Round Shield
+; itm_arena_shield_red|Wildlings Round Shield
+; itm_arena_shield_red_pl|Wildlings Round Shield
+itm_arena_lance|Lanza de caballería
+itm_arena_lance_pl|Lanzas de caballería
+itm_ar_swa_ban_scale_a|Escudos
+itm_ar_swa_ban_scale_a_pl|Escudos
+; itm_bastard_sword_1|Bastard Sword
+; itm_bastard_sword_1_pl|Bastard Sword
+; itm_braavos_outfit_1|Cloth Tunic
+; itm_braavos_outfit_1_pl|Cloth Tunic
+; itm_braavos_outfit_2|Cloth Tunic
+; itm_braavos_outfit_2_pl|Cloth Tunic
+; itm_braavos_outfit_3|Cloth Tunic
+; itm_braavos_outfit_3_pl|Cloth Tunic
+; itm_braavos_hat_1|Hat
+; itm_braavos_hat_1_pl|Hat
+; itm_braavos_hat_2|Hat
+; itm_braavos_hat_2_pl|Hat
+; itm_braavos_hat_3|Hat
+; itm_braavos_hat_3_pl|Hat
+; itm_braavos_leather_hat_1|Leather Cap
+; itm_braavos_leather_hat_1_pl|Leather Cap
+; itm_braavos_leather_hat_2|Leather Cap
+; itm_braavos_leather_hat_2_pl|Leather Cap
+; itm_braavos_leather_hat_3|Leather Cap
+; itm_braavos_leather_hat_3_pl|Leather Cap
+; itm_fi_estoc_small|Bravos Blade
+; itm_fi_estoc_small_pl|Bravos Blade
+; itm_steel_buckler1|Steel Buckler
+; itm_steel_buckler1_pl|Steel Buckler
+; itm_steel_buckler2|Steel Buckler
+; itm_steel_buckler2_pl|Steel Buckler
+; itm_faradon_axe_1|One-Handed Axe
+; itm_faradon_axe_1_pl|One-Handed Axe
+; itm_faradon_axe_2|One-Handed Axe
+; itm_faradon_axe_2_pl|One-Handed Axe
+; itm_mm_orc_spear_1|Bone Spear
+; itm_mm_orc_spear_1_pl|Bone Spear
+; itm_mm_orc_spear_2|Crude Spear
+; itm_mm_orc_spear_2_pl|Crude Spear
+; itm_mm_orc_spear_3|Crude Spear
+; itm_mm_orc_spear_3_pl|Crude Spear
+; itm_mm_orc_spear_4|Crude Spear
+; itm_mm_orc_spear_4_pl|Crude Spear
+; itm_orgaxe2|Crude Sword
+; itm_orgaxe2_pl|Crude Sword
+; itm_orgsword1|Crude Sword
+; itm_orgsword1_pl|Crude Sword
+; itm_mackie_double_axe|One-Handed Axe
+; itm_mackie_double_axe_pl|One-Handed Axe
+; itm_xeno_grom|One-Handed Axe
+; itm_xeno_grom_pl|One-Handed Axe
+; itm_xenoargh_flamberge_onehand|Bravos Bastard Blade
+; itm_xenoargh_flamberge_onehand_pl|Bravos Bastard Blade
+; itm_xenoargh_flamberge|Two-Handed Bravos Blade
+; itm_xenoargh_flamberge_pl|Two-Handed Bravos Blade
+; itm_valyrian_dark_sister|Dark Sister
+; itm_valyrian_dark_sister_pl|Dark Sister
+; itm_valyrian_blackfyre|Blackfyre
+; itm_valyrian_blackfyre_pl|Blackfyre
+; itm_valyrian_custom_1|Valyrian Steel Sword
+; itm_valyrian_custom_1_pl|Valyrian Steel Sword
+; itm_valyrian_custom_2|Valyrian Steel Sword
+; itm_valyrian_custom_2_pl|Valyrian Steel Sword
+; itm_valyrian_custom_3|Valyrian Steel Sword
+; itm_valyrian_custom_3_pl|Valyrian Steel Sword
+; itm_valyrian_dagger_1|Valyrian Steel Dagger
+; itm_valyrian_dagger_1_pl|Valyrian Steel Dagger
+; itm_valyrian_dagger_2|Valyrian Steel Dagger
+; itm_valyrian_dagger_2_pl|Valyrian Steel Dagger
+; itm_valyrian_dagger_3|Valyrian Steel Dagger
+; itm_valyrian_dagger_3_pl|Valyrian Steel Dagger
+; itm_valyrian_dagger_4|Valyrian Steel Dagger
+; itm_valyrian_dagger_4_pl|Valyrian Steel Dagger
+; itm_dawn|Dawn
+; itm_dawn_pl|Dawn
+; itm_valyrian_lady_forlorn|Lady Forlorn
+; itm_valyrian_lady_forlorn_pl|Lady Forlorn
+; itm_valyrian_nightfall|Nightfall
+; itm_valyrian_nightfall_pl|Nightfall
+; itm_valyrian_red_rain|Red Rain
+; itm_valyrian_red_rain_pl|Red Rain
+; itm_valyrian_vigilance|Vigilance
+; itm_valyrian_vigilance_pl|Vigilance
+; itm_valyrian_orphan_maker|Orphan-Maker
+; itm_valyrian_orphan_maker_pl|Orphan-Maker
+; itm_valyrian_truth|Truth
+; itm_valyrian_truth_pl|Truth
+; itm_valyrian_heartsbane|Heartsbane
+; itm_valyrian_heartsbane_pl|Heartsbane
+; itm_explorer_one_handed_axe|Old One-Handed Axe
+; itm_explorer_one_handed_axe_pl|Old One-Handed Axe
+; itm_explorer_bronze_candelabre|Bronze Candelabre
+; itm_explorer_bronze_candelabre_pl|Bronze Candelabre
+; itm_explorer_bronze_goblet|Bronze Goblet
+; itm_explorer_bronze_goblet_pl|Bronze Goblet
+; itm_explorer_crystal|Red Crystal
+; itm_explorer_crystal_pl|Red Crystal
+; itm_explorer_curved_sword|Old Curved Sword
+; itm_explorer_curved_sword_pl|Old Curved Sword
+; itm_explorer_anise|Anise
+; itm_explorer_anise_pl|Anise
+; itm_explorer_wine|Bottle of Old Wine
+; itm_explorer_wine_pl|Bottle of Old Wine
+; itm_explorer_lannister_helmet|Rusty Lannister Helmet
+; itm_explorer_lannister_helmet_pl|Rusty Lannister Helmet
+; itm_explorer_ale|Barrel of Ale
+; itm_explorer_ale_pl|Barrel of Ale
+; itm_explorer_gold_ingot|Gold Ingot
+; itm_explorer_gold_ingot_pl|Gold Ingot
+; itm_explorer_gold_bars|Gold Bars
+; itm_explorer_gold_bars_pl|Gold Bars
+; itm_explorer_rusty_two_handed_axe|Rusty Two-Handed Axe
+; itm_explorer_rusty_two_handed_axe_pl|Rusty Two-Handed Axe
+; itm_explorer_weirwood_branch|Weirwood Branch
+; itm_explorer_weirwood_branch_pl|Weirwood Branch
+; itm_explorer_reyne_helmet|Open Top Helmet
+; itm_explorer_reyne_helmet_pl|Open Top Helmet
+; itm_explorer_egg|Dragon Egg
+; itm_explorer_egg_pl|Dragon Egg
+; itm_pentos_tier_1|Cloth Tunic
+; itm_pentos_tier_1_pl|Cloth Tunic
+; itm_pentos_tier_2|Leather Jerkin
+; itm_pentos_tier_2_pl|Leather Jerkin
+; itm_pentos_tier_3|Heavy Lamellar Armor
+; itm_pentos_tier_3_pl|Heavy Lamellar Armor
+; itm_lorathi_tier_1|Cloth Tunic
+; itm_lorathi_tier_1_pl|Cloth Tunic
+; itm_lorathi_tier_2|Cloth Tunic
+; itm_lorathi_tier_2_pl|Cloth Tunic
+; itm_lorathi_tier_3|Cloth Tunic
+; itm_lorathi_tier_3_pl|Cloth Tunic
+; itm_norvos_tier_1|Light Robe
+; itm_norvos_tier_1_pl|Light Robe
+; itm_norvos_tier_2|Gambeson
+; itm_norvos_tier_2_pl|Gambeson
+; itm_norvos_tier_3|Chain Mail Hauberk
+; itm_norvos_tier_3_pl|Chain Mail Hauberk
+; itm_qohor_tier_1|Light Robe
+; itm_qohor_tier_1_pl|Light Robe
+; itm_qohor_tier_2|Heavy Robe
+; itm_qohor_tier_2_pl|Heavy Robe
+; itm_qohor_tier_3|Lamellar Armor
+; itm_qohor_tier_3_pl|Lamellar Armor
+; itm_myr_tier_1|Light Robe
+; itm_myr_tier_1_pl|Light Robe
+; itm_myr_tier_2|Lamellar Armor
+; itm_myr_tier_2_pl|Lamellar Armor
+; itm_myr_tier_3|Heavy Lamellar Armor
+; itm_myr_tier_3_pl|Heavy Lamellar Armor
+; itm_lys_tier_1|Light Robe
+; itm_lys_tier_1_pl|Light Robe
+; itm_lys_tier_2|Heavy Robe
+; itm_lys_tier_2_pl|Heavy Robe
+; itm_lys_tier_3|Surcoat over Mail
+; itm_lys_tier_3_pl|Surcoat over Mail
+; itm_tyroshi_tier_1|Gambeson
+; itm_tyroshi_tier_1_pl|Gambeson
+; itm_tyroshi_tier_2|Lamellar Armor
+; itm_tyroshi_tier_2_pl|Lamellar Armor
+; itm_tyroshi_tier_3|Heavy Leather Jerkin
+; itm_tyroshi_tier_3_pl|Heavy Leather Jerkin
+; itm_volantis_tier_1|Light Robe
+; itm_volantis_tier_1_pl|Light Robe
+; itm_volantis_tier_2|Plated Leather Jerkin
+; itm_volantis_tier_2_pl|Plated Leather Jerkin
+; itm_volantis_tier_3|Heavy Lamellar Armor
+; itm_volantis_tier_3_pl|Heavy Lamellar Armor
+; itm_mercenary_tier_1_infantry|Cloth Tunic
+; itm_mercenary_tier_1_infantry_pl|Cloth Tunic
+; itm_mercenary_tier_2_infantry|Gambeson
+; itm_mercenary_tier_2_infantry_pl|Gambeson
+; itm_mercenary_tier_3_infantry|Chain Mail Hauberk
+; itm_mercenary_tier_3_infantry_pl|Chain Mail Hauberk
+; itm_mercenary_tier_4_infantry|Surcoat over Mail
+; itm_mercenary_tier_4_infantry_pl|Surcoat over Mail
+; itm_mercenary_tier_1_archer|Cloth Tunic
+; itm_mercenary_tier_1_archer_pl|Cloth Tunic
+; itm_mercenary_tier_2_archer|Gambeson
+; itm_mercenary_tier_2_archer_pl|Gambeson
+; itm_mercenary_tier_3_archer|Chain Mail Hauberk
+; itm_mercenary_tier_3_archer_pl|Chain Mail Hauberk
+; itm_mercenary_tier_4_archer|Surcoat over Mail
+; itm_mercenary_tier_4_archer_pl|Surcoat over Mail
+; itm_mercenary_helm_tier_1|Old Nasal Helmet
+; itm_mercenary_helm_tier_1_pl|Old Nasal Helmet
+; itm_mercenary_helm_tier_2|Old Nasal Helmet
+; itm_mercenary_helm_tier_2_pl|Old Nasal Helmet
+; itm_mercenary_helm_tier_3|Nasal Helmet
+; itm_mercenary_helm_tier_3_pl|Nasal Helmet
+; itm_dornish_helm_tier_1|Conical Helmet
+; itm_dornish_helm_tier_1_pl|Conical Helmet
+; itm_dornish_helm_tier_2|Conical Helmet
+; itm_dornish_helm_tier_2_pl|Conical Helmet
+; itm_dornish_helm_tier_3|Conical Helmet
+; itm_dornish_helm_tier_3_pl|Conical Helmet
+; itm_essos_helm_tier_1|Heavy Leather Cap
+; itm_essos_helm_tier_1_pl|Heavy Leather Cap
+; itm_essos_helm_tier_2|Conical Helmet
+; itm_essos_helm_tier_2_pl|Conical Helmet
+; itm_essos_helm_tier_3_1|Open Top Helmet
+; itm_essos_helm_tier_3_1_pl|Open Top Helmet
+; itm_essos_helm_tier_3_2|Conical Helmet
+; itm_essos_helm_tier_3_2_pl|Conical Helmet
+; itm_essos_helm_tier_4|Heavy Conical Helmet
+; itm_essos_helm_tier_4_pl|Heavy Conical Helmet
+; itm_essos_helm_tier_5_1|Heavy Conical Helmet
+; itm_essos_helm_tier_5_1_pl|Heavy Conical Helmet
+; itm_essos_helm_tier_5_2|Heavy Conical Helmet
+; itm_essos_helm_tier_5_2_pl|Heavy Conical Helmet
+; itm_essos_helm_tier_5_3|Heavy Conical Helmet
+; itm_essos_helm_tier_5_3_pl|Heavy Conical Helmet
+; itm_essos_helm_tier_6|Heavy Conical Helmet
+; itm_essos_helm_tier_6_pl|Heavy Conical Helmet
+; itm_lorathi_boots_tier_1|Shoes
+; itm_lorathi_boots_tier_1_pl|Shoes
+; itm_lorathi_boots_tier_2|Leather Boots
+; itm_lorathi_boots_tier_2_pl|Leather Boots
+; itm_lorathi_boots_tier_3|Leather Boots
+; itm_lorathi_boots_tier_3_pl|Leather Boots
+; itm_lorathi_boots_tier_4|Studded Leather Boots
+; itm_lorathi_boots_tier_4_pl|Studded Leather Boots
+; itm_pendant_lannister_pronged|War Lance
+; itm_pendant_lannister_pronged_pl|War Lance
+; itm_pendant_lannister_square_1|War Lance
+; itm_pendant_lannister_square_1_pl|War Lance
+; itm_pendant_lannister_square_2|War Lance
+; itm_pendant_lannister_square_2_pl|War Lance
+; itm_pendant_lannister_triangle|War Lance
+; itm_pendant_lannister_triangle_pl|War Lance
+; itm_pendant_neutral_red_triangle|War Lance
+; itm_pendant_neutral_red_triangle_pl|War Lance
+; itm_pendant_neutral_black_triangle|War Lance
+; itm_pendant_neutral_black_triangle_pl|War Lance
+; itm_pendant_neutral_green_triangle|War Lance
+; itm_pendant_neutral_green_triangle_pl|War Lance
+; itm_pendant_neutral_blue_triangle|War Lance
+; itm_pendant_neutral_blue_triangle_pl|War Lance
+; itm_pendant_neutral_white_triangle|War Lance
+; itm_pendant_neutral_white_triangle_pl|War Lance
+; itm_pendant_neutral_black_pronged|War Lance
+; itm_pendant_neutral_black_pronged_pl|War Lance
+; itm_pendant_neutral_blue_pronged|War Lance
+; itm_pendant_neutral_blue_pronged_pl|War Lance
+; itm_pendant_neutral_yellow_pronged|War Lance
+; itm_pendant_neutral_yellow_pronged_pl|War Lance
+; itm_pendant_stark_pronged|War Lance
+; itm_pendant_stark_pronged_pl|War Lance
+; itm_pendant_stark_triangle|War Lance
+; itm_pendant_stark_triangle_pl|War Lance
+; itm_pendant_tully_triangle|War Lance
+; itm_pendant_tully_triangle_pl|War Lance
+; itm_pendant_tully_square|War Lance
+; itm_pendant_tully_square_pl|War Lance
+; itm_pendant_arryn_square|War Lance
+; itm_pendant_arryn_square_pl|War Lance
+; itm_pendant_baratheon_square|War Lance
+; itm_pendant_baratheon_square_pl|War Lance
+; itm_pendant_baratheon_pronged|War Lance
+; itm_pendant_baratheon_pronged_pl|War Lance
+; itm_pendant_tyrell_square|War Lance
+; itm_pendant_tyrell_square_pl|War Lance
+; itm_pendant_tyrell_triangle|War Lance
+; itm_pendant_tyrell_triangle_pl|War Lance
+; itm_pendant_martell_triangle|War Lance
+; itm_pendant_martell_triangle_pl|War Lance
+; itm_pendant_neutral_seven_square|War Lance
+; itm_pendant_neutral_seven_square_pl|War Lance
+; itm_pendant_neutral_red_two|War Lance
+; itm_pendant_neutral_red_two_pl|War Lance
+; itm_pendant_dragonstone_triangle|War Lance
+; itm_pendant_dragonstone_triangle_pl|War Lance
+; itm_pendant_dragonstone_pronged|War Lance
+; itm_pendant_dragonstone_pronged_pl|War Lance
+; itm_pendant_greyjoy_pronged|War Lance
+; itm_pendant_greyjoy_pronged_pl|War Lance
+; itm_pendant_targaryen_pronged|War Lance
+; itm_pendant_targaryen_pronged_pl|War Lance
+; itm_pendant_targaryen_square|War Lance
+; itm_pendant_targaryen_square_pl|War Lance
+; itm_he_vae_t1_noble_a|Lady Hat
+; itm_he_vae_t1_noble_a_pl|Lady Hat
 itm_he_pla_pri_priestcoif|Cofia noble
 itm_he_pla_pri_priestcoif_pl|Cofia noble
-itm_vale_lord_1|Túnica de noble Braavosi
-itm_vale_lord_1_pl|Túnica de noble Braavosi
-itm_vale_lord_2|Túnica de noble Braavosi
-itm_vale_lord_2_pl|Túnica de noble Braavosi
 itm_fat_wyman_style|Túnica lujosa de noble
 itm_fat_wyman_style_pl|Túnica lujosa de noble
 itm_heraldic_padded_cloth|Gambesón  heráldico de noble
 itm_heraldic_padded_cloth_pl|Gambesón  heráldico de noble
-itm_noblemans_leather_tunic_1|Túnica de cuero de noble
-itm_noblemans_leather_tunic_1_pl|Túnica de cuero de noble
-itm_noblemans_leather_tunic_2|Túnica de cuero de noble
-itm_noblemans_leather_tunic_2_pl|Túnica de cuero de noble
-itm_noblemans_leather_tunic_3|Túnica de cuero de noble
-itm_noblemans_leather_tunic_3_pl|Túnica de cuero de noble
-itm_noblemans_leather_tunic_4|Túnica de cuero de noble
-itm_noblemans_leather_tunic_4_pl|Túnica de cuero de noble
-itm_noblemans_leather_tunic_5|Túnica de cuero de noble
-itm_noblemans_leather_tunic_5_pl|Túnica de cuero de noble
-itm_noblemans_gambeson_1|Gamesón de noble
-itm_noblemans_gambeson_1_pl|Gamesón de noble
-itm_noblemans_gambeson_2|Gamesón de noble
-itm_noblemans_gambeson_2_pl|Gamesón de noble
-itm_noblemans_gambeson_3|Gamesón de noble
-itm_noblemans_gambeson_3_pl|Gamesón de noble
-itm_noblemans_tunic_4|Túnica de noble
-itm_noblemans_tunic_4_pl|Túnica de noble
-itm_noblemans_tunic_5|Túnica de noble
-itm_noblemans_tunic_5_pl|Túnica de noble
-itm_noblemans_tunic_6|Túnica de noble
-itm_noblemans_tunic_6_pl|Túnica de noble
-itm_noblemans_tunic_7|Túnica de Davos
-itm_noblemans_tunic_7_pl|Túnica de Davos
-itm_noblemans_tunic_8|Túnica de noble
-itm_noblemans_tunic_8_pl|Túnica de noble
-itm_noblemans_aketon|Gambesón de noble
-itm_noblemans_aketon_pl|Gambesón de noble
-itm_noblemans_kaftan|Túnica de noble
-itm_noblemans_kaftan_pl|Túnica de noble
-itm_kuauik_norvoshi_style_1|Túnica de noble
-itm_kuauik_norvoshi_style_1_pl|Túnica de noble
-itm_pentoshi_style_1|Túnica de noble
-itm_pentoshi_style_1_pl|Túnica de noble
 itm_kuauik_volantis_style_1|Túnica de noble
 itm_kuauik_volantis_style_1_pl|Túnica de noble
 itm_kuauik_volantis_style_2|Túnica de noble
@@ -1884,18 +1898,8 @@ itm_kuauik_volantis_style_4|Túnica de noble
 itm_kuauik_volantis_style_4_pl|Túnica de noble
 itm_kuauik_volantis_style_5|Túnica de noble
 itm_kuauik_volantis_style_5_pl|Túnica de noble
-itm_andal_nobleman_coat_1|Túnica de nobles de los Ándalos
-itm_andal_nobleman_coat_1_pl|Túnica de nobles de los Ándalos
-itm_nobleman_f_outfit_rugged_1|Vestido harapiento de noble
-itm_nobleman_f_outfit_rugged_1_pl|Vestido harapiento de noble
-itm_nobleman_f_outfit_rugged_2|Vestido harapiento de noble
-itm_nobleman_f_outfit_rugged_2_pl|Vestido harapiento de noble
-itm_nobleman_f_outfit_rugged_3|Vestido harapiento de noble
-itm_nobleman_f_outfit_rugged_3_pl|Vestido harapiento de noble
 itm_nobleman_f_outfit_robeish_1|Vestido de noble
 itm_nobleman_f_outfit_robeish_1_pl|Vestido de noble
-itm_nobleman_f_outfit_robeish_2|Vestido de noble
-itm_nobleman_f_outfit_robeish_2_pl|Vestido de noble
 itm_nobleman_f_outfit_vale_1|Jubón de noble
 itm_nobleman_f_outfit_vale_1_pl|Jubón de noble
 itm_nobleman_f_outfit_vale_2|Jubón de noble
@@ -1906,16 +1910,8 @@ itm_nobleman_f_outfit_reach_2|Jubón de noble
 itm_nobleman_f_outfit_reach_2_pl|Jubón de noble
 itm_nobleman_f_outfit_reach_3|Jubón de noble
 itm_nobleman_f_outfit_reach_3_pl|Jubón de noble
-itm_nobleman_f_sealord|Jubón de noble
-itm_nobleman_f_sealord_pl|Jubón de noble
-itm_nobleman_f_outfit_1|Jubón de noble
-itm_nobleman_f_outfit_1_pl|Jubón de noble
-itm_nobleman_f_outfit_2|Jubón de noble
-itm_nobleman_f_outfit_2_pl|Jubón de noble
 itm_nobleman_f_outfit_3|Jubón de noble
 itm_nobleman_f_outfit_3_pl|Jubón de noble
-itm_nobleman_f_outfit_4|Jubón de noble
-itm_nobleman_f_outfit_4_pl|Jubón de noble
 itm_nobleman_f_outfit_5|Jubón de noble
 itm_nobleman_f_outfit_5_pl|Jubón de noble
 itm_nobleman_f_outfit_6|Jubón de noble
@@ -1926,16 +1922,8 @@ itm_nobleman_f_outfit_8|Jubón de noble
 itm_nobleman_f_outfit_8_pl|Jubón de noble
 itm_nobleman_f_outfit_9|Jubón de noble
 itm_nobleman_f_outfit_9_pl|Jubón de noble
-itm_nobleman_f_outfit_10|Jubón de noble
-itm_nobleman_f_outfit_10_pl|Jubón de noble
-itm_nobleman_f_outfit_11|Jubón de noble
-itm_nobleman_f_outfit_11_pl|Jubón de noble
 itm_nobleman_f_outfit_12|Jubón de noble
 itm_nobleman_f_outfit_12_pl|Jubón de noble
-itm_nobleman_f_outfit_13|Jubón de noble
-itm_nobleman_f_outfit_13_pl|Jubón de noble
-itm_nobleman_f_outfit_14|Jubón de noble
-itm_nobleman_f_outfit_14_pl|Jubón de noble
 itm_helmet_f_black_1|Sombrero de noble
 itm_helmet_f_black_1_pl|Sombrero de noble
 itm_helmet_f_black_2|Sombrero de noble
@@ -1974,6 +1962,44 @@ itm_nobleman_f_shoes_5|Zapatos de cuero
 itm_nobleman_f_shoes_5_pl|Zapatos de cuero
 itm_nobleman_f_shoes_6|Zapatos de cuero
 itm_nobleman_f_shoes_6_pl|Zapatos de cuero
+; itm_noblemans_white_tunic_1|Noblemans White Tunic
+; itm_noblemans_white_tunic_1_pl|Noblemans White Tunic
+; itm_noblemans_white_tunic_2|Noblemans White Tunic
+; itm_noblemans_white_tunic_2_pl|Noblemans White Tunic
+; itm_noblemans_white_tunic_3|Noblemans White Tunic
+; itm_noblemans_white_tunic_3_pl|Noblemans White Tunic
+; itm_noblemans_white_tunic_4|Noblemans White Tunic
+; itm_noblemans_white_tunic_4_pl|Noblemans White Tunic
+; itm_noblemans_white_tunic_5|Noblemans White Tunic
+; itm_noblemans_white_tunic_5_pl|Noblemans White Tunic
+; itm_noblemans_white_tunic_6|Noblemans White Tunic
+; itm_noblemans_white_tunic_6_pl|Noblemans White Tunic
+; itm_noblemans_black_tunic_1|Noblemans Black Tunic
+; itm_noblemans_black_tunic_1_pl|Noblemans Black Tunic
+; itm_noblemans_black_tunic_2|Noblemans Black Tunic
+; itm_noblemans_black_tunic_2_pl|Noblemans Black Tunic
+; itm_noblemans_black_tunic_3|Noblemans Black Tunic
+; itm_noblemans_black_tunic_3_pl|Noblemans Black Tunic
+; itm_noblemans_black_tunic_4|Noblemans Black Tunic
+; itm_noblemans_black_tunic_4_pl|Noblemans Black Tunic
+; itm_noblemans_black_tunic_5|Noblemans Black Tunic
+; itm_noblemans_black_tunic_5_pl|Noblemans Black Tunic
+; itm_noblemans_black_tunic_6|Noblemans Black Tunic
+; itm_noblemans_black_tunic_6_pl|Noblemans Black Tunic
+; itm_noblemans_leather_tunic_1|Noblemans Leather Jerkin
+; itm_noblemans_leather_tunic_1_pl|Noblemans Leather Jerkin
+; itm_noblemans_leather_tunic_2|Noblemans Leather Jerkin
+; itm_noblemans_leather_tunic_2_pl|Noblemans Leather Jerkin
+; itm_noblemans_leather_tunic_3|Noblemans Leather Jerkin
+; itm_noblemans_leather_tunic_3_pl|Noblemans Leather Jerkin
+; itm_noblemans_vale_tunic_1|Noblemans Cloth
+; itm_noblemans_vale_tunic_1_pl|Noblemans Cloth
+; itm_noblemans_vale_tunic_2|Noblemans Cloth
+; itm_noblemans_vale_tunic_2_pl|Noblemans Cloth
+; itm_noblemans_vale_jerkin_1|Noblemans Leather Jerkin
+; itm_noblemans_vale_jerkin_1_pl|Noblemans Leather Jerkin
+; itm_noblemans_vale_jerkin_2|Noblemans Leather Jerkin
+; itm_noblemans_vale_jerkin_2_pl|Noblemans Leather Jerkin
 itm_lysa_style_2|Vestido de corte norteño
 itm_lysa_style_2_pl|Vestido de corte norteño
 itm_lysa_style_3|Vestido de corte norteño
@@ -2028,18 +2054,38 @@ itm_margaery_style_5|Vestido de corte sureño
 itm_margaery_style_5_pl|Vestido de corte sureño
 itm_margaery_style_6|Vestido de corte sureño
 itm_margaery_style_6_pl|Vestido de corte sureño
-itm_ga_swa_a2_leather|Broquel de mimbre
-itm_ga_swa_a2_leather_pl|Broquel de mimbre
-itm_we_vae_bow_hunting|Arco huesodragón
-itm_we_vae_bow_hunting_pl|Arco huesodragón
-itm_we_khe_bow_red|Arco dothraki
-itm_we_khe_bow_red_pl|Arco dothraki
-itm_arena_shield_red|Escudo
-itm_arena_shield_red_pl|Escudos
-itm_arena_lance|Lanza de caballería
-itm_arena_lance_pl|Lanzas de caballería
-itm_ar_swa_ban_scale_a|Escudos
-itm_ar_swa_ban_scale_a_pl|Escudos
+; itm_generic_gambeson_1|Gambeson
+; itm_generic_gambeson_1_pl|Gambeson
+; itm_generic_gambeson_2|Gambeson
+; itm_generic_gambeson_2_pl|Gambeson
+; itm_generic_gambeson_3|Gambeson
+; itm_generic_gambeson_3_pl|Gambeson
+; itm_generic_gambeson_4|Gambeson
+; itm_generic_gambeson_4_pl|Gambeson
+; itm_generic_gambeson_5|Gambeson
+; itm_generic_gambeson_5_pl|Gambeson
+; itm_generic_gambeson_6|Gambeson
+; itm_generic_gambeson_6_pl|Gambeson
+; itm_generic_gambeson_7|Gambeson
+; itm_generic_gambeson_7_pl|Gambeson
+; itm_generic_reinforced_gambeson_1|Reinforced Gambeson
+; itm_generic_reinforced_gambeson_1_pl|Reinforced Gambeson
+; itm_generic_reinforced_gambeson_2|Reinforced Gambeson
+; itm_generic_reinforced_gambeson_2_pl|Reinforced Gambeson
+; itm_generic_reinforced_gambeson_3|Reinforced Gambeson
+; itm_generic_reinforced_gambeson_3_pl|Reinforced Gambeson
+; itm_generic_mail_robe_1|Chain Mail Hauberk
+; itm_generic_mail_robe_1_pl|Chain Mail Hauberk
+; itm_generic_mail_robe_2|Chain Mail Hauberk
+; itm_generic_mail_robe_2_pl|Chain Mail Hauberk
+; itm_generic_surcoat_1|Surcoat over Mail
+; itm_generic_surcoat_1_pl|Surcoat over Mail
+; itm_generic_surcoat_2|Surcoat over Mail
+; itm_generic_surcoat_2_pl|Surcoat over Mail
+; itm_generic_surcoat_3|Surcoat over Mail
+; itm_generic_surcoat_3_pl|Surcoat over Mail
+; itm_new_throwing_daggers|Throwing Daggers
+; itm_new_throwing_daggers_pl|Throwing Daggers
 itm_grenade_fragments|Fragmentos de jarra de Fuego Valyrio
 itm_grenade_fragments_pl|Fragmentos de jarra de Fuego Valyrio
 itm_player_grenade|Fuego valyrio

@@ -89,6 +89,9 @@ qst_ramsay_quest1|Bolton'un Piçi: Bölüm 2
 qst_ramsay_quest2|Bolton'un Piçi: Bölüm 3
 qst_tyrion_quest|Kükrediğimi Duy: Bölüm 1
 qst_tyrion_quest1|Kükrediğimi Duy: Bölüm 2
+; qst_qohor_blacksmith_quest_1|The City of Sorcerers: Part 1
+; qst_qohor_blacksmith_quest_2|The City of Sorcerers: Part 2
+; qst_qohor_blacksmith_quest_3|The City of Sorcerers: Part 3
 ; qst_starting_quest_1_1|A New Beginning: Part 1
 ; qst_starting_quest_1_2|A New Beginning: Part 2
 ; qst_starting_quest_1_3|The Tourney at Ninestars: Part 1
@@ -97,11 +100,10 @@ qst_tyrion_quest1|Kükrediğimi Duy: Bölüm 2
 ; qst_starting_quest_1_6|Trial by Combat: Part 1
 ; qst_starting_quest_1_7|Trial by Combat: Part 1
 ; qst_terror_quest_starter|Terror in the Cairn: Part 1
+; qst_yandel_quest_1|Illuminations: Part 1
+; qst_yandel_quest_2|Illuminations: Part 2
 ; qst_renly_quest_1|The Crowned Stag: Part 1
 ; qst_renly_quest_2|The Crowned Stag: Part 2
-; qst_renly_quest_3|The Crowned Stag: Part 3
-; qst_renly_quest_4|The Crowned Stag: Part 4
-; qst_renly_quest_5|The Crowned Stag: Part 5
 ; qst_starting_quest_citadel|The Knights of the Mind: Part 1
 ; qst_citadel_quest_1|Lost Knowledge: Part 1
 ; qst_citadel_quest_2|Lost Knowledge: Part 2

@@ -10,7 +10,6 @@ p_town_17|Braavos
 ; p_town_18|Stoney Sept
 p_town_19|Sluneční oštěp
 ; p_town_20|The Planky Town
-p_town_23|Dračí kámen
 ; p_town_24|Lannisport
 ; p_town_25|Duskendale
 ; p_town_26|Maidenpool
@@ -18,7 +17,6 @@ p_town_23|Dračí kámen
 p_town_30|Ashford
 p_town_31|Bílý přístav
 p_town_32|Staré město
-; p_town_33|Lord Harroway's Town
 ; p_town_34|Lordsport
 ; p_town_35|Tumbleton
 p_town_36|Rhyos
@@ -53,7 +51,7 @@ p_castle_7|Mořská střáž
 ; p_castle_14|Iksa Keria
 ; p_castle_15|Last Hearth
 ; p_castle_16|Antlers
-; p_castle_17|Cerwyn Castle
+; p_castle_17|Castle Cerwyn
 ; p_castle_18|The Crag
 ; p_castle_19|Karhold
 ; p_castle_20|Crow's Nest
@@ -107,14 +105,14 @@ p_castle_7|Mořská střáž
 ; p_castle_71|Horn Hill
 ; p_castle_72|The Arbor
 ; p_castle_73|Ten Towers
-; p_castle_74|The Ruins of Iksa Naron
+; p_castle_74|Iksa Naron
 ; p_castle_75|Last Refuge
 ; p_castle_76|Torturer's Deep
 ; p_castle_77|Blackwall
-; p_castle_78|Horn of the Seven
+; p_castle_78|The Horn
 ; p_castle_79|Daggerstop
 ; p_castle_80|Skyreach
-; p_castle_82|The Ruins of Iksa Calo
+; p_castle_82|Iksa Calo
 ; p_castle_83|Griffin's Roost
 ; p_castle_84|Rain House
 ; p_castle_85|Greenstone
@@ -133,7 +131,7 @@ p_castle_7|Mořská střáž
 ; p_castle_104|Iron Holt
 ; p_castle_105|Brightwater Keep
 ; p_castle_106|Heart's Home
-; p_castle_107|The Ruins of Sar Mell
+; p_castle_107|Sar Mell
 ; p_castle_108|Longsister
 ; p_castle_109|Littlesister
 ; p_castle_110|Darry
@@ -153,14 +151,37 @@ p_castle_7|Mořská střáž
 ; p_castle_135|Starfall
 ; p_castle_136|The Golden Tooth
 ; p_castle_137|High Tide
-; p_castle_138|Bear Island
-; p_castle_139|Stokeworth
+; p_castle_138|Ulentor
+; p_castle_139|Vaes Anogar
 ; p_castle_140|Pyke
 ; p_castle_141|Grey Gallows
 ; p_castle_142|Eryas
+; p_castle_143|Wayfarer's Rest
+; p_castle_144|Vaes Rhoinaro
+; p_castle_145|Vaes Jevi
+; p_castle_146|Gravehold
+; p_castle_147|Stonehill
+; p_castle_148|Marshwood Keep
+; p_castle_149|Ghoyan Drohe
+; p_castle_150|Ny Sar
+; p_castle_151|Ar Noy
+; p_castle_152|Bear Island
+; p_castle_153|Ramsgate
+; p_castle_154|The Gates of the Moon
+; p_castle_155|Dragonstone
+; p_castle_156|Fawnton
+; p_castle_157|Broad Arch
+; p_castle_158|Harvest Hall
+; p_castle_159|Charlton
+; p_castle_160|Goodbrook
+; p_castle_161|Grey Glen
+; p_castle_162|The Paps
+; p_castle_163|Pebble
+; p_castle_164|Starpike
+; p_castle_165|Orkmont Castle
 ; p_village_1|The Rills
-; p_village_2|Coldwolf
-; p_village_3|Dragon's Neck
+; p_village_2|Coldmyre
+; p_village_3|Branch Hall
 ; p_village_4|Prawn Bay
 ; p_village_5|Whiteoak
 ; p_village_6|Greyedge
@@ -172,12 +193,12 @@ p_castle_7|Mořská střáž
 ; p_village_12|Woolfield
 ; p_village_13|Pike Market
 ; p_village_14|Crofter's Village
-; p_village_15|Wildeland
+; p_village_15|Wildelot
 ; p_village_16|Crow's Rest
 ; p_village_17|Sentinel's Tree
 ; p_village_18|Blazewater Bay
 ; p_village_19|Goldgrass
-; p_village_20|Ironrath
+; p_village_20|Burner's Lot
 ; p_village_21|Cape Kraken
 p_village_22|Bílý kopec
 ; p_village_23|Sevenstreams
@@ -190,9 +211,9 @@ p_village_22|Bílý kopec
 ; p_village_30|Ramsford
 ; p_village_31|Elk Wood
 ; p_village_32|Orshore
-; p_village_33|Gull Tower
+; p_village_33|Bronzestone
 ; p_village_34|The Crab's Nest
-; p_village_35|Grey Glen
+; p_village_35|Shett Tower
 ; p_village_36|Dorbarrow
 ; p_village_37|Easthedge
 ; p_village_38|The Old Barrow
@@ -212,20 +233,20 @@ p_village_50|Královská cesta
 ; p_village_52|Sapphire Bay 
 ; p_village_53|Barrowhall
 ; p_village_54|Slayne
-; p_village_55|Stonebridge
+; p_village_55|Grandview
 ; p_village_56|Elmwood
 ; p_village_57|Kellington
 p_village_58|Kamenná ruka
-; p_village_59|Dellhollow
-; p_village_60|Dovedale
+; p_village_59|Wyndhall
+; p_village_60|Spottswood
 ; p_village_61|Greencrest
-; p_village_62|Spottswood
+; p_village_62|Brimstone
 ; p_village_63|Blackmarrow
 ; p_village_64|The Farthest Reef
 p_village_65|Červené duny
-; p_village_66|Shandystone
+; p_village_66|Hothill
 ; p_village_67|Seamarket
-; p_village_68|Greywynne
+; p_village_68|Dyer Rock
 ; p_village_69|Ryamsport
 ; p_village_70|Waystone
 ; p_village_71|Sandmere
@@ -240,7 +261,7 @@ p_village_65|Červené duny
 ; p_village_80|Rollingford
 ; p_village_81|Tumblers Hall
 ; p_village_82|Rushing Falls
-; p_village_83|Bronzewood
+; p_village_83|Greenfield
 ; p_village_84|Westden
 ; p_village_85|Oxcross
 ; p_village_86|Rosemere
@@ -249,7 +270,7 @@ p_village_87|Černý most
 ; p_village_89|Teagueton
 ; p_village_90|Gull Point
 ; p_village_91|Roosterton
-; p_village_92|Peckledon
+; p_village_92|Crakesfield
 ; p_village_93|Crossed Elms
 ; p_village_94|Aldbridge
 ; p_village_95|Mormarsh
@@ -280,7 +301,7 @@ p_village_115|Uhelný kopec
 ; p_village_120|Orkmont
 ; p_village_121|Downdelving
 ; p_village_122|Tower of Glimmering
-; p_village_123|The Tree of Crowns
+; p_village_123|Nine Crowns
 ; p_village_124|Journey's End
 ; p_village_125|Barrowness
 ; p_village_126|Wildewater
@@ -290,10 +311,10 @@ p_village_128|Vysoké síně
 ; p_village_130|Brywyne
 ; p_village_131|Redbarrow
 ; p_village_132|Spice Yard
-; p_village_133|Estwynd
+; p_village_133|Stonespell
 ; p_village_134|The Amber Stream
 ; p_village_135|Wreckstone
-; p_village_136|Chyttering
+; p_village_136|Ruttiger
 ; p_village_137|Darkwash
 p_village_138|Červený kámen
 p_village_139|Železný kámen
@@ -307,17 +328,17 @@ p_village_145|Erimere
 ; p_village_147|Janash
 p_village_148|Erifort
 ; p_village_149|Sunrise Way
-; p_village_150|Prybrook
+; p_village_150|Strongrock
 ; p_village_151|Raylyn
 ; p_village_152|Vale of Narrah
-; p_village_153|Velvet Haven
+; p_village_153|Haven
 ; p_village_154|Lorness
 ; p_village_155|Baelors Feet
 ; p_village_156|The Mazemakers Tomb
 ; p_village_157|Estermont
 p_village_158|Bílá mlha
 ; p_village_159|Amberly
-; p_village_160|The Whispers
+; p_village_160|Land's End
 ; p_village_161|Brandybottom
 ; p_village_162|Sherrer
 ; p_village_163|Hull
@@ -337,7 +358,7 @@ p_village_158|Bílá mlha
 p_village_177|Oranžové pobřeží
 ; p_village_178|Cedarwood
 ; p_village_179|Rose's Hollow
-; p_village_180|Ruins of Sarhoy
+; p_village_180|Sarhoy
 ; p_village_181|Dunstonbury
 ; p_village_182|Pinchfire
 ; p_village_183|Shadowton
@@ -357,7 +378,7 @@ p_village_189|Želví kopec
 ; p_village_197|Greenberry
 ; p_village_198|Crackclaw Point
 ; p_village_199|Mallowcliff
-; p_village_200|Crow Spike Keep
+; p_village_200|Shatterstone
 ; p_village_201|Fieldstone
 ; p_village_202|Lambswold
 ; p_village_203|Fogfield
@@ -368,8 +389,22 @@ p_village_189|Želví kopec
 ; p_village_208|Lorassyon
 ; p_village_209|Glassmont
 ; p_village_210|Baywind
-; p_village_211|Aelhaven
-; p_village_212|Shadowwick
+; p_village_211|Blightmere
+; p_village_212|Blackbush
+; p_village_213|Ironriver
+; p_village_214|Eastwold
+; p_village_215|Black Ridge
+; p_village_216|Tornbridge
+; p_village_217|Nor's Mill
+; p_village_218|Hurwell
+; p_village_219|Alnor
+; p_village_220|Parchments
+; p_village_221|Pennyfield
+; p_village_222|Penmouth
+; p_village_223|Charmouth
+; p_village_224|Lyme Bay
+; p_village_225|White Quarry
+; p_village_226|Durlston
 ; p_salt_mine|Salt Mine
 ; p_four_ways_inn|Four Ways Inn
 ; p_test_scene|test scene
@@ -392,7 +427,7 @@ p_port_1|Přístav Králova přístaviště
 p_port_3|Přírodní přístaviště
 p_port_4|Přírodní přístaviště
 p_port_5|Přírodní přístaviště
-p_port_6|Přírodní přístaviště
+; p_port_6|Port of Dragonstone
 ; p_port_7|Port of Driftmark
 p_port_8|Přírodní přístaviště
 p_port_9|Přírodní přístaviště
@@ -413,7 +448,6 @@ p_port_23|Přístav Myru
 p_port_24|Přírodní přístaviště
 ; p_port_25|Port of Sisterton
 p_port_26|Přírodní přístaviště
-p_port_27|Přírodní přístaviště
 p_port_28|Přírodní přístaviště
 p_port_29|Přírodní přístaviště
 p_port_30|Přírodní přístaviště
@@ -421,7 +455,6 @@ p_port_30|Přírodní přístaviště
 p_port_32|Přírodní přístaviště
 p_port_33|Přírodní přístaviště
 p_port_34|Přírodní přístaviště
-p_port_35|Přírodní přístaviště
 p_port_36|Přírodní přístaviště
 p_port_37|Přírodní přístaviště
 ; p_port_38|Port of The Arbor
@@ -454,89 +487,9 @@ p_port_64|Přístav Solných plání
 ; p_port_65|Port of Maidenpool
 ; p_port_66|Port of Aquos Dhaen
 p_port_67|Přírodní přístaviště
-; p_battlemap_barrow_1|Barrow
-; p_battlemap_barrow_2|Barrow
-; p_battlemap_barrow_3|Barrow
-; p_battlemap_barrow_4|Barrow
-; p_battlemap_barrow_5|Barrow
-; p_battlemap_weirwood_north_1|Weirwood
-; p_battlemap_weirwood_north_2|Weirwood
-; p_battlemap_weirwood_north_3|Weirwood
-; p_battlemap_weirwood_north_4|Weirwood
-; p_battlemap_weirwood_north_5|Weirwood
-; p_battlemap_weirwood_north_6|Weirwood
-p_battlemap_westerlands_mine_1|Stříbrný důl
-p_battlemap_westerlands_mine_2|Stříbrný důl
-p_battlemap_westerlands_mine_3|Zlatý důl
-p_battlemap_westerlands_mine_4|Zlatý důl
-p_battlemap_westerlands_mine_5|Zlatý důl
-p_battlemap_lumber_camp_north_1|Dřevorubecký tábor
-p_battlemap_lumber_camp_north_2|Dřevorubecký tábor
-p_battlemap_lumber_camp_north_3|Dřevorubecký tábor
-p_battlemap_lumber_camp_north_4|Dřevorubecký tábor
-p_battlemap_lumber_camp_north_5|Dřevorubecký tábor
-p_battlemap_farmland_reach_1|Farmářské pole
-p_battlemap_farmland_reach_2|Farmářské pole
-p_battlemap_farmland_reach_3|Farmářské pole
-p_battlemap_farmland_reach_4|Farmářské pole
-p_battlemap_farmland_reach_5|Farmářské pole
-p_battlemap_farmland_reach_6|Farmářské pole
-p_battlemap_farmland_reach_7|Farmářské pole
-p_battlemap_farmland_reach_8|Farmářské pole
-; p_battlemap_orchard_essos_1|Orchard
-; p_battlemap_orchard_essos_2|Orchard
-; p_battlemap_orchard_essos_3|Orchard
-; p_battlemap_orchard_essos_4|Orchard
-; p_battlemap_orchard_essos_5|Orchard
-; p_battlemap_orchard_essos_6|Orchard
-; p_battlemap_orchard_essos_7|Orchard
-p_battlemap_ruined_fort_1|Zřícenina pevnosti
-p_battlemap_ruined_fort_2|Zřícenina pevnosti
-p_battlemap_ruined_fort_3|Zřícenina pevnosti
-p_battlemap_ruined_fort_4|Zřícenina pevnosti
-; p_battlemap_rhoynar_ruins_1|Rhoynar Ruins
-; p_battlemap_rhoynar_ruins_2|Rhoynar Ruins
-; p_battlemap_rhoynar_ruins_3|Rhoynar Ruins
-; p_battlemap_poleboat_1|Greenblood Rafts
-; p_battlemap_poleboat_2|Greenblood Rafts
-; p_battlemap_poleboat_3|Greenblood Rafts
-p_battlemap_old_mill_1|Starý mlýn
-p_battlemap_old_mill_2|Starý mlýn
-p_battlemap_old_mill_3|Starý mlýn
-p_battlemap_old_mill_4|Starý mlýn
-p_battlemap_old_mill_5|Starý mlýn
-p_battlemap_old_mill_6|Starý mlýn
-p_battlemap_old_mill_7|Starý mlýn
-p_battlemap_old_mill_8|Starý mlýn
-p_battlemap_old_mill_9|Starý mlýn
-; p_battlemap_forest_bog_1|Forest Bog
-; p_battlemap_forest_bog_2|Forest Bog
-; p_battlemap_forest_bog_3|Forest Bog
-; p_battlemap_forest_bog_4|Forest Bog
-; p_battlemap_forest_bog_5|Forest Bog
-; p_battlemap_forest_bog_6|Forest Bog
-; p_battlemap_forest_bog_7|Forest Bog
-; p_battlemap_forest_bog_8|Forest Bog
-; p_battlemap_forest_bog_9|Forest Bog
-; p_battlemap_forest_bog_10|Forest Bog
-; p_battlemap_forest_bog_11|Forest Bog
-; p_battlemap_forest_bog_12|Forest Bog
-; p_battlemap_forest_bog_13|Forest Bog
-; p_battlemap_forest_bog_14|Forest Bog
-p_battlemap_abandoned_village_1|Opuštěná vesnice
-p_battlemap_abandoned_village_2|Opuštěná vesnice
-p_battlemap_abandoned_village_3|Opuštěná vesnice
-p_battlemap_abandoned_village_4|Opuštěná vesnice
-p_battlemap_abandoned_village_5|Opuštěná vesnice
-p_battlemap_abandoned_village_6|Opuštěná vesnice
-p_battlemap_dothraki_sea_1|Opuštěná vesnice
-p_battlemap_dothraki_sea_2|Opuštěná vesnice
-p_battlemap_dothraki_sea_3|Opuštěná vesnice
-p_battlemap_dothraki_sea_4|Opuštěná vesnice
-p_battlemap_dothraki_sea_5|Opuštěná vesnice
-p_battlemap_dothraki_sea_6|Opuštěná vesnice
-p_battlemap_dothraki_sea_7|Opuštěná vesnice
-p_battlemap_dothraki_sea_8|Opuštěná vesnice
+; p_port_68|Natural Harbor
+; p_port_69|Natural Harbor
+; p_port_70|Natural Harbor
 ; p_rodgars_hut|Rodgars Hut
 ; p_relic_septry|Septry
 ; p_citadel_septry|Septry
@@ -546,10 +499,31 @@ p_battlemap_dothraki_sea_8|Opuštěná vesnice
 ; p_renly_quest_rainwood|The Rainwood
 p_isle_of_faces|Ostrov tváří
 p_saltpans_isles|Tichý ostrov
-; p_summerhall|Ruins of Summerhall
+; p_summerhall|Summerhall
 p_nunns_deep|Nunnina hlubina
 p_oldstones|Starokámen
 p_sorrows|Zármutek
+; p_vultures_roost|Vulture's Roost
+; p_hellgate_hall|Hellgate Hall
+; p_shandystone|Shandystone
+; p_maze|The Great Maze
+; p_inn_crossroads|The Crossroads Inn
+; p_inn_kneeling_man|Inn of the Kneeling Man
+; p_derring_downs|Derring Downs
+; p_weirwood|Weirwood
+; p_barrow|Barrow
+; p_morne|Morne
+; p_tarbeck_hall|Tarbeck Hall
+; p_castamere|Castamere
+; p_haunted_tower|The Haunted Tower
+; p_queenscrown|Queenscrown
+; p_harroway|Lord Harroway's Town
+; p_tumbledown_tower|Tumbledown Tower
+; p_wendish_town|Wendish Town
+; p_pendrick_hills|Pendrick Hills
+; p_old_stone_bridge|Old Stone Bridge Inn
+; p_howling_hill|Howling Hill
+; p_nightfort|Nightfort
 ; p_abandoned_holdfast|Abandoned Holdfast
 ; p_hillhall|Hillhall
 ; p_dragonmont|Sunken Ruins
@@ -579,7 +553,6 @@ p_dragonstone_village|Rybářská vesnice
 ; p_bridge_of_skulls|The Gorge
 p_wall_tunnel|Tunel
 ; p_water_gardens|The Water Gardens
-; p_nightfort|The Nightfort
 ; p_ninestars_1|Ninestars
 ; p_looter_spawn_point|looter spawnpoint
 ; p_steppe_bandit_spawn_point|dothraki spawnpoint
@@ -598,5 +571,4 @@ p_outlaws_spawn_point|spawn psanců
 ; p_elite_raiders_spawn_point|elite raiders spawnpoint
 ; p_elite_wildlings_spawn_point|elite wildlings spawnpoint
 ; p_elite_dothraki_spawn_point|elite dothraki spawnpoint
-; p_crannogmen|crannogmen
 ; p_desert_bandit_spawn_point|sandoutlaw spawnpoint

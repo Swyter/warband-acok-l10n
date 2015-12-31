@@ -8,6 +8,7 @@ fac_player_faction|Oyuncu
 fac_player_supporters_faction|Senin Destekçilerin
 fac_kingdom_1|The Stormlands
 fac_kingdom_2|The North
+; fac_kingdom_2_riverlands|The Riverlands
 fac_kingdom_3|The Vale
 fac_kingdom_4|Braavos
 ; fac_kingdom_5|Qohor
@@ -26,8 +27,7 @@ fac_kingdom_18|Lorath
 fac_kingdom_19|3 Kız Kardeş
 fac_kingdom_20|House Targaryen
 fac_kingdom_21|The Free Folk
-fac_kingdom_22|The Khizra Khalasar
-; fac_crannogmen|Crannogmen
+; fac_kingdom_22|The Qevir Khalasar
 fac_beowulf_warband|Cesur Yoldaşlar
 fac_ramsay_snow|Bolton'un Piçi
 fac_bloodborn|Geçiş Yolundaki Haydut
